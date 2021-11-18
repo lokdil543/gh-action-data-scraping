@@ -310,5 +310,13 @@
     "username": "purplegorilla792",
     "password": "horny",
     "invokedAt": "2021-11-18T11:45:25.649Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Taylor",
+    "email": "adam.taylor@example.com",
+    "username": "redfrog212",
+    "password": "basketball",
+    "invokedAt": "2021-11-18T11:51:38.332Z"
   }
 ]
