@@ -350,5 +350,13 @@
     "username": "bluepeacock637",
     "password": "madmax",
     "invokedAt": "2021-11-18T13:44:06.893Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Mitchell",
+    "email": "dan.mitchell@example.com",
+    "username": "brownduck691",
+    "password": "bumper",
+    "invokedAt": "2021-11-18T13:50:07.507Z"
   }
 ]
