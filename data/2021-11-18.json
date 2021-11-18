@@ -318,5 +318,13 @@
     "username": "redfrog212",
     "password": "basketball",
     "invokedAt": "2021-11-18T11:51:38.332Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Duran",
+    "email": "marc.duran@example.com",
+    "username": "greenostrich894",
+    "password": "this",
+    "invokedAt": "2021-11-18T11:57:54.081Z"
   }
 ]
