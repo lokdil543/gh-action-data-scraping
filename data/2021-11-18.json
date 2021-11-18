@@ -278,5 +278,13 @@
     "username": "crazyfrog667",
     "password": "party",
     "invokedAt": "2021-11-18T10:59:03.399Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Jordan",
+    "email": "claude.jordan@example.com",
+    "username": "greengorilla189",
+    "password": "traveler",
+    "invokedAt": "2021-11-18T11:26:14.195Z"
   }
 ]
