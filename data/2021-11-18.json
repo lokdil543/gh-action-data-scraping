@@ -270,5 +270,13 @@
     "username": "bluefrog394",
     "password": "pounded",
     "invokedAt": "2021-11-18T10:53:16.086Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Tucker",
+    "email": "brad.tucker@example.com",
+    "username": "crazyfrog667",
+    "password": "party",
+    "invokedAt": "2021-11-18T10:59:03.399Z"
   }
 ]
