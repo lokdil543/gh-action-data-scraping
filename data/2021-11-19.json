@@ -598,5 +598,13 @@
     "username": "redbird999",
     "password": "passme",
     "invokedAt": "2021-11-19T22:00:04.167Z"
+  },
+  {
+    "firstName": "Caroline",
+    "lastName": "Thomsen",
+    "email": "caroline.thomsen@example.com",
+    "username": "bluefrog325",
+    "password": "models",
+    "invokedAt": "2021-11-19T22:34:16.950Z"
   }
 ]
