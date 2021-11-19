@@ -414,5 +414,13 @@
     "username": "angryduck697",
     "password": "wilson",
     "invokedAt": "2021-11-19T15:58:09.802Z"
+  },
+  {
+    "firstName": "Afet",
+    "lastName": "Koç",
+    "email": "afet.koc@example.com",
+    "username": "redfrog802",
+    "password": "medical",
+    "invokedAt": "2021-11-19T17:03:17.964Z"
   }
 ]
