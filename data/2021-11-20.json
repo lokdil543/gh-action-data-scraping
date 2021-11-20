@@ -678,5 +678,13 @@
     "username": "redmeercat931",
     "password": "socrates",
     "invokedAt": "2021-11-20T23:30:22.236Z"
+  },
+  {
+    "firstName": "Carmen",
+    "lastName": "Ulvund",
+    "email": "carmen.ulvund@example.com",
+    "username": "brownlion711",
+    "password": "ajax",
+    "invokedAt": "2021-11-20T23:41:45.034Z"
   }
 ]
