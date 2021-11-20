@@ -606,5 +606,13 @@
     "username": "yellowdog432",
     "password": "pack",
     "invokedAt": "2021-11-20T21:26:15.252Z"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "Hernandez",
+    "email": "mariano.hernandez@example.com",
+    "username": "silverleopard242",
+    "password": "4ever",
+    "invokedAt": "2021-11-20T21:37:53.549Z"
   }
 ]
