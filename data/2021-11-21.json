@@ -518,5 +518,13 @@
     "username": "tinyduck205",
     "password": "ricky1",
     "invokedAt": "2021-11-21T19:20:27.571Z"
+  },
+  {
+    "firstName": "Savannah",
+    "lastName": "Zhang",
+    "email": "savannah.zhang@example.com",
+    "username": "whitedog160",
+    "password": "steelers",
+    "invokedAt": "2021-11-21T19:26:16.392Z"
   }
 ]
