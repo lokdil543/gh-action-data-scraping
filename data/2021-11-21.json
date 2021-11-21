@@ -494,5 +494,13 @@
     "username": "whitelion378",
     "password": "cornell",
     "invokedAt": "2021-11-21T18:38:45.901Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Møller",
+    "email": "victor.moller@example.com",
+    "username": "purplelion802",
+    "password": "spurs1",
+    "invokedAt": "2021-11-21T18:51:29.959Z"
   }
 ]
