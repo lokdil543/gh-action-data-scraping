@@ -478,5 +478,13 @@
     "username": "yellowdog816",
     "password": "secure",
     "invokedAt": "2021-11-21T17:52:53.050Z"
+  },
+  {
+    "firstName": "Veeti",
+    "lastName": "Tuomala",
+    "email": "veeti.tuomala@example.com",
+    "username": "goldencat314",
+    "password": "bulls",
+    "invokedAt": "2021-11-21T17:58:59.114Z"
   }
 ]
