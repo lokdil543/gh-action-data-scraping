@@ -270,5 +270,13 @@
     "username": "blackdog572",
     "password": "mets",
     "invokedAt": "2021-11-21T10:52:12.894Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Tuğluk",
+    "email": "ahmet.tugluk@example.com",
+    "username": "yellowduck725",
+    "password": "godfather",
+    "invokedAt": "2021-11-21T10:58:17.177Z"
   }
 ]
