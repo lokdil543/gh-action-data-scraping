@@ -422,5 +422,13 @@
     "username": "crazytiger406",
     "password": "brown1",
     "invokedAt": "2021-11-22T17:10:05.665Z"
+  },
+  {
+    "firstName": "Hélvio",
+    "lastName": "Porto",
+    "email": "helvio.porto@example.com",
+    "username": "orangecat341",
+    "password": "lexmark",
+    "invokedAt": "2021-11-22T17:46:11.223Z"
   }
 ]
