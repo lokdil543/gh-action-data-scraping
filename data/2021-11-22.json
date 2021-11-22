@@ -534,5 +534,13 @@
     "username": "heavycat577",
     "password": "spliff",
     "invokedAt": "2021-11-22T20:33:20.320Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Serrano",
+    "email": "ruben.serrano@example.com",
+    "username": "brownpanda888",
+    "password": "juan",
+    "invokedAt": "2021-11-22T20:43:57.323Z"
   }
 ]
