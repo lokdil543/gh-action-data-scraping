@@ -350,5 +350,13 @@
     "username": "smallmouse408",
     "password": "portland",
     "invokedAt": "2021-11-22T13:57:16.263Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Carr",
+    "email": "eduardo.carr@example.com",
+    "username": "bluebear571",
+    "password": "malone",
+    "invokedAt": "2021-11-22T14:29:01.405Z"
   }
 ]
