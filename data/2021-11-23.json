@@ -606,5 +606,13 @@
     "username": "silverrabbit894",
     "password": "tazz",
     "invokedAt": "2021-11-23T22:34:07.508Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Bouchard",
+    "email": "philippe.bouchard@example.com",
+    "username": "brownzebra900",
+    "password": "life",
+    "invokedAt": "2021-11-23T22:43:32.174Z"
   }
 ]
