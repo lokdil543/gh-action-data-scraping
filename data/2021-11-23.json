@@ -398,5 +398,13 @@
     "username": "heavykoala303",
     "password": "wordup",
     "invokedAt": "2021-11-23T15:52:46.420Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Roger",
+    "email": "paul.roger@example.com",
+    "username": "silvergoose111",
+    "password": "booker",
+    "invokedAt": "2021-11-23T15:58:32.609Z"
   }
 ]
