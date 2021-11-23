@@ -158,5 +158,13 @@
     "username": "whitefish379",
     "password": "zigzag",
     "invokedAt": "2021-11-23T07:49:28.012Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Koç",
+    "email": "ozkan.koc@example.com",
+    "username": "sadfish984",
+    "password": "gotham",
+    "invokedAt": "2021-11-23T07:55:31.196Z"
   }
 ]
