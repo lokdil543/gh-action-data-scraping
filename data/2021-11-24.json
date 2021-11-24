@@ -446,5 +446,13 @@
     "username": "heavydog364",
     "password": "davidson",
     "invokedAt": "2021-11-24T18:39:52.615Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Pedersen",
+    "email": "tobias.pedersen@example.com",
+    "username": "smallkoala337",
+    "password": "tucson",
+    "invokedAt": "2021-11-24T18:53:05.882Z"
   }
 ]
