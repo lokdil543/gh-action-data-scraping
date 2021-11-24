@@ -398,5 +398,13 @@
     "username": "happysnake937",
     "password": "british",
     "invokedAt": "2021-11-24T15:53:00.765Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Balaban",
+    "email": "babur.balaban@example.com",
+    "username": "happybird998",
+    "password": "hammer",
+    "invokedAt": "2021-11-24T15:58:45.459Z"
   }
 ]
