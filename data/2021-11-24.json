@@ -406,5 +406,13 @@
     "username": "happybird998",
     "password": "hammer",
     "invokedAt": "2021-11-24T15:58:45.459Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Da Silva",
+    "email": "peter.dasilva@example.com",
+    "username": "smallswan860",
+    "password": "vagabond",
+    "invokedAt": "2021-11-24T17:05:33.309Z"
   }
 ]
