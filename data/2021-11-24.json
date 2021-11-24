@@ -214,5 +214,13 @@
     "username": "angryduck624",
     "password": "gesperrt",
     "invokedAt": "2021-11-24T09:51:24.653Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Jørgensen",
+    "email": "maria.jorgensen@example.com",
+    "username": "greenmouse966",
+    "password": "mickey1",
+    "invokedAt": "2021-11-24T09:57:34.373Z"
   }
 ]
