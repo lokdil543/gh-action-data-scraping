@@ -622,5 +622,13 @@
     "username": "purplebird127",
     "password": "dutch",
     "invokedAt": "2021-11-25T23:30:57.451Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Fletcher",
+    "email": "sophie.fletcher@example.com",
+    "username": "yellowtiger434",
+    "password": "pepe",
+    "invokedAt": "2021-11-25T23:42:51.439Z"
   }
 ]
