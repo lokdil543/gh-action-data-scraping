@@ -30,5 +30,13 @@
     "username": "purpleostrich982",
     "password": "astros",
     "invokedAt": "2021-11-27T03:33:21.067Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Jones",
+    "email": "harry.jones@example.com",
+    "username": "yellowsnake987",
+    "password": "stream",
+    "invokedAt": "2021-11-27T03:45:58.260Z"
   }
 ]
