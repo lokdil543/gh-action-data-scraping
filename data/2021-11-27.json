@@ -214,5 +214,13 @@
     "username": "beautifulelephant479",
     "password": "store",
     "invokedAt": "2021-11-27T09:31:49.436Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Robertson",
+    "email": "carlos.robertson@example.com",
+    "username": "happyladybug113",
+    "password": "redwings",
+    "invokedAt": "2021-11-27T09:44:19.071Z"
   }
 ]
