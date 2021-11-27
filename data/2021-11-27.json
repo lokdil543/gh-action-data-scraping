@@ -246,5 +246,13 @@
     "username": "happymouse601",
     "password": "moneys",
     "invokedAt": "2021-11-27T10:35:27.202Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Dunn",
+    "email": "daniel.dunn@example.com",
+    "username": "blackswan212",
+    "password": "bigmoney",
+    "invokedAt": "2021-11-27T10:45:52.770Z"
   }
 ]
