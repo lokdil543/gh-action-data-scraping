@@ -478,5 +478,13 @@
     "username": "bluebird122",
     "password": "rollins",
     "invokedAt": "2021-11-27T18:38:39.219Z"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Fields",
+    "email": "russell.fields@example.com",
+    "username": "yellowpeacock294",
+    "password": "lobo",
+    "invokedAt": "2021-11-27T18:51:42.439Z"
   }
 ]
