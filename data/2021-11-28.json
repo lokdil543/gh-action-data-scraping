@@ -646,5 +646,13 @@
     "username": "yellowmouse683",
     "password": "jammer",
     "invokedAt": "2021-11-28T21:59:29.068Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Knight",
+    "email": "tristan.knight@example.com",
+    "username": "angryduck387",
+    "password": "dead",
+    "invokedAt": "2021-11-28T22:32:58.306Z"
   }
 ]
