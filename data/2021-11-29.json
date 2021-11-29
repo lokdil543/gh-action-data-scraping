@@ -246,5 +246,13 @@
     "username": "goldenmeercat145",
     "password": "gopher",
     "invokedAt": "2021-11-29T11:00:42.568Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Lambert",
+    "email": "todd.lambert@example.com",
+    "username": "smallcat321",
+    "password": "greens",
+    "invokedAt": "2021-11-29T11:27:10.570Z"
   }
 ]
