@@ -118,5 +118,13 @@
     "username": "crazyfish196",
     "password": "tottenham",
     "invokedAt": "2021-11-29T06:55:50.158Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Carlson",
+    "email": "alice.carlson@example.com",
+    "username": "organicfish241",
+    "password": "room",
+    "invokedAt": "2021-11-29T07:29:28.399Z"
   }
 ]
