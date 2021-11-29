@@ -422,5 +422,13 @@
     "username": "brownpanda350",
     "password": "bobo",
     "invokedAt": "2021-11-29T17:51:30.433Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Svensson",
+    "email": "tim.svensson@example.com",
+    "username": "redwolf522",
+    "password": "boobed",
+    "invokedAt": "2021-11-29T17:57:34.101Z"
   }
 ]
