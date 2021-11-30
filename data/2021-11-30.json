@@ -406,5 +406,13 @@
     "username": "brownmouse281",
     "password": "citizen",
     "invokedAt": "2021-11-30T10:59:28.101Z"
+  },
+  {
+    "firstName": "Camila",
+    "lastName": "Rose",
+    "email": "camila.rose@example.com",
+    "username": "whiteduck246",
+    "password": "2222222",
+    "invokedAt": "2021-11-30T11:19:37.326Z"
   }
 ]
