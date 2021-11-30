@@ -718,5 +718,13 @@
     "username": "silversnake192",
     "password": "222222",
     "invokedAt": "2021-11-30T19:56:26.543Z"
+  },
+  {
+    "firstName": "Saga",
+    "lastName": "Skogstad",
+    "email": "saga.skogstad@example.com",
+    "username": "blackduck278",
+    "password": "kikimora",
+    "invokedAt": "2021-11-30T20:32:59.744Z"
   }
 ]
