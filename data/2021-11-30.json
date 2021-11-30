@@ -734,5 +734,13 @@
     "username": "browngoose593",
     "password": "stevens",
     "invokedAt": "2021-11-30T20:44:39.579Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Dyb",
+    "email": "carl.dyb@example.com",
+    "username": "blackrabbit906",
+    "password": "custom",
+    "invokedAt": "2021-11-30T20:50:46.417Z"
   }
 ]
