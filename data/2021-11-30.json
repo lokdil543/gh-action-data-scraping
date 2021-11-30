@@ -342,5 +342,13 @@
     "username": "orangefish982",
     "password": "1701",
     "invokedAt": "2021-11-30T09:43:13.311Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Pelto",
+    "email": "kasper.pelto@example.com",
+    "username": "redfrog341",
+    "password": "rockford",
+    "invokedAt": "2021-11-30T09:49:30.869Z"
   }
 ]
