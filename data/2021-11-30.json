@@ -686,5 +686,13 @@
     "username": "angryostrich488",
     "password": "manolo",
     "invokedAt": "2021-11-30T19:31:24.997Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Clarke",
+    "email": "kate.clarke@example.com",
+    "username": "redzebra723",
+    "password": "sixpack",
+    "invokedAt": "2021-11-30T19:38:18.804Z"
   }
 ]
