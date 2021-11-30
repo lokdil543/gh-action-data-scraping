@@ -318,5 +318,13 @@
     "username": "whitebird602",
     "password": "gunnar",
     "invokedAt": "2021-11-30T09:25:24.406Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Kelley",
+    "email": "hunter.kelley@example.com",
+    "username": "orangecat757",
+    "password": "tbird",
+    "invokedAt": "2021-11-30T09:31:15.242Z"
   }
 ]
