@@ -726,5 +726,13 @@
     "username": "blackduck278",
     "password": "kikimora",
     "invokedAt": "2021-11-30T20:32:59.744Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Mercier",
+    "email": "brian.mercier@example.com",
+    "username": "browngoose593",
+    "password": "stevens",
+    "invokedAt": "2021-11-30T20:44:39.579Z"
   }
 ]
