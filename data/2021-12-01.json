@@ -302,5 +302,13 @@
     "username": "whitetiger215",
     "password": "tobias",
     "invokedAt": "2021-12-01T13:38:27.169Z"
+  },
+  {
+    "firstName": "Juno",
+    "lastName": "Ridder",
+    "email": "juno.ridder@example.com",
+    "username": "happyfrog375",
+    "password": "lookout",
+    "invokedAt": "2021-12-01T13:45:37.484Z"
   }
 ]
