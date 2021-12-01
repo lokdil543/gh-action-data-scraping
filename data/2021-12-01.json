@@ -606,5 +606,13 @@
     "username": "angrytiger921",
     "password": "street",
     "invokedAt": "2021-12-01T23:43:48.405Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Tüzün",
+    "email": "kadir.tuzun@example.com",
+    "username": "sadkoala439",
+    "password": "pimp",
+    "invokedAt": "2021-12-01T23:49:57.260Z"
   }
 ]
