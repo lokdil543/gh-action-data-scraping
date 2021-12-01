@@ -574,5 +574,13 @@
     "username": "blackcat789",
     "password": "isabella",
     "invokedAt": "2021-12-01T22:44:19.135Z"
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Nøkleby",
+    "email": "marina.nokleby@example.com",
+    "username": "bluebutterfly700",
+    "password": "fishhead",
+    "invokedAt": "2021-12-01T22:50:31.788Z"
   }
 ]
