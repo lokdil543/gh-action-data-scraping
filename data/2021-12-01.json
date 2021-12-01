@@ -238,5 +238,13 @@
     "username": "orangeswan425",
     "password": "chanel",
     "invokedAt": "2021-12-01T10:54:55.129Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Yalçın",
+    "email": "emre.yalcin@example.com",
+    "username": "greendog312",
+    "password": "simpsons",
+    "invokedAt": "2021-12-01T11:00:27.780Z"
   }
 ]
