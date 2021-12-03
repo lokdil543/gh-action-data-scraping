@@ -366,5 +366,13 @@
     "username": "happycat858",
     "password": "eclipse1",
     "invokedAt": "2021-12-03T14:53:19.613Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Jones",
+    "email": "emma.jones@example.com",
+    "username": "yellowbutterfly718",
+    "password": "lost",
+    "invokedAt": "2021-12-03T14:59:18.723Z"
   }
 ]
