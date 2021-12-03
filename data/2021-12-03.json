@@ -526,5 +526,13 @@
     "username": "beautifultiger344",
     "password": "gunnar",
     "invokedAt": "2021-12-03T20:44:32.566Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Taylor",
+    "email": "luca.taylor@example.com",
+    "username": "browngorilla900",
+    "password": "shogun",
+    "invokedAt": "2021-12-03T20:50:56.970Z"
   }
 ]
