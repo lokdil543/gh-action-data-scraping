@@ -622,5 +622,13 @@
     "username": "happybird657",
     "password": "kang",
     "invokedAt": "2021-12-03T23:31:34.370Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Baker",
+    "email": "ana.baker@example.com",
+    "username": "angrybird979",
+    "password": "1200",
+    "invokedAt": "2021-12-03T23:43:04.574Z"
   }
 ]
