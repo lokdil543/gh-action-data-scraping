@@ -342,5 +342,13 @@
     "username": "whitedog649",
     "password": "vanguard",
     "invokedAt": "2021-12-03T14:28:47.888Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Grewal",
+    "email": "antoine.grewal@example.com",
+    "username": "purpleostrich512",
+    "password": "rose",
+    "invokedAt": "2021-12-03T14:40:53.202Z"
   }
 ]
