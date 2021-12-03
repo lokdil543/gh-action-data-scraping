@@ -126,5 +126,13 @@
     "username": "bigostrich322",
     "password": "quebec",
     "invokedAt": "2021-12-03T07:29:08.682Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Koivisto",
+    "email": "amanda.koivisto@example.com",
+    "username": "angrycat912",
+    "password": "werner",
+    "invokedAt": "2021-12-03T07:39:18.812Z"
   }
 ]
