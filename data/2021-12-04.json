@@ -550,5 +550,13 @@
     "username": "greenbird833",
     "password": "vbnm",
     "invokedAt": "2021-12-04T21:49:14.823Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Guerrero",
+    "email": "carlos.guerrero@example.com",
+    "username": "redrabbit723",
+    "password": "shadow1",
+    "invokedAt": "2021-12-04T21:55:13.776Z"
   }
 ]
