@@ -486,5 +486,13 @@
     "username": "brownlion128",
     "password": "highway",
     "invokedAt": "2021-12-04T19:54:20.680Z"
+  },
+  {
+    "firstName": "Nerea",
+    "lastName": "Perez",
+    "email": "nerea.perez@example.com",
+    "username": "brownbutterfly800",
+    "password": "nancy",
+    "invokedAt": "2021-12-04T20:00:25.819Z"
   }
 ]
