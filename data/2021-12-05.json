@@ -254,5 +254,13 @@
     "username": "beautifulswan561",
     "password": "mongoose",
     "invokedAt": "2021-12-05T11:32:02.685Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Cooper",
+    "email": "brad.cooper@example.com",
+    "username": "yellowfish979",
+    "password": "respect",
+    "invokedAt": "2021-12-05T11:37:53.761Z"
   }
 ]
