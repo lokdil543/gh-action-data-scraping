@@ -614,5 +614,13 @@
     "username": "happyduck219",
     "password": "hook",
     "invokedAt": "2021-12-05T23:31:01.732Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Powell",
+    "email": "cassandra.powell@example.com",
+    "username": "crazyfish597",
+    "password": "redline",
+    "invokedAt": "2021-12-05T23:42:46.666Z"
   }
 ]
