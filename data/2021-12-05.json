@@ -270,5 +270,13 @@
     "username": "whitekoala377",
     "password": "bball",
     "invokedAt": "2021-12-05T11:44:01.620Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Garcia",
+    "email": "joe.garcia@example.com",
+    "username": "blackfish215",
+    "password": "channel",
+    "invokedAt": "2021-12-05T11:50:17.401Z"
   }
 ]
