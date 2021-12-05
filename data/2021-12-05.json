@@ -462,5 +462,13 @@
     "username": "greenpeacock486",
     "password": "audia4",
     "invokedAt": "2021-12-05T19:26:54.593Z"
+  },
+  {
+    "firstName": "Job",
+    "lastName": "da Luz",
+    "email": "job.daluz@example.com",
+    "username": "happymouse278",
+    "password": "smurf",
+    "invokedAt": "2021-12-05T19:34:42.629Z"
   }
 ]
