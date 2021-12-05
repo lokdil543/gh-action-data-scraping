@@ -534,5 +534,13 @@
     "username": "redcat789",
     "password": "bangkok",
     "invokedAt": "2021-12-05T20:55:35.535Z"
+  },
+  {
+    "firstName": "Ingmar",
+    "lastName": "Tischer",
+    "email": "ingmar.tischer@example.com",
+    "username": "orangemouse568",
+    "password": "tiger",
+    "invokedAt": "2021-12-05T21:27:11.608Z"
   }
 ]
