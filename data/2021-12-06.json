@@ -254,5 +254,13 @@
     "username": "beautifulsnake877",
     "password": "earthlink",
     "invokedAt": "2021-12-06T11:35:12.103Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Watson",
+    "email": "tom.watson@example.com",
+    "username": "whitewolf361",
+    "password": "hollywood",
+    "invokedAt": "2021-12-06T11:40:56.430Z"
   }
 ]
