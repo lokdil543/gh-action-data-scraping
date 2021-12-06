@@ -326,5 +326,13 @@
     "username": "bluemouse485",
     "password": "pointer",
     "invokedAt": "2021-12-06T13:59:04.148Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Roy",
+    "email": "elliot.roy@example.com",
+    "username": "brownsnake585",
+    "password": "pippin",
+    "invokedAt": "2021-12-06T14:30:02.116Z"
   }
 ]
