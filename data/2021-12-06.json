@@ -518,5 +518,13 @@
     "username": "redmeercat107",
     "password": "misfit",
     "invokedAt": "2021-12-06T19:55:01.213Z"
+  },
+  {
+    "firstName": "Phoenix",
+    "lastName": "Jackson",
+    "email": "phoenix.jackson@example.com",
+    "username": "whitedog451",
+    "password": "sinner",
+    "invokedAt": "2021-12-06T20:35:50.280Z"
   }
 ]
