@@ -430,5 +430,13 @@
     "username": "silverpanda546",
     "password": "chemical",
     "invokedAt": "2021-12-06T17:50:33.906Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Mortensen",
+    "email": "nikolaj.mortensen@example.com",
+    "username": "greenduck959",
+    "password": "spunk",
+    "invokedAt": "2021-12-06T17:56:44.196Z"
   }
 ]
