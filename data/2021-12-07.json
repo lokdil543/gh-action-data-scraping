@@ -222,5 +222,13 @@
     "username": "sadbear919",
     "password": "running",
     "invokedAt": "2021-12-07T11:30:30.072Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Petersen",
+    "email": "jeppe.petersen@example.com",
+    "username": "crazybutterfly232",
+    "password": "cooter",
+    "invokedAt": "2021-12-07T11:41:35.195Z"
   }
 ]
