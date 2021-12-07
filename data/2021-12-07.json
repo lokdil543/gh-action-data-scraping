@@ -382,5 +382,13 @@
     "username": "tinybird517",
     "password": "balloons",
     "invokedAt": "2021-12-07T19:22:41.946Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Gordon",
+    "email": "brad.gordon@example.com",
+    "username": "whitefish183",
+    "password": "boomer1",
+    "invokedAt": "2021-12-07T19:28:27.719Z"
   }
 ]
