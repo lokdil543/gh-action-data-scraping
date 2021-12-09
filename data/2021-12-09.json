@@ -454,5 +454,13 @@
     "username": "whiteostrich866",
     "password": "spurs",
     "invokedAt": "2021-12-09T19:07:52.244Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Erez",
+    "email": "kenan.erez@example.com",
+    "username": "purpledog631",
+    "password": "stingray",
+    "invokedAt": "2021-12-09T19:20:22.633Z"
   }
 ]
