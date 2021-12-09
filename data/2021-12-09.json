@@ -574,5 +574,13 @@
     "username": "ticklishbear525",
     "password": "aquarius",
     "invokedAt": "2021-12-09T21:23:45.705Z"
+  },
+  {
+    "firstName": "Merlyn",
+    "lastName": "Van Vlaanderen",
+    "email": "merlyn.vanvlaanderen@example.com",
+    "username": "bigmouse112",
+    "password": "pumper",
+    "invokedAt": "2021-12-09T21:32:55.880Z"
   }
 ]
