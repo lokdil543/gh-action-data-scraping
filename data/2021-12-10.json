@@ -766,5 +766,13 @@
     "username": "orangeelephant200",
     "password": "keith",
     "invokedAt": "2021-12-10T20:06:19.843Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Roger",
+    "email": "ahmet.roger@example.com",
+    "username": "bluedog720",
+    "password": "remote",
+    "invokedAt": "2021-12-10T20:26:07.675Z"
   }
 ]
