@@ -814,5 +814,13 @@
     "username": "greenfish800",
     "password": "maddog",
     "invokedAt": "2021-12-10T21:05:09.738Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Webb",
+    "email": "arnold.webb@example.com",
+    "username": "beautifulzebra183",
+    "password": "buffalo",
+    "invokedAt": "2021-12-10T21:20:51.616Z"
   }
 ]
