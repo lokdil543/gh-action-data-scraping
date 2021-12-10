@@ -390,5 +390,13 @@
     "username": "lazymouse274",
     "password": "platypus",
     "invokedAt": "2021-12-10T10:57:00.659Z"
+  },
+  {
+    "firstName": "Ryder",
+    "lastName": "Miller",
+    "email": "ryder.miller@example.com",
+    "username": "whitesnake138",
+    "password": "coolness",
+    "invokedAt": "2021-12-10T11:08:02.832Z"
   }
 ]
