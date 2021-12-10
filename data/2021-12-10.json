@@ -934,5 +934,13 @@
     "username": "happyostrich859",
     "password": "stolen",
     "invokedAt": "2021-12-10T23:34:17.741Z"
+  },
+  {
+    "firstName": "Eleonora",
+    "lastName": "Roger",
+    "email": "eleonora.roger@example.com",
+    "username": "angrymeercat440",
+    "password": "phish1",
+    "invokedAt": "2021-12-10T23:42:42.834Z"
   }
 ]
