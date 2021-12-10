@@ -238,5 +238,13 @@
     "username": "browndog225",
     "password": "smoking",
     "invokedAt": "2021-12-10T07:41:40.499Z"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Watson",
+    "email": "kevin.watson@example.com",
+    "username": "greenfrog775",
+    "password": "crave",
+    "invokedAt": "2021-12-10T07:47:42.785Z"
   }
 ]
