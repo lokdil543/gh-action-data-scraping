@@ -662,5 +662,13 @@
     "username": "greenwolf499",
     "password": "drums",
     "invokedAt": "2021-12-10T18:00:24.044Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Fournier",
+    "email": "nina.fournier@example.com",
+    "username": "blacktiger901",
+    "password": "bunny1",
+    "invokedAt": "2021-12-10T18:20:12.700Z"
   }
 ]
