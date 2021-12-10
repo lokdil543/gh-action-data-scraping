@@ -622,5 +622,13 @@
     "username": "brownpeacock186",
     "password": "1234abcd",
     "invokedAt": "2021-12-10T16:57:47.982Z"
+  },
+  {
+    "firstName": "Oya",
+    "lastName": "Tuğluk",
+    "email": "oya.tugluk@example.com",
+    "username": "blackfrog322",
+    "password": "nutmeg",
+    "invokedAt": "2021-12-10T17:18:16.734Z"
   }
 ]
