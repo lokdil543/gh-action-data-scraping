@@ -358,5 +358,13 @@
     "username": "happyswan815",
     "password": "sooners",
     "invokedAt": "2021-12-11T10:10:33.628Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Nielsen",
+    "email": "nanna.nielsen@example.com",
+    "username": "happysnake983",
+    "password": "comics",
+    "invokedAt": "2021-12-11T10:29:47.501Z"
   }
 ]
