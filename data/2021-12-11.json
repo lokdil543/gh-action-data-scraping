@@ -342,5 +342,13 @@
     "username": "goldensnake207",
     "password": "toto",
     "invokedAt": "2021-12-11T09:51:33.231Z"
+  },
+  {
+    "firstName": "Paola",
+    "lastName": "Castro",
+    "email": "paola.castro@example.com",
+    "username": "ticklishkoala692",
+    "password": "pudding",
+    "invokedAt": "2021-12-11T09:57:35.578Z"
   }
 ]
