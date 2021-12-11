@@ -446,5 +446,13 @@
     "username": "blackbear893",
     "password": "skiing",
     "invokedAt": "2021-12-11T11:49:06.035Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Johnson",
+    "email": "jeremy.johnson@example.com",
+    "username": "orangebear505",
+    "password": "r2d2",
+    "invokedAt": "2021-12-11T11:54:15.029Z"
   }
 ]
