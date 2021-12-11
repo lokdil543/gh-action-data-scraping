@@ -814,5 +814,13 @@
     "username": "redsnake104",
     "password": "poontang",
     "invokedAt": "2021-12-11T20:35:25.818Z"
+  },
+  {
+    "firstName": "Viviane",
+    "lastName": "Aragão",
+    "email": "viviane.aragao@example.com",
+    "username": "browngoose201",
+    "password": "custom",
+    "invokedAt": "2021-12-11T20:43:01.588Z"
   }
 ]
