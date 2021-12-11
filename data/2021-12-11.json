@@ -422,5 +422,13 @@
     "username": "redgoose165",
     "password": "climber",
     "invokedAt": "2021-12-11T11:30:28.256Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Wong",
+    "email": "jade.wong@example.com",
+    "username": "blackleopard874",
+    "password": "vision",
+    "invokedAt": "2021-12-11T11:36:21.405Z"
   }
 ]
