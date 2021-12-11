@@ -438,5 +438,13 @@
     "username": "bigpeacock211",
     "password": "predator",
     "invokedAt": "2021-12-11T11:42:07.814Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Petersen",
+    "email": "anton.petersen@example.com",
+    "username": "blackbear893",
+    "password": "skiing",
+    "invokedAt": "2021-12-11T11:49:06.035Z"
   }
 ]
