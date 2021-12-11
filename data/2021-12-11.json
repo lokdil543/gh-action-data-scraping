@@ -558,5 +558,13 @@
     "username": "brownsnake873",
     "password": "fire",
     "invokedAt": "2021-12-11T14:37:06.005Z"
+  },
+  {
+    "firstName": "Ellis",
+    "lastName": "Van der Flier",
+    "email": "ellis.vanderflier@example.com",
+    "username": "bluecat239",
+    "password": "flyers",
+    "invokedAt": "2021-12-11T14:43:16.005Z"
   }
 ]
