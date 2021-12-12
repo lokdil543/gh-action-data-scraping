@@ -254,5 +254,13 @@
     "username": "happyleopard938",
     "password": "gasman",
     "invokedAt": "2021-12-12T07:50:30.848Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Bishop",
+    "email": "neil.bishop@example.com",
+    "username": "crazyleopard371",
+    "password": "1973",
+    "invokedAt": "2021-12-12T07:56:42.968Z"
   }
 ]
