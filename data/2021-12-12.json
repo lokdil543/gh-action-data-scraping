@@ -526,5 +526,13 @@
     "username": "orangefish472",
     "password": "lonestar",
     "invokedAt": "2021-12-12T13:56:13.050Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Mills",
+    "email": "donald.mills@example.com",
+    "username": "yellowfrog214",
+    "password": "groups",
+    "invokedAt": "2021-12-12T14:06:19.938Z"
   }
 ]
