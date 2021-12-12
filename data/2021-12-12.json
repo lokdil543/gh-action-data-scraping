@@ -966,5 +966,13 @@
     "username": "orangebear555",
     "password": "marshall",
     "invokedAt": "2021-12-12T23:30:55.157Z"
+  },
+  {
+    "firstName": "Isobel",
+    "lastName": "Smith",
+    "email": "isobel.smith@example.com",
+    "username": "bluebear728",
+    "password": "internet",
+    "invokedAt": "2021-12-12T23:39:53.169Z"
   }
 ]
