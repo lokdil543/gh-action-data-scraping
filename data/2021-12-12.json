@@ -886,5 +886,13 @@
     "username": "blackbear103",
     "password": "sauron",
     "invokedAt": "2021-12-12T21:50:35.438Z"
+  },
+  {
+    "firstName": "Kaspar",
+    "lastName": "Janßen",
+    "email": "kaspar.janssen@example.com",
+    "username": "crazysnake117",
+    "password": "megaman",
+    "invokedAt": "2021-12-12T21:56:29.848Z"
   }
 ]
