@@ -854,5 +854,13 @@
     "username": "bigbear672",
     "password": "clover",
     "invokedAt": "2021-12-12T21:21:17.743Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Perez",
+    "email": "rosa.perez@example.com",
+    "username": "angrysnake944",
+    "password": "sunday",
+    "invokedAt": "2021-12-12T21:30:54.678Z"
   }
 ]
