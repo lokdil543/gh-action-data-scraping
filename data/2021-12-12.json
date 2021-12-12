@@ -214,5 +214,13 @@
     "username": "whitepeacock881",
     "password": "series",
     "invokedAt": "2021-12-12T07:10:25.851Z"
+  },
+  {
+    "firstName": "Gaëtan",
+    "lastName": "Dufour",
+    "email": "gaetan.dufour@example.com",
+    "username": "orangemouse690",
+    "password": "pumpkins",
+    "invokedAt": "2021-12-12T07:25:01.015Z"
   }
 ]
