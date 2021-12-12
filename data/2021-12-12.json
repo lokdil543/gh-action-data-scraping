@@ -718,5 +718,13 @@
     "username": "happyostrich631",
     "password": "showing",
     "invokedAt": "2021-12-12T18:53:05.452Z"
+  },
+  {
+    "firstName": "Noémie",
+    "lastName": "Thompson",
+    "email": "noemie.thompson@example.com",
+    "username": "smalldog143",
+    "password": "figaro",
+    "invokedAt": "2021-12-12T18:59:00.087Z"
   }
 ]
