@@ -462,5 +462,13 @@
     "username": "bigkoala312",
     "password": "joejoe",
     "invokedAt": "2021-12-12T11:59:34.895Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Sirko",
+    "email": "harper.sirko@example.com",
+    "username": "smallbird361",
+    "password": "beta",
+    "invokedAt": "2021-12-12T12:23:13.533Z"
   }
 ]
