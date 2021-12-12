@@ -422,5 +422,13 @@
     "username": "silverzebra526",
     "password": "serenity",
     "invokedAt": "2021-12-12T11:29:03.036Z"
+  },
+  {
+    "firstName": "Hans-Hermann",
+    "lastName": "Noll",
+    "email": "hans-hermann.noll@example.com",
+    "username": "blackzebra236",
+    "password": "&amp",
+    "invokedAt": "2021-12-12T11:35:20.831Z"
   }
 ]
