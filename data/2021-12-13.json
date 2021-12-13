@@ -662,5 +662,13 @@
     "username": "bigladybug259",
     "password": "323232",
     "invokedAt": "2021-12-13T18:13:55.047Z"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Davies",
+    "email": "elizabeth.davies@example.com",
+    "username": "ticklishfish320",
+    "password": "internal",
+    "invokedAt": "2021-12-13T18:33:43.917Z"
   }
 ]
