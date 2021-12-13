@@ -310,5 +310,13 @@
     "username": "angrycat476",
     "password": "mortgage",
     "invokedAt": "2021-12-13T09:30:47.456Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Barnaby",
+    "email": "alexandre.barnaby@example.com",
+    "username": "goldenmouse633",
+    "password": "crusty",
+    "invokedAt": "2021-12-13T09:41:44.814Z"
   }
 ]
