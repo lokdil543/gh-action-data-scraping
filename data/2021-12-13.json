@@ -278,5 +278,13 @@
     "username": "greendog552",
     "password": "foot",
     "invokedAt": "2021-12-13T08:47:07.016Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Reyes",
+    "email": "cathy.reyes@example.com",
+    "username": "ticklishfish135",
+    "password": "electron",
+    "invokedAt": "2021-12-13T08:53:01.144Z"
   }
 ]
