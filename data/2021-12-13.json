@@ -910,5 +910,13 @@
     "username": "silverladybug869",
     "password": "banshee",
     "invokedAt": "2021-12-13T22:52:44.253Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Laitinen",
+    "email": "anton.laitinen@example.com",
+    "username": "bigbear626",
+    "password": "native",
+    "invokedAt": "2021-12-13T22:58:34.678Z"
   }
 ]
