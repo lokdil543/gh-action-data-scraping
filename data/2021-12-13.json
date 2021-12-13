@@ -270,5 +270,13 @@
     "username": "brownmeercat848",
     "password": "boat",
     "invokedAt": "2021-12-13T08:34:55.713Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Pierre",
+    "email": "sebastian.pierre@example.com",
+    "username": "greendog552",
+    "password": "foot",
+    "invokedAt": "2021-12-13T08:47:07.016Z"
   }
 ]
