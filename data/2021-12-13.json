@@ -430,5 +430,13 @@
     "username": "blueelephant688",
     "password": "attack",
     "invokedAt": "2021-12-13T11:48:50.003Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Andersen",
+    "email": "hunter.andersen@example.com",
+    "username": "blackgoose402",
+    "password": "kinky",
+    "invokedAt": "2021-12-13T11:54:37.825Z"
   }
 ]
