@@ -886,5 +886,13 @@
     "username": "silvergoose208",
     "password": "apple1",
     "invokedAt": "2021-12-13T22:33:31.693Z"
+  },
+  {
+    "firstName": "Raimundo",
+    "lastName": "Nogueira",
+    "email": "raimundo.nogueira@example.com",
+    "username": "purpleduck194",
+    "password": "instant",
+    "invokedAt": "2021-12-13T22:40:29.604Z"
   }
 ]
