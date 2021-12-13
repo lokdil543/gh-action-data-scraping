@@ -342,5 +342,13 @@
     "username": "bluekoala525",
     "password": "october",
     "invokedAt": "2021-12-13T10:00:13.179Z"
+  },
+  {
+    "firstName": "Christos",
+    "lastName": "Breidenbach",
+    "email": "christos.breidenbach@example.com",
+    "username": "brownzebra725",
+    "password": "jolly",
+    "invokedAt": "2021-12-13T10:17:58.880Z"
   }
 ]
