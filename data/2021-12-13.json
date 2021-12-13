@@ -422,5 +422,13 @@
     "username": "whiteswan510",
     "password": "sinclair",
     "invokedAt": "2021-12-13T11:42:42.872Z"
+  },
+  {
+    "firstName": "Antero",
+    "lastName": "Monteiro",
+    "email": "antero.monteiro@example.com",
+    "username": "blueelephant688",
+    "password": "attack",
+    "invokedAt": "2021-12-13T11:48:50.003Z"
   }
 ]
