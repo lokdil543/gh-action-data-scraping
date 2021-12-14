@@ -494,5 +494,13 @@
     "username": "goldenpanda829",
     "password": "jello",
     "invokedAt": "2021-12-14T13:45:36.048Z"
+  },
+  {
+    "firstName": "Georgette",
+    "lastName": "Menard",
+    "email": "georgette.menard@example.com",
+    "username": "brownpanda978",
+    "password": "unknown",
+    "invokedAt": "2021-12-14T13:51:24.682Z"
   }
 ]
