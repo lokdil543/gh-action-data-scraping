@@ -102,5 +102,13 @@
     "username": "angrytiger556",
     "password": "running",
     "invokedAt": "2021-12-14T04:43:45.126Z"
+  },
+  {
+    "firstName": "Angel",
+    "lastName": "Harper",
+    "email": "angel.harper@example.com",
+    "username": "angryduck429",
+    "password": "helper",
+    "invokedAt": "2021-12-14T04:57:10.914Z"
   }
 ]
