@@ -310,5 +310,13 @@
     "username": "purplefrog884",
     "password": "wibble",
     "invokedAt": "2021-12-14T09:22:05.987Z"
+  },
+  {
+    "firstName": "Lutz",
+    "lastName": "Buchmann",
+    "email": "lutz.buchmann@example.com",
+    "username": "sadwolf765",
+    "password": "barbados",
+    "invokedAt": "2021-12-14T09:34:49.849Z"
   }
 ]
