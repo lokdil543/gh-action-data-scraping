@@ -662,5 +662,13 @@
     "username": "bluegorilla140",
     "password": "connect",
     "invokedAt": "2021-12-14T17:53:29.739Z"
+  },
+  {
+    "firstName": "Yanis",
+    "lastName": "Giraud",
+    "email": "yanis.giraud@example.com",
+    "username": "brownsnake347",
+    "password": "elliot",
+    "invokedAt": "2021-12-14T17:59:29.681Z"
   }
 ]
