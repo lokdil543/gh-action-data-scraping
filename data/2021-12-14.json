@@ -478,5 +478,13 @@
     "username": "bigsnake803",
     "password": "visual",
     "invokedAt": "2021-12-14T13:28:55.906Z"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Perrin",
+    "email": "morgan.perrin@example.com",
+    "username": "bigrabbit422",
+    "password": "smeller",
+    "invokedAt": "2021-12-14T13:39:43.863Z"
   }
 ]
