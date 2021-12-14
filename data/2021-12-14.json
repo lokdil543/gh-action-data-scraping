@@ -830,5 +830,13 @@
     "username": "greencat997",
     "password": "macross",
     "invokedAt": "2021-12-14T21:19:10.870Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Hansen",
+    "email": "emil.hansen@example.com",
+    "username": "redduck696",
+    "password": "zippy",
+    "invokedAt": "2021-12-14T21:28:50.970Z"
   }
 ]
