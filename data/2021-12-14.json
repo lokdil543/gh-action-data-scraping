@@ -502,5 +502,13 @@
     "username": "brownpanda978",
     "password": "unknown",
     "invokedAt": "2021-12-14T13:51:24.682Z"
+  },
+  {
+    "firstName": "Thibault",
+    "lastName": "Leclercq",
+    "email": "thibault.leclercq@example.com",
+    "username": "organicfrog419",
+    "password": "fishing",
+    "invokedAt": "2021-12-14T13:57:20.827Z"
   }
 ]
