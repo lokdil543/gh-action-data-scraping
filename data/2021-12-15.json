@@ -446,5 +446,13 @@
     "username": "heavyduck382",
     "password": "katie",
     "invokedAt": "2021-12-15T12:00:18.704Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Numanoğlu",
+    "email": "onal.numanoglu@example.com",
+    "username": "happydog277",
+    "password": "munich",
+    "invokedAt": "2021-12-15T12:27:14.327Z"
   }
 ]
