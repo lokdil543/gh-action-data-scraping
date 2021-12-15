@@ -934,5 +934,13 @@
     "username": "orangebear161",
     "password": "navy",
     "invokedAt": "2021-12-15T23:53:48.963Z"
+  },
+  {
+    "firstName": "Aune",
+    "lastName": "Leirvåg",
+    "email": "aune.leirvag@example.com",
+    "username": "smallduck560",
+    "password": "anton",
+    "invokedAt": "2021-12-15T23:59:44.393Z"
   }
 ]
