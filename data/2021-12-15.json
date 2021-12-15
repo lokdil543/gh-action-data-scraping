@@ -870,5 +870,13 @@
     "username": "lazytiger858",
     "password": "zulu",
     "invokedAt": "2021-12-15T22:43:03.942Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Hopkins",
+    "email": "lauren.hopkins@example.com",
+    "username": "goldenduck299",
+    "password": "unique",
+    "invokedAt": "2021-12-15T22:48:56.495Z"
   }
 ]
