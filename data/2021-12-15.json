@@ -422,5 +422,13 @@
     "username": "yellowbutterfly888",
     "password": "braves",
     "invokedAt": "2021-12-15T11:42:10.741Z"
+  },
+  {
+    "firstName": "Grégoire",
+    "lastName": "Fournier",
+    "email": "gregoire.fournier@example.com",
+    "username": "bluedog630",
+    "password": "test1",
+    "invokedAt": "2021-12-15T11:48:02.000Z"
   }
 ]
