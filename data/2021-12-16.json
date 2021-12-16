@@ -702,5 +702,13 @@
     "username": "yellowleopard952",
     "password": "jefferso",
     "invokedAt": "2021-12-16T19:19:30.707Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Leclercq",
+    "email": "antoine.leclercq@example.com",
+    "username": "whitemeercat186",
+    "password": "mailman",
+    "invokedAt": "2021-12-16T19:25:20.903Z"
   }
 ]
