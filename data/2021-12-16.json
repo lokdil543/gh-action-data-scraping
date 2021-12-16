@@ -750,5 +750,13 @@
     "username": "lazygoose247",
     "password": "striker",
     "invokedAt": "2021-12-16T19:56:42.255Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Aalto",
+    "email": "matias.aalto@example.com",
+    "username": "sadladybug773",
+    "password": "juan",
+    "invokedAt": "2021-12-16T20:08:49.776Z"
   }
 ]
