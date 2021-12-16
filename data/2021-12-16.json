@@ -710,5 +710,13 @@
     "username": "whitemeercat186",
     "password": "mailman",
     "invokedAt": "2021-12-16T19:25:20.903Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Jensen",
+    "email": "julie.jensen@example.com",
+    "username": "greengoose237",
+    "password": "zang",
+    "invokedAt": "2021-12-16T19:31:43.048Z"
   }
 ]
