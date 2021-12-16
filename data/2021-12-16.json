@@ -454,5 +454,13 @@
     "username": "bluekoala495",
     "password": "guess",
     "invokedAt": "2021-12-16T12:07:49.733Z"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Giraud",
+    "email": "nora.giraud@example.com",
+    "username": "silverfrog320",
+    "password": "little1",
+    "invokedAt": "2021-12-16T12:41:41.001Z"
   }
 ]
