@@ -382,5 +382,13 @@
     "username": "goldendog536",
     "password": "kimberly",
     "invokedAt": "2021-12-16T10:51:59.531Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Jones",
+    "email": "linda.jones@example.com",
+    "username": "orangemouse206",
+    "password": "groovy",
+    "invokedAt": "2021-12-16T10:57:47.871Z"
   }
 ]
