@@ -246,5 +246,13 @@
     "username": "biggoose995",
     "password": "escape",
     "invokedAt": "2021-12-16T07:51:46.466Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Stevens",
+    "email": "alex.stevens@example.com",
+    "username": "silverswan504",
+    "password": "army",
+    "invokedAt": "2021-12-16T07:57:59.119Z"
   }
 ]
