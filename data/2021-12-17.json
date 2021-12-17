@@ -862,5 +862,13 @@
     "username": "orangemeercat968",
     "password": "magnum",
     "invokedAt": "2021-12-17T21:47:17.345Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Shaw",
+    "email": "patrick.shaw@example.com",
+    "username": "heavygorilla594",
+    "password": "computer",
+    "invokedAt": "2021-12-17T21:53:27.896Z"
   }
 ]
