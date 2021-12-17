@@ -550,5 +550,13 @@
     "username": "purpleleopard882",
     "password": "jump",
     "invokedAt": "2021-12-17T14:45:41.415Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Bergeron",
+    "email": "vincent.bergeron@example.com",
+    "username": "goldenbear208",
+    "password": "donuts",
+    "invokedAt": "2021-12-17T14:51:53.367Z"
   }
 ]
