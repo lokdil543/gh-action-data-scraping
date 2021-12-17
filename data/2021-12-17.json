@@ -574,5 +574,13 @@
     "username": "crazydog914",
     "password": "master1",
     "invokedAt": "2021-12-17T15:12:05.202Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Martin",
+    "email": "david.martin@example.com",
+    "username": "lazybutterfly547",
+    "password": "topdog",
+    "invokedAt": "2021-12-17T15:31:43.781Z"
   }
 ]
