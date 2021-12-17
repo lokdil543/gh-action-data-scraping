@@ -262,5 +262,13 @@
     "username": "bigfish792",
     "password": "room",
     "invokedAt": "2021-12-17T08:13:08.021Z"
+  },
+  {
+    "firstName": "Florent",
+    "lastName": "Perrin",
+    "email": "florent.perrin@example.com",
+    "username": "blackfrog363",
+    "password": "shaved",
+    "invokedAt": "2021-12-17T08:34:28.650Z"
   }
 ]
