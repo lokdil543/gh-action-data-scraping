@@ -398,5 +398,13 @@
     "username": "silverbutterfly535",
     "password": "freeze",
     "invokedAt": "2021-12-17T11:18:02.001Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Christensen",
+    "email": "sander.christensen@example.com",
+    "username": "beautifulostrich812",
+    "password": "2001",
+    "invokedAt": "2021-12-17T11:26:48.581Z"
   }
 ]
