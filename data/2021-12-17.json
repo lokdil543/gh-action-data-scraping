@@ -422,5 +422,13 @@
     "username": "silverfish541",
     "password": "dogg",
     "invokedAt": "2021-12-17T11:38:59.031Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Jimenez",
+    "email": "sergio.jimenez@example.com",
+    "username": "tinycat207",
+    "password": "kill",
+    "invokedAt": "2021-12-17T11:45:07.077Z"
   }
 ]
