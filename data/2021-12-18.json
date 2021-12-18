@@ -494,5 +494,13 @@
     "username": "yellowzebra183",
     "password": "death",
     "invokedAt": "2021-12-18T13:56:29.728Z"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "Torres",
+    "email": "mariano.torres@example.com",
+    "username": "heavybird103",
+    "password": "marlon",
+    "invokedAt": "2021-12-18T14:06:34.623Z"
   }
 ]
