@@ -886,5 +886,13 @@
     "username": "heavytiger705",
     "password": "scott",
     "invokedAt": "2021-12-18T22:47:31.319Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Tuft",
+    "email": "adam.tuft@example.com",
+    "username": "browndog775",
+    "password": "sausages",
+    "invokedAt": "2021-12-18T22:53:34.774Z"
   }
 ]
