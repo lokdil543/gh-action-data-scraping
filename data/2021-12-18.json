@@ -294,5 +294,13 @@
     "username": "bigcat230",
     "password": "ferguson",
     "invokedAt": "2021-12-18T09:28:00.809Z"
+  },
+  {
+    "firstName": "Florent",
+    "lastName": "Colin",
+    "email": "florent.colin@example.com",
+    "username": "brownelephant408",
+    "password": "goku",
+    "invokedAt": "2021-12-18T09:38:18.191Z"
   }
 ]
