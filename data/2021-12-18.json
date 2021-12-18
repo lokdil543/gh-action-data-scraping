@@ -86,5 +86,13 @@
     "username": "redcat297",
     "password": "murray",
     "invokedAt": "2021-12-18T04:37:22.677Z"
+  },
+  {
+    "firstName": "Dustin",
+    "lastName": "Howard",
+    "email": "dustin.howard@example.com",
+    "username": "silverfrog350",
+    "password": "hockey",
+    "invokedAt": "2021-12-18T04:55:00.896Z"
   }
 ]
