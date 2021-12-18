@@ -926,5 +926,13 @@
     "username": "lazygoose570",
     "password": "hardrock",
     "invokedAt": "2021-12-18T23:38:47.762Z"
+  },
+  {
+    "firstName": "Ezra",
+    "lastName": "Moore",
+    "email": "ezra.moore@example.com",
+    "username": "lazyzebra529",
+    "password": "anything",
+    "invokedAt": "2021-12-18T23:44:46.598Z"
   }
 ]
