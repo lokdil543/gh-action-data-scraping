@@ -254,5 +254,13 @@
     "username": "brownostrich513",
     "password": "tuesday",
     "invokedAt": "2021-12-18T08:30:58.906Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Wang",
+    "email": "marcus.wang@example.com",
+    "username": "bigswan136",
+    "password": "redskins",
+    "invokedAt": "2021-12-18T08:44:42.895Z"
   }
 ]
