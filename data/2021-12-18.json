@@ -262,5 +262,13 @@
     "username": "bigswan136",
     "password": "redskins",
     "invokedAt": "2021-12-18T08:44:42.895Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Sullivan",
+    "email": "jimmy.sullivan@example.com",
+    "username": "blueelephant840",
+    "password": "pizza",
+    "invokedAt": "2021-12-18T08:51:57.719Z"
   }
 ]
