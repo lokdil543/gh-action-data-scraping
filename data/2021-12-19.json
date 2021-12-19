@@ -198,5 +198,13 @@
     "username": "angrydog226",
     "password": "rubber",
     "invokedAt": "2021-12-19T07:05:16.848Z"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "Blanco",
+    "email": "ramon.blanco@example.com",
+    "username": "yellowdog880",
+    "password": "zxcv",
+    "invokedAt": "2021-12-19T07:22:34.117Z"
   }
 ]
