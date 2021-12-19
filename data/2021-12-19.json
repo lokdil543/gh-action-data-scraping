@@ -742,5 +742,13 @@
     "username": "blackgoose603",
     "password": "builder",
     "invokedAt": "2021-12-19T19:45:17.831Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Anderson",
+    "email": "luis.anderson@example.com",
+    "username": "angryelephant667",
+    "password": "gidget",
+    "invokedAt": "2021-12-19T19:51:15.910Z"
   }
 ]
