@@ -526,5 +526,13 @@
     "username": "heavygorilla565",
     "password": "johnson1",
     "invokedAt": "2021-12-19T14:30:44.062Z"
+  },
+  {
+    "firstName": "Cooper",
+    "lastName": "Thomas",
+    "email": "cooper.thomas@example.com",
+    "username": "greenduck432",
+    "password": "jingle",
+    "invokedAt": "2021-12-19T14:37:54.684Z"
   }
 ]
