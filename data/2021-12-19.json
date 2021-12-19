@@ -678,5 +678,13 @@
     "username": "ticklishtiger500",
     "password": "lightning",
     "invokedAt": "2021-12-19T18:44:53.524Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Andersen",
+    "email": "alexander.andersen@example.com",
+    "username": "bluefish886",
+    "password": "child",
+    "invokedAt": "2021-12-19T18:53:14.242Z"
   }
 ]
