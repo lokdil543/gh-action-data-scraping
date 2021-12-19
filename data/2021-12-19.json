@@ -894,5 +894,13 @@
     "username": "organicbutterfly181",
     "password": "diver1",
     "invokedAt": "2021-12-19T22:44:36.928Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Savela",
+    "email": "anton.savela@example.com",
+    "username": "redbird148",
+    "password": "birthday",
+    "invokedAt": "2021-12-19T22:50:38.385Z"
   }
 ]
