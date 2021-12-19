@@ -774,5 +774,13 @@
     "username": "organicwolf106",
     "password": "pyramid",
     "invokedAt": "2021-12-19T20:28:12.374Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Goll",
+    "email": "susan.goll@example.com",
+    "username": "whitepanda724",
+    "password": "&amp;",
+    "invokedAt": "2021-12-19T20:38:14.476Z"
   }
 ]
