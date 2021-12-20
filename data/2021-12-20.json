@@ -422,5 +422,13 @@
     "username": "tinywolf641",
     "password": "1973",
     "invokedAt": "2021-12-20T12:00:43.689Z"
+  },
+  {
+    "firstName": "Mário",
+    "lastName": "Farias",
+    "email": "mario.farias@example.com",
+    "username": "blackdog124",
+    "password": "kristian",
+    "invokedAt": "2021-12-20T12:30:21.503Z"
   }
 ]
