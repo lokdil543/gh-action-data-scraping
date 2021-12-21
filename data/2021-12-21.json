@@ -262,5 +262,13 @@
     "username": "tinydog631",
     "password": "airplane",
     "invokedAt": "2021-12-21T08:48:28.368Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Madsen",
+    "email": "gustav.madsen@example.com",
+    "username": "smallpeacock280",
+    "password": "global",
+    "invokedAt": "2021-12-21T08:54:34.074Z"
   }
 ]
