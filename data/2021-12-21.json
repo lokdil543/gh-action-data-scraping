@@ -246,5 +246,13 @@
     "username": "lazygoose890",
     "password": "dead",
     "invokedAt": "2021-12-21T08:11:35.037Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Young",
+    "email": "allen.young@example.com",
+    "username": "sadleopard950",
+    "password": "weird",
+    "invokedAt": "2021-12-21T08:34:46.565Z"
   }
 ]
