@@ -526,5 +526,13 @@
     "username": "angrycat277",
     "password": "hondas",
     "invokedAt": "2021-12-21T14:52:13.933Z"
+  },
+  {
+    "firstName": "Toby",
+    "lastName": "Evans",
+    "email": "toby.evans@example.com",
+    "username": "whitecat667",
+    "password": "qing",
+    "invokedAt": "2021-12-21T14:58:22.814Z"
   }
 ]
