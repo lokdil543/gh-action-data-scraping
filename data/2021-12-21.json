@@ -702,5 +702,13 @@
     "username": "blackleopard543",
     "password": "trapper",
     "invokedAt": "2021-12-21T19:45:01.259Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Jarvela",
+    "email": "niklas.jarvela@example.com",
+    "username": "angryrabbit357",
+    "password": "screwy",
+    "invokedAt": "2021-12-21T19:51:11.653Z"
   }
 ]
