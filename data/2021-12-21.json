@@ -838,5 +838,13 @@
     "username": "happytiger789",
     "password": "jorge",
     "invokedAt": "2021-12-21T22:31:15.994Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Ma",
+    "email": "ava.ma@example.com",
+    "username": "redgoose122",
+    "password": "dealer",
+    "invokedAt": "2021-12-21T22:41:49.160Z"
   }
 ]
