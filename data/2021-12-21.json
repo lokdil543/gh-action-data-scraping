@@ -614,5 +614,13 @@
     "username": "purplebird380",
     "password": "fabian",
     "invokedAt": "2021-12-21T17:53:14.447Z"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Fitzpatrick",
+    "email": "leon.fitzpatrick@example.com",
+    "username": "yellowcat838",
+    "password": "lightning",
+    "invokedAt": "2021-12-21T17:59:02.901Z"
   }
 ]
