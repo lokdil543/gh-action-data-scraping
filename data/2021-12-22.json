@@ -894,5 +894,13 @@
     "username": "heavybutterfly347",
     "password": "clancy",
     "invokedAt": "2021-12-22T23:43:53.900Z"
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Wilson",
+    "email": "peyton.wilson@example.com",
+    "username": "heavyduck492",
+    "password": "sinatra",
+    "invokedAt": "2021-12-22T23:49:46.905Z"
   }
 ]
