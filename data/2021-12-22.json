@@ -790,5 +790,13 @@
     "username": "greensnake989",
     "password": "dentist",
     "invokedAt": "2021-12-22T21:34:12.701Z"
+  },
+  {
+    "firstName": "Jessie",
+    "lastName": "Lee",
+    "email": "jessie.lee@example.com",
+    "username": "organicmouse337",
+    "password": "pianoman",
+    "invokedAt": "2021-12-22T21:42:13.847Z"
   }
 ]
