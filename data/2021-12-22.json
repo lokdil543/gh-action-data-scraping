@@ -902,5 +902,13 @@
     "username": "heavyduck492",
     "password": "sinatra",
     "invokedAt": "2021-12-22T23:49:46.905Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Lucas",
+    "email": "charles.lucas@example.com",
+    "username": "smallfish463",
+    "password": "portugal",
+    "invokedAt": "2021-12-22T23:55:46.907Z"
   }
 ]
