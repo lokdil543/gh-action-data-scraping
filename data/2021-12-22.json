@@ -142,5 +142,13 @@
     "username": "redgoose108",
     "password": "rootbeer",
     "invokedAt": "2021-12-22T05:48:23.556Z"
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Willis",
+    "email": "vera.willis@example.com",
+    "username": "browncat923",
+    "password": "cookie",
+    "invokedAt": "2021-12-22T05:54:26.574Z"
   }
 ]
