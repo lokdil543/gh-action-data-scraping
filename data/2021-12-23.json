@@ -838,5 +838,13 @@
     "username": "goldengorilla993",
     "password": "legs",
     "invokedAt": "2021-12-23T22:15:31.938Z"
+  },
+  {
+    "firstName": "Kirsten",
+    "lastName": "Martens",
+    "email": "kirsten.martens@example.com",
+    "username": "redpeacock430",
+    "password": "cirrus",
+    "invokedAt": "2021-12-23T22:31:34.905Z"
   }
 ]
