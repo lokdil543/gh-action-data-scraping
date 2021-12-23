@@ -166,5 +166,13 @@
     "username": "happymouse838",
     "password": "suckers",
     "invokedAt": "2021-12-23T06:18:20.633Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Gagné",
+    "email": "jeremy.gagne@example.com",
+    "username": "sadsnake366",
+    "password": "dragoon",
+    "invokedAt": "2021-12-23T06:40:24.518Z"
   }
 ]
