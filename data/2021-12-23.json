@@ -766,5 +766,13 @@
     "username": "purplebear381",
     "password": "gateway1",
     "invokedAt": "2021-12-23T20:52:19.437Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Bergeron",
+    "email": "alice.bergeron@example.com",
+    "username": "silverswan845",
+    "password": "stonecold",
+    "invokedAt": "2021-12-23T20:58:12.799Z"
   }
 ]
