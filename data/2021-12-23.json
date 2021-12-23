@@ -654,5 +654,13 @@
     "username": "sadfrog783",
     "password": "firefox",
     "invokedAt": "2021-12-23T18:51:09.710Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Bru",
+    "email": "charlie.bru@example.com",
+    "username": "lazyduck354",
+    "password": "spectre",
+    "invokedAt": "2021-12-23T18:56:59.131Z"
   }
 ]
