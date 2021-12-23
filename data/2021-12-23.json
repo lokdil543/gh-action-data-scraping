@@ -422,5 +422,13 @@
     "username": "orangetiger231",
     "password": "denise",
     "invokedAt": "2021-12-23T11:55:27.293Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Sørensen",
+    "email": "julie.sorensen@example.com",
+    "username": "orangeleopard133",
+    "password": "combat",
+    "invokedAt": "2021-12-23T12:08:12.898Z"
   }
 ]
