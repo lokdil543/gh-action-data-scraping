@@ -558,5 +558,13 @@
     "username": "orangeduck616",
     "password": "tsunami",
     "invokedAt": "2021-12-23T15:37:57.824Z"
+  },
+  {
+    "firstName": "Vernon",
+    "lastName": "Walters",
+    "email": "vernon.walters@example.com",
+    "username": "smallwolf246",
+    "password": "stanford",
+    "invokedAt": "2021-12-23T15:49:44.267Z"
   }
 ]
