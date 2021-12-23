@@ -790,5 +790,13 @@
     "username": "bigsnake432",
     "password": "stonecol",
     "invokedAt": "2021-12-23T21:24:57.873Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Mortensen",
+    "email": "jacob.mortensen@example.com",
+    "username": "orangezebra545",
+    "password": "knight1",
+    "invokedAt": "2021-12-23T21:33:07.083Z"
   }
 ]
