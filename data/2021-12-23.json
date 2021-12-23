@@ -286,5 +286,13 @@
     "username": "goldenostrich861",
     "password": "hardball",
     "invokedAt": "2021-12-23T09:08:43.817Z"
+  },
+  {
+    "firstName": "Lamar",
+    "lastName": "Hanstad",
+    "email": "lamar.hanstad@example.com",
+    "username": "silvergorilla324",
+    "password": "single",
+    "invokedAt": "2021-12-23T09:27:39.521Z"
   }
 ]
