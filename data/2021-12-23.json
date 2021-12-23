@@ -622,5 +622,13 @@
     "username": "greendog595",
     "password": "hawaiian",
     "invokedAt": "2021-12-23T17:53:10.346Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Murphy",
+    "email": "dwight.murphy@example.com",
+    "username": "ticklishsnake519",
+    "password": "cherokee",
+    "invokedAt": "2021-12-23T17:59:09.784Z"
   }
 ]
