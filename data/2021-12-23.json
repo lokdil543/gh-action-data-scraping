@@ -718,5 +718,13 @@
     "username": "blackcat630",
     "password": "unique",
     "invokedAt": "2021-12-23T19:50:56.961Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Legrand",
+    "email": "kelly.legrand@example.com",
+    "username": "greenladybug636",
+    "password": "retire",
+    "invokedAt": "2021-12-23T19:57:11.055Z"
   }
 ]
