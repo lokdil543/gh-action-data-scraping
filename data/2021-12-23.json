@@ -214,5 +214,13 @@
     "username": "angrygoose972",
     "password": "super",
     "invokedAt": "2021-12-23T07:37:06.821Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Parker",
+    "email": "kate.parker@example.com",
+    "username": "greengoose286",
+    "password": "jabber",
+    "invokedAt": "2021-12-23T07:42:54.779Z"
   }
 ]
