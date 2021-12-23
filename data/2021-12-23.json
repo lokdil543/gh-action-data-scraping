@@ -110,5 +110,13 @@
     "username": "happybird400",
     "password": "samsung",
     "invokedAt": "2021-12-23T05:07:38.802Z"
+  },
+  {
+    "firstName": "Cristobal",
+    "lastName": "Cabrera",
+    "email": "cristobal.cabrera@example.com",
+    "username": "heavycat284",
+    "password": "call",
+    "invokedAt": "2021-12-23T05:25:47.905Z"
   }
 ]
