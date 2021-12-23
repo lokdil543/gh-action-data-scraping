@@ -334,5 +334,13 @@
     "username": "blackduck782",
     "password": "frontier",
     "invokedAt": "2021-12-23T10:15:28.174Z"
+  },
+  {
+    "firstName": "Gaspard",
+    "lastName": "Blanc",
+    "email": "gaspard.blanc@example.com",
+    "username": "bigduck632",
+    "password": "1975",
+    "invokedAt": "2021-12-23T10:34:13.758Z"
   }
 ]
