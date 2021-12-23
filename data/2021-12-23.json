@@ -494,5 +494,13 @@
     "username": "whitemouse447",
     "password": "maryland",
     "invokedAt": "2021-12-23T14:15:20.073Z"
+  },
+  {
+    "firstName": "Franck",
+    "lastName": "Moreau",
+    "email": "franck.moreau@example.com",
+    "username": "angrymouse677",
+    "password": "xmas",
+    "invokedAt": "2021-12-23T14:28:23.694Z"
   }
 ]
