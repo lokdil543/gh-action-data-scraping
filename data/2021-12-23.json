@@ -870,5 +870,13 @@
     "username": "browndog239",
     "password": "downtown",
     "invokedAt": "2021-12-23T22:53:43.847Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Reid",
+    "email": "calvin.reid@example.com",
+    "username": "smalllion312",
+    "password": "camp",
+    "invokedAt": "2021-12-23T22:59:29.858Z"
   }
 ]
