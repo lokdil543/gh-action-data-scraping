@@ -662,5 +662,13 @@
     "username": "lazyduck354",
     "password": "spectre",
     "invokedAt": "2021-12-23T18:56:59.131Z"
+  },
+  {
+    "firstName": "Ilan",
+    "lastName": "Renaud",
+    "email": "ilan.renaud@example.com",
+    "username": "orangedog889",
+    "password": "wright",
+    "invokedAt": "2021-12-23T19:07:15.549Z"
   }
 ]
