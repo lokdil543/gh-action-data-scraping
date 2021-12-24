@@ -678,5 +678,13 @@
     "username": "browndog126",
     "password": "beatles",
     "invokedAt": "2021-12-24T19:12:56.860Z"
+  },
+  {
+    "firstName": "Borja",
+    "lastName": "Pascual",
+    "email": "borja.pascual@example.com",
+    "username": "crazyzebra901",
+    "password": "nico",
+    "invokedAt": "2021-12-24T19:23:07.965Z"
   }
 ]
