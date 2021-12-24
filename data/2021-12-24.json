@@ -646,5 +646,13 @@
     "username": "smalllion918",
     "password": "secrets",
     "invokedAt": "2021-12-24T18:29:16.975Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Ruiz",
+    "email": "eduardo.ruiz@example.com",
+    "username": "heavyleopard791",
+    "password": "frank1",
+    "invokedAt": "2021-12-24T18:44:58.145Z"
   }
 ]
