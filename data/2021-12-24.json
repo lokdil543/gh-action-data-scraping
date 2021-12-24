@@ -406,5 +406,13 @@
     "username": "yellowdog940",
     "password": "hottest",
     "invokedAt": "2021-12-24T11:41:39.319Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Pedersen",
+    "email": "kasper.pedersen@example.com",
+    "username": "ticklishwolf744",
+    "password": "smile",
+    "invokedAt": "2021-12-24T11:47:50.643Z"
   }
 ]
