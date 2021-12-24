@@ -638,5 +638,13 @@
     "username": "happymouse860",
     "password": "187187",
     "invokedAt": "2021-12-24T18:05:41.804Z"
+  },
+  {
+    "firstName": "Francisca",
+    "lastName": "Da Silva",
+    "email": "francisca.dasilva@example.com",
+    "username": "smalllion918",
+    "password": "secrets",
+    "invokedAt": "2021-12-24T18:29:16.975Z"
   }
 ]
