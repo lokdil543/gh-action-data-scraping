@@ -606,5 +606,13 @@
     "username": "greenkoala915",
     "password": "internet",
     "invokedAt": "2021-12-24T17:16:22.844Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Møller",
+    "email": "rasmus.moller@example.com",
+    "username": "tinyrabbit696",
+    "password": "roland",
+    "invokedAt": "2021-12-24T17:39:29.156Z"
   }
 ]
