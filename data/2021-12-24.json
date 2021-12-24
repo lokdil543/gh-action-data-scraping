@@ -558,5 +558,13 @@
     "username": "blackgorilla445",
     "password": "coolcool",
     "invokedAt": "2021-12-24T15:31:10.575Z"
+  },
+  {
+    "firstName": "Naja",
+    "lastName": "Møller",
+    "email": "naja.moller@example.com",
+    "username": "whitebear682",
+    "password": "slammer",
+    "invokedAt": "2021-12-24T15:45:15.258Z"
   }
 ]
