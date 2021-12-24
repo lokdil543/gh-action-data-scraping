@@ -782,5 +782,13 @@
     "username": "whitezebra162",
     "password": "millwall",
     "invokedAt": "2021-12-24T21:01:08.954Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Jørgensen",
+    "email": "marie.jorgensen@example.com",
+    "username": "blackleopard100",
+    "password": "lightnin",
+    "invokedAt": "2021-12-24T21:16:16.638Z"
   }
 ]
