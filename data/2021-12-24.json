@@ -398,5 +398,13 @@
     "username": "goldenzebra198",
     "password": "super1",
     "invokedAt": "2021-12-24T11:35:56.390Z"
+  },
+  {
+    "firstName": "Suzanne",
+    "lastName": "Smith",
+    "email": "suzanne.smith@example.com",
+    "username": "yellowdog940",
+    "password": "hottest",
+    "invokedAt": "2021-12-24T11:41:39.319Z"
   }
 ]
