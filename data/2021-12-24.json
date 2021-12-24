@@ -206,5 +206,13 @@
     "username": "bigpanda164",
     "password": "pingpong",
     "invokedAt": "2021-12-24T07:24:44.797Z"
+  },
+  {
+    "firstName": "Michal",
+    "lastName": "Nyhagen",
+    "email": "michal.nyhagen@example.com",
+    "username": "sadduck720",
+    "password": "pool",
+    "invokedAt": "2021-12-24T07:33:09.786Z"
   }
 ]
