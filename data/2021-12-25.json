@@ -758,5 +758,13 @@
     "username": "tinypanda949",
     "password": "pantera",
     "invokedAt": "2021-12-25T19:58:00.257Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Jacobs",
+    "email": "john.jacobs@example.com",
+    "username": "biggorilla707",
+    "password": "cartoon",
+    "invokedAt": "2021-12-25T20:11:50.953Z"
   }
 ]
