@@ -310,5 +310,13 @@
     "username": "purplezebra969",
     "password": "redline",
     "invokedAt": "2021-12-25T09:40:41.608Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Lee",
+    "email": "vincent.lee@example.com",
+    "username": "angryrabbit391",
+    "password": "true",
+    "invokedAt": "2021-12-25T09:46:51.717Z"
   }
 ]
