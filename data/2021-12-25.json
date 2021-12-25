@@ -766,5 +766,13 @@
     "username": "biggorilla707",
     "password": "cartoon",
     "invokedAt": "2021-12-25T20:11:50.953Z"
+  },
+  {
+    "firstName": "Wyatt",
+    "lastName": "Robertson",
+    "email": "wyatt.robertson@example.com",
+    "username": "redpeacock166",
+    "password": "dentist",
+    "invokedAt": "2021-12-25T20:29:47.456Z"
   }
 ]
