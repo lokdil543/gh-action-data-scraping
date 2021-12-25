@@ -702,5 +702,13 @@
     "username": "whitedog957",
     "password": "vacation",
     "invokedAt": "2021-12-25T19:12:14.733Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Lammi",
+    "email": "minttu.lammi@example.com",
+    "username": "beautifuldog623",
+    "password": "kermit",
+    "invokedAt": "2021-12-25T19:21:54.354Z"
   }
 ]
