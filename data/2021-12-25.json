@@ -94,5 +94,13 @@
     "username": "angrykoala279",
     "password": "static",
     "invokedAt": "2021-12-25T04:38:24.833Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Andersen",
+    "email": "frida.andersen@example.com",
+    "username": "orangerabbit203",
+    "password": "mindy",
+    "invokedAt": "2021-12-25T04:56:01.792Z"
   }
 ]
