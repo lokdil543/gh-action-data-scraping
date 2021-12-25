@@ -558,5 +558,13 @@
     "username": "tinyostrich346",
     "password": "belly",
     "invokedAt": "2021-12-25T14:56:53.274Z"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Carlson",
+    "email": "willie.carlson@example.com",
+    "username": "crazyostrich989",
+    "password": "freeze",
+    "invokedAt": "2021-12-25T15:08:33.421Z"
   }
 ]
