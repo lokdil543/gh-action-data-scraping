@@ -390,5 +390,13 @@
     "username": "orangedog549",
     "password": "blue32",
     "invokedAt": "2021-12-25T11:18:38.750Z"
+  },
+  {
+    "firstName": "Erwan",
+    "lastName": "Laurent",
+    "email": "erwan.laurent@example.com",
+    "username": "beautifulbear523",
+    "password": "kuai",
+    "invokedAt": "2021-12-25T11:27:48.716Z"
   }
 ]
