@@ -790,5 +790,13 @@
     "username": "greenladybug405",
     "password": "wordpass",
     "invokedAt": "2021-12-26T20:46:28.715Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Kilpela",
+    "email": "vaino.kilpela@example.com",
+    "username": "beautifulfish205",
+    "password": "kenworth",
+    "invokedAt": "2021-12-26T20:55:37.560Z"
   }
 ]
