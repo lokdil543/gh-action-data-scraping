@@ -606,5 +606,13 @@
     "username": "brownpanda497",
     "password": "4runner",
     "invokedAt": "2021-12-26T16:08:02.775Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Roussel",
+    "email": "remy.roussel@example.com",
+    "username": "brownduck634",
+    "password": "caramel",
+    "invokedAt": "2021-12-26T16:42:14.141Z"
   }
 ]
