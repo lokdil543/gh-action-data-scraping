@@ -406,5 +406,13 @@
     "username": "happybird403",
     "password": "biteme1",
     "invokedAt": "2021-12-26T11:34:03.711Z"
+  },
+  {
+    "firstName": "Sue",
+    "lastName": "Morgan",
+    "email": "sue.morgan@example.com",
+    "username": "bluebutterfly366",
+    "password": "because",
+    "invokedAt": "2021-12-26T11:39:50.700Z"
   }
 ]
