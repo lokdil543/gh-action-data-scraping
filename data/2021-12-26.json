@@ -374,5 +374,13 @@
     "username": "redfish736",
     "password": "pilot",
     "invokedAt": "2021-12-26T10:55:20.608Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Dixon",
+    "email": "caitlin.dixon@example.com",
+    "username": "orangepanda324",
+    "password": "skate",
+    "invokedAt": "2021-12-26T11:03:02.402Z"
   }
 ]
