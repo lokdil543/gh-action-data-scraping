@@ -550,5 +550,13 @@
     "username": "lazypeacock891",
     "password": "ground",
     "invokedAt": "2021-12-27T19:07:59.948Z"
+  },
+  {
+    "firstName": "Jannis",
+    "lastName": "De Veld",
+    "email": "jannis.develd@example.com",
+    "username": "yellowpeacock129",
+    "password": "kume",
+    "invokedAt": "2021-12-27T19:20:22.272Z"
   }
 ]
