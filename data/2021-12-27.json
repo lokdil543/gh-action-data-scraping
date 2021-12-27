@@ -294,5 +294,13 @@
     "username": "beautifuldog890",
     "password": "twelve",
     "invokedAt": "2021-12-27T10:25:12.357Z"
+  },
+  {
+    "firstName": "Caroline",
+    "lastName": "Hansen",
+    "email": "caroline.hansen@example.com",
+    "username": "lazytiger106",
+    "password": "spring",
+    "invokedAt": "2021-12-27T10:38:13.102Z"
   }
 ]
