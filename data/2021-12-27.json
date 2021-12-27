@@ -710,5 +710,13 @@
     "username": "crazydog177",
     "password": "pingpong",
     "invokedAt": "2021-12-27T21:59:24.021Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Michel",
+    "email": "pablo.michel@example.com",
+    "username": "smallelephant137",
+    "password": "broker",
+    "invokedAt": "2021-12-27T22:14:45.918Z"
   }
 ]
