@@ -718,5 +718,13 @@
     "username": "smallelephant137",
     "password": "broker",
     "invokedAt": "2021-12-27T22:14:45.918Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Lambert",
+    "email": "sam.lambert@example.com",
+    "username": "redsnake271",
+    "password": "sevens",
+    "invokedAt": "2021-12-27T22:31:09.952Z"
   }
 ]
