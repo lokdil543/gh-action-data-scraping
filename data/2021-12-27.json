@@ -398,5 +398,13 @@
     "username": "sadfrog745",
     "password": "memory",
     "invokedAt": "2021-12-27T13:58:40.781Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Chow",
+    "email": "emily.chow@example.com",
+    "username": "tinypanda890",
+    "password": "kitkat",
+    "invokedAt": "2021-12-27T14:11:41.860Z"
   }
 ]
