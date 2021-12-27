@@ -566,5 +566,13 @@
     "username": "silvertiger715",
     "password": "ticket",
     "invokedAt": "2021-12-27T19:26:22.701Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Edwards",
+    "email": "jake.edwards@example.com",
+    "username": "happycat991",
+    "password": "bigblue",
+    "invokedAt": "2021-12-27T19:32:54.432Z"
   }
 ]
