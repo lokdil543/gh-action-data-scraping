@@ -158,5 +158,13 @@
     "username": "biglion956",
     "password": "serious",
     "invokedAt": "2021-12-27T06:45:27.851Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Olsen",
+    "email": "storm.olsen@example.com",
+    "username": "heavypeacock304",
+    "password": "bluebell",
+    "invokedAt": "2021-12-27T06:54:37.761Z"
   }
 ]
