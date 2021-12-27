@@ -326,5 +326,13 @@
     "username": "yellowmeercat433",
     "password": "reds",
     "invokedAt": "2021-12-27T10:59:10.658Z"
+  },
+  {
+    "firstName": "Viivi",
+    "lastName": "Pulli",
+    "email": "viivi.pulli@example.com",
+    "username": "redmouse152",
+    "password": "japanese",
+    "invokedAt": "2021-12-27T11:12:10.874Z"
   }
 ]
