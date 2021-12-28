@@ -870,5 +870,13 @@
     "username": "silverfish871",
     "password": "ncc1701d",
     "invokedAt": "2021-12-28T22:50:55.723Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Tervo",
+    "email": "juho.tervo@example.com",
+    "username": "lazyfish226",
+    "password": "huskies",
+    "invokedAt": "2021-12-28T22:56:59.627Z"
   }
 ]
