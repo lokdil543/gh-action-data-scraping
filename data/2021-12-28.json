@@ -622,5 +622,13 @@
     "username": "tinypeacock160",
     "password": "scully",
     "invokedAt": "2021-12-28T17:50:01.928Z"
+  },
+  {
+    "firstName": "André",
+    "lastName": "Mayer",
+    "email": "andre.mayer@example.com",
+    "username": "tinyfrog643",
+    "password": "mystery",
+    "invokedAt": "2021-12-28T17:55:51.700Z"
   }
 ]
