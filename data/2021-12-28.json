@@ -854,5 +854,13 @@
     "username": "brownfish700",
     "password": "piano",
     "invokedAt": "2021-12-28T22:37:51.046Z"
+  },
+  {
+    "firstName": "Gerardo",
+    "lastName": "Ortega",
+    "email": "gerardo.ortega@example.com",
+    "username": "smallpanda777",
+    "password": "caveman",
+    "invokedAt": "2021-12-28T22:44:49.958Z"
   }
 ]
