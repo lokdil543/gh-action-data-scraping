@@ -838,5 +838,13 @@
     "username": "brownfish610",
     "password": "1007",
     "invokedAt": "2021-12-28T22:09:45.905Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Nguyen",
+    "email": "guillaume.nguyen@example.com",
+    "username": "goldenbutterfly643",
+    "password": "bigger",
+    "invokedAt": "2021-12-28T22:26:57.401Z"
   }
 ]
