@@ -158,5 +158,13 @@
     "username": "crazyladybug863",
     "password": "swallow",
     "invokedAt": "2021-12-29T05:55:28.698Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Herrero",
+    "email": "diego.herrero@example.com",
+    "username": "redpanda662",
+    "password": "fender",
+    "invokedAt": "2021-12-29T06:07:10.828Z"
   }
 ]
