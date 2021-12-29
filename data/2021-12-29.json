@@ -582,5 +582,13 @@
     "username": "bigkoala343",
     "password": "lefty",
     "invokedAt": "2021-12-29T15:54:27.961Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Duncan",
+    "email": "herbert.duncan@example.com",
+    "username": "silverkoala746",
+    "password": "boxer",
+    "invokedAt": "2021-12-29T16:00:27.029Z"
   }
 ]
