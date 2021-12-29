@@ -838,5 +838,13 @@
     "username": "redpanda831",
     "password": "111222",
     "invokedAt": "2021-12-29T21:59:49.881Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Mitchell",
+    "email": "arnaud.mitchell@example.com",
+    "username": "sadlion114",
+    "password": "vamp",
+    "invokedAt": "2021-12-29T22:15:45.808Z"
   }
 ]
