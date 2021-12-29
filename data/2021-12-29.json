@@ -398,5 +398,13 @@
     "username": "beautifuldog433",
     "password": "meatloaf",
     "invokedAt": "2021-12-29T11:30:09.140Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Barnes",
+    "email": "noah.barnes@example.com",
+    "username": "smalldog426",
+    "password": "charlotte",
+    "invokedAt": "2021-12-29T11:36:35.823Z"
   }
 ]
