@@ -870,5 +870,13 @@
     "username": "yellowbird694",
     "password": "beast",
     "invokedAt": "2021-12-30T22:46:35.836Z"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Corsten",
+    "email": "kurt.corsten@example.com",
+    "username": "biggorilla614",
+    "password": "googoo",
+    "invokedAt": "2021-12-30T22:52:40.999Z"
   }
 ]
