@@ -262,5 +262,13 @@
     "username": "purplepanda634",
     "password": "private1",
     "invokedAt": "2021-12-30T08:30:45.103Z"
+  },
+  {
+    "firstName": "Anna-Luise",
+    "lastName": "Göhler",
+    "email": "anna-luise.gohler@example.com",
+    "username": "greenladybug409",
+    "password": "zxcvbnm",
+    "invokedAt": "2021-12-30T08:45:30.233Z"
   }
 ]
