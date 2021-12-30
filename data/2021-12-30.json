@@ -390,5 +390,13 @@
     "username": "organicbird506",
     "password": "lisalisa",
     "invokedAt": "2021-12-30T11:23:12.805Z"
+  },
+  {
+    "firstName": "Abbie",
+    "lastName": "Hansen",
+    "email": "abbie.hansen@example.com",
+    "username": "tinybear614",
+    "password": "django",
+    "invokedAt": "2021-12-30T11:30:45.082Z"
   }
 ]
