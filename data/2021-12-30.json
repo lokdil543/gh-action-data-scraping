@@ -726,5 +726,13 @@
     "username": "angryelephant674",
     "password": "bizzare",
     "invokedAt": "2021-12-30T19:50:25.601Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Hansen",
+    "email": "nelson.hansen@example.com",
+    "username": "angryfish208",
+    "password": "beat",
+    "invokedAt": "2021-12-30T19:56:14.225Z"
   }
 ]
