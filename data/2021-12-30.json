@@ -462,5 +462,13 @@
     "username": "purpledog107",
     "password": "tootsie",
     "invokedAt": "2021-12-30T13:30:07.828Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Navarro",
+    "email": "sergio.navarro@example.com",
+    "username": "whiteostrich314",
+    "password": "antares",
+    "invokedAt": "2021-12-30T13:41:21.674Z"
   }
 ]
