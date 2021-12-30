@@ -478,5 +478,13 @@
     "username": "blackladybug144",
     "password": "modles",
     "invokedAt": "2021-12-30T13:47:09.945Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "username": "bigswan325",
+    "password": "87654321",
+    "invokedAt": "2021-12-30T13:53:06.492Z"
   }
 ]
