@@ -150,5 +150,13 @@
     "username": "organicrabbit179",
     "password": "pharao",
     "invokedAt": "2021-12-30T05:48:36.954Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Knight",
+    "email": "hunter.knight@example.com",
+    "username": "redsnake279",
+    "password": "kenshin",
+    "invokedAt": "2021-12-30T05:54:28.835Z"
   }
 ]
