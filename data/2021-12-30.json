@@ -686,5 +686,13 @@
     "username": "tinyzebra894",
     "password": "opus",
     "invokedAt": "2021-12-30T19:19:01.331Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Jones",
+    "email": "lucas.jones@example.com",
+    "username": "smallrabbit614",
+    "password": "pa55w0rd",
+    "invokedAt": "2021-12-30T19:25:57.345Z"
   }
 ]
