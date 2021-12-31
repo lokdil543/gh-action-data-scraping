@@ -510,5 +510,13 @@
     "username": "happybutterfly349",
     "password": "carpet",
     "invokedAt": "2021-12-31T14:34:26.831Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Olsen",
+    "email": "rasmus.olsen@example.com",
+    "username": "brownbear181",
+    "password": "blossom",
+    "invokedAt": "2021-12-31T14:41:19.583Z"
   }
 ]
