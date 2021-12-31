@@ -702,5 +702,13 @@
     "username": "redduck161",
     "password": "advance",
     "invokedAt": "2021-12-31T19:36:13.677Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Park",
+    "email": "benjamin.park@example.com",
+    "username": "tinyostrich843",
+    "password": "software",
+    "invokedAt": "2021-12-31T19:42:03.898Z"
   }
 ]
