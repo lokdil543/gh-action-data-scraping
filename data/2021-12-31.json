@@ -670,5 +670,13 @@
     "username": "sadtiger880",
     "password": "werner",
     "invokedAt": "2021-12-31T19:01:05.822Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Christiansen",
+    "email": "adam.christiansen@example.com",
+    "username": "orangekoala368",
+    "password": "tracker",
+    "invokedAt": "2021-12-31T19:15:12.517Z"
   }
 ]
