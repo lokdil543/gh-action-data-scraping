@@ -726,5 +726,13 @@
     "username": "tinymouse344",
     "password": "chai",
     "invokedAt": "2021-12-31T19:54:15.743Z"
+  },
+  {
+    "firstName": "Stein",
+    "lastName": "Fidjeland",
+    "email": "stein.fidjeland@example.com",
+    "username": "bigmouse279",
+    "password": "uranus",
+    "invokedAt": "2021-12-31T20:00:24.946Z"
   }
 ]
