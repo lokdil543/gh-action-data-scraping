@@ -566,5 +566,13 @@
     "username": "heavywolf819",
     "password": "nurses",
     "invokedAt": "2021-12-31T15:47:45.945Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Mortensen",
+    "email": "alfred.mortensen@example.com",
+    "username": "lazyfrog578",
+    "password": "bull",
+    "invokedAt": "2021-12-31T15:54:20.859Z"
   }
 ]
