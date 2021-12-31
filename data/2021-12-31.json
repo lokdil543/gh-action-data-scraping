@@ -646,5 +646,13 @@
     "username": "brownbird506",
     "password": "school",
     "invokedAt": "2021-12-31T18:31:31.167Z"
+  },
+  {
+    "firstName": "Carlo",
+    "lastName": "Ritzema",
+    "email": "carlo.ritzema@example.com",
+    "username": "silverkoala291",
+    "password": "falcons",
+    "invokedAt": "2021-12-31T18:47:23.113Z"
   }
 ]
