@@ -710,5 +710,13 @@
     "username": "tinyostrich843",
     "password": "software",
     "invokedAt": "2021-12-31T19:42:03.898Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Pedersen",
+    "email": "simon.pedersen@example.com",
+    "username": "orangetiger965",
+    "password": "vincent1",
+    "invokedAt": "2021-12-31T19:48:07.725Z"
   }
 ]
