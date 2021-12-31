@@ -582,5 +582,13 @@
     "username": "happygorilla631",
     "password": "jungle",
     "invokedAt": "2021-12-31T16:00:32.609Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Palo",
+    "email": "ella.palo@example.com",
+    "username": "silverduck201",
+    "password": "play",
+    "invokedAt": "2021-12-31T16:27:29.999Z"
   }
 ]
