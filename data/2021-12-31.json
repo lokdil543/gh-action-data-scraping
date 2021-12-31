@@ -798,5 +798,13 @@
     "username": "brownfish685",
     "password": "pacific",
     "invokedAt": "2021-12-31T21:30:39.174Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Anderson",
+    "email": "eli.anderson@example.com",
+    "username": "whiteladybug785",
+    "password": "insertion",
+    "invokedAt": "2021-12-31T21:38:49.881Z"
   }
 ]
