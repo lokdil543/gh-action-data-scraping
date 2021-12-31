@@ -326,5 +326,13 @@
     "username": "beautifulfish910",
     "password": "joel",
     "invokedAt": "2021-12-31T10:00:14.070Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Andersen",
+    "email": "lea.andersen@example.com",
+    "username": "lazyostrich656",
+    "password": "remember",
+    "invokedAt": "2021-12-31T10:18:32.988Z"
   }
 ]
