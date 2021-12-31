@@ -574,5 +574,13 @@
     "username": "lazyfrog578",
     "password": "bull",
     "invokedAt": "2021-12-31T15:54:20.859Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Mortensen",
+    "email": "carl.mortensen@example.com",
+    "username": "happygorilla631",
+    "password": "jungle",
+    "invokedAt": "2021-12-31T16:00:32.609Z"
   }
 ]
