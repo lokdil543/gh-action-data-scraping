@@ -838,5 +838,13 @@
     "username": "organiccat630",
     "password": "abc1234",
     "invokedAt": "2021-12-31T22:08:46.298Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Boyd",
+    "email": "allen.boyd@example.com",
+    "username": "yellowduck874",
+    "password": "faithful",
+    "invokedAt": "2021-12-31T22:26:36.930Z"
   }
 ]
