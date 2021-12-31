@@ -638,5 +638,13 @@
     "username": "bluetiger752",
     "password": "albatros",
     "invokedAt": "2021-12-31T18:08:49.697Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Mckinney",
+    "email": "sam.mckinney@example.com",
+    "username": "brownbird506",
+    "password": "school",
+    "invokedAt": "2021-12-31T18:31:31.167Z"
   }
 ]
