@@ -174,5 +174,13 @@
     "username": "brownfrog703",
     "password": "blaze",
     "invokedAt": "2022-01-01T06:51:02.136Z"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Evans",
+    "email": "samantha.evans@example.com",
+    "username": "smallrabbit198",
+    "password": "captain1",
+    "invokedAt": "2022-01-01T06:57:06.670Z"
   }
 ]
