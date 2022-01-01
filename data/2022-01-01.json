@@ -606,5 +606,13 @@
     "username": "sadmouse601",
     "password": "woohoo",
     "invokedAt": "2022-01-01T16:59:02.850Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Blaschke",
+    "email": "charlie.blaschke@example.com",
+    "username": "sadrabbit425",
+    "password": "sticky",
+    "invokedAt": "2022-01-01T17:20:57.229Z"
   }
 ]
