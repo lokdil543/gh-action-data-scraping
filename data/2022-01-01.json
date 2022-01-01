@@ -750,5 +750,13 @@
     "username": "purplebutterfly378",
     "password": "truck",
     "invokedAt": "2022-01-01T20:12:53.767Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Erçetin",
+    "email": "ali.ercetin@example.com",
+    "username": "silverbear660",
+    "password": "111111",
+    "invokedAt": "2022-01-01T20:30:48.723Z"
   }
 ]
