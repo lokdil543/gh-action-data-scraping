@@ -214,5 +214,13 @@
     "username": "goldendog183",
     "password": "teens",
     "invokedAt": "2022-01-01T07:39:53.814Z"
+  },
+  {
+    "firstName": "Lenni",
+    "lastName": "Heinonen",
+    "email": "lenni.heinonen@example.com",
+    "username": "silverbutterfly844",
+    "password": "abcd",
+    "invokedAt": "2022-01-01T07:45:43.984Z"
   }
 ]
