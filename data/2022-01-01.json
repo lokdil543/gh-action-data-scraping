@@ -926,5 +926,13 @@
     "username": "blackgoose289",
     "password": "marriage",
     "invokedAt": "2022-01-01T23:45:22.031Z"
+  },
+  {
+    "firstName": "Jean-Paul",
+    "lastName": "Roche",
+    "email": "jean-paul.roche@example.com",
+    "username": "orangemeercat440",
+    "password": "kimber",
+    "invokedAt": "2022-01-01T23:51:03.027Z"
   }
 ]
