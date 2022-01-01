@@ -574,5 +574,13 @@
     "username": "redduck592",
     "password": "bordeaux",
     "invokedAt": "2022-01-01T15:48:49.851Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Montero",
+    "email": "arturo.montero@example.com",
+    "username": "whiteladybug131",
+    "password": "hippo",
+    "invokedAt": "2022-01-01T15:54:38.881Z"
   }
 ]
