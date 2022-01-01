@@ -222,5 +222,13 @@
     "username": "silverbutterfly844",
     "password": "abcd",
     "invokedAt": "2022-01-01T07:45:43.984Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Sepetçi",
+    "email": "afsar.sepetci@example.com",
+    "username": "angrygoose679",
+    "password": "loveya",
+    "invokedAt": "2022-01-01T07:51:33.659Z"
   }
 ]
