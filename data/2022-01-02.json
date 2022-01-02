@@ -422,5 +422,13 @@
     "username": "redtiger846",
     "password": "marvel",
     "invokedAt": "2022-01-02T11:47:32.829Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Roux",
+    "email": "claude.roux@example.com",
+    "username": "lazykoala125",
+    "password": "rainman",
+    "invokedAt": "2022-01-02T11:53:50.735Z"
   }
 ]
