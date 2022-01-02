@@ -574,5 +574,13 @@
     "username": "tinyrabbit344",
     "password": "guitar",
     "invokedAt": "2022-01-02T15:32:05.814Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Brewer",
+    "email": "danny.brewer@example.com",
+    "username": "blackdog411",
+    "password": "davies",
+    "invokedAt": "2022-01-02T15:45:34.618Z"
   }
 ]
