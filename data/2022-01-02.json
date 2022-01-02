@@ -758,5 +758,13 @@
     "username": "sadkoala308",
     "password": "gene",
     "invokedAt": "2022-01-02T20:03:38.910Z"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Nguyen",
+    "email": "nolan.nguyen@example.com",
+    "username": "orangekoala361",
+    "password": "frodo1",
+    "invokedAt": "2022-01-02T20:24:31.875Z"
   }
 ]
