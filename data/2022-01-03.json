@@ -646,5 +646,13 @@
     "username": "crazycat191",
     "password": "gamma",
     "invokedAt": "2022-01-03T18:57:46.228Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Moore",
+    "email": "marcus.moore@example.com",
+    "username": "blackpanda745",
+    "password": "lindros",
+    "invokedAt": "2022-01-03T19:09:01.111Z"
   }
 ]
