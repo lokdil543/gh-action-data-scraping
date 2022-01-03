@@ -94,5 +94,13 @@
     "username": "bigfrog567",
     "password": "doogie",
     "invokedAt": "2022-01-03T04:40:55.915Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Robinson",
+    "email": "vincent.robinson@example.com",
+    "username": "lazygorilla623",
+    "password": "fenway",
+    "invokedAt": "2022-01-03T04:57:47.451Z"
   }
 ]
