@@ -558,5 +558,13 @@
     "username": "happyfrog459",
     "password": "sniffing",
     "invokedAt": "2022-01-03T15:54:20.955Z"
+  },
+  {
+    "firstName": "Amelie",
+    "lastName": "Girard",
+    "email": "amelie.girard@example.com",
+    "username": "crazyleopard192",
+    "password": "222222",
+    "invokedAt": "2022-01-03T16:00:20.747Z"
   }
 ]
