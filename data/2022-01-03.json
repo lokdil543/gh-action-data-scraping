@@ -846,5 +846,13 @@
     "username": "lazytiger463",
     "password": "kevin1",
     "invokedAt": "2022-01-03T22:48:57.600Z"
+  },
+  {
+    "firstName": "Flynn",
+    "lastName": "Smith",
+    "email": "flynn.smith@example.com",
+    "username": "orangewolf766",
+    "password": "diamond1",
+    "invokedAt": "2022-01-03T22:54:44.584Z"
   }
 ]
