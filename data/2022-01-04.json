@@ -678,5 +678,13 @@
     "username": "silverdog754",
     "password": "pizza",
     "invokedAt": "2022-01-04T19:26:22.591Z"
+  },
+  {
+    "firstName": "Margot",
+    "lastName": "Bonnet",
+    "email": "margot.bonnet@example.com",
+    "username": "silvermouse578",
+    "password": "diehard",
+    "invokedAt": "2022-01-04T19:32:39.729Z"
   }
 ]
