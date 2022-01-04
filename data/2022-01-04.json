@@ -470,5 +470,13 @@
     "username": "sadsnake890",
     "password": "rubble",
     "invokedAt": "2022-01-04T13:48:50.803Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Meyer",
+    "email": "ethan.meyer@example.com",
+    "username": "blacktiger937",
+    "password": "pervert",
+    "invokedAt": "2022-01-04T13:54:38.811Z"
   }
 ]
