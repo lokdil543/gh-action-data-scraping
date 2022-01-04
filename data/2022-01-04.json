@@ -174,5 +174,13 @@
     "username": "greenmouse443",
     "password": "trustno1",
     "invokedAt": "2022-01-04T06:38:43.241Z"
+  },
+  {
+    "firstName": "Fabio",
+    "lastName": "Lucas",
+    "email": "fabio.lucas@example.com",
+    "username": "sadfish191",
+    "password": "hemlock",
+    "invokedAt": "2022-01-04T06:53:31.926Z"
   }
 ]
