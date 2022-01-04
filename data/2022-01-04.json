@@ -566,5 +566,13 @@
     "username": "angryswan448",
     "password": "kermit",
     "invokedAt": "2022-01-04T15:52:16.960Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Matthews",
+    "email": "bob.matthews@example.com",
+    "username": "blackbird821",
+    "password": "property",
+    "invokedAt": "2022-01-04T15:57:03.660Z"
   }
 ]
