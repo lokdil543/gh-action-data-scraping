@@ -870,5 +870,13 @@
     "username": "organicdog981",
     "password": "clifton",
     "invokedAt": "2022-01-04T23:08:04.900Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Wilson",
+    "email": "owen.wilson@example.com",
+    "username": "brownfrog492",
+    "password": "shelter",
+    "invokedAt": "2022-01-04T23:26:43.815Z"
   }
 ]
