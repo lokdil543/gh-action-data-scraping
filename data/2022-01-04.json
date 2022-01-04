@@ -814,5 +814,13 @@
     "username": "angryduck637",
     "password": "hotmail1",
     "invokedAt": "2022-01-04T21:55:26.084Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Terry",
+    "email": "michael.terry@example.com",
+    "username": "tinymeercat135",
+    "password": "objects",
+    "invokedAt": "2022-01-04T22:04:02.779Z"
   }
 ]
