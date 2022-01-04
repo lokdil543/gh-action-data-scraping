@@ -622,5 +622,13 @@
     "username": "goldenfrog500",
     "password": "scarface",
     "invokedAt": "2022-01-04T17:56:13.111Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Vega",
+    "email": "santiago.vega@example.com",
+    "username": "orangegorilla754",
+    "password": "written",
+    "invokedAt": "2022-01-04T18:08:11.144Z"
   }
 ]
