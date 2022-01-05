@@ -462,5 +462,13 @@
     "username": "redpanda230",
     "password": "minerva",
     "invokedAt": "2022-01-05T13:50:27.977Z"
+  },
+  {
+    "firstName": "Toby",
+    "lastName": "Turner",
+    "email": "toby.turner@example.com",
+    "username": "heavyleopard373",
+    "password": "model",
+    "invokedAt": "2022-01-05T13:56:20.887Z"
   }
 ]
