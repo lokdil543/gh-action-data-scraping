@@ -382,5 +382,13 @@
     "username": "crazydog299",
     "password": "casper",
     "invokedAt": "2022-01-05T11:36:32.705Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Kasapoğlu",
+    "email": "ceylan.kasapoglu@example.com",
+    "username": "smalllion720",
+    "password": "medic",
+    "invokedAt": "2022-01-05T11:37:57.340Z"
   }
 ]
