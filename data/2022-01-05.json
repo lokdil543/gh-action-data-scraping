@@ -574,5 +574,13 @@
     "username": "happyostrich961",
     "password": "freeuser",
     "invokedAt": "2022-01-05T16:06:46.321Z"
+  },
+  {
+    "firstName": "Eren",
+    "lastName": "Aşıkoğlu",
+    "email": "eren.asikoglu@example.com",
+    "username": "goldenostrich290",
+    "password": "meathead",
+    "invokedAt": "2022-01-05T16:42:43.003Z"
   }
 ]
