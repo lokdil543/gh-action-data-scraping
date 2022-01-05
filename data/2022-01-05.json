@@ -654,5 +654,13 @@
     "username": "ticklishpanda420",
     "password": "betty",
     "invokedAt": "2022-01-05T19:06:00.503Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Holt",
+    "email": "linda.holt@example.com",
+    "username": "whitefrog142",
+    "password": "napster",
+    "invokedAt": "2022-01-05T19:20:38.036Z"
   }
 ]
