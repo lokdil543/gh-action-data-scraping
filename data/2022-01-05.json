@@ -278,5 +278,13 @@
     "username": "bigpanda125",
     "password": "audi",
     "invokedAt": "2022-01-05T09:08:46.872Z"
+  },
+  {
+    "firstName": "Piotr",
+    "lastName": "Reschke",
+    "email": "piotr.reschke@example.com",
+    "username": "bluewolf295",
+    "password": "topcat",
+    "invokedAt": "2022-01-05T09:27:45.809Z"
   }
 ]
