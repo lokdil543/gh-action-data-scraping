@@ -582,5 +582,13 @@
     "username": "goldenostrich290",
     "password": "meathead",
     "invokedAt": "2022-01-05T16:42:43.003Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Patel",
+    "email": "adam.patel@example.com",
+    "username": "brownfish751",
+    "password": "fletcher",
+    "invokedAt": "2022-01-05T17:09:34.813Z"
   }
 ]
