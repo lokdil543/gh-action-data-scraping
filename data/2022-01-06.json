@@ -94,5 +94,13 @@
     "username": "heavykoala209",
     "password": "jammin",
     "invokedAt": "2022-01-06T05:00:59.817Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Nielsen",
+    "email": "clara.nielsen@example.com",
+    "username": "bigbear264",
+    "password": "dinosaur",
+    "invokedAt": "2022-01-06T05:19:25.759Z"
   }
 ]
