@@ -462,5 +462,13 @@
     "username": "sadbear193",
     "password": "womble",
     "invokedAt": "2022-01-06T14:08:23.046Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Wright",
+    "email": "jean.wright@example.com",
+    "username": "bigmouse699",
+    "password": "architec",
+    "invokedAt": "2022-01-06T14:24:17.687Z"
   }
 ]
