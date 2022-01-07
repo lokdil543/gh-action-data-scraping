@@ -366,5 +366,13 @@
     "username": "whitefrog546",
     "password": "spud",
     "invokedAt": "2022-01-07T11:33:12.905Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Ojala",
+    "email": "eetu.ojala@example.com",
+    "username": "crazyfrog608",
+    "password": "greene",
+    "invokedAt": "2022-01-07T11:39:34.768Z"
   }
 ]
