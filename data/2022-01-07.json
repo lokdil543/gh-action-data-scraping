@@ -222,5 +222,13 @@
     "username": "organiccat381",
     "password": "nope",
     "invokedAt": "2022-01-07T07:59:04.886Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Cooper",
+    "email": "ethan.cooper@example.com",
+    "username": "bigladybug764",
+    "password": "gremlin",
+    "invokedAt": "2022-01-07T08:17:20.003Z"
   }
 ]
