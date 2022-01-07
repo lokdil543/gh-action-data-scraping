@@ -742,5 +742,13 @@
     "username": "organicbutterfly159",
     "password": "blue",
     "invokedAt": "2022-01-07T21:07:32.808Z"
+  },
+  {
+    "firstName": "Hedwig",
+    "lastName": "Perrin",
+    "email": "hedwig.perrin@example.com",
+    "username": "heavytiger416",
+    "password": "gopher",
+    "invokedAt": "2022-01-07T21:23:19.977Z"
   }
 ]
