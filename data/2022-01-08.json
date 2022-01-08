@@ -190,5 +190,13 @@
     "username": "organicmouse358",
     "password": "concorde",
     "invokedAt": "2022-01-08T07:14:32.164Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Novak",
+    "email": "ryan.novak@example.com",
+    "username": "greengorilla515",
+    "password": "joel",
+    "invokedAt": "2022-01-08T07:28:27.510Z"
   }
 ]
