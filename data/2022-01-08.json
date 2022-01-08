@@ -798,5 +798,13 @@
     "username": "happymouse181",
     "password": "newlife",
     "invokedAt": "2022-01-08T21:35:46.655Z"
+  },
+  {
+    "firstName": "Lars",
+    "lastName": "Vestøl",
+    "email": "lars.vestol@example.com",
+    "username": "happypeacock455",
+    "password": "estrella",
+    "invokedAt": "2022-01-08T21:47:42.093Z"
   }
 ]
