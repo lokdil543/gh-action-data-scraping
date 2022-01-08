@@ -326,5 +326,13 @@
     "username": "yellowsnake677",
     "password": "spikes",
     "invokedAt": "2022-01-08T10:11:34.694Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Poulsen",
+    "email": "laura.poulsen@example.com",
+    "username": "crazybird807",
+    "password": "some",
+    "invokedAt": "2022-01-08T10:31:40.779Z"
   }
 ]
