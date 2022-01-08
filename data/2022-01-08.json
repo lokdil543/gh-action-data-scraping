@@ -638,5 +638,13 @@
     "username": "blackrabbit842",
     "password": "delete",
     "invokedAt": "2022-01-08T18:09:12.838Z"
+  },
+  {
+    "firstName": "Brent",
+    "lastName": "Brown",
+    "email": "brent.brown@example.com",
+    "username": "tinyladybug286",
+    "password": "diane",
+    "invokedAt": "2022-01-08T18:31:54.617Z"
   }
 ]
