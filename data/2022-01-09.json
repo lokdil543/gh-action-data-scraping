@@ -870,5 +870,13 @@
     "username": "blueswan157",
     "password": "runner",
     "invokedAt": "2022-01-09T22:51:15.000Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Dağdaş",
+    "email": "okan.dagdas@example.com",
+    "username": "brownsnake640",
+    "password": "keystone",
+    "invokedAt": "2022-01-09T22:57:26.876Z"
   }
 ]
