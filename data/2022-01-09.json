@@ -126,5 +126,13 @@
     "username": "greendog945",
     "password": "lane",
     "invokedAt": "2022-01-09T05:39:49.021Z"
+  },
+  {
+    "firstName": "Laure",
+    "lastName": "Le Gall",
+    "email": "laure.legall@example.com",
+    "username": "blackswan762",
+    "password": "cars",
+    "invokedAt": "2022-01-09T05:45:37.485Z"
   }
 ]
