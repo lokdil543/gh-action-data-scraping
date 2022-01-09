@@ -134,5 +134,13 @@
     "username": "blackswan762",
     "password": "cars",
     "invokedAt": "2022-01-09T05:45:37.485Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "da Conceição",
+    "email": "ian.daconceicao@example.com",
+    "username": "happybird524",
+    "password": "asdf12",
+    "invokedAt": "2022-01-09T05:51:36.957Z"
   }
 ]
