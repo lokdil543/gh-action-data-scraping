@@ -726,5 +726,13 @@
     "username": "saddog392",
     "password": "seven",
     "invokedAt": "2022-01-09T19:53:59.563Z"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Harris",
+    "email": "madison.harris@example.com",
+    "username": "blackgorilla848",
+    "password": "justine",
+    "invokedAt": "2022-01-09T20:00:12.307Z"
   }
 ]
