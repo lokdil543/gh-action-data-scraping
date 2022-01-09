@@ -886,5 +886,13 @@
     "username": "sadzebra231",
     "password": "musical",
     "invokedAt": "2022-01-09T23:10:03.085Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Poulsen",
+    "email": "oliver.poulsen@example.com",
+    "username": "redlion476",
+    "password": "bigcat",
+    "invokedAt": "2022-01-09T23:27:27.882Z"
   }
 ]
