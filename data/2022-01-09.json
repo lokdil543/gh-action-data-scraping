@@ -294,5 +294,13 @@
     "username": "silverfish235",
     "password": "1959",
     "invokedAt": "2022-01-09T09:35:27.333Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Curtis",
+    "email": "stanley.curtis@example.com",
+    "username": "happycat194",
+    "password": "lightning",
+    "invokedAt": "2022-01-09T09:44:48.673Z"
   }
 ]
