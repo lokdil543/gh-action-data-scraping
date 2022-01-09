@@ -142,5 +142,13 @@
     "username": "happybird524",
     "password": "asdf12",
     "invokedAt": "2022-01-09T05:51:36.957Z"
+  },
+  {
+    "firstName": "Iggy",
+    "lastName": "Van Dijck",
+    "email": "iggy.vandijck@example.com",
+    "username": "crazyswan209",
+    "password": "illusion",
+    "invokedAt": "2022-01-09T05:57:25.648Z"
   }
 ]
