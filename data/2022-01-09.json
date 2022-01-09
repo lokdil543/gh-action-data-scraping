@@ -302,5 +302,13 @@
     "username": "happycat194",
     "password": "lightning",
     "invokedAt": "2022-01-09T09:44:48.673Z"
+  },
+  {
+    "firstName": "Lorik",
+    "lastName": "Ohnstad",
+    "email": "lorik.ohnstad@example.com",
+    "username": "bigmeercat640",
+    "password": "tickle",
+    "invokedAt": "2022-01-09T09:50:37.353Z"
   }
 ]
