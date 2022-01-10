@@ -318,5 +318,13 @@
     "username": "bluebird386",
     "password": "systems",
     "invokedAt": "2022-01-10T10:30:25.067Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Guillaume",
+    "email": "stella.guillaume@example.com",
+    "username": "redkoala740",
+    "password": "prowler",
+    "invokedAt": "2022-01-10T10:44:00.937Z"
   }
 ]
