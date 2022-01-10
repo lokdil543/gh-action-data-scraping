@@ -694,5 +694,13 @@
     "username": "sadduck418",
     "password": "vector",
     "invokedAt": "2022-01-10T20:07:25.717Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "White",
+    "email": "sebastian.white@example.com",
+    "username": "orangeladybug899",
+    "password": "dave",
+    "invokedAt": "2022-01-10T20:25:16.860Z"
   }
 ]
