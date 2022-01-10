@@ -638,5 +638,13 @@
     "username": "sadrabbit442",
     "password": "church",
     "invokedAt": "2022-01-10T19:20:12.947Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Kim",
+    "email": "tracy.kim@example.com",
+    "username": "heavyelephant103",
+    "password": "broken",
+    "invokedAt": "2022-01-10T19:25:56.749Z"
   }
 ]
