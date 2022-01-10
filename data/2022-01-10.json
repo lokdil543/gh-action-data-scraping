@@ -430,5 +430,13 @@
     "username": "blackostrich897",
     "password": "thirteen",
     "invokedAt": "2022-01-10T13:35:28.447Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Williamson",
+    "email": "andy.williamson@example.com",
+    "username": "ticklishgoose314",
+    "password": "glotest",
+    "invokedAt": "2022-01-10T13:46:05.966Z"
   }
 ]
