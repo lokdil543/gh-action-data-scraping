@@ -502,5 +502,13 @@
     "username": "yellowleopard789",
     "password": "blue",
     "invokedAt": "2022-01-11T14:53:50.369Z"
+  },
+  {
+    "firstName": "Claas",
+    "lastName": "Radermacher",
+    "email": "claas.radermacher@example.com",
+    "username": "crazymeercat207",
+    "password": "goldfish",
+    "invokedAt": "2022-01-11T14:59:51.636Z"
   }
 ]
