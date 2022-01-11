@@ -838,5 +838,13 @@
     "username": "lazygoose187",
     "password": "backdoor",
     "invokedAt": "2022-01-11T23:29:09.998Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Armstrong",
+    "email": "marc.armstrong@example.com",
+    "username": "redbutterfly125",
+    "password": "stephane",
+    "invokedAt": "2022-01-11T23:40:50.743Z"
   }
 ]
