@@ -750,5 +750,13 @@
     "username": "heavyduck485",
     "password": "razor",
     "invokedAt": "2022-01-11T21:35:42.923Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Wang",
+    "email": "ava.wang@example.com",
+    "username": "brownbear366",
+    "password": "mordor",
+    "invokedAt": "2022-01-11T21:43:54.343Z"
   }
 ]
