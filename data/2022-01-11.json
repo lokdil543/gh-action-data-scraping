@@ -806,5 +806,13 @@
     "username": "purplekoala969",
     "password": "slipper",
     "invokedAt": "2022-01-11T22:45:42.170Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Bergkamp",
+    "email": "elif.bergkamp@example.com",
+    "username": "purpleladybug511",
+    "password": "bing",
+    "invokedAt": "2022-01-11T22:51:45.830Z"
   }
 ]
