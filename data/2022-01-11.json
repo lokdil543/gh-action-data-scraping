@@ -534,5 +534,13 @@
     "username": "purplegoose603",
     "password": "cisco",
     "invokedAt": "2022-01-11T15:49:59.037Z"
+  },
+  {
+    "firstName": "Noa",
+    "lastName": "Gautier",
+    "email": "noa.gautier@example.com",
+    "username": "yellowfish738",
+    "password": "pass123",
+    "invokedAt": "2022-01-11T15:56:20.094Z"
   }
 ]
