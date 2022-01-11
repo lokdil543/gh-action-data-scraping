@@ -630,5 +630,13 @@
     "username": "sadzebra158",
     "password": "records",
     "invokedAt": "2022-01-11T19:09:48.896Z"
+  },
+  {
+    "firstName": "Megan",
+    "lastName": "Tremblay",
+    "email": "megan.tremblay@example.com",
+    "username": "smallduck682",
+    "password": "midway",
+    "invokedAt": "2022-01-11T19:21:18.866Z"
   }
 ]
