@@ -702,5 +702,13 @@
     "username": "redpanda758",
     "password": "melvin",
     "invokedAt": "2022-01-11T20:40:10.865Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Serrano",
+    "email": "marcos.serrano@example.com",
+    "username": "heavypanda728",
+    "password": "qwerqwer",
+    "invokedAt": "2022-01-11T20:46:06.857Z"
   }
 ]
