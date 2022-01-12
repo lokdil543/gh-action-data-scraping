@@ -654,5 +654,13 @@
     "username": "purplegorilla203",
     "password": "winners",
     "invokedAt": "2022-01-12T19:27:49.003Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Olsen",
+    "email": "alexander.olsen@example.com",
+    "username": "crazybear712",
+    "password": "zerocool",
+    "invokedAt": "2022-01-12T19:34:38.763Z"
   }
 ]
