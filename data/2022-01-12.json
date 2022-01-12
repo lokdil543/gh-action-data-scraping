@@ -190,5 +190,13 @@
     "username": "heavyduck600",
     "password": "bestbuy",
     "invokedAt": "2022-01-12T07:33:07.422Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Keranen",
+    "email": "olivia.keranen@example.com",
+    "username": "brownostrich797",
+    "password": "grandma",
+    "invokedAt": "2022-01-12T07:40:46.970Z"
   }
 ]
