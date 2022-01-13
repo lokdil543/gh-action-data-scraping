@@ -478,5 +478,13 @@
     "username": "browngorilla892",
     "password": "watcher",
     "invokedAt": "2022-01-13T14:34:01.892Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Castro",
+    "email": "jon.castro@example.com",
+    "username": "happypeacock507",
+    "password": "hardball",
+    "invokedAt": "2022-01-13T14:42:08.037Z"
   }
 ]
