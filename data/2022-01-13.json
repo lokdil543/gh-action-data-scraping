@@ -342,5 +342,13 @@
     "username": "crazyfish535",
     "password": "playball",
     "invokedAt": "2022-01-13T10:57:50.429Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Bishop",
+    "email": "sergio.bishop@example.com",
+    "username": "angryswan382",
+    "password": "eureka",
+    "invokedAt": "2022-01-13T11:09:42.707Z"
   }
 ]
