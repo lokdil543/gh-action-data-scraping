@@ -390,5 +390,13 @@
     "username": "crazymouse555",
     "password": "cinema",
     "invokedAt": "2022-01-13T11:50:06.685Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Ağaoğlu",
+    "email": "babur.agaoglu@example.com",
+    "username": "orangebutterfly935",
+    "password": "pirates",
+    "invokedAt": "2022-01-13T11:56:10.659Z"
   }
 ]
