@@ -606,5 +606,13 @@
     "username": "goldenbutterfly102",
     "password": "check",
     "invokedAt": "2022-01-14T17:59:47.940Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Dufour",
+    "email": "joseph.dufour@example.com",
+    "username": "goldenduck892",
+    "password": "stingray",
+    "invokedAt": "2022-01-14T18:19:23.298Z"
   }
 ]
