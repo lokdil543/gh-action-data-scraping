@@ -254,5 +254,13 @@
     "username": "goldencat568",
     "password": "blue42",
     "invokedAt": "2022-01-14T08:50:06.885Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "King",
+    "email": "roman.king@example.com",
+    "username": "purplemouse666",
+    "password": "clipper",
+    "invokedAt": "2022-01-14T08:56:07.277Z"
   }
 ]
