@@ -526,5 +526,13 @@
     "username": "redsnake670",
     "password": "yahoo1",
     "invokedAt": "2022-01-14T15:15:22.468Z"
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Dean",
+    "email": "douglas.dean@example.com",
+    "username": "brownfish757",
+    "password": "bigblue",
+    "invokedAt": "2022-01-14T15:34:26.001Z"
   }
 ]
