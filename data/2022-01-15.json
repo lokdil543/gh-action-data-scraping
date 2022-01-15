@@ -278,5 +278,13 @@
     "username": "orangeleopard507",
     "password": "foot",
     "invokedAt": "2022-01-15T09:26:26.433Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Hokkanen",
+    "email": "arttu.hokkanen@example.com",
+    "username": "orangeduck652",
+    "password": "playboy",
+    "invokedAt": "2022-01-15T09:37:41.776Z"
   }
 ]
