@@ -758,5 +758,13 @@
     "username": "whitebear732",
     "password": "truth",
     "invokedAt": "2022-01-15T20:52:22.434Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Beşerler",
+    "email": "babur.beserler@example.com",
+    "username": "bigbird118",
+    "password": "bob123",
+    "invokedAt": "2022-01-15T20:58:11.152Z"
   }
 ]
