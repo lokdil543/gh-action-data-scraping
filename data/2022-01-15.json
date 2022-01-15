@@ -566,5 +566,13 @@
     "username": "bluebutterfly443",
     "password": "rambo",
     "invokedAt": "2022-01-15T15:57:24.811Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Boyer",
+    "email": "louis.boyer@example.com",
+    "username": "whitetiger264",
+    "password": "fishbone",
+    "invokedAt": "2022-01-15T16:14:28.640Z"
   }
 ]
