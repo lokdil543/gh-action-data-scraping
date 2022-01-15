@@ -126,5 +126,13 @@
     "username": "greenfrog827",
     "password": "5555",
     "invokedAt": "2022-01-15T05:44:10.961Z"
+  },
+  {
+    "firstName": "Cristobal",
+    "lastName": "Gallardo",
+    "email": "cristobal.gallardo@example.com",
+    "username": "orangeelephant712",
+    "password": "titanic",
+    "invokedAt": "2022-01-15T05:50:11.056Z"
   }
 ]
