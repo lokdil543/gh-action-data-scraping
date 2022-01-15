@@ -622,5 +622,13 @@
     "username": "happyleopard953",
     "password": "creature",
     "invokedAt": "2022-01-15T18:00:32.327Z"
+  },
+  {
+    "firstName": "Mélody",
+    "lastName": "Philippe",
+    "email": "melody.philippe@example.com",
+    "username": "silverfrog824",
+    "password": "cerberus",
+    "invokedAt": "2022-01-15T18:20:41.808Z"
   }
 ]
