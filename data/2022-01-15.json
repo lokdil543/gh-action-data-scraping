@@ -766,5 +766,13 @@
     "username": "bigbird118",
     "password": "bob123",
     "invokedAt": "2022-01-15T20:58:11.152Z"
+  },
+  {
+    "firstName": "Elbrich",
+    "lastName": "Van Remmerden",
+    "email": "elbrich.vanremmerden@example.com",
+    "username": "lazysnake775",
+    "password": "dreamer",
+    "invokedAt": "2022-01-15T21:10:29.325Z"
   }
 ]
