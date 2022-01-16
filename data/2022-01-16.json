@@ -182,5 +182,13 @@
     "username": "greengorilla274",
     "password": "overlord",
     "invokedAt": "2022-01-16T07:09:03.085Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Moya",
+    "email": "ana.moya@example.com",
+    "username": "smallfish964",
+    "password": "cookies",
+    "invokedAt": "2022-01-16T07:25:10.631Z"
   }
 ]
