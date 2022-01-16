@@ -862,5 +862,13 @@
     "username": "angryrabbit270",
     "password": "megapass",
     "invokedAt": "2022-01-16T22:53:27.867Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Reid",
+    "email": "ryan.reid@example.com",
+    "username": "lazydog825",
+    "password": "gaston",
+    "invokedAt": "2022-01-16T22:59:25.612Z"
   }
 ]
