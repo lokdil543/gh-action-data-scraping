@@ -190,5 +190,13 @@
     "username": "smallfish964",
     "password": "cookies",
     "invokedAt": "2022-01-16T07:25:10.631Z"
+  },
+  {
+    "firstName": "Ramadan",
+    "lastName": "Mathieu",
+    "email": "ramadan.mathieu@example.com",
+    "username": "lazyelephant700",
+    "password": "bullfrog",
+    "invokedAt": "2022-01-16T07:33:28.533Z"
   }
 ]
