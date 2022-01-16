@@ -382,5 +382,13 @@
     "username": "happybutterfly137",
     "password": "chinook",
     "invokedAt": "2022-01-16T11:31:22.764Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Lucas",
+    "email": "brian.lucas@example.com",
+    "username": "angrygorilla491",
+    "password": "missouri",
+    "invokedAt": "2022-01-16T11:37:29.907Z"
   }
 ]
