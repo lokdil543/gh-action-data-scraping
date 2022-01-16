@@ -710,5 +710,13 @@
     "username": "bluepanda512",
     "password": "atlas",
     "invokedAt": "2022-01-16T19:49:38.005Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Prescott",
+    "email": "phillip.prescott@example.com",
+    "username": "bluegorilla965",
+    "password": "airwolf",
+    "invokedAt": "2022-01-16T19:55:41.094Z"
   }
 ]
