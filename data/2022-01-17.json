@@ -774,5 +774,13 @@
     "username": "happycat547",
     "password": "therock",
     "invokedAt": "2022-01-17T21:59:50.834Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Little",
+    "email": "harry.little@example.com",
+    "username": "brownfish155",
+    "password": "synergy",
+    "invokedAt": "2022-01-17T22:15:27.237Z"
   }
 ]
