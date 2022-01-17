@@ -766,5 +766,13 @@
     "username": "orangemeercat650",
     "password": "ting",
     "invokedAt": "2022-01-17T21:54:23.840Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Hilmer",
+    "email": "richard.hilmer@example.com",
+    "username": "happycat547",
+    "password": "therock",
+    "invokedAt": "2022-01-17T21:59:50.834Z"
   }
 ]
