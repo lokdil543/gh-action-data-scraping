@@ -726,5 +726,13 @@
     "username": "purpleleopard518",
     "password": "vinnie",
     "invokedAt": "2022-01-17T21:05:59.785Z"
+  },
+  {
+    "firstName": "Arjen",
+    "lastName": "Van der Wal",
+    "email": "arjen.vanderwal@example.com",
+    "username": "heavyfish311",
+    "password": "davidson",
+    "invokedAt": "2022-01-17T21:22:09.712Z"
   }
 ]
