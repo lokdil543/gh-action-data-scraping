@@ -390,5 +390,13 @@
     "username": "whitewolf826",
     "password": "venture",
     "invokedAt": "2022-01-18T11:40:26.191Z"
+  },
+  {
+    "firstName": "Mylan",
+    "lastName": "Picard",
+    "email": "mylan.picard@example.com",
+    "username": "blackmouse755",
+    "password": "fugazi",
+    "invokedAt": "2022-01-18T11:46:15.967Z"
   }
 ]
