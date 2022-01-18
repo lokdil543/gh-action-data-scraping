@@ -526,5 +526,13 @@
     "username": "redlion231",
     "password": "hong",
     "invokedAt": "2022-01-18T15:05:26.737Z"
+  },
+  {
+    "firstName": "Alison",
+    "lastName": "Lane",
+    "email": "alison.lane@example.com",
+    "username": "purplegorilla314",
+    "password": "opendoor",
+    "invokedAt": "2022-01-18T15:27:08.301Z"
   }
 ]
