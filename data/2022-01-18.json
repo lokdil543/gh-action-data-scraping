@@ -430,5 +430,13 @@
     "username": "beautifulduck865",
     "password": "coldplay",
     "invokedAt": "2022-01-18T12:55:13.551Z"
+  },
+  {
+    "firstName": "Érico",
+    "lastName": "Aragão",
+    "email": "erico.aragao@example.com",
+    "username": "tinyfish946",
+    "password": "cancer",
+    "invokedAt": "2022-01-18T13:16:30.769Z"
   }
 ]
