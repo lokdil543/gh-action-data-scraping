@@ -750,5 +750,13 @@
     "username": "purplepeacock429",
     "password": "dirt",
     "invokedAt": "2022-01-19T17:39:01.514Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Renaud",
+    "email": "daniel.renaud@example.com",
+    "username": "biggorilla483",
+    "password": "trial",
+    "invokedAt": "2022-01-19T17:44:43.990Z"
   }
 ]
