@@ -270,5 +270,13 @@
     "username": "sadelephant949",
     "password": "pingpong",
     "invokedAt": "2022-01-19T07:27:29.766Z"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Harvey",
+    "email": "levi.harvey@example.com",
+    "username": "tinyfish313",
+    "password": "pass1",
+    "invokedAt": "2022-01-19T07:33:35.016Z"
   }
 ]
