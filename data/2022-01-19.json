@@ -886,5 +886,13 @@
     "username": "tinymouse230",
     "password": "redalert",
     "invokedAt": "2022-01-19T20:00:17.970Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Petersen",
+    "email": "astrid.petersen@example.com",
+    "username": "ticklishduck543",
+    "password": "shark",
+    "invokedAt": "2022-01-19T20:16:36.013Z"
   }
 ]
