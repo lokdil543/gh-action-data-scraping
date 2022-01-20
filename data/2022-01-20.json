@@ -950,5 +950,13 @@
     "username": "yellowmeercat225",
     "password": "border",
     "invokedAt": "2022-01-20T21:42:51.811Z"
+  },
+  {
+    "firstName": "Julio",
+    "lastName": "Gibson",
+    "email": "julio.gibson@example.com",
+    "username": "bluebutterfly214",
+    "password": "bouncer",
+    "invokedAt": "2022-01-20T21:48:51.824Z"
   }
 ]
