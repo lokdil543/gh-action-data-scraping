@@ -782,5 +782,13 @@
     "username": "tinyfish994",
     "password": "excess",
     "invokedAt": "2022-01-20T18:55:09.632Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Makinen",
+    "email": "arttu.makinen@example.com",
+    "username": "sadduck999",
+    "password": "juggalo",
+    "invokedAt": "2022-01-20T19:01:56.227Z"
   }
 ]
