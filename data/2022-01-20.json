@@ -182,5 +182,13 @@
     "username": "redbear622",
     "password": "bruno1",
     "invokedAt": "2022-01-20T05:53:18.830Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Li",
+    "email": "alice.li@example.com",
+    "username": "ticklishkoala598",
+    "password": "hyperion",
+    "invokedAt": "2022-01-20T05:59:07.773Z"
   }
 ]
