@@ -342,5 +342,13 @@
     "username": "crazycat114",
     "password": "beating",
     "invokedAt": "2022-01-20T09:15:24.563Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Li",
+    "email": "david.li@example.com",
+    "username": "purplemouse215",
+    "password": "nipper",
+    "invokedAt": "2022-01-20T09:29:32.723Z"
   }
 ]
