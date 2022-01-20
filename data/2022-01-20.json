@@ -486,5 +486,13 @@
     "username": "silverlion842",
     "password": "metallica",
     "invokedAt": "2022-01-20T11:52:33.525Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Petersen",
+    "email": "selma.petersen@example.com",
+    "username": "orangebutterfly711",
+    "password": "terror",
+    "invokedAt": "2022-01-20T11:58:27.111Z"
   }
 ]
