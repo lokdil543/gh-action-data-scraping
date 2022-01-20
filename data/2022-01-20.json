@@ -222,5 +222,13 @@
     "username": "bigbird256",
     "password": "mental",
     "invokedAt": "2022-01-20T06:53:51.190Z"
+  },
+  {
+    "firstName": "Capucine",
+    "lastName": "Henry",
+    "email": "capucine.henry@example.com",
+    "username": "sadpanda101",
+    "password": "chevy",
+    "invokedAt": "2022-01-20T06:59:57.237Z"
   }
 ]
