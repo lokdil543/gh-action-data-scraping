@@ -582,5 +582,13 @@
     "username": "whitewolf731",
     "password": "callaway",
     "invokedAt": "2022-01-20T14:22:28.000Z"
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Nævdal",
+    "email": "tor.naevdal@example.com",
+    "username": "blackbutterfly675",
+    "password": "bouncer",
+    "invokedAt": "2022-01-20T14:29:03.899Z"
   }
 ]
