@@ -974,5 +974,13 @@
     "username": "purplecat425",
     "password": "vermont",
     "invokedAt": "2022-01-20T22:00:32.460Z"
+  },
+  {
+    "firstName": "Irma",
+    "lastName": "Van Rhijn",
+    "email": "irma.vanrhijn@example.com",
+    "username": "organicfrog450",
+    "password": "jazzman",
+    "invokedAt": "2022-01-20T22:15:58.746Z"
   }
 ]
