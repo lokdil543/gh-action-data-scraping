@@ -270,5 +270,13 @@
     "username": "happyfrog530",
     "password": "ceng",
     "invokedAt": "2022-01-20T07:45:00.831Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Krampe",
+    "email": "stefan.krampe@example.com",
+    "username": "greenkoala343",
+    "password": "lightnin",
+    "invokedAt": "2022-01-20T07:51:00.658Z"
   }
 ]
