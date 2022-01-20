@@ -238,5 +238,13 @@
     "username": "orangefrog421",
     "password": "jamaica",
     "invokedAt": "2022-01-20T07:14:37.068Z"
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Romero",
+    "email": "milton.romero@example.com",
+    "username": "crazycat682",
+    "password": "lola",
+    "invokedAt": "2022-01-20T07:26:38.281Z"
   }
 ]
