@@ -926,5 +926,13 @@
     "username": "silverdog172",
     "password": "garfield",
     "invokedAt": "2022-01-21T21:01:38.017Z"
+  },
+  {
+    "firstName": "Josué",
+    "lastName": "Rocha",
+    "email": "josue.rocha@example.com",
+    "username": "angrycat256",
+    "password": "brigitte",
+    "invokedAt": "2022-01-21T21:13:13.864Z"
   }
 ]
