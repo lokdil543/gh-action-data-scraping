@@ -270,5 +270,13 @@
     "username": "blackbutterfly531",
     "password": "shadow1",
     "invokedAt": "2022-01-21T07:44:07.847Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Aho",
+    "email": "samuel.aho@example.com",
+    "username": "angrygoose442",
+    "password": "doit",
+    "invokedAt": "2022-01-21T07:49:58.512Z"
   }
 ]
