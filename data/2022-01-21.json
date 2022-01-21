@@ -702,5 +702,13 @@
     "username": "smallpanda501",
     "password": "auto",
     "invokedAt": "2022-01-21T16:51:20.169Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Roy",
+    "email": "victor.roy@example.com",
+    "username": "purplemouse707",
+    "password": "guiness",
+    "invokedAt": "2022-01-21T17:05:20.817Z"
   }
 ]
