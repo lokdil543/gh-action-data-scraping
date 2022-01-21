@@ -254,5 +254,13 @@
     "username": "yellowdog913",
     "password": "trouble",
     "invokedAt": "2022-01-21T07:32:14.869Z"
+  },
+  {
+    "firstName": "Harley",
+    "lastName": "Wang",
+    "email": "harley.wang@example.com",
+    "username": "beautifulkoala626",
+    "password": "roadking",
+    "invokedAt": "2022-01-21T07:38:15.665Z"
   }
 ]
