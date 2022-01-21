@@ -438,5 +438,13 @@
     "username": "smallrabbit186",
     "password": "micron",
     "invokedAt": "2022-01-21T10:58:25.333Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Craig",
+    "email": "jordan.craig@example.com",
+    "username": "smalldog300",
+    "password": "option",
+    "invokedAt": "2022-01-21T11:10:19.558Z"
   }
 ]
