@@ -798,5 +798,13 @@
     "username": "sadcat365",
     "password": "techniques",
     "invokedAt": "2022-01-21T18:58:06.263Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Chen",
+    "email": "oliver.chen@example.com",
+    "username": "brownkoala670",
+    "password": "wxcvbn",
+    "invokedAt": "2022-01-21T19:09:31.587Z"
   }
 ]
