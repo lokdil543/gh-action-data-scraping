@@ -382,5 +382,13 @@
     "username": "brownkoala618",
     "password": "dirtbike",
     "invokedAt": "2022-01-21T09:53:53.923Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Christensen",
+    "email": "emil.christensen@example.com",
+    "username": "heavyfish265",
+    "password": "rage",
+    "invokedAt": "2022-01-21T09:59:43.785Z"
   }
 ]
