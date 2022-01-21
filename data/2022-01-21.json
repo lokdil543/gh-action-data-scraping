@@ -446,5 +446,13 @@
     "username": "smalldog300",
     "password": "option",
     "invokedAt": "2022-01-21T11:10:19.558Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Korhonen",
+    "email": "minttu.korhonen@example.com",
+    "username": "angrybird363",
+    "password": "graves",
+    "invokedAt": "2022-01-21T11:22:30.440Z"
   }
 ]
