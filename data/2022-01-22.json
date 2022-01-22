@@ -886,5 +886,13 @@
     "username": "purplelion201",
     "password": "socrates",
     "invokedAt": "2022-01-22T19:47:50.756Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Mikkola",
+    "email": "emil.mikkola@example.com",
+    "username": "purplegoose673",
+    "password": "attack",
+    "invokedAt": "2022-01-22T19:53:44.230Z"
   }
 ]
