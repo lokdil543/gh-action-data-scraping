@@ -966,5 +966,13 @@
     "username": "tinyfish502",
     "password": "jumbo",
     "invokedAt": "2022-01-22T21:09:58.139Z"
+  },
+  {
+    "firstName": "Ilídio",
+    "lastName": "da Mota",
+    "email": "ilidio.damota@example.com",
+    "username": "greenduck919",
+    "password": "moron",
+    "invokedAt": "2022-01-22T21:22:48.903Z"
   }
 ]
