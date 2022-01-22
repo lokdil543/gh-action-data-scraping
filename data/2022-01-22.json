@@ -1046,5 +1046,13 @@
     "username": "angrysnake612",
     "password": "brown1",
     "invokedAt": "2022-01-22T22:35:32.691Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Bjørkedal",
+    "email": "alice.bjorkedal@example.com",
+    "username": "crazypanda623",
+    "password": "getmoney",
+    "invokedAt": "2022-01-22T22:41:23.319Z"
   }
 ]
