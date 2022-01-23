@@ -718,5 +718,13 @@
     "username": "bigfish962",
     "password": "trigger",
     "invokedAt": "2022-01-23T16:21:19.985Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Nguyen",
+    "email": "david.nguyen@example.com",
+    "username": "crazyleopard718",
+    "password": "motion",
+    "invokedAt": "2022-01-23T16:49:44.866Z"
   }
 ]
