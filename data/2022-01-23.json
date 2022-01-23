@@ -750,5 +750,13 @@
     "username": "blackcat356",
     "password": "onetime",
     "invokedAt": "2022-01-23T17:40:56.699Z"
+  },
+  {
+    "firstName": "Ursula",
+    "lastName": "Frieß",
+    "email": "ursula.friess@example.com",
+    "username": "lazybear963",
+    "password": "gaston",
+    "invokedAt": "2022-01-23T17:46:48.039Z"
   }
 ]
