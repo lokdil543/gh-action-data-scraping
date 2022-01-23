@@ -606,5 +606,13 @@
     "username": "sadsnake467",
     "password": "yahoo1",
     "invokedAt": "2022-01-23T14:11:30.553Z"
+  },
+  {
+    "firstName": "Ercan",
+    "lastName": "Haack",
+    "email": "ercan.haack@example.com",
+    "username": "greenbear381",
+    "password": "simba1",
+    "invokedAt": "2022-01-23T14:24:22.848Z"
   }
 ]
