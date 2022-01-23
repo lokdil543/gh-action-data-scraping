@@ -486,5 +486,13 @@
     "username": "bigostrich655",
     "password": "killian",
     "invokedAt": "2022-01-23T11:34:47.884Z"
+  },
+  {
+    "firstName": "Hans Jürgen",
+    "lastName": "Fromme",
+    "email": "hansjurgen.fromme@example.com",
+    "username": "goldenladybug113",
+    "password": "apple",
+    "invokedAt": "2022-01-23T11:40:49.805Z"
   }
 ]
