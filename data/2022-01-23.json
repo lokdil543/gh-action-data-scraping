@@ -206,5 +206,13 @@
     "username": "happycat295",
     "password": "daemon",
     "invokedAt": "2022-01-23T06:12:42.278Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Johnson",
+    "email": "aaron.johnson@example.com",
+    "username": "greenbutterfly638",
+    "password": "55555",
+    "invokedAt": "2022-01-23T06:32:34.365Z"
   }
 ]
