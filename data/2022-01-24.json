@@ -22,5 +22,13 @@
     "username": "goldensnake853",
     "password": "jets",
     "invokedAt": "2022-01-24T02:25:14.041Z"
+  },
+  {
+    "firstName": "Clint",
+    "lastName": "Van Oostrom",
+    "email": "clint.vanoostrom@example.com",
+    "username": "orangebird135",
+    "password": "trustme",
+    "invokedAt": "2022-01-24T02:47:53.030Z"
   }
 ]
