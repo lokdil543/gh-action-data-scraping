@@ -310,5 +310,13 @@
     "username": "orangeleopard329",
     "password": "amazon",
     "invokedAt": "2022-01-24T09:23:25.031Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Wong",
+    "email": "alice.wong@example.com",
+    "username": "brownladybug351",
+    "password": "rancid",
+    "invokedAt": "2022-01-24T09:31:56.143Z"
   }
 ]
