@@ -822,5 +822,13 @@
     "username": "silverostrich483",
     "password": "recovery",
     "invokedAt": "2022-01-24T20:13:53.856Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Köylüoğlu",
+    "email": "elif.koyluoglu@example.com",
+    "username": "whitebear435",
+    "password": "ruby",
+    "invokedAt": "2022-01-24T20:29:11.001Z"
   }
 ]
