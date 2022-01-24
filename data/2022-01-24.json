@@ -718,5 +718,13 @@
     "username": "heavydog711",
     "password": "dong",
     "invokedAt": "2022-01-24T18:24:07.793Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Kemppainen",
+    "email": "peppi.kemppainen@example.com",
+    "username": "heavyfish956",
+    "password": "cuan",
+    "invokedAt": "2022-01-24T18:36:44.109Z"
   }
 ]
