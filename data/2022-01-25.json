@@ -798,5 +798,13 @@
     "username": "goldenbutterfly130",
     "password": "airborne",
     "invokedAt": "2022-01-25T19:00:39.570Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Mortensen",
+    "email": "tristan.mortensen@example.com",
+    "username": "saddog173",
+    "password": "wingman",
+    "invokedAt": "2022-01-25T19:14:36.366Z"
   }
 ]
