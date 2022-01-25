@@ -494,5 +494,13 @@
     "username": "brownbutterfly285",
     "password": "digital1",
     "invokedAt": "2022-01-25T11:53:47.454Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Ramirez",
+    "email": "rosa.ramirez@example.com",
+    "username": "brownmouse210",
+    "password": "smeghead",
+    "invokedAt": "2022-01-25T11:59:36.947Z"
   }
 ]
