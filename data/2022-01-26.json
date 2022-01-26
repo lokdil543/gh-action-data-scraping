@@ -814,5 +814,13 @@
     "username": "ticklishswan330",
     "password": "hammer",
     "invokedAt": "2022-01-26T19:23:40.786Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Legrand",
+    "email": "lucas.legrand@example.com",
+    "username": "organicswan254",
+    "password": "secure",
+    "invokedAt": "2022-01-26T19:29:30.046Z"
   }
 ]
