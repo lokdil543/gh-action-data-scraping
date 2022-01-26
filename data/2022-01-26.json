@@ -1022,5 +1022,13 @@
     "username": "yellowrabbit398",
     "password": "quartz",
     "invokedAt": "2022-01-26T22:51:18.820Z"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Franklin",
+    "email": "mark.franklin@example.com",
+    "username": "silverfrog548",
+    "password": "paragon",
+    "invokedAt": "2022-01-26T22:57:08.004Z"
   }
 ]
