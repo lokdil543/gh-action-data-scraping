@@ -190,5 +190,13 @@
     "username": "sadostrich285",
     "password": "australia",
     "invokedAt": "2022-01-26T05:58:17.995Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Steward",
+    "email": "kirk.steward@example.com",
+    "username": "sadfrog153",
+    "password": "grunt",
+    "invokedAt": "2022-01-26T06:14:19.932Z"
   }
 ]
