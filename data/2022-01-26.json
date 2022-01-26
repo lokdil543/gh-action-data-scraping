@@ -1006,5 +1006,13 @@
     "username": "redrabbit827",
     "password": "lexus",
     "invokedAt": "2022-01-26T22:39:41.815Z"
+  },
+  {
+    "firstName": "Ariana",
+    "lastName": "Chen",
+    "email": "ariana.chen@example.com",
+    "username": "orangemouse806",
+    "password": "secrets",
+    "invokedAt": "2022-01-26T22:45:30.907Z"
   }
 ]
