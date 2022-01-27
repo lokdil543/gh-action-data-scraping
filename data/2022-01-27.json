@@ -574,5 +574,13 @@
     "username": "tinymeercat468",
     "password": "dope",
     "invokedAt": "2022-01-27T13:59:47.853Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Petersen",
+    "email": "benjamin.petersen@example.com",
+    "username": "tinygoose194",
+    "password": "meow",
+    "invokedAt": "2022-01-27T14:13:56.027Z"
   }
 ]
