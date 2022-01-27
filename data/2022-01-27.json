@@ -614,5 +614,13 @@
     "username": "redpanda443",
     "password": "europe",
     "invokedAt": "2022-01-27T14:44:37.560Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Petit",
+    "email": "eva.petit@example.com",
+    "username": "silverwolf367",
+    "password": "presiden",
+    "invokedAt": "2022-01-27T14:50:32.819Z"
   }
 ]
