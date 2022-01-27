@@ -934,5 +934,13 @@
     "username": "yellowpeacock123",
     "password": "sandwich",
     "invokedAt": "2022-01-27T21:29:55.144Z"
+  },
+  {
+    "firstName": "Ernest",
+    "lastName": "Bishop",
+    "email": "ernest.bishop@example.com",
+    "username": "lazywolf165",
+    "password": "beaver",
+    "invokedAt": "2022-01-27T21:36:02.275Z"
   }
 ]
