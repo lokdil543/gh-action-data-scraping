@@ -358,5 +358,13 @@
     "username": "happydog102",
     "password": "nipples",
     "invokedAt": "2022-01-28T09:29:51.308Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Barbier",
+    "email": "hector.barbier@example.com",
+    "username": "tinypanda187",
+    "password": "tractor",
+    "invokedAt": "2022-01-28T09:38:36.908Z"
   }
 ]
