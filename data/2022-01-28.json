@@ -686,5 +686,13 @@
     "username": "whitebird406",
     "password": "ranger",
     "invokedAt": "2022-01-28T15:58:28.015Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Dunn",
+    "email": "luis.dunn@example.com",
+    "username": "lazygoose711",
+    "password": "capital",
+    "invokedAt": "2022-01-28T16:17:10.241Z"
   }
 ]
