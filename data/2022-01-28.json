@@ -286,5 +286,13 @@
     "username": "happybird558",
     "password": "wally",
     "invokedAt": "2022-01-28T07:52:54.030Z"
+  },
+  {
+    "firstName": "Marion",
+    "lastName": "Muller",
+    "email": "marion.muller@example.com",
+    "username": "yellowgoose654",
+    "password": "redbird",
+    "invokedAt": "2022-01-28T07:58:44.033Z"
   }
 ]
