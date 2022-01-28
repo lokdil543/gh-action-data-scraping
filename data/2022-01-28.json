@@ -422,5 +422,13 @@
     "username": "orangedog601",
     "password": "ripken",
     "invokedAt": "2022-01-28T10:44:07.044Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Kristensen",
+    "email": "mathilde.kristensen@example.com",
+    "username": "orangetiger295",
+    "password": "clowns",
+    "invokedAt": "2022-01-28T10:49:53.085Z"
   }
 ]
