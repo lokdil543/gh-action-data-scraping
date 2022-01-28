@@ -718,5 +718,13 @@
     "username": "beautifulbutterfly491",
     "password": "stryker",
     "invokedAt": "2022-01-28T17:21:17.302Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Andersen",
+    "email": "andrea.andersen@example.com",
+    "username": "orangepanda515",
+    "password": "123456",
+    "invokedAt": "2022-01-28T17:34:16.110Z"
   }
 ]
