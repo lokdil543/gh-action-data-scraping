@@ -710,5 +710,13 @@
     "username": "beautifulbear186",
     "password": "comedy",
     "invokedAt": "2022-01-29T15:49:28.332Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Parker",
+    "email": "mary.parker@example.com",
+    "username": "sadbutterfly855",
+    "password": "pharmacy",
+    "invokedAt": "2022-01-29T15:55:20.008Z"
   }
 ]
