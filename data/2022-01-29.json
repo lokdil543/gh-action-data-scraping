@@ -622,5 +622,13 @@
     "username": "orangefish208",
     "password": "dogbert",
     "invokedAt": "2022-01-29T14:20:45.597Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Lampinen",
+    "email": "sofia.lampinen@example.com",
+    "username": "bluefish717",
+    "password": "bogart",
+    "invokedAt": "2022-01-29T14:27:47.733Z"
   }
 ]
