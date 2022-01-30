@@ -566,5 +566,13 @@
     "username": "bigtiger343",
     "password": "sausage",
     "invokedAt": "2022-01-30T13:08:10.969Z"
+  },
+  {
+    "firstName": "Arnaldo",
+    "lastName": "da Mota",
+    "email": "arnaldo.damota@example.com",
+    "username": "smallzebra323",
+    "password": "enigma",
+    "invokedAt": "2022-01-30T13:23:50.859Z"
   }
 ]
