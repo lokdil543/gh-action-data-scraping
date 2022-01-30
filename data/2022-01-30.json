@@ -654,5 +654,13 @@
     "username": "tinygorilla182",
     "password": "filter",
     "invokedAt": "2022-01-30T14:35:07.248Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Pulli",
+    "email": "aapo.pulli@example.com",
+    "username": "angrybutterfly752",
+    "password": "sanity",
+    "invokedAt": "2022-01-30T14:40:58.711Z"
   }
 ]
