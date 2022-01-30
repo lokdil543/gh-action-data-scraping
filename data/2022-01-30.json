@@ -798,5 +798,13 @@
     "username": "purplegorilla534",
     "password": "pimp",
     "invokedAt": "2022-01-30T17:45:38.294Z"
+  },
+  {
+    "firstName": "Dominique",
+    "lastName": "Laurent",
+    "email": "dominique.laurent@example.com",
+    "username": "silvergoose224",
+    "password": "blueblue",
+    "invokedAt": "2022-01-30T17:51:25.020Z"
   }
 ]
