@@ -342,5 +342,13 @@
     "username": "orangeleopard495",
     "password": "rampage",
     "invokedAt": "2022-01-30T08:46:51.567Z"
+  },
+  {
+    "firstName": "Harley",
+    "lastName": "Anderson",
+    "email": "harley.anderson@example.com",
+    "username": "brownelephant230",
+    "password": "butcher",
+    "invokedAt": "2022-01-30T08:52:44.845Z"
   }
 ]
