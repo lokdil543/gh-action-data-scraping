@@ -1006,5 +1006,13 @@
     "username": "orangefish200",
     "password": "frost",
     "invokedAt": "2022-01-30T21:24:15.197Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Richards",
+    "email": "greg.richards@example.com",
+    "username": "happypeacock912",
+    "password": "amazing",
+    "invokedAt": "2022-01-30T21:30:00.071Z"
   }
 ]
