@@ -462,5 +462,13 @@
     "username": "angrylion442",
     "password": "patch",
     "invokedAt": "2022-01-30T10:52:34.368Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Fleming",
+    "email": "sarah.fleming@example.com",
+    "username": "purpleduck659",
+    "password": "oakland",
+    "invokedAt": "2022-01-30T10:58:23.262Z"
   }
 ]
