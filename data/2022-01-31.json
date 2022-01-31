@@ -286,5 +286,13 @@
     "username": "yellowtiger137",
     "password": "asdf1234",
     "invokedAt": "2022-01-31T07:52:18.022Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Davidson",
+    "email": "mike.davidson@example.com",
+    "username": "heavypeacock106",
+    "password": "project",
+    "invokedAt": "2022-01-31T07:57:39.069Z"
   }
 ]
