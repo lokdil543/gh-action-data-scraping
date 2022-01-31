@@ -750,5 +750,13 @@
     "username": "silvermeercat320",
     "password": "1129",
     "invokedAt": "2022-01-31T17:48:09.013Z"
+  },
+  {
+    "firstName": "Yannick",
+    "lastName": "Moulin",
+    "email": "yannick.moulin@example.com",
+    "username": "crazyostrich454",
+    "password": "pooh",
+    "invokedAt": "2022-01-31T17:54:02.000Z"
   }
 ]
