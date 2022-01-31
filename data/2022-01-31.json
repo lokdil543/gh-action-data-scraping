@@ -838,5 +838,13 @@
     "username": "blackdog134",
     "password": "wordup",
     "invokedAt": "2022-01-31T19:30:52.038Z"
+  },
+  {
+    "firstName": "Étienne",
+    "lastName": "Mijnster",
+    "email": "etienne.mijnster@example.com",
+    "username": "beautifulelephant170",
+    "password": "camaross",
+    "invokedAt": "2022-01-31T19:37:09.932Z"
   }
 ]
