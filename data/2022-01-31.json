@@ -398,5 +398,13 @@
     "username": "angrybird400",
     "password": "beatles",
     "invokedAt": "2022-01-31T10:13:05.761Z"
+  },
+  {
+    "firstName": "Ilda",
+    "lastName": "Gonçalves",
+    "email": "ilda.goncalves@example.com",
+    "username": "whitesnake229",
+    "password": "videoes",
+    "invokedAt": "2022-01-31T10:30:08.820Z"
   }
 ]
