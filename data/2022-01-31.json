@@ -782,5 +782,13 @@
     "username": "brownbird299",
     "password": "happy1",
     "invokedAt": "2022-01-31T18:34:21.969Z"
+  },
+  {
+    "firstName": "Ece",
+    "lastName": "Bayındır",
+    "email": "ece.bayindir@example.com",
+    "username": "lazyostrich492",
+    "password": "dave",
+    "invokedAt": "2022-01-31T18:45:46.951Z"
   }
 ]
