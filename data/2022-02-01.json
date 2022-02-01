@@ -958,5 +958,13 @@
     "username": "redbird437",
     "password": "bigger",
     "invokedAt": "2022-02-01T21:39:15.093Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Lévesque",
+    "email": "maxime.levesque@example.com",
+    "username": "bigelephant187",
+    "password": "coco",
+    "invokedAt": "2022-02-01T21:45:03.908Z"
   }
 ]
