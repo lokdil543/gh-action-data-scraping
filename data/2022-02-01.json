@@ -726,5 +726,13 @@
     "username": "crazyduck799",
     "password": "1313",
     "invokedAt": "2022-02-01T17:26:08.459Z"
+  },
+  {
+    "firstName": "François",
+    "lastName": "Brunet",
+    "email": "francois.brunet@example.com",
+    "username": "ticklishmouse368",
+    "password": "metoo",
+    "invokedAt": "2022-02-01T17:36:56.359Z"
   }
 ]
