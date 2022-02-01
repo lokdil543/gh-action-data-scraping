@@ -478,5 +478,13 @@
     "username": "yellowgoose765",
     "password": "bbbbbb",
     "invokedAt": "2022-02-01T11:36:01.156Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Nielsen",
+    "email": "noah.nielsen@example.com",
+    "username": "blackbutterfly756",
+    "password": "puppies",
+    "invokedAt": "2022-02-01T11:41:59.319Z"
   }
 ]
