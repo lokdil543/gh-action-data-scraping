@@ -318,5 +318,13 @@
     "username": "smallkoala120",
     "password": "temp",
     "invokedAt": "2022-02-01T08:35:29.946Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Hannula",
+    "email": "valtteri.hannula@example.com",
+    "username": "bigduck252",
+    "password": "smokie",
+    "invokedAt": "2022-02-01T08:45:11.749Z"
   }
 ]
