@@ -990,5 +990,13 @@
     "username": "bluesnake237",
     "password": "unicorn",
     "invokedAt": "2022-02-01T22:07:48.976Z"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Zhang",
+    "email": "aiden.zhang@example.com",
+    "username": "tinykoala775",
+    "password": "trigger",
+    "invokedAt": "2022-02-01T22:23:55.970Z"
   }
 ]
