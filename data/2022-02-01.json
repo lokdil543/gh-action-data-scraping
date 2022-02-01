@@ -262,5 +262,13 @@
     "username": "whiteostrich384",
     "password": "briggs",
     "invokedAt": "2022-02-01T07:30:48.057Z"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Kowalski",
+    "email": "aiden.kowalski@example.com",
+    "username": "yellowsnake551",
+    "password": "addict",
+    "invokedAt": "2022-02-01T07:36:42.107Z"
   }
 ]
