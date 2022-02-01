@@ -518,5 +518,13 @@
     "username": "crazymouse304",
     "password": "cloud",
     "invokedAt": "2022-02-01T12:27:38.046Z"
+  },
+  {
+    "firstName": "Marcia",
+    "lastName": "Robinson",
+    "email": "marcia.robinson@example.com",
+    "username": "heavymouse117",
+    "password": "sparkle",
+    "invokedAt": "2022-02-01T12:49:19.659Z"
   }
 ]
