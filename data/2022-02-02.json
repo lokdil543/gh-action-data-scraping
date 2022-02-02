@@ -198,5 +198,13 @@
     "username": "ticklishpanda205",
     "password": "cookie",
     "invokedAt": "2022-02-02T05:57:16.206Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Carroll",
+    "email": "walter.carroll@example.com",
+    "username": "goldenfish500",
+    "password": "bennett",
+    "invokedAt": "2022-02-02T06:11:27.647Z"
   }
 ]
