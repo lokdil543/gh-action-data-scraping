@@ -486,5 +486,13 @@
     "username": "crazysnake681",
     "password": "philly",
     "invokedAt": "2022-02-02T11:36:11.463Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Li",
+    "email": "molly.li@example.com",
+    "username": "sadostrich265",
+    "password": "miles",
+    "invokedAt": "2022-02-02T11:42:03.920Z"
   }
 ]
