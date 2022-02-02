@@ -422,5 +422,13 @@
     "username": "happybear914",
     "password": "hank",
     "invokedAt": "2022-02-02T10:35:10.161Z"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Bowman",
+    "email": "kyle.bowman@example.com",
+    "username": "sadbird502",
+    "password": "dirtbike",
+    "invokedAt": "2022-02-02T10:42:24.088Z"
   }
 ]
