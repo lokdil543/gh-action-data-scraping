@@ -998,5 +998,13 @@
     "username": "orangedog254",
     "password": "rumble",
     "invokedAt": "2022-02-02T22:14:37.805Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Korpi",
+    "email": "emil.korpi@example.com",
+    "username": "heavybird798",
+    "password": "body",
+    "invokedAt": "2022-02-02T22:28:23.732Z"
   }
 ]
