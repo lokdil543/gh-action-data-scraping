@@ -702,5 +702,13 @@
     "username": "smallpeacock101",
     "password": "gator1",
     "invokedAt": "2022-02-02T16:14:49.220Z"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Fletcher",
+    "email": "joey.fletcher@example.com",
+    "username": "silverfrog366",
+    "password": "mellow",
+    "invokedAt": "2022-02-02T16:45:46.036Z"
   }
 ]
