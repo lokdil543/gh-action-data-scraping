@@ -494,5 +494,13 @@
     "username": "sadostrich265",
     "password": "miles",
     "invokedAt": "2022-02-02T11:42:03.920Z"
+  },
+  {
+    "firstName": "Giray",
+    "lastName": "Topçuoğlu",
+    "email": "giray.topcuoglu@example.com",
+    "username": "lazyladybug381",
+    "password": "force",
+    "invokedAt": "2022-02-02T11:47:57.091Z"
   }
 ]
