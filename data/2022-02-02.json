@@ -966,5 +966,13 @@
     "username": "crazyswan416",
     "password": "playboy2",
     "invokedAt": "2022-02-02T21:42:32.116Z"
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Parker",
+    "email": "ronald.parker@example.com",
+    "username": "yellowdog172",
+    "password": "archie",
+    "invokedAt": "2022-02-02T21:48:20.227Z"
   }
 ]
