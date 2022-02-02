@@ -550,5 +550,13 @@
     "username": "yellowpeacock226",
     "password": "123457",
     "invokedAt": "2022-02-02T13:23:44.980Z"
+  },
+  {
+    "firstName": "Linnea",
+    "lastName": "Kivisto",
+    "email": "linnea.kivisto@example.com",
+    "username": "smalllion708",
+    "password": "poker",
+    "invokedAt": "2022-02-02T13:31:52.908Z"
   }
 ]
