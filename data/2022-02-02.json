@@ -574,5 +574,13 @@
     "username": "silverfish720",
     "password": "mickey1",
     "invokedAt": "2022-02-02T13:43:52.937Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Bergeron",
+    "email": "etienne.bergeron@example.com",
+    "username": "heavycat144",
+    "password": "98765432",
+    "invokedAt": "2022-02-02T13:49:43.914Z"
   }
 ]
