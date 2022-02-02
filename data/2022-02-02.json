@@ -190,5 +190,13 @@
     "username": "orangepanda594",
     "password": "kodiak",
     "invokedAt": "2022-02-02T05:51:25.910Z"
+  },
+  {
+    "firstName": "Arlo",
+    "lastName": "Walker",
+    "email": "arlo.walker@example.com",
+    "username": "ticklishpanda205",
+    "password": "cookie",
+    "invokedAt": "2022-02-02T05:57:16.206Z"
   }
 ]
