@@ -710,5 +710,13 @@
     "username": "bluegoose113",
     "password": "eight",
     "invokedAt": "2022-02-03T16:42:25.056Z"
+  },
+  {
+    "firstName": "Amélie",
+    "lastName": "Moulin",
+    "email": "amelie.moulin@example.com",
+    "username": "happyduck625",
+    "password": "123abc",
+    "invokedAt": "2022-02-03T17:00:26.095Z"
   }
 ]
