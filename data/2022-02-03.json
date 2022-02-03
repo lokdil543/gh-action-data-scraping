@@ -174,5 +174,13 @@
     "username": "silverostrich759",
     "password": "hardware",
     "invokedAt": "2022-02-03T05:41:20.638Z"
+  },
+  {
+    "firstName": "Sébastien",
+    "lastName": "Barbier",
+    "email": "sebastien.barbier@example.com",
+    "username": "bigostrich872",
+    "password": "sharpe",
+    "invokedAt": "2022-02-03T05:47:13.664Z"
   }
 ]
