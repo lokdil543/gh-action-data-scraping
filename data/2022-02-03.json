@@ -454,5 +454,13 @@
     "username": "goldenswan648",
     "password": "toronto",
     "invokedAt": "2022-02-03T11:05:44.218Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Pierre",
+    "email": "paul.pierre@example.com",
+    "username": "blackladybug403",
+    "password": "wanker",
+    "invokedAt": "2022-02-03T11:18:29.964Z"
   }
 ]
