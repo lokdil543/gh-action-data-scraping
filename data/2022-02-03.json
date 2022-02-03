@@ -886,5 +886,13 @@
     "username": "goldenwolf468",
     "password": "batman1",
     "invokedAt": "2022-02-03T20:24:51.625Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Nieto",
+    "email": "fernando.nieto@example.com",
+    "username": "bluebutterfly555",
+    "password": "dealer",
+    "invokedAt": "2022-02-03T20:32:40.192Z"
   }
 ]
