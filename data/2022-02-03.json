@@ -718,5 +718,13 @@
     "username": "happyduck625",
     "password": "123abc",
     "invokedAt": "2022-02-03T17:00:26.095Z"
+  },
+  {
+    "firstName": "Bently",
+    "lastName": "Taylor",
+    "email": "bently.taylor@example.com",
+    "username": "ticklishlion917",
+    "password": "case",
+    "invokedAt": "2022-02-03T17:18:38.607Z"
   }
 ]
