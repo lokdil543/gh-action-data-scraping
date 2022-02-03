@@ -86,5 +86,13 @@
     "username": "silvermeercat280",
     "password": "unique",
     "invokedAt": "2022-02-03T03:47:44.237Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Sørensen",
+    "email": "marcus.sorensen@example.com",
+    "username": "tinyzebra428",
+    "password": "book",
+    "invokedAt": "2022-02-03T03:53:39.604Z"
   }
 ]
