@@ -1270,5 +1270,13 @@
     "username": "lazytiger256",
     "password": "ghetto",
     "invokedAt": "2022-02-04T22:37:39.043Z"
+  },
+  {
+    "firstName": "Travis",
+    "lastName": "Robinson",
+    "email": "travis.robinson@example.com",
+    "username": "orangecat809",
+    "password": "sick",
+    "invokedAt": "2022-02-04T22:43:28.030Z"
   }
 ]
