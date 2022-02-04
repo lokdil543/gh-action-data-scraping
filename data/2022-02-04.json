@@ -710,5 +710,13 @@
     "username": "bigkoala988",
     "password": "true",
     "invokedAt": "2022-02-04T13:36:49.903Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Williams",
+    "email": "jerry.williams@example.com",
+    "username": "happycat880",
+    "password": "trains",
+    "invokedAt": "2022-02-04T13:42:41.063Z"
   }
 ]
