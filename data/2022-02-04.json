@@ -742,5 +742,13 @@
     "username": "crazyfish494",
     "password": "martin",
     "invokedAt": "2022-02-04T14:00:15.128Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Abacı",
+    "email": "ceylan.abaci@example.com",
+    "username": "goldenbird359",
+    "password": "birdie",
+    "invokedAt": "2022-02-04T14:13:14.651Z"
   }
 ]
