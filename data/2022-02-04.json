@@ -774,5 +774,13 @@
     "username": "crazyleopard218",
     "password": "special",
     "invokedAt": "2022-02-04T14:33:37.977Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Boyd",
+    "email": "jacob.boyd@example.com",
+    "username": "browngorilla870",
+    "password": "matilda",
+    "invokedAt": "2022-02-04T14:39:39.075Z"
   }
 ]
