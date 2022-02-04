@@ -398,5 +398,13 @@
     "username": "redbird445",
     "password": "4040",
     "invokedAt": "2022-02-04T08:22:57.018Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Peltonen",
+    "email": "miro.peltonen@example.com",
+    "username": "whitebutterfly823",
+    "password": "baylor",
+    "invokedAt": "2022-02-04T08:30:31.109Z"
   }
 ]
