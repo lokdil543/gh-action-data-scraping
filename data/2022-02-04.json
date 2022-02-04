@@ -14,5 +14,13 @@
     "username": "lazydog226",
     "password": "backbone",
     "invokedAt": "2022-02-04T01:27:55.191Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Larson",
+    "email": "gordon.larson@example.com",
+    "username": "yellowcat123",
+    "password": "matrix",
+    "invokedAt": "2022-02-04T01:58:19.450Z"
   }
 ]
