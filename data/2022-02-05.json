@@ -1150,5 +1150,13 @@
     "username": "blackmouse282",
     "password": "tunafish",
     "invokedAt": "2022-02-05T20:25:18.832Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Wilson",
+    "email": "nixon.wilson@example.com",
+    "username": "yellowgorilla634",
+    "password": "biteme",
+    "invokedAt": "2022-02-05T20:31:12.582Z"
   }
 ]
