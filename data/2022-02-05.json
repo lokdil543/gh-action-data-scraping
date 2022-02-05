@@ -982,5 +982,13 @@
     "username": "sadmeercat153",
     "password": "stimpy",
     "invokedAt": "2022-02-05T17:45:15.013Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Martinez",
+    "email": "carl.martinez@example.com",
+    "username": "happymouse284",
+    "password": "cleopatr",
+    "invokedAt": "2022-02-05T17:50:09.865Z"
   }
 ]
