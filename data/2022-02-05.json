@@ -510,5 +510,13 @@
     "username": "crazydog470",
     "password": "mojo",
     "invokedAt": "2022-02-05T09:52:39.353Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Christensen",
+    "email": "sofie.christensen@example.com",
+    "username": "crazygoose172",
+    "password": "limewire",
+    "invokedAt": "2022-02-05T09:58:22.685Z"
   }
 ]
