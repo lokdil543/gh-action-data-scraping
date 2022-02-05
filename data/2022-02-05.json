@@ -46,5 +46,13 @@
     "username": "crazydog295",
     "password": "grumpy",
     "invokedAt": "2022-02-05T02:28:32.383Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Serrano",
+    "email": "daniel.serrano@example.com",
+    "username": "blackwolf703",
+    "password": "gatorade",
+    "invokedAt": "2022-02-05T02:34:31.079Z"
   }
 ]
