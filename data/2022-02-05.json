@@ -518,5 +518,13 @@
     "username": "crazygoose172",
     "password": "limewire",
     "invokedAt": "2022-02-05T09:58:22.685Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Keseroğlu",
+    "email": "batur.keseroglu@example.com",
+    "username": "bigfish795",
+    "password": "peanut",
+    "invokedAt": "2022-02-05T10:10:32.782Z"
   }
 ]
