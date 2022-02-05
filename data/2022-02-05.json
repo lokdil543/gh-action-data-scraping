@@ -1182,5 +1182,13 @@
     "username": "browndog632",
     "password": "extreme",
     "invokedAt": "2022-02-05T20:48:44.865Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Vincent",
+    "email": "adam.vincent@example.com",
+    "username": "purpleladybug683",
+    "password": "goku",
+    "invokedAt": "2022-02-05T20:54:40.839Z"
   }
 ]
