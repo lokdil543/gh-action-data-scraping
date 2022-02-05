@@ -846,5 +846,13 @@
     "username": "angrytiger564",
     "password": "grunt",
     "invokedAt": "2022-02-05T15:22:53.818Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Wennberg",
+    "email": "edward.wennberg@example.com",
+    "username": "crazyswan533",
+    "password": "melrose",
+    "invokedAt": "2022-02-05T15:30:03.301Z"
   }
 ]
