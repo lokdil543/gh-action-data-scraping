@@ -486,5 +486,13 @@
     "username": "blackfish459",
     "password": "gizmodo",
     "invokedAt": "2022-02-05T09:34:54.012Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Margaret",
+    "email": "noah.margaret@example.com",
+    "username": "crazyswan100",
+    "password": "links",
+    "invokedAt": "2022-02-05T09:40:41.884Z"
   }
 ]
