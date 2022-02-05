@@ -1070,5 +1070,13 @@
     "username": "orangegoose495",
     "password": "just4me",
     "invokedAt": "2022-02-05T19:11:44.102Z"
+  },
+  {
+    "firstName": "Summer",
+    "lastName": "Thomas",
+    "email": "summer.thomas@example.com",
+    "username": "goldenostrich389",
+    "password": "tickling",
+    "invokedAt": "2022-02-05T19:20:38.401Z"
   }
 ]
