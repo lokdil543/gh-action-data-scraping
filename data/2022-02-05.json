@@ -806,5 +806,13 @@
     "username": "orangeostrich891",
     "password": "chelsea1",
     "invokedAt": "2022-02-05T14:41:02.463Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Murray",
+    "email": "ryan.murray@example.com",
+    "username": "crazyfish489",
+    "password": "chinook",
+    "invokedAt": "2022-02-05T14:46:51.889Z"
   }
 ]
