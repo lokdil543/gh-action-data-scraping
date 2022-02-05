@@ -398,5 +398,13 @@
     "username": "heavydog639",
     "password": "gandalf",
     "invokedAt": "2022-02-05T08:07:45.952Z"
+  },
+  {
+    "firstName": "Jostein",
+    "lastName": "Erlandsen",
+    "email": "jostein.erlandsen@example.com",
+    "username": "blueswan950",
+    "password": "comedy",
+    "invokedAt": "2022-02-05T08:22:11.974Z"
   }
 ]
