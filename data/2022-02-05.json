@@ -422,5 +422,13 @@
     "username": "orangegoose633",
     "password": "china",
     "invokedAt": "2022-02-05T08:35:21.102Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Andre",
+    "email": "thomas.andre@example.com",
+    "username": "happyladybug563",
+    "password": "wayne1",
+    "invokedAt": "2022-02-05T08:41:01.006Z"
   }
 ]
