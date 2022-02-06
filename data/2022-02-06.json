@@ -950,5 +950,13 @@
     "username": "greenfrog428",
     "password": "massive",
     "invokedAt": "2022-02-06T20:34:08.100Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Süleymanoğlu",
+    "email": "onal.suleymanoglu@example.com",
+    "username": "ticklishbird905",
+    "password": "reflex",
+    "invokedAt": "2022-02-06T20:40:00.878Z"
   }
 ]
