@@ -758,5 +758,13 @@
     "username": "silvergoose201",
     "password": "whatsup",
     "invokedAt": "2022-02-06T17:02:47.099Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Hansen",
+    "email": "isaac.hansen@example.com",
+    "username": "organicelephant669",
+    "password": "gray",
+    "invokedAt": "2022-02-06T17:21:09.147Z"
   }
 ]
