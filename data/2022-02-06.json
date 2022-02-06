@@ -678,5 +678,13 @@
     "username": "bluesnake709",
     "password": "atomic",
     "invokedAt": "2022-02-06T14:58:20.126Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Owens",
+    "email": "ellie.owens@example.com",
+    "username": "yellowpeacock106",
+    "password": "fester",
+    "invokedAt": "2022-02-06T15:10:53.767Z"
   }
 ]
