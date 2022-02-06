@@ -750,5 +750,13 @@
     "username": "yellowfrog514",
     "password": "handsome",
     "invokedAt": "2022-02-06T16:54:01.383Z"
+  },
+  {
+    "firstName": "Franz-Josef",
+    "lastName": "Bröcker",
+    "email": "franz-josef.brocker@example.com",
+    "username": "silvergoose201",
+    "password": "whatsup",
+    "invokedAt": "2022-02-06T17:02:47.099Z"
   }
 ]
