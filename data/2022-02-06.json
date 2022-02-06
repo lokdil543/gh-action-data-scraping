@@ -782,5 +782,13 @@
     "username": "silverfish255",
     "password": "cooking",
     "invokedAt": "2022-02-06T17:38:40.104Z"
+  },
+  {
+    "firstName": "Torstein",
+    "lastName": "Meisingset",
+    "email": "torstein.meisingset@example.com",
+    "username": "crazypeacock157",
+    "password": "crusader",
+    "invokedAt": "2022-02-06T17:44:29.136Z"
   }
 ]
