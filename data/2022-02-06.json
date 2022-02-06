@@ -566,5 +566,13 @@
     "username": "redfish738",
     "password": "rusty",
     "invokedAt": "2022-02-06T13:13:21.984Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Ramirez",
+    "email": "william.ramirez@example.com",
+    "username": "tinylion265",
+    "password": "spectrum",
+    "invokedAt": "2022-02-06T13:26:28.045Z"
   }
 ]
