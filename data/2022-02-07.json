@@ -726,5 +726,13 @@
     "username": "orangefish794",
     "password": "bosco",
     "invokedAt": "2022-02-07T17:01:57.900Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Rodriguez",
+    "email": "martin.rodriguez@example.com",
+    "username": "yellowfrog119",
+    "password": "heineken",
+    "invokedAt": "2022-02-07T17:19:01.587Z"
   }
 ]
