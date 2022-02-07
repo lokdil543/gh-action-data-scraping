@@ -734,5 +734,13 @@
     "username": "yellowfrog119",
     "password": "heineken",
     "invokedAt": "2022-02-07T17:19:01.587Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Johnston",
+    "email": "edward.johnston@example.com",
+    "username": "happydog398",
+    "password": "fred",
+    "invokedAt": "2022-02-07T17:30:50.437Z"
   }
 ]
