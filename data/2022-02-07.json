@@ -1102,5 +1102,13 @@
     "username": "happykoala293",
     "password": "bigtime",
     "invokedAt": "2022-02-07T23:37:03.042Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Alexander",
+    "email": "larry.alexander@example.com",
+    "username": "browndog383",
+    "password": "787878",
+    "invokedAt": "2022-02-07T23:42:50.810Z"
   }
 ]
