@@ -766,5 +766,13 @@
     "username": "purplemeercat173",
     "password": "454545",
     "invokedAt": "2022-02-07T17:49:52.031Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Tikkanen",
+    "email": "miro.tikkanen@example.com",
+    "username": "brownmeercat704",
+    "password": "mulder",
+    "invokedAt": "2022-02-07T17:56:00.080Z"
   }
 ]
