@@ -526,5 +526,13 @@
     "username": "lazyfish459",
     "password": "twelve",
     "invokedAt": "2022-02-07T12:13:04.917Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Duran",
+    "email": "benito.duran@example.com",
+    "username": "brownbear750",
+    "password": "scanner",
+    "invokedAt": "2022-02-07T12:43:50.366Z"
   }
 ]
