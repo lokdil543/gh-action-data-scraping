@@ -518,5 +518,13 @@
     "username": "heavybear972",
     "password": "beacon",
     "invokedAt": "2022-02-07T11:56:39.191Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Hayes",
+    "email": "mia.hayes@example.com",
+    "username": "lazyfish459",
+    "password": "twelve",
+    "invokedAt": "2022-02-07T12:13:04.917Z"
   }
 ]
