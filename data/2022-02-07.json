@@ -510,5 +510,13 @@
     "username": "brownbear252",
     "password": "gobears",
     "invokedAt": "2022-02-07T11:50:43.269Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Marin",
+    "email": "isaac.marin@example.com",
+    "username": "heavybear972",
+    "password": "beacon",
+    "invokedAt": "2022-02-07T11:56:39.191Z"
   }
 ]
