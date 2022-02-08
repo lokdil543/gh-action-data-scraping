@@ -966,5 +966,13 @@
     "username": "bigbird555",
     "password": "citroen",
     "invokedAt": "2022-02-08T21:35:24.975Z"
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Veit",
+    "email": "ludwig.veit@example.com",
+    "username": "saddog637",
+    "password": "kamikaze",
+    "invokedAt": "2022-02-08T21:41:16.963Z"
   }
 ]
