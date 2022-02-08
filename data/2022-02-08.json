@@ -846,5 +846,13 @@
     "username": "smallfish176",
     "password": "laura1",
     "invokedAt": "2022-02-08T19:31:57.041Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Hovde",
+    "email": "ryan.hovde@example.com",
+    "username": "blueostrich777",
+    "password": "capecod",
+    "invokedAt": "2022-02-08T19:38:39.938Z"
   }
 ]
