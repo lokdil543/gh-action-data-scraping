@@ -494,5 +494,13 @@
     "username": "crazykoala973",
     "password": "racers",
     "invokedAt": "2022-02-08T11:47:23.497Z"
+  },
+  {
+    "firstName": "Abby",
+    "lastName": "Arnold",
+    "email": "abby.arnold@example.com",
+    "username": "happyduck207",
+    "password": "justme",
+    "invokedAt": "2022-02-08T11:53:17.218Z"
   }
 ]
