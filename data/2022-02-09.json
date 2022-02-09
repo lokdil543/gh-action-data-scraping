@@ -110,5 +110,13 @@
     "username": "silverdog130",
     "password": "dog123",
     "invokedAt": "2022-02-09T04:36:24.301Z"
+  },
+  {
+    "firstName": "Emmett",
+    "lastName": "Venås",
+    "email": "emmett.venas@example.com",
+    "username": "bluefrog815",
+    "password": "swim",
+    "invokedAt": "2022-02-09T04:50:43.940Z"
   }
 ]
