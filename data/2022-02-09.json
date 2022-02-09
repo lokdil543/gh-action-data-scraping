@@ -598,5 +598,13 @@
     "username": "goldenfish647",
     "password": "piano",
     "invokedAt": "2022-02-09T14:28:43.994Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Haapala",
+    "email": "valtteri.haapala@example.com",
+    "username": "bluesnake160",
+    "password": "bugs",
+    "invokedAt": "2022-02-09T14:35:09.770Z"
   }
 ]
