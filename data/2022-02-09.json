@@ -502,5 +502,13 @@
     "username": "sadleopard925",
     "password": "quest",
     "invokedAt": "2022-02-09T11:57:49.152Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Karjala",
+    "email": "leo.karjala@example.com",
+    "username": "sadcat217",
+    "password": "dinosaur",
+    "invokedAt": "2022-02-09T12:16:55.252Z"
   }
 ]
