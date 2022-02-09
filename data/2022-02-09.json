@@ -606,5 +606,13 @@
     "username": "bluesnake160",
     "password": "bugs",
     "invokedAt": "2022-02-09T14:35:09.770Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Öztonga",
+    "email": "emre.oztonga@example.com",
+    "username": "goldengoose516",
+    "password": "boiler",
+    "invokedAt": "2022-02-09T14:41:05.860Z"
   }
 ]
