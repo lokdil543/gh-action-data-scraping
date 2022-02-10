@@ -622,5 +622,13 @@
     "username": "browngorilla518",
     "password": "tracer",
     "invokedAt": "2022-02-10T14:29:31.000Z"
+  },
+  {
+    "firstName": "Ezra",
+    "lastName": "Robinson",
+    "email": "ezra.robinson@example.com",
+    "username": "angrywolf371",
+    "password": "medic",
+    "invokedAt": "2022-02-10T14:35:45.951Z"
   }
 ]
