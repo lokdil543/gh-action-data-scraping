@@ -358,5 +358,13 @@
     "username": "purplepeacock812",
     "password": "base",
     "invokedAt": "2022-02-10T08:59:46.796Z"
+  },
+  {
+    "firstName": "Patrice",
+    "lastName": "Aubert",
+    "email": "patrice.aubert@example.com",
+    "username": "silverwolf616",
+    "password": "unique",
+    "invokedAt": "2022-02-10T09:14:22.155Z"
   }
 ]
