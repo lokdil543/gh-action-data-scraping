@@ -910,5 +910,13 @@
     "username": "yellowcat380",
     "password": "france",
     "invokedAt": "2022-02-10T20:11:43.110Z"
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Johnston",
+    "email": "barry.johnston@example.com",
+    "username": "angryfish308",
+    "password": "nextel",
+    "invokedAt": "2022-02-10T20:27:16.399Z"
   }
 ]
