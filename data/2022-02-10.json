@@ -998,5 +998,13 @@
     "username": "whitebear362",
     "password": "wage",
     "invokedAt": "2022-02-10T21:43:21.084Z"
+  },
+  {
+    "firstName": "Daniela",
+    "lastName": "Suarez",
+    "email": "daniela.suarez@example.com",
+    "username": "blackduck751",
+    "password": "hal9000",
+    "invokedAt": "2022-02-10T21:49:11.027Z"
   }
 ]
