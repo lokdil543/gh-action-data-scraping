@@ -1062,5 +1062,13 @@
     "username": "bigleopard344",
     "password": "moron",
     "invokedAt": "2022-02-10T22:47:03.318Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Simpson",
+    "email": "oscar.simpson@example.com",
+    "username": "angryelephant193",
+    "password": "models",
+    "invokedAt": "2022-02-10T22:52:54.488Z"
   }
 ]
