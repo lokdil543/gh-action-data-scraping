@@ -214,5 +214,13 @@
     "username": "bigostrich701",
     "password": "magazine",
     "invokedAt": "2022-02-11T06:34:24.141Z"
+  },
+  {
+    "firstName": "Mikael",
+    "lastName": "Honkala",
+    "email": "mikael.honkala@example.com",
+    "username": "lazyladybug718",
+    "password": "patrol",
+    "invokedAt": "2022-02-11T06:47:43.724Z"
   }
 ]
