@@ -726,5 +726,13 @@
     "username": "crazycat732",
     "password": "booger",
     "invokedAt": "2022-02-11T16:49:38.108Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Boyd",
+    "email": "susan.boyd@example.com",
+    "username": "redmouse129",
+    "password": "medicine",
+    "invokedAt": "2022-02-11T16:56:46.657Z"
   }
 ]
