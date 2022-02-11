@@ -574,5 +574,13 @@
     "username": "tinygoose270",
     "password": "samurai",
     "invokedAt": "2022-02-11T13:41:54.802Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Nurmi",
+    "email": "miro.nurmi@example.com",
+    "username": "redbird527",
+    "password": "treefrog",
+    "invokedAt": "2022-02-11T13:47:49.044Z"
   }
 ]
