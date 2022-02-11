@@ -454,5 +454,13 @@
     "username": "purplebird269",
     "password": "tundra",
     "invokedAt": "2022-02-11T10:59:27.150Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Honkala",
+    "email": "vilho.honkala@example.com",
+    "username": "bigmeercat984",
+    "password": "felix",
+    "invokedAt": "2022-02-11T11:11:59.837Z"
   }
 ]
