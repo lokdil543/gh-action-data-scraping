@@ -678,5 +678,13 @@
     "username": "happyelephant525",
     "password": "water",
     "invokedAt": "2022-02-12T15:22:28.794Z"
+  },
+  {
+    "firstName": "Romain",
+    "lastName": "Gaillard",
+    "email": "romain.gaillard@example.com",
+    "username": "goldenelephant728",
+    "password": "flying",
+    "invokedAt": "2022-02-12T15:32:53.805Z"
   }
 ]
