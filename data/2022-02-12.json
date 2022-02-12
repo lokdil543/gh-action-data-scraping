@@ -414,5 +414,13 @@
     "username": "whitegorilla986",
     "password": "meathead",
     "invokedAt": "2022-02-12T10:23:56.003Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Scheibe",
+    "email": "steve.scheibe@example.com",
+    "username": "organicgorilla666",
+    "password": "team",
+    "invokedAt": "2022-02-12T10:33:00.098Z"
   }
 ]
