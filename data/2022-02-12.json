@@ -118,5 +118,13 @@
     "username": "bluegoose639",
     "password": "tophat",
     "invokedAt": "2022-02-12T04:50:11.598Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Junghans",
+    "email": "oliver.junghans@example.com",
+    "username": "bluecat562",
+    "password": "biteme1",
+    "invokedAt": "2022-02-12T04:55:57.202Z"
   }
 ]
