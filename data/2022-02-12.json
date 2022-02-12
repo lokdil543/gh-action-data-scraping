@@ -718,5 +718,13 @@
     "username": "goldenmouse765",
     "password": "foxtrot",
     "invokedAt": "2022-02-12T15:59:22.357Z"
+  },
+  {
+    "firstName": "Elmer",
+    "lastName": "Weaver",
+    "email": "elmer.weaver@example.com",
+    "username": "goldenfish160",
+    "password": "bryan",
+    "invokedAt": "2022-02-12T16:19:08.020Z"
   }
 ]
