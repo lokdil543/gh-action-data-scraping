@@ -726,5 +726,13 @@
     "username": "goldenfish160",
     "password": "bryan",
     "invokedAt": "2022-02-12T16:19:08.020Z"
+  },
+  {
+    "firstName": "Adna",
+    "lastName": "Røssland",
+    "email": "adna.rossland@example.com",
+    "username": "greengoose414",
+    "password": "wave",
+    "invokedAt": "2022-02-12T16:45:29.747Z"
   }
 ]
