@@ -886,5 +886,13 @@
     "username": "ticklishzebra154",
     "password": "nevada",
     "invokedAt": "2022-02-12T19:36:14.775Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Côté",
+    "email": "simon.cote@example.com",
+    "username": "silverelephant294",
+    "password": "wingman",
+    "invokedAt": "2022-02-12T19:42:09.787Z"
   }
 ]
