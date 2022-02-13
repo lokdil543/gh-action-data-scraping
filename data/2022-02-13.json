@@ -1102,5 +1102,13 @@
     "username": "ticklishlion864",
     "password": "4ever",
     "invokedAt": "2022-02-13T22:55:46.951Z"
+  },
+  {
+    "firstName": "Vadim",
+    "lastName": "Otto",
+    "email": "vadim.otto@example.com",
+    "username": "happybutterfly211",
+    "password": "beatle",
+    "invokedAt": "2022-02-13T23:06:43.156Z"
   }
 ]
