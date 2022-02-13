@@ -774,5 +774,13 @@
     "username": "greenbear784",
     "password": "total",
     "invokedAt": "2022-02-13T17:27:47.700Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Andersen",
+    "email": "frida.andersen@example.com",
+    "username": "beautifulcat918",
+    "password": "playtime",
+    "invokedAt": "2022-02-13T17:34:04.149Z"
   }
 ]
