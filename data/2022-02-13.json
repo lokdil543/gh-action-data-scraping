@@ -742,5 +742,13 @@
     "username": "angrydog341",
     "password": "stealth",
     "invokedAt": "2022-02-13T16:34:57.849Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Barnaby",
+    "email": "blake.barnaby@example.com",
+    "username": "greenswan588",
+    "password": "ragnarok",
+    "invokedAt": "2022-02-13T16:54:15.185Z"
   }
 ]
