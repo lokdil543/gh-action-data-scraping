@@ -478,5 +478,13 @@
     "username": "orangecat871",
     "password": "zzzz",
     "invokedAt": "2022-02-13T11:12:16.974Z"
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Richard",
+    "email": "filip.richard@example.com",
+    "username": "heavycat401",
+    "password": "wrestle",
+    "invokedAt": "2022-02-13T11:23:06.984Z"
   }
 ]
