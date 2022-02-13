@@ -294,5 +294,13 @@
     "username": "happyduck605",
     "password": "patch",
     "invokedAt": "2022-02-13T07:46:50.349Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Lawrence",
+    "email": "harper.lawrence@example.com",
+    "username": "smallbear342",
+    "password": "always",
+    "invokedAt": "2022-02-13T07:52:42.138Z"
   }
 ]
