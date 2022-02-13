@@ -366,5 +366,13 @@
     "username": "lazybird556",
     "password": "rhino",
     "invokedAt": "2022-02-13T09:12:44.482Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Bishop",
+    "email": "dave.bishop@example.com",
+    "username": "organicpeacock728",
+    "password": "cobra1",
+    "invokedAt": "2022-02-13T09:27:13.002Z"
   }
 ]
