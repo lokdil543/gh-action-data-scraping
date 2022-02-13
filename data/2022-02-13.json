@@ -462,5 +462,13 @@
     "username": "happyfish116",
     "password": "guitar1",
     "invokedAt": "2022-02-13T10:53:50.966Z"
+  },
+  {
+    "firstName": "Ferdinando",
+    "lastName": "da Conceição",
+    "email": "ferdinando.daconceicao@example.com",
+    "username": "whitesnake181",
+    "password": "nong",
+    "invokedAt": "2022-02-13T11:00:01.057Z"
   }
 ]
