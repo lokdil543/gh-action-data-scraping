@@ -278,5 +278,13 @@
     "username": "happyzebra838",
     "password": "wrestle",
     "invokedAt": "2022-02-13T07:35:11.751Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Rice",
+    "email": "david.rice@example.com",
+    "username": "greensnake750",
+    "password": "hook",
+    "invokedAt": "2022-02-13T07:40:57.111Z"
   }
 ]
