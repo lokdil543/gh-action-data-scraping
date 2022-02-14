@@ -1102,5 +1102,13 @@
     "username": "orangetiger380",
     "password": "fitter",
     "invokedAt": "2022-02-14T23:34:49.023Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Richardson",
+    "email": "alan.richardson@example.com",
+    "username": "redcat302",
+    "password": "blackout",
+    "invokedAt": "2022-02-14T23:40:49.672Z"
   }
 ]
