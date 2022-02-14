@@ -862,5 +862,13 @@
     "username": "greenlion745",
     "password": "bean",
     "invokedAt": "2022-02-14T19:32:28.964Z"
+  },
+  {
+    "firstName": "Áquila",
+    "lastName": "Aragão",
+    "email": "aquila.aragao@example.com",
+    "username": "blackdog910",
+    "password": "frisky",
+    "invokedAt": "2022-02-14T19:38:34.236Z"
   }
 ]
