@@ -894,5 +894,13 @@
     "username": "silverswan408",
     "password": "poodle",
     "invokedAt": "2022-02-14T19:56:05.970Z"
+  },
+  {
+    "firstName": "Fatma",
+    "lastName": "Erbay",
+    "email": "fatma.erbay@example.com",
+    "username": "bigladybug124",
+    "password": "spam",
+    "invokedAt": "2022-02-14T20:07:06.115Z"
   }
 ]
