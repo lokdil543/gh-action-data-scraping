@@ -1022,5 +1022,13 @@
     "username": "lazyduck107",
     "password": "shelby",
     "invokedAt": "2022-02-14T21:59:07.933Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Petersen",
+    "email": "oliver.petersen@example.com",
+    "username": "goldenladybug709",
+    "password": "zxcv",
+    "invokedAt": "2022-02-14T22:12:22.312Z"
   }
 ]
