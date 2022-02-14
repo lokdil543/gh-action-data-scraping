@@ -694,5 +694,13 @@
     "username": "yellowbear660",
     "password": "channel",
     "invokedAt": "2022-02-14T15:50:44.913Z"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Drage",
+    "email": "milan.drage@example.com",
+    "username": "brownkoala495",
+    "password": "bigd",
+    "invokedAt": "2022-02-14T15:56:32.123Z"
   }
 ]
