@@ -686,5 +686,13 @@
     "username": "whitedog379",
     "password": "overlord",
     "invokedAt": "2022-02-14T15:44:53.942Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Andersen",
+    "email": "thea.andersen@example.com",
+    "username": "yellowbear660",
+    "password": "channel",
+    "invokedAt": "2022-02-14T15:50:44.913Z"
   }
 ]
