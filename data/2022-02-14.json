@@ -966,5 +966,13 @@
     "username": "lazyrabbit714",
     "password": "poiu",
     "invokedAt": "2022-02-14T21:19:01.063Z"
+  },
+  {
+    "firstName": "Alban",
+    "lastName": "Hofstetter",
+    "email": "alban.hofstetter@example.com",
+    "username": "smallostrich874",
+    "password": "testing",
+    "invokedAt": "2022-02-14T21:23:53.863Z"
   }
 ]
