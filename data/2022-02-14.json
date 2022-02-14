@@ -606,5 +606,13 @@
     "username": "greenelephant299",
     "password": "dogfood",
     "invokedAt": "2022-02-14T14:16:57.098Z"
+  },
+  {
+    "firstName": "Hartmut",
+    "lastName": "Wrede",
+    "email": "hartmut.wrede@example.com",
+    "username": "bigduck297",
+    "password": "piper",
+    "invokedAt": "2022-02-14T14:27:41.732Z"
   }
 ]
