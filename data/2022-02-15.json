@@ -486,5 +486,13 @@
     "username": "bigswan322",
     "password": "hakr",
     "invokedAt": "2022-02-15T12:12:04.975Z"
+  },
+  {
+    "firstName": "Eino",
+    "lastName": "Oja",
+    "email": "eino.oja@example.com",
+    "username": "beautifuldog723",
+    "password": "brad",
+    "invokedAt": "2022-02-15T12:43:11.859Z"
   }
 ]
