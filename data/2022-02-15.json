@@ -430,5 +430,13 @@
     "username": "sadfrog473",
     "password": "crescent",
     "invokedAt": "2022-02-15T11:06:34.025Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Schmidt",
+    "email": "terry.schmidt@example.com",
+    "username": "brownwolf772",
+    "password": "feeling",
+    "invokedAt": "2022-02-15T11:19:56.094Z"
   }
 ]
