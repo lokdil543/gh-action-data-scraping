@@ -566,5 +566,13 @@
     "username": "purplebutterfly785",
     "password": "banane",
     "invokedAt": "2022-02-15T14:16:44.025Z"
+  },
+  {
+    "firstName": "Lennon",
+    "lastName": "Noteboom",
+    "email": "lennon.noteboom@example.com",
+    "username": "silverleopard319",
+    "password": "double",
+    "invokedAt": "2022-02-15T14:27:34.736Z"
   }
 ]
