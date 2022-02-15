@@ -702,5 +702,13 @@
     "username": "brownkoala166",
     "password": "vulcan",
     "invokedAt": "2022-02-15T16:54:45.199Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Abraham",
+    "email": "david.abraham@example.com",
+    "username": "ticklishkoala300",
+    "password": "fishon",
+    "invokedAt": "2022-02-15T17:01:34.118Z"
   }
 ]
