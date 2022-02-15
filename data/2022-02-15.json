@@ -1046,5 +1046,13 @@
     "username": "silversnake704",
     "password": "therock",
     "invokedAt": "2022-02-15T22:59:02.776Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Renaud",
+    "email": "leon.renaud@example.com",
+    "username": "sadelephant220",
+    "password": "spaceman",
+    "invokedAt": "2022-02-15T23:13:56.418Z"
   }
 ]
