@@ -862,5 +862,13 @@
     "username": "smallgorilla800",
     "password": "ducati",
     "invokedAt": "2022-02-15T19:48:02.738Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Henry",
+    "email": "bruce.henry@example.com",
+    "username": "bluekoala828",
+    "password": "tractor",
+    "invokedAt": "2022-02-15T19:53:54.027Z"
   }
 ]
