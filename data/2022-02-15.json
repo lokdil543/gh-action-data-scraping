@@ -630,5 +630,13 @@
     "username": "beautifultiger124",
     "password": "infiniti",
     "invokedAt": "2022-02-15T15:22:09.173Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Simpson",
+    "email": "alex.simpson@example.com",
+    "username": "beautifulbutterfly212",
+    "password": "malcolm",
+    "invokedAt": "2022-02-15T15:29:44.095Z"
   }
 ]
