@@ -758,5 +758,13 @@
     "username": "goldengorilla990",
     "password": "enter",
     "invokedAt": "2022-02-16T18:00:07.859Z"
+  },
+  {
+    "firstName": "Judith",
+    "lastName": "Walker",
+    "email": "judith.walker@example.com",
+    "username": "goldenpeacock811",
+    "password": "wibble",
+    "invokedAt": "2022-02-16T18:18:38.050Z"
   }
 ]
