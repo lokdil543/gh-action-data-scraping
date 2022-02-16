@@ -854,5 +854,13 @@
     "username": "happylion953",
     "password": "deaths",
     "invokedAt": "2022-02-16T19:51:15.067Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Clarke",
+    "email": "dave.clarke@example.com",
+    "username": "goldenfrog800",
+    "password": "mantle",
+    "invokedAt": "2022-02-16T19:57:05.691Z"
   }
 ]
