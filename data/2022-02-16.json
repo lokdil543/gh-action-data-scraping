@@ -742,5 +742,13 @@
     "username": "beautifulpeacock806",
     "password": "blondes",
     "invokedAt": "2022-02-16T17:48:18.288Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Wang",
+    "email": "roman.wang@example.com",
+    "username": "tinyostrich848",
+    "password": "secure",
+    "invokedAt": "2022-02-16T17:54:11.975Z"
   }
 ]
