@@ -1014,5 +1014,13 @@
     "username": "greendog483",
     "password": "miami",
     "invokedAt": "2022-02-16T22:40:20.970Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Cooper",
+    "email": "philip.cooper@example.com",
+    "username": "orangewolf920",
+    "password": "usnavy",
+    "invokedAt": "2022-02-16T22:46:12.848Z"
   }
 ]
