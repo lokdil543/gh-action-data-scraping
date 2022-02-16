@@ -486,5 +486,13 @@
     "username": "happydog311",
     "password": "taichi",
     "invokedAt": "2022-02-16T11:49:33.290Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Duncan",
+    "email": "kent.duncan@example.com",
+    "username": "browngoose622",
+    "password": "spam",
+    "invokedAt": "2022-02-16T11:55:26.902Z"
   }
 ]
