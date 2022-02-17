@@ -638,5 +638,13 @@
     "username": "brownfrog914",
     "password": "nokia",
     "invokedAt": "2022-02-17T14:54:54.408Z"
+  },
+  {
+    "firstName": "Camila",
+    "lastName": "Long",
+    "email": "camila.long@example.com",
+    "username": "silverfrog563",
+    "password": "phish",
+    "invokedAt": "2022-02-17T15:00:50.428Z"
   }
 ]
