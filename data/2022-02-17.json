@@ -646,5 +646,13 @@
     "username": "silverfrog563",
     "password": "phish",
     "invokedAt": "2022-02-17T15:00:50.428Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Wirta",
+    "email": "lauri.wirta@example.com",
+    "username": "bluewolf676",
+    "password": "progress",
+    "invokedAt": "2022-02-17T15:18:16.476Z"
   }
 ]
