@@ -382,5 +382,13 @@
     "username": "heavymouse998",
     "password": "123321",
     "invokedAt": "2022-02-17T09:46:48.316Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Mortensen",
+    "email": "adam.mortensen@example.com",
+    "username": "goldenmouse255",
+    "password": "codered",
+    "invokedAt": "2022-02-17T09:52:37.185Z"
   }
 ]
