@@ -542,5 +542,13 @@
     "username": "angrydog917",
     "password": "divx1",
     "invokedAt": "2022-02-18T13:32:40.992Z"
+  },
+  {
+    "firstName": "Sébastien",
+    "lastName": "Aubert",
+    "email": "sebastien.aubert@example.com",
+    "username": "orangepanda951",
+    "password": "around",
+    "invokedAt": "2022-02-18T13:39:14.043Z"
   }
 ]
