@@ -470,5 +470,13 @@
     "username": "angrybutterfly729",
     "password": "jokers",
     "invokedAt": "2022-02-18T11:36:14.043Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Korpela",
+    "email": "miro.korpela@example.com",
+    "username": "tinybird888",
+    "password": "gotcha",
+    "invokedAt": "2022-02-18T11:42:01.717Z"
   }
 ]
