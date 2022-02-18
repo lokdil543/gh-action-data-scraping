@@ -382,5 +382,13 @@
     "username": "angryleopard504",
     "password": "pavlov",
     "invokedAt": "2022-02-18T09:54:16.366Z"
+  },
+  {
+    "firstName": "Hector",
+    "lastName": "Diez",
+    "email": "hector.diez@example.com",
+    "username": "lazybear607",
+    "password": "battle",
+    "invokedAt": "2022-02-18T10:00:03.982Z"
   }
 ]
