@@ -726,5 +726,13 @@
     "username": "bluekoala391",
     "password": "dogcat",
     "invokedAt": "2022-02-18T17:31:13.019Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Christensen",
+    "email": "jacob.christensen@example.com",
+    "username": "greenlion386",
+    "password": "engine",
+    "invokedAt": "2022-02-18T17:38:39.205Z"
   }
 ]
