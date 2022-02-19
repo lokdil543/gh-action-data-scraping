@@ -374,5 +374,13 @@
     "username": "blacktiger884",
     "password": "jump",
     "invokedAt": "2022-02-19T09:41:28.069Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Anderson",
+    "email": "ethan.anderson@example.com",
+    "username": "happybear526",
+    "password": "sanders",
+    "invokedAt": "2022-02-19T09:47:24.040Z"
   }
 ]
