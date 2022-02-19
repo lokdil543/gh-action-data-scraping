@@ -406,5 +406,13 @@
     "username": "browngoose585",
     "password": "deeper",
     "invokedAt": "2022-02-19T10:14:25.635Z"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Rose",
+    "email": "andre.rose@example.com",
+    "username": "redpanda741",
+    "password": "giorgio",
+    "invokedAt": "2022-02-19T10:30:10.220Z"
   }
 ]
