@@ -334,5 +334,13 @@
     "username": "lazybird538",
     "password": "a123456",
     "invokedAt": "2022-02-19T08:52:16.915Z"
+  },
+  {
+    "firstName": "Arron",
+    "lastName": "Alexander",
+    "email": "arron.alexander@example.com",
+    "username": "goldenfish861",
+    "password": "puppet",
+    "invokedAt": "2022-02-19T08:58:07.011Z"
   }
 ]
