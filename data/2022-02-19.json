@@ -878,5 +878,13 @@
     "username": "browntiger425",
     "password": "palmtree",
     "invokedAt": "2022-02-19T19:41:40.672Z"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Mackay",
+    "email": "madison.mackay@example.com",
+    "username": "happyfrog194",
+    "password": "redskins",
+    "invokedAt": "2022-02-19T19:47:35.287Z"
   }
 ]
