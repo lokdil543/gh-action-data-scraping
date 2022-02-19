@@ -278,5 +278,13 @@
     "username": "crazybird147",
     "password": "detroit",
     "invokedAt": "2022-02-19T07:46:12.347Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Moya",
+    "email": "jose.moya@example.com",
+    "username": "lazycat547",
+    "password": "sugar1",
+    "invokedAt": "2022-02-19T07:52:02.709Z"
   }
 ]
