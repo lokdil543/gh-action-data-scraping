@@ -638,5 +638,13 @@
     "username": "crazyduck633",
     "password": "hhhhh",
     "invokedAt": "2022-02-19T14:47:07.683Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Nguyen",
+    "email": "ryan.nguyen@example.com",
+    "username": "crazypeacock238",
+    "password": "random",
+    "invokedAt": "2022-02-19T14:52:59.792Z"
   }
 ]
