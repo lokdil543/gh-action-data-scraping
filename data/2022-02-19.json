@@ -190,5 +190,13 @@
     "username": "purplegoose515",
     "password": "magazine",
     "invokedAt": "2022-02-19T05:55:12.921Z"
+  },
+  {
+    "firstName": "Clarence",
+    "lastName": "Lucas",
+    "email": "clarence.lucas@example.com",
+    "username": "redleopard466",
+    "password": "whisky",
+    "invokedAt": "2022-02-19T06:06:56.000Z"
   }
 ]
