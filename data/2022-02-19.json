@@ -86,5 +86,13 @@
     "username": "crazyfish110",
     "password": "printer",
     "invokedAt": "2022-02-19T03:50:10.701Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Brown",
+    "email": "zoe.brown@example.com",
+    "username": "happymeercat369",
+    "password": "butthead",
+    "invokedAt": "2022-02-19T03:55:54.843Z"
   }
 ]
