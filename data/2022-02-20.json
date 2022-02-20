@@ -86,5 +86,13 @@
     "username": "whiteduck137",
     "password": "drummer1",
     "invokedAt": "2022-02-20T03:50:54.346Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Netland",
+    "email": "sebastian.netland@example.com",
+    "username": "angrypanda100",
+    "password": "burly",
+    "invokedAt": "2022-02-20T03:56:38.104Z"
   }
 ]
