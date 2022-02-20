@@ -366,5 +366,13 @@
     "username": "sadfrog986",
     "password": "achtung",
     "invokedAt": "2022-02-20T09:33:28.359Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Rhodes",
+    "email": "eric.rhodes@example.com",
+    "username": "blacksnake523",
+    "password": "chains",
+    "invokedAt": "2022-02-20T09:40:10.500Z"
   }
 ]
