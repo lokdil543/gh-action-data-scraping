@@ -750,5 +750,13 @@
     "username": "lazyfrog443",
     "password": "swinging",
     "invokedAt": "2022-02-20T17:30:01.755Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Richards",
+    "email": "anthony.richards@example.com",
+    "username": "bigkoala317",
+    "password": "bouncer",
+    "invokedAt": "2022-02-20T17:36:20.183Z"
   }
 ]
