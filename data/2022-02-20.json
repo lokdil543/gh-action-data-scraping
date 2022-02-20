@@ -606,5 +606,13 @@
     "username": "blackrabbit429",
     "password": "tights",
     "invokedAt": "2022-02-20T14:20:27.219Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Pulli",
+    "email": "miro.pulli@example.com",
+    "username": "lazypanda689",
+    "password": "page",
+    "invokedAt": "2022-02-20T14:28:24.328Z"
   }
 ]
