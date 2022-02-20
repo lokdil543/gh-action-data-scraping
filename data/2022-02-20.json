@@ -1102,5 +1102,13 @@
     "username": "bigfrog538",
     "password": "dagger",
     "invokedAt": "2022-02-20T23:41:16.120Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Crawford",
+    "email": "jonathan.crawford@example.com",
+    "username": "sadzebra240",
+    "password": "suckme",
+    "invokedAt": "2022-02-20T23:47:19.200Z"
   }
 ]
