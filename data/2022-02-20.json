@@ -598,5 +598,13 @@
     "username": "bigrabbit180",
     "password": "pa55w0rd",
     "invokedAt": "2022-02-20T14:05:31.425Z"
+  },
+  {
+    "firstName": "El",
+    "lastName": "Van der Ark",
+    "email": "el.vanderark@example.com",
+    "username": "blackrabbit429",
+    "password": "tights",
+    "invokedAt": "2022-02-20T14:20:27.219Z"
   }
 ]
