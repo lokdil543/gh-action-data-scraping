@@ -526,5 +526,13 @@
     "username": "greenbear270",
     "password": "spider1",
     "invokedAt": "2022-02-20T12:38:42.546Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Jørgensen",
+    "email": "mikkel.jorgensen@example.com",
+    "username": "silverrabbit962",
+    "password": "sunnyday",
+    "invokedAt": "2022-02-20T12:57:35.513Z"
   }
 ]
