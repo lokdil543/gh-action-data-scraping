@@ -662,5 +662,13 @@
     "username": "angrybear916",
     "password": "funk",
     "invokedAt": "2022-02-20T15:12:30.376Z"
+  },
+  {
+    "firstName": "Nadja",
+    "lastName": "Deschamps",
+    "email": "nadja.deschamps@example.com",
+    "username": "yellowladybug293",
+    "password": "trace",
+    "invokedAt": "2022-02-20T15:29:14.077Z"
   }
 ]
