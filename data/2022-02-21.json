@@ -886,5 +886,13 @@
     "username": "yellowmeercat764",
     "password": "roman",
     "invokedAt": "2022-02-21T20:44:33.302Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Tolonen",
+    "email": "sara.tolonen@example.com",
+    "username": "purplemeercat744",
+    "password": "hemlock",
+    "invokedAt": "2022-02-21T20:50:25.841Z"
   }
 ]
