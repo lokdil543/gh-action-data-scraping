@@ -806,5 +806,13 @@
     "username": "goldenmeercat235",
     "password": "coldplay",
     "invokedAt": "2022-02-21T19:25:12.185Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Madsen",
+    "email": "adam.madsen@example.com",
+    "username": "biglion912",
+    "password": "cement",
+    "invokedAt": "2022-02-21T19:31:05.920Z"
   }
 ]
