@@ -718,5 +718,13 @@
     "username": "angrysnake432",
     "password": "bart",
     "invokedAt": "2022-02-21T17:42:18.852Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Brooks",
+    "email": "brittany.brooks@example.com",
+    "username": "heavycat587",
+    "password": "mordor",
+    "invokedAt": "2022-02-21T17:48:04.072Z"
   }
 ]
