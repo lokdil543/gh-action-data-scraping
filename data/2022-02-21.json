@@ -1046,5 +1046,13 @@
     "username": "brownbutterfly487",
     "password": "liverpool",
     "invokedAt": "2022-02-21T23:37:59.151Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Laitinen",
+    "email": "otto.laitinen@example.com",
+    "username": "orangeostrich320",
+    "password": "seattle",
+    "invokedAt": "2022-02-21T23:43:49.103Z"
   }
 ]
