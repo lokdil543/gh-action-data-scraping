@@ -726,5 +726,13 @@
     "username": "heavycat587",
     "password": "mordor",
     "invokedAt": "2022-02-21T17:48:04.072Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Claire",
+    "email": "vincent.claire@example.com",
+    "username": "bigcat572",
+    "password": "penetrating",
+    "invokedAt": "2022-02-21T17:53:56.616Z"
   }
 ]
