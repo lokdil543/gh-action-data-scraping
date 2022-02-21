@@ -582,5 +582,13 @@
     "username": "blueelephant113",
     "password": "series",
     "invokedAt": "2022-02-21T14:30:54.270Z"
+  },
+  {
+    "firstName": "Georg",
+    "lastName": "Rodriguez",
+    "email": "georg.rodriguez@example.com",
+    "username": "sadswan222",
+    "password": "italian",
+    "invokedAt": "2022-02-21T14:37:37.109Z"
   }
 ]
