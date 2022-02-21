@@ -454,5 +454,13 @@
     "username": "whitekoala557",
     "password": "global",
     "invokedAt": "2022-02-21T11:31:10.876Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Faure",
+    "email": "guillaume.faure@example.com",
+    "username": "silverzebra319",
+    "password": "jasmine1",
+    "invokedAt": "2022-02-21T11:37:28.747Z"
   }
 ]
