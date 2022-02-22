@@ -830,5 +830,13 @@
     "username": "heavybear353",
     "password": "gateway",
     "invokedAt": "2022-02-22T19:36:40.062Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Lorenzo",
+    "email": "valentin.lorenzo@example.com",
+    "username": "browngorilla712",
+    "password": "talbot",
+    "invokedAt": "2022-02-22T19:42:33.980Z"
   }
 ]
