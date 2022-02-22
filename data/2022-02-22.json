@@ -214,5 +214,13 @@
     "username": "whitetiger771",
     "password": "thunder",
     "invokedAt": "2022-02-22T06:47:26.366Z"
+  },
+  {
+    "firstName": "Kjell",
+    "lastName": "Robstad",
+    "email": "kjell.robstad@example.com",
+    "username": "orangeostrich681",
+    "password": "nelson",
+    "invokedAt": "2022-02-22T06:53:21.798Z"
   }
 ]
