@@ -102,5 +102,13 @@
     "username": "purpledog183",
     "password": "ncc1701a",
     "invokedAt": "2022-02-22T04:09:00.926Z"
+  },
+  {
+    "firstName": "Veera",
+    "lastName": "Lehtola",
+    "email": "veera.lehtola@example.com",
+    "username": "bluebear443",
+    "password": "1010",
+    "invokedAt": "2022-02-22T04:33:05.228Z"
   }
 ]
