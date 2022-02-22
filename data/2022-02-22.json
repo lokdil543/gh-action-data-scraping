@@ -206,5 +206,13 @@
     "username": "bigdog111",
     "password": "citizen",
     "invokedAt": "2022-02-22T06:34:15.921Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Thomsen",
+    "email": "maria.thomsen@example.com",
+    "username": "whitetiger771",
+    "password": "thunder",
+    "invokedAt": "2022-02-22T06:47:26.366Z"
   }
 ]
