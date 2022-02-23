@@ -46,5 +46,13 @@
     "username": "orangesnake123",
     "password": "leedsutd",
     "invokedAt": "2022-02-23T03:06:40.123Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Olsen",
+    "email": "sofia.olsen@example.com",
+    "username": "angryduck418",
+    "password": "alleycat",
+    "invokedAt": "2022-02-23T03:25:21.986Z"
   }
 ]
