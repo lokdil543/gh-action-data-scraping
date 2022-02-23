@@ -446,5 +446,13 @@
     "username": "silverkoala323",
     "password": "wolfpack",
     "invokedAt": "2022-02-23T10:58:55.323Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Roggeveen",
+    "email": "kim.roggeveen@example.com",
+    "username": "bigcat868",
+    "password": "this",
+    "invokedAt": "2022-02-23T11:11:16.357Z"
   }
 ]
