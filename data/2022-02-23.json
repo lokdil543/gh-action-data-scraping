@@ -430,5 +430,13 @@
     "username": "redlion456",
     "password": "swallow",
     "invokedAt": "2022-02-23T10:46:50.733Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Lopez",
+    "email": "dennis.lopez@example.com",
+    "username": "yellowgoose524",
+    "password": "heineken",
+    "invokedAt": "2022-02-23T10:52:44.985Z"
   }
 ]
