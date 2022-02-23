@@ -1038,5 +1038,13 @@
     "username": "greenbird124",
     "password": "remote",
     "invokedAt": "2022-02-23T23:24:35.847Z"
+  },
+  {
+    "firstName": "Villads",
+    "lastName": "Johansen",
+    "email": "villads.johansen@example.com",
+    "username": "sadrabbit748",
+    "password": "tracey",
+    "invokedAt": "2022-02-23T23:33:42.747Z"
   }
 ]
