@@ -870,5 +870,13 @@
     "username": "happypeacock308",
     "password": "duffer",
     "invokedAt": "2022-02-23T20:07:23.337Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Jackson",
+    "email": "tyler.jackson@example.com",
+    "username": "bluerabbit635",
+    "password": "1023",
+    "invokedAt": "2022-02-23T20:25:27.252Z"
   }
 ]
