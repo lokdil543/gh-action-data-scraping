@@ -1062,5 +1062,13 @@
     "username": "sadmouse834",
     "password": "woohoo",
     "invokedAt": "2022-02-23T23:47:43.767Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Adams",
+    "email": "marcus.adams@example.com",
+    "username": "lazyleopard202",
+    "password": "tomcat",
+    "invokedAt": "2022-02-23T23:53:37.031Z"
   }
 ]
