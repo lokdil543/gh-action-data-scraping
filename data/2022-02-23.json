@@ -1054,5 +1054,13 @@
     "username": "greendog123",
     "password": "bigtime",
     "invokedAt": "2022-02-23T23:41:43.333Z"
+  },
+  {
+    "firstName": "Lina",
+    "lastName": "Rolink",
+    "email": "lina.rolink@example.com",
+    "username": "sadmouse834",
+    "password": "woohoo",
+    "invokedAt": "2022-02-23T23:47:43.767Z"
   }
 ]
