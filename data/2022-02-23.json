@@ -422,5 +422,13 @@
     "username": "angrydog437",
     "password": "killme",
     "invokedAt": "2022-02-23T10:40:54.885Z"
+  },
+  {
+    "firstName": "Kati",
+    "lastName": "Wörner",
+    "email": "kati.worner@example.com",
+    "username": "redlion456",
+    "password": "swallow",
+    "invokedAt": "2022-02-23T10:46:50.733Z"
   }
 ]
