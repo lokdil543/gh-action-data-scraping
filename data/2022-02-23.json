@@ -1006,5 +1006,13 @@
     "username": "whitegorilla196",
     "password": "america",
     "invokedAt": "2022-02-23T22:43:33.956Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Burton",
+    "email": "ryan.burton@example.com",
+    "username": "whitegorilla362",
+    "password": "longjohn",
+    "invokedAt": "2022-02-23T22:49:30.403Z"
   }
 ]
