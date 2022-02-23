@@ -758,5 +758,13 @@
     "username": "bigbird406",
     "password": "diving",
     "invokedAt": "2022-02-23T17:59:06.136Z"
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Smith",
+    "email": "aurora.smith@example.com",
+    "username": "orangefrog511",
+    "password": "louise",
+    "invokedAt": "2022-02-23T18:15:00.891Z"
   }
 ]
