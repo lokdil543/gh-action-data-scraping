@@ -462,5 +462,13 @@
     "username": "goldenkoala960",
     "password": "skidoo",
     "invokedAt": "2022-02-24T11:41:08.863Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Fournier",
+    "email": "evan.fournier@example.com",
+    "username": "blackgorilla707",
+    "password": "umpire",
+    "invokedAt": "2022-02-24T11:47:04.842Z"
   }
 ]
