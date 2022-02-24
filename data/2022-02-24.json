@@ -934,5 +934,13 @@
     "username": "angryleopard493",
     "password": "cirrus",
     "invokedAt": "2022-02-24T21:51:54.864Z"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Lacroix",
+    "email": "theo.lacroix@example.com",
+    "username": "lazyostrich109",
+    "password": "library",
+    "invokedAt": "2022-02-24T21:57:44.949Z"
   }
 ]
