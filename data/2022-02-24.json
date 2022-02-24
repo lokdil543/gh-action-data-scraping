@@ -478,5 +478,13 @@
     "username": "sadwolf725",
     "password": "fang",
     "invokedAt": "2022-02-24T11:53:00.240Z"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Jones",
+    "email": "russell.jones@example.com",
+    "username": "greenladybug115",
+    "password": "drizzt",
+    "invokedAt": "2022-02-24T11:58:49.234Z"
   }
 ]
