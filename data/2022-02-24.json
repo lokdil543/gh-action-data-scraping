@@ -886,5 +886,13 @@
     "username": "whitewolf199",
     "password": "brain",
     "invokedAt": "2022-02-24T20:59:22.784Z"
+  },
+  {
+    "firstName": "Brage",
+    "lastName": "Fossland",
+    "email": "brage.fossland@example.com",
+    "username": "redsnake710",
+    "password": "singer",
+    "invokedAt": "2022-02-24T21:13:12.785Z"
   }
 ]
