@@ -54,5 +54,13 @@
     "username": "sadsnake752",
     "password": "connect",
     "invokedAt": "2022-02-24T03:33:22.748Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Morgan",
+    "email": "susan.morgan@example.com",
+    "username": "greensnake248",
+    "password": "niners",
+    "invokedAt": "2022-02-24T03:41:49.779Z"
   }
 ]
