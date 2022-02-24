@@ -662,5 +662,13 @@
     "username": "heavywolf976",
     "password": "fight",
     "invokedAt": "2022-02-24T16:03:59.698Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Hansen",
+    "email": "carl.hansen@example.com",
+    "username": "bigcat269",
+    "password": "party",
+    "invokedAt": "2022-02-24T16:33:00.919Z"
   }
 ]
