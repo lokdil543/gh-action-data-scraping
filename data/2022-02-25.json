@@ -262,5 +262,13 @@
     "username": "brownbird990",
     "password": "kool",
     "invokedAt": "2022-02-25T07:45:04.169Z"
+  },
+  {
+    "firstName": "Eckhard",
+    "lastName": "Schäfer",
+    "email": "eckhard.schafer@example.com",
+    "username": "goldentiger485",
+    "password": "team",
+    "invokedAt": "2022-02-25T07:50:58.128Z"
   }
 ]
