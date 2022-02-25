@@ -902,5 +902,13 @@
     "username": "organicdog762",
     "password": "scott1",
     "invokedAt": "2022-02-25T21:00:15.775Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Lavoie",
+    "email": "camille.lavoie@example.com",
+    "username": "crazyfish293",
+    "password": "groucho",
+    "invokedAt": "2022-02-25T21:14:08.783Z"
   }
 ]
