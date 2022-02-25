@@ -214,5 +214,13 @@
     "username": "whiterabbit546",
     "password": "shaker",
     "invokedAt": "2022-02-25T06:54:40.117Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Walker",
+    "email": "hunter.walker@example.com",
+    "username": "happypeacock840",
+    "password": "short",
+    "invokedAt": "2022-02-25T07:00:24.099Z"
   }
 ]
