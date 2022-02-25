@@ -830,5 +830,13 @@
     "username": "ticklishleopard335",
     "password": "lithium",
     "invokedAt": "2022-02-25T19:46:36.545Z"
+  },
+  {
+    "firstName": "Van",
+    "lastName": "Blommers",
+    "email": "van.blommers@example.com",
+    "username": "orangebear650",
+    "password": "static",
+    "invokedAt": "2022-02-25T19:52:29.148Z"
   }
 ]
