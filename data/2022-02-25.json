@@ -926,5 +926,13 @@
     "username": "goldenbear745",
     "password": "usmc",
     "invokedAt": "2022-02-25T21:32:15.974Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Smith",
+    "email": "roberto.smith@example.com",
+    "username": "lazybird662",
+    "password": "costello",
+    "invokedAt": "2022-02-25T21:38:49.441Z"
   }
 ]
