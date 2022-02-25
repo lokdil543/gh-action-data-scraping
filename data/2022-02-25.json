@@ -862,5 +862,13 @@
     "username": "greenrabbit774",
     "password": "snuggles",
     "invokedAt": "2022-02-25T20:28:39.973Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Gomez",
+    "email": "robin.gomez@example.com",
+    "username": "beautifuldog404",
+    "password": "lback",
+    "invokedAt": "2022-02-25T20:36:39.028Z"
   }
 ]
