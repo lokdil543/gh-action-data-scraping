@@ -326,5 +326,13 @@
     "username": "tinydog506",
     "password": "callaway",
     "invokedAt": "2022-02-25T08:58:39.677Z"
+  },
+  {
+    "firstName": "Aymeric",
+    "lastName": "Leroux",
+    "email": "aymeric.leroux@example.com",
+    "username": "lazylion297",
+    "password": "blam",
+    "invokedAt": "2022-02-25T09:13:01.790Z"
   }
 ]
