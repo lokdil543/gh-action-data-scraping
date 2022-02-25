@@ -774,5 +774,13 @@
     "username": "blackgorilla593",
     "password": "lacrosse",
     "invokedAt": "2022-02-25T18:53:00.125Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Giraud",
+    "email": "mia.giraud@example.com",
+    "username": "crazyfish351",
+    "password": "steel",
+    "invokedAt": "2022-02-25T18:59:01.201Z"
   }
 ]
