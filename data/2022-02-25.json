@@ -566,5 +566,13 @@
     "username": "crazyzebra200",
     "password": "tottenha",
     "invokedAt": "2022-02-25T14:08:00.962Z"
+  },
+  {
+    "firstName": "Inès",
+    "lastName": "Gaillard",
+    "email": "ines.gaillard@example.com",
+    "username": "bluecat325",
+    "password": "redleg",
+    "invokedAt": "2022-02-25T14:22:32.994Z"
   }
 ]
