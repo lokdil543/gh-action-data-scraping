@@ -758,5 +758,13 @@
     "username": "tinypanda120",
     "password": "246810",
     "invokedAt": "2022-02-26T17:43:44.054Z"
+  },
+  {
+    "firstName": "Caio",
+    "lastName": "da Costa",
+    "email": "caio.dacosta@example.com",
+    "username": "silverbird250",
+    "password": "camelot",
+    "invokedAt": "2022-02-26T17:49:40.543Z"
   }
 ]
