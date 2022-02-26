@@ -838,5 +838,13 @@
     "username": "redduck534",
     "password": "dnsadm",
     "invokedAt": "2022-02-26T19:20:17.070Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Arnaud",
+    "email": "clara.arnaud@example.com",
+    "username": "smallpanda685",
+    "password": "onlyme",
+    "invokedAt": "2022-02-26T19:26:15.276Z"
   }
 ]
