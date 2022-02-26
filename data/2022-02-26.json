@@ -558,5 +558,13 @@
     "username": "goldenelephant597",
     "password": "burton",
     "invokedAt": "2022-02-26T13:39:23.299Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Warren",
+    "email": "joe.warren@example.com",
+    "username": "crazymeercat106",
+    "password": "rocket",
+    "invokedAt": "2022-02-26T13:45:23.030Z"
   }
 ]
