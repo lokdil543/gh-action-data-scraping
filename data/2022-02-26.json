@@ -830,5 +830,13 @@
     "username": "yellowgoose424",
     "password": "santana",
     "invokedAt": "2022-02-26T19:10:57.063Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Jackson",
+    "email": "sarah.jackson@example.com",
+    "username": "redduck534",
+    "password": "dnsadm",
+    "invokedAt": "2022-02-26T19:20:17.070Z"
   }
 ]
