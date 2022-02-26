@@ -214,5 +214,13 @@
     "username": "brownbird802",
     "password": "elliot",
     "invokedAt": "2022-02-26T06:47:18.994Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "French",
+    "email": "antoine.french@example.com",
+    "username": "angrymouse308",
+    "password": "rrpass1",
+    "invokedAt": "2022-02-26T06:53:13.681Z"
   }
 ]
