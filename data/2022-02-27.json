@@ -294,5 +294,13 @@
     "username": "happygorilla102",
     "password": "megapass",
     "invokedAt": "2022-02-27T08:08:10.965Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Çatalbaş",
+    "email": "mustafa.catalbas@example.com",
+    "username": "yellowostrich124",
+    "password": "loverboy",
+    "invokedAt": "2022-02-27T08:27:52.420Z"
   }
 ]
