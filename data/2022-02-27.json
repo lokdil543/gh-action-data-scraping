@@ -286,5 +286,13 @@
     "username": "yellowtiger321",
     "password": "beach",
     "invokedAt": "2022-02-27T07:55:51.884Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Karadaş",
+    "email": "deniz.karadas@example.com",
+    "username": "happygorilla102",
+    "password": "megapass",
+    "invokedAt": "2022-02-27T08:08:10.965Z"
   }
 ]
