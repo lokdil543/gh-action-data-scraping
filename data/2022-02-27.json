@@ -526,5 +526,13 @@
     "username": "greencat862",
     "password": "qwertyui",
     "invokedAt": "2022-02-27T13:00:34.024Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Duman",
+    "email": "arnaud.duman@example.com",
+    "username": "brownleopard804",
+    "password": "scarlett",
+    "invokedAt": "2022-02-27T13:19:02.149Z"
   }
 ]
