@@ -238,5 +238,13 @@
     "username": "happyduck211",
     "password": "maximum",
     "invokedAt": "2022-02-27T07:13:55.092Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Poulsen",
+    "email": "maria.poulsen@example.com",
+    "username": "yellowrabbit184",
+    "password": "vintage",
+    "invokedAt": "2022-02-27T07:26:06.992Z"
   }
 ]
