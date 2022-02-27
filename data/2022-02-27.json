@@ -478,5 +478,13 @@
     "username": "blackrabbit941",
     "password": "montana",
     "invokedAt": "2022-02-27T11:39:03.290Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Rajala",
+    "email": "amanda.rajala@example.com",
+    "username": "redcat794",
+    "password": "muppet",
+    "invokedAt": "2022-02-27T11:44:51.882Z"
   }
 ]
