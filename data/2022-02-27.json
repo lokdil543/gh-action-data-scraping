@@ -758,5 +758,13 @@
     "username": "tinykoala994",
     "password": "sheriff",
     "invokedAt": "2022-02-27T17:51:54.833Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Kristensen",
+    "email": "victor.kristensen@example.com",
+    "username": "purplebird154",
+    "password": "anthrax",
+    "invokedAt": "2022-02-27T17:58:00.280Z"
   }
 ]
