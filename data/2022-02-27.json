@@ -246,5 +246,13 @@
     "username": "yellowrabbit184",
     "password": "vintage",
     "invokedAt": "2022-02-27T07:26:06.992Z"
+  },
+  {
+    "firstName": "Rolando",
+    "lastName": "Van de Donk",
+    "email": "rolando.vandedonk@example.com",
+    "username": "bluezebra327",
+    "password": "anaconda",
+    "invokedAt": "2022-02-27T07:32:10.945Z"
   }
 ]
