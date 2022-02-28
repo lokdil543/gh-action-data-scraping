@@ -262,5 +262,13 @@
     "username": "greenbear658",
     "password": "live",
     "invokedAt": "2022-02-28T07:49:03.742Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Boyer",
+    "email": "anna.boyer@example.com",
+    "username": "crazywolf753",
+    "password": "qwert1",
+    "invokedAt": "2022-02-28T07:55:02.940Z"
   }
 ]
