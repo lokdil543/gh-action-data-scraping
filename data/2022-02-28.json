@@ -1022,5 +1022,13 @@
     "username": "heavycat841",
     "password": "bounty",
     "invokedAt": "2022-02-28T23:44:35.558Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Rasmussen",
+    "email": "magnus.rasmussen@example.com",
+    "username": "greenostrich443",
+    "password": "list",
+    "invokedAt": "2022-02-28T23:50:43.828Z"
   }
 ]
