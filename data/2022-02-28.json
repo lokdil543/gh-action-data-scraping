@@ -318,5 +318,13 @@
     "username": "whitefrog386",
     "password": "roger1",
     "invokedAt": "2022-02-28T08:58:03.911Z"
+  },
+  {
+    "firstName": "Eggert",
+    "lastName": "Abele",
+    "email": "eggert.abele@example.com",
+    "username": "orangecat153",
+    "password": "records",
+    "invokedAt": "2022-02-28T09:12:11.016Z"
   }
 ]
