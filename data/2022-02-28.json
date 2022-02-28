@@ -478,5 +478,13 @@
     "username": "purpledog117",
     "password": "outlaw",
     "invokedAt": "2022-02-28T11:58:51.111Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Leino",
+    "email": "konsta.leino@example.com",
+    "username": "orangefish146",
+    "password": "page",
+    "invokedAt": "2022-02-28T12:22:15.561Z"
   }
 ]
