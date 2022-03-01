@@ -414,5 +414,13 @@
     "username": "tinyfrog303",
     "password": "utopia",
     "invokedAt": "2022-03-01T11:14:50.960Z"
+  },
+  {
+    "firstName": "Vanessa",
+    "lastName": "Banks",
+    "email": "vanessa.banks@example.com",
+    "username": "sadswan489",
+    "password": "script",
+    "invokedAt": "2022-03-01T11:25:57.903Z"
   }
 ]
