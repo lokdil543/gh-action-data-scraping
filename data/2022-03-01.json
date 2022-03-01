@@ -926,5 +926,13 @@
     "username": "blackbutterfly408",
     "password": "womble",
     "invokedAt": "2022-03-01T22:13:06.994Z"
+  },
+  {
+    "firstName": "Cooper",
+    "lastName": "Thompson",
+    "email": "cooper.thompson@example.com",
+    "username": "happytiger900",
+    "password": "penguin",
+    "invokedAt": "2022-03-01T22:28:40.755Z"
   }
 ]
