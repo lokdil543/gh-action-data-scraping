@@ -1014,5 +1014,13 @@
     "username": "goldenkoala148",
     "password": "liquid",
     "invokedAt": "2022-03-01T23:52:52.054Z"
+  },
+  {
+    "firstName": "Guy",
+    "lastName": "Rogers",
+    "email": "guy.rogers@example.com",
+    "username": "tinypanda461",
+    "password": "infantry",
+    "invokedAt": "2022-03-01T23:58:32.049Z"
   }
 ]
