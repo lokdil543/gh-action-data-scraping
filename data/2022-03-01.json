@@ -654,5 +654,13 @@
     "username": "whitewolf275",
     "password": "outkast",
     "invokedAt": "2022-03-01T16:50:27.646Z"
+  },
+  {
+    "firstName": "Aurélien",
+    "lastName": "Muller",
+    "email": "aurelien.muller@example.com",
+    "username": "orangeleopard445",
+    "password": "kiki",
+    "invokedAt": "2022-03-01T17:02:17.008Z"
   }
 ]
