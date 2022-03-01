@@ -774,5 +774,13 @@
     "username": "ticklishdog496",
     "password": "123asd",
     "invokedAt": "2022-03-01T19:26:40.422Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Orbay",
+    "email": "sedef.orbay@example.com",
+    "username": "smallduck324",
+    "password": "maniac",
+    "invokedAt": "2022-03-01T19:33:03.103Z"
   }
 ]
