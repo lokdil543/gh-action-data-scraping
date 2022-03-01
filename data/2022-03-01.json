@@ -918,5 +918,13 @@
     "username": "bigmeercat115",
     "password": "waterfal",
     "invokedAt": "2022-03-01T21:58:51.423Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Walker",
+    "email": "adam.walker@example.com",
+    "username": "blackbutterfly408",
+    "password": "womble",
+    "invokedAt": "2022-03-01T22:13:06.994Z"
   }
 ]
