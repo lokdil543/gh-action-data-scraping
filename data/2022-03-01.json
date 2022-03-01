@@ -974,5 +974,13 @@
     "username": "lazypeacock855",
     "password": "bubbles",
     "invokedAt": "2022-03-01T23:04:02.356Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Clark",
+    "email": "thomas.clark@example.com",
+    "username": "blackmouse976",
+    "password": "shonuf",
+    "invokedAt": "2022-03-01T23:22:56.678Z"
   }
 ]
