@@ -350,5 +350,13 @@
     "username": "greenleopard452",
     "password": "newark",
     "invokedAt": "2022-03-01T09:53:53.182Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Kantola",
+    "email": "valtteri.kantola@example.com",
+    "username": "orangebutterfly568",
+    "password": "thor",
+    "invokedAt": "2022-03-01T09:59:45.452Z"
   }
 ]
