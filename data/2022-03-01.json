@@ -782,5 +782,13 @@
     "username": "smallduck324",
     "password": "maniac",
     "invokedAt": "2022-03-01T19:33:03.103Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Heikkila",
+    "email": "luukas.heikkila@example.com",
+    "username": "whitepanda712",
+    "password": "gang",
+    "invokedAt": "2022-03-01T19:39:29.271Z"
   }
 ]
