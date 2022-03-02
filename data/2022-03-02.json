@@ -726,5 +726,13 @@
     "username": "bluekoala432",
     "password": "alan",
     "invokedAt": "2022-03-02T18:11:41.986Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Hietala",
+    "email": "viljami.hietala@example.com",
+    "username": "happyelephant412",
+    "password": "mitchell",
+    "invokedAt": "2022-03-02T18:32:43.748Z"
   }
 ]
