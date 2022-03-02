@@ -782,5 +782,13 @@
     "username": "smalltiger537",
     "password": "jetta",
     "invokedAt": "2022-03-02T19:27:21.940Z"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Indahl",
+    "email": "damian.indahl@example.com",
+    "username": "happyfish371",
+    "password": "crystal",
+    "invokedAt": "2022-03-02T19:33:54.780Z"
   }
 ]
