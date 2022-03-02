@@ -270,5 +270,13 @@
     "username": "happyduck799",
     "password": "vantage",
     "invokedAt": "2022-03-02T08:00:01.713Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Pena",
+    "email": "steve.pena@example.com",
+    "username": "redleopard893",
+    "password": "cubbies",
+    "invokedAt": "2022-03-02T08:20:03.872Z"
   }
 ]
