@@ -318,5 +318,13 @@
     "username": "happywolf360",
     "password": "cotton",
     "invokedAt": "2022-03-02T09:12:02.139Z"
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Castro",
+    "email": "marco.castro@example.com",
+    "username": "blueswan142",
+    "password": "frodo",
+    "invokedAt": "2022-03-02T09:27:01.071Z"
   }
 ]
