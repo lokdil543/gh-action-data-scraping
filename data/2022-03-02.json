@@ -814,5 +814,13 @@
     "username": "smallrabbit791",
     "password": "oasis",
     "invokedAt": "2022-03-02T19:51:39.915Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Øren",
+    "email": "bernard.oren@example.com",
+    "username": "angryladybug128",
+    "password": "toejam",
+    "invokedAt": "2022-03-02T19:57:27.973Z"
   }
 ]
