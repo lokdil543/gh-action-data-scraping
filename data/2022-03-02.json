@@ -902,5 +902,13 @@
     "username": "angrycat891",
     "password": "frogger",
     "invokedAt": "2022-03-02T21:30:28.111Z"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Bates",
+    "email": "austin.bates@example.com",
+    "username": "browncat881",
+    "password": "paintbal",
+    "invokedAt": "2022-03-02T21:37:02.396Z"
   }
 ]
