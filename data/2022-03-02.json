@@ -350,5 +350,13 @@
     "username": "greensnake683",
     "password": "eggplant",
     "invokedAt": "2022-03-02T09:47:21.361Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Sørensen",
+    "email": "karla.sorensen@example.com",
+    "username": "yellowdog232",
+    "password": "malice",
+    "invokedAt": "2022-03-02T09:53:15.021Z"
   }
 ]
