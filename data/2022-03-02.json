@@ -462,5 +462,13 @@
     "username": "tinykoala532",
     "password": "inter",
     "invokedAt": "2022-03-02T11:49:20.366Z"
+  },
+  {
+    "firstName": "Thoralf",
+    "lastName": "Bender",
+    "email": "thoralf.bender@example.com",
+    "username": "greensnake504",
+    "password": "twisted",
+    "invokedAt": "2022-03-02T11:55:18.191Z"
   }
 ]
