@@ -862,5 +862,13 @@
     "username": "silverbird956",
     "password": "divorce",
     "invokedAt": "2022-03-02T20:47:02.054Z"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Fitzpatrick",
+    "email": "bobby.fitzpatrick@example.com",
+    "username": "bigfish422",
+    "password": "patriots",
+    "invokedAt": "2022-03-02T20:52:58.770Z"
   }
 ]
