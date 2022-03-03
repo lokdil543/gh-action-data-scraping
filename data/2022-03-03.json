@@ -910,5 +910,13 @@
     "username": "tinymeercat898",
     "password": "media",
     "invokedAt": "2022-03-03T21:48:39.795Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Johansen",
+    "email": "adam.johansen@example.com",
+    "username": "sadpanda836",
+    "password": "chopper",
+    "invokedAt": "2022-03-03T21:54:35.100Z"
   }
 ]
