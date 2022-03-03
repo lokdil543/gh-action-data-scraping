@@ -318,5 +318,13 @@
     "username": "crazyostrich257",
     "password": "finder",
     "invokedAt": "2022-03-03T09:25:02.209Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Klink",
+    "email": "juan.klink@example.com",
+    "username": "smallelephant411",
+    "password": "shadow1",
+    "invokedAt": "2022-03-03T09:34:06.977Z"
   }
 ]
