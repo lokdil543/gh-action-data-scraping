@@ -646,5 +646,13 @@
     "username": "heavydog599",
     "password": "xiong",
     "invokedAt": "2022-03-03T16:36:48.103Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Jensen",
+    "email": "nanna.jensen@example.com",
+    "username": "heavywolf315",
+    "password": "goforit",
+    "invokedAt": "2022-03-03T16:58:09.948Z"
   }
 ]
