@@ -926,5 +926,13 @@
     "username": "silverdog943",
     "password": "psycho",
     "invokedAt": "2022-03-03T22:00:23.557Z"
+  },
+  {
+    "firstName": "Annabelle",
+    "lastName": "Lavoie",
+    "email": "annabelle.lavoie@example.com",
+    "username": "bigduck818",
+    "password": "smeghead",
+    "invokedAt": "2022-03-03T22:17:12.920Z"
   }
 ]
