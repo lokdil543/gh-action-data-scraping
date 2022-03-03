@@ -702,5 +702,13 @@
     "username": "crazykoala185",
     "password": "abc12345",
     "invokedAt": "2022-03-03T17:57:30.689Z"
+  },
+  {
+    "firstName": "Alessio",
+    "lastName": "Perrin",
+    "email": "alessio.perrin@example.com",
+    "username": "organickoala158",
+    "password": "halifax",
+    "invokedAt": "2022-03-03T18:12:31.508Z"
   }
 ]
