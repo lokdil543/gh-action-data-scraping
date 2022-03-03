@@ -734,5 +734,13 @@
     "username": "tinyfrog864",
     "password": "bitter",
     "invokedAt": "2022-03-03T18:48:45.062Z"
+  },
+  {
+    "firstName": "Yanick",
+    "lastName": "Louis",
+    "email": "yanick.louis@example.com",
+    "username": "lazybird548",
+    "password": "ginger",
+    "invokedAt": "2022-03-03T18:54:46.223Z"
   }
 ]
