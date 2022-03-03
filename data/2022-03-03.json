@@ -758,5 +758,13 @@
     "username": "whitetiger642",
     "password": "sailboat",
     "invokedAt": "2022-03-03T19:14:36.177Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Hubert",
+    "email": "oscar.hubert@example.com",
+    "username": "purpledog869",
+    "password": "shark1",
+    "invokedAt": "2022-03-03T19:23:38.459Z"
   }
 ]
