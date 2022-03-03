@@ -662,5 +662,13 @@
     "username": "bluecat281",
     "password": "jenkins",
     "invokedAt": "2022-03-03T17:14:00.267Z"
+  },
+  {
+    "firstName": "Ryder",
+    "lastName": "Thompson",
+    "email": "ryder.thompson@example.com",
+    "username": "greenwolf148",
+    "password": "lance",
+    "invokedAt": "2022-03-03T17:30:43.040Z"
   }
 ]
