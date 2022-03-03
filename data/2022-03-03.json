@@ -166,5 +166,13 @@
     "username": "blackgoose371",
     "password": "chip",
     "invokedAt": "2022-03-03T05:59:55.545Z"
+  },
+  {
+    "firstName": "Rex",
+    "lastName": "Ijzermans",
+    "email": "rex.ijzermans@example.com",
+    "username": "bigzebra364",
+    "password": "wind",
+    "invokedAt": "2022-03-03T06:19:30.212Z"
   }
 ]
