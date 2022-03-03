@@ -742,5 +742,13 @@
     "username": "lazybird548",
     "password": "ginger",
     "invokedAt": "2022-03-03T18:54:46.223Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Poulsen",
+    "email": "laerke.poulsen@example.com",
+    "username": "blueelephant112",
+    "password": "dogg",
+    "invokedAt": "2022-03-03T19:00:45.589Z"
   }
 ]
