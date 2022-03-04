@@ -494,5 +494,13 @@
     "username": "bigbear715",
     "password": "system",
     "invokedAt": "2022-03-04T13:28:31.123Z"
+  },
+  {
+    "firstName": "Mirjam",
+    "lastName": "Trapp",
+    "email": "mirjam.trapp@example.com",
+    "username": "lazydog391",
+    "password": "flight",
+    "invokedAt": "2022-03-04T13:37:14.132Z"
   }
 ]
