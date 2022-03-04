@@ -1014,5 +1014,13 @@
     "username": "sadtiger785",
     "password": "asdfasdf",
     "invokedAt": "2022-03-04T23:42:23.226Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Petersen",
+    "email": "sofie.petersen@example.com",
+    "username": "tinydog917",
+    "password": "broker",
+    "invokedAt": "2022-03-04T23:48:23.237Z"
   }
 ]
