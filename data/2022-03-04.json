@@ -166,5 +166,13 @@
     "username": "angrypanda498",
     "password": "bigbob",
     "invokedAt": "2022-03-04T06:11:43.988Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Ford",
+    "email": "peter.ford@example.com",
+    "username": "tinybear253",
+    "password": "hillary",
+    "invokedAt": "2022-03-04T06:33:28.522Z"
   }
 ]
