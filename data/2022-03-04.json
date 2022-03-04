@@ -142,5 +142,13 @@
     "username": "organicrabbit348",
     "password": "grant",
     "invokedAt": "2022-03-04T05:45:05.025Z"
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Perez",
+    "email": "esther.perez@example.com",
+    "username": "angryrabbit806",
+    "password": "peanuts",
+    "invokedAt": "2022-03-04T05:51:02.403Z"
   }
 ]
