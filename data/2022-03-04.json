@@ -502,5 +502,13 @@
     "username": "lazydog391",
     "password": "flight",
     "invokedAt": "2022-03-04T13:37:14.132Z"
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Mccoy",
+    "email": "nicholas.mccoy@example.com",
+    "username": "purpleduck651",
+    "password": "weasel",
+    "invokedAt": "2022-03-04T13:43:10.720Z"
   }
 ]
