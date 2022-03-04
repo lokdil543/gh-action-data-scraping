@@ -726,5 +726,13 @@
     "username": "greenbutterfly320",
     "password": "pertinant",
     "invokedAt": "2022-03-04T18:42:40.175Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Fletcher",
+    "email": "jack.fletcher@example.com",
+    "username": "greenbird420",
+    "password": "bergkamp",
+    "invokedAt": "2022-03-04T18:50:44.013Z"
   }
 ]
