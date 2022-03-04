@@ -782,5 +782,13 @@
     "username": "bigbear176",
     "password": "store",
     "invokedAt": "2022-03-04T19:36:04.077Z"
+  },
+  {
+    "firstName": "Veeti",
+    "lastName": "Pakkala",
+    "email": "veeti.pakkala@example.com",
+    "username": "crazyfrog535",
+    "password": "balloons",
+    "invokedAt": "2022-03-04T19:42:03.130Z"
   }
 ]
