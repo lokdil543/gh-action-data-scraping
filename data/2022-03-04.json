@@ -1022,5 +1022,13 @@
     "username": "tinydog917",
     "password": "broker",
     "invokedAt": "2022-03-04T23:48:23.237Z"
+  },
+  {
+    "firstName": "Josep",
+    "lastName": "Serrano",
+    "email": "josep.serrano@example.com",
+    "username": "lazyelephant223",
+    "password": "romano",
+    "invokedAt": "2022-03-04T23:54:14.280Z"
   }
 ]
