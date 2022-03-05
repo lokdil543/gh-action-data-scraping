@@ -398,5 +398,13 @@
     "username": "silverpanda601",
     "password": "newpass6",
     "invokedAt": "2022-03-05T10:28:15.743Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Chan",
+    "email": "charlie.chan@example.com",
+    "username": "beautifulbutterfly991",
+    "password": "wxcvbn",
+    "invokedAt": "2022-03-05T10:37:38.670Z"
   }
 ]
