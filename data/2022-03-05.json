@@ -230,5 +230,13 @@
     "username": "happybutterfly453",
     "password": "blam",
     "invokedAt": "2022-03-05T07:13:18.061Z"
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Herrero",
+    "email": "natalia.herrero@example.com",
+    "username": "reddog699",
+    "password": "poison",
+    "invokedAt": "2022-03-05T07:26:22.030Z"
   }
 ]
