@@ -446,5 +446,13 @@
     "username": "tinytiger139",
     "password": "georgia",
     "invokedAt": "2022-03-05T11:21:22.332Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Lewis",
+    "email": "brad.lewis@example.com",
+    "username": "organicmouse994",
+    "password": "awesome",
+    "invokedAt": "2022-03-05T11:30:19.496Z"
   }
 ]
