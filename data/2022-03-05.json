@@ -950,5 +950,13 @@
     "username": "orangeelephant366",
     "password": "umbrella",
     "invokedAt": "2022-03-05T21:30:54.267Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Reynolds",
+    "email": "jenny.reynolds@example.com",
+    "username": "heavybear252",
+    "password": "anthrax",
+    "invokedAt": "2022-03-05T21:37:15.070Z"
   }
 ]
