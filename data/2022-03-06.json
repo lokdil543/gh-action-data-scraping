@@ -918,5 +918,13 @@
     "username": "greensnake783",
     "password": "looker",
     "invokedAt": "2022-03-06T20:49:10.056Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Hokkanen",
+    "email": "elias.hokkanen@example.com",
+    "username": "goldenbear361",
+    "password": "123457",
+    "invokedAt": "2022-03-06T20:55:01.195Z"
   }
 ]
