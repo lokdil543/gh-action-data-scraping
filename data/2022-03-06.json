@@ -926,5 +926,13 @@
     "username": "goldenbear361",
     "password": "123457",
     "invokedAt": "2022-03-06T20:55:01.195Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Da Silva",
+    "email": "leonard.dasilva@example.com",
+    "username": "blackduck456",
+    "password": "187187",
+    "invokedAt": "2022-03-06T21:01:58.187Z"
   }
 ]
