@@ -542,5 +542,13 @@
     "username": "silverduck304",
     "password": "stayout",
     "invokedAt": "2022-03-06T13:32:15.102Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Thomas",
+    "email": "finn.thomas@example.com",
+    "username": "greenbear824",
+    "password": "mankind",
+    "invokedAt": "2022-03-06T13:38:48.449Z"
   }
 ]
