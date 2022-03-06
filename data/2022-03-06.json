@@ -350,5 +350,13 @@
     "username": "bigleopard155",
     "password": "seattle",
     "invokedAt": "2022-03-06T09:30:22.144Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Pedersen",
+    "email": "laerke.pedersen@example.com",
+    "username": "redbear903",
+    "password": "damian",
+    "invokedAt": "2022-03-06T09:37:26.861Z"
   }
 ]
