@@ -990,5 +990,13 @@
     "username": "sadduck106",
     "password": "spectre",
     "invokedAt": "2022-03-06T21:58:11.411Z"
+  },
+  {
+    "firstName": "Marion",
+    "lastName": "Reed",
+    "email": "marion.reed@example.com",
+    "username": "smallsnake123",
+    "password": "marty",
+    "invokedAt": "2022-03-06T22:11:56.145Z"
   }
 ]
