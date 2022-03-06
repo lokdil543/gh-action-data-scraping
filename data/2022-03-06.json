@@ -246,5 +246,13 @@
     "username": "lazyfish460",
     "password": "brain",
     "invokedAt": "2022-03-06T07:30:57.551Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Davis",
+    "email": "nelson.davis@example.com",
+    "username": "angrydog345",
+    "password": "wombat",
+    "invokedAt": "2022-03-06T07:37:00.106Z"
   }
 ]
