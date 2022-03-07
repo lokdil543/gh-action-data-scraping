@@ -894,5 +894,13 @@
     "username": "blackdog362",
     "password": "windows",
     "invokedAt": "2022-03-07T21:37:58.944Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Nicolas",
+    "email": "martin.nicolas@example.com",
+    "username": "whiteostrich890",
+    "password": "niao",
+    "invokedAt": "2022-03-07T21:43:53.032Z"
   }
 ]
