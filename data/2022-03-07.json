@@ -662,5 +662,13 @@
     "username": "brownostrich797",
     "password": "snatch",
     "invokedAt": "2022-03-07T17:01:09.356Z"
+  },
+  {
+    "firstName": "Aubrey",
+    "lastName": "Taylor",
+    "email": "aubrey.taylor@example.com",
+    "username": "greendog180",
+    "password": "green1",
+    "invokedAt": "2022-03-07T17:20:23.038Z"
   }
 ]
