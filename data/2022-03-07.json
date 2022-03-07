@@ -814,5 +814,13 @@
     "username": "organicdog424",
     "password": "figaro",
     "invokedAt": "2022-03-07T19:58:28.993Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Martin",
+    "email": "ethan.martin@example.com",
+    "username": "heavybear533",
+    "password": "boat",
+    "invokedAt": "2022-03-07T20:13:43.826Z"
   }
 ]
