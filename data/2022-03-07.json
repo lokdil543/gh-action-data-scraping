@@ -742,5 +742,13 @@
     "username": "redpeacock837",
     "password": "mermaid",
     "invokedAt": "2022-03-07T18:54:09.973Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Christiansen",
+    "email": "gustav.christiansen@example.com",
+    "username": "bluepeacock442",
+    "password": "niceguy",
+    "invokedAt": "2022-03-07T19:00:00.279Z"
   }
 ]
