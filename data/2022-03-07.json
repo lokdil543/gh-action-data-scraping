@@ -614,5 +614,13 @@
     "username": "greengoose158",
     "password": "xfiles",
     "invokedAt": "2022-03-07T15:34:30.202Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Møller",
+    "email": "marius.moller@example.com",
+    "username": "browndog955",
+    "password": "oranges",
+    "invokedAt": "2022-03-07T15:44:23.676Z"
   }
 ]
