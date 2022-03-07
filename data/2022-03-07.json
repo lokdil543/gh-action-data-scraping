@@ -670,5 +670,13 @@
     "username": "greendog180",
     "password": "green1",
     "invokedAt": "2022-03-07T17:20:23.038Z"
+  },
+  {
+    "firstName": "Florence",
+    "lastName": "Anderson",
+    "email": "florence.anderson@example.com",
+    "username": "orangegoose595",
+    "password": "backbone",
+    "invokedAt": "2022-03-07T17:33:40.424Z"
   }
 ]
