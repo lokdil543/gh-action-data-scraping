@@ -710,5 +710,13 @@
     "username": "silverfish607",
     "password": "dream",
     "invokedAt": "2022-03-08T17:59:05.214Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Johansen",
+    "email": "nikolaj.johansen@example.com",
+    "username": "goldenduck501",
+    "password": "needles",
+    "invokedAt": "2022-03-08T18:17:03.329Z"
   }
 ]
