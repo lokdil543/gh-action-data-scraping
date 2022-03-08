@@ -902,5 +902,13 @@
     "username": "blackcat845",
     "password": "reserve",
     "invokedAt": "2022-03-08T21:43:21.199Z"
+  },
+  {
+    "firstName": "Malone",
+    "lastName": "Dumas",
+    "email": "malone.dumas@example.com",
+    "username": "silverlion249",
+    "password": "river",
+    "invokedAt": "2022-03-08T21:49:22.408Z"
   }
 ]
