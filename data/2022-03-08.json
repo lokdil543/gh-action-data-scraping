@@ -886,5 +886,13 @@
     "username": "crazysnake290",
     "password": "england",
     "invokedAt": "2022-03-08T21:30:38.012Z"
+  },
+  {
+    "firstName": "Anne",
+    "lastName": "Matthews",
+    "email": "anne.matthews@example.com",
+    "username": "lazysnake316",
+    "password": "stephen1",
+    "invokedAt": "2022-03-08T21:37:36.899Z"
   }
 ]
