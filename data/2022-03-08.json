@@ -758,5 +758,13 @@
     "username": "greenladybug784",
     "password": "polly",
     "invokedAt": "2022-03-08T19:12:42.091Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Aubert",
+    "email": "pierre.aubert@example.com",
+    "username": "greenostrich978",
+    "password": "reload",
+    "invokedAt": "2022-03-08T19:22:43.383Z"
   }
 ]
