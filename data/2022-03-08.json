@@ -862,5 +862,13 @@
     "username": "crazypeacock771",
     "password": "caught",
     "invokedAt": "2022-03-08T20:56:54.712Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Scott",
+    "email": "max.scott@example.com",
+    "username": "happykoala128",
+    "password": "shaolin",
+    "invokedAt": "2022-03-08T21:08:14.141Z"
   }
 ]
