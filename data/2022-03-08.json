@@ -638,5 +638,13 @@
     "username": "angrybutterfly405",
     "password": "boeing",
     "invokedAt": "2022-03-08T15:58:10.228Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Türkyılmaz",
+    "email": "kadir.turkyilmaz@example.com",
+    "username": "yellowtiger480",
+    "password": "tiger1",
+    "invokedAt": "2022-03-08T16:17:23.768Z"
   }
 ]
