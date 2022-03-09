@@ -646,5 +646,13 @@
     "username": "happylion211",
     "password": "3x7pxr",
     "invokedAt": "2022-03-09T16:00:34.743Z"
+  },
+  {
+    "firstName": "Florian",
+    "lastName": "Roger",
+    "email": "florian.roger@example.com",
+    "username": "crazybird483",
+    "password": "flight",
+    "invokedAt": "2022-03-09T16:26:11.374Z"
   }
 ]
