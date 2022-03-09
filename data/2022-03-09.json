@@ -862,5 +862,13 @@
     "username": "bluetiger354",
     "password": "jammer",
     "invokedAt": "2022-03-09T20:49:56.301Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Wirtanen",
+    "email": "elsa.wirtanen@example.com",
+    "username": "silverpanda104",
+    "password": "secure",
+    "invokedAt": "2022-03-09T20:55:50.592Z"
   }
 ]
