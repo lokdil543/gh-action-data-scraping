@@ -542,5 +542,13 @@
     "username": "heavyswan745",
     "password": "jezebel",
     "invokedAt": "2022-03-09T13:59:55.733Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Novak",
+    "email": "oliver.novak@example.com",
+    "username": "brownlion267",
+    "password": "bender",
+    "invokedAt": "2022-03-09T14:15:18.674Z"
   }
 ]
