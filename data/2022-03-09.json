@@ -158,5 +158,13 @@
     "username": "yellowfrog336",
     "password": "trucks",
     "invokedAt": "2022-03-09T05:48:38.853Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Jørgensen",
+    "email": "albert.jorgensen@example.com",
+    "username": "redostrich954",
+    "password": "1026",
+    "invokedAt": "2022-03-09T05:54:29.647Z"
   }
 ]
