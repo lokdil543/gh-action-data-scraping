@@ -446,5 +446,13 @@
     "username": "brownpanda403",
     "password": "zone",
     "invokedAt": "2022-03-09T11:38:09.343Z"
+  },
+  {
+    "firstName": "Isobel",
+    "lastName": "Williams",
+    "email": "isobel.williams@example.com",
+    "username": "redgoose876",
+    "password": "slugger",
+    "invokedAt": "2022-03-09T11:44:02.805Z"
   }
 ]
