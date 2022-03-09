@@ -550,5 +550,13 @@
     "username": "brownlion267",
     "password": "bender",
     "invokedAt": "2022-03-09T14:15:18.674Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Wood",
+    "email": "charlotte.wood@example.com",
+    "username": "biglion858",
+    "password": "snapper",
+    "invokedAt": "2022-03-09T14:28:09.435Z"
   }
 ]
