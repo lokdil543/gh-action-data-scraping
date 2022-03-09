@@ -478,5 +478,13 @@
     "username": "whitegoose855",
     "password": "neptune",
     "invokedAt": "2022-03-09T12:12:32.750Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Paavola",
+    "email": "valtteri.paavola@example.com",
+    "username": "yellowrabbit891",
+    "password": "buffet",
+    "invokedAt": "2022-03-09T12:45:34.697Z"
   }
 ]
