@@ -654,5 +654,13 @@
     "username": "crazybird483",
     "password": "flight",
     "invokedAt": "2022-03-09T16:26:11.374Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Harper",
+    "email": "bob.harper@example.com",
+    "username": "heavyrabbit959",
+    "password": "rocco",
+    "invokedAt": "2022-03-09T16:51:52.857Z"
   }
 ]
