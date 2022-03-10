@@ -982,5 +982,13 @@
     "username": "silverbear720",
     "password": "fantasia",
     "invokedAt": "2022-03-10T23:36:02.537Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Porter",
+    "email": "carl.porter@example.com",
+    "username": "whitetiger134",
+    "password": "coffee",
+    "invokedAt": "2022-03-10T23:42:21.043Z"
   }
 ]
