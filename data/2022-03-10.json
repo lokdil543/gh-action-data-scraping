@@ -790,5 +790,13 @@
     "username": "purplegoose254",
     "password": "property",
     "invokedAt": "2022-03-10T19:51:00.586Z"
+  },
+  {
+    "firstName": "Garance",
+    "lastName": "Masson",
+    "email": "garance.masson@example.com",
+    "username": "redgoose769",
+    "password": "wordpass",
+    "invokedAt": "2022-03-10T19:56:52.130Z"
   }
 ]
