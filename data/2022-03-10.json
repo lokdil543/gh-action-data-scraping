@@ -478,5 +478,13 @@
     "username": "browngorilla665",
     "password": "rhythm",
     "invokedAt": "2022-03-10T13:10:16.866Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Fournier",
+    "email": "claude.fournier@example.com",
+    "username": "purplepanda672",
+    "password": "knock",
+    "invokedAt": "2022-03-10T13:30:09.839Z"
   }
 ]
