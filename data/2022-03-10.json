@@ -862,5 +862,13 @@
     "username": "whitetiger945",
     "password": "picture",
     "invokedAt": "2022-03-10T21:19:16.123Z"
+  },
+  {
+    "firstName": "Floyd",
+    "lastName": "Graves",
+    "email": "floyd.graves@example.com",
+    "username": "blacktiger969",
+    "password": "better",
+    "invokedAt": "2022-03-10T21:29:25.442Z"
   }
 ]
