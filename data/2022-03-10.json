@@ -142,5 +142,13 @@
     "username": "tinygorilla440",
     "password": "doit",
     "invokedAt": "2022-03-10T05:44:03.962Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Adams",
+    "email": "amy.adams@example.com",
+    "username": "greendog737",
+    "password": "ilikeit",
+    "invokedAt": "2022-03-10T05:49:55.910Z"
   }
 ]
