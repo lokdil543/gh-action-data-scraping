@@ -750,5 +750,13 @@
     "username": "lazytiger324",
     "password": "hack",
     "invokedAt": "2022-03-11T18:58:23.474Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Jensen",
+    "email": "thomas.jensen@example.com",
+    "username": "sadduck232",
+    "password": "dontknow",
+    "invokedAt": "2022-03-11T19:10:00.997Z"
   }
 ]
