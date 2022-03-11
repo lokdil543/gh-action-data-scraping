@@ -942,5 +942,13 @@
     "username": "reddog387",
     "password": "picturs",
     "invokedAt": "2022-03-11T22:28:50.253Z"
+  },
+  {
+    "firstName": "Donna",
+    "lastName": "Van der Kooij",
+    "email": "donna.vanderkooij@example.com",
+    "username": "greenleopard204",
+    "password": "spring",
+    "invokedAt": "2022-03-11T22:37:59.395Z"
   }
 ]
