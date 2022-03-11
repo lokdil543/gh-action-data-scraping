@@ -398,5 +398,13 @@
     "username": "heavygorilla586",
     "password": "nine",
     "invokedAt": "2022-03-11T10:50:58.672Z"
+  },
+  {
+    "firstName": "Hans Jörg",
+    "lastName": "Weber",
+    "email": "hansjorg.weber@example.com",
+    "username": "greengorilla582",
+    "password": "sergeant",
+    "invokedAt": "2022-03-11T10:56:48.371Z"
   }
 ]
