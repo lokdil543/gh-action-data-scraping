@@ -350,5 +350,13 @@
     "username": "heavyfish445",
     "password": "obiwan",
     "invokedAt": "2022-03-11T09:49:24.303Z"
+  },
+  {
+    "firstName": "Dietmar",
+    "lastName": "Büchler",
+    "email": "dietmar.buchler@example.com",
+    "username": "redkoala836",
+    "password": "silent",
+    "invokedAt": "2022-03-11T09:55:11.628Z"
   }
 ]
