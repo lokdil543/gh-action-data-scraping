@@ -166,5 +166,13 @@
     "username": "heavytiger649",
     "password": "telefon",
     "invokedAt": "2022-03-11T05:54:08.032Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Topaloğlu",
+    "email": "ali.topaloglu@example.com",
+    "username": "redfish805",
+    "password": "123457",
+    "invokedAt": "2022-03-11T05:59:58.032Z"
   }
 ]
