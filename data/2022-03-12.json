@@ -278,5 +278,13 @@
     "username": "biglion561",
     "password": "xtreme",
     "invokedAt": "2022-03-12T07:59:01.052Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Hansen",
+    "email": "andreas.hansen@example.com",
+    "username": "blackbear750",
+    "password": "cowboy1",
+    "invokedAt": "2022-03-12T08:16:30.092Z"
   }
 ]
