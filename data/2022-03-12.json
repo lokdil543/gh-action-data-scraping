@@ -702,5 +702,13 @@
     "username": "bigsnake497",
     "password": "surfer",
     "invokedAt": "2022-03-12T17:22:45.119Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Singh",
+    "email": "oliver.singh@example.com",
+    "username": "purpleleopard765",
+    "password": "arctic",
+    "invokedAt": "2022-03-12T17:31:21.022Z"
   }
 ]
