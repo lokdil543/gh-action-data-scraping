@@ -710,5 +710,13 @@
     "username": "purpleleopard765",
     "password": "arctic",
     "invokedAt": "2022-03-12T17:31:21.022Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Poulsen",
+    "email": "valdemar.poulsen@example.com",
+    "username": "bigleopard809",
+    "password": "mission",
+    "invokedAt": "2022-03-12T17:38:13.113Z"
   }
 ]
