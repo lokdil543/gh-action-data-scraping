@@ -414,5 +414,13 @@
     "username": "ticklishzebra433",
     "password": "bob123",
     "invokedAt": "2022-03-12T10:49:37.500Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Mora",
+    "email": "benito.mora@example.com",
+    "username": "bigkoala118",
+    "password": "postman",
+    "invokedAt": "2022-03-12T10:55:34.185Z"
   }
 ]
