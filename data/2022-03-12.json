@@ -54,5 +54,13 @@
     "username": "yellowcat288",
     "password": "robert1",
     "invokedAt": "2022-03-12T03:26:31.265Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Aşıkoğlu",
+    "email": "mustafa.asikoglu@example.com",
+    "username": "silverpeacock386",
+    "password": "doctor",
+    "invokedAt": "2022-03-12T03:36:25.106Z"
   }
 ]
