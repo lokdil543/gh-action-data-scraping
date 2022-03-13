@@ -454,5 +454,13 @@
     "username": "tinybird317",
     "password": "pirates",
     "invokedAt": "2022-03-13T12:46:34.933Z"
+  },
+  {
+    "firstName": "Vittorio",
+    "lastName": "Dupont",
+    "email": "vittorio.dupont@example.com",
+    "username": "beautifulgoose368",
+    "password": "mail",
+    "invokedAt": "2022-03-13T13:03:13.980Z"
   }
 ]
