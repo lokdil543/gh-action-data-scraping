@@ -414,5 +414,13 @@
     "username": "greenpeacock243",
     "password": "eddie1",
     "invokedAt": "2022-03-13T11:39:56.119Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Johansen",
+    "email": "julie.johansen@example.com",
+    "username": "purplebird303",
+    "password": "ncc1701e",
+    "invokedAt": "2022-03-13T11:45:45.971Z"
   }
 ]
