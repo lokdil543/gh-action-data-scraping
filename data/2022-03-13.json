@@ -494,5 +494,13 @@
     "username": "silvergoose415",
     "password": "poetry",
     "invokedAt": "2022-03-13T13:45:44.081Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Walker",
+    "email": "james.walker@example.com",
+    "username": "happykoala218",
+    "password": "port",
+    "invokedAt": "2022-03-13T13:51:41.707Z"
   }
 ]
