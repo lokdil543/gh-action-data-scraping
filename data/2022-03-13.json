@@ -854,5 +854,13 @@
     "username": "heavyfrog362",
     "password": "errors",
     "invokedAt": "2022-03-13T21:09:31.902Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Cooper",
+    "email": "arthur.cooper@example.com",
+    "username": "goldengorilla780",
+    "password": "cisco",
+    "invokedAt": "2022-03-13T21:22:57.293Z"
   }
 ]
