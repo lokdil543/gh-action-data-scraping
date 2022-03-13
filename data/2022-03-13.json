@@ -294,5 +294,13 @@
     "username": "heavyelephant942",
     "password": "damage",
     "invokedAt": "2022-03-13T09:29:25.157Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Taylor",
+    "email": "lucy.taylor@example.com",
+    "username": "happyfrog131",
+    "password": "ironman",
+    "invokedAt": "2022-03-13T09:37:26.575Z"
   }
 ]
