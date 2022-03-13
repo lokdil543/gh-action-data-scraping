@@ -270,5 +270,13 @@
     "username": "angryduck902",
     "password": "megapass",
     "invokedAt": "2022-03-13T08:54:46.234Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Cortes",
+    "email": "francisco.cortes@example.com",
+    "username": "smalltiger111",
+    "password": "kill",
+    "invokedAt": "2022-03-13T09:00:50.276Z"
   }
 ]
