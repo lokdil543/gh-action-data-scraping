@@ -254,5 +254,13 @@
     "username": "tinycat574",
     "password": "think",
     "invokedAt": "2022-03-13T08:43:03.622Z"
+  },
+  {
+    "firstName": "Sacha",
+    "lastName": "Giraud",
+    "email": "sacha.giraud@example.com",
+    "username": "yellowfrog125",
+    "password": "playball",
+    "invokedAt": "2022-03-13T08:48:50.003Z"
   }
 ]
