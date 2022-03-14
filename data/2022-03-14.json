@@ -582,5 +582,13 @@
     "username": "blackfrog170",
     "password": "benfica",
     "invokedAt": "2022-03-14T17:00:01.384Z"
+  },
+  {
+    "firstName": "Volkan",
+    "lastName": "Öztürk",
+    "email": "volkan.ozturk@example.com",
+    "username": "lazymouse863",
+    "password": "jimbob",
+    "invokedAt": "2022-03-14T17:16:44.006Z"
   }
 ]
