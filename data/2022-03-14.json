@@ -382,5 +382,13 @@
     "username": "smallostrich500",
     "password": "boom",
     "invokedAt": "2022-03-14T11:43:10.367Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Harvey",
+    "email": "amanda.harvey@example.com",
+    "username": "ticklishcat922",
+    "password": "universe",
+    "invokedAt": "2022-03-14T11:49:01.367Z"
   }
 ]
