@@ -150,5 +150,13 @@
     "username": "smallmeercat187",
     "password": "bigblock",
     "invokedAt": "2022-03-14T07:00:23.142Z"
+  },
+  {
+    "firstName": "Rich",
+    "lastName": "Gilbert",
+    "email": "rich.gilbert@example.com",
+    "username": "redmouse556",
+    "password": "eskimo",
+    "invokedAt": "2022-03-14T07:16:52.149Z"
   }
 ]
