@@ -374,5 +374,13 @@
     "username": "silverdog420",
     "password": "mission",
     "invokedAt": "2022-03-14T11:37:11.947Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Hakola",
+    "email": "niklas.hakola@example.com",
+    "username": "smallostrich500",
+    "password": "boom",
+    "invokedAt": "2022-03-14T11:43:10.367Z"
   }
 ]
