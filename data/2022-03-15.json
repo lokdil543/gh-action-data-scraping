@@ -710,5 +710,13 @@
     "username": "smalldog926",
     "password": "axio",
     "invokedAt": "2022-03-15T18:34:08.422Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Møller",
+    "email": "rosa.moller@example.com",
+    "username": "goldenleopard377",
+    "password": "toast",
+    "invokedAt": "2022-03-15T18:46:35.148Z"
   }
 ]
