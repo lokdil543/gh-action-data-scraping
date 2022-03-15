@@ -342,5 +342,13 @@
     "username": "redkoala878",
     "password": "7007",
     "invokedAt": "2022-03-15T09:55:42.143Z"
+  },
+  {
+    "firstName": "Marie-Christine",
+    "lastName": "Schmitt",
+    "email": "marie-christine.schmitt@example.com",
+    "username": "bluefish323",
+    "password": "admin",
+    "invokedAt": "2022-03-15T10:07:43.207Z"
   }
 ]
