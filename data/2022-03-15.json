@@ -270,5 +270,13 @@
     "username": "sadcat902",
     "password": "soccer",
     "invokedAt": "2022-03-15T08:35:13.345Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Poulsen",
+    "email": "freja.poulsen@example.com",
+    "username": "tinyfish840",
+    "password": "1234qwer",
+    "invokedAt": "2022-03-15T08:45:36.228Z"
   }
 ]
