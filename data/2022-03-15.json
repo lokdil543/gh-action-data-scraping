@@ -686,5 +686,13 @@
     "username": "smallcat283",
     "password": "marker",
     "invokedAt": "2022-03-15T17:51:42.086Z"
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Cooper",
+    "email": "peyton.cooper@example.com",
+    "username": "goldenmeercat676",
+    "password": "electric",
+    "invokedAt": "2022-03-15T17:57:33.054Z"
   }
 ]
