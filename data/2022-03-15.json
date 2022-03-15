@@ -878,5 +878,13 @@
     "username": "blackfish151",
     "password": "3131",
     "invokedAt": "2022-03-15T21:31:11.812Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Hansen",
+    "email": "ella.hansen@example.com",
+    "username": "crazyrabbit256",
+    "password": "beamer",
+    "invokedAt": "2022-03-15T21:37:31.065Z"
   }
 ]
