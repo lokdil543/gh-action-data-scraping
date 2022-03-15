@@ -678,5 +678,13 @@
     "username": "greenswan105",
     "password": "737373",
     "invokedAt": "2022-03-15T17:45:45.059Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Aro",
+    "email": "vaino.aro@example.com",
+    "username": "smallcat283",
+    "password": "marker",
+    "invokedAt": "2022-03-15T17:51:42.086Z"
   }
 ]
