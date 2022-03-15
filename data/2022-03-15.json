@@ -518,5 +518,13 @@
     "username": "yellowdog492",
     "password": "pickup",
     "invokedAt": "2022-03-15T13:59:48.654Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Hoffman",
+    "email": "ralph.hoffman@example.com",
+    "username": "smallwolf799",
+    "password": "zhua",
+    "invokedAt": "2022-03-15T14:15:20.942Z"
   }
 ]
