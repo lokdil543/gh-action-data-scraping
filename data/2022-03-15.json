@@ -726,5 +726,13 @@
     "username": "sadduck364",
     "password": "eastern",
     "invokedAt": "2022-03-15T18:52:42.892Z"
+  },
+  {
+    "firstName": "Markus",
+    "lastName": "Henry",
+    "email": "markus.henry@example.com",
+    "username": "yellowdog537",
+    "password": "gobears",
+    "invokedAt": "2022-03-15T18:58:32.797Z"
   }
 ]
