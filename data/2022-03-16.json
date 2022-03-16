@@ -262,5 +262,13 @@
     "username": "happygorilla203",
     "password": "chemical",
     "invokedAt": "2022-03-16T08:28:58.055Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "White",
+    "email": "daniel.white@example.com",
+    "username": "tinyostrich273",
+    "password": "pigpen",
+    "invokedAt": "2022-03-16T08:40:29.320Z"
   }
 ]
