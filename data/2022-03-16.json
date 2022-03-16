@@ -870,5 +870,13 @@
     "username": "blackdog239",
     "password": "remote",
     "invokedAt": "2022-03-16T21:39:16.445Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Bates",
+    "email": "phil.bates@example.com",
+    "username": "blueostrich309",
+    "password": "cougar",
+    "invokedAt": "2022-03-16T21:45:03.330Z"
   }
 ]
