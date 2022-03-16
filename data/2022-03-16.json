@@ -206,5 +206,13 @@
     "username": "whiteelephant475",
     "password": "clowns",
     "invokedAt": "2022-03-16T07:22:08.428Z"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Odden",
+    "email": "karen.odden@example.com",
+    "username": "blackostrich436",
+    "password": "tomcat",
+    "invokedAt": "2022-03-16T07:30:58.921Z"
   }
 ]
