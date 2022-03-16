@@ -758,5 +758,13 @@
     "username": "beautifulsnake370",
     "password": "missy1",
     "invokedAt": "2022-03-16T19:34:15.248Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Pedersen",
+    "email": "rasmus.pedersen@example.com",
+    "username": "bluesnake957",
+    "password": "poodle",
+    "invokedAt": "2022-03-16T19:40:04.020Z"
   }
 ]
