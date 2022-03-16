@@ -630,5 +630,13 @@
     "username": "crazysnake754",
     "password": "lincoln",
     "invokedAt": "2022-03-16T16:40:12.531Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "username": "beautifulduck247",
+    "password": "condom",
+    "invokedAt": "2022-03-16T16:58:34.228Z"
   }
 ]
