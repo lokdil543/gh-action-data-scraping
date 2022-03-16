@@ -542,5 +542,13 @@
     "username": "redpanda992",
     "password": "1985",
     "invokedAt": "2022-03-16T14:30:53.028Z"
+  },
+  {
+    "firstName": "Gauthier",
+    "lastName": "Vidal",
+    "email": "gauthier.vidal@example.com",
+    "username": "purplesnake225",
+    "password": "change",
+    "invokedAt": "2022-03-16T14:37:47.327Z"
   }
 ]
