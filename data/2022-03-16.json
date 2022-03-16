@@ -190,5 +190,13 @@
     "username": "crazyduck296",
     "password": "gadget",
     "invokedAt": "2022-03-16T06:54:55.011Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Michel",
+    "email": "jose.michel@example.com",
+    "username": "greenleopard370",
+    "password": "celica",
+    "invokedAt": "2022-03-16T07:03:37.223Z"
   }
 ]
