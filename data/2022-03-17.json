@@ -806,5 +806,13 @@
     "username": "redwolf693",
     "password": "spongebo",
     "invokedAt": "2022-03-17T21:24:39.943Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Fleury",
+    "email": "sergio.fleury@example.com",
+    "username": "yellowelephant347",
+    "password": "custom",
+    "invokedAt": "2022-03-17T21:31:41.455Z"
   }
 ]
