@@ -734,5 +734,13 @@
     "username": "brownmeercat812",
     "password": "eighteen",
     "invokedAt": "2022-03-17T19:54:33.224Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Perko",
+    "email": "arttu.perko@example.com",
+    "username": "tinybear169",
+    "password": "komodo",
+    "invokedAt": "2022-03-17T20:00:25.193Z"
   }
 ]
