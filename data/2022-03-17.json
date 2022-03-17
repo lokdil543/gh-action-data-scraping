@@ -534,5 +534,13 @@
     "username": "blackbird410",
     "password": "winter1",
     "invokedAt": "2022-03-17T14:35:37.729Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Weinert",
+    "email": "roberto.weinert@example.com",
+    "username": "purplecat145",
+    "password": "fullmoon",
+    "invokedAt": "2022-03-17T14:58:02.119Z"
   }
 ]
