@@ -798,5 +798,13 @@
     "username": "smallbutterfly762",
     "password": "hell",
     "invokedAt": "2022-03-17T21:11:01.302Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Neal",
+    "email": "jacob.neal@example.com",
+    "username": "redwolf693",
+    "password": "spongebo",
+    "invokedAt": "2022-03-17T21:24:39.943Z"
   }
 ]
