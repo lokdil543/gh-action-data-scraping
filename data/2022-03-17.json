@@ -742,5 +742,13 @@
     "username": "tinybear169",
     "password": "komodo",
     "invokedAt": "2022-03-17T20:00:25.193Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Taylor",
+    "email": "bradley.taylor@example.com",
+    "username": "lazycat300",
+    "password": "chiefs",
+    "invokedAt": "2022-03-17T20:18:13.171Z"
   }
 ]
