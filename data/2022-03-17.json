@@ -86,5 +86,13 @@
     "username": "lazyostrich707",
     "password": "meme",
     "invokedAt": "2022-03-17T04:33:22.656Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Lampinen",
+    "email": "sara.lampinen@example.com",
+    "username": "greengorilla789",
+    "password": "jerky",
+    "invokedAt": "2022-03-17T04:49:41.238Z"
   }
 ]
