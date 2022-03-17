@@ -78,5 +78,13 @@
     "username": "purplefish931",
     "password": "camera",
     "invokedAt": "2022-03-17T04:07:59.961Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Miller",
+    "email": "lucas.miller@example.com",
+    "username": "lazyostrich707",
+    "password": "meme",
+    "invokedAt": "2022-03-17T04:33:22.656Z"
   }
 ]
