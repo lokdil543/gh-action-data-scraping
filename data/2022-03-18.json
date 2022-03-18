@@ -518,5 +518,13 @@
     "username": "blueostrich555",
     "password": "pictuers",
     "invokedAt": "2022-03-18T13:57:04.164Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Sørensen",
+    "email": "sander.sorensen@example.com",
+    "username": "purplekoala323",
+    "password": "baker",
+    "invokedAt": "2022-03-18T14:09:05.492Z"
   }
 ]
