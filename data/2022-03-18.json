@@ -286,5 +286,13 @@
     "username": "sadladybug494",
     "password": "show",
     "invokedAt": "2022-03-18T08:50:12.228Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Graves",
+    "email": "fred.graves@example.com",
+    "username": "blackbutterfly958",
+    "password": "snoopy1",
+    "invokedAt": "2022-03-18T08:56:11.682Z"
   }
 ]
