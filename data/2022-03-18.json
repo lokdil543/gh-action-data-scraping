@@ -342,5 +342,13 @@
     "username": "yellowfrog444",
     "password": "scooby",
     "invokedAt": "2022-03-18T09:54:08.036Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Midtun",
+    "email": "stefan.midtun@example.com",
+    "username": "angrygorilla725",
+    "password": "kiki",
+    "invokedAt": "2022-03-18T09:59:59.981Z"
   }
 ]
