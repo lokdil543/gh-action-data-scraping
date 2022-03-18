@@ -526,5 +526,13 @@
     "username": "purplekoala323",
     "password": "baker",
     "invokedAt": "2022-03-18T14:09:05.492Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Manninen",
+    "email": "aatu.manninen@example.com",
+    "username": "sadsnake383",
+    "password": "goliath",
+    "invokedAt": "2022-03-18T14:23:38.116Z"
   }
 ]
