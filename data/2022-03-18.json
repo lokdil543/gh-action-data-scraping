@@ -702,5 +702,13 @@
     "username": "happyladybug959",
     "password": "unique",
     "invokedAt": "2022-03-18T18:18:07.406Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Garcia",
+    "email": "sandra.garcia@example.com",
+    "username": "crazyleopard342",
+    "password": "natalie",
+    "invokedAt": "2022-03-18T18:36:52.241Z"
   }
 ]
