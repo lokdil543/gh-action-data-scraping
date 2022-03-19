@@ -902,5 +902,13 @@
     "username": "whitefrog226",
     "password": "glotest",
     "invokedAt": "2022-03-19T20:58:02.219Z"
+  },
+  {
+    "firstName": "Enola",
+    "lastName": "Le Gall",
+    "email": "enola.legall@example.com",
+    "username": "blacktiger625",
+    "password": "dabomb",
+    "invokedAt": "2022-03-19T21:10:01.348Z"
   }
 ]
