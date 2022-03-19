@@ -222,5 +222,13 @@
     "username": "beautifulleopard357",
     "password": "november",
     "invokedAt": "2022-03-19T07:00:06.380Z"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Andersen",
+    "email": "mason.andersen@example.com",
+    "username": "heavypeacock266",
+    "password": "startrek",
+    "invokedAt": "2022-03-19T07:15:01.304Z"
   }
 ]
