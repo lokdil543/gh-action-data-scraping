@@ -590,5 +590,13 @@
     "username": "yellowladybug188",
     "password": "spunk",
     "invokedAt": "2022-03-19T14:37:34.339Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Fowler",
+    "email": "tom.fowler@example.com",
+    "username": "sadrabbit770",
+    "password": "abcd",
+    "invokedAt": "2022-03-19T14:43:30.149Z"
   }
 ]
