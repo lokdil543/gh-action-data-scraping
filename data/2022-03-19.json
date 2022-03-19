@@ -446,5 +446,13 @@
     "username": "blackrabbit514",
     "password": "pinnacle",
     "invokedAt": "2022-03-19T11:24:52.386Z"
+  },
+  {
+    "firstName": "Selma",
+    "lastName": "Mortensen",
+    "email": "selma.mortensen@example.com",
+    "username": "sadladybug893",
+    "password": "purple",
+    "invokedAt": "2022-03-19T11:30:54.123Z"
   }
 ]
