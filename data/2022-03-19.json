@@ -990,5 +990,13 @@
     "username": "sadelephant191",
     "password": "spiral",
     "invokedAt": "2022-03-19T22:37:56.436Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Brown",
+    "email": "blake.brown@example.com",
+    "username": "yellowswan230",
+    "password": "floppy",
+    "invokedAt": "2022-03-19T22:43:44.188Z"
   }
 ]
