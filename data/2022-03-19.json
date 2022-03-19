@@ -790,5 +790,13 @@
     "username": "tinyduck740",
     "password": "crunch",
     "invokedAt": "2022-03-19T19:06:53.062Z"
+  },
+  {
+    "firstName": "Fletcher",
+    "lastName": "Evans",
+    "email": "fletcher.evans@example.com",
+    "username": "crazycat288",
+    "password": "marcius2",
+    "invokedAt": "2022-03-19T19:19:29.262Z"
   }
 ]
