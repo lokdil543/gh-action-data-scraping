@@ -142,5 +142,13 @@
     "username": "bluepeacock600",
     "password": "zapper",
     "invokedAt": "2022-03-19T05:29:21.046Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Walker",
+    "email": "max.walker@example.com",
+    "username": "angryduck444",
+    "password": "star",
+    "invokedAt": "2022-03-19T05:35:31.914Z"
   }
 ]
