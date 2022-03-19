@@ -910,5 +910,13 @@
     "username": "blacktiger625",
     "password": "dabomb",
     "invokedAt": "2022-03-19T21:10:01.348Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "May",
+    "email": "ken.may@example.com",
+    "username": "purplebear344",
+    "password": "celebrity",
+    "invokedAt": "2022-03-19T21:23:15.566Z"
   }
 ]
