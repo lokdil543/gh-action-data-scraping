@@ -166,5 +166,13 @@
     "username": "smalllion979",
     "password": "hamburg",
     "invokedAt": "2022-03-19T05:47:09.016Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Freitas",
+    "email": "jacob.freitas@example.com",
+    "username": "goldenfish258",
+    "password": "caddy",
+    "invokedAt": "2022-03-19T05:53:16.627Z"
   }
 ]
