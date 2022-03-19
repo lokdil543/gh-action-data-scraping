@@ -758,5 +758,13 @@
     "username": "bluefrog935",
     "password": "hott",
     "invokedAt": "2022-03-19T18:31:48.962Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Dupuis",
+    "email": "marc.dupuis@example.com",
+    "username": "happycat312",
+    "password": "keith",
+    "invokedAt": "2022-03-19T18:44:26.651Z"
   }
 ]
