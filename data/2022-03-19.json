@@ -558,5 +558,13 @@
     "username": "ticklishduck591",
     "password": "abc12345",
     "invokedAt": "2022-03-19T13:53:50.326Z"
+  },
+  {
+    "firstName": "Ece",
+    "lastName": "Akşit",
+    "email": "ece.aksit@example.com",
+    "username": "purplebear487",
+    "password": "puppet",
+    "invokedAt": "2022-03-19T13:59:38.321Z"
   }
 ]
