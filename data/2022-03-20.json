@@ -326,5 +326,13 @@
     "username": "brownmouse816",
     "password": "spectrum",
     "invokedAt": "2022-03-20T09:14:11.452Z"
+  },
+  {
+    "firstName": "Serge",
+    "lastName": "Jacobsen",
+    "email": "serge.jacobsen@example.com",
+    "username": "goldenlion901",
+    "password": "jonny",
+    "invokedAt": "2022-03-20T09:28:30.550Z"
   }
 ]
