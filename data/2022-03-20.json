@@ -262,5 +262,13 @@
     "username": "biggoose290",
     "password": "sebastian",
     "invokedAt": "2022-03-20T07:51:34.756Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Day",
+    "email": "bradley.day@example.com",
+    "username": "sadwolf345",
+    "password": "allison",
+    "invokedAt": "2022-03-20T07:57:23.208Z"
   }
 ]
