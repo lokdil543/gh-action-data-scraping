@@ -294,5 +294,13 @@
     "username": "whitelion377",
     "password": "remote",
     "invokedAt": "2022-03-20T08:41:31.006Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Bergeron",
+    "email": "nathan.bergeron@example.com",
+    "username": "smallkoala921",
+    "password": "reddwarf",
+    "invokedAt": "2022-03-20T08:47:29.709Z"
   }
 ]
