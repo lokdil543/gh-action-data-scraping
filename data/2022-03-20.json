@@ -398,5 +398,13 @@
     "username": "blackostrich805",
     "password": "fullmoon",
     "invokedAt": "2022-03-20T10:42:03.352Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Kristensen",
+    "email": "simon.kristensen@example.com",
+    "username": "yellowwolf295",
+    "password": "skipper",
+    "invokedAt": "2022-03-20T10:47:53.362Z"
   }
 ]
