@@ -214,5 +214,13 @@
     "username": "goldendog162",
     "password": "bullseye",
     "invokedAt": "2022-03-20T07:01:13.393Z"
+  },
+  {
+    "firstName": "Aymeric",
+    "lastName": "Garnier",
+    "email": "aymeric.garnier@example.com",
+    "username": "heavylion143",
+    "password": "hate",
+    "invokedAt": "2022-03-20T07:17:11.958Z"
   }
 ]
