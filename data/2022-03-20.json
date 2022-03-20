@@ -974,5 +974,13 @@
     "username": "lazyfrog551",
     "password": "spikes",
     "invokedAt": "2022-03-20T22:34:57.741Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Wells",
+    "email": "roy.wells@example.com",
+    "username": "beautifuldog890",
+    "password": "wombat",
+    "invokedAt": "2022-03-20T22:41:34.340Z"
   }
 ]
