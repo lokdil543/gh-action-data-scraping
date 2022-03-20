@@ -1030,5 +1030,13 @@
     "username": "crazybird163",
     "password": "vision",
     "invokedAt": "2022-03-20T23:36:04.382Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Nielsen",
+    "email": "gustav.nielsen@example.com",
+    "username": "silverfish852",
+    "password": "columbus",
+    "invokedAt": "2022-03-20T23:41:59.956Z"
   }
 ]
