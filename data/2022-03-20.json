@@ -798,5 +798,13 @@
     "username": "blackduck185",
     "password": "notnow",
     "invokedAt": "2022-03-20T19:26:16.541Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Davies",
+    "email": "adam.davies@example.com",
+    "username": "beautifultiger215",
+    "password": "cobra1",
+    "invokedAt": "2022-03-20T19:32:45.000Z"
   }
 ]
