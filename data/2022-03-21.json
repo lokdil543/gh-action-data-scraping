@@ -110,5 +110,13 @@
     "username": "blueduck192",
     "password": "limited",
     "invokedAt": "2022-03-21T05:33:02.700Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Rasmussen",
+    "email": "lucas.rasmussen@example.com",
+    "username": "crazykoala980",
+    "password": "stocks",
+    "invokedAt": "2022-03-21T05:38:54.126Z"
   }
 ]
