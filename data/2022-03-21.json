@@ -414,5 +414,13 @@
     "username": "whiteostrich310",
     "password": "shovel",
     "invokedAt": "2022-03-21T11:48:41.088Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Armstrong",
+    "email": "harry.armstrong@example.com",
+    "username": "bigcat599",
+    "password": "prophet",
+    "invokedAt": "2022-03-21T11:54:34.099Z"
   }
 ]
