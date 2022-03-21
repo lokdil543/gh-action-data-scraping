@@ -214,5 +214,13 @@
     "username": "crazyduck277",
     "password": "tonight",
     "invokedAt": "2022-03-21T07:44:01.350Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Martin",
+    "email": "ruby.martin@example.com",
+    "username": "smallgorilla418",
+    "password": "gogo",
+    "invokedAt": "2022-03-21T07:49:56.081Z"
   }
 ]
