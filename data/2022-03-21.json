@@ -278,5 +278,13 @@
     "username": "sadlion440",
     "password": "command",
     "invokedAt": "2022-03-21T09:10:51.173Z"
+  },
+  {
+    "firstName": "Sebastiaan",
+    "lastName": "Koolhaas",
+    "email": "sebastiaan.koolhaas@example.com",
+    "username": "yellowlion693",
+    "password": "solo",
+    "invokedAt": "2022-03-21T09:27:22.082Z"
   }
 ]
