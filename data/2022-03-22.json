@@ -598,5 +598,13 @@
     "username": "bigpeacock555",
     "password": "testibil",
     "invokedAt": "2022-03-22T17:16:25.964Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Evans",
+    "email": "emma.evans@example.com",
+    "username": "yellowbutterfly540",
+    "password": "area51",
+    "invokedAt": "2022-03-22T17:35:26.535Z"
   }
 ]
