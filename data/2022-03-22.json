@@ -254,5 +254,13 @@
     "username": "bigsnake479",
     "password": "force",
     "invokedAt": "2022-03-22T08:35:50.143Z"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Perez",
+    "email": "nora.perez@example.com",
+    "username": "lazyzebra745",
+    "password": "megatron",
+    "invokedAt": "2022-03-22T08:45:02.252Z"
   }
 ]
