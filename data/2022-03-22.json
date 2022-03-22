@@ -542,5 +542,13 @@
     "username": "silverelephant846",
     "password": "aliens",
     "invokedAt": "2022-03-22T14:46:21.414Z"
+  },
+  {
+    "firstName": "Kerim",
+    "lastName": "Alpuğan",
+    "email": "kerim.alpugan@example.com",
+    "username": "redpanda994",
+    "password": "parker",
+    "invokedAt": "2022-03-22T14:52:26.312Z"
   }
 ]
