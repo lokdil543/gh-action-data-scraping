@@ -710,5 +710,13 @@
     "username": "greenpeacock240",
     "password": "fighting",
     "invokedAt": "2022-03-22T19:40:40.475Z"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Berry",
+    "email": "karl.berry@example.com",
+    "username": "brownfish296",
+    "password": "gerbil",
+    "invokedAt": "2022-03-22T19:46:41.347Z"
   }
 ]
