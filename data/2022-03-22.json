@@ -782,5 +782,13 @@
     "username": "crazymouse635",
     "password": "billy1",
     "invokedAt": "2022-03-22T20:55:47.990Z"
+  },
+  {
+    "firstName": "Niilo",
+    "lastName": "Koski",
+    "email": "niilo.koski@example.com",
+    "username": "angryzebra712",
+    "password": "1234abcd",
+    "invokedAt": "2022-03-22T21:06:10.152Z"
   }
 ]
