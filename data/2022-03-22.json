@@ -358,5 +358,13 @@
     "username": "organicfish239",
     "password": "smiles",
     "invokedAt": "2022-03-22T10:43:42.763Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Andersen",
+    "email": "ella.andersen@example.com",
+    "username": "blueladybug804",
+    "password": "kilroy",
+    "invokedAt": "2022-03-22T10:49:35.340Z"
   }
 ]
