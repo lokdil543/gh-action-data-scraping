@@ -902,5 +902,13 @@
     "username": "angrycat827",
     "password": "spectre",
     "invokedAt": "2022-03-22T23:15:35.981Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Clark",
+    "email": "blake.clark@example.com",
+    "username": "angrydog144",
+    "password": "kentucky",
+    "invokedAt": "2022-03-22T23:30:02.957Z"
   }
 ]
