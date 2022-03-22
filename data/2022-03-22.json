@@ -446,5 +446,13 @@
     "username": "browngorilla933",
     "password": "treefrog",
     "invokedAt": "2022-03-22T12:23:41.556Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Jones",
+    "email": "edward.jones@example.com",
+    "username": "purpleladybug607",
+    "password": "north",
+    "invokedAt": "2022-03-22T12:55:37.311Z"
   }
 ]
