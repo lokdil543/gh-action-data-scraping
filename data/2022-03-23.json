@@ -430,5 +430,13 @@
     "username": "bigrabbit776",
     "password": "transfer",
     "invokedAt": "2022-03-23T11:59:17.170Z"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Mills",
+    "email": "jennifer.mills@example.com",
+    "username": "whitedog493",
+    "password": "scruffy",
+    "invokedAt": "2022-03-23T12:26:22.062Z"
   }
 ]
