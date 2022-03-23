@@ -694,5 +694,13 @@
     "username": "orangepanda189",
     "password": "missouri",
     "invokedAt": "2022-03-23T19:19:23.416Z"
+  },
+  {
+    "firstName": "Grácio",
+    "lastName": "da Rosa",
+    "email": "gracio.darosa@example.com",
+    "username": "brownbird168",
+    "password": "rosario",
+    "invokedAt": "2022-03-23T19:26:01.182Z"
   }
 ]
