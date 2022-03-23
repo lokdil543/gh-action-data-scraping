@@ -718,5 +718,13 @@
     "username": "silverladybug309",
     "password": "champ",
     "invokedAt": "2022-03-23T19:38:34.696Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Bourgeois",
+    "email": "bastien.bourgeois@example.com",
+    "username": "organicelephant389",
+    "password": "gadget",
+    "invokedAt": "2022-03-23T19:44:25.281Z"
   }
 ]
