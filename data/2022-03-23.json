@@ -662,5 +662,13 @@
     "username": "orangeswan258",
     "password": "hansen",
     "invokedAt": "2022-03-23T18:38:45.097Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Menard",
+    "email": "jean.menard@example.com",
+    "username": "heavydog245",
+    "password": "painter",
+    "invokedAt": "2022-03-23T18:50:00.988Z"
   }
 ]
