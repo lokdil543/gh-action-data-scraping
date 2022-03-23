@@ -918,5 +918,13 @@
     "username": "whitedog515",
     "password": "walmart",
     "invokedAt": "2022-03-23T23:16:19.223Z"
+  },
+  {
+    "firstName": "Maëlia",
+    "lastName": "Mathieu",
+    "email": "maelia.mathieu@example.com",
+    "username": "smallpanda215",
+    "password": "ladder",
+    "invokedAt": "2022-03-23T23:30:01.296Z"
   }
 ]
