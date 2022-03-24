@@ -870,5 +870,13 @@
     "username": "lazybird635",
     "password": "florence",
     "invokedAt": "2022-03-24T22:29:42.414Z"
+  },
+  {
+    "firstName": "Randall",
+    "lastName": "Howard",
+    "email": "randall.howard@example.com",
+    "username": "blackgoose459",
+    "password": "2424",
+    "invokedAt": "2022-03-24T22:39:05.760Z"
   }
 ]
