@@ -286,5 +286,13 @@
     "username": "purplecat632",
     "password": "383838",
     "invokedAt": "2022-03-24T09:00:44.106Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Chan",
+    "email": "camille.chan@example.com",
+    "username": "redsnake379",
+    "password": "snapper",
+    "invokedAt": "2022-03-24T09:18:08.493Z"
   }
 ]
