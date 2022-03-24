@@ -774,5 +774,13 @@
     "username": "bigpeacock348",
     "password": "adidas",
     "invokedAt": "2022-03-24T20:39:34.078Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Patel",
+    "email": "jacob.patel@example.com",
+    "username": "redduck197",
+    "password": "italian",
+    "invokedAt": "2022-03-24T20:45:25.207Z"
   }
 ]
