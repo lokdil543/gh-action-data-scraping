@@ -46,5 +46,13 @@
     "username": "lazyrabbit799",
     "password": "1234567",
     "invokedAt": "2022-03-24T03:47:44.316Z"
+  },
+  {
+    "firstName": "Katarina",
+    "lastName": "Meyer",
+    "email": "katarina.meyer@example.com",
+    "username": "angryrabbit275",
+    "password": "choke",
+    "invokedAt": "2022-03-24T03:53:35.431Z"
   }
 ]
