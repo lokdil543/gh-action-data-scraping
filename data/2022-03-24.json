@@ -902,5 +902,13 @@
     "username": "ticklishduck887",
     "password": "hithere",
     "invokedAt": "2022-03-24T22:56:48.103Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Kowalski",
+    "email": "noah.kowalski@example.com",
+    "username": "lazyfrog230",
+    "password": "rainbow1",
+    "invokedAt": "2022-03-24T23:09:23.057Z"
   }
 ]
