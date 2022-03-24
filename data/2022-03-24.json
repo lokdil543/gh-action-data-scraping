@@ -702,5 +702,13 @@
     "username": "bigbear668",
     "password": "trial",
     "invokedAt": "2022-03-24T19:21:56.134Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Moore",
+    "email": "nathan.moore@example.com",
+    "username": "blackleopard701",
+    "password": "sixty9",
+    "invokedAt": "2022-03-24T19:27:46.011Z"
   }
 ]
