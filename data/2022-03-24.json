@@ -494,5 +494,13 @@
     "username": "smallbutterfly475",
     "password": "birdie",
     "invokedAt": "2022-03-24T13:54:43.140Z"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Hawkins",
+    "email": "russell.hawkins@example.com",
+    "username": "whitebutterfly172",
+    "password": "wildcard",
+    "invokedAt": "2022-03-24T14:00:56.128Z"
   }
 ]
