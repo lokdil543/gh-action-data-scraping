@@ -78,5 +78,13 @@
     "username": "orangeduck489",
     "password": "action",
     "invokedAt": "2022-03-25T04:21:30.704Z"
+  },
+  {
+    "firstName": "Wencke",
+    "lastName": "Kessler",
+    "email": "wencke.kessler@example.com",
+    "username": "bigkoala304",
+    "password": "shuttle",
+    "invokedAt": "2022-03-25T04:43:28.565Z"
   }
 ]
