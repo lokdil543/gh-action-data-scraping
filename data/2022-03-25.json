@@ -342,5 +342,13 @@
     "username": "redduck106",
     "password": "wrench",
     "invokedAt": "2022-03-25T10:40:54.575Z"
+  },
+  {
+    "firstName": "Cory",
+    "lastName": "Olson",
+    "email": "cory.olson@example.com",
+    "username": "silvermeercat851",
+    "password": "omega",
+    "invokedAt": "2022-03-25T10:47:35.857Z"
   }
 ]
