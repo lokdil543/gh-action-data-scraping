@@ -334,5 +334,13 @@
     "username": "redmouse967",
     "password": "faster",
     "invokedAt": "2022-03-25T10:06:29.156Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Denis",
+    "email": "clement.denis@example.com",
+    "username": "redduck106",
+    "password": "wrench",
+    "invokedAt": "2022-03-25T10:40:54.575Z"
   }
 ]
