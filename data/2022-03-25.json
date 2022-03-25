@@ -366,5 +366,13 @@
     "username": "browndog509",
     "password": "sluggo",
     "invokedAt": "2022-03-25T11:25:53.282Z"
+  },
+  {
+    "firstName": "Endre",
+    "lastName": "Haraldsen",
+    "email": "endre.haraldsen@example.com",
+    "username": "bluedog311",
+    "password": "modem",
+    "invokedAt": "2022-03-25T11:31:56.511Z"
   }
 ]
