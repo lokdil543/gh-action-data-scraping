@@ -662,5 +662,13 @@
     "username": "crazyostrich338",
     "password": "quasar",
     "invokedAt": "2022-03-25T19:44:58.361Z"
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Ferguson",
+    "email": "jared.ferguson@example.com",
+    "username": "crazycat193",
+    "password": "123987",
+    "invokedAt": "2022-03-25T19:50:55.167Z"
   }
 ]
