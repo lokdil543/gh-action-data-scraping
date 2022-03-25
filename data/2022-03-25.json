@@ -878,5 +878,13 @@
     "username": "redmeercat241",
     "password": "verizon",
     "invokedAt": "2022-03-25T23:51:54.193Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Böck",
+    "email": "oliver.bock@example.com",
+    "username": "reddog546",
+    "password": "fishfish",
+    "invokedAt": "2022-03-25T23:57:46.278Z"
   }
 ]
