@@ -318,5 +318,13 @@
     "username": "blacklion443",
     "password": "basket",
     "invokedAt": "2022-03-26T09:36:12.356Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Pedersen",
+    "email": "emma.pedersen@example.com",
+    "username": "yellowkoala305",
+    "password": "carson",
+    "invokedAt": "2022-03-26T09:42:23.169Z"
   }
 ]
