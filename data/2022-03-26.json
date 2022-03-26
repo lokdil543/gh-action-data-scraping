@@ -686,5 +686,13 @@
     "username": "lazytiger784",
     "password": "hose",
     "invokedAt": "2022-03-26T17:41:39.917Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Murto",
+    "email": "joona.murto@example.com",
+    "username": "crazyfish526",
+    "password": "venus",
+    "invokedAt": "2022-03-26T17:47:32.308Z"
   }
 ]
