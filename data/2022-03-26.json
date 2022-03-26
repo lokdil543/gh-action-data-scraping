@@ -262,5 +262,13 @@
     "username": "organictiger412",
     "password": "alive",
     "invokedAt": "2022-03-26T08:30:15.260Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Haataja",
+    "email": "vilho.haataja@example.com",
+    "username": "sadbird153",
+    "password": "ffffffff",
+    "invokedAt": "2022-03-26T08:41:32.345Z"
   }
 ]
