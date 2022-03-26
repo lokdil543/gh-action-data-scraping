@@ -486,5 +486,13 @@
     "username": "blackdog339",
     "password": "poker",
     "invokedAt": "2022-03-26T13:26:47.854Z"
+  },
+  {
+    "firstName": "Aldo",
+    "lastName": "Francois",
+    "email": "aldo.francois@example.com",
+    "username": "heavyfish405",
+    "password": "buttman",
+    "invokedAt": "2022-03-26T13:35:48.756Z"
   }
 ]
