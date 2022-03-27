@@ -478,5 +478,13 @@
     "username": "happyelephant121",
     "password": "freeze",
     "invokedAt": "2022-03-27T13:01:36.936Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Ferrer",
+    "email": "jose.ferrer@example.com",
+    "username": "crazytiger955",
+    "password": "house",
+    "invokedAt": "2022-03-27T13:23:02.924Z"
   }
 ]
