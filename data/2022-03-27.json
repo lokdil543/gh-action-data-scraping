@@ -638,5 +638,13 @@
     "username": "orangesnake966",
     "password": "japan",
     "invokedAt": "2022-03-27T16:12:03.974Z"
+  },
+  {
+    "firstName": "Hanne-Lore",
+    "lastName": "Wichert",
+    "email": "hanne-lore.wichert@example.com",
+    "username": "bigduck940",
+    "password": "wolfgang",
+    "invokedAt": "2022-03-27T16:41:58.620Z"
   }
 ]
