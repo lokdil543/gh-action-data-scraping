@@ -606,5 +606,13 @@
     "username": "happyzebra332",
     "password": "unbelievable",
     "invokedAt": "2022-03-27T15:36:05.091Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Rojas",
+    "email": "sebastian.rojas@example.com",
+    "username": "bigfrog428",
+    "password": "freckles",
+    "invokedAt": "2022-03-27T15:45:14.009Z"
   }
 ]
