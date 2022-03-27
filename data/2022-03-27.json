@@ -206,5 +206,13 @@
     "username": "happycat518",
     "password": "gotribe",
     "invokedAt": "2022-03-27T07:22:41.028Z"
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "Fletcher",
+    "email": "frederick.fletcher@example.com",
+    "username": "happyfish138",
+    "password": "coolio",
+    "invokedAt": "2022-03-27T07:30:20.123Z"
   }
 ]
