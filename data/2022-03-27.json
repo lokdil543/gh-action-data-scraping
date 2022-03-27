@@ -1006,5 +1006,13 @@
     "username": "blackleopard830",
     "password": "banker",
     "invokedAt": "2022-03-27T23:43:07.104Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Korpi",
+    "email": "matias.korpi@example.com",
+    "username": "angrygorilla524",
+    "password": "dupont",
+    "invokedAt": "2022-03-27T23:48:54.941Z"
   }
 ]
