@@ -486,5 +486,13 @@
     "username": "crazytiger955",
     "password": "house",
     "invokedAt": "2022-03-27T13:23:02.924Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Olsen",
+    "email": "mathias.olsen@example.com",
+    "username": "orangegorilla519",
+    "password": "thor",
+    "invokedAt": "2022-03-27T13:34:15.079Z"
   }
 ]
