@@ -374,5 +374,13 @@
     "username": "orangetiger634",
     "password": "iiii",
     "invokedAt": "2022-03-27T10:40:10.384Z"
+  },
+  {
+    "firstName": "Louelle",
+    "lastName": "Lemstra",
+    "email": "louelle.lemstra@example.com",
+    "username": "yellowlion684",
+    "password": "wildcard",
+    "invokedAt": "2022-03-27T10:46:08.401Z"
   }
 ]
