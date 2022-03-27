@@ -718,5 +718,13 @@
     "username": "tinybutterfly659",
     "password": "dexter",
     "invokedAt": "2022-03-27T18:20:21.595Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Johansen",
+    "email": "simon.johansen@example.com",
+    "username": "blackgoose511",
+    "password": "shark",
+    "invokedAt": "2022-03-27T18:36:45.554Z"
   }
 ]
