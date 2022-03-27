@@ -838,5 +838,13 @@
     "username": "happyfish146",
     "password": "cigar",
     "invokedAt": "2022-03-27T20:37:01.425Z"
+  },
+  {
+    "firstName": "Áquila",
+    "lastName": "Novaes",
+    "email": "aquila.novaes@example.com",
+    "username": "crazysnake974",
+    "password": "syzygy",
+    "invokedAt": "2022-03-27T20:43:12.189Z"
   }
 ]
