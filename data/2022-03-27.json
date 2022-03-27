@@ -542,5 +542,13 @@
     "username": "orangeswan704",
     "password": "jump",
     "invokedAt": "2022-03-27T14:24:55.078Z"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Mathieu",
+    "email": "luna.mathieu@example.com",
+    "username": "bluesnake433",
+    "password": "scooby",
+    "invokedAt": "2022-03-27T14:30:58.065Z"
   }
 ]
