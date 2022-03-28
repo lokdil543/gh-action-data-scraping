@@ -686,5 +686,13 @@
     "username": "blackgoose244",
     "password": "boomer",
     "invokedAt": "2022-03-28T20:29:15.574Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Schmitt",
+    "email": "jose.schmitt@example.com",
+    "username": "silverbear131",
+    "password": "pluto",
+    "invokedAt": "2022-03-28T20:37:54.756Z"
   }
 ]
