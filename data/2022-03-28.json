@@ -566,5 +566,13 @@
     "username": "whitefrog555",
     "password": "promise",
     "invokedAt": "2022-03-28T17:43:52.656Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Fox",
+    "email": "ava.fox@example.com",
+    "username": "blackswan128",
+    "password": "hunting",
+    "invokedAt": "2022-03-28T17:49:44.544Z"
   }
 ]
