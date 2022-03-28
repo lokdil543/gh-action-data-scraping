@@ -782,5 +782,13 @@
     "username": "heavypanda759",
     "password": "asdfasdf",
     "invokedAt": "2022-03-28T22:12:20.134Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Karjala",
+    "email": "kerttu.karjala@example.com",
+    "username": "heavybear717",
+    "password": "holidays",
+    "invokedAt": "2022-03-28T22:29:11.396Z"
   }
 ]
