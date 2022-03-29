@@ -782,5 +782,13 @@
     "username": "bluecat385",
     "password": "doughboy",
     "invokedAt": "2022-03-29T22:27:23.225Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Anderson",
+    "email": "tristan.anderson@example.com",
+    "username": "goldenzebra103",
+    "password": "sunlight",
+    "invokedAt": "2022-03-29T22:37:30.022Z"
   }
 ]
