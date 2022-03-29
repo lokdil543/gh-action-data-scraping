@@ -294,5 +294,13 @@
     "username": "lazybird461",
     "password": "reason",
     "invokedAt": "2022-03-29T09:50:08.151Z"
+  },
+  {
+    "firstName": "Gilbert",
+    "lastName": "Jensen",
+    "email": "gilbert.jensen@example.com",
+    "username": "goldenduck459",
+    "password": "boulder",
+    "invokedAt": "2022-03-29T09:55:58.071Z"
   }
 ]
