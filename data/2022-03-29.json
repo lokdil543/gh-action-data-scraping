@@ -406,5 +406,13 @@
     "username": "brownkoala333",
     "password": "twist",
     "invokedAt": "2022-03-29T13:56:32.843Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Alexander",
+    "email": "amanda.alexander@example.com",
+    "username": "crazyfish668",
+    "password": "evan",
+    "invokedAt": "2022-03-29T14:11:20.360Z"
   }
 ]
