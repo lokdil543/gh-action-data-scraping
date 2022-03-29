@@ -718,5 +718,13 @@
     "username": "purplebird178",
     "password": "quebec",
     "invokedAt": "2022-03-29T21:05:42.472Z"
+  },
+  {
+    "firstName": "Barbiere",
+    "lastName": "Gomes",
+    "email": "barbiere.gomes@example.com",
+    "username": "crazygorilla669",
+    "password": "holmes",
+    "invokedAt": "2022-03-29T21:22:16.985Z"
   }
 ]
