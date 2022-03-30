@@ -630,5 +630,13 @@
     "username": "blackdog986",
     "password": "5000",
     "invokedAt": "2022-03-30T17:44:44.248Z"
+  },
+  {
+    "firstName": "Flurin",
+    "lastName": "Durand",
+    "email": "flurin.durand@example.com",
+    "username": "redpeacock370",
+    "password": "dogpound",
+    "invokedAt": "2022-03-30T17:50:34.395Z"
   }
 ]
