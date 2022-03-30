@@ -750,5 +750,13 @@
     "username": "whiterabbit198",
     "password": "slippery",
     "invokedAt": "2022-03-30T20:00:52.778Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Roger",
+    "email": "stella.roger@example.com",
+    "username": "lazyfrog500",
+    "password": "jesus1",
+    "invokedAt": "2022-03-30T20:19:25.984Z"
   }
 ]
