@@ -318,5 +318,13 @@
     "username": "heavygorilla592",
     "password": "stumpy",
     "invokedAt": "2022-03-30T10:10:09.120Z"
+  },
+  {
+    "firstName": "Maya",
+    "lastName": "Großmann",
+    "email": "maya.grossmann@example.com",
+    "username": "lazykoala713",
+    "password": "hardrock",
+    "invokedAt": "2022-03-30T10:30:01.122Z"
   }
 ]
