@@ -478,5 +478,13 @@
     "username": "heavydog298",
     "password": "sporting",
     "invokedAt": "2022-03-30T14:11:06.377Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Miller",
+    "email": "jack.miller@example.com",
+    "username": "sadtiger611",
+    "password": "sage",
+    "invokedAt": "2022-03-30T14:24:22.140Z"
   }
 ]
