@@ -598,5 +598,13 @@
     "username": "bluebear787",
     "password": "city",
     "invokedAt": "2022-03-30T16:58:46.621Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Vargas",
+    "email": "felipe.vargas@example.com",
+    "username": "orangedog519",
+    "password": "volcom",
+    "invokedAt": "2022-03-30T17:13:43.835Z"
   }
 ]
