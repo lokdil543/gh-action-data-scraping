@@ -662,5 +662,13 @@
     "username": "smallpeacock428",
     "password": "raptor",
     "invokedAt": "2022-03-30T18:33:23.055Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Lavigne",
+    "email": "charlie.lavigne@example.com",
+    "username": "happytiger811",
+    "password": "return",
+    "invokedAt": "2022-03-30T18:47:53.911Z"
   }
 ]
