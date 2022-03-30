@@ -326,5 +326,13 @@
     "username": "lazykoala713",
     "password": "hardrock",
     "invokedAt": "2022-03-30T10:30:01.122Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Jackson",
+    "email": "carol.jackson@example.com",
+    "username": "yellowmeercat558",
+    "password": "buffa",
+    "invokedAt": "2022-03-30T10:41:04.503Z"
   }
 ]
