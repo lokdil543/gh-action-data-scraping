@@ -478,5 +478,13 @@
     "username": "tinyladybug450",
     "password": "speedway",
     "invokedAt": "2022-03-31T14:12:08.062Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Lynch",
+    "email": "ethan.lynch@example.com",
+    "username": "bluedog562",
+    "password": "burn",
+    "invokedAt": "2022-03-31T14:27:14.571Z"
   }
 ]
