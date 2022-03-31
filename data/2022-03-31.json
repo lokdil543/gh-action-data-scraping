@@ -422,5 +422,13 @@
     "username": "whitetiger452",
     "password": "positive",
     "invokedAt": "2022-03-31T12:00:14.318Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Ertürk",
+    "email": "mehmet.erturk@example.com",
+    "username": "whitepanda509",
+    "password": "shot",
+    "invokedAt": "2022-03-31T12:31:34.418Z"
   }
 ]
