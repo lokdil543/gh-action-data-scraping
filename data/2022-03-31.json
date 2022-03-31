@@ -806,5 +806,13 @@
     "username": "whitefrog335",
     "password": "reddog",
     "invokedAt": "2022-03-31T21:37:34.454Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Wells",
+    "email": "jessica.wells@example.com",
+    "username": "beautifulfrog206",
+    "password": "hopper",
+    "invokedAt": "2022-03-31T21:44:29.956Z"
   }
 ]
