@@ -742,5 +742,13 @@
     "username": "blackswan231",
     "password": "water",
     "invokedAt": "2022-03-31T20:17:55.491Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Porto",
+    "email": "marcos.porto@example.com",
+    "username": "whitetiger660",
+    "password": "online",
+    "invokedAt": "2022-03-31T20:32:15.209Z"
   }
 ]
