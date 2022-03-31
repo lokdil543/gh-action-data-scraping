@@ -750,5 +750,13 @@
     "username": "whitetiger660",
     "password": "online",
     "invokedAt": "2022-03-31T20:32:15.209Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Ojala",
+    "email": "onni.ojala@example.com",
+    "username": "brownfish491",
+    "password": "jimbo",
+    "invokedAt": "2022-03-31T20:41:55.028Z"
   }
 ]
