@@ -726,5 +726,13 @@
     "username": "purplebear275",
     "password": "seeker",
     "invokedAt": "2022-03-31T19:54:23.857Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Knight",
+    "email": "charlie.knight@example.com",
+    "username": "whitekoala184",
+    "password": "dundee",
+    "invokedAt": "2022-03-31T20:00:07.452Z"
   }
 ]
