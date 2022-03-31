@@ -902,5 +902,13 @@
     "username": "yellowpeacock769",
     "password": "catfish",
     "invokedAt": "2022-03-31T23:36:56.244Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Black",
+    "email": "shawn.black@example.com",
+    "username": "redfish112",
+    "password": "wrangler",
+    "invokedAt": "2022-03-31T23:44:12.788Z"
   }
 ]
