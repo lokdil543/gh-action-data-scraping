@@ -390,5 +390,13 @@
     "username": "silverlion580",
     "password": "luke",
     "invokedAt": "2022-03-31T11:36:21.989Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Jones",
+    "email": "caitlin.jones@example.com",
+    "username": "crazyduck364",
+    "password": "gateway",
+    "invokedAt": "2022-03-31T11:42:22.721Z"
   }
 ]
