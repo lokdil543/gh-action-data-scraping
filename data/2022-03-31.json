@@ -526,5 +526,13 @@
     "username": "browngorilla499",
     "password": "oregon",
     "invokedAt": "2022-03-31T15:00:06.933Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Martinez",
+    "email": "esteban.martinez@example.com",
+    "username": "silverbird680",
+    "password": "484848",
+    "invokedAt": "2022-03-31T15:18:17.521Z"
   }
 ]
