@@ -710,5 +710,13 @@
     "username": "organicbear866",
     "password": "spoon",
     "invokedAt": "2022-04-01T20:38:28.348Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Gjengedal",
+    "email": "kent.gjengedal@example.com",
+    "username": "ticklishgoose123",
+    "password": "gumby",
+    "invokedAt": "2022-04-01T20:44:38.277Z"
   }
 ]
