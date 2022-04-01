@@ -518,5 +518,13 @@
     "username": "heavydog882",
     "password": "bounce",
     "invokedAt": "2022-04-01T15:53:33.987Z"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Knight",
+    "email": "logan.knight@example.com",
+    "username": "whitewolf250",
+    "password": "iguana",
+    "invokedAt": "2022-04-01T15:59:23.358Z"
   }
 ]
