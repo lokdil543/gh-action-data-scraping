@@ -550,5 +550,13 @@
     "username": "angryelephant660",
     "password": "volume",
     "invokedAt": "2022-04-01T17:09:51.942Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Thomsen",
+    "email": "jacob.thomsen@example.com",
+    "username": "heavyelephant834",
+    "password": "4321",
+    "invokedAt": "2022-04-01T17:30:22.508Z"
   }
 ]
