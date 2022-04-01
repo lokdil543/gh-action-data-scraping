@@ -766,5 +766,13 @@
     "username": "whitefrog261",
     "password": "pizza1",
     "invokedAt": "2022-04-01T21:40:04.401Z"
+  },
+  {
+    "firstName": "Denny",
+    "lastName": "Göring",
+    "email": "denny.goring@example.com",
+    "username": "yellowfish683",
+    "password": "glotest",
+    "invokedAt": "2022-04-01T21:45:55.270Z"
   }
 ]
