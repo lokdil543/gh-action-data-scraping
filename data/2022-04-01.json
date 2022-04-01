@@ -334,5 +334,13 @@
     "username": "lazypanda399",
     "password": "curious",
     "invokedAt": "2022-04-01T11:00:33.850Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Perala",
+    "email": "oskari.perala@example.com",
+    "username": "lazydog881",
+    "password": "olympia",
+    "invokedAt": "2022-04-01T11:16:20.524Z"
   }
 ]
