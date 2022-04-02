@@ -126,5 +126,13 @@
     "username": "happytiger377",
     "password": "excite",
     "invokedAt": "2022-04-02T05:48:52.822Z"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "De Boer",
+    "email": "ramon.deboer@example.com",
+    "username": "orangeelephant941",
+    "password": "iceberg",
+    "invokedAt": "2022-04-02T05:55:01.820Z"
   }
 ]
