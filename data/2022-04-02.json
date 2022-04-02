@@ -806,5 +806,13 @@
     "username": "happyduck786",
     "password": "linkin",
     "invokedAt": "2022-04-02T20:36:47.493Z"
+  },
+  {
+    "firstName": "Iida",
+    "lastName": "Seppanen",
+    "email": "iida.seppanen@example.com",
+    "username": "angrygoose634",
+    "password": "ready",
+    "invokedAt": "2022-04-02T20:42:59.271Z"
   }
 ]
