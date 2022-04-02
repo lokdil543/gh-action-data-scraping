@@ -646,5 +646,13 @@
     "username": "smallwolf643",
     "password": "boxcar",
     "invokedAt": "2022-04-02T17:31:39.351Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Clark",
+    "email": "felix.clark@example.com",
+    "username": "goldenduck788",
+    "password": "ballin",
+    "invokedAt": "2022-04-02T17:40:03.391Z"
   }
 ]
