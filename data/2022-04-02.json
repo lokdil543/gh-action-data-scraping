@@ -782,5 +782,13 @@
     "username": "happycat526",
     "password": "mitch",
     "invokedAt": "2022-04-02T19:57:47.285Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Jensen",
+    "email": "nicklas.jensen@example.com",
+    "username": "redladybug534",
+    "password": "hedgehog",
+    "invokedAt": "2022-04-02T20:11:40.737Z"
   }
 ]
