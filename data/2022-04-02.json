@@ -350,5 +350,13 @@
     "username": "yellowzebra877",
     "password": "nuggets",
     "invokedAt": "2022-04-02T10:42:46.214Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Steward",
+    "email": "jack.steward@example.com",
+    "username": "orangefrog314",
+    "password": "enrico",
+    "invokedAt": "2022-04-02T10:48:41.993Z"
   }
 ]
