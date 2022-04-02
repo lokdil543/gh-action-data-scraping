@@ -166,5 +166,13 @@
     "username": "brownfrog503",
     "password": "james",
     "invokedAt": "2022-04-02T06:53:31.478Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Smith",
+    "email": "george.smith@example.com",
+    "username": "ticklishleopard721",
+    "password": "foxtrot",
+    "invokedAt": "2022-04-02T06:59:15.012Z"
   }
 ]
