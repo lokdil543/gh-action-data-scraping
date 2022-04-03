@@ -222,5 +222,13 @@
     "username": "bluefish810",
     "password": "playball",
     "invokedAt": "2022-04-03T07:46:38.989Z"
+  },
+  {
+    "firstName": "Noemi",
+    "lastName": "Fabre",
+    "email": "noemi.fabre@example.com",
+    "username": "brownfish201",
+    "password": "orion",
+    "invokedAt": "2022-04-03T07:52:34.768Z"
   }
 ]
