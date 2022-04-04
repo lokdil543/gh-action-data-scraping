@@ -838,5 +838,13 @@
     "username": "greenpeacock828",
     "password": "trustme",
     "invokedAt": "2022-04-04T22:40:01.247Z"
+  },
+  {
+    "firstName": "Angela",
+    "lastName": "Stewart",
+    "email": "angela.stewart@example.com",
+    "username": "yellowpeacock104",
+    "password": "knicks",
+    "invokedAt": "2022-04-04T22:46:03.017Z"
   }
 ]
