@@ -686,5 +686,13 @@
     "username": "bluepeacock452",
     "password": "4711",
     "invokedAt": "2022-04-04T19:40:45.645Z"
+  },
+  {
+    "firstName": "Arron",
+    "lastName": "Carr",
+    "email": "arron.carr@example.com",
+    "username": "blackrabbit777",
+    "password": "7grout",
+    "invokedAt": "2022-04-04T19:46:44.327Z"
   }
 ]
