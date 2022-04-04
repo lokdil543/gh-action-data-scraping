@@ -254,5 +254,13 @@
     "username": "yellowrabbit173",
     "password": "anaconda",
     "invokedAt": "2022-04-04T09:00:27.991Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "James",
+    "email": "mario.james@example.com",
+    "username": "heavygoose329",
+    "password": "eeeee",
+    "invokedAt": "2022-04-04T09:16:49.789Z"
   }
 ]
