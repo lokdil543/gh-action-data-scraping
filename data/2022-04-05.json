@@ -254,5 +254,13 @@
     "username": "bigfish698",
     "password": "fishing",
     "invokedAt": "2022-04-05T08:51:56.957Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Morel",
+    "email": "roger.morel@example.com",
+    "username": "whiteladybug203",
+    "password": "cessna",
+    "invokedAt": "2022-04-05T08:57:49.123Z"
   }
 ]
