@@ -342,5 +342,13 @@
     "username": "tinyduck754",
     "password": "enforcer",
     "invokedAt": "2022-04-05T10:44:04.206Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Blanchard",
+    "email": "evan.blanchard@example.com",
+    "username": "browndog196",
+    "password": "marlene",
+    "invokedAt": "2022-04-05T10:50:00.230Z"
   }
 ]
