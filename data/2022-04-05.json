@@ -542,5 +542,13 @@
     "username": "bluekoala930",
     "password": "telefon",
     "invokedAt": "2022-04-05T15:52:48.199Z"
+  },
+  {
+    "firstName": "Céline",
+    "lastName": "Moreau",
+    "email": "celine.moreau@example.com",
+    "username": "yellowdog177",
+    "password": "dolphins",
+    "invokedAt": "2022-04-05T15:58:38.187Z"
   }
 ]
