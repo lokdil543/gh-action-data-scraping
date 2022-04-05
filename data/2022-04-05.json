@@ -582,5 +582,13 @@
     "username": "redcat602",
     "password": "mini",
     "invokedAt": "2022-04-05T17:39:34.110Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Margaret",
+    "email": "maxime.margaret@example.com",
+    "username": "purplebear191",
+    "password": "yahoo",
+    "invokedAt": "2022-04-05T17:45:42.661Z"
   }
 ]
