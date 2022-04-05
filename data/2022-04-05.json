@@ -574,5 +574,13 @@
     "username": "blackzebra566",
     "password": "kings",
     "invokedAt": "2022-04-05T17:28:11.574Z"
+  },
+  {
+    "firstName": "Snorre",
+    "lastName": "Kopperud",
+    "email": "snorre.kopperud@example.com",
+    "username": "redcat602",
+    "password": "mini",
+    "invokedAt": "2022-04-05T17:39:34.110Z"
   }
 ]
