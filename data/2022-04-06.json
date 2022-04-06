@@ -662,5 +662,13 @@
     "username": "happybear651",
     "password": "greg",
     "invokedAt": "2022-04-06T19:21:00.125Z"
+  },
+  {
+    "firstName": "Santina",
+    "lastName": "de Souza",
+    "email": "santina.desouza@example.com",
+    "username": "crazydog823",
+    "password": "jose",
+    "invokedAt": "2022-04-06T19:26:54.423Z"
   }
 ]
