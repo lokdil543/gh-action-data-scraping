@@ -182,5 +182,13 @@
     "username": "greenfrog979",
     "password": "detroit",
     "invokedAt": "2022-04-06T07:40:26.702Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Matthews",
+    "email": "raymond.matthews@example.com",
+    "username": "bigrabbit552",
+    "password": "experience",
+    "invokedAt": "2022-04-06T07:46:20.123Z"
   }
 ]
