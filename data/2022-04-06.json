@@ -718,5 +718,13 @@
     "username": "whitebear689",
     "password": "exchange",
     "invokedAt": "2022-04-06T20:09:50.081Z"
+  },
+  {
+    "firstName": "Alvaro",
+    "lastName": "Calvo",
+    "email": "alvaro.calvo@example.com",
+    "username": "angrydog235",
+    "password": "christmas",
+    "invokedAt": "2022-04-06T20:27:35.248Z"
   }
 ]
