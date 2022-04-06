@@ -694,5 +694,13 @@
     "username": "crazywolf991",
     "password": "vector",
     "invokedAt": "2022-04-06T19:44:49.284Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Watson",
+    "email": "martha.watson@example.com",
+    "username": "smallsnake219",
+    "password": "hotdog",
+    "invokedAt": "2022-04-06T19:50:48.069Z"
   }
 ]
