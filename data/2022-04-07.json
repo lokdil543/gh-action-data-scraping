@@ -406,5 +406,13 @@
     "username": "lazyelephant297",
     "password": "metoo",
     "invokedAt": "2022-04-07T11:55:20.131Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Moreau",
+    "email": "thomas.moreau@example.com",
+    "username": "lazytiger805",
+    "password": "turner",
+    "invokedAt": "2022-04-07T12:11:04.462Z"
   }
 ]
