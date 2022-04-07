@@ -318,5 +318,13 @@
     "username": "brownduck398",
     "password": "budapest",
     "invokedAt": "2022-04-07T10:13:30.140Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Manni",
+    "email": "jimi.manni@example.com",
+    "username": "crazyduck427",
+    "password": "suckme",
+    "invokedAt": "2022-04-07T10:31:51.013Z"
   }
 ]
