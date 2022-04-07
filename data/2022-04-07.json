@@ -630,5 +630,13 @@
     "username": "angryfish368",
     "password": "stayout",
     "invokedAt": "2022-04-07T18:33:19.201Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Smythe",
+    "email": "zoe.smythe@example.com",
+    "username": "browndog268",
+    "password": "cook",
+    "invokedAt": "2022-04-07T18:48:00.722Z"
   }
 ]
