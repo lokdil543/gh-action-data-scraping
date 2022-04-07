@@ -526,5 +526,13 @@
     "username": "yellowdog753",
     "password": "apache",
     "invokedAt": "2022-04-07T15:27:02.113Z"
+  },
+  {
+    "firstName": "Enni",
+    "lastName": "Wainio",
+    "email": "enni.wainio@example.com",
+    "username": "greenbear718",
+    "password": "heritage",
+    "invokedAt": "2022-04-07T15:48:53.606Z"
   }
 ]
