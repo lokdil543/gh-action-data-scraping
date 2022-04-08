@@ -862,5 +862,13 @@
     "username": "reddog261",
     "password": "dotcom",
     "invokedAt": "2022-04-08T23:12:13.048Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Vazquez",
+    "email": "esteban.vazquez@example.com",
+    "username": "bigfish518",
+    "password": "twinkle",
+    "invokedAt": "2022-04-08T23:29:38.714Z"
   }
 ]
