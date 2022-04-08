@@ -686,5 +686,13 @@
     "username": "lazybird103",
     "password": "house1",
     "invokedAt": "2022-04-08T19:46:11.340Z"
+  },
+  {
+    "firstName": "Sergen",
+    "lastName": "Van Meeuwen",
+    "email": "sergen.vanmeeuwen@example.com",
+    "username": "beautifulbear202",
+    "password": "peekaboo",
+    "invokedAt": "2022-04-08T19:51:59.976Z"
   }
 ]
