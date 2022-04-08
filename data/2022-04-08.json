@@ -718,5 +718,13 @@
     "username": "silverkoala253",
     "password": "fugazi",
     "invokedAt": "2022-04-08T20:30:07.160Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Prescott",
+    "email": "johnny.prescott@example.com",
+    "username": "silverduck629",
+    "password": "1234567890",
+    "invokedAt": "2022-04-08T20:39:39.368Z"
   }
 ]
