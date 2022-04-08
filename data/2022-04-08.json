@@ -126,5 +126,13 @@
     "username": "saddog115",
     "password": "door",
     "invokedAt": "2022-04-08T05:53:15.734Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Soto",
+    "email": "jane.soto@example.com",
+    "username": "lazydog153",
+    "password": "republic",
+    "invokedAt": "2022-04-08T05:59:06.522Z"
   }
 ]
