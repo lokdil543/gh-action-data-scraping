@@ -854,5 +854,13 @@
     "username": "bigbird123",
     "password": "miami",
     "invokedAt": "2022-04-08T22:57:58.184Z"
+  },
+  {
+    "firstName": "Thaïs",
+    "lastName": "Carpentier",
+    "email": "thais.carpentier@example.com",
+    "username": "reddog261",
+    "password": "dotcom",
+    "invokedAt": "2022-04-08T23:12:13.048Z"
   }
 ]
