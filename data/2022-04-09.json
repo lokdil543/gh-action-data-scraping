@@ -478,5 +478,13 @@
     "username": "blackbird967",
     "password": "figaro",
     "invokedAt": "2022-04-09T13:45:59.095Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Edwards",
+    "email": "marcus.edwards@example.com",
+    "username": "crazypanda460",
+    "password": "reptile",
+    "invokedAt": "2022-04-09T13:51:51.932Z"
   }
 ]
