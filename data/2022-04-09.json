@@ -166,5 +166,13 @@
     "username": "crazytiger312",
     "password": "hiking",
     "invokedAt": "2022-04-09T06:51:33.022Z"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Williams",
+    "email": "hannah.williams@example.com",
+    "username": "sadgorilla610",
+    "password": "f00tball",
+    "invokedAt": "2022-04-09T06:57:18.967Z"
   }
 ]
