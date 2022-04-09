@@ -222,5 +222,13 @@
     "username": "redelephant575",
     "password": "radio",
     "invokedAt": "2022-04-09T07:50:48.421Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Suomi",
+    "email": "oskari.suomi@example.com",
+    "username": "brownelephant588",
+    "password": "super1",
+    "invokedAt": "2022-04-09T07:56:35.449Z"
   }
 ]
