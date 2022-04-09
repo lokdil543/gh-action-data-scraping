@@ -382,5 +382,13 @@
     "username": "crazydog442",
     "password": "total",
     "invokedAt": "2022-04-09T11:19:10.163Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Myers",
+    "email": "julia.myers@example.com",
+    "username": "crazyduck715",
+    "password": "unreal",
+    "invokedAt": "2022-04-09T11:28:18.193Z"
   }
 ]
