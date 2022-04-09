@@ -470,5 +470,13 @@
     "username": "brownfrog640",
     "password": "there",
     "invokedAt": "2022-04-09T13:40:16.282Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Mitchell",
+    "email": "benjamin.mitchell@example.com",
+    "username": "blackbird967",
+    "password": "figaro",
+    "invokedAt": "2022-04-09T13:45:59.095Z"
   }
 ]
