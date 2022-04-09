@@ -790,5 +790,13 @@
     "username": "purpledog598",
     "password": "preston",
     "invokedAt": "2022-04-09T20:30:28.433Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Nielsen",
+    "email": "tobias.nielsen@example.com",
+    "username": "organicbird543",
+    "password": "hotrats",
+    "invokedAt": "2022-04-09T20:39:44.076Z"
   }
 ]
