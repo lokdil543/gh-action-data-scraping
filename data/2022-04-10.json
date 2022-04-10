@@ -822,5 +822,13 @@
     "username": "lazypanda278",
     "password": "123456a",
     "invokedAt": "2022-04-10T21:22:35.068Z"
+  },
+  {
+    "firstName": "Séléna",
+    "lastName": "Gonzalez",
+    "email": "selena.gonzalez@example.com",
+    "username": "organiclion133",
+    "password": "starter",
+    "invokedAt": "2022-04-10T21:31:16.867Z"
   }
 ]
