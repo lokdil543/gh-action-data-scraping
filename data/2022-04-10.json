@@ -558,5 +558,13 @@
     "username": "bluecat782",
     "password": "bicycle",
     "invokedAt": "2022-04-10T15:31:38.259Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Çankaya",
+    "email": "kenan.cankaya@example.com",
+    "username": "goldencat957",
+    "password": "speedo",
+    "invokedAt": "2022-04-10T15:43:31.171Z"
   }
 ]
