@@ -662,5 +662,13 @@
     "username": "greenlion637",
     "password": "willow",
     "invokedAt": "2022-04-10T18:11:33.087Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Leinonen",
+    "email": "niklas.leinonen@example.com",
+    "username": "greenbird310",
+    "password": "1975",
+    "invokedAt": "2022-04-10T18:33:23.220Z"
   }
 ]
