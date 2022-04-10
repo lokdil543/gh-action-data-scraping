@@ -894,5 +894,13 @@
     "username": "goldenduck409",
     "password": "static",
     "invokedAt": "2022-04-10T22:43:50.924Z"
+  },
+  {
+    "firstName": "Leonardo",
+    "lastName": "Bjerkli",
+    "email": "leonardo.bjerkli@example.com",
+    "username": "saddog117",
+    "password": "aside",
+    "invokedAt": "2022-04-10T22:49:50.318Z"
   }
 ]
