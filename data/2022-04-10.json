@@ -870,5 +870,13 @@
     "username": "smallmouse877",
     "password": "keystone",
     "invokedAt": "2022-04-10T22:09:10.002Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Moreau",
+    "email": "david.moreau@example.com",
+    "username": "whitekoala718",
+    "password": "thegame",
+    "invokedAt": "2022-04-10T22:26:45.176Z"
   }
 ]
