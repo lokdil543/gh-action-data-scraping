@@ -862,5 +862,13 @@
     "username": "smalldog721",
     "password": "rrpass1",
     "invokedAt": "2022-04-10T21:56:41.068Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Ruona",
+    "email": "aleksi.ruona@example.com",
+    "username": "smallmouse877",
+    "password": "keystone",
+    "invokedAt": "2022-04-10T22:09:10.002Z"
   }
 ]
