@@ -422,5 +422,13 @@
     "username": "sadelephant949",
     "password": "pingpong",
     "invokedAt": "2022-04-10T11:59:40.247Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Jørgensen",
+    "email": "nicklas.jorgensen@example.com",
+    "username": "orangegoose719",
+    "password": "access1",
+    "invokedAt": "2022-04-10T12:25:55.282Z"
   }
 ]
