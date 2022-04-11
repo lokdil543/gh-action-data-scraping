@@ -678,5 +678,13 @@
     "username": "blackmouse878",
     "password": "dynamo",
     "invokedAt": "2022-04-11T19:55:20.300Z"
+  },
+  {
+    "firstName": "Same",
+    "lastName": "Jensen",
+    "email": "same.jensen@example.com",
+    "username": "angrypanda591",
+    "password": "whiteout",
+    "invokedAt": "2022-04-11T20:07:03.361Z"
   }
 ]
