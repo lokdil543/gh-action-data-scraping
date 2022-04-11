@@ -582,5 +582,13 @@
     "username": "bigostrich323",
     "password": "snakes",
     "invokedAt": "2022-04-11T17:54:27.207Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Macdonald",
+    "email": "thomas.macdonald@example.com",
+    "username": "bluewolf505",
+    "password": "whisper",
+    "invokedAt": "2022-04-11T18:00:16.373Z"
   }
 ]
