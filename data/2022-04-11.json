@@ -302,5 +302,13 @@
     "username": "greentiger247",
     "password": "bizkit",
     "invokedAt": "2022-04-11T10:36:06.796Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Burton",
+    "email": "roy.burton@example.com",
+    "username": "blueswan401",
+    "password": "phpbb",
+    "invokedAt": "2022-04-11T10:46:50.281Z"
   }
 ]
