@@ -302,5 +302,13 @@
     "username": "whiteleopard879",
     "password": "doudou",
     "invokedAt": "2022-04-12T10:08:54.355Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Adıvar",
+    "email": "davut.adivar@example.com",
+    "username": "redpanda870",
+    "password": "wally",
+    "invokedAt": "2022-04-12T10:31:06.067Z"
   }
 ]
