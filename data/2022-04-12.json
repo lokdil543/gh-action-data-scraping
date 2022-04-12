@@ -414,5 +414,13 @@
     "username": "lazywolf581",
     "password": "paranoid",
     "invokedAt": "2022-04-12T13:53:05.053Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Liu",
+    "email": "leo.liu@example.com",
+    "username": "beautifuldog241",
+    "password": "intruder",
+    "invokedAt": "2022-04-12T13:59:08.810Z"
   }
 ]
