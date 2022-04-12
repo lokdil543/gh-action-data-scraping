@@ -678,5 +678,13 @@
     "username": "greenswan562",
     "password": "alan",
     "invokedAt": "2022-04-12T20:13:08.502Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Vega",
+    "email": "luis.vega@example.com",
+    "username": "redgorilla566",
+    "password": "sigma",
+    "invokedAt": "2022-04-12T20:30:32.337Z"
   }
 ]
