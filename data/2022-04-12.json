@@ -774,5 +774,13 @@
     "username": "whitemouse365",
     "password": "wolves",
     "invokedAt": "2022-04-12T22:10:56.255Z"
+  },
+  {
+    "firstName": "Viljar",
+    "lastName": "Håpnes",
+    "email": "viljar.hapnes@example.com",
+    "username": "crazymouse652",
+    "password": "burger",
+    "invokedAt": "2022-04-12T22:28:02.182Z"
   }
 ]
