@@ -726,5 +726,13 @@
     "username": "sadelephant256",
     "password": "bullet",
     "invokedAt": "2022-04-12T21:11:01.342Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Young",
+    "email": "zachary.young@example.com",
+    "username": "bigmouse646",
+    "password": "stormy",
+    "invokedAt": "2022-04-12T21:27:08.118Z"
   }
 ]
