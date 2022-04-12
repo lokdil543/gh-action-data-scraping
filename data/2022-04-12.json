@@ -782,5 +782,13 @@
     "username": "crazymouse652",
     "password": "burger",
     "invokedAt": "2022-04-12T22:28:02.182Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Hansen",
+    "email": "magnus.hansen@example.com",
+    "username": "purpletiger506",
+    "password": "assassin",
+    "invokedAt": "2022-04-12T22:37:56.931Z"
   }
 ]
