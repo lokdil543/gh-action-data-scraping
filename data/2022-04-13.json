@@ -46,5 +46,13 @@
     "username": "redwolf494",
     "password": "beans",
     "invokedAt": "2022-04-13T04:18:27.410Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Gonzalez",
+    "email": "david.gonzalez@example.com",
+    "username": "brownleopard241",
+    "password": "dodgers",
+    "invokedAt": "2022-04-13T04:44:00.106Z"
   }
 ]
