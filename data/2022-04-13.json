@@ -518,5 +518,13 @@
     "username": "whitezebra460",
     "password": "forget",
     "invokedAt": "2022-04-13T16:12:08.950Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Ryan",
+    "email": "david.ryan@example.com",
+    "username": "goldenbutterfly247",
+    "password": "mandingo",
+    "invokedAt": "2022-04-13T16:46:09.054Z"
   }
 ]
