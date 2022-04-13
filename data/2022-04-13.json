@@ -462,5 +462,13 @@
     "username": "heavykoala707",
     "password": "apache",
     "invokedAt": "2022-04-13T14:37:43.853Z"
+  },
+  {
+    "firstName": "Attila",
+    "lastName": "Nguyen",
+    "email": "attila.nguyen@example.com",
+    "username": "smallgorilla990",
+    "password": "gandalf",
+    "invokedAt": "2022-04-13T14:49:37.592Z"
   }
 ]
