@@ -790,5 +790,13 @@
     "username": "biggorilla572",
     "password": "miriam",
     "invokedAt": "2022-04-13T22:32:46.221Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Novak",
+    "email": "sophie.novak@example.com",
+    "username": "yellowkoala576",
+    "password": "sprout",
+    "invokedAt": "2022-04-13T22:41:41.421Z"
   }
 ]
