@@ -406,5 +406,13 @@
     "username": "yellowswan500",
     "password": "clapton",
     "invokedAt": "2022-04-14T13:42:00.138Z"
+  },
+  {
+    "firstName": "Glenda",
+    "lastName": "Henderson",
+    "email": "glenda.henderson@example.com",
+    "username": "crazysnake414",
+    "password": "duck",
+    "invokedAt": "2022-04-14T13:50:17.642Z"
   }
 ]
