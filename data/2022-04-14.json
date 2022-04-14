@@ -566,5 +566,13 @@
     "username": "sadmouse787",
     "password": "patch",
     "invokedAt": "2022-04-14T17:55:40.237Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Hunt",
+    "email": "craig.hunt@example.com",
+    "username": "angrytiger898",
+    "password": "pants",
+    "invokedAt": "2022-04-14T18:08:01.172Z"
   }
 ]
