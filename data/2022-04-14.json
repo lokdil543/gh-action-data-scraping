@@ -846,5 +846,13 @@
     "username": "lazydog417",
     "password": "eight",
     "invokedAt": "2022-04-14T23:46:11.292Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Petersen",
+    "email": "albert.petersen@example.com",
+    "username": "beautifulwolf181",
+    "password": "hooter",
+    "invokedAt": "2022-04-14T23:52:10.377Z"
   }
 ]
