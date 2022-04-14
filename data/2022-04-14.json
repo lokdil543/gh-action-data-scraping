@@ -430,5 +430,13 @@
     "username": "organickoala199",
     "password": "hayabusa",
     "invokedAt": "2022-04-14T14:07:32.114Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Erkkila",
+    "email": "daniel.erkkila@example.com",
+    "username": "heavybird599",
+    "password": "giraffe",
+    "invokedAt": "2022-04-14T14:24:05.413Z"
   }
 ]
