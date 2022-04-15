@@ -518,5 +518,13 @@
     "username": "tinylion719",
     "password": "high",
     "invokedAt": "2022-04-15T16:51:43.399Z"
+  },
+  {
+    "firstName": "Jessie",
+    "lastName": "Cunningham",
+    "email": "jessie.cunningham@example.com",
+    "username": "smallladybug806",
+    "password": "phish",
+    "invokedAt": "2022-04-15T17:09:42.621Z"
   }
 ]
