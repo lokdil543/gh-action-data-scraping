@@ -462,5 +462,13 @@
     "username": "tinytiger826",
     "password": "fruit",
     "invokedAt": "2022-04-15T14:58:44.149Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Patel",
+    "email": "julia.patel@example.com",
+    "username": "tinydog319",
+    "password": "maureen",
+    "invokedAt": "2022-04-15T15:14:50.296Z"
   }
 ]
