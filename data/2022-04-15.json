@@ -286,5 +286,13 @@
     "username": "bigbutterfly385",
     "password": "147147",
     "invokedAt": "2022-04-15T10:51:39.636Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Barnes",
+    "email": "todd.barnes@example.com",
+    "username": "blackleopard509",
+    "password": "dead",
+    "invokedAt": "2022-04-15T10:57:28.458Z"
   }
 ]
