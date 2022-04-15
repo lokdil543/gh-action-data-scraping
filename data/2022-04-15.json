@@ -246,5 +246,13 @@
     "username": "smallostrich727",
     "password": "italian",
     "invokedAt": "2022-04-15T09:54:37.283Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Larsen",
+    "email": "andrea.larsen@example.com",
+    "username": "brownswan574",
+    "password": "close",
+    "invokedAt": "2022-04-15T10:00:27.161Z"
   }
 ]
