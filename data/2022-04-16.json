@@ -942,5 +942,13 @@
     "username": "bigrabbit402",
     "password": "biggun",
     "invokedAt": "2022-04-16T23:53:59.752Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Wilson",
+    "email": "john.wilson@example.com",
+    "username": "angryswan495",
+    "password": "hunt",
+    "invokedAt": "2022-04-16T23:59:43.539Z"
   }
 ]
