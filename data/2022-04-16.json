@@ -446,5 +446,13 @@
     "username": "yellowcat692",
     "password": "adonis",
     "invokedAt": "2022-04-16T13:31:28.900Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Frazier",
+    "email": "joel.frazier@example.com",
+    "username": "bigfish515",
+    "password": "marvin",
+    "invokedAt": "2022-04-16T13:41:49.645Z"
   }
 ]
