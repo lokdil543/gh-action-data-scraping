@@ -350,5 +350,13 @@
     "username": "smallcat798",
     "password": "excess",
     "invokedAt": "2022-04-16T10:53:18.339Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Pedersen",
+    "email": "emil.pedersen@example.com",
+    "username": "redostrich430",
+    "password": "clyde",
+    "invokedAt": "2022-04-16T10:59:09.281Z"
   }
 ]
