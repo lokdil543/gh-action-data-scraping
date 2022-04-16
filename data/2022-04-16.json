@@ -70,5 +70,13 @@
     "username": "organicbear851",
     "password": "coldplay",
     "invokedAt": "2022-04-16T04:51:16.236Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Marttila",
+    "email": "otto.marttila@example.com",
+    "username": "goldenlion726",
+    "password": "garbage",
+    "invokedAt": "2022-04-16T04:58:41.287Z"
   }
 ]
