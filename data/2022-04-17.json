@@ -622,5 +622,13 @@
     "username": "orangetiger631",
     "password": "wrench",
     "invokedAt": "2022-04-17T17:48:29.228Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Nalbantoğlu",
+    "email": "necati.nalbantoglu@example.com",
+    "username": "redfrog464",
+    "password": "mustang6",
+    "invokedAt": "2022-04-17T17:54:18.337Z"
   }
 ]
