@@ -486,5 +486,13 @@
     "username": "crazyduck583",
     "password": "stokes",
     "invokedAt": "2022-04-17T14:20:04.670Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Jenkins",
+    "email": "grace.jenkins@example.com",
+    "username": "redelephant660",
+    "password": "splinter",
+    "invokedAt": "2022-04-17T14:30:21.220Z"
   }
 ]
