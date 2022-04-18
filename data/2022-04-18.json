@@ -486,5 +486,13 @@
     "username": "beautifulelephant236",
     "password": "army",
     "invokedAt": "2022-04-18T15:30:26.742Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Atan",
+    "email": "kadir.atan@example.com",
+    "username": "crazyelephant567",
+    "password": "lulu",
+    "invokedAt": "2022-04-18T15:45:00.892Z"
   }
 ]
