@@ -806,5 +806,13 @@
     "username": "happyleopard511",
     "password": "burner",
     "invokedAt": "2022-04-18T22:57:12.632Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Nurmi",
+    "email": "aleksi.nurmi@example.com",
+    "username": "bluetiger238",
+    "password": "spank",
+    "invokedAt": "2022-04-18T23:08:33.034Z"
   }
 ]
