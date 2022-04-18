@@ -286,5 +286,13 @@
     "username": "bigelephant375",
     "password": "houdini",
     "invokedAt": "2022-04-18T10:33:32.561Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Reyes",
+    "email": "felix.reyes@example.com",
+    "username": "redelephant365",
+    "password": "corinne",
+    "invokedAt": "2022-04-18T10:45:09.497Z"
   }
 ]
