@@ -390,5 +390,13 @@
     "username": "beautifulgoose642",
     "password": "train",
     "invokedAt": "2022-04-19T14:35:03.334Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Manner",
+    "email": "niklas.manner@example.com",
+    "username": "purplebird499",
+    "password": "ding",
+    "invokedAt": "2022-04-19T14:43:13.262Z"
   }
 ]
