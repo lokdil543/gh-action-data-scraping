@@ -206,5 +206,13 @@
     "username": "lazyelephant189",
     "password": "mark",
     "invokedAt": "2022-04-19T09:28:37.649Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Lo",
+    "email": "james.lo@example.com",
+    "username": "smallladybug695",
+    "password": "project",
+    "invokedAt": "2022-04-19T09:39:41.126Z"
   }
 ]
