@@ -678,5 +678,13 @@
     "username": "angryduck365",
     "password": "golden1",
     "invokedAt": "2022-04-20T22:08:32.964Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Michel",
+    "email": "lorenzo.michel@example.com",
+    "username": "tinybear504",
+    "password": "weather",
+    "invokedAt": "2022-04-20T22:28:26.557Z"
   }
 ]
