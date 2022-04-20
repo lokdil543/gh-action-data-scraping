@@ -134,5 +134,13 @@
     "username": "bluerabbit838",
     "password": "roadkill",
     "invokedAt": "2022-04-20T08:11:39.232Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Smith",
+    "email": "juan.smith@example.com",
+    "username": "crazygorilla262",
+    "password": "trucking",
+    "invokedAt": "2022-04-20T08:37:47.093Z"
   }
 ]
