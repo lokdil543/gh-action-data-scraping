@@ -110,5 +110,13 @@
     "username": "crazyostrich904",
     "password": "california",
     "invokedAt": "2022-04-20T07:44:30.380Z"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "West",
+    "email": "seth.west@example.com",
+    "username": "greenostrich825",
+    "password": "1245",
+    "invokedAt": "2022-04-20T07:50:33.915Z"
   }
 ]
