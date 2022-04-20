@@ -486,5 +486,13 @@
     "username": "angrycat296",
     "password": "fright",
     "invokedAt": "2022-04-20T18:15:07.373Z"
+  },
+  {
+    "firstName": "Jacques",
+    "lastName": "Muller",
+    "email": "jacques.muller@example.com",
+    "username": "ticklishelephant398",
+    "password": "racecar",
+    "invokedAt": "2022-04-20T18:36:45.197Z"
   }
 ]
