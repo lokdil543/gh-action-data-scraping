@@ -390,5 +390,13 @@
     "username": "blackdog803",
     "password": "seadoo",
     "invokedAt": "2022-04-20T14:54:40.139Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Jean",
+    "email": "jose.jean@example.com",
+    "username": "blacksnake607",
+    "password": "marble",
+    "invokedAt": "2022-04-20T15:00:30.377Z"
   }
 ]
