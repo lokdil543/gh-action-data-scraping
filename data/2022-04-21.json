@@ -502,5 +502,13 @@
     "username": "goldenbear824",
     "password": "warthog",
     "invokedAt": "2022-04-21T18:54:43.208Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Christiansen",
+    "email": "daniel.christiansen@example.com",
+    "username": "bluewolf606",
+    "password": "sweet1",
+    "invokedAt": "2022-04-21T19:00:35.799Z"
   }
 ]
