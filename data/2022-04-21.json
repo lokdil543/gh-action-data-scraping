@@ -110,5 +110,13 @@
     "username": "bluemouse334",
     "password": "dogfood",
     "invokedAt": "2022-04-21T07:42:10.120Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Erez",
+    "email": "babur.erez@example.com",
+    "username": "silverbutterfly661",
+    "password": "ring",
+    "invokedAt": "2022-04-21T07:48:24.905Z"
   }
 ]
