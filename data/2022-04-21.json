@@ -262,5 +262,13 @@
     "username": "smallsnake221",
     "password": "inside",
     "invokedAt": "2022-04-21T11:34:06.734Z"
+  },
+  {
+    "firstName": "Naja",
+    "lastName": "Kristensen",
+    "email": "naja.kristensen@example.com",
+    "username": "goldenmouse612",
+    "password": "personal",
+    "invokedAt": "2022-04-21T11:40:36.949Z"
   }
 ]
