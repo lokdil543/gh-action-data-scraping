@@ -550,5 +550,13 @@
     "username": "orangelion585",
     "password": "vector",
     "invokedAt": "2022-04-21T19:43:31.998Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "King",
+    "email": "carter.king@example.com",
+    "username": "brownrabbit960",
+    "password": "pirate",
+    "invokedAt": "2022-04-21T19:49:26.285Z"
   }
 ]
