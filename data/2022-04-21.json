@@ -430,5 +430,13 @@
     "username": "angrypeacock878",
     "password": "acid",
     "invokedAt": "2022-04-21T16:00:18.028Z"
+  },
+  {
+    "firstName": "Kjell",
+    "lastName": "Gjesdal",
+    "email": "kjell.gjesdal@example.com",
+    "username": "brownpanda486",
+    "password": "joecool",
+    "invokedAt": "2022-04-21T16:28:19.751Z"
   }
 ]
