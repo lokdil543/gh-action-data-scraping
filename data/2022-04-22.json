@@ -646,5 +646,13 @@
     "username": "happycat989",
     "password": "labrador",
     "invokedAt": "2022-04-22T21:32:40.635Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Dağdaş",
+    "email": "adem.dagdas@example.com",
+    "username": "sadgorilla396",
+    "password": "jade",
+    "invokedAt": "2022-04-22T21:41:35.996Z"
   }
 ]
