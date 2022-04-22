@@ -742,5 +742,13 @@
     "username": "crazywolf952",
     "password": "mexican",
     "invokedAt": "2022-04-22T23:36:57.979Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Curtis",
+    "email": "mary.curtis@example.com",
+    "username": "sadostrich875",
+    "password": "raider",
+    "invokedAt": "2022-04-22T23:44:41.945Z"
   }
 ]
