@@ -174,5 +174,13 @@
     "username": "tinydog542",
     "password": "mememe",
     "invokedAt": "2022-04-22T09:09:27.890Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Myers",
+    "email": "john.myers@example.com",
+    "username": "ticklishostrich314",
+    "password": "rainman",
+    "invokedAt": "2022-04-22T09:28:26.889Z"
   }
 ]
