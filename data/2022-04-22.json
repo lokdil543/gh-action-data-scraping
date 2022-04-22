@@ -446,5 +446,13 @@
     "username": "redbear301",
     "password": "kiteboy",
     "invokedAt": "2022-04-22T16:41:32.617Z"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Robinson",
+    "email": "rick.robinson@example.com",
+    "username": "reddog994",
+    "password": "modelsne",
+    "invokedAt": "2022-04-22T17:06:25.292Z"
   }
 ]
