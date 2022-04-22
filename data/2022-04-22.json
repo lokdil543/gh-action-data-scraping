@@ -614,5 +614,13 @@
     "username": "bluemeercat850",
     "password": "toto",
     "invokedAt": "2022-04-22T20:49:21.972Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Martin",
+    "email": "esteban.martin@example.com",
+    "username": "bluekoala446",
+    "password": "postman",
+    "invokedAt": "2022-04-22T20:55:21.221Z"
   }
 ]
