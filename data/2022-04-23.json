@@ -646,5 +646,13 @@
     "username": "whiterabbit986",
     "password": "street",
     "invokedAt": "2022-04-23T18:44:13.967Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Ylitalo",
+    "email": "joona.ylitalo@example.com",
+    "username": "goldenostrich777",
+    "password": "135790",
+    "invokedAt": "2022-04-23T18:52:42.852Z"
   }
 ]
