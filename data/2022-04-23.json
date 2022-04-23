@@ -894,5 +894,13 @@
     "username": "sadsnake146",
     "password": "spiker",
     "invokedAt": "2022-04-23T23:30:39.715Z"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Renard",
+    "email": "toni.renard@example.com",
+    "username": "angrybutterfly350",
+    "password": "apache",
+    "invokedAt": "2022-04-23T23:40:31.132Z"
   }
 ]
