@@ -366,5 +366,13 @@
     "username": "smallpeacock698",
     "password": "trinity",
     "invokedAt": "2022-04-23T11:26:50.953Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Olsen",
+    "email": "lucas.olsen@example.com",
+    "username": "tinyrabbit999",
+    "password": "root",
+    "invokedAt": "2022-04-23T11:33:27.956Z"
   }
 ]
