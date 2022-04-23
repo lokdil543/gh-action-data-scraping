@@ -526,5 +526,13 @@
     "username": "whitefish588",
     "password": "raider",
     "invokedAt": "2022-04-23T15:11:22.040Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Lucas",
+    "email": "ted.lucas@example.com",
+    "username": "sadkoala136",
+    "password": "megaman",
+    "invokedAt": "2022-04-23T15:30:52.654Z"
   }
 ]
