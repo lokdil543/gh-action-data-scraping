@@ -318,5 +318,13 @@
     "username": "sadostrich310",
     "password": "dean",
     "invokedAt": "2022-04-23T10:30:27.273Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Manninen",
+    "email": "eevi.manninen@example.com",
+    "username": "beautifulduck943",
+    "password": "hippo",
+    "invokedAt": "2022-04-23T10:42:00.385Z"
   }
 ]
