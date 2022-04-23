@@ -750,5 +750,13 @@
     "username": "organicfish122",
     "password": "brigitte",
     "invokedAt": "2022-04-23T20:40:43.405Z"
+  },
+  {
+    "firstName": "Malene",
+    "lastName": "Arctander",
+    "email": "malene.arctander@example.com",
+    "username": "brownfrog110",
+    "password": "chicken1",
+    "invokedAt": "2022-04-23T20:46:39.006Z"
   }
 ]
