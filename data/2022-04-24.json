@@ -726,5 +726,13 @@
     "username": "bigfish609",
     "password": "capital",
     "invokedAt": "2022-04-24T19:59:06.922Z"
+  },
+  {
+    "firstName": "Saron",
+    "lastName": "Koenders",
+    "email": "saron.koenders@example.com",
+    "username": "heavypanda255",
+    "password": "picard",
+    "invokedAt": "2022-04-24T20:16:22.627Z"
   }
 ]
