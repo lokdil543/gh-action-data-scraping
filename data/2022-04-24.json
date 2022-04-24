@@ -774,5 +774,13 @@
     "username": "bluemouse103",
     "password": "lynn",
     "invokedAt": "2022-04-24T21:00:08.468Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Frazier",
+    "email": "don.frazier@example.com",
+    "username": "purpletiger517",
+    "password": "2020",
+    "invokedAt": "2022-04-24T21:15:11.841Z"
   }
 ]
