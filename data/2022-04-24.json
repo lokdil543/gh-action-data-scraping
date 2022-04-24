@@ -790,5 +790,13 @@
     "username": "tinyelephant204",
     "password": "freeway",
     "invokedAt": "2022-04-24T21:28:12.210Z"
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Spencer",
+    "email": "jared.spencer@example.com",
+    "username": "tinysnake228",
+    "password": "brutus",
+    "invokedAt": "2022-04-24T21:36:39.492Z"
   }
 ]
