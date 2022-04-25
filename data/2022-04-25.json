@@ -478,5 +478,13 @@
     "username": "greenrabbit109",
     "password": "samantha",
     "invokedAt": "2022-04-25T15:56:33.252Z"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Carr",
+    "email": "raul.carr@example.com",
+    "username": "sadbear128",
+    "password": "gerbil",
+    "invokedAt": "2022-04-25T16:11:30.921Z"
   }
 ]
