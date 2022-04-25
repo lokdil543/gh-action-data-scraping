@@ -774,5 +774,13 @@
     "username": "goldenostrich861",
     "password": "hillbill",
     "invokedAt": "2022-04-25T23:10:33.286Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Kasapoğlu",
+    "email": "oguzhan.kasapoglu@example.com",
+    "username": "happybird909",
+    "password": "shaggy",
+    "invokedAt": "2022-04-25T23:29:39.847Z"
   }
 ]
