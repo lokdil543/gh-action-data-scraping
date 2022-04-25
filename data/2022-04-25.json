@@ -390,5 +390,13 @@
     "username": "blackelephant752",
     "password": "whisky",
     "invokedAt": "2022-04-25T13:55:11.225Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Ekici",
+    "email": "gul.ekici@example.com",
+    "username": "angryelephant303",
+    "password": "wildcats",
+    "invokedAt": "2022-04-25T14:04:00.216Z"
   }
 ]
