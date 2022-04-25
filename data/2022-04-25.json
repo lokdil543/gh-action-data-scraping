@@ -518,5 +518,13 @@
     "username": "smallduck441",
     "password": "testibil",
     "invokedAt": "2022-04-25T17:43:12.751Z"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Marchand",
+    "email": "monica.marchand@example.com",
+    "username": "whitelion506",
+    "password": "outside",
+    "invokedAt": "2022-04-25T17:50:48.142Z"
   }
 ]
