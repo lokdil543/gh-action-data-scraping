@@ -414,5 +414,13 @@
     "username": "blackelephant716",
     "password": "musical",
     "invokedAt": "2022-04-26T14:49:22.452Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Gauthier",
+    "email": "cassandra.gauthier@example.com",
+    "username": "redcat539",
+    "password": "laser",
+    "invokedAt": "2022-04-26T14:55:16.464Z"
   }
 ]
