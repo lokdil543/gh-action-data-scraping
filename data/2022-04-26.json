@@ -574,5 +574,13 @@
     "username": "sadfish456",
     "password": "orange",
     "invokedAt": "2022-04-26T19:31:35.392Z"
+  },
+  {
+    "firstName": "Jan-Peter",
+    "lastName": "Vogel",
+    "email": "jan-peter.vogel@example.com",
+    "username": "bigrabbit485",
+    "password": "cang",
+    "invokedAt": "2022-04-26T19:38:06.178Z"
   }
 ]
