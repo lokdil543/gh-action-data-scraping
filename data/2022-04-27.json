@@ -206,5 +206,13 @@
     "username": "crazycat151",
     "password": "woofer",
     "invokedAt": "2022-04-27T09:50:47.064Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "Turner",
+    "email": "gene.turner@example.com",
+    "username": "beautifulgoose332",
+    "password": "blunts",
+    "invokedAt": "2022-04-27T09:56:32.281Z"
   }
 ]
