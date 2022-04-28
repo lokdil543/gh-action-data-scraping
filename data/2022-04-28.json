@@ -478,5 +478,13 @@
     "username": "orangebutterfly115",
     "password": "ping",
     "invokedAt": "2022-04-28T18:07:12.122Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Peltola",
+    "email": "matilda.peltola@example.com",
+    "username": "greenlion124",
+    "password": "jumper",
+    "invokedAt": "2022-04-28T18:34:36.478Z"
   }
 ]
