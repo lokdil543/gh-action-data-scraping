@@ -462,5 +462,13 @@
     "username": "beautifulbutterfly246",
     "password": "domain",
     "invokedAt": "2022-04-28T17:49:15.353Z"
+  },
+  {
+    "firstName": "Pamela",
+    "lastName": "Picard",
+    "email": "pamela.picard@example.com",
+    "username": "silvercat996",
+    "password": "gryphon",
+    "invokedAt": "2022-04-28T17:55:02.847Z"
   }
 ]
