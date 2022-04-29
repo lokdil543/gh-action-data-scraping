@@ -382,5 +382,13 @@
     "username": "yellowdog909",
     "password": "nature",
     "invokedAt": "2022-04-29T14:24:15.821Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Bayındır",
+    "email": "onal.bayindir@example.com",
+    "username": "happygoose690",
+    "password": "kitten",
+    "invokedAt": "2022-04-29T14:33:26.082Z"
   }
 ]
