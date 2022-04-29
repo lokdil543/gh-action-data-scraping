@@ -374,5 +374,13 @@
     "username": "tinycat297",
     "password": "page",
     "invokedAt": "2022-04-29T14:06:51.428Z"
+  },
+  {
+    "firstName": "Randall",
+    "lastName": "Hoffman",
+    "email": "randall.hoffman@example.com",
+    "username": "yellowdog909",
+    "password": "nature",
+    "invokedAt": "2022-04-29T14:24:15.821Z"
   }
 ]
