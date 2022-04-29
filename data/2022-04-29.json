@@ -766,5 +766,13 @@
     "username": "purplegorilla821",
     "password": "boom",
     "invokedAt": "2022-04-29T23:41:00.333Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Lecomte",
+    "email": "rose.lecomte@example.com",
+    "username": "silverrabbit397",
+    "password": "marker",
+    "invokedAt": "2022-04-29T23:47:28.339Z"
   }
 ]
