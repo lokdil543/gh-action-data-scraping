@@ -742,5 +742,13 @@
     "username": "redbutterfly408",
     "password": "wordup",
     "invokedAt": "2022-04-29T22:58:32.038Z"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Cook",
+    "email": "stephen.cook@example.com",
+    "username": "purplelion674",
+    "password": "sparky",
+    "invokedAt": "2022-04-29T23:14:03.485Z"
   }
 ]
