@@ -870,5 +870,13 @@
     "username": "brownpanda746",
     "password": "wizards",
     "invokedAt": "2022-04-30T23:41:04.447Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Wright",
+    "email": "max.wright@example.com",
+    "username": "yellowbutterfly111",
+    "password": "helper",
+    "invokedAt": "2022-04-30T23:46:57.241Z"
   }
 ]
