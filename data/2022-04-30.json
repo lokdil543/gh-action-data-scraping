@@ -182,5 +182,13 @@
     "username": "sadbutterfly180",
     "password": "murphy",
     "invokedAt": "2022-04-30T07:52:53.357Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Andersen",
+    "email": "william.andersen@example.com",
+    "username": "whitekoala861",
+    "password": "django",
+    "invokedAt": "2022-04-30T07:58:40.099Z"
   }
 ]
