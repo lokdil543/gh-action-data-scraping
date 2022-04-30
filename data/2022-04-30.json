@@ -654,5 +654,13 @@
     "username": "heavysnake305",
     "password": "firewall",
     "invokedAt": "2022-04-30T19:24:52.248Z"
+  },
+  {
+    "firstName": "Stjepan",
+    "lastName": "Risch",
+    "email": "stjepan.risch@example.com",
+    "username": "lazyleopard913",
+    "password": "dynamo",
+    "invokedAt": "2022-04-30T19:30:41.310Z"
   }
 ]
