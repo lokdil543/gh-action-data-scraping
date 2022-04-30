@@ -606,5 +606,13 @@
     "username": "sadbird508",
     "password": "florian",
     "invokedAt": "2022-04-30T18:08:10.194Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Møller",
+    "email": "magnus.moller@example.com",
+    "username": "redpeacock524",
+    "password": "pisces",
+    "invokedAt": "2022-04-30T18:32:14.130Z"
   }
 ]
