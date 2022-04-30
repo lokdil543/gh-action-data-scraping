@@ -550,5 +550,13 @@
     "username": "blueduck317",
     "password": "harvard",
     "invokedAt": "2022-04-30T16:47:12.147Z"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "da Luz",
+    "email": "abdul.daluz@example.com",
+    "username": "organicmouse822",
+    "password": "drizzt",
+    "invokedAt": "2022-04-30T17:02:00.910Z"
   }
 ]
