@@ -662,5 +662,13 @@
     "username": "lazyleopard913",
     "password": "dynamo",
     "invokedAt": "2022-04-30T19:30:41.310Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Andersen",
+    "email": "ida.andersen@example.com",
+    "username": "lazydog801",
+    "password": "kristian",
+    "invokedAt": "2022-04-30T19:37:14.935Z"
   }
 ]
