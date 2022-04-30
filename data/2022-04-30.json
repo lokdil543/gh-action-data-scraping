@@ -718,5 +718,13 @@
     "username": "tinyduck371",
     "password": "doodle",
     "invokedAt": "2022-04-30T20:35:46.687Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Madsen",
+    "email": "johan.madsen@example.com",
+    "username": "tinygoose986",
+    "password": "blackcat",
+    "invokedAt": "2022-04-30T20:44:13.316Z"
   }
 ]
