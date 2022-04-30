@@ -558,5 +558,13 @@
     "username": "organicmouse822",
     "password": "drizzt",
     "invokedAt": "2022-04-30T17:02:00.910Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Hanson",
+    "email": "joe.hanson@example.com",
+    "username": "brownzebra793",
+    "password": "exotic",
+    "invokedAt": "2022-04-30T17:22:25.242Z"
   }
 ]
