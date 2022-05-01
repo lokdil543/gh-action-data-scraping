@@ -358,5 +358,13 @@
     "username": "bluedog239",
     "password": "mallard",
     "invokedAt": "2022-05-01T12:56:23.098Z"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Wheeler",
+    "email": "andre.wheeler@example.com",
+    "username": "angryrabbit272",
+    "password": "portland",
+    "invokedAt": "2022-05-01T13:19:26.686Z"
   }
 ]
