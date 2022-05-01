@@ -190,5 +190,13 @@
     "username": "bluemouse962",
     "password": "mazda",
     "invokedAt": "2022-05-01T08:54:32.868Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Martinez",
+    "email": "esteban.martinez@example.com",
+    "username": "whitecat815",
+    "password": "trinitro",
+    "invokedAt": "2022-05-01T09:00:17.763Z"
   }
 ]
