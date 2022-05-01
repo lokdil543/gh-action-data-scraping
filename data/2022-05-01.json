@@ -798,5 +798,13 @@
     "username": "goldenpeacock291",
     "password": "bunker",
     "invokedAt": "2022-05-01T23:08:07.107Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Jean",
+    "email": "mathieu.jean@example.com",
+    "username": "bigrabbit189",
+    "password": "qwert",
+    "invokedAt": "2022-05-01T23:26:27.075Z"
   }
 ]
