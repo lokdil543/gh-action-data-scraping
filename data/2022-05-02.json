@@ -470,5 +470,13 @@
     "username": "greenpeacock970",
     "password": "venture",
     "invokedAt": "2022-05-02T17:58:42.323Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Pakkala",
+    "email": "samuel.pakkala@example.com",
+    "username": "angrydog929",
+    "password": "111222",
+    "invokedAt": "2022-05-02T18:17:20.479Z"
   }
 ]
