@@ -254,5 +254,13 @@
     "username": "crazysnake538",
     "password": "nugget",
     "invokedAt": "2022-05-02T11:06:24.309Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Morris",
+    "email": "hunter.morris@example.com",
+    "username": "smallpeacock132",
+    "password": "steve",
+    "invokedAt": "2022-05-02T11:23:04.120Z"
   }
 ]
