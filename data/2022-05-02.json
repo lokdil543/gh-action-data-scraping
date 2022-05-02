@@ -246,5 +246,13 @@
     "username": "bigkoala616",
     "password": "1972",
     "invokedAt": "2022-05-02T10:55:46.714Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Perry",
+    "email": "gabriel.perry@example.com",
+    "username": "crazysnake538",
+    "password": "nugget",
+    "invokedAt": "2022-05-02T11:06:24.309Z"
   }
 ]
