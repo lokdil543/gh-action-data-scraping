@@ -726,5 +726,13 @@
     "username": "angryswan127",
     "password": "bacon",
     "invokedAt": "2022-05-03T23:13:27.987Z"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Boy",
+    "email": "leon.boy@example.com",
+    "username": "happybear692",
+    "password": "cloud9",
+    "invokedAt": "2022-05-03T23:29:16.326Z"
   }
 ]
