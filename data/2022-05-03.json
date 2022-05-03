@@ -558,5 +558,13 @@
     "username": "blueduck365",
     "password": "hardy",
     "invokedAt": "2022-05-03T19:43:40.068Z"
+  },
+  {
+    "firstName": "Arron",
+    "lastName": "Torres",
+    "email": "arron.torres@example.com",
+    "username": "greengorilla216",
+    "password": "beaver",
+    "invokedAt": "2022-05-03T19:49:38.763Z"
   }
 ]
