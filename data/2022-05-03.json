@@ -406,5 +406,13 @@
     "username": "yellowtiger293",
     "password": "boob",
     "invokedAt": "2022-05-03T14:59:34.279Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Carpenter",
+    "email": "mary.carpenter@example.com",
+    "username": "bluezebra551",
+    "password": "artist",
+    "invokedAt": "2022-05-03T15:18:02.285Z"
   }
 ]
