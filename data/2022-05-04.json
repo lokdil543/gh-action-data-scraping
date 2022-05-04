@@ -358,5 +358,13 @@
     "username": "yellowbear377",
     "password": "pringles",
     "invokedAt": "2022-05-04T13:43:33.277Z"
+  },
+  {
+    "firstName": "Margaux",
+    "lastName": "Meyer",
+    "email": "margaux.meyer@example.com",
+    "username": "yellowmouse423",
+    "password": "porsche1",
+    "invokedAt": "2022-05-04T13:57:40.376Z"
   }
 ]
