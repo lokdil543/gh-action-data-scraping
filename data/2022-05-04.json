@@ -446,5 +446,13 @@
     "username": "lazybird176",
     "password": "photos",
     "invokedAt": "2022-05-04T15:55:10.134Z"
+  },
+  {
+    "firstName": "Thilo",
+    "lastName": "Peters",
+    "email": "thilo.peters@example.com",
+    "username": "blackgoose175",
+    "password": "22222222",
+    "invokedAt": "2022-05-04T16:07:13.929Z"
   }
 ]
