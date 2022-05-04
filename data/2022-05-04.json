@@ -606,5 +606,13 @@
     "username": "greencat222",
     "password": "sharpe",
     "invokedAt": "2022-05-04T20:34:15.509Z"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Wallace",
+    "email": "rachel.wallace@example.com",
+    "username": "goldenrabbit913",
+    "password": "bingo",
+    "invokedAt": "2022-05-04T20:44:38.748Z"
   }
 ]
