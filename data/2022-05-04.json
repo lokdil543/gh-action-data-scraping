@@ -558,5 +558,13 @@
     "username": "brownwolf398",
     "password": "friends",
     "invokedAt": "2022-05-04T19:35:50.988Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Wheeler",
+    "email": "dennis.wheeler@example.com",
+    "username": "sadwolf554",
+    "password": "tophat",
+    "invokedAt": "2022-05-04T19:41:51.045Z"
   }
 ]
