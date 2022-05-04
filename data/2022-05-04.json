@@ -734,5 +734,13 @@
     "username": "purplemeercat562",
     "password": "bestbuy",
     "invokedAt": "2022-05-04T23:17:52.971Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Duncan",
+    "email": "paul.duncan@example.com",
+    "username": "angrybear654",
+    "password": "bobbie",
+    "invokedAt": "2022-05-04T23:33:28.071Z"
   }
 ]
