@@ -622,5 +622,13 @@
     "username": "blacksnake721",
     "password": "belmont",
     "invokedAt": "2022-05-04T20:51:17.091Z"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Jenkins",
+    "email": "kyle.jenkins@example.com",
+    "username": "purplefrog844",
+    "password": "backbone",
+    "invokedAt": "2022-05-04T20:57:20.515Z"
   }
 ]
