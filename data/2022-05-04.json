@@ -190,5 +190,13 @@
     "username": "crazyfrog141",
     "password": "fashion",
     "invokedAt": "2022-05-04T08:51:34.979Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Haugerud",
+    "email": "otto.haugerud@example.com",
+    "username": "bluewolf304",
+    "password": "spike1",
+    "invokedAt": "2022-05-04T08:57:33.408Z"
   }
 ]
