@@ -254,5 +254,13 @@
     "username": "angrydog866",
     "password": "cthulhu",
     "invokedAt": "2022-05-04T10:32:07.358Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Berry",
+    "email": "cathy.berry@example.com",
+    "username": "crazydog958",
+    "password": "sheldon",
+    "invokedAt": "2022-05-04T10:44:48.461Z"
   }
 ]
