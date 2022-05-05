@@ -286,5 +286,13 @@
     "username": "beautifulcat505",
     "password": "saint",
     "invokedAt": "2022-05-05T11:23:24.088Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Jørgensen",
+    "email": "sander.jorgensen@example.com",
+    "username": "brownelephant319",
+    "password": "lionel",
+    "invokedAt": "2022-05-05T11:31:51.410Z"
   }
 ]
