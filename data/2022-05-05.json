@@ -654,5 +654,13 @@
     "username": "angrywolf208",
     "password": "pascal",
     "invokedAt": "2022-05-05T21:26:10.433Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Clarke",
+    "email": "arthur.clarke@example.com",
+    "username": "purplegorilla190",
+    "password": "qwerqwer",
+    "invokedAt": "2022-05-05T21:36:08.414Z"
   }
 ]
