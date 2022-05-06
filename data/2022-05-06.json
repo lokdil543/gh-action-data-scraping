@@ -782,5 +782,13 @@
     "username": "redelephant269",
     "password": "temp123",
     "invokedAt": "2022-05-06T23:27:18.143Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Kivela",
+    "email": "aapo.kivela@example.com",
+    "username": "tinyelephant226",
+    "password": "wildcat",
+    "invokedAt": "2022-05-06T23:38:00.200Z"
   }
 ]
