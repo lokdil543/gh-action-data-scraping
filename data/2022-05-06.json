@@ -62,5 +62,13 @@
     "username": "bigbear440",
     "password": "retire",
     "invokedAt": "2022-05-06T04:57:52.297Z"
+  },
+  {
+    "firstName": "Bertram",
+    "lastName": "Petersen",
+    "email": "bertram.petersen@example.com",
+    "username": "bluefrog178",
+    "password": "doggy",
+    "invokedAt": "2022-05-06T05:12:34.086Z"
   }
 ]
