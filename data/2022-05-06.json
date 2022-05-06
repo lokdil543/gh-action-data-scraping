@@ -342,5 +342,13 @@
     "username": "silvertiger383",
     "password": "copper",
     "invokedAt": "2022-05-06T11:46:07.419Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Doğan",
+    "email": "koray.dogan@example.com",
+    "username": "redelephant214",
+    "password": "unique",
+    "invokedAt": "2022-05-06T11:52:04.288Z"
   }
 ]
