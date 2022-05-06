@@ -726,5 +726,13 @@
     "username": "smalllion450",
     "password": "chocolate",
     "invokedAt": "2022-05-06T22:01:46.411Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Mortensen",
+    "email": "tobias.mortensen@example.com",
+    "username": "greensnake444",
+    "password": "marvel",
+    "invokedAt": "2022-05-06T22:21:40.114Z"
   }
 ]
