@@ -774,5 +774,13 @@
     "username": "happyfish872",
     "password": "gamma",
     "invokedAt": "2022-05-06T23:08:38.936Z"
+  },
+  {
+    "firstName": "Nicky",
+    "lastName": "Payne",
+    "email": "nicky.payne@example.com",
+    "username": "redelephant269",
+    "password": "temp123",
+    "invokedAt": "2022-05-06T23:27:18.143Z"
   }
 ]
