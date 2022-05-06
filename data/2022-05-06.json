@@ -742,5 +742,13 @@
     "username": "crazybear805",
     "password": "pharmacy",
     "invokedAt": "2022-05-06T22:35:32.389Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Mills",
+    "email": "david.mills@example.com",
+    "username": "organicfish615",
+    "password": "wrangler",
+    "invokedAt": "2022-05-06T22:44:29.117Z"
   }
 ]
