@@ -270,5 +270,13 @@
     "username": "bigpeacock922",
     "password": "lifetime",
     "invokedAt": "2022-05-07T09:45:01.167Z"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Wood",
+    "email": "bobby.wood@example.com",
+    "username": "orangetiger384",
+    "password": "piazza",
+    "invokedAt": "2022-05-07T09:50:53.313Z"
   }
 ]
