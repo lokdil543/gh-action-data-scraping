@@ -462,5 +462,13 @@
     "username": "happyduck166",
     "password": "keystone",
     "invokedAt": "2022-05-07T14:33:04.113Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Hellebø",
+    "email": "frederik.hellebo@example.com",
+    "username": "bluezebra443",
+    "password": "passwor1",
+    "invokedAt": "2022-05-07T14:41:14.447Z"
   }
 ]
