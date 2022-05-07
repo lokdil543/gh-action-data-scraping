@@ -710,5 +710,13 @@
     "username": "tinypeacock248",
     "password": "edge",
     "invokedAt": "2022-05-07T20:37:56.688Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Durand",
+    "email": "ryan.durand@example.com",
+    "username": "lazypeacock383",
+    "password": "pimp",
+    "invokedAt": "2022-05-07T20:45:35.069Z"
   }
 ]
