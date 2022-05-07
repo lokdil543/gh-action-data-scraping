@@ -782,5 +782,13 @@
     "username": "purpletiger535",
     "password": "hose",
     "invokedAt": "2022-05-07T21:55:18.348Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Jensen",
+    "email": "jonathan.jensen@example.com",
+    "username": "purplefish376",
+    "password": "ronald1",
+    "invokedAt": "2022-05-07T22:04:32.952Z"
   }
 ]
