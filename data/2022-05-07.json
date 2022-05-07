@@ -830,5 +830,13 @@
     "username": "greencat174",
     "password": "rolltide",
     "invokedAt": "2022-05-07T22:55:51.608Z"
+  },
+  {
+    "firstName": "Tessa",
+    "lastName": "Robin",
+    "email": "tessa.robin@example.com",
+    "username": "smalldog101",
+    "password": "site",
+    "invokedAt": "2022-05-07T23:07:27.224Z"
   }
 ]
