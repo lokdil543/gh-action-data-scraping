@@ -198,5 +198,13 @@
     "username": "bigfrog362",
     "password": "delmar",
     "invokedAt": "2022-05-09T08:59:49.215Z"
+  },
+  {
+    "firstName": "Fabienne",
+    "lastName": "Picard",
+    "email": "fabienne.picard@example.com",
+    "username": "redcat676",
+    "password": "prodigy",
+    "invokedAt": "2022-05-09T09:18:05.523Z"
   }
 ]
