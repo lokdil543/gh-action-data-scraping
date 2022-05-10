@@ -758,5 +758,13 @@
     "username": "bigrabbit101",
     "password": "travis",
     "invokedAt": "2022-05-10T22:59:37.442Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Lynch",
+    "email": "zoe.lynch@example.com",
+    "username": "beautifulkoala990",
+    "password": "monsters",
+    "invokedAt": "2022-05-10T23:17:42.398Z"
   }
 ]
