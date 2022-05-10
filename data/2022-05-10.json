@@ -382,5 +382,13 @@
     "username": "brownbird168",
     "password": "pippin",
     "invokedAt": "2022-05-10T12:00:26.178Z"
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Rodriguez",
+    "email": "nils.rodriguez@example.com",
+    "username": "yellowduck391",
+    "password": "berlin",
+    "invokedAt": "2022-05-10T12:37:22.016Z"
   }
 ]
