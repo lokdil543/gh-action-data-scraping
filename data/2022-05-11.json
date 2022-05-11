@@ -582,5 +582,13 @@
     "username": "whitefish132",
     "password": "earnhard",
     "invokedAt": "2022-05-11T20:32:59.703Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Jørgensen",
+    "email": "alfred.jorgensen@example.com",
+    "username": "tinybear250",
+    "password": "mallard",
+    "invokedAt": "2022-05-11T20:43:51.533Z"
   }
 ]
