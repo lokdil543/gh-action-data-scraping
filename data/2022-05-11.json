@@ -726,5 +726,13 @@
     "username": "crazypanda374",
     "password": "bogart",
     "invokedAt": "2022-05-11T23:45:24.217Z"
+  },
+  {
+    "firstName": "Archer",
+    "lastName": "Lee",
+    "email": "archer.lee@example.com",
+    "username": "purplecat630",
+    "password": "pauline",
+    "invokedAt": "2022-05-11T23:51:34.119Z"
   }
 ]
