@@ -398,5 +398,13 @@
     "username": "purpleswan485",
     "password": "older",
     "invokedAt": "2022-05-11T14:59:40.141Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Poulsen",
+    "email": "carl.poulsen@example.com",
+    "username": "yellowbutterfly687",
+    "password": "flicks",
+    "invokedAt": "2022-05-11T15:18:14.265Z"
   }
 ]
