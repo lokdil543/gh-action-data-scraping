@@ -366,5 +366,13 @@
     "username": "whiteostrich335",
     "password": "sinatra",
     "invokedAt": "2022-05-12T14:51:53.516Z"
+  },
+  {
+    "firstName": "Angela",
+    "lastName": "Perez",
+    "email": "angela.perez@example.com",
+    "username": "silverbutterfly184",
+    "password": "jewel",
+    "invokedAt": "2022-05-12T14:57:54.131Z"
   }
 ]
