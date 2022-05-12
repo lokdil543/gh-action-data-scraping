@@ -110,5 +110,13 @@
     "username": "blackbird542",
     "password": "boeing",
     "invokedAt": "2022-05-12T07:13:38.318Z"
+  },
+  {
+    "firstName": "Maude",
+    "lastName": "Menard",
+    "email": "maude.menard@example.com",
+    "username": "angrymouse240",
+    "password": "sunlight",
+    "invokedAt": "2022-05-12T07:30:08.360Z"
   }
 ]
