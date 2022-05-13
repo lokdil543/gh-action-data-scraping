@@ -294,5 +294,13 @@
     "username": "sadelephant807",
     "password": "basset",
     "invokedAt": "2022-05-13T14:02:29.494Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Andersen",
+    "email": "jonathan.andersen@example.com",
+    "username": "redostrich201",
+    "password": "dustin",
+    "invokedAt": "2022-05-13T14:26:49.312Z"
   }
 ]
