@@ -206,5 +206,13 @@
     "username": "yellowlion704",
     "password": "kajak",
     "invokedAt": "2022-05-13T10:50:29.463Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Johnson",
+    "email": "sophie.johnson@example.com",
+    "username": "blackfrog417",
+    "password": "records",
+    "invokedAt": "2022-05-13T10:56:08.403Z"
   }
 ]
