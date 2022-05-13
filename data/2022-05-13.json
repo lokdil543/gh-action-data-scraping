@@ -182,5 +182,13 @@
     "username": "orangemouse775",
     "password": "bighead",
     "invokedAt": "2022-05-13T09:59:05.244Z"
+  },
+  {
+    "firstName": "Cesar",
+    "lastName": "Kampman",
+    "email": "cesar.kampman@example.com",
+    "username": "orangefish354",
+    "password": "furball",
+    "invokedAt": "2022-05-13T10:18:21.723Z"
   }
 ]
