@@ -214,5 +214,13 @@
     "username": "blackfrog417",
     "password": "records",
     "invokedAt": "2022-05-13T10:56:08.403Z"
+  },
+  {
+    "firstName": "Zofia",
+    "lastName": "Rademacher",
+    "email": "zofia.rademacher@example.com",
+    "username": "happybear102",
+    "password": "stealth",
+    "invokedAt": "2022-05-13T11:07:34.372Z"
   }
 ]
