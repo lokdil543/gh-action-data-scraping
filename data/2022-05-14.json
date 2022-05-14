@@ -286,5 +286,13 @@
     "username": "biglion146",
     "password": "pianoman",
     "invokedAt": "2022-05-14T13:44:17.155Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "King",
+    "email": "john.king@example.com",
+    "username": "whitebutterfly887",
+    "password": "tipper",
+    "invokedAt": "2022-05-14T13:56:01.217Z"
   }
 ]
