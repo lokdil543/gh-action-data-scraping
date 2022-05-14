@@ -238,5 +238,13 @@
     "username": "biggorilla706",
     "password": "nike",
     "invokedAt": "2022-05-14T11:40:29.238Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Prieto",
+    "email": "marcos.prieto@example.com",
+    "username": "orangekoala561",
+    "password": "asdf",
+    "invokedAt": "2022-05-14T11:46:21.171Z"
   }
 ]
