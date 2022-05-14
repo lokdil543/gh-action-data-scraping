@@ -542,5 +542,13 @@
     "username": "happybird470",
     "password": "geng",
     "invokedAt": "2022-05-14T19:59:00.855Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Walker",
+    "email": "anna.walker@example.com",
+    "username": "blackswan783",
+    "password": "weather",
+    "invokedAt": "2022-05-14T20:15:38.289Z"
   }
 ]
