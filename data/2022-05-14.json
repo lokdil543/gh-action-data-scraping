@@ -558,5 +558,13 @@
     "username": "lazygorilla540",
     "password": "castor",
     "invokedAt": "2022-05-14T20:32:04.942Z"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Mason",
+    "email": "joey.mason@example.com",
+    "username": "sadsnake800",
+    "password": "napster",
+    "invokedAt": "2022-05-14T20:43:02.469Z"
   }
 ]
