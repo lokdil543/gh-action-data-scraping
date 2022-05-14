@@ -566,5 +566,13 @@
     "username": "sadsnake800",
     "password": "napster",
     "invokedAt": "2022-05-14T20:43:02.469Z"
+  },
+  {
+    "firstName": "Jean-Paul",
+    "lastName": "Fabre",
+    "email": "jean-paul.fabre@example.com",
+    "username": "purplecat413",
+    "password": "mojo",
+    "invokedAt": "2022-05-14T20:49:00.296Z"
   }
 ]
