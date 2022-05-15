@@ -366,5 +366,13 @@
     "username": "heavywolf943",
     "password": "friend",
     "invokedAt": "2022-05-15T13:35:01.900Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Fisher",
+    "email": "don.fisher@example.com",
+    "username": "blueelephant796",
+    "password": "helium",
+    "invokedAt": "2022-05-15T13:50:13.426Z"
   }
 ]
