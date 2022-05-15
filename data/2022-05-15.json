@@ -766,5 +766,13 @@
     "username": "lazytiger222",
     "password": "beach",
     "invokedAt": "2022-05-15T22:55:50.385Z"
+  },
+  {
+    "firstName": "Vito",
+    "lastName": "Dupont",
+    "email": "vito.dupont@example.com",
+    "username": "bluemouse335",
+    "password": "england",
+    "invokedAt": "2022-05-15T23:07:20.397Z"
   }
 ]
