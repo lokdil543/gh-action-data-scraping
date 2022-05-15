@@ -294,5 +294,13 @@
     "username": "brownelephant840",
     "password": "travel",
     "invokedAt": "2022-05-15T11:09:40.962Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Pons",
+    "email": "raymond.pons@example.com",
+    "username": "purplegoose542",
+    "password": "musicman",
+    "invokedAt": "2022-05-15T11:24:51.623Z"
   }
 ]
