@@ -566,5 +566,13 @@
     "username": "crazygoose642",
     "password": "lickme",
     "invokedAt": "2022-05-15T18:56:46.019Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Karjala",
+    "email": "vaino.karjala@example.com",
+    "username": "greenleopard239",
+    "password": "goforit",
+    "invokedAt": "2022-05-15T19:08:24.262Z"
   }
 ]
