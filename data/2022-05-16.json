@@ -230,5 +230,13 @@
     "username": "orangepeacock357",
     "password": "madrid",
     "invokedAt": "2022-05-16T09:56:43.277Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Jørgensen",
+    "email": "carl.jorgensen@example.com",
+    "username": "goldenpeacock315",
+    "password": "strawber",
+    "invokedAt": "2022-05-16T10:12:17.014Z"
   }
 ]
