@@ -246,5 +246,13 @@
     "username": "silverrabbit226",
     "password": "keegan",
     "invokedAt": "2022-05-16T10:35:04.403Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Mackay",
+    "email": "rose.mackay@example.com",
+    "username": "bigfish125",
+    "password": "bubble",
+    "invokedAt": "2022-05-16T10:47:41.324Z"
   }
 ]
