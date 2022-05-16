@@ -574,5 +574,13 @@
     "username": "beautifulgoose494",
     "password": "defense",
     "invokedAt": "2022-05-16T20:01:42.120Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Burns",
+    "email": "james.burns@example.com",
+    "username": "silverpanda732",
+    "password": "farmer",
+    "invokedAt": "2022-05-16T20:24:34.698Z"
   }
 ]
