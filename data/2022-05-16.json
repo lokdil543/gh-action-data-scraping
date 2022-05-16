@@ -254,5 +254,13 @@
     "username": "bigfish125",
     "password": "bubble",
     "invokedAt": "2022-05-16T10:47:41.324Z"
+  },
+  {
+    "firstName": "Mélody",
+    "lastName": "Deschamps",
+    "email": "melody.deschamps@example.com",
+    "username": "angrybutterfly868",
+    "password": "aragorn",
+    "invokedAt": "2022-05-16T10:54:00.405Z"
   }
 ]
