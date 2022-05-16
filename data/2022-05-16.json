@@ -702,5 +702,13 @@
     "username": "greengoose277",
     "password": "butler",
     "invokedAt": "2022-05-16T22:55:08.097Z"
+  },
+  {
+    "firstName": "Marlon",
+    "lastName": "Weening",
+    "email": "marlon.weening@example.com",
+    "username": "orangezebra817",
+    "password": "sheriff",
+    "invokedAt": "2022-05-16T23:03:01.834Z"
   }
 ]
