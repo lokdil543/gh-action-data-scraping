@@ -622,5 +622,13 @@
     "username": "goldenmouse568",
     "password": "window",
     "invokedAt": "2022-05-17T20:45:34.266Z"
+  },
+  {
+    "firstName": "Dino",
+    "lastName": "Kämmerer",
+    "email": "dino.kammerer@example.com",
+    "username": "tinyostrich814",
+    "password": "student",
+    "invokedAt": "2022-05-17T20:51:26.734Z"
   }
 ]
