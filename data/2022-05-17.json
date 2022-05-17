@@ -494,5 +494,13 @@
     "username": "whitebutterfly660",
     "password": "edge",
     "invokedAt": "2022-05-17T18:00:07.062Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Campbell",
+    "email": "james.campbell@example.com",
+    "username": "lazydog590",
+    "password": "kikimora",
+    "invokedAt": "2022-05-17T18:21:28.086Z"
   }
 ]
