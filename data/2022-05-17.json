@@ -750,5 +750,13 @@
     "username": "tinyostrich150",
     "password": "consumer",
     "invokedAt": "2022-05-17T23:31:18.946Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Yazıcı",
+    "email": "okan.yazici@example.com",
+    "username": "whitebear651",
+    "password": "hardcore",
+    "invokedAt": "2022-05-17T23:42:32.602Z"
   }
 ]
