@@ -310,5 +310,13 @@
     "username": "smalldog475",
     "password": "down",
     "invokedAt": "2022-05-17T11:47:58.758Z"
+  },
+  {
+    "firstName": "Agnes",
+    "lastName": "Kröger",
+    "email": "agnes.kroger@example.com",
+    "username": "orangepanda388",
+    "password": "888888",
+    "invokedAt": "2022-05-17T11:53:53.225Z"
   }
 ]
