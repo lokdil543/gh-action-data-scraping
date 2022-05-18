@@ -526,5 +526,13 @@
     "username": "happygoose699",
     "password": "gretzky",
     "invokedAt": "2022-05-18T19:02:00.395Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Collins",
+    "email": "roy.collins@example.com",
+    "username": "whitekoala305",
+    "password": "bigone",
+    "invokedAt": "2022-05-18T19:18:42.903Z"
   }
 ]
