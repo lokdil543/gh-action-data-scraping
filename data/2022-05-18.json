@@ -270,5 +270,13 @@
     "username": "smallmouse626",
     "password": "ncc1701",
     "invokedAt": "2022-05-18T10:52:06.255Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Simmons",
+    "email": "ethan.simmons@example.com",
+    "username": "bigzebra745",
+    "password": "aramis",
+    "invokedAt": "2022-05-18T10:57:53.945Z"
   }
 ]
