@@ -494,5 +494,13 @@
     "username": "lazywolf557",
     "password": "greenbay",
     "invokedAt": "2022-05-18T18:00:36.027Z"
+  },
+  {
+    "firstName": "Rimmer",
+    "lastName": "Hamer",
+    "email": "rimmer.hamer@example.com",
+    "username": "smallwolf335",
+    "password": "cream",
+    "invokedAt": "2022-05-18T18:23:14.357Z"
   }
 ]
