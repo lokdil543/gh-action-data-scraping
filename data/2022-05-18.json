@@ -678,5 +678,13 @@
     "username": "orangebird817",
     "password": "loose",
     "invokedAt": "2022-05-18T22:10:08.351Z"
+  },
+  {
+    "firstName": "Julião",
+    "lastName": "Silveira",
+    "email": "juliao.silveira@example.com",
+    "username": "happyduck983",
+    "password": "ruby",
+    "invokedAt": "2022-05-18T22:29:01.468Z"
   }
 ]
