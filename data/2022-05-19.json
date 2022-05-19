@@ -166,5 +166,13 @@
     "username": "bigwolf266",
     "password": "lakers",
     "invokedAt": "2022-05-19T08:35:11.329Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Daniels",
+    "email": "lisa.daniels@example.com",
+    "username": "lazysnake672",
+    "password": "movie",
+    "invokedAt": "2022-05-19T08:50:05.006Z"
   }
 ]
