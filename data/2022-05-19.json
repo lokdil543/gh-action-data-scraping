@@ -518,5 +518,13 @@
     "username": "silvergorilla971",
     "password": "morpheus",
     "invokedAt": "2022-05-19T20:33:04.299Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Gordon",
+    "email": "allen.gordon@example.com",
+    "username": "blackduck162",
+    "password": "massive",
+    "invokedAt": "2022-05-19T20:44:04.328Z"
   }
 ]
