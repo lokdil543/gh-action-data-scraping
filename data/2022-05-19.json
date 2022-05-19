@@ -318,5 +318,13 @@
     "username": "silverduck180",
     "password": "snoop",
     "invokedAt": "2022-05-19T12:12:23.104Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Robinson",
+    "email": "oscar.robinson@example.com",
+    "username": "bigpeacock663",
+    "password": "cobra1",
+    "invokedAt": "2022-05-19T12:55:59.420Z"
   }
 ]
