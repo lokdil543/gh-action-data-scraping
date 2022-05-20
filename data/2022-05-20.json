@@ -22,5 +22,13 @@
     "username": "greengorilla895",
     "password": "redfox",
     "invokedAt": "2022-05-20T03:34:11.030Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Røssland",
+    "email": "nicolas.rossland@example.com",
+    "username": "angrygorilla557",
+    "password": "palmer",
+    "invokedAt": "2022-05-20T04:02:30.236Z"
   }
 ]
