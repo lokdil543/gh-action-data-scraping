@@ -478,5 +478,13 @@
     "username": "orangegorilla470",
     "password": "operator",
     "invokedAt": "2022-05-21T15:11:15.941Z"
+  },
+  {
+    "firstName": "Eemil",
+    "lastName": "Saarinen",
+    "email": "eemil.saarinen@example.com",
+    "username": "whitesnake942",
+    "password": "finder",
+    "invokedAt": "2022-05-21T15:31:46.541Z"
   }
 ]
