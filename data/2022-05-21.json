@@ -590,5 +590,13 @@
     "username": "silverbear988",
     "password": "codered",
     "invokedAt": "2022-05-21T18:36:10.318Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Petersen",
+    "email": "anna.petersen@example.com",
+    "username": "bluewolf508",
+    "password": "duncan",
+    "invokedAt": "2022-05-21T18:50:22.244Z"
   }
 ]
