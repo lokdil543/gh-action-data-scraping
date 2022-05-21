@@ -470,5 +470,13 @@
     "username": "yellowdog284",
     "password": "madrid",
     "invokedAt": "2022-05-21T14:57:08.289Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Sims",
+    "email": "george.sims@example.com",
+    "username": "orangegorilla470",
+    "password": "operator",
+    "invokedAt": "2022-05-21T15:11:15.941Z"
   }
 ]
