@@ -718,5 +718,13 @@
     "username": "happydog385",
     "password": "speedy",
     "invokedAt": "2022-05-21T21:07:14.294Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Lawrence",
+    "email": "jane.lawrence@example.com",
+    "username": "beautifulrabbit119",
+    "password": "shuttle",
+    "invokedAt": "2022-05-21T21:24:52.823Z"
   }
 ]
