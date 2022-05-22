@@ -286,5 +286,13 @@
     "username": "smallfrog437",
     "password": "zoom",
     "invokedAt": "2022-05-22T10:33:55.804Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Edwards",
+    "email": "sebastian.edwards@example.com",
+    "username": "bigmeercat245",
+    "password": "tintin",
+    "invokedAt": "2022-05-22T10:45:22.109Z"
   }
 ]
