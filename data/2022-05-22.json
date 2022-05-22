@@ -782,5 +782,13 @@
     "username": "goldencat391",
     "password": "claudia",
     "invokedAt": "2022-05-22T22:36:46.450Z"
+  },
+  {
+    "firstName": "Archie",
+    "lastName": "Davies",
+    "email": "archie.davies@example.com",
+    "username": "ticklishcat414",
+    "password": "pirates",
+    "invokedAt": "2022-05-22T22:45:09.668Z"
   }
 ]
