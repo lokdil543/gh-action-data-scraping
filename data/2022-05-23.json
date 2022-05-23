@@ -494,5 +494,13 @@
     "username": "lazypanda501",
     "password": "charisma",
     "invokedAt": "2022-05-23T18:51:49.244Z"
+  },
+  {
+    "firstName": "Harley",
+    "lastName": "Smith",
+    "email": "harley.smith@example.com",
+    "username": "silverrabbit889",
+    "password": "megapass",
+    "invokedAt": "2022-05-23T18:58:47.322Z"
   }
 ]
