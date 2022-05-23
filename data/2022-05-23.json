@@ -166,5 +166,13 @@
     "username": "whitefrog832",
     "password": "bacchus",
     "invokedAt": "2022-05-23T08:52:10.168Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Newman",
+    "email": "dave.newman@example.com",
+    "username": "heavyelephant848",
+    "password": "ncc1701e",
+    "invokedAt": "2022-05-23T08:58:13.717Z"
   }
 ]
