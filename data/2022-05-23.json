@@ -518,5 +518,13 @@
     "username": "saddog536",
     "password": "dupont",
     "invokedAt": "2022-05-23T19:24:37.818Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Thomsen",
+    "email": "clara.thomsen@example.com",
+    "username": "redfish731",
+    "password": "cola",
+    "invokedAt": "2022-05-23T19:31:13.166Z"
   }
 ]
