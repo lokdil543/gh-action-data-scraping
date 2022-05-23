@@ -662,5 +662,13 @@
     "username": "lazyzebra321",
     "password": "river",
     "invokedAt": "2022-05-23T22:30:43.670Z"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Stanley",
+    "email": "seth.stanley@example.com",
+    "username": "blackfrog431",
+    "password": "roscoe",
+    "invokedAt": "2022-05-23T22:43:33.672Z"
   }
 ]
