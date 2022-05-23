@@ -86,5 +86,13 @@
     "username": "heavylion946",
     "password": "othello",
     "invokedAt": "2022-05-23T06:17:17.712Z"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Smith",
+    "email": "troy.smith@example.com",
+    "username": "angrylion601",
+    "password": "destiny",
+    "invokedAt": "2022-05-23T06:45:13.235Z"
   }
 ]
