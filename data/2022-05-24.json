@@ -406,5 +406,13 @@
     "username": "crazyfrog142",
     "password": "plane",
     "invokedAt": "2022-05-24T15:48:35.669Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Johansen",
+    "email": "lea.johansen@example.com",
+    "username": "whitepanda654",
+    "password": "getsome",
+    "invokedAt": "2022-05-24T15:55:35.840Z"
   }
 ]
