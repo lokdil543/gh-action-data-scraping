@@ -350,5 +350,13 @@
     "username": "orangefish930",
     "password": "freeway",
     "invokedAt": "2022-05-24T14:11:15.261Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Hamalainen",
+    "email": "toivo.hamalainen@example.com",
+    "username": "lazyfish332",
+    "password": "test2",
+    "invokedAt": "2022-05-24T14:28:28.858Z"
   }
 ]
