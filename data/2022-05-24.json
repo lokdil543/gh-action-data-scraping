@@ -678,5 +678,13 @@
     "username": "happyleopard232",
     "password": "vincent1",
     "invokedAt": "2022-05-24T23:08:03.528Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "King",
+    "email": "nathan.king@example.com",
+    "username": "purplebutterfly142",
+    "password": "oblivion",
+    "invokedAt": "2022-05-24T23:27:43.208Z"
   }
 ]
