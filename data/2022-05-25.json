@@ -574,5 +574,13 @@
     "username": "lazymeercat896",
     "password": "dream",
     "invokedAt": "2022-05-25T20:29:58.504Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Petersen",
+    "email": "emily.petersen@example.com",
+    "username": "angrymouse432",
+    "password": "cats",
+    "invokedAt": "2022-05-25T20:41:46.312Z"
   }
 ]
