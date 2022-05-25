@@ -334,5 +334,13 @@
     "username": "smallduck287",
     "password": "pippo",
     "invokedAt": "2022-05-25T13:01:57.314Z"
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Miles",
+    "email": "nick.miles@example.com",
+    "username": "browntiger175",
+    "password": "morpheus",
+    "invokedAt": "2022-05-25T13:46:53.303Z"
   }
 ]
