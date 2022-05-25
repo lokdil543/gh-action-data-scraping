@@ -54,5 +54,13 @@
     "username": "sadtiger544",
     "password": "sapphire",
     "invokedAt": "2022-05-25T05:30:49.225Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Ford",
+    "email": "ryan.ford@example.com",
+    "username": "crazyduck315",
+    "password": "blanked",
+    "invokedAt": "2022-05-25T05:42:41.091Z"
   }
 ]
