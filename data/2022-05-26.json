@@ -550,5 +550,13 @@
     "username": "blackbutterfly816",
     "password": "robert",
     "invokedAt": "2022-05-26T19:39:38.218Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Edwards",
+    "email": "lucy.edwards@example.com",
+    "username": "lazylion945",
+    "password": "blizzard",
+    "invokedAt": "2022-05-26T19:45:26.980Z"
   }
 ]
