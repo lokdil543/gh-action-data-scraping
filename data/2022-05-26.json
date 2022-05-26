@@ -590,5 +590,13 @@
     "username": "sadmeercat376",
     "password": "kajak",
     "invokedAt": "2022-05-26T20:33:19.799Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Day",
+    "email": "ben.day@example.com",
+    "username": "sadpanda145",
+    "password": "reaper",
+    "invokedAt": "2022-05-26T20:45:33.139Z"
   }
 ]
