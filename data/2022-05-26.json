@@ -414,5 +414,13 @@
     "username": "happydog291",
     "password": "select",
     "invokedAt": "2022-05-26T15:14:36.085Z"
+  },
+  {
+    "firstName": "Marjolijn",
+    "lastName": "Hettema",
+    "email": "marjolijn.hettema@example.com",
+    "username": "silvergoose580",
+    "password": "yankees1",
+    "invokedAt": "2022-05-26T15:37:20.358Z"
   }
 ]
