@@ -182,5 +182,13 @@
     "username": "silverduck426",
     "password": "boxers",
     "invokedAt": "2022-05-27T09:15:38.267Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "da Cruz",
+    "email": "alex.dacruz@example.com",
+    "username": "happybird758",
+    "password": "puppies",
+    "invokedAt": "2022-05-27T09:33:06.779Z"
   }
 ]
