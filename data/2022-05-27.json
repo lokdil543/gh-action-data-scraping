@@ -406,5 +406,13 @@
     "username": "tinyelephant819",
     "password": "stocking",
     "invokedAt": "2022-05-27T15:48:07.326Z"
+  },
+  {
+    "firstName": "Hjalmar",
+    "lastName": "Kåsa",
+    "email": "hjalmar.kasa@example.com",
+    "username": "lazydog125",
+    "password": "bunker",
+    "invokedAt": "2022-05-27T15:55:12.510Z"
   }
 ]
