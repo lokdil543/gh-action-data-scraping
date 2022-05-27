@@ -710,5 +710,13 @@
     "username": "tinykoala693",
     "password": "astro",
     "invokedAt": "2022-05-27T23:37:59.203Z"
+  },
+  {
+    "firstName": "Magda",
+    "lastName": "Duarte",
+    "email": "magda.duarte@example.com",
+    "username": "heavyduck233",
+    "password": "longer",
+    "invokedAt": "2022-05-27T23:46:34.685Z"
   }
 ]
