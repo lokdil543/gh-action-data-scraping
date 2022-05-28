@@ -606,5 +606,13 @@
     "username": "brownbear416",
     "password": "88888888",
     "invokedAt": "2022-05-28T19:22:16.330Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Steward",
+    "email": "jerry.steward@example.com",
+    "username": "redbear669",
+    "password": "sponge",
+    "invokedAt": "2022-05-28T19:30:34.013Z"
   }
 ]
