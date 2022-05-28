@@ -678,5 +678,13 @@
     "username": "whiterabbit320",
     "password": "blake",
     "invokedAt": "2022-05-28T20:49:06.235Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Jensen",
+    "email": "tristan.jensen@example.com",
+    "username": "blackfish416",
+    "password": "backdoor",
+    "invokedAt": "2022-05-28T20:55:00.621Z"
   }
 ]
