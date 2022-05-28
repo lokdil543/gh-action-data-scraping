@@ -542,5 +542,13 @@
     "username": "orangeladybug401",
     "password": "bogus",
     "invokedAt": "2022-05-28T17:45:29.522Z"
+  },
+  {
+    "firstName": "Thor",
+    "lastName": "Grootenboer",
+    "email": "thor.grootenboer@example.com",
+    "username": "organicladybug637",
+    "password": "justme",
+    "invokedAt": "2022-05-28T17:51:21.573Z"
   }
 ]
