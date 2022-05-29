@@ -230,5 +230,13 @@
     "username": "saddog111",
     "password": "nissan",
     "invokedAt": "2022-05-29T09:49:18.790Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Kumar",
+    "email": "finn.kumar@example.com",
+    "username": "sadladybug189",
+    "password": "summer1",
+    "invokedAt": "2022-05-29T09:55:01.188Z"
   }
 ]
