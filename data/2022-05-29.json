@@ -350,5 +350,13 @@
     "username": "whiteelephant143",
     "password": "elephant",
     "invokedAt": "2022-05-29T12:52:35.147Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Madsen",
+    "email": "malou.madsen@example.com",
+    "username": "heavyelephant199",
+    "password": "ncc74656",
+    "invokedAt": "2022-05-29T13:17:25.822Z"
   }
 ]
