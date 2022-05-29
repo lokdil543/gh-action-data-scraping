@@ -214,5 +214,13 @@
     "username": "crazywolf639",
     "password": "greenday",
     "invokedAt": "2022-05-29T09:29:30.346Z"
+  },
+  {
+    "firstName": "Jordi",
+    "lastName": "Gimenez",
+    "email": "jordi.gimenez@example.com",
+    "username": "bigbear228",
+    "password": "maximus",
+    "invokedAt": "2022-05-29T09:41:22.227Z"
   }
 ]
