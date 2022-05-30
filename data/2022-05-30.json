@@ -526,5 +526,13 @@
     "username": "redfrog602",
     "password": "dope",
     "invokedAt": "2022-05-30T19:48:42.362Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Burke",
+    "email": "walter.burke@example.com",
+    "username": "tinyladybug411",
+    "password": "compact",
+    "invokedAt": "2022-05-30T19:54:37.703Z"
   }
 ]
