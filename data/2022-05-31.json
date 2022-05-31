@@ -398,5 +398,13 @@
     "username": "sadcat112",
     "password": "oranges",
     "invokedAt": "2022-05-31T15:23:29.650Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Kasapoğlu",
+    "email": "emre.kasapoglu@example.com",
+    "username": "smallbird850",
+    "password": "sauron",
+    "invokedAt": "2022-05-31T15:43:27.946Z"
   }
 ]
