@@ -390,5 +390,13 @@
     "username": "greentiger132",
     "password": "wallet",
     "invokedAt": "2022-05-31T15:00:17.917Z"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Sanchez",
+    "email": "malik.sanchez@example.com",
+    "username": "sadcat112",
+    "password": "oranges",
+    "invokedAt": "2022-05-31T15:23:29.650Z"
   }
 ]
