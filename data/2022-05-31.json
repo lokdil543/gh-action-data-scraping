@@ -454,5 +454,13 @@
     "username": "orangebird363",
     "password": "magpie",
     "invokedAt": "2022-05-31T17:54:14.948Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Petersen",
+    "email": "sander.petersen@example.com",
+    "username": "greenmouse115",
+    "password": "hustler",
+    "invokedAt": "2022-05-31T17:59:59.786Z"
   }
 ]
