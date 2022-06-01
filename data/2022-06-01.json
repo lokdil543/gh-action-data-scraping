@@ -494,5 +494,13 @@
     "username": "whitedog586",
     "password": "homer",
     "invokedAt": "2022-06-01T21:17:29.444Z"
+  },
+  {
+    "firstName": "Adalberto",
+    "lastName": "Viana",
+    "email": "adalberto.viana@example.com",
+    "username": "crazytiger755",
+    "password": "cancel",
+    "invokedAt": "2022-06-01T21:33:05.645Z"
   }
 ]
