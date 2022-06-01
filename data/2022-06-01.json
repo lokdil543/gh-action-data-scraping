@@ -486,5 +486,13 @@
     "username": "smalldog262",
     "password": "clipper",
     "invokedAt": "2022-06-01T21:00:05.244Z"
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Griebel",
+    "email": "bogdan.griebel@example.com",
+    "username": "whitedog586",
+    "password": "homer",
+    "invokedAt": "2022-06-01T21:17:29.444Z"
   }
 ]
