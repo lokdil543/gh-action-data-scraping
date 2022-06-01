@@ -582,5 +582,13 @@
     "username": "redostrich109",
     "password": "shopper",
     "invokedAt": "2022-06-01T23:31:33.255Z"
+  },
+  {
+    "firstName": "Lola",
+    "lastName": "Gautier",
+    "email": "lola.gautier@example.com",
+    "username": "beautifulpanda223",
+    "password": "line",
+    "invokedAt": "2022-06-01T23:44:25.164Z"
   }
 ]
