@@ -158,5 +158,13 @@
     "username": "lazyfrog573",
     "password": "kirby",
     "invokedAt": "2022-06-01T10:19:00.215Z"
+  },
+  {
+    "firstName": "Sébastien",
+    "lastName": "De La Rie",
+    "email": "sebastien.delarie@example.com",
+    "username": "sadtiger318",
+    "password": "excite",
+    "invokedAt": "2022-06-01T10:42:48.982Z"
   }
 ]
