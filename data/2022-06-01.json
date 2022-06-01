@@ -166,5 +166,13 @@
     "username": "sadtiger318",
     "password": "excite",
     "invokedAt": "2022-06-01T10:42:48.982Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Anderson",
+    "email": "daniel.anderson@example.com",
+    "username": "redpanda844",
+    "password": "mets",
+    "invokedAt": "2022-06-01T10:54:26.646Z"
   }
 ]
