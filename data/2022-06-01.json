@@ -446,5 +446,13 @@
     "username": "brownlion493",
     "password": "jackjack",
     "invokedAt": "2022-06-01T19:59:52.668Z"
+  },
+  {
+    "firstName": "Ray",
+    "lastName": "Hoffman",
+    "email": "ray.hoffman@example.com",
+    "username": "smallcat581",
+    "password": "lookout",
+    "invokedAt": "2022-06-01T20:19:59.276Z"
   }
 ]
