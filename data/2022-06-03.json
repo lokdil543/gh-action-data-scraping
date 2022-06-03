@@ -254,5 +254,13 @@
     "username": "silverbutterfly308",
     "password": "motor",
     "invokedAt": "2022-06-03T08:56:56.374Z"
+  },
+  {
+    "firstName": "Joris",
+    "lastName": "Bertrand",
+    "email": "joris.bertrand@example.com",
+    "username": "organicgorilla926",
+    "password": "abcdef",
+    "invokedAt": "2022-06-03T09:11:00.780Z"
   }
 ]
