@@ -358,5 +358,13 @@
     "username": "bigpeacock107",
     "password": "stealth",
     "invokedAt": "2022-06-03T11:22:29.817Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Pena",
+    "email": "joe.pena@example.com",
+    "username": "greencat979",
+    "password": "legolas",
+    "invokedAt": "2022-06-03T11:29:41.226Z"
   }
 ]
