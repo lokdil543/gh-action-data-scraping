@@ -598,5 +598,13 @@
     "username": "greenfrog121",
     "password": "clemson",
     "invokedAt": "2022-06-03T17:41:02.065Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Lopez",
+    "email": "ana.lopez@example.com",
+    "username": "ticklishbird210",
+    "password": "winona",
+    "invokedAt": "2022-06-03T17:47:07.844Z"
   }
 ]
