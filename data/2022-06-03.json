@@ -678,5 +678,13 @@
     "username": "tinyfrog288",
     "password": "stellar",
     "invokedAt": "2022-06-03T19:24:47.983Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Thomas",
+    "email": "lily.thomas@example.com",
+    "username": "greenduck634",
+    "password": "jumper",
+    "invokedAt": "2022-06-03T19:30:47.948Z"
   }
 ]
