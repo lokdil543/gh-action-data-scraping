@@ -382,5 +382,13 @@
     "username": "heavyswan440",
     "password": "apple123",
     "invokedAt": "2022-06-03T11:41:56.600Z"
+  },
+  {
+    "firstName": "Jakub",
+    "lastName": "Mohn",
+    "email": "jakub.mohn@example.com",
+    "username": "greendog510",
+    "password": "taichi",
+    "invokedAt": "2022-06-03T11:47:55.991Z"
   }
 ]
