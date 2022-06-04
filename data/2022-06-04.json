@@ -710,5 +710,13 @@
     "username": "bigleopard891",
     "password": "chestnut",
     "invokedAt": "2022-06-04T18:30:34.146Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Bravo",
+    "email": "anna.bravo@example.com",
+    "username": "orangebear725",
+    "password": "splinter",
+    "invokedAt": "2022-06-04T18:42:48.931Z"
   }
 ]
