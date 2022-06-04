@@ -718,5 +718,13 @@
     "username": "orangebear725",
     "password": "splinter",
     "invokedAt": "2022-06-04T18:42:48.931Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Mitchell",
+    "email": "hudson.mitchell@example.com",
+    "username": "blueladybug893",
+    "password": "hedgehog",
+    "invokedAt": "2022-06-04T18:49:48.736Z"
   }
 ]
