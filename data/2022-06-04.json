@@ -654,5 +654,13 @@
     "username": "blacktiger180",
     "password": "yuan",
     "invokedAt": "2022-06-04T17:24:00.676Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Miles",
+    "email": "david.miles@example.com",
+    "username": "lazycat597",
+    "password": "tester",
+    "invokedAt": "2022-06-04T17:32:06.676Z"
   }
 ]
