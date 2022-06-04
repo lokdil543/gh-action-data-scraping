@@ -998,5 +998,13 @@
     "username": "happysnake970",
     "password": "doggies",
     "invokedAt": "2022-06-04T23:45:14.994Z"
+  },
+  {
+    "firstName": "Gaëtan",
+    "lastName": "Arnaud",
+    "email": "gaetan.arnaud@example.com",
+    "username": "smallswan936",
+    "password": "color",
+    "invokedAt": "2022-06-04T23:51:09.914Z"
   }
 ]
