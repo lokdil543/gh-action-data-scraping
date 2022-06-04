@@ -582,5 +582,13 @@
     "username": "redduck761",
     "password": "furball",
     "invokedAt": "2022-06-04T15:30:34.773Z"
+  },
+  {
+    "firstName": "Dawn",
+    "lastName": "Burton",
+    "email": "dawn.burton@example.com",
+    "username": "angrydog168",
+    "password": "dabomb",
+    "invokedAt": "2022-06-04T15:40:41.658Z"
   }
 ]
