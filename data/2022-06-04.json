@@ -518,5 +518,13 @@
     "username": "greenbear443",
     "password": "reebok",
     "invokedAt": "2022-06-04T14:23:18.488Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Walker",
+    "email": "leo.walker@example.com",
+    "username": "greenzebra800",
+    "password": "kenwood",
+    "invokedAt": "2022-06-04T14:29:59.425Z"
   }
 ]
