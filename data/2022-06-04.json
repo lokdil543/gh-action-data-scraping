@@ -294,5 +294,13 @@
     "username": "organicbear801",
     "password": "shell",
     "invokedAt": "2022-06-04T09:33:33.275Z"
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Wright",
+    "email": "peyton.wright@example.com",
+    "username": "bigzebra934",
+    "password": "pacman",
+    "invokedAt": "2022-06-04T09:41:21.280Z"
   }
 ]
