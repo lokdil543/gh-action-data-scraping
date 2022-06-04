@@ -966,5 +966,13 @@
     "username": "bigkoala617",
     "password": "eggplant",
     "invokedAt": "2022-06-04T23:00:34.222Z"
+  },
+  {
+    "firstName": "Viivi",
+    "lastName": "Kuusisto",
+    "email": "viivi.kuusisto@example.com",
+    "username": "bluemouse979",
+    "password": "keywest",
+    "invokedAt": "2022-06-04T23:17:50.423Z"
   }
 ]
