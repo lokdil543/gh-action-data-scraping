@@ -510,5 +510,13 @@
     "username": "orangefrog483",
     "password": "tartar",
     "invokedAt": "2022-06-04T14:10:10.690Z"
+  },
+  {
+    "firstName": "Lumi",
+    "lastName": "Seppala",
+    "email": "lumi.seppala@example.com",
+    "username": "greenbear443",
+    "password": "reebok",
+    "invokedAt": "2022-06-04T14:23:18.488Z"
   }
 ]
