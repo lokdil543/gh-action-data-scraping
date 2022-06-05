@@ -734,5 +734,13 @@
     "username": "bigfish427",
     "password": "idefix",
     "invokedAt": "2022-06-05T19:21:19.944Z"
+  },
+  {
+    "firstName": "Petter",
+    "lastName": "Teige",
+    "email": "petter.teige@example.com",
+    "username": "crazygorilla951",
+    "password": "wert",
+    "invokedAt": "2022-06-05T19:28:07.675Z"
   }
 ]
