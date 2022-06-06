@@ -166,5 +166,13 @@
     "username": "yellowwolf669",
     "password": "tiburon",
     "invokedAt": "2022-06-06T07:45:42.625Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Kauppila",
+    "email": "rasmus.kauppila@example.com",
+    "username": "greenduck561",
+    "password": "megapass",
+    "invokedAt": "2022-06-06T07:51:41.159Z"
   }
 ]
