@@ -470,5 +470,13 @@
     "username": "happylion120",
     "password": "patience",
     "invokedAt": "2022-06-07T15:21:24.395Z"
+  },
+  {
+    "firstName": "Åse",
+    "lastName": "Eriksson",
+    "email": "ase.eriksson@example.com",
+    "username": "angrycat887",
+    "password": "preacher",
+    "invokedAt": "2022-06-07T15:37:58.455Z"
   }
 ]
