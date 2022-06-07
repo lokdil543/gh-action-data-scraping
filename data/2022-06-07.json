@@ -702,5 +702,13 @@
     "username": "redtiger935",
     "password": "elvis1",
     "invokedAt": "2022-06-07T20:59:34.292Z"
+  },
+  {
+    "firstName": "Tord",
+    "lastName": "Hornnes",
+    "email": "tord.hornnes@example.com",
+    "username": "greenostrich514",
+    "password": "cherokee",
+    "invokedAt": "2022-06-07T21:14:09.893Z"
   }
 ]
