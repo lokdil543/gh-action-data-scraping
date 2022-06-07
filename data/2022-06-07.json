@@ -798,5 +798,13 @@
     "username": "purplefrog510",
     "password": "freepass",
     "invokedAt": "2022-06-07T22:52:33.728Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Thomas",
+    "email": "abigail.thomas@example.com",
+    "username": "heavybutterfly240",
+    "password": "company",
+    "invokedAt": "2022-06-07T22:58:23.726Z"
   }
 ]
