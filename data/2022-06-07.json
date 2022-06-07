@@ -150,5 +150,13 @@
     "username": "blackswan981",
     "password": "playoffs",
     "invokedAt": "2022-06-07T07:17:41.463Z"
+  },
+  {
+    "firstName": "Enzo",
+    "lastName": "Denis",
+    "email": "enzo.denis@example.com",
+    "username": "orangecat176",
+    "password": "mongoose",
+    "invokedAt": "2022-06-07T07:27:48.123Z"
   }
 ]
