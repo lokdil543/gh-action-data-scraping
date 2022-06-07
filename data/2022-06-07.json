@@ -790,5 +790,13 @@
     "username": "smallfrog452",
     "password": "samm",
     "invokedAt": "2022-06-07T22:46:32.448Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Niva",
+    "email": "lauri.niva@example.com",
+    "username": "purplefrog510",
+    "password": "freepass",
+    "invokedAt": "2022-06-07T22:52:33.728Z"
   }
 ]
