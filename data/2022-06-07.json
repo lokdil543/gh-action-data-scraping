@@ -238,5 +238,13 @@
     "username": "purpleswan780",
     "password": "90210",
     "invokedAt": "2022-06-07T09:16:34.371Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Wagner",
+    "email": "amanda.wagner@example.com",
+    "username": "bluewolf543",
+    "password": "norway",
+    "invokedAt": "2022-06-07T09:33:40.248Z"
   }
 ]
