@@ -638,5 +638,13 @@
     "username": "orangekoala593",
     "password": "amanda",
     "invokedAt": "2022-06-08T19:41:56.236Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Jørgensen",
+    "email": "sander.jorgensen@example.com",
+    "username": "greencat207",
+    "password": "rrpass1",
+    "invokedAt": "2022-06-08T19:47:53.486Z"
   }
 ]
