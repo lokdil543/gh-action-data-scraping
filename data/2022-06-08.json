@@ -614,5 +614,13 @@
     "username": "brownwolf638",
     "password": "park",
     "invokedAt": "2022-06-08T19:23:44.280Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Hanson",
+    "email": "noah.hanson@example.com",
+    "username": "lazywolf981",
+    "password": "radio",
+    "invokedAt": "2022-06-08T19:29:36.830Z"
   }
 ]
