@@ -294,5 +294,13 @@
     "username": "crazygoose274",
     "password": "bing",
     "invokedAt": "2022-06-09T10:47:53.008Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Andersen",
+    "email": "christoffer.andersen@example.com",
+    "username": "orangefrog553",
+    "password": "someone",
+    "invokedAt": "2022-06-09T10:53:39.941Z"
   }
 ]
