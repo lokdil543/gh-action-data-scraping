@@ -654,5 +654,13 @@
     "username": "orangepanda147",
     "password": "phillies",
     "invokedAt": "2022-06-09T19:51:28.631Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Stanley",
+    "email": "neil.stanley@example.com",
+    "username": "lazyfrog619",
+    "password": "zulu",
+    "invokedAt": "2022-06-09T19:57:19.529Z"
   }
 ]
