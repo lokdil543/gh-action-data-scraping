@@ -238,5 +238,13 @@
     "username": "whitepeacock980",
     "password": "boeing",
     "invokedAt": "2022-06-09T09:33:03.665Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Fabre",
+    "email": "oscar.fabre@example.com",
+    "username": "happymeercat520",
+    "password": "enforcer",
+    "invokedAt": "2022-06-09T09:42:34.201Z"
   }
 ]
