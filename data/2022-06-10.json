@@ -574,5 +574,13 @@
     "username": "redfrog937",
     "password": "grant",
     "invokedAt": "2022-06-10T17:53:41.163Z"
+  },
+  {
+    "firstName": "Devon",
+    "lastName": "Richards",
+    "email": "devon.richards@example.com",
+    "username": "tinymeercat201",
+    "password": "forever",
+    "invokedAt": "2022-06-10T17:59:36.294Z"
   }
 ]
