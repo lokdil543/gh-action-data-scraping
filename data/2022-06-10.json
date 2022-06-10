@@ -766,5 +766,13 @@
     "username": "silverbear898",
     "password": "graphics",
     "invokedAt": "2022-06-10T21:45:09.999Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Snyder",
+    "email": "bradley.snyder@example.com",
+    "username": "brownbird344",
+    "password": "reddwarf",
+    "invokedAt": "2022-06-10T21:50:58.186Z"
   }
 ]
