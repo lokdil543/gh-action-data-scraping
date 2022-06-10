@@ -342,5 +342,13 @@
     "username": "redpanda302",
     "password": "reilly",
     "invokedAt": "2022-06-10T11:23:23.341Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Li",
+    "email": "zoe.li@example.com",
+    "username": "yellowgorilla651",
+    "password": "laguna",
+    "invokedAt": "2022-06-10T11:32:12.851Z"
   }
 ]
