@@ -606,5 +606,13 @@
     "username": "whitedog746",
     "password": "sailing",
     "invokedAt": "2022-06-10T18:53:51.778Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Knight",
+    "email": "matthew.knight@example.com",
+    "username": "happyfrog402",
+    "password": "mistress",
+    "invokedAt": "2022-06-10T18:59:30.399Z"
   }
 ]
