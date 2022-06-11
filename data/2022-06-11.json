@@ -494,5 +494,13 @@
     "username": "bigsnake804",
     "password": "bullet",
     "invokedAt": "2022-06-11T14:15:03.404Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Jensen",
+    "email": "nanna.jensen@example.com",
+    "username": "redsnake751",
+    "password": "pistons",
+    "invokedAt": "2022-06-11T14:27:00.095Z"
   }
 ]
