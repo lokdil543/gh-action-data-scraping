@@ -62,5 +62,13 @@
     "username": "orangelion187",
     "password": "puppet",
     "invokedAt": "2022-06-11T05:00:46.417Z"
+  },
+  {
+    "firstName": "Hananja",
+    "lastName": "Geerling",
+    "email": "hananja.geerling@example.com",
+    "username": "tinybird230",
+    "password": "jingle",
+    "invokedAt": "2022-06-11T05:16:22.470Z"
   }
 ]
