@@ -374,5 +374,13 @@
     "username": "sadmouse759",
     "password": "vegas",
     "invokedAt": "2022-06-11T11:23:27.732Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Cooper",
+    "email": "caleb.cooper@example.com",
+    "username": "happyfish374",
+    "password": "death",
+    "invokedAt": "2022-06-11T11:29:42.994Z"
   }
 ]
