@@ -318,5 +318,13 @@
     "username": "blackbutterfly208",
     "password": "batman",
     "invokedAt": "2022-06-11T10:14:06.121Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Leon",
+    "email": "jonathan.leon@example.com",
+    "username": "lazytiger526",
+    "password": "sergeant",
+    "invokedAt": "2022-06-11T10:31:00.965Z"
   }
 ]
