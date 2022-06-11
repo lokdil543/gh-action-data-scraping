@@ -470,5 +470,13 @@
     "username": "redpanda278",
     "password": "alfa",
     "invokedAt": "2022-06-11T13:48:27.891Z"
+  },
+  {
+    "firstName": "Matthieu",
+    "lastName": "Masson",
+    "email": "matthieu.masson@example.com",
+    "username": "redbutterfly406",
+    "password": "viper1",
+    "invokedAt": "2022-06-11T13:54:14.456Z"
   }
 ]
