@@ -758,5 +758,13 @@
     "username": "whitebear183",
     "password": "revoluti",
     "invokedAt": "2022-06-11T19:45:41.340Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Poulsen",
+    "email": "simon.poulsen@example.com",
+    "username": "redkoala430",
+    "password": "misery",
+    "invokedAt": "2022-06-11T19:51:45.288Z"
   }
 ]
