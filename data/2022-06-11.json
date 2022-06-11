@@ -182,5 +182,13 @@
     "username": "heavyswan323",
     "password": "weather",
     "invokedAt": "2022-06-11T07:34:24.478Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Lampinen",
+    "email": "vilho.lampinen@example.com",
+    "username": "smallswan273",
+    "password": "this",
+    "invokedAt": "2022-06-11T07:40:12.112Z"
   }
 ]
