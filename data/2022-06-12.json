@@ -422,5 +422,13 @@
     "username": "brownmouse497",
     "password": "dogs",
     "invokedAt": "2022-06-12T12:00:02.319Z"
+  },
+  {
+    "firstName": "Teja",
+    "lastName": "Vestli",
+    "email": "teja.vestli@example.com",
+    "username": "angryostrich385",
+    "password": "maxwell",
+    "invokedAt": "2022-06-12T12:27:32.628Z"
   }
 ]
