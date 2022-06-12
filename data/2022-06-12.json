@@ -678,5 +678,13 @@
     "username": "silvergorilla430",
     "password": "anarchy",
     "invokedAt": "2022-06-12T18:12:53.498Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Ramos",
+    "email": "dennis.ramos@example.com",
+    "username": "bigfish407",
+    "password": "yoyoma",
+    "invokedAt": "2022-06-12T18:32:32.197Z"
   }
 ]
