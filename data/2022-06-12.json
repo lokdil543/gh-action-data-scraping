@@ -438,5 +438,13 @@
     "username": "crazygorilla955",
     "password": "having",
     "invokedAt": "2022-06-12T12:55:21.435Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Topçuoğlu",
+    "email": "kenan.topcuoglu@example.com",
+    "username": "orangefish562",
+    "password": "1000",
+    "invokedAt": "2022-06-12T13:14:24.434Z"
   }
 ]
