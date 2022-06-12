@@ -558,5 +558,13 @@
     "username": "sadduck783",
     "password": "madrid",
     "invokedAt": "2022-06-12T15:26:42.480Z"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Hernandez",
+    "email": "lorenzo.hernandez@example.com",
+    "username": "blackbear100",
+    "password": "tarzan",
+    "invokedAt": "2022-06-12T15:37:25.140Z"
   }
 ]
