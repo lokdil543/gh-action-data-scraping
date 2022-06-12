@@ -966,5 +966,13 @@
     "username": "orangepanda227",
     "password": "around",
     "invokedAt": "2022-06-12T23:43:11.636Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Bergeron",
+    "email": "vincent.bergeron@example.com",
+    "username": "silverswan802",
+    "password": "blink",
+    "invokedAt": "2022-06-12T23:49:11.823Z"
   }
 ]
