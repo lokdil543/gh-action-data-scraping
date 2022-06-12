@@ -358,5 +358,13 @@
     "username": "lazyleopard617",
     "password": "island",
     "invokedAt": "2022-06-12T10:59:40.624Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Le Gall",
+    "email": "guillaume.legall@example.com",
+    "username": "happyladybug924",
+    "password": "titi",
+    "invokedAt": "2022-06-12T11:12:43.571Z"
   }
 ]
