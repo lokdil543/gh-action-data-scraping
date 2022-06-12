@@ -790,5 +790,13 @@
     "username": "greentiger109",
     "password": "enter",
     "invokedAt": "2022-06-12T20:30:02.856Z"
+  },
+  {
+    "firstName": "Greta",
+    "lastName": "Holmefjord",
+    "email": "greta.holmefjord@example.com",
+    "username": "lazytiger185",
+    "password": "dodgeram",
+    "invokedAt": "2022-06-12T20:39:03.943Z"
   }
 ]
