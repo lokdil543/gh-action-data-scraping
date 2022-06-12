@@ -574,5 +574,13 @@
     "username": "purplefrog222",
     "password": "trouble",
     "invokedAt": "2022-06-12T15:45:34.346Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Russell",
+    "email": "walter.russell@example.com",
+    "username": "sadmouse403",
+    "password": "fullback",
+    "invokedAt": "2022-06-12T15:51:27.723Z"
   }
 ]
