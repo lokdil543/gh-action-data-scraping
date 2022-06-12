@@ -870,5 +870,13 @@
     "username": "whitewolf396",
     "password": "active",
     "invokedAt": "2022-06-12T21:49:25.987Z"
+  },
+  {
+    "firstName": "Peetu",
+    "lastName": "Kumpula",
+    "email": "peetu.kumpula@example.com",
+    "username": "redgorilla813",
+    "password": "farmer",
+    "invokedAt": "2022-06-12T21:55:15.194Z"
   }
 ]
