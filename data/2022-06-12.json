@@ -310,5 +310,13 @@
     "username": "brownrabbit561",
     "password": "cubswin",
     "invokedAt": "2022-06-12T10:00:15.339Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Larsen",
+    "email": "anton.larsen@example.com",
+    "username": "crazybear148",
+    "password": "bigdog1",
+    "invokedAt": "2022-06-12T10:17:58.302Z"
   }
 ]
