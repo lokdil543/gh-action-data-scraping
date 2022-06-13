@@ -558,5 +558,13 @@
     "username": "blueswan241",
     "password": "waterloo",
     "invokedAt": "2022-06-13T19:28:16.060Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Clarke",
+    "email": "oliver.clarke@example.com",
+    "username": "tinytiger372",
+    "password": "wetter",
+    "invokedAt": "2022-06-13T19:36:00.532Z"
   }
 ]
