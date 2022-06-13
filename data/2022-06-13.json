@@ -366,5 +366,13 @@
     "username": "sadbird490",
     "password": "garage",
     "invokedAt": "2022-06-13T13:39:00.722Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Jenkins",
+    "email": "george.jenkins@example.com",
+    "username": "organicpanda964",
+    "password": "slipknot",
+    "invokedAt": "2022-06-13T13:55:34.191Z"
   }
 ]
