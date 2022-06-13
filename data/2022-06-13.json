@@ -782,5 +782,13 @@
     "username": "sadrabbit813",
     "password": "vortex",
     "invokedAt": "2022-06-13T23:51:42.356Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Suomi",
+    "email": "leevi.suomi@example.com",
+    "username": "lazybird100",
+    "password": "keystone",
+    "invokedAt": "2022-06-13T23:57:43.300Z"
   }
 ]
