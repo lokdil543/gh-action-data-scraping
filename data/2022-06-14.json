@@ -718,5 +718,13 @@
     "username": "smallbutterfly589",
     "password": "stolen",
     "invokedAt": "2022-06-14T22:12:26.870Z"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Mills",
+    "email": "rick.mills@example.com",
+    "username": "lazyzebra772",
+    "password": "tanner",
+    "invokedAt": "2022-06-14T22:27:21.415Z"
   }
 ]
