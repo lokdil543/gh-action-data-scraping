@@ -78,5 +78,13 @@
     "username": "yellowdog318",
     "password": "beatles",
     "invokedAt": "2022-06-14T06:52:52.284Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Rose",
+    "email": "antonio.rose@example.com",
+    "username": "bluetiger949",
+    "password": "vortex",
+    "invokedAt": "2022-06-14T06:58:47.534Z"
   }
 ]
