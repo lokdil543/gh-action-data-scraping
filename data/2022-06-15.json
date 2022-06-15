@@ -550,5 +550,13 @@
     "username": "greenleopard608",
     "password": "compaq",
     "invokedAt": "2022-06-15T18:33:20.501Z"
+  },
+  {
+    "firstName": "Erkan",
+    "lastName": "Van der Tol",
+    "email": "erkan.vandertol@example.com",
+    "username": "bigfrog925",
+    "password": "dog123",
+    "invokedAt": "2022-06-15T18:48:54.273Z"
   }
 ]
