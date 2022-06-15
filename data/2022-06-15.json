@@ -294,5 +294,13 @@
     "username": "angryzebra492",
     "password": "bigcat",
     "invokedAt": "2022-06-15T11:12:19.861Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Jones",
+    "email": "finn.jones@example.com",
+    "username": "beautifulfish227",
+    "password": "heyyou",
+    "invokedAt": "2022-06-15T11:27:28.610Z"
   }
 ]
