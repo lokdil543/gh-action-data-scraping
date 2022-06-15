@@ -646,5 +646,13 @@
     "username": "greenelephant403",
     "password": "chevrolet",
     "invokedAt": "2022-06-15T20:33:40.519Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Fields",
+    "email": "claude.fields@example.com",
+    "username": "ticklishwolf149",
+    "password": "eastwood",
+    "invokedAt": "2022-06-15T20:44:21.003Z"
   }
 ]
