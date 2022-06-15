@@ -566,5 +566,13 @@
     "username": "beautifulbird103",
     "password": "brian",
     "invokedAt": "2022-06-15T18:56:02.083Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Santiago",
+    "email": "ana.santiago@example.com",
+    "username": "greenbear810",
+    "password": "toolbox",
+    "invokedAt": "2022-06-15T19:07:27.308Z"
   }
 ]
