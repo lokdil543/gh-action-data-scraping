@@ -246,5 +246,13 @@
     "username": "blueduck150",
     "password": "store",
     "invokedAt": "2022-06-15T09:58:37.470Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Martin",
+    "email": "amelia.martin@example.com",
+    "username": "bigostrich750",
+    "password": "goaway",
+    "invokedAt": "2022-06-15T10:15:21.692Z"
   }
 ]
