@@ -374,5 +374,13 @@
     "username": "purplefrog676",
     "password": "adult",
     "invokedAt": "2022-06-15T13:58:50.470Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Anderson",
+    "email": "ryan.anderson@example.com",
+    "username": "crazybutterfly110",
+    "password": "beef",
+    "invokedAt": "2022-06-15T14:13:00.404Z"
   }
 ]
