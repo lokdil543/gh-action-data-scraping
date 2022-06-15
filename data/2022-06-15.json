@@ -742,5 +742,13 @@
     "username": "purplecat831",
     "password": "scania",
     "invokedAt": "2022-06-15T22:30:24.420Z"
+  },
+  {
+    "firstName": "Guta",
+    "lastName": "Martins",
+    "email": "guta.martins@example.com",
+    "username": "purplemouse251",
+    "password": "bigmac",
+    "invokedAt": "2022-06-15T22:40:00.292Z"
   }
 ]
