@@ -758,5 +758,13 @@
     "username": "lazybear283",
     "password": "river",
     "invokedAt": "2022-06-15T22:45:50.812Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Ouellet",
+    "email": "blake.ouellet@example.com",
+    "username": "sadcat465",
+    "password": "kathleen",
+    "invokedAt": "2022-06-15T22:51:46.475Z"
   }
 ]
