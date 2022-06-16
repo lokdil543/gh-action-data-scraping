@@ -78,5 +78,13 @@
     "username": "beautifulwolf432",
     "password": "magnum",
     "invokedAt": "2022-06-16T05:50:08.348Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Evans",
+    "email": "matilda.evans@example.com",
+    "username": "heavywolf456",
+    "password": "catcat",
+    "invokedAt": "2022-06-16T05:56:04.652Z"
   }
 ]
