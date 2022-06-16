@@ -470,5 +470,13 @@
     "username": "orangebear263",
     "password": "cascade",
     "invokedAt": "2022-06-16T15:52:59.837Z"
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "Woods",
+    "email": "mitchell.woods@example.com",
+    "username": "greenfrog953",
+    "password": "mason1",
+    "invokedAt": "2022-06-16T15:58:57.468Z"
   }
 ]
