@@ -550,5 +550,13 @@
     "username": "yellowgoose679",
     "password": "delete",
     "invokedAt": "2022-06-16T18:34:18.499Z"
+  },
+  {
+    "firstName": "Tycho",
+    "lastName": "Smeele",
+    "email": "tycho.smeele@example.com",
+    "username": "crazytiger935",
+    "password": "bogey",
+    "invokedAt": "2022-06-16T18:49:38.387Z"
   }
 ]
