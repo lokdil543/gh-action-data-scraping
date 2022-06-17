@@ -254,5 +254,13 @@
     "username": "heavygorilla896",
     "password": "fang",
     "invokedAt": "2022-06-17T09:55:19.203Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Lane",
+    "email": "fred.lane@example.com",
+    "username": "greentiger696",
+    "password": "xtreme",
+    "invokedAt": "2022-06-17T10:06:36.137Z"
   }
 ]
