@@ -446,5 +446,13 @@
     "username": "yellowbutterfly499",
     "password": "misfits",
     "invokedAt": "2022-06-17T14:54:38.323Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Lehto",
+    "email": "vaino.lehto@example.com",
+    "username": "blacktiger310",
+    "password": "donna",
+    "invokedAt": "2022-06-17T15:00:25.971Z"
   }
 ]
