@@ -526,5 +526,13 @@
     "username": "tinyduck123",
     "password": "world",
     "invokedAt": "2022-06-17T17:24:24.829Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Savela",
+    "email": "onni.savela@example.com",
+    "username": "beautifulleopard268",
+    "password": "helpme",
+    "invokedAt": "2022-06-17T17:35:54.804Z"
   }
 ]
