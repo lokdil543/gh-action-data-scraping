@@ -158,5 +158,13 @@
     "username": "yellowfrog437",
     "password": "stalker",
     "invokedAt": "2022-06-18T07:13:41.020Z"
+  },
+  {
+    "firstName": "Norbert",
+    "lastName": "Schmieder",
+    "email": "norbert.schmieder@example.com",
+    "username": "crazyfrog520",
+    "password": "jammin",
+    "invokedAt": "2022-06-18T07:26:43.162Z"
   }
 ]
