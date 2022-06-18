@@ -262,5 +262,13 @@
     "username": "blacktiger629",
     "password": "blades",
     "invokedAt": "2022-06-18T09:26:21.079Z"
+  },
+  {
+    "firstName": "Eemil",
+    "lastName": "Salminen",
+    "email": "eemil.salminen@example.com",
+    "username": "whiteostrich661",
+    "password": "jared",
+    "invokedAt": "2022-06-18T09:35:13.450Z"
   }
 ]
