@@ -782,5 +782,13 @@
     "username": "goldenzebra405",
     "password": "1234qwer",
     "invokedAt": "2022-06-18T20:45:40.277Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Meunier",
+    "email": "ivan.meunier@example.com",
+    "username": "ticklishfish482",
+    "password": "gators",
+    "invokedAt": "2022-06-18T20:51:42.159Z"
   }
 ]
