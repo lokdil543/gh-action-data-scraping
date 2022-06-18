@@ -374,5 +374,13 @@
     "username": "blackcat962",
     "password": "east",
     "invokedAt": "2022-06-18T11:36:56.301Z"
+  },
+  {
+    "firstName": "Django",
+    "lastName": "Stadhouders",
+    "email": "django.stadhouders@example.com",
+    "username": "beautifulmeercat863",
+    "password": "pasadena",
+    "invokedAt": "2022-06-18T11:39:32.738Z"
   }
 ]
