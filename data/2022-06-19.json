@@ -294,5 +294,13 @@
     "username": "greenpeacock321",
     "password": "falcons",
     "invokedAt": "2022-06-19T10:28:25.262Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Brown",
+    "email": "adam.brown@example.com",
+    "username": "purplefrog817",
+    "password": "gmoney",
+    "invokedAt": "2022-06-19T10:38:40.531Z"
   }
 ]
