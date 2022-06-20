@@ -294,5 +294,13 @@
     "username": "happymouse492",
     "password": "all4one",
     "invokedAt": "2022-06-20T11:00:03.032Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Davies",
+    "email": "lucy.davies@example.com",
+    "username": "ticklishbutterfly142",
+    "password": "flash",
+    "invokedAt": "2022-06-20T11:16:36.438Z"
   }
 ]
