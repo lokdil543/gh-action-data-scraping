@@ -406,5 +406,13 @@
     "username": "redfrog141",
     "password": "mandy",
     "invokedAt": "2022-06-21T17:45:12.017Z"
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Lampinen",
+    "email": "vilma.lampinen@example.com",
+    "username": "tinymouse910",
+    "password": "acidburn",
+    "invokedAt": "2022-06-21T17:54:58.702Z"
   }
 ]
