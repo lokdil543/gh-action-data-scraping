@@ -222,5 +222,13 @@
     "username": "beautifulbear230",
     "password": "wolfgang",
     "invokedAt": "2022-06-21T11:11:58.742Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Pedersen",
+    "email": "silas.pedersen@example.com",
+    "username": "blacktiger972",
+    "password": "streets",
+    "invokedAt": "2022-06-21T11:29:34.214Z"
   }
 ]
