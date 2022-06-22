@@ -470,5 +470,13 @@
     "username": "smallduck199",
     "password": "disney",
     "invokedAt": "2022-06-22T17:02:00.326Z"
+  },
+  {
+    "firstName": "Louna",
+    "lastName": "Sanchez",
+    "email": "louna.sanchez@example.com",
+    "username": "bigcat304",
+    "password": "mommy",
+    "invokedAt": "2022-06-22T17:30:03.156Z"
   }
 ]
