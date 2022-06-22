@@ -726,5 +726,13 @@
     "username": "bigsnake531",
     "password": "sommer",
     "invokedAt": "2022-06-22T22:50:10.404Z"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Grewal",
+    "email": "victoria.grewal@example.com",
+    "username": "greenwolf980",
+    "password": "dentist",
+    "invokedAt": "2022-06-22T22:56:04.215Z"
   }
 ]
