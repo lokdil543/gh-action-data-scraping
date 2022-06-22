@@ -766,5 +766,13 @@
     "username": "whiteladybug698",
     "password": "blue123",
     "invokedAt": "2022-06-22T23:45:19.871Z"
+  },
+  {
+    "firstName": "Margaux",
+    "lastName": "Van de Rijt",
+    "email": "margaux.vanderijt@example.com",
+    "username": "greendog997",
+    "password": "zxcv",
+    "invokedAt": "2022-06-22T23:51:21.191Z"
   }
 ]
