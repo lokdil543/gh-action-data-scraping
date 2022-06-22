@@ -646,5 +646,13 @@
     "username": "tinybird342",
     "password": "mygirl",
     "invokedAt": "2022-06-22T21:13:35.130Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Graham",
+    "email": "amy.graham@example.com",
+    "username": "happyduck305",
+    "password": "spirit",
+    "invokedAt": "2022-06-22T21:28:40.617Z"
   }
 ]
