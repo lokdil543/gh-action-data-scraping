@@ -198,5 +198,13 @@
     "username": "tinycat176",
     "password": "survivor",
     "invokedAt": "2022-06-22T09:08:57.156Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Harvey",
+    "email": "ellie.harvey@example.com",
+    "username": "crazyfish795",
+    "password": "nostromo",
+    "invokedAt": "2022-06-22T09:26:32.400Z"
   }
 ]
