@@ -422,5 +422,13 @@
     "username": "browngorilla263",
     "password": "pasadena",
     "invokedAt": "2022-06-22T15:24:52.388Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Knight",
+    "email": "bernard.knight@example.com",
+    "username": "goldentiger188",
+    "password": "peekaboo",
+    "invokedAt": "2022-06-22T15:39:10.310Z"
   }
 ]
