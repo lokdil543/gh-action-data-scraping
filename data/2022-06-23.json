@@ -270,5 +270,13 @@
     "username": "redsnake574",
     "password": "writer",
     "invokedAt": "2022-06-23T10:53:36.127Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Johnson",
+    "email": "thomas.johnson@example.com",
+    "username": "whitefish626",
+    "password": "sublime",
+    "invokedAt": "2022-06-23T10:59:32.323Z"
   }
 ]
