@@ -238,5 +238,13 @@
     "username": "heavyfish512",
     "password": "1953",
     "invokedAt": "2022-06-23T09:59:52.004Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Lewis",
+    "email": "lucas.lewis@example.com",
+    "username": "blackfish294",
+    "password": "motion",
+    "invokedAt": "2022-06-23T10:18:48.211Z"
   }
 ]
