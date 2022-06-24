@@ -382,5 +382,13 @@
     "username": "silvercat911",
     "password": "canadian",
     "invokedAt": "2022-06-24T14:09:10.412Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Smith",
+    "email": "louis.smith@example.com",
+    "username": "brownduck156",
+    "password": "mann",
+    "invokedAt": "2022-06-24T14:23:15.002Z"
   }
 ]
