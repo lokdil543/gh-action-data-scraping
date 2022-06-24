@@ -582,5 +582,13 @@
     "username": "greenmouse127",
     "password": "unique",
     "invokedAt": "2022-06-24T19:24:51.599Z"
+  },
+  {
+    "firstName": "Mélina",
+    "lastName": "Joly",
+    "email": "melina.joly@example.com",
+    "username": "whitefrog727",
+    "password": "live",
+    "invokedAt": "2022-06-24T19:30:50.492Z"
   }
 ]
