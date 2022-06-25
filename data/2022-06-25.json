@@ -854,5 +854,13 @@
     "username": "brownbutterfly665",
     "password": "insert",
     "invokedAt": "2022-06-25T22:26:28.420Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Novak",
+    "email": "justin.novak@example.com",
+    "username": "sadgorilla323",
+    "password": "shooter",
+    "invokedAt": "2022-06-25T22:36:26.363Z"
   }
 ]
