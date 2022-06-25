@@ -246,5 +246,13 @@
     "username": "redfish328",
     "password": "discover",
     "invokedAt": "2022-06-25T09:15:34.561Z"
+  },
+  {
+    "firstName": "Sasa",
+    "lastName": "Lefebvre",
+    "email": "sasa.lefebvre@example.com",
+    "username": "blacklion141",
+    "password": "twelve",
+    "invokedAt": "2022-06-25T09:29:06.381Z"
   }
 ]
