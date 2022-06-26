@@ -718,5 +718,13 @@
     "username": "whitegoose192",
     "password": "notredam",
     "invokedAt": "2022-06-26T19:52:23.273Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Jensen",
+    "email": "christoffer.jensen@example.com",
+    "username": "sadostrich148",
+    "password": "4567",
+    "invokedAt": "2022-06-26T19:58:15.169Z"
   }
 ]
