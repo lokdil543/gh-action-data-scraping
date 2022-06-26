@@ -470,5 +470,13 @@
     "username": "greencat642",
     "password": "golf",
     "invokedAt": "2022-06-26T14:35:29.689Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Møller",
+    "email": "karla.moller@example.com",
+    "username": "bluedog418",
+    "password": "sigmachi",
+    "invokedAt": "2022-06-26T14:41:42.579Z"
   }
 ]
