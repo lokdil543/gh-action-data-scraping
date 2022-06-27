@@ -94,5 +94,13 @@
     "username": "crazydog851",
     "password": "redeye",
     "invokedAt": "2022-06-27T07:09:30.889Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Liu",
+    "email": "maxime.liu@example.com",
+    "username": "yellowkoala962",
+    "password": "never",
+    "invokedAt": "2022-06-27T07:25:55.437Z"
   }
 ]
