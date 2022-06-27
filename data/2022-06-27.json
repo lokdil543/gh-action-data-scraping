@@ -566,5 +566,13 @@
     "username": "bluebird235",
     "password": "trains",
     "invokedAt": "2022-06-27T20:00:23.731Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Verbeek",
+    "email": "cathy.verbeek@example.com",
+    "username": "organicmeercat264",
+    "password": "cherokee",
+    "invokedAt": "2022-06-27T20:18:13.168Z"
   }
 ]
