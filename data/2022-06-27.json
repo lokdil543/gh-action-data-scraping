@@ -622,5 +622,13 @@
     "username": "yellowwolf298",
     "password": "fireball",
     "invokedAt": "2022-06-27T21:24:02.390Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Dupuis",
+    "email": "leonard.dupuis@example.com",
+    "username": "tinyduck421",
+    "password": "bigpimp",
+    "invokedAt": "2022-06-27T21:34:07.907Z"
   }
 ]
