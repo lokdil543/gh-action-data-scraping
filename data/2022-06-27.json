@@ -262,5 +262,13 @@
     "username": "angrypanda439",
     "password": "supra",
     "invokedAt": "2022-06-27T11:00:27.008Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Høiberg",
+    "email": "olivier.hoiberg@example.com",
+    "username": "silverfrog372",
+    "password": "fighter",
+    "invokedAt": "2022-06-27T11:16:54.056Z"
   }
 ]
