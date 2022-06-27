@@ -750,5 +750,13 @@
     "username": "smalldog451",
     "password": "oregon",
     "invokedAt": "2022-06-27T23:53:00.534Z"
+  },
+  {
+    "firstName": "Dominique",
+    "lastName": "Gerard",
+    "email": "dominique.gerard@example.com",
+    "username": "heavyrabbit343",
+    "password": "break",
+    "invokedAt": "2022-06-27T23:58:47.436Z"
   }
 ]
