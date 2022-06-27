@@ -38,5 +38,13 @@
     "username": "happydog409",
     "password": "cards",
     "invokedAt": "2022-06-27T05:32:19.413Z"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Williams",
+    "email": "dana.williams@example.com",
+    "username": "lazybear411",
+    "password": "qwertyu",
+    "invokedAt": "2022-06-27T05:43:52.520Z"
   }
 ]
