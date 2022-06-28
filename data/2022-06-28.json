@@ -406,5 +406,13 @@
     "username": "brownostrich331",
     "password": "rocknrol",
     "invokedAt": "2022-06-28T15:00:51.005Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Olivier",
+    "email": "diego.olivier@example.com",
+    "username": "happykoala212",
+    "password": "chronic",
+    "invokedAt": "2022-06-28T15:20:02.290Z"
   }
 ]
