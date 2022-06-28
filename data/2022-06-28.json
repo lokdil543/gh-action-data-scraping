@@ -214,5 +214,13 @@
     "username": "brownlion804",
     "password": "mozart",
     "invokedAt": "2022-06-28T09:51:10.456Z"
+  },
+  {
+    "firstName": "Carmela",
+    "lastName": "Andersen",
+    "email": "carmela.andersen@example.com",
+    "username": "redcat401",
+    "password": "winner",
+    "invokedAt": "2022-06-28T09:57:04.197Z"
   }
 ]
