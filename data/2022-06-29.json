@@ -310,5 +310,13 @@
     "username": "purplegorilla539",
     "password": "magician",
     "invokedAt": "2022-06-29T11:53:11.063Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Hokkanen",
+    "email": "valtteri.hokkanen@example.com",
+    "username": "organicgorilla457",
+    "password": "secrets",
+    "invokedAt": "2022-06-29T11:59:16.248Z"
   }
 ]
