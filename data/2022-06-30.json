@@ -230,5 +230,13 @@
     "username": "reddog957",
     "password": "dreamer",
     "invokedAt": "2022-06-30T10:00:00.191Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Jackson",
+    "email": "max.jackson@example.com",
+    "username": "whitemouse185",
+    "password": "incubus",
+    "invokedAt": "2022-06-30T10:24:07.311Z"
   }
 ]
