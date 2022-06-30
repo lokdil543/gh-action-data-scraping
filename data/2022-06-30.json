@@ -350,5 +350,13 @@
     "username": "beautifulduck414",
     "password": "ring",
     "invokedAt": "2022-06-30T13:59:11.476Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Pedersen",
+    "email": "andrea.pedersen@example.com",
+    "username": "ticklishleopard266",
+    "password": "&amp;",
+    "invokedAt": "2022-06-30T14:11:39.464Z"
   }
 ]
