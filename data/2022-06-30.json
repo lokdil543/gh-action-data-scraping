@@ -670,5 +670,13 @@
     "username": "greentiger324",
     "password": "cubs",
     "invokedAt": "2022-06-30T22:08:51.685Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Johnson",
+    "email": "blake.johnson@example.com",
+    "username": "beautifulbutterfly976",
+    "password": "byebye",
+    "invokedAt": "2022-06-30T22:26:49.536Z"
   }
 ]
