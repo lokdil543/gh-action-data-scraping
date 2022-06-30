@@ -326,5 +326,13 @@
     "username": "smallbear512",
     "password": "nuan",
     "invokedAt": "2022-06-30T12:28:03.586Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Kemppainen",
+    "email": "juho.kemppainen@example.com",
+    "username": "beautifulbear529",
+    "password": "hamish",
+    "invokedAt": "2022-06-30T13:12:20.305Z"
   }
 ]
