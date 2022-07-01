@@ -598,5 +598,13 @@
     "username": "angrypanda424",
     "password": "painting",
     "invokedAt": "2022-07-01T20:33:28.561Z"
+  },
+  {
+    "firstName": "Micheal",
+    "lastName": "Cooper",
+    "email": "micheal.cooper@example.com",
+    "username": "whitepanda591",
+    "password": "murder",
+    "invokedAt": "2022-07-01T20:44:20.076Z"
   }
 ]
