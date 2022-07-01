@@ -742,5 +742,13 @@
     "username": "heavylion590",
     "password": "monkey1",
     "invokedAt": "2022-07-01T23:26:19.596Z"
+  },
+  {
+    "firstName": "Kaïs",
+    "lastName": "Muller",
+    "email": "kais.muller@example.com",
+    "username": "bluedog694",
+    "password": "sang",
+    "invokedAt": "2022-07-01T23:36:19.216Z"
   }
 ]
