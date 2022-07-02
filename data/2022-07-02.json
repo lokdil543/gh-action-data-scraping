@@ -206,5 +206,13 @@
     "username": "smallfrog941",
     "password": "artist",
     "invokedAt": "2022-07-02T08:46:28.092Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Mendoza",
+    "email": "edgar.mendoza@example.com",
+    "username": "angryfrog103",
+    "password": "123abc",
+    "invokedAt": "2022-07-02T08:52:40.518Z"
   }
 ]
