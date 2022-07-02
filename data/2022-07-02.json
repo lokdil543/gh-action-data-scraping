@@ -478,5 +478,13 @@
     "username": "smallcat216",
     "password": "farm",
     "invokedAt": "2022-07-02T14:43:38.470Z"
+  },
+  {
+    "firstName": "Amar",
+    "lastName": "Legrand",
+    "email": "amar.legrand@example.com",
+    "username": "whitebird512",
+    "password": "sweets",
+    "invokedAt": "2022-07-02T14:49:46.370Z"
   }
 ]
