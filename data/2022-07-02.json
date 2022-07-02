@@ -742,5 +742,13 @@
     "username": "silvermeercat463",
     "password": "rocky",
     "invokedAt": "2022-07-02T20:38:07.127Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Henderson",
+    "email": "susan.henderson@example.com",
+    "username": "crazyfrog987",
+    "password": "miao",
+    "invokedAt": "2022-07-02T20:44:49.441Z"
   }
 ]
