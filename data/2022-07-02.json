@@ -262,5 +262,13 @@
     "username": "blueduck843",
     "password": "club",
     "invokedAt": "2022-07-02T09:49:27.242Z"
+  },
+  {
+    "firstName": "Eskil",
+    "lastName": "Hellstrøm",
+    "email": "eskil.hellstrom@example.com",
+    "username": "angrybird623",
+    "password": "nimitz",
+    "invokedAt": "2022-07-02T09:55:30.077Z"
   }
 ]
