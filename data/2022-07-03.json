@@ -550,5 +550,13 @@
     "username": "whitemouse892",
     "password": "password2",
     "invokedAt": "2022-07-03T15:55:00.062Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Akışık",
+    "email": "onur.akisik@example.com",
+    "username": "angryladybug642",
+    "password": "django",
+    "invokedAt": "2022-07-03T16:05:03.381Z"
   }
 ]
