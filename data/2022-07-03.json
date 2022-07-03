@@ -758,5 +758,13 @@
     "username": "smallcat573",
     "password": "rollin",
     "invokedAt": "2022-07-03T20:38:49.255Z"
+  },
+  {
+    "firstName": "Archer",
+    "lastName": "Edwards",
+    "email": "archer.edwards@example.com",
+    "username": "goldenbear320",
+    "password": "pimping",
+    "invokedAt": "2022-07-03T20:45:15.462Z"
   }
 ]
