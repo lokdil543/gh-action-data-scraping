@@ -526,5 +526,13 @@
     "username": "redbird492",
     "password": "mickey1",
     "invokedAt": "2022-07-04T19:41:25.360Z"
+  },
+  {
+    "firstName": "Josephine",
+    "lastName": "Watson",
+    "email": "josephine.watson@example.com",
+    "username": "brownladybug769",
+    "password": "bilbo",
+    "invokedAt": "2022-07-04T19:47:21.685Z"
   }
 ]
