@@ -166,5 +166,13 @@
     "username": "yellowwolf135",
     "password": "q1w2e3",
     "invokedAt": "2022-07-04T09:34:15.664Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Olsen",
+    "email": "marcus.olsen@example.com",
+    "username": "goldenpanda986",
+    "password": "sputnik",
+    "invokedAt": "2022-07-04T09:51:51.572Z"
   }
 ]
