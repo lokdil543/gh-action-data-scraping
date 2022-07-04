@@ -454,5 +454,13 @@
     "username": "angryswan345",
     "password": "paulie",
     "invokedAt": "2022-07-04T17:55:06.401Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Walker",
+    "email": "john.walker@example.com",
+    "username": "ticklishtiger509",
+    "password": "europe",
+    "invokedAt": "2022-07-04T18:07:27.763Z"
   }
 ]
