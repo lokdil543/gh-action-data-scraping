@@ -534,5 +534,13 @@
     "username": "lazymeercat163",
     "password": "guitar1",
     "invokedAt": "2022-07-05T19:09:59.107Z"
+  },
+  {
+    "firstName": "Filipe de Néri",
+    "lastName": "Martins",
+    "email": "filipedeneri.martins@example.com",
+    "username": "blueostrich221",
+    "password": "romero",
+    "invokedAt": "2022-07-05T19:22:02.384Z"
   }
 ]
