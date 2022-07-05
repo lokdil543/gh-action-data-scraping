@@ -310,5 +310,13 @@
     "username": "redsnake579",
     "password": "mystery",
     "invokedAt": "2022-07-05T11:42:12.056Z"
+  },
+  {
+    "firstName": "Wallace",
+    "lastName": "Turner",
+    "email": "wallace.turner@example.com",
+    "username": "tinygoose543",
+    "password": "encore",
+    "invokedAt": "2022-07-05T11:48:14.348Z"
   }
 ]
