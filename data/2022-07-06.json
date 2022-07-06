@@ -710,5 +710,13 @@
     "username": "silversnake241",
     "password": "blink182",
     "invokedAt": "2022-07-06T23:14:38.433Z"
+  },
+  {
+    "firstName": "Bartosz",
+    "lastName": "Nyrud",
+    "email": "bartosz.nyrud@example.com",
+    "username": "heavyrabbit528",
+    "password": "benji",
+    "invokedAt": "2022-07-06T23:29:22.757Z"
   }
 ]
