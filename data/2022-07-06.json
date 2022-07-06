@@ -494,5 +494,13 @@
     "username": "happybear663",
     "password": "school",
     "invokedAt": "2022-07-06T18:53:33.867Z"
+  },
+  {
+    "firstName": "Alberte",
+    "lastName": "Hansen",
+    "email": "alberte.hansen@example.com",
+    "username": "whitefrog668",
+    "password": "trigger",
+    "invokedAt": "2022-07-06T19:10:00.779Z"
   }
 ]
