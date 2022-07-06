@@ -230,5 +230,13 @@
     "username": "blackpeacock741",
     "password": "temppass",
     "invokedAt": "2022-07-06T10:32:40.399Z"
+  },
+  {
+    "firstName": "Jeremiah",
+    "lastName": "Wilson",
+    "email": "jeremiah.wilson@example.com",
+    "username": "purplefish366",
+    "password": "ranch",
+    "invokedAt": "2022-07-06T10:45:37.345Z"
   }
 ]
