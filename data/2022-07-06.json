@@ -382,5 +382,13 @@
     "username": "goldenfrog767",
     "password": "gateway2",
     "invokedAt": "2022-07-06T15:00:05.251Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Oliver",
+    "email": "jimmy.oliver@example.com",
+    "username": "crazycat719",
+    "password": "arsenal",
+    "invokedAt": "2022-07-06T15:19:43.445Z"
   }
 ]
