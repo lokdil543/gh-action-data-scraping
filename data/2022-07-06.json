@@ -374,5 +374,13 @@
     "username": "sadkoala753",
     "password": "12345",
     "invokedAt": "2022-07-06T14:54:02.561Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Rasmussen",
+    "email": "noah.rasmussen@example.com",
+    "username": "goldenfrog767",
+    "password": "gateway2",
+    "invokedAt": "2022-07-06T15:00:05.251Z"
   }
 ]
