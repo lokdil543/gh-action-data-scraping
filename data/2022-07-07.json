@@ -342,5 +342,13 @@
     "username": "angrycat107",
     "password": "cook",
     "invokedAt": "2022-07-07T14:00:33.832Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Pedersen",
+    "email": "mathias.pedersen@example.com",
+    "username": "beautifulostrich577",
+    "password": "teens",
+    "invokedAt": "2022-07-07T14:28:01.314Z"
   }
 ]
