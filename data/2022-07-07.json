@@ -286,5 +286,13 @@
     "username": "blueleopard802",
     "password": "5050",
     "invokedAt": "2022-07-07T11:37:48.351Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Li",
+    "email": "thomas.li@example.com",
+    "username": "bluerabbit559",
+    "password": "redd",
+    "invokedAt": "2022-07-07T11:44:29.367Z"
   }
 ]
