@@ -478,5 +478,13 @@
     "username": "bluemouse105",
     "password": "transfer",
     "invokedAt": "2022-07-07T18:09:15.536Z"
+  },
+  {
+    "firstName": "Eliza",
+    "lastName": "Hughes",
+    "email": "eliza.hughes@example.com",
+    "username": "happybutterfly749",
+    "password": "dadada",
+    "invokedAt": "2022-07-07T18:35:51.562Z"
   }
 ]
