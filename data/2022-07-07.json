@@ -278,5 +278,13 @@
     "username": "whitewolf122",
     "password": "sinatra",
     "invokedAt": "2022-07-07T11:28:22.719Z"
+  },
+  {
+    "firstName": "Maïwenn",
+    "lastName": "Rodriguez",
+    "email": "maiwenn.rodriguez@example.com",
+    "username": "blueleopard802",
+    "password": "5050",
+    "invokedAt": "2022-07-07T11:37:48.351Z"
   }
 ]
