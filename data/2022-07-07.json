@@ -374,5 +374,13 @@
     "username": "goldenzebra190",
     "password": "airbus",
     "invokedAt": "2022-07-07T14:46:23.679Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Roussel",
+    "email": "santiago.roussel@example.com",
+    "username": "browntiger739",
+    "password": "waffle",
+    "invokedAt": "2022-07-07T14:56:51.663Z"
   }
 ]
