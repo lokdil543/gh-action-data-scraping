@@ -326,5 +326,13 @@
     "username": "happymeercat700",
     "password": "slayer",
     "invokedAt": "2022-07-08T12:34:00.559Z"
+  },
+  {
+    "firstName": "Ružica",
+    "lastName": "Mitrović",
+    "email": "ruzica.mitrovic@example.com",
+    "username": "organiccat390",
+    "password": "31415926",
+    "invokedAt": "2022-07-08T13:17:18.437Z"
   }
 ]
