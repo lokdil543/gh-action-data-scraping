@@ -318,5 +318,13 @@
     "username": "orangeostrich344",
     "password": "alone",
     "invokedAt": "2022-07-08T12:00:00.299Z"
+  },
+  {
+    "firstName": "Gorana",
+    "lastName": "Karadžić",
+    "email": "gorana.karadzic@example.com",
+    "username": "happymeercat700",
+    "password": "slayer",
+    "invokedAt": "2022-07-08T12:34:00.559Z"
   }
 ]
