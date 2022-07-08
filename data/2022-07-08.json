@@ -686,5 +686,13 @@
     "username": "greengorilla866",
     "password": "getout",
     "invokedAt": "2022-07-08T22:49:36.127Z"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Collins",
+    "email": "leon.collins@example.com",
+    "username": "smallgorilla465",
+    "password": "arctic",
+    "invokedAt": "2022-07-08T22:55:34.409Z"
   }
 ]
