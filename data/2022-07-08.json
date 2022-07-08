@@ -486,5 +486,13 @@
     "username": "greenostrich615",
     "password": "dawgs",
     "invokedAt": "2022-07-08T18:48:40.143Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Kuusisto",
+    "email": "valtteri.kuusisto@example.com",
+    "username": "lazyfrog374",
+    "password": "lock",
+    "invokedAt": "2022-07-08T18:56:11.191Z"
   }
 ]
