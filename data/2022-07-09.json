@@ -478,5 +478,13 @@
     "username": "reddog487",
     "password": "reflex",
     "invokedAt": "2022-07-09T14:41:16.328Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Jackson",
+    "email": "carlos.jackson@example.com",
+    "username": "angryfish134",
+    "password": "weasel",
+    "invokedAt": "2022-07-09T14:47:22.045Z"
   }
 ]
