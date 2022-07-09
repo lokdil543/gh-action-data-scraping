@@ -790,5 +790,13 @@
     "username": "smallmouse491",
     "password": "masters",
     "invokedAt": "2022-07-09T21:33:10.950Z"
+  },
+  {
+    "firstName": "Novak",
+    "lastName": "Vujčić",
+    "email": "novak.vujcic@example.com",
+    "username": "bigduck558",
+    "password": "gollum",
+    "invokedAt": "2022-07-09T21:41:15.247Z"
   }
 ]
