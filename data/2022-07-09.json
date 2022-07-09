@@ -526,5 +526,13 @@
     "username": "bigleopard236",
     "password": "letter",
     "invokedAt": "2022-07-09T15:43:42.219Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Hansen",
+    "email": "laura.hansen@example.com",
+    "username": "redostrich134",
+    "password": "juliette",
+    "invokedAt": "2022-07-09T15:50:30.586Z"
   }
 ]
