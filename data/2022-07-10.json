@@ -526,5 +526,13 @@
     "username": "blackgorilla421",
     "password": "breaker",
     "invokedAt": "2022-07-10T15:56:19.491Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Carlson",
+    "email": "bill.carlson@example.com",
+    "username": "sadgorilla687",
+    "password": "gohome",
+    "invokedAt": "2022-07-10T16:11:00.513Z"
   }
 ]
