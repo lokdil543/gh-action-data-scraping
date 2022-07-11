@@ -414,5 +414,13 @@
     "username": "happybird536",
     "password": "stargate",
     "invokedAt": "2022-07-11T16:21:31.291Z"
+  },
+  {
+    "firstName": "Naomi",
+    "lastName": "White",
+    "email": "naomi.white@example.com",
+    "username": "yellowdog817",
+    "password": "papa",
+    "invokedAt": "2022-07-11T16:57:00.441Z"
   }
 ]
