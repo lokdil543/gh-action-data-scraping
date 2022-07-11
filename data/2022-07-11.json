@@ -446,5 +446,13 @@
     "username": "beautifulduck369",
     "password": "passwor1",
     "invokedAt": "2022-07-11T17:59:42.160Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Møller",
+    "email": "malou.moller@example.com",
+    "username": "sadmouse998",
+    "password": "bigmac",
+    "invokedAt": "2022-07-11T18:21:35.622Z"
   }
 ]
