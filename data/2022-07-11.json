@@ -54,5 +54,13 @@
     "username": "happymeercat313",
     "password": "walmart",
     "invokedAt": "2022-07-11T05:44:18.404Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Anderson",
+    "email": "james.anderson@example.com",
+    "username": "bluebutterfly656",
+    "password": "cambridg",
+    "invokedAt": "2022-07-11T05:50:16.691Z"
   }
 ]
