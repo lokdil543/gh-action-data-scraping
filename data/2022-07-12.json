@@ -334,5 +334,13 @@
     "username": "beautifulduck196",
     "password": "abc12345",
     "invokedAt": "2022-07-12T14:43:55.987Z"
+  },
+  {
+    "firstName": "Hasse",
+    "lastName": "Verhelst",
+    "email": "hasse.verhelst@example.com",
+    "username": "whitebear370",
+    "password": "access",
+    "invokedAt": "2022-07-12T14:49:47.317Z"
   }
 ]
