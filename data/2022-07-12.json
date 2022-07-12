@@ -662,5 +662,13 @@
     "username": "crazybutterfly315",
     "password": "inside",
     "invokedAt": "2022-07-12T22:42:44.220Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Wilson",
+    "email": "joel.wilson@example.com",
+    "username": "angryostrich441",
+    "password": "7777",
+    "invokedAt": "2022-07-12T22:48:15.704Z"
   }
 ]
