@@ -214,5 +214,13 @@
     "username": "silverostrich655",
     "password": "formula1",
     "invokedAt": "2022-07-12T10:51:35.248Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Larsen",
+    "email": "tobias.larsen@example.com",
+    "username": "browndog270",
+    "password": "future",
+    "invokedAt": "2022-07-12T10:57:26.170Z"
   }
 ]
