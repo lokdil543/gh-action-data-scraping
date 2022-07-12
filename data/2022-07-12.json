@@ -230,5 +230,13 @@
     "username": "bigmeercat729",
     "password": "manga",
     "invokedAt": "2022-07-12T11:10:37.829Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Edwards",
+    "email": "thomas.edwards@example.com",
+    "username": "goldenpeacock365",
+    "password": "passwd",
+    "invokedAt": "2022-07-12T11:24:57.148Z"
   }
 ]
