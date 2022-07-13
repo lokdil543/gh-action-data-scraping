@@ -590,5 +590,13 @@
     "username": "whitetiger842",
     "password": "meme",
     "invokedAt": "2022-07-13T19:59:17.603Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Burns",
+    "email": "scott.burns@example.com",
+    "username": "heavyduck888",
+    "password": "onions",
+    "invokedAt": "2022-07-13T20:16:39.237Z"
   }
 ]
