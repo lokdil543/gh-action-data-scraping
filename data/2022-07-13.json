@@ -662,5 +662,13 @@
     "username": "brownmeercat495",
     "password": "style",
     "invokedAt": "2022-07-13T21:45:09.509Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Smith",
+    "email": "blake.smith@example.com",
+    "username": "ticklishduck132",
+    "password": "ducati",
+    "invokedAt": "2022-07-13T21:51:10.395Z"
   }
 ]
