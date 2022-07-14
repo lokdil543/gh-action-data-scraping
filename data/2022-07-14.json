@@ -686,5 +686,13 @@
     "username": "orangefrog156",
     "password": "space",
     "invokedAt": "2022-07-14T22:58:31.725Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Engstrøm",
+    "email": "peter.engstrom@example.com",
+    "username": "brownkoala444",
+    "password": "sonic",
+    "invokedAt": "2022-07-14T23:15:45.815Z"
   }
 ]
