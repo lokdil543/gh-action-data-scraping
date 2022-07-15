@@ -622,5 +622,13 @@
     "username": "redelephant258",
     "password": "planes",
     "invokedAt": "2022-07-15T21:42:19.470Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Burns",
+    "email": "tony.burns@example.com",
+    "username": "happypanda742",
+    "password": "sting",
+    "invokedAt": "2022-07-15T21:48:28.719Z"
   }
 ]
