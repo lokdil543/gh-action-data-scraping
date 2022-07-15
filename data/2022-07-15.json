@@ -494,5 +494,13 @@
     "username": "bigelephant379",
     "password": "galaxy",
     "invokedAt": "2022-07-15T19:13:21.222Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Orbay",
+    "email": "ozsu.orbay@example.com",
+    "username": "sadsnake245",
+    "password": "django",
+    "invokedAt": "2022-07-15T19:24:20.516Z"
   }
 ]
