@@ -502,5 +502,13 @@
     "username": "sadsnake245",
     "password": "django",
     "invokedAt": "2022-07-15T19:24:20.516Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Perez",
+    "email": "gabriel.perez@example.com",
+    "username": "tinyleopard948",
+    "password": "trouble",
+    "invokedAt": "2022-07-15T19:30:08.017Z"
   }
 ]
