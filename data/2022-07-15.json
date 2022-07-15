@@ -542,5 +542,13 @@
     "username": "tinybird601",
     "password": "fdsa",
     "invokedAt": "2022-07-15T19:54:49.491Z"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Morgan",
+    "email": "tommy.morgan@example.com",
+    "username": "sadswan345",
+    "password": "flyfish",
+    "invokedAt": "2022-07-15T20:00:47.530Z"
   }
 ]
