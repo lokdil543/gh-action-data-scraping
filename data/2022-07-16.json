@@ -166,5 +166,13 @@
     "username": "happypeacock805",
     "password": "lord",
     "invokedAt": "2022-07-16T07:41:24.325Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Ruona",
+    "email": "niklas.ruona@example.com",
+    "username": "angrydog694",
+    "password": "dundee",
+    "invokedAt": "2022-07-16T07:47:17.652Z"
   }
 ]
