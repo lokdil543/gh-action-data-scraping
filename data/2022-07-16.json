@@ -446,5 +446,13 @@
     "username": "browngoose645",
     "password": "cascade",
     "invokedAt": "2022-07-16T14:07:17.466Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Rodriguez",
+    "email": "jose.rodriguez@example.com",
+    "username": "happyzebra896",
+    "password": "ninguna",
+    "invokedAt": "2022-07-16T14:23:09.364Z"
   }
 ]
