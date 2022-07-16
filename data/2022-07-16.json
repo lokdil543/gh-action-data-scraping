@@ -630,5 +630,13 @@
     "username": "bluebutterfly554",
     "password": "contains",
     "invokedAt": "2022-07-16T18:31:11.893Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Petersen",
+    "email": "sara.petersen@example.com",
+    "username": "purplekoala709",
+    "password": "trial",
+    "invokedAt": "2022-07-16T18:45:17.434Z"
   }
 ]
