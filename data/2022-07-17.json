@@ -326,5 +326,13 @@
     "username": "orangegorilla836",
     "password": "matthias",
     "invokedAt": "2022-07-17T11:24:22.398Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Clark",
+    "email": "charlie.clark@example.com",
+    "username": "orangeswan591",
+    "password": "snowboard",
+    "invokedAt": "2022-07-17T11:30:31.151Z"
   }
 ]
