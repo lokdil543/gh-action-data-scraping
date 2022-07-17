@@ -294,5 +294,13 @@
     "username": "bigfrog404",
     "password": "claymore",
     "invokedAt": "2022-07-17T10:46:36.526Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Olsen",
+    "email": "adam.olsen@example.com",
+    "username": "purplebird744",
+    "password": "diego",
+    "invokedAt": "2022-07-17T10:52:29.874Z"
   }
 ]
