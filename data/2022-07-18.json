@@ -470,5 +470,13 @@
     "username": "smallrabbit289",
     "password": "rooney",
     "invokedAt": "2022-07-18T18:30:56.495Z"
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Opdal",
+    "email": "gunnar.opdal@example.com",
+    "username": "blackbear901",
+    "password": "panther",
+    "invokedAt": "2022-07-18T18:47:41.240Z"
   }
 ]
