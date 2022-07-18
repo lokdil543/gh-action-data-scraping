@@ -686,5 +686,13 @@
     "username": "tinyelephant835",
     "password": "busted",
     "invokedAt": "2022-07-18T22:55:47.364Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Cook",
+    "email": "carlos.cook@example.com",
+    "username": "greenkoala867",
+    "password": "wildbill",
+    "invokedAt": "2022-07-18T23:06:47.350Z"
   }
 ]
