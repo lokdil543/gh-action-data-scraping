@@ -126,5 +126,13 @@
     "username": "browndog162",
     "password": "southern",
     "invokedAt": "2022-07-18T07:49:14.320Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Steward",
+    "email": "felix.steward@example.com",
+    "username": "whiteswan255",
+    "password": "hithere",
+    "invokedAt": "2022-07-18T07:55:03.374Z"
   }
 ]
