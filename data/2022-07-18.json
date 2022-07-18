@@ -486,5 +486,13 @@
     "username": "blueduck266",
     "password": "public",
     "invokedAt": "2022-07-18T18:56:01.581Z"
+  },
+  {
+    "firstName": "Wiktor",
+    "lastName": "Nystuen",
+    "email": "wiktor.nystuen@example.com",
+    "username": "purplecat147",
+    "password": "forever",
+    "invokedAt": "2022-07-18T19:06:22.868Z"
   }
 ]
