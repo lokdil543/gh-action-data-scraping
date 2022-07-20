@@ -638,5 +638,13 @@
     "username": "greenpeacock184",
     "password": "abc12345",
     "invokedAt": "2022-07-20T21:13:22.216Z"
+  },
+  {
+    "firstName": "Ciro",
+    "lastName": "Van Rijs",
+    "email": "ciro.vanrijs@example.com",
+    "username": "lazymouse453",
+    "password": "stones",
+    "invokedAt": "2022-07-20T21:26:55.353Z"
   }
 ]
