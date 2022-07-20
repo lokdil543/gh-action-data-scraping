@@ -78,5 +78,13 @@
     "username": "orangekoala307",
     "password": "racing",
     "invokedAt": "2022-07-20T06:12:46.894Z"
+  },
+  {
+    "firstName": "Srđan",
+    "lastName": "Spasojević",
+    "email": "srdan.spasojevic@example.com",
+    "username": "bigpanda888",
+    "password": "spanner",
+    "invokedAt": "2022-07-20T06:37:31.476Z"
   }
 ]
