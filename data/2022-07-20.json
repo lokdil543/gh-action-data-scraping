@@ -446,5 +446,13 @@
     "username": "heavyfish437",
     "password": "static",
     "invokedAt": "2022-07-20T16:01:07.896Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Jarvi",
+    "email": "vaino.jarvi@example.com",
+    "username": "blackostrich443",
+    "password": "rolex",
+    "invokedAt": "2022-07-20T16:30:09.470Z"
   }
 ]
