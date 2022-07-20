@@ -734,5 +734,13 @@
     "username": "bluefish285",
     "password": "reddog",
     "invokedAt": "2022-07-20T23:13:57.111Z"
+  },
+  {
+    "firstName": "Günther",
+    "lastName": "Döhring",
+    "email": "gunther.dohring@example.com",
+    "username": "lazybird539",
+    "password": "katherin",
+    "invokedAt": "2022-07-20T23:31:06.320Z"
   }
 ]
