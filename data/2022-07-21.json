@@ -406,5 +406,13 @@
     "username": "brownpeacock209",
     "password": "saturn",
     "invokedAt": "2022-07-21T15:13:24.508Z"
+  },
+  {
+    "firstName": "Jerzy",
+    "lastName": "Rühle",
+    "email": "jerzy.ruhle@example.com",
+    "username": "goldendog542",
+    "password": "poppy",
+    "invokedAt": "2022-07-21T15:35:35.248Z"
   }
 ]
