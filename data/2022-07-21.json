@@ -718,5 +718,13 @@
     "username": "orangesnake333",
     "password": "screen",
     "invokedAt": "2022-07-21T23:51:04.711Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Bergeron",
+    "email": "jeremy.bergeron@example.com",
+    "username": "greenladybug918",
+    "password": "easy",
+    "invokedAt": "2022-07-21T23:56:56.801Z"
   }
 ]
