@@ -662,5 +662,13 @@
     "username": "redcat640",
     "password": "thedon",
     "invokedAt": "2022-07-21T22:38:16.710Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Harvey",
+    "email": "evan.harvey@example.com",
+    "username": "bluecat775",
+    "password": "soccer10",
+    "invokedAt": "2022-07-21T22:47:08.034Z"
   }
 ]
