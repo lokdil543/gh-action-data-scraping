@@ -166,5 +166,13 @@
     "username": "greenkoala285",
     "password": "illinois",
     "invokedAt": "2022-07-22T09:03:55.529Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Lam",
+    "email": "nathan.lam@example.com",
+    "username": "goldenrabbit631",
+    "password": "circle",
+    "invokedAt": "2022-07-22T09:25:21.793Z"
   }
 ]
