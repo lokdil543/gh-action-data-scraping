@@ -470,5 +470,13 @@
     "username": "happyostrich365",
     "password": "1234567890",
     "invokedAt": "2022-07-22T18:53:48.591Z"
+  },
+  {
+    "firstName": "César",
+    "lastName": "Bustos",
+    "email": "cesar.bustos@example.com",
+    "username": "smallgorilla521",
+    "password": "celica",
+    "invokedAt": "2022-07-22T18:59:40.235Z"
   }
 ]
