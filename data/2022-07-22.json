@@ -78,5 +78,13 @@
     "username": "sadpeacock777",
     "password": "beckham",
     "invokedAt": "2022-07-22T06:44:53.595Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Lazović",
+    "email": "nebojsa.lazovic@example.com",
+    "username": "orangecat741",
+    "password": "reading",
+    "invokedAt": "2022-07-22T06:59:19.468Z"
   }
 ]
