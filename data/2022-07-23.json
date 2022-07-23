@@ -550,5 +550,13 @@
     "username": "heavyswan418",
     "password": "route66",
     "invokedAt": "2022-07-23T19:47:33.834Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Henderson",
+    "email": "fred.henderson@example.com",
+    "username": "sadlion763",
+    "password": "mooses",
+    "invokedAt": "2022-07-23T19:53:46.748Z"
   }
 ]
