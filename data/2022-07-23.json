@@ -638,5 +638,13 @@
     "username": "organicdog495",
     "password": "fortuna",
     "invokedAt": "2022-07-23T22:00:24.664Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Christiansen",
+    "email": "magnus.christiansen@example.com",
+    "username": "redwolf366",
+    "password": "sonics",
+    "invokedAt": "2022-07-23T22:17:21.177Z"
   }
 ]
