@@ -478,5 +478,13 @@
     "username": "bluefrog821",
     "password": "millwall",
     "invokedAt": "2022-07-24T17:24:10.648Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Newman",
+    "email": "shawn.newman@example.com",
+    "username": "sadleopard889",
+    "password": "goldeney",
+    "invokedAt": "2022-07-24T17:37:26.666Z"
   }
 ]
