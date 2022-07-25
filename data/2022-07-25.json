@@ -342,5 +342,13 @@
     "username": "angryostrich822",
     "password": "rose",
     "invokedAt": "2022-07-25T14:55:22.807Z"
+  },
+  {
+    "firstName": "Umut",
+    "lastName": "Körmükçü",
+    "email": "umut.kormukcu@example.com",
+    "username": "greendog623",
+    "password": "longhorn",
+    "invokedAt": "2022-07-25T15:06:29.827Z"
   }
 ]
