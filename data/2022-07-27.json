@@ -110,5 +110,13 @@
     "username": "yellowpanda707",
     "password": "spikes",
     "invokedAt": "2022-07-27T07:41:25.359Z"
+  },
+  {
+    "firstName": "Tymon",
+    "lastName": "Moksnes",
+    "email": "tymon.moksnes@example.com",
+    "username": "brownsnake217",
+    "password": "chess",
+    "invokedAt": "2022-07-27T07:48:13.888Z"
   }
 ]
