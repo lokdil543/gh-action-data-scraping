@@ -598,5 +598,13 @@
     "username": "orangebear253",
     "password": "delta",
     "invokedAt": "2022-07-27T22:57:44.758Z"
+  },
+  {
+    "firstName": "Volya",
+    "lastName": "Ponomarenko",
+    "email": "volya.ponomarenko@example.com",
+    "username": "blueduck651",
+    "password": "alice1",
+    "invokedAt": "2022-07-27T23:11:57.171Z"
   }
 ]
