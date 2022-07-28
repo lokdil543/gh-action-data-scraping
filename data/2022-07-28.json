@@ -262,5 +262,13 @@
     "username": "redduck770",
     "password": "1969",
     "invokedAt": "2022-07-28T11:14:56.789Z"
+  },
+  {
+    "firstName": "Radovan",
+    "lastName": "Kuzmanović",
+    "email": "radovan.kuzmanovic@example.com",
+    "username": "silverduck210",
+    "password": "neon",
+    "invokedAt": "2022-07-28T11:28:18.813Z"
   }
 ]
