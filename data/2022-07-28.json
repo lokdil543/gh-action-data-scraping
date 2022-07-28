@@ -254,5 +254,13 @@
     "username": "yellowlion315",
     "password": "hemlock",
     "invokedAt": "2022-07-28T10:59:38.578Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Karadžić",
+    "email": "nemanja.karadzic@example.com",
+    "username": "redduck770",
+    "password": "1969",
+    "invokedAt": "2022-07-28T11:14:56.789Z"
   }
 ]
