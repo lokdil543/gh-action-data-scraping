@@ -678,5 +678,13 @@
     "username": "brownkoala998",
     "password": "stewart",
     "invokedAt": "2022-07-29T23:23:42.658Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Duval",
+    "email": "charlie.duval@example.com",
+    "username": "lazykoala834",
+    "password": "newpass6",
+    "invokedAt": "2022-07-29T23:36:21.227Z"
   }
 ]
