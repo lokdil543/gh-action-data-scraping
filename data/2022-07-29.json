@@ -286,5 +286,13 @@
     "username": "heavydog234",
     "password": "natalia",
     "invokedAt": "2022-07-29T11:50:38.729Z"
+  },
+  {
+    "firstName": "Vanessa",
+    "lastName": "Leclercq",
+    "email": "vanessa.leclercq@example.com",
+    "username": "heavypanda224",
+    "password": "squirt",
+    "invokedAt": "2022-07-29T11:56:36.757Z"
   }
 ]
