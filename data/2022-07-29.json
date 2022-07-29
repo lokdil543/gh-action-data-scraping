@@ -446,5 +446,13 @@
     "username": "heavyfrog201",
     "password": "qwert",
     "invokedAt": "2022-07-29T17:39:56.312Z"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "Scott",
+    "email": "riley.scott@example.com",
+    "username": "redwolf526",
+    "password": "password2",
+    "invokedAt": "2022-07-29T17:48:15.730Z"
   }
 ]
