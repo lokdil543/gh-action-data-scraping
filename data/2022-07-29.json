@@ -494,5 +494,13 @@
     "username": "lazytiger810",
     "password": "tennis",
     "invokedAt": "2022-07-29T18:55:15.341Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Fields",
+    "email": "anthony.fields@example.com",
+    "username": "goldengorilla597",
+    "password": "flint",
+    "invokedAt": "2022-07-29T19:02:48.885Z"
   }
 ]
