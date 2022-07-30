@@ -766,5 +766,13 @@
     "username": "bluecat257",
     "password": "driver",
     "invokedAt": "2022-07-30T21:40:54.208Z"
+  },
+  {
+    "firstName": "Kamil",
+    "lastName": "Thomann",
+    "email": "kamil.thomann@example.com",
+    "username": "orangeostrich187",
+    "password": "lester",
+    "invokedAt": "2022-07-30T21:46:50.418Z"
   }
 ]
