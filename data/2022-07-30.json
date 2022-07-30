@@ -574,5 +574,13 @@
     "username": "ticklishlion351",
     "password": "90210",
     "invokedAt": "2022-07-30T17:50:49.451Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Halonen",
+    "email": "milja.halonen@example.com",
+    "username": "goldenmouse408",
+    "password": "secret1",
+    "invokedAt": "2022-07-30T17:56:44.262Z"
   }
 ]
