@@ -846,5 +846,13 @@
     "username": "goldenduck175",
     "password": "000007",
     "invokedAt": "2022-07-30T23:07:09.827Z"
+  },
+  {
+    "firstName": "Dragoje",
+    "lastName": "Dokić",
+    "email": "dragoje.dokic@example.com",
+    "username": "happymouse714",
+    "password": "zephyr",
+    "invokedAt": "2022-07-30T23:25:02.945Z"
   }
 ]
