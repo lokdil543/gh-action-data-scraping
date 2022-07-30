@@ -470,5 +470,13 @@
     "username": "yellowcat412",
     "password": "2020",
     "invokedAt": "2022-07-30T15:02:27.753Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Kuusisto",
+    "email": "rasmus.kuusisto@example.com",
+    "username": "purplegoose518",
+    "password": "pedro",
+    "invokedAt": "2022-07-30T15:22:44.479Z"
   }
 ]
