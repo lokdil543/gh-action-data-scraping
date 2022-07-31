@@ -126,5 +126,13 @@
     "username": "silverlion420",
     "password": "shalom",
     "invokedAt": "2022-07-31T07:00:26.145Z"
+  },
+  {
+    "firstName": "Jasper",
+    "lastName": "Zhang",
+    "email": "jasper.zhang@example.com",
+    "username": "bluepanda501",
+    "password": "therock",
+    "invokedAt": "2022-07-31T07:16:44.323Z"
   }
 ]
