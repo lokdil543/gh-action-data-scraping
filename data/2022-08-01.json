@@ -142,5 +142,13 @@
     "username": "bigfish746",
     "password": "farmboy",
     "invokedAt": "2022-08-01T09:45:05.594Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Kullmann",
+    "email": "ivan.kullmann@example.com",
+    "username": "blackfrog279",
+    "password": "bobdylan",
+    "invokedAt": "2022-08-01T09:50:52.769Z"
   }
 ]
