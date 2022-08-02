@@ -222,5 +222,13 @@
     "username": "lazypanda713",
     "password": "slayer",
     "invokedAt": "2022-08-02T10:56:13.828Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Elliott",
+    "email": "jane.elliott@example.com",
+    "username": "lazyfish122",
+    "password": "darklord",
+    "invokedAt": "2022-08-02T11:07:09.221Z"
   }
 ]
