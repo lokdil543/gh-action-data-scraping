@@ -598,5 +598,13 @@
     "username": "brownrabbit363",
     "password": "center",
     "invokedAt": "2022-08-02T22:59:06.478Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Sanders",
+    "email": "dwight.sanders@example.com",
+    "username": "goldenbear443",
+    "password": "lalalala",
+    "invokedAt": "2022-08-02T23:15:26.094Z"
   }
 ]
