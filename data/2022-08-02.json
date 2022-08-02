@@ -526,5 +526,13 @@
     "username": "happyfrog538",
     "password": "holycow",
     "invokedAt": "2022-08-02T20:17:55.199Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Lemaire",
+    "email": "remy.lemaire@example.com",
+    "username": "bluekoala684",
+    "password": "tatiana",
+    "invokedAt": "2022-08-02T20:44:32.453Z"
   }
 ]
