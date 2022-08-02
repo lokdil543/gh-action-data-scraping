@@ -46,5 +46,13 @@
     "username": "sadfrog754",
     "password": "joebob",
     "invokedAt": "2022-08-02T06:17:39.428Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Wilson",
+    "email": "tom.wilson@example.com",
+    "username": "purplegorilla152",
+    "password": "alliance",
+    "invokedAt": "2022-08-02T06:40:44.524Z"
   }
 ]
