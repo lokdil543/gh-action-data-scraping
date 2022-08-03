@@ -606,5 +606,13 @@
     "username": "blackbird132",
     "password": "isaac",
     "invokedAt": "2022-08-03T22:07:17.549Z"
+  },
+  {
+    "firstName": "Lysan",
+    "lastName": "Dudink",
+    "email": "lysan.dudink@example.com",
+    "username": "blackfrog454",
+    "password": "serious",
+    "invokedAt": "2022-08-03T22:28:11.610Z"
   }
 ]
