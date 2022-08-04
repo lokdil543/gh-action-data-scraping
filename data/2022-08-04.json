@@ -710,5 +710,13 @@
     "username": "yellowelephant176",
     "password": "monsters",
     "invokedAt": "2022-08-04T23:38:44.544Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Curtis",
+    "email": "william.curtis@example.com",
+    "username": "orangefish801",
+    "password": "pyon",
+    "invokedAt": "2022-08-04T23:45:49.019Z"
   }
 ]
