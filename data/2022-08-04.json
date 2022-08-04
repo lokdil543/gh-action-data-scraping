@@ -478,5 +478,13 @@
     "username": "lazydog901",
     "password": "plum",
     "invokedAt": "2022-08-04T17:59:25.542Z"
+  },
+  {
+    "firstName": "Piper",
+    "lastName": "Cooper",
+    "email": "piper.cooper@example.com",
+    "username": "yellowdog959",
+    "password": "benton",
+    "invokedAt": "2022-08-04T18:19:35.634Z"
   }
 ]
