@@ -366,5 +366,13 @@
     "username": "greensnake567",
     "password": "plum",
     "invokedAt": "2022-08-05T14:49:36.417Z"
+  },
+  {
+    "firstName": "Jean-Marc",
+    "lastName": "Perrin",
+    "email": "jean-marc.perrin@example.com",
+    "username": "smallduck264",
+    "password": "divorce",
+    "invokedAt": "2022-08-05T14:55:31.082Z"
   }
 ]
