@@ -726,5 +726,13 @@
     "username": "orangerabbit962",
     "password": "4567",
     "invokedAt": "2022-08-05T23:45:29.055Z"
+  },
+  {
+    "firstName": "Dorota",
+    "lastName": "Zeidler",
+    "email": "dorota.zeidler@example.com",
+    "username": "yellowduck905",
+    "password": "pipeline",
+    "invokedAt": "2022-08-05T23:51:28.213Z"
   }
 ]
