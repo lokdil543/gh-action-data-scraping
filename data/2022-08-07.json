@@ -542,5 +542,13 @@
     "username": "lazypeacock609",
     "password": "office",
     "invokedAt": "2022-08-07T16:11:32.729Z"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Kelley",
+    "email": "kurt.kelley@example.com",
+    "username": "sadfish422",
+    "password": "towers",
+    "invokedAt": "2022-08-07T16:40:17.257Z"
   }
 ]
