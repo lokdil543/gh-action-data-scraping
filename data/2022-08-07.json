@@ -518,5 +518,13 @@
     "username": "yellowfish207",
     "password": "fiction",
     "invokedAt": "2022-08-07T15:44:12.797Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Berry",
+    "email": "rebecca.berry@example.com",
+    "username": "bluewolf391",
+    "password": "firefox",
+    "invokedAt": "2022-08-07T15:50:50.349Z"
   }
 ]
