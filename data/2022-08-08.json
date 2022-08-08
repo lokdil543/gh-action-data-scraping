@@ -102,5 +102,13 @@
     "username": "crazycat109",
     "password": "mortgage",
     "invokedAt": "2022-08-08T06:54:22.765Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Merten",
+    "email": "john.merten@example.com",
+    "username": "tinyzebra125",
+    "password": "aaaaa1",
+    "invokedAt": "2022-08-08T07:00:38.654Z"
   }
 ]
