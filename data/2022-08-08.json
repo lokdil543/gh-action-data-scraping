@@ -678,5 +678,13 @@
     "username": "silverostrich902",
     "password": "grant",
     "invokedAt": "2022-08-08T22:02:23.262Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Kinnunen",
+    "email": "aapo.kinnunen@example.com",
+    "username": "tinywolf647",
+    "password": "slick",
+    "invokedAt": "2022-08-08T22:25:20.401Z"
   }
 ]
