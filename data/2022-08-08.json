@@ -246,5 +246,13 @@
     "username": "greenwolf761",
     "password": "three",
     "invokedAt": "2022-08-08T10:31:00.678Z"
+  },
+  {
+    "firstName": "Yaroslav",
+    "lastName": "Polotnyuk",
+    "email": "yaroslav.polotnyuk@example.com",
+    "username": "blueduck587",
+    "password": "lemonade",
+    "invokedAt": "2022-08-08T10:43:44.609Z"
   }
 ]
