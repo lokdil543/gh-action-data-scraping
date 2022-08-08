@@ -542,5 +542,13 @@
     "username": "yellowpeacock852",
     "password": "redbull",
     "invokedAt": "2022-08-08T19:26:19.807Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Seppala",
+    "email": "vaino.seppala@example.com",
+    "username": "yellowleopard967",
+    "password": "goodtime",
+    "invokedAt": "2022-08-08T19:32:53.341Z"
   }
 ]
