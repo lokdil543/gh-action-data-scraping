@@ -246,5 +246,13 @@
     "username": "goldenfrog898",
     "password": "cubbies",
     "invokedAt": "2022-08-09T10:33:58.397Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Thompson",
+    "email": "william.thompson@example.com",
+    "username": "sadmouse120",
+    "password": "baddest",
+    "invokedAt": "2022-08-09T10:46:11.649Z"
   }
 ]
