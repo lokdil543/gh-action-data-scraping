@@ -422,5 +422,13 @@
     "username": "tinyfish436",
     "password": "shopping",
     "invokedAt": "2022-08-09T15:54:39.812Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Martin",
+    "email": "kirk.martin@example.com",
+    "username": "tinysnake226",
+    "password": "stang",
+    "invokedAt": "2022-08-09T16:00:28.791Z"
   }
 ]
