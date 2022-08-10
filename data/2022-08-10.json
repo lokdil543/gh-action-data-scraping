@@ -742,5 +742,13 @@
     "username": "lazygorilla427",
     "password": "bosco",
     "invokedAt": "2022-08-10T22:18:33.877Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Le Gall",
+    "email": "nina.legall@example.com",
+    "username": "yellowgorilla391",
+    "password": "tototo",
+    "invokedAt": "2022-08-10T22:33:28.908Z"
   }
 ]
