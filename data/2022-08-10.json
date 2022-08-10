@@ -606,5 +606,13 @@
     "username": "redtiger462",
     "password": "wowwow",
     "invokedAt": "2022-08-10T19:36:29.692Z"
+  },
+  {
+    "firstName": "Sacha",
+    "lastName": "Gautier",
+    "email": "sacha.gautier@example.com",
+    "username": "angrykoala157",
+    "password": "bonkers",
+    "invokedAt": "2022-08-10T19:42:17.818Z"
   }
 ]
