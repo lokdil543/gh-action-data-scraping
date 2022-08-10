@@ -470,5 +470,13 @@
     "username": "whitelion814",
     "password": "bucket",
     "invokedAt": "2022-08-10T15:30:28.013Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Salonen",
+    "email": "emil.salonen@example.com",
+    "username": "sadmouse649",
+    "password": "happy2",
+    "invokedAt": "2022-08-10T15:43:23.723Z"
   }
 ]
