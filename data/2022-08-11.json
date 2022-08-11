@@ -414,5 +414,13 @@
     "username": "greenfish795",
     "password": "battle",
     "invokedAt": "2022-08-11T14:38:38.882Z"
+  },
+  {
+    "firstName": "Thiago",
+    "lastName": "Dupont",
+    "email": "thiago.dupont@example.com",
+    "username": "happykoala974",
+    "password": "vanilla",
+    "invokedAt": "2022-08-11T14:45:11.829Z"
   }
 ]
