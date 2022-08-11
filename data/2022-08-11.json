@@ -550,5 +550,13 @@
     "username": "blackfish523",
     "password": "dottie",
     "invokedAt": "2022-08-11T18:14:34.255Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Benítez",
+    "email": "hugo.benitez@example.com",
+    "username": "silverfrog128",
+    "password": "mailman",
+    "invokedAt": "2022-08-11T18:38:17.459Z"
   }
 ]
