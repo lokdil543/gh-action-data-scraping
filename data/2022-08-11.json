@@ -446,5 +446,13 @@
     "username": "lazyduck554",
     "password": "springer",
     "invokedAt": "2022-08-11T15:11:06.264Z"
+  },
+  {
+    "firstName": "Brayen",
+    "lastName": "Wekema",
+    "email": "brayen.wekema@example.com",
+    "username": "bluedog423",
+    "password": "older",
+    "invokedAt": "2022-08-11T15:31:37.338Z"
   }
 ]
