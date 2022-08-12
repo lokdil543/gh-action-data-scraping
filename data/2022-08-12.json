@@ -662,5 +662,13 @@
     "username": "browntiger241",
     "password": "cash",
     "invokedAt": "2022-08-12T21:37:19.818Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Christensen",
+    "email": "frederik.christensen@example.com",
+    "username": "purplecat871",
+    "password": "freeuser",
+    "invokedAt": "2022-08-12T21:44:26.619Z"
   }
 ]
