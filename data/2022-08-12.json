@@ -686,5 +686,13 @@
     "username": "heavygoose964",
     "password": "exchange",
     "invokedAt": "2022-08-12T21:56:11.337Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Pedersen",
+    "email": "laura.pedersen@example.com",
+    "username": "greenostrich504",
+    "password": "eclipse",
+    "invokedAt": "2022-08-12T22:09:23.828Z"
   }
 ]
