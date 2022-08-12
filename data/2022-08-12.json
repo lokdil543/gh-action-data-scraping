@@ -502,5 +502,13 @@
     "username": "purpledog692",
     "password": "camel",
     "invokedAt": "2022-08-12T18:00:28.854Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Rodríguez",
+    "email": "xavier.rodriguez@example.com",
+    "username": "beautifulpanda314",
+    "password": "tinman",
+    "invokedAt": "2022-08-12T18:22:15.940Z"
   }
 ]
