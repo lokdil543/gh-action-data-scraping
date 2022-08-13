@@ -638,5 +638,13 @@
     "username": "brownbutterfly595",
     "password": "chelsea1",
     "invokedAt": "2022-08-13T19:00:37.993Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Meyer",
+    "email": "felix.meyer@example.com",
+    "username": "heavyrabbit431",
+    "password": "fishing",
+    "invokedAt": "2022-08-13T19:14:38.689Z"
   }
 ]
