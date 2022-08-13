@@ -734,5 +734,13 @@
     "username": "heavyrabbit845",
     "password": "core",
     "invokedAt": "2022-08-13T20:50:12.751Z"
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Thomas",
+    "email": "nicholas.thomas@example.com",
+    "username": "lazygoose714",
+    "password": "spliff",
+    "invokedAt": "2022-08-13T20:55:46.092Z"
   }
 ]
