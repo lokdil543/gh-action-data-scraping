@@ -678,5 +678,13 @@
     "username": "tinykoala154",
     "password": "thumb",
     "invokedAt": "2022-08-13T19:42:58.631Z"
+  },
+  {
+    "firstName": "Adeli",
+    "lastName": "Campos",
+    "email": "adeli.campos@example.com",
+    "username": "tinydog820",
+    "password": "django",
+    "invokedAt": "2022-08-13T19:48:58.865Z"
   }
 ]
