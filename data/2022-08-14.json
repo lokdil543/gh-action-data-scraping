@@ -806,5 +806,13 @@
     "username": "redtiger243",
     "password": "chips",
     "invokedAt": "2022-08-14T22:44:25.123Z"
+  },
+  {
+    "firstName": "Özsu",
+    "lastName": "Özdoğan",
+    "email": "ozsu.ozdogan@example.com",
+    "username": "happyfrog916",
+    "password": "404040",
+    "invokedAt": "2022-08-14T22:50:21.556Z"
   }
 ]
