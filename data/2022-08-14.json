@@ -798,5 +798,13 @@
     "username": "goldengorilla223",
     "password": "penguin",
     "invokedAt": "2022-08-14T22:36:51.538Z"
+  },
+  {
+    "firstName": "Colette",
+    "lastName": "Deschamps",
+    "email": "colette.deschamps@example.com",
+    "username": "redtiger243",
+    "password": "chips",
+    "invokedAt": "2022-08-14T22:44:25.123Z"
   }
 ]
