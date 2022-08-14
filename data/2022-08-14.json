@@ -350,5 +350,13 @@
     "username": "crazyzebra241",
     "password": "asdfghj",
     "invokedAt": "2022-08-14T11:42:45.596Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Adıvar",
+    "email": "kadir.adivar@example.com",
+    "username": "goldencat509",
+    "password": "norris",
+    "invokedAt": "2022-08-14T11:48:47.527Z"
   }
 ]
