@@ -678,5 +678,13 @@
     "username": "happytiger742",
     "password": "paranoid",
     "invokedAt": "2022-08-15T23:00:00.291Z"
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Nichols",
+    "email": "teresa.nichols@example.com",
+    "username": "happybird953",
+    "password": "mypass",
+    "invokedAt": "2022-08-15T23:18:11.268Z"
   }
 ]
