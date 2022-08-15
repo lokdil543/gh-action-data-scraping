@@ -478,5 +478,13 @@
     "username": "crazygorilla604",
     "password": "redsox1",
     "invokedAt": "2022-08-15T18:55:52.035Z"
+  },
+  {
+    "firstName": "Bertrand",
+    "lastName": "Giraud",
+    "email": "bertrand.giraud@example.com",
+    "username": "happykoala969",
+    "password": "hedgehog",
+    "invokedAt": "2022-08-15T19:06:36.664Z"
   }
 ]
