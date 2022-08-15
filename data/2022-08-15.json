@@ -286,5 +286,13 @@
     "username": "happyostrich914",
     "password": "inside",
     "invokedAt": "2022-08-15T11:52:31.558Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "West",
+    "email": "gene.west@example.com",
+    "username": "yellowmeercat341",
+    "password": "vivian",
+    "invokedAt": "2022-08-15T11:58:24.448Z"
   }
 ]
