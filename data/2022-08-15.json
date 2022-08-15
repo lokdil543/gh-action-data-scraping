@@ -510,5 +510,13 @@
     "username": "goldenfrog645",
     "password": "titanium",
     "invokedAt": "2022-08-15T19:35:15.622Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Christiansen",
+    "email": "gustav.christiansen@example.com",
+    "username": "crazygorilla703",
+    "password": "testtest",
+    "invokedAt": "2022-08-15T19:42:06.796Z"
   }
 ]
