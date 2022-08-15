@@ -254,5 +254,13 @@
     "username": "yellowpanda352",
     "password": "walker",
     "invokedAt": "2022-08-15T11:25:23.830Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Rodriguez",
+    "email": "jonathan.rodriguez@example.com",
+    "username": "orangebutterfly368",
+    "password": "zxcvb",
+    "invokedAt": "2022-08-15T11:33:21.430Z"
   }
 ]
