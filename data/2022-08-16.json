@@ -462,5 +462,13 @@
     "username": "crazyzebra353",
     "password": "loveyou",
     "invokedAt": "2022-08-16T14:27:47.618Z"
+  },
+  {
+    "firstName": "Conner",
+    "lastName": "Van de Vijver",
+    "email": "conner.vandevijver@example.com",
+    "username": "bigcat415",
+    "password": "machine",
+    "invokedAt": "2022-08-16T14:36:11.340Z"
   }
 ]
