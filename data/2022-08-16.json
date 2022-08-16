@@ -774,5 +774,13 @@
     "username": "redladybug234",
     "password": "celebrity",
     "invokedAt": "2022-08-16T22:07:00.059Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "King",
+    "email": "mary.king@example.com",
+    "username": "yellowduck515",
+    "password": "smithers",
+    "invokedAt": "2022-08-16T22:28:00.609Z"
   }
 ]
