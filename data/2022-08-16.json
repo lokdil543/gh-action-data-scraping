@@ -678,5 +678,13 @@
     "username": "lazylion829",
     "password": "harbor",
     "invokedAt": "2022-08-16T19:59:28.399Z"
+  },
+  {
+    "firstName": "Stefano",
+    "lastName": "Meier",
+    "email": "stefano.meier@example.com",
+    "username": "heavybear329",
+    "password": "project",
+    "invokedAt": "2022-08-16T20:17:49.380Z"
   }
 ]
