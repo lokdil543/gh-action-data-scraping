@@ -734,5 +734,13 @@
     "username": "blackmeercat600",
     "password": "intel",
     "invokedAt": "2022-08-16T21:26:17.403Z"
+  },
+  {
+    "firstName": "Linus",
+    "lastName": "Boden",
+    "email": "linus.boden@example.com",
+    "username": "organicgorilla628",
+    "password": "1234abcd",
+    "invokedAt": "2022-08-16T21:35:30.311Z"
   }
 ]
