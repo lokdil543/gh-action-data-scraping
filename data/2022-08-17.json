@@ -350,5 +350,13 @@
     "username": "greenrabbit456",
     "password": "keepout",
     "invokedAt": "2022-08-17T15:07:18.618Z"
+  },
+  {
+    "firstName": "Auguste",
+    "lastName": "Rousseau",
+    "email": "auguste.rousseau@example.com",
+    "username": "beautifulrabbit755",
+    "password": "pasword",
+    "invokedAt": "2022-08-17T15:31:39.873Z"
   }
 ]
