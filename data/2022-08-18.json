@@ -230,5 +230,13 @@
     "username": "orangebear238",
     "password": "ticket",
     "invokedAt": "2022-08-18T10:53:40.230Z"
+  },
+  {
+    "firstName": "Candice",
+    "lastName": "Olivier",
+    "email": "candice.olivier@example.com",
+    "username": "purplerabbit926",
+    "password": "global",
+    "invokedAt": "2022-08-18T10:59:32.719Z"
   }
 ]
