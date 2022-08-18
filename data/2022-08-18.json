@@ -206,5 +206,13 @@
     "username": "heavyduck387",
     "password": "awful",
     "invokedAt": "2022-08-18T10:11:24.436Z"
+  },
+  {
+    "firstName": "Buymir",
+    "lastName": "Demich",
+    "email": "buymir.demich@example.com",
+    "username": "bigfish836",
+    "password": "abcde",
+    "invokedAt": "2022-08-18T10:34:04.788Z"
   }
 ]
