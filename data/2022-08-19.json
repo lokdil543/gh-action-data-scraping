@@ -294,5 +294,13 @@
     "username": "sadbear642",
     "password": "traffic",
     "invokedAt": "2022-08-19T11:57:50.543Z"
+  },
+  {
+    "firstName": "Avery",
+    "lastName": "Anderson",
+    "email": "avery.anderson@example.com",
+    "username": "happybear302",
+    "password": "woohoo",
+    "invokedAt": "2022-08-19T12:23:13.836Z"
   }
 ]
