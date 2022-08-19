@@ -582,5 +582,13 @@
     "username": "purplekoala220",
     "password": "jamaica",
     "invokedAt": "2022-08-19T21:08:34.590Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Møller",
+    "email": "marie.moller@example.com",
+    "username": "whitesnake877",
+    "password": "white1",
+    "invokedAt": "2022-08-19T21:25:22.610Z"
   }
 ]
