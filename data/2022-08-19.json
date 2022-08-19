@@ -150,5 +150,13 @@
     "username": "lazykoala153",
     "password": "summit",
     "invokedAt": "2022-08-19T08:33:58.409Z"
+  },
+  {
+    "firstName": "Gabor",
+    "lastName": "Weiss",
+    "email": "gabor.weiss@example.com",
+    "username": "whitefish206",
+    "password": "4242",
+    "invokedAt": "2022-08-19T08:50:18.979Z"
   }
 ]
