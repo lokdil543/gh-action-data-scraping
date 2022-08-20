@@ -430,5 +430,13 @@
     "username": "happywolf787",
     "password": "longbow",
     "invokedAt": "2022-08-20T15:54:42.910Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Kristensen",
+    "email": "andreas.kristensen@example.com",
+    "username": "whiteelephant635",
+    "password": "hunt",
+    "invokedAt": "2022-08-20T16:00:44.251Z"
   }
 ]
