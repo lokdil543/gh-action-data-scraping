@@ -382,5 +382,13 @@
     "username": "crazyelephant160",
     "password": "anthony",
     "invokedAt": "2022-08-21T19:55:16.545Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Çörekçi",
+    "email": "ceylan.corekci@example.com",
+    "username": "blackrabbit887",
+    "password": "doubled",
+    "invokedAt": "2022-08-21T20:27:32.442Z"
   }
 ]
