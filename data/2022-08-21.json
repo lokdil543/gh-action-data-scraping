@@ -390,5 +390,13 @@
     "username": "blackrabbit887",
     "password": "doubled",
     "invokedAt": "2022-08-21T20:27:32.442Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Williamson",
+    "email": "sam.williamson@example.com",
+    "username": "redpanda331",
+    "password": "asdfghj",
+    "invokedAt": "2022-08-21T20:51:58.594Z"
   }
 ]
