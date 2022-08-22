@@ -326,5 +326,13 @@
     "username": "silversnake630",
     "password": "concorde",
     "invokedAt": "2022-08-22T19:53:30.495Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Sims",
+    "email": "dick.sims@example.com",
+    "username": "goldenbear511",
+    "password": "vector",
+    "invokedAt": "2022-08-22T19:59:32.036Z"
   }
 ]
