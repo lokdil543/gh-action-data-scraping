@@ -526,5 +526,13 @@
     "username": "yellowrabbit171",
     "password": "boeing",
     "invokedAt": "2022-08-23T20:18:53.167Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Pelto",
+    "email": "amanda.pelto@example.com",
+    "username": "yellowmeercat408",
+    "password": "knickers",
+    "invokedAt": "2022-08-23T20:34:38.444Z"
   }
 ]
