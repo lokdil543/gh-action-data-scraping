@@ -374,5 +374,13 @@
     "username": "orangefish205",
     "password": "zero",
     "invokedAt": "2022-08-23T15:58:56.361Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Giménez",
+    "email": "lucas.gimenez@example.com",
+    "username": "greenpeacock828",
+    "password": "springs",
+    "invokedAt": "2022-08-23T16:50:10.934Z"
   }
 ]
