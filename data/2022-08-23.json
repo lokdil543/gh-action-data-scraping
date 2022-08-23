@@ -462,5 +462,13 @@
     "username": "blueduck628",
     "password": "bristol",
     "invokedAt": "2022-08-23T19:08:17.720Z"
+  },
+  {
+    "firstName": "Radomir",
+    "lastName": "Blagojević",
+    "email": "radomir.blagojevic@example.com",
+    "username": "tinyduck708",
+    "password": "baby",
+    "invokedAt": "2022-08-23T19:22:36.950Z"
   }
 ]
