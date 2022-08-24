@@ -566,5 +566,13 @@
     "username": "purplebird902",
     "password": "alberta",
     "invokedAt": "2022-08-24T20:46:03.672Z"
+  },
+  {
+    "firstName": "Danielle",
+    "lastName": "James",
+    "email": "danielle.james@example.com",
+    "username": "purpledog300",
+    "password": "simmons",
+    "invokedAt": "2022-08-24T20:50:43.160Z"
   }
 ]
