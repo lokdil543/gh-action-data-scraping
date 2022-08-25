@@ -462,5 +462,13 @@
     "username": "browndog513",
     "password": "weird",
     "invokedAt": "2022-08-25T19:39:15.390Z"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Mccoy",
+    "email": "keith.mccoy@example.com",
+    "username": "happyswan721",
+    "password": "demons",
+    "invokedAt": "2022-08-25T19:45:14.208Z"
   }
 ]
