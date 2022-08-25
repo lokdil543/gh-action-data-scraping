@@ -166,5 +166,13 @@
     "username": "whitefrog206",
     "password": "mustang1",
     "invokedAt": "2022-08-25T10:30:37.317Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Tanrıkulu",
+    "email": "ahmet.tanrikulu@example.com",
+    "username": "bigmeercat848",
+    "password": "abcd1234",
+    "invokedAt": "2022-08-25T10:45:52.355Z"
   }
 ]
