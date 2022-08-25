@@ -630,5 +630,13 @@
     "username": "greenbird452",
     "password": "honeybee",
     "invokedAt": "2022-08-25T23:27:58.573Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Bajević",
+    "email": "marko.bajevic@example.com",
+    "username": "ticklishfish274",
+    "password": "danger",
+    "invokedAt": "2022-08-25T23:43:27.990Z"
   }
 ]
