@@ -710,5 +710,13 @@
     "username": "happyleopard593",
     "password": "sport",
     "invokedAt": "2022-08-27T23:12:59.558Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Renaud",
+    "email": "pierre.renaud@example.com",
+    "username": "goldencat742",
+    "password": "mustangs",
+    "invokedAt": "2022-08-27T23:29:57.742Z"
   }
 ]
