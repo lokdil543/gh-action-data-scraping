@@ -262,5 +262,13 @@
     "username": "silverfrog236",
     "password": "trinity",
     "invokedAt": "2022-08-27T11:08:54.046Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Koivisto",
+    "email": "aleksi.koivisto@example.com",
+    "username": "bluegoose800",
+    "password": "carroll",
+    "invokedAt": "2022-08-27T11:24:05.174Z"
   }
 ]
