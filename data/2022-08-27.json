@@ -390,5 +390,13 @@
     "username": "orangesnake572",
     "password": "woofwoof",
     "invokedAt": "2022-08-27T14:54:10.035Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Hansen",
+    "email": "marie.hansen@example.com",
+    "username": "goldenostrich123",
+    "password": "bigblock",
+    "invokedAt": "2022-08-27T15:00:03.187Z"
   }
 ]
