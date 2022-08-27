@@ -142,5 +142,13 @@
     "username": "sadladybug592",
     "password": "sixers",
     "invokedAt": "2022-08-27T08:19:33.242Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "May",
+    "email": "cassandra.may@example.com",
+    "username": "bluemouse535",
+    "password": "treefrog",
+    "invokedAt": "2022-08-27T08:40:04.567Z"
   }
 ]
