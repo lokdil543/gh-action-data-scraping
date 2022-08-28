@@ -774,5 +774,13 @@
     "username": "purplegoose345",
     "password": "winger",
     "invokedAt": "2022-08-28T23:49:57.447Z"
+  },
+  {
+    "firstName": "Carsten",
+    "lastName": "Bohm",
+    "email": "carsten.bohm@example.com",
+    "username": "whiteswan521",
+    "password": "anchor",
+    "invokedAt": "2022-08-28T23:55:52.656Z"
   }
 ]
