@@ -638,5 +638,13 @@
     "username": "heavypanda326",
     "password": "bogus",
     "invokedAt": "2022-08-29T23:52:15.621Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Andersen",
+    "email": "maria.andersen@example.com",
+    "username": "redgorilla367",
+    "password": "nope",
+    "invokedAt": "2022-08-29T23:58:05.407Z"
   }
 ]
