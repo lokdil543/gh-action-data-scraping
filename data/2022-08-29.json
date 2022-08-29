@@ -630,5 +630,13 @@
     "username": "beautifulfrog125",
     "password": "links",
     "invokedAt": "2022-08-29T23:43:06.556Z"
+  },
+  {
+    "firstName": "Akshitha",
+    "lastName": "Pai",
+    "email": "akshitha.pai@example.com",
+    "username": "heavypanda326",
+    "password": "bogus",
+    "invokedAt": "2022-08-29T23:52:15.621Z"
   }
 ]
