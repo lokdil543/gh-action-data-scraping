@@ -518,5 +518,13 @@
     "username": "bigzebra740",
     "password": "beatles",
     "invokedAt": "2022-08-29T20:58:01.307Z"
+  },
+  {
+    "firstName": "Indie",
+    "lastName": "Brown",
+    "email": "indie.brown@example.com",
+    "username": "bluebear952",
+    "password": "rover",
+    "invokedAt": "2022-08-29T21:12:14.142Z"
   }
 ]
