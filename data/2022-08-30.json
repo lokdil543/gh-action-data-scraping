@@ -326,5 +326,13 @@
     "username": "blueladybug530",
     "password": "puppet",
     "invokedAt": "2022-08-30T15:47:52.023Z"
+  },
+  {
+    "firstName": "Valentín",
+    "lastName": "Ferrer",
+    "email": "valentin.ferrer@example.com",
+    "username": "orangeelephant859",
+    "password": "serenity",
+    "invokedAt": "2022-08-30T15:55:45.369Z"
   }
 ]
