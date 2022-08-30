@@ -294,5 +294,13 @@
     "username": "heavywolf485",
     "password": "bucket",
     "invokedAt": "2022-08-30T14:51:38.783Z"
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Bates",
+    "email": "sally.bates@example.com",
+    "username": "greenwolf348",
+    "password": "cherry",
+    "invokedAt": "2022-08-30T14:56:33.900Z"
   }
 ]
