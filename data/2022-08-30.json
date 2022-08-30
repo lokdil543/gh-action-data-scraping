@@ -398,5 +398,13 @@
     "username": "sadmouse131",
     "password": "r2d2",
     "invokedAt": "2022-08-30T18:38:49.916Z"
+  },
+  {
+    "firstName": "Cesar",
+    "lastName": "Sáez",
+    "email": "cesar.saez@example.com",
+    "username": "angrypanda363",
+    "password": "style",
+    "invokedAt": "2022-08-30T18:52:20.466Z"
   }
 ]
