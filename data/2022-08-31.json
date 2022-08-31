@@ -302,5 +302,13 @@
     "username": "greengoose485",
     "password": "california",
     "invokedAt": "2022-08-31T15:44:22.372Z"
+  },
+  {
+    "firstName": "Ishwar",
+    "lastName": "Rai",
+    "email": "ishwar.rai@example.com",
+    "username": "redostrich238",
+    "password": "athena",
+    "invokedAt": "2022-08-31T15:53:26.760Z"
   }
 ]
