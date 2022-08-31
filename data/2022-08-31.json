@@ -246,5 +246,13 @@
     "username": "heavyfrog317",
     "password": "scooter1",
     "invokedAt": "2022-08-31T14:20:56.852Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Shelton",
+    "email": "neil.shelton@example.com",
+    "username": "crazybird220",
+    "password": "papito",
+    "invokedAt": "2022-08-31T14:34:10.160Z"
   }
 ]
