@@ -166,5 +166,13 @@
     "username": "sadwolf518",
     "password": "buzz",
     "invokedAt": "2022-09-01T10:09:38.926Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "De Boon",
+    "email": "matias.deboon@example.com",
+    "username": "whitewolf527",
+    "password": "desert",
+    "invokedAt": "2022-09-01T10:32:07.426Z"
   }
 ]
