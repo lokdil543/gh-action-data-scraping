@@ -94,5 +94,13 @@
     "username": "happycat560",
     "password": "senators",
     "invokedAt": "2022-09-01T07:57:57.761Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Gardner",
+    "email": "ken.gardner@example.com",
+    "username": "whitepanda248",
+    "password": "smith",
+    "invokedAt": "2022-09-01T08:18:49.651Z"
   }
 ]
