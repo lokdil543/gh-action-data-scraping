@@ -182,5 +182,13 @@
     "username": "goldensnake346",
     "password": "aptiva",
     "invokedAt": "2022-09-01T10:53:11.558Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Andersen",
+    "email": "rosa.andersen@example.com",
+    "username": "redpanda822",
+    "password": "rogers",
+    "invokedAt": "2022-09-01T10:59:17.774Z"
   }
 ]
