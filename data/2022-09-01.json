@@ -302,5 +302,13 @@
     "username": "whitepanda156",
     "password": "100000",
     "invokedAt": "2022-09-01T14:44:27.355Z"
+  },
+  {
+    "firstName": "Nathalie",
+    "lastName": "Roux",
+    "email": "nathalie.roux@example.com",
+    "username": "whitezebra602",
+    "password": "smurf",
+    "invokedAt": "2022-09-01T14:50:23.985Z"
   }
 ]
