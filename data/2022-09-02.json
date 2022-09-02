@@ -278,5 +278,13 @@
     "username": "heavyfish906",
     "password": "goodie",
     "invokedAt": "2022-09-02T14:12:35.336Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Hudson",
+    "email": "steve.hudson@example.com",
+    "username": "beautifulfish760",
+    "password": "clouds",
+    "invokedAt": "2022-09-02T14:28:28.655Z"
   }
 ]
