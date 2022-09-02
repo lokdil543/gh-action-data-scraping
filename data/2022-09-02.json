@@ -542,5 +542,13 @@
     "username": "greendog219",
     "password": "aceace",
     "invokedAt": "2022-09-02T20:55:43.292Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Salminen",
+    "email": "viljami.salminen@example.com",
+    "username": "organicduck854",
+    "password": "bummer",
+    "invokedAt": "2022-09-02T21:06:45.504Z"
   }
 ]
