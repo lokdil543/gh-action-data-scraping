@@ -230,5 +230,13 @@
     "username": "heavyfish412",
     "password": "turkey",
     "invokedAt": "2022-09-03T10:45:09.451Z"
+  },
+  {
+    "firstName": "Georgije",
+    "lastName": "Katić",
+    "email": "georgije.katic@example.com",
+    "username": "lazyrabbit374",
+    "password": "fiddle",
+    "invokedAt": "2022-09-03T10:51:48.592Z"
   }
 ]
