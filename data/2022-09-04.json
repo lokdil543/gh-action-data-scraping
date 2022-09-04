@@ -262,5 +262,13 @@
     "username": "bigtiger883",
     "password": "showing",
     "invokedAt": "2022-09-04T11:23:29.410Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Wainio",
+    "email": "vaino.wainio@example.com",
+    "username": "happyduck688",
+    "password": "addison",
+    "invokedAt": "2022-09-04T11:31:10.413Z"
   }
 ]
