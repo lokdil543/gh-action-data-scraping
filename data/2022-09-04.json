@@ -310,5 +310,13 @@
     "username": "bigmeercat261",
     "password": "frodo1",
     "invokedAt": "2022-09-04T12:16:18.295Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Mortensen",
+    "email": "william.mortensen@example.com",
+    "username": "smallduck521",
+    "password": "theater",
+    "invokedAt": "2022-09-04T12:57:11.329Z"
   }
 ]
