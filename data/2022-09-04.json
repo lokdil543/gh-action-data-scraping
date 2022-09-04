@@ -286,5 +286,13 @@
     "username": "whiteelephant119",
     "password": "nopass",
     "invokedAt": "2022-09-04T11:44:33.252Z"
+  },
+  {
+    "firstName": "Hernán",
+    "lastName": "Parra",
+    "email": "hernan.parra@example.com",
+    "username": "blacklion676",
+    "password": "forrest",
+    "invokedAt": "2022-09-04T11:50:27.286Z"
   }
 ]
