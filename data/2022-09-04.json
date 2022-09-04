@@ -254,5 +254,13 @@
     "username": "blackfrog667",
     "password": "tang",
     "invokedAt": "2022-09-04T11:08:17.392Z"
+  },
+  {
+    "firstName": "Tore",
+    "lastName": "Utsi",
+    "email": "tore.utsi@example.com",
+    "username": "bigtiger883",
+    "password": "showing",
+    "invokedAt": "2022-09-04T11:23:29.410Z"
   }
 ]
