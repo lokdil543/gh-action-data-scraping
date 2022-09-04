@@ -382,5 +382,13 @@
     "username": "organicdog147",
     "password": "robotics",
     "invokedAt": "2022-09-04T14:44:13.269Z"
+  },
+  {
+    "firstName": "Matthieu",
+    "lastName": "Lambert",
+    "email": "matthieu.lambert@example.com",
+    "username": "whitefish907",
+    "password": "123321",
+    "invokedAt": "2022-09-04T14:50:03.303Z"
   }
 ]
