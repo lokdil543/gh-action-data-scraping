@@ -302,5 +302,13 @@
     "username": "blueduck887",
     "password": "8inches",
     "invokedAt": "2022-09-05T15:20:09.134Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Taylor",
+    "email": "roger.taylor@example.com",
+    "username": "biglion514",
+    "password": "macmac",
+    "invokedAt": "2022-09-05T15:38:53.148Z"
   }
 ]
