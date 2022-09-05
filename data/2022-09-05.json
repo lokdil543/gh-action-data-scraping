@@ -286,5 +286,13 @@
     "username": "happyswan907",
     "password": "track",
     "invokedAt": "2022-09-05T14:54:29.280Z"
+  },
+  {
+    "firstName": "Jerome",
+    "lastName": "Snyder",
+    "email": "jerome.snyder@example.com",
+    "username": "heavygoose587",
+    "password": "napoleon",
+    "invokedAt": "2022-09-05T15:00:11.307Z"
   }
 ]
