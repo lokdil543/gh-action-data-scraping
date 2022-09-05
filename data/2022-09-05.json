@@ -518,5 +518,13 @@
     "username": "silverleopard464",
     "password": "start",
     "invokedAt": "2022-09-05T21:16:10.132Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Van Nieuwburg",
+    "email": "frederik.vannieuwburg@example.com",
+    "username": "greenbird624",
+    "password": "boogie",
+    "invokedAt": "2022-09-05T21:30:42.367Z"
   }
 ]
