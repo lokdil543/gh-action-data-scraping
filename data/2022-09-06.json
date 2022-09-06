@@ -558,5 +558,13 @@
     "username": "orangewolf488",
     "password": "umbrella",
     "invokedAt": "2022-09-06T22:58:15.424Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Stone",
+    "email": "marcus.stone@example.com",
+    "username": "blackrabbit888",
+    "password": "shalom",
+    "invokedAt": "2022-09-06T23:15:19.182Z"
   }
 ]
