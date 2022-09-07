@@ -334,5 +334,13 @@
     "username": "smallfish115",
     "password": "abraham",
     "invokedAt": "2022-09-07T19:33:05.268Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Van Oirschot",
+    "email": "lauren.vanoirschot@example.com",
+    "username": "smallzebra688",
+    "password": "abcde",
+    "invokedAt": "2022-09-07T19:42:40.330Z"
   }
 ]
