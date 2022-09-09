@@ -366,5 +366,13 @@
     "username": "smallsnake804",
     "password": "2005",
     "invokedAt": "2022-09-09T21:59:56.558Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Legrand",
+    "email": "camille.legrand@example.com",
+    "username": "smallcat180",
+    "password": "getout",
+    "invokedAt": "2022-09-09T22:49:33.194Z"
   }
 ]
