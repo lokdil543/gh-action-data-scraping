@@ -310,5 +310,13 @@
     "username": "purpletiger557",
     "password": "holiday",
     "invokedAt": "2022-09-09T20:11:47.267Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Fitzpatrick",
+    "email": "bob.fitzpatrick@example.com",
+    "username": "blackostrich382",
+    "password": "kristi",
+    "invokedAt": "2022-09-09T20:33:49.417Z"
   }
 ]
