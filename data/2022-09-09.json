@@ -278,5 +278,13 @@
     "username": "greendog916",
     "password": "buzzer",
     "invokedAt": "2022-09-09T19:38:05.527Z"
+  },
+  {
+    "firstName": "Stojan",
+    "lastName": "Vuksanović",
+    "email": "stojan.vuksanovic@example.com",
+    "username": "heavypanda483",
+    "password": "high",
+    "invokedAt": "2022-09-09T19:44:43.411Z"
   }
 ]
