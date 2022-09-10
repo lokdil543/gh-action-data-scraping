@@ -318,5 +318,13 @@
     "username": "bigmouse972",
     "password": "aaaaa",
     "invokedAt": "2022-09-10T21:30:08.655Z"
+  },
+  {
+    "firstName": "Ivana",
+    "lastName": "Tomašević",
+    "email": "ivana.tomasevic@example.com",
+    "username": "greenelephant673",
+    "password": "revolver",
+    "invokedAt": "2022-09-10T21:41:31.397Z"
   }
 ]
