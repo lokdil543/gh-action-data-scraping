@@ -326,5 +326,13 @@
     "username": "greenelephant673",
     "password": "revolver",
     "invokedAt": "2022-09-10T21:41:31.397Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Heinonen",
+    "email": "daniel.heinonen@example.com",
+    "username": "blackdog378",
+    "password": "1963",
+    "invokedAt": "2022-09-10T21:49:28.636Z"
   }
 ]
