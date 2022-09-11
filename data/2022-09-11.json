@@ -406,5 +406,13 @@
     "username": "crazybutterfly900",
     "password": "peewee",
     "invokedAt": "2022-09-11T21:47:33.247Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Olson",
+    "email": "pedro.olson@example.com",
+    "username": "bluegoose722",
+    "password": "topgun",
+    "invokedAt": "2022-09-11T21:53:51.964Z"
   }
 ]
