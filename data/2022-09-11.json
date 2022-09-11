@@ -166,5 +166,13 @@
     "username": "orangedog986",
     "password": "escape",
     "invokedAt": "2022-09-11T10:38:18.515Z"
+  },
+  {
+    "firstName": "Romeo",
+    "lastName": "Rolland",
+    "email": "romeo.rolland@example.com",
+    "username": "brownfish710",
+    "password": "mikey1",
+    "invokedAt": "2022-09-11T10:49:53.260Z"
   }
 ]
