@@ -422,5 +422,13 @@
     "username": "greenrabbit533",
     "password": "bookie",
     "invokedAt": "2022-09-11T21:59:35.238Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Vincent",
+    "email": "paul.vincent@example.com",
+    "username": "lazyrabbit454",
+    "password": "brain",
+    "invokedAt": "2022-09-11T22:17:52.526Z"
   }
 ]
