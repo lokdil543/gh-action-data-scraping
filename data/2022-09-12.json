@@ -86,5 +86,13 @@
     "username": "blackbear278",
     "password": "poiuy",
     "invokedAt": "2022-09-12T11:58:25.321Z"
+  },
+  {
+    "firstName": "Yann",
+    "lastName": "Arnaud",
+    "email": "yann.arnaud@example.com",
+    "username": "purpleswan612",
+    "password": "karate",
+    "invokedAt": "2022-09-12T12:33:08.333Z"
   }
 ]
