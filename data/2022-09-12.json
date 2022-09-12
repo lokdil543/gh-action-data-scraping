@@ -286,5 +286,13 @@
     "username": "bigbutterfly371",
     "password": "painting",
     "invokedAt": "2022-09-12T23:20:13.800Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Laurent",
+    "email": "nael.laurent@example.com",
+    "username": "smallleopard234",
+    "password": "getting",
+    "invokedAt": "2022-09-12T23:40:03.282Z"
   }
 ]
