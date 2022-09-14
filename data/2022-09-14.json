@@ -262,5 +262,13 @@
     "username": "goldenbird369",
     "password": "integra",
     "invokedAt": "2022-09-14T23:18:52.463Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Lindanger",
+    "email": "sarah.lindanger@example.com",
+    "username": "redpanda147",
+    "password": "speedo",
+    "invokedAt": "2022-09-14T23:37:22.144Z"
   }
 ]
