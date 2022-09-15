@@ -262,5 +262,13 @@
     "username": "bluetiger348",
     "password": "lobster",
     "invokedAt": "2022-09-15T15:56:23.718Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Hansen",
+    "email": "joe.hansen@example.com",
+    "username": "heavyrabbit600",
+    "password": "chinook",
+    "invokedAt": "2022-09-15T16:13:21.042Z"
   }
 ]
