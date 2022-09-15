@@ -342,5 +342,13 @@
     "username": "crazytiger252",
     "password": "tequila",
     "invokedAt": "2022-09-15T19:11:42.276Z"
+  },
+  {
+    "firstName": "Chad",
+    "lastName": "Cox",
+    "email": "chad.cox@example.com",
+    "username": "blackwolf561",
+    "password": "mystic",
+    "invokedAt": "2022-09-15T19:27:18.508Z"
   }
 ]
