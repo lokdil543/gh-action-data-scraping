@@ -518,5 +518,13 @@
     "username": "brownkoala792",
     "password": "alaska",
     "invokedAt": "2022-09-16T23:47:13.304Z"
+  },
+  {
+    "firstName": "Ewen",
+    "lastName": "Dupont",
+    "email": "ewen.dupont@example.com",
+    "username": "brownduck421",
+    "password": "wassup",
+    "invokedAt": "2022-09-16T23:58:28.339Z"
   }
 ]
