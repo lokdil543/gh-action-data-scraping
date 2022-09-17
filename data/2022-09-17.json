@@ -318,5 +318,13 @@
     "username": "yellowtiger780",
     "password": "chocolat",
     "invokedAt": "2022-09-17T14:32:25.333Z"
+  },
+  {
+    "firstName": "Branimir",
+    "lastName": "Erceg",
+    "email": "branimir.erceg@example.com",
+    "username": "redmouse909",
+    "password": "steffen",
+    "invokedAt": "2022-09-17T14:44:04.237Z"
   }
 ]
