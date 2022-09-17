@@ -422,5 +422,13 @@
     "username": "greenelephant457",
     "password": "hello",
     "invokedAt": "2022-09-17T17:54:54.617Z"
+  },
+  {
+    "firstName": "Hendrick",
+    "lastName": "Van Deuveren",
+    "email": "hendrick.vandeuveren@example.com",
+    "username": "blackdog313",
+    "password": "sport",
+    "invokedAt": "2022-09-17T18:04:56.529Z"
   }
 ]
