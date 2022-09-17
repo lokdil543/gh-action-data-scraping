@@ -446,5 +446,13 @@
     "username": "greenpeacock101",
     "password": "alfa",
     "invokedAt": "2022-09-17T18:52:14.140Z"
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Hicks",
+    "email": "jared.hicks@example.com",
+    "username": "purplelion989",
+    "password": "qwertyuiop",
+    "invokedAt": "2022-09-17T19:00:00.630Z"
   }
 ]
