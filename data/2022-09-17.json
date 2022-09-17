@@ -430,5 +430,13 @@
     "username": "blackdog313",
     "password": "sport",
     "invokedAt": "2022-09-17T18:04:56.529Z"
+  },
+  {
+    "firstName": "Addison",
+    "lastName": "Jones",
+    "email": "addison.jones@example.com",
+    "username": "heavyostrich204",
+    "password": "pistons",
+    "invokedAt": "2022-09-17T18:33:32.441Z"
   }
 ]
