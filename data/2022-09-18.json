@@ -622,5 +622,13 @@
     "username": "whitefish202",
     "password": "public",
     "invokedAt": "2022-09-18T23:13:41.804Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Møller",
+    "email": "maria.moller@example.com",
+    "username": "yellowlion562",
+    "password": "rrrr",
+    "invokedAt": "2022-09-18T23:33:36.492Z"
   }
 ]
