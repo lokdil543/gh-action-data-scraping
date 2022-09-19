@@ -262,5 +262,13 @@
     "username": "whiterabbit637",
     "password": "broadway",
     "invokedAt": "2022-09-19T17:06:06.287Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Christiansen",
+    "email": "anna.christiansen@example.com",
+    "username": "lazygoose182",
+    "password": "wind",
+    "invokedAt": "2022-09-19T17:42:37.333Z"
   }
 ]
