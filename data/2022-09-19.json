@@ -446,5 +446,13 @@
     "username": "biglion320",
     "password": "cindy",
     "invokedAt": "2022-09-19T22:55:01.383Z"
+  },
+  {
+    "firstName": "Nino",
+    "lastName": "Martin",
+    "email": "nino.martin@example.com",
+    "username": "bluemouse307",
+    "password": "buffet",
+    "invokedAt": "2022-09-19T23:05:36.176Z"
   }
 ]
