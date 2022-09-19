@@ -454,5 +454,13 @@
     "username": "bluemouse307",
     "password": "buffet",
     "invokedAt": "2022-09-19T23:05:36.176Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Robinson",
+    "email": "anna.robinson@example.com",
+    "username": "orangebutterfly493",
+    "password": "double",
+    "invokedAt": "2022-09-19T23:34:02.322Z"
   }
 ]
