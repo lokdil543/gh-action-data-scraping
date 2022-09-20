@@ -326,5 +326,13 @@
     "username": "organicfish433",
     "password": "porter",
     "invokedAt": "2022-09-20T19:02:07.704Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Kari",
+    "email": "samuel.kari@example.com",
+    "username": "crazycat548",
+    "password": "herbie",
+    "invokedAt": "2022-09-20T19:21:53.540Z"
   }
 ]
