@@ -238,5 +238,13 @@
     "username": "purplebear768",
     "password": "mailman",
     "invokedAt": "2022-09-20T15:22:19.476Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Andersen",
+    "email": "nikolaj.andersen@example.com",
+    "username": "heavygoose989",
+    "password": "bloody",
+    "invokedAt": "2022-09-20T15:43:16.628Z"
   }
 ]
