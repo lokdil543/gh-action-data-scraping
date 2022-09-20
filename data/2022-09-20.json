@@ -230,5 +230,13 @@
     "username": "sadtiger371",
     "password": "killbill",
     "invokedAt": "2022-09-20T15:00:24.289Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Hale",
+    "email": "jon.hale@example.com",
+    "username": "purplebear768",
+    "password": "mailman",
+    "invokedAt": "2022-09-20T15:22:19.476Z"
   }
 ]
