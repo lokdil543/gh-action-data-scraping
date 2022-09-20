@@ -30,5 +30,13 @@
     "username": "bigduck259",
     "password": "1115",
     "invokedAt": "2022-09-20T06:11:32.382Z"
+  },
+  {
+    "firstName": "Milovan",
+    "lastName": "Golubović",
+    "email": "milovan.golubovic@example.com",
+    "username": "whitedog811",
+    "password": "postman",
+    "invokedAt": "2022-09-20T06:58:33.101Z"
   }
 ]
