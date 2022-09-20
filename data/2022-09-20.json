@@ -206,5 +206,13 @@
     "username": "bigbird373",
     "password": "redbone",
     "invokedAt": "2022-09-20T14:01:29.494Z"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Jones",
+    "email": "joey.jones@example.com",
+    "username": "beautifulgoose648",
+    "password": "robocop",
+    "invokedAt": "2022-09-20T14:31:39.682Z"
   }
 ]
