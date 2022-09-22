@@ -422,5 +422,13 @@
     "username": "whitetiger864",
     "password": "underwear",
     "invokedAt": "2022-09-22T21:31:10.452Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "López",
+    "email": "david.lopez@example.com",
+    "username": "goldenfish963",
+    "password": "wonder",
+    "invokedAt": "2022-09-22T21:44:56.180Z"
   }
 ]
