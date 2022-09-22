@@ -398,5 +398,13 @@
     "username": "blackdog583",
     "password": "575757",
     "invokedAt": "2022-09-22T20:49:42.824Z"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "Almonte",
+    "email": "guillermo.almonte@example.com",
+    "username": "goldenpanda912",
+    "password": "marathon",
+    "invokedAt": "2022-09-22T20:57:11.386Z"
   }
 ]
