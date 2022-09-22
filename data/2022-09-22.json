@@ -470,5 +470,13 @@
     "username": "goldencat736",
     "password": "romance",
     "invokedAt": "2022-09-22T22:51:52.717Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Olsen",
+    "email": "marius.olsen@example.com",
+    "username": "lazywolf825",
+    "password": "radar",
+    "invokedAt": "2022-09-22T22:57:46.997Z"
   }
 ]
