@@ -446,5 +446,13 @@
     "username": "whitebear443",
     "password": "vulcan",
     "invokedAt": "2022-09-22T21:59:29.178Z"
+  },
+  {
+    "firstName": "Sebastián",
+    "lastName": "Parra",
+    "email": "sebastian.parra@example.com",
+    "username": "orangeswan999",
+    "password": "0123456",
+    "invokedAt": "2022-09-22T22:19:28.859Z"
   }
 ]
