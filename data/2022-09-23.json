@@ -390,5 +390,13 @@
     "username": "smallwolf453",
     "password": "transam",
     "invokedAt": "2022-09-23T21:07:33.704Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Kristensen",
+    "email": "william.kristensen@example.com",
+    "username": "yellowcat199",
+    "password": "cable",
+    "invokedAt": "2022-09-23T21:27:59.926Z"
   }
 ]
