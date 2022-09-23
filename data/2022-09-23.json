@@ -246,5 +246,13 @@
     "username": "silverduck396",
     "password": "napster",
     "invokedAt": "2022-09-23T15:46:14.134Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Rogers",
+    "email": "charlie.rogers@example.com",
+    "username": "blueswan458",
+    "password": "guyver",
+    "invokedAt": "2022-09-23T15:58:55.987Z"
   }
 ]
