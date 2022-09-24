@@ -326,5 +326,13 @@
     "username": "happytiger841",
     "password": "genius",
     "invokedAt": "2022-09-24T15:16:29.234Z"
+  },
+  {
+    "firstName": "Fatmir",
+    "lastName": "Rolland",
+    "email": "fatmir.rolland@example.com",
+    "username": "smallbird666",
+    "password": "private",
+    "invokedAt": "2022-09-24T15:36:56.185Z"
   }
 ]
