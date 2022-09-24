@@ -294,5 +294,13 @@
     "username": "redcat908",
     "password": "saleen",
     "invokedAt": "2022-09-24T14:38:06.621Z"
+  },
+  {
+    "firstName": "Glen",
+    "lastName": "Lord",
+    "email": "glen.lord@example.com",
+    "username": "blackdog789",
+    "password": "birdman",
+    "invokedAt": "2022-09-24T14:46:58.404Z"
   }
 ]
