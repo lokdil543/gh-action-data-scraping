@@ -126,5 +126,13 @@
     "username": "orangepeacock198",
     "password": "notnow",
     "invokedAt": "2022-09-24T09:10:28.600Z"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Jennings",
+    "email": "gavin.jennings@example.com",
+    "username": "greenpeacock656",
+    "password": "zipper",
+    "invokedAt": "2022-09-24T09:32:09.470Z"
   }
 ]
