@@ -190,5 +190,13 @@
     "username": "brownzebra219",
     "password": "global",
     "invokedAt": "2022-09-24T10:57:22.457Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Mccoy",
+    "email": "oscar.mccoy@example.com",
+    "username": "angryostrich171",
+    "password": "brest",
+    "invokedAt": "2022-09-24T11:10:27.282Z"
   }
 ]
