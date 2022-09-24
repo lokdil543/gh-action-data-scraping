@@ -486,5 +486,13 @@
     "username": "silverfish162",
     "password": "fingerig",
     "invokedAt": "2022-09-24T20:00:33.317Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Taylor",
+    "email": "kate.taylor@example.com",
+    "username": "brownladybug106",
+    "password": "clarence",
+    "invokedAt": "2022-09-24T20:21:52.295Z"
   }
 ]
