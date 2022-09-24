@@ -38,5 +38,13 @@
     "username": "tinyduck188",
     "password": "heineken",
     "invokedAt": "2022-09-24T06:03:58.711Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Evans",
+    "email": "sam.evans@example.com",
+    "username": "whiteleopard948",
+    "password": "guest",
+    "invokedAt": "2022-09-24T06:37:28.336Z"
   }
 ]
