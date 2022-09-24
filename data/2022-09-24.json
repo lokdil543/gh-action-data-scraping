@@ -334,5 +334,13 @@
     "username": "smallbird666",
     "password": "private",
     "invokedAt": "2022-09-24T15:36:56.185Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Rey",
+    "email": "thomas.rey@example.com",
+    "username": "blackostrich398",
+    "password": "lions",
+    "invokedAt": "2022-09-24T15:51:02.583Z"
   }
 ]
