@@ -494,5 +494,13 @@
     "username": "yellowdog802",
     "password": "1269",
     "invokedAt": "2022-09-25T20:12:00.391Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Koçoğlu",
+    "email": "efe.kocoglu@example.com",
+    "username": "bigostrich394",
+    "password": "zxc123",
+    "invokedAt": "2022-09-25T20:33:16.492Z"
   }
 ]
