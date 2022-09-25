@@ -462,5 +462,13 @@
     "username": "sadmeercat205",
     "password": "papers",
     "invokedAt": "2022-09-25T19:39:10.503Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Thomas",
+    "email": "edward.thomas@example.com",
+    "username": "bluerabbit442",
+    "password": "cookie1",
+    "invokedAt": "2022-09-25T19:45:05.228Z"
   }
 ]
