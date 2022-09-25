@@ -582,5 +582,13 @@
     "username": "happygoose568",
     "password": "cirrus",
     "invokedAt": "2022-09-25T22:34:33.634Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Caraballo",
+    "email": "andres.caraballo@example.com",
+    "username": "sadrabbit122",
+    "password": "1121",
+    "invokedAt": "2022-09-25T22:47:20.305Z"
   }
 ]
