@@ -126,5 +126,13 @@
     "username": "greenostrich321",
     "password": "piglet",
     "invokedAt": "2022-09-27T11:16:15.767Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Manni",
+    "email": "niklas.manni@example.com",
+    "username": "reddog444",
+    "password": "detroit",
+    "invokedAt": "2022-09-27T11:34:09.293Z"
   }
 ]
