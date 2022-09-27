@@ -342,5 +342,13 @@
     "username": "bigfish678",
     "password": "bamboo",
     "invokedAt": "2022-09-27T21:18:05.432Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Fisher",
+    "email": "tony.fisher@example.com",
+    "username": "lazyfrog359",
+    "password": "galore",
+    "invokedAt": "2022-09-27T21:36:06.421Z"
   }
 ]
