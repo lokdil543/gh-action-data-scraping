@@ -326,5 +326,13 @@
     "username": "sadfish561",
     "password": "stephen",
     "invokedAt": "2022-09-27T20:54:06.367Z"
+  },
+  {
+    "firstName": "Aurelia",
+    "lastName": "Meinders",
+    "email": "aurelia.meinders@example.com",
+    "username": "lazyfish387",
+    "password": "jaeger",
+    "invokedAt": "2022-09-27T21:00:01.416Z"
   }
 ]
