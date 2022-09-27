@@ -118,5 +118,13 @@
     "username": "yellowgorilla631",
     "password": "stalker",
     "invokedAt": "2022-09-27T10:59:22.269Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Dunn",
+    "email": "jim.dunn@example.com",
+    "username": "greenostrich321",
+    "password": "piglet",
+    "invokedAt": "2022-09-27T11:16:15.767Z"
   }
 ]
