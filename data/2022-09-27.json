@@ -358,5 +358,13 @@
     "username": "smallmouse985",
     "password": "national",
     "invokedAt": "2022-09-27T21:49:13.069Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Hansen",
+    "email": "carl.hansen@example.com",
+    "username": "whitebear803",
+    "password": "mercury1",
+    "invokedAt": "2022-09-27T21:56:05.668Z"
   }
 ]
