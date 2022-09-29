@@ -302,5 +302,13 @@
     "username": "purplegorilla429",
     "password": "cardinal",
     "invokedAt": "2022-09-29T19:42:47.359Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Moore",
+    "email": "charles.moore@example.com",
+    "username": "purplebear314",
+    "password": "wage",
+    "invokedAt": "2022-09-29T19:50:58.391Z"
   }
 ]
