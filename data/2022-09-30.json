@@ -374,5 +374,13 @@
     "username": "crazyostrich191",
     "password": "11111111",
     "invokedAt": "2022-09-30T22:36:04.005Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Niskanen",
+    "email": "vaino.niskanen@example.com",
+    "username": "brownbutterfly861",
+    "password": "fishing1",
+    "invokedAt": "2022-09-30T22:52:05.209Z"
   }
 ]
