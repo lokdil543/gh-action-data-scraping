@@ -358,5 +358,13 @@
     "username": "ticklishgoose688",
     "password": "foobar",
     "invokedAt": "2022-10-01T19:01:07.342Z"
+  },
+  {
+    "firstName": "Brandy",
+    "lastName": "Myers",
+    "email": "brandy.myers@example.com",
+    "username": "silverfrog851",
+    "password": "woodie",
+    "invokedAt": "2022-10-01T19:20:03.788Z"
   }
 ]
