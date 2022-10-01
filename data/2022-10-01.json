@@ -518,5 +518,13 @@
     "username": "yellowgoose437",
     "password": "merlot",
     "invokedAt": "2022-10-01T23:41:49.262Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Kallio",
+    "email": "lauri.kallio@example.com",
+    "username": "blackkoala206",
+    "password": "paradox",
+    "invokedAt": "2022-10-01T23:58:08.156Z"
   }
 ]
