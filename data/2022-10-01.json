@@ -126,5 +126,13 @@
     "username": "greendog316",
     "password": "tahoe",
     "invokedAt": "2022-10-01T09:57:28.389Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Dunn",
+    "email": "carol.dunn@example.com",
+    "username": "whitedog894",
+    "password": "sigma",
+    "invokedAt": "2022-10-01T10:13:51.130Z"
   }
 ]
