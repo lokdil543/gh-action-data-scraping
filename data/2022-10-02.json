@@ -118,5 +118,13 @@
     "username": "sadwolf667",
     "password": "gagged",
     "invokedAt": "2022-10-02T09:26:24.613Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Kangas",
+    "email": "anton.kangas@example.com",
+    "username": "lazybear180",
+    "password": "attack",
+    "invokedAt": "2022-10-02T09:43:47.263Z"
   }
 ]
