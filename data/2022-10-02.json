@@ -182,5 +182,13 @@
     "username": "redwolf622",
     "password": "cosmic",
     "invokedAt": "2022-10-02T11:30:22.271Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Woods",
+    "email": "jamie.woods@example.com",
+    "username": "silverostrich259",
+    "password": "piazza",
+    "invokedAt": "2022-10-02T11:42:15.624Z"
   }
 ]
