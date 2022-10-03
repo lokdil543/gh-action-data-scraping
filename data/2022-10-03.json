@@ -326,5 +326,13 @@
     "username": "bigbear375",
     "password": "darthvad",
     "invokedAt": "2022-10-03T20:15:50.555Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Stone",
+    "email": "katie.stone@example.com",
+    "username": "whitesnake761",
+    "password": "griffey",
+    "invokedAt": "2022-10-03T20:40:12.406Z"
   }
 ]
