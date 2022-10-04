@@ -198,5 +198,13 @@
     "username": "tinylion927",
     "password": "spread",
     "invokedAt": "2022-10-04T13:36:20.290Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Guillot",
+    "email": "luis.guillot@example.com",
+    "username": "smallcat683",
+    "password": "felix1",
+    "invokedAt": "2022-10-04T14:22:04.585Z"
   }
 ]
