@@ -350,5 +350,13 @@
     "username": "angryzebra593",
     "password": "senior",
     "invokedAt": "2022-10-05T21:37:54.514Z"
+  },
+  {
+    "firstName": "Gerry",
+    "lastName": "Van der Aart",
+    "email": "gerry.vanderaart@example.com",
+    "username": "sadtiger412",
+    "password": "temp123",
+    "invokedAt": "2022-10-05T21:51:11.705Z"
   }
 ]
