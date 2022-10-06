@@ -246,5 +246,13 @@
     "username": "greengoose994",
     "password": "jazzman",
     "invokedAt": "2022-10-06T15:46:09.338Z"
+  },
+  {
+    "firstName": "Aitor",
+    "lastName": "Gómez",
+    "email": "aitor.gomez@example.com",
+    "username": "brownbutterfly705",
+    "password": "snapper",
+    "invokedAt": "2022-10-06T16:00:41.226Z"
   }
 ]
