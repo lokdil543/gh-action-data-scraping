@@ -278,5 +278,13 @@
     "username": "angrycat484",
     "password": "1024",
     "invokedAt": "2022-10-07T17:56:21.361Z"
+  },
+  {
+    "firstName": "Imre",
+    "lastName": "Østerås",
+    "email": "imre.osteras@example.com",
+    "username": "silvergorilla734",
+    "password": "admin",
+    "invokedAt": "2022-10-07T18:18:33.138Z"
   }
 ]
