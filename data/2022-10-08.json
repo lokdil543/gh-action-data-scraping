@@ -102,5 +102,13 @@
     "username": "smallmeercat204",
     "password": "lifetime",
     "invokedAt": "2022-10-08T07:46:43.790Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Gómez",
+    "email": "samuel.gomez@example.com",
+    "username": "purplemouse970",
+    "password": "hithere",
+    "invokedAt": "2022-10-08T07:54:19.248Z"
   }
 ]
