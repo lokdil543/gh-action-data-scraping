@@ -246,5 +246,13 @@
     "username": "heavysnake150",
     "password": "soccer",
     "invokedAt": "2022-10-09T13:53:54.679Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Green",
+    "email": "blake.green@example.com",
+    "username": "greenleopard442",
+    "password": "aikido",
+    "invokedAt": "2022-10-09T14:08:02.404Z"
   }
 ]
