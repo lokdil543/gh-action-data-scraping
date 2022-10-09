@@ -366,5 +366,13 @@
     "username": "silverostrich166",
     "password": "snapper",
     "invokedAt": "2022-10-09T18:41:42.677Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Clarke",
+    "email": "amy.clarke@example.com",
+    "username": "blackdog960",
+    "password": "webmaste",
+    "invokedAt": "2022-10-09T18:58:26.590Z"
   }
 ]
