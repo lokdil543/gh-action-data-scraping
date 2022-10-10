@@ -374,5 +374,13 @@
     "username": "crazydog654",
     "password": "business",
     "invokedAt": "2022-10-10T22:55:02.429Z"
+  },
+  {
+    "firstName": "Estefanía",
+    "lastName": "Mateo",
+    "email": "estefania.mateo@example.com",
+    "username": "orangedog278",
+    "password": "gonavy",
+    "invokedAt": "2022-10-10T23:07:18.156Z"
   }
 ]
