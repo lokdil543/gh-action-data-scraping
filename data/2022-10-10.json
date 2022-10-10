@@ -78,5 +78,13 @@
     "username": "silverelephant610",
     "password": "myspace1",
     "invokedAt": "2022-10-10T09:29:55.419Z"
+  },
+  {
+    "firstName": "Gaël",
+    "lastName": "Laurent",
+    "email": "gael.laurent@example.com",
+    "username": "greenbear338",
+    "password": "2468",
+    "invokedAt": "2022-10-10T09:51:15.553Z"
   }
 ]
