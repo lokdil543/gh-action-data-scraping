@@ -190,5 +190,13 @@
     "username": "blueostrich911",
     "password": "boating",
     "invokedAt": "2022-10-12T13:15:22.617Z"
+  },
+  {
+    "firstName": "Virginia",
+    "lastName": "López",
+    "email": "virginia.lopez@example.com",
+    "username": "heavytiger811",
+    "password": "vinnie",
+    "invokedAt": "2022-10-12T14:10:22.240Z"
   }
 ]
