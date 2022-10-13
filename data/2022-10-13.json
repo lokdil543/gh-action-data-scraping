@@ -206,5 +206,13 @@
     "username": "orangefish264",
     "password": "theodore",
     "invokedAt": "2022-10-13T14:56:46.452Z"
+  },
+  {
+    "firstName": "Vladana",
+    "lastName": "Damjanović",
+    "email": "vladana.damjanovic@example.com",
+    "username": "angryostrich843",
+    "password": "costello",
+    "invokedAt": "2022-10-13T15:13:48.626Z"
   }
 ]
