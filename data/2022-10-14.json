@@ -206,5 +206,13 @@
     "username": "blackdog280",
     "password": "silver",
     "invokedAt": "2022-10-14T15:32:52.712Z"
+  },
+  {
+    "firstName": "Karol",
+    "lastName": "Lundby",
+    "email": "karol.lundby@example.com",
+    "username": "crazygoose208",
+    "password": "napster",
+    "invokedAt": "2022-10-14T15:55:04.547Z"
   }
 ]
