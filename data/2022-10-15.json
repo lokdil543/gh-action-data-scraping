@@ -406,5 +406,13 @@
     "username": "purpleostrich233",
     "password": "lightnin",
     "invokedAt": "2022-10-15T20:35:03.730Z"
+  },
+  {
+    "firstName": "Sayali",
+    "lastName": "Ramesh",
+    "email": "sayali.ramesh@example.com",
+    "username": "orangeostrich693",
+    "password": "jack",
+    "invokedAt": "2022-10-15T20:50:29.013Z"
   }
 ]
