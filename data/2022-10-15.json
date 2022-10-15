@@ -38,5 +38,13 @@
     "username": "happyfrog629",
     "password": "shamrock",
     "invokedAt": "2022-10-15T06:35:31.560Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Brewer",
+    "email": "carter.brewer@example.com",
+    "username": "happybear832",
+    "password": "shells",
+    "invokedAt": "2022-10-15T07:02:50.246Z"
   }
 ]
