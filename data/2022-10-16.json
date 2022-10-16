@@ -174,5 +174,13 @@
     "username": "blackostrich933",
     "password": "duncan",
     "invokedAt": "2022-10-16T11:16:22.120Z"
+  },
+  {
+    "firstName": "Salvador",
+    "lastName": "Vargas",
+    "email": "salvador.vargas@example.com",
+    "username": "crazylion337",
+    "password": "creation",
+    "invokedAt": "2022-10-16T11:32:08.480Z"
   }
 ]
