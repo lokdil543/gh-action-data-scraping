@@ -238,5 +238,13 @@
     "username": "greencat762",
     "password": "123456",
     "invokedAt": "2022-10-18T18:46:38.363Z"
+  },
+  {
+    "firstName": "Gregor",
+    "lastName": "Waibel",
+    "email": "gregor.waibel@example.com",
+    "username": "bigwolf663",
+    "password": "foreplay",
+    "invokedAt": "2022-10-18T19:12:10.290Z"
   }
 ]
