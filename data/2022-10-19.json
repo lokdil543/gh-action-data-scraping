@@ -182,5 +182,13 @@
     "username": "purplecat261",
     "password": "brooklyn",
     "invokedAt": "2022-10-19T15:38:53.901Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Anderson",
+    "email": "thomas.anderson@example.com",
+    "username": "crazyfish886",
+    "password": "ring",
+    "invokedAt": "2022-10-19T15:59:08.626Z"
   }
 ]
