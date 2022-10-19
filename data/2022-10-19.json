@@ -310,5 +310,13 @@
     "username": "bigcat702",
     "password": "flying",
     "invokedAt": "2022-10-19T21:57:18.449Z"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Elliott",
+    "email": "gary.elliott@example.com",
+    "username": "yellowgoose468",
+    "password": "master1",
+    "invokedAt": "2022-10-19T22:13:53.647Z"
   }
 ]
