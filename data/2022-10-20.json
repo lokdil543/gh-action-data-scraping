@@ -158,5 +158,13 @@
     "username": "whitecat976",
     "password": "paint",
     "invokedAt": "2022-10-20T11:40:08.560Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Fournier",
+    "email": "claude.fournier@example.com",
+    "username": "crazyfrog698",
+    "password": "guido",
+    "invokedAt": "2022-10-20T11:51:24.524Z"
   }
 ]
