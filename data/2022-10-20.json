@@ -270,5 +270,13 @@
     "username": "purpledog253",
     "password": "summer1",
     "invokedAt": "2022-10-20T19:00:23.959Z"
+  },
+  {
+    "firstName": "Heinfried",
+    "lastName": "Reichenbach",
+    "email": "heinfried.reichenbach@example.com",
+    "username": "purplelion378",
+    "password": "peaches1",
+    "invokedAt": "2022-10-20T19:27:13.285Z"
   }
 ]
