@@ -342,5 +342,13 @@
     "username": "whitecat106",
     "password": "wyatt",
     "invokedAt": "2022-10-21T21:01:06.631Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Sandalcı",
+    "email": "coskun.sandalci@example.com",
+    "username": "orangetiger877",
+    "password": "weasel",
+    "invokedAt": "2022-10-21T21:22:04.377Z"
   }
 ]
