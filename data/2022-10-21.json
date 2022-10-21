@@ -310,5 +310,13 @@
     "username": "purplebird232",
     "password": "birthday",
     "invokedAt": "2022-10-21T19:57:54.418Z"
+  },
+  {
+    "firstName": "Zoé",
+    "lastName": "Salinas",
+    "email": "zoe.salinas@example.com",
+    "username": "whitebear442",
+    "password": "change",
+    "invokedAt": "2022-10-21T20:16:47.692Z"
   }
 ]
