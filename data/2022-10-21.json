@@ -102,5 +102,13 @@
     "username": "tinyswan320",
     "password": "hover",
     "invokedAt": "2022-10-21T09:14:23.470Z"
+  },
+  {
+    "firstName": "Félix",
+    "lastName": "Van der Lem",
+    "email": "felix.vanderlem@example.com",
+    "username": "redgorilla414",
+    "password": "sniffing",
+    "invokedAt": "2022-10-21T09:43:21.523Z"
   }
 ]
