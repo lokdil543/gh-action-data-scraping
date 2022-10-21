@@ -238,5 +238,13 @@
     "username": "lazyduck616",
     "password": "marcus",
     "invokedAt": "2022-10-21T16:42:00.197Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Ağaoğlu",
+    "email": "nurdan.agaoglu@example.com",
+    "username": "lazygoose743",
+    "password": "contains",
+    "invokedAt": "2022-10-21T17:17:47.657Z"
   }
 ]
