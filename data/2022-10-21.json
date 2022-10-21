@@ -246,5 +246,13 @@
     "username": "lazygoose743",
     "password": "contains",
     "invokedAt": "2022-10-21T17:17:47.657Z"
+  },
+  {
+    "firstName": "Glen",
+    "lastName": "Brady",
+    "email": "glen.brady@example.com",
+    "username": "organicmeercat954",
+    "password": "456789",
+    "invokedAt": "2022-10-21T17:49:50.005Z"
   }
 ]
