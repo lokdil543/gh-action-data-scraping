@@ -382,5 +382,13 @@
     "username": "sadwolf921",
     "password": "spikes",
     "invokedAt": "2022-10-21T22:18:04.957Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Cano",
+    "email": "oscar.cano@example.com",
+    "username": "bigbird945",
+    "password": "loki",
+    "invokedAt": "2022-10-21T22:42:19.415Z"
   }
 ]
