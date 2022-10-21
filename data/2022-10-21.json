@@ -326,5 +326,13 @@
     "username": "bigelephant331",
     "password": "ssss",
     "invokedAt": "2022-10-21T20:40:50.720Z"
+  },
+  {
+    "firstName": "Leif",
+    "lastName": "Ostendorf",
+    "email": "leif.ostendorf@example.com",
+    "username": "blueelephant372",
+    "password": "voodoo",
+    "invokedAt": "2022-10-21T20:54:38.581Z"
   }
 ]
