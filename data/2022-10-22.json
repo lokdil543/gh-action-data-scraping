@@ -414,5 +414,13 @@
     "username": "lazyrabbit705",
     "password": "complete",
     "invokedAt": "2022-10-22T20:59:04.783Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Molstad",
+    "email": "felix.molstad@example.com",
+    "username": "whitegorilla232",
+    "password": "thecure",
+    "invokedAt": "2022-10-22T21:15:40.106Z"
   }
 ]
