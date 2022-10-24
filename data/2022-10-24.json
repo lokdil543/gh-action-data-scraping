@@ -246,5 +246,13 @@
     "username": "smalldog955",
     "password": "progress",
     "invokedAt": "2022-10-24T20:00:03.620Z"
+  },
+  {
+    "firstName": "Gerald",
+    "lastName": "Long",
+    "email": "gerald.long@example.com",
+    "username": "greenfish410",
+    "password": "bluesky",
+    "invokedAt": "2022-10-24T20:24:29.308Z"
   }
 ]
