@@ -102,5 +102,13 @@
     "username": "blackwolf870",
     "password": "flounder",
     "invokedAt": "2022-10-24T11:08:44.126Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Palmer",
+    "email": "emily.palmer@example.com",
+    "username": "purpleladybug679",
+    "password": "east",
+    "invokedAt": "2022-10-24T11:32:51.237Z"
   }
 ]
