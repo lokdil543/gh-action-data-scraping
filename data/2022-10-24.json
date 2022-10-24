@@ -78,5 +78,13 @@
     "username": "greengoose261",
     "password": "denver",
     "invokedAt": "2022-10-24T09:54:39.619Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Mackay",
+    "email": "arnaud.mackay@example.com",
+    "username": "beautifulbird326",
+    "password": "legos",
+    "invokedAt": "2022-10-24T10:11:39.014Z"
   }
 ]
