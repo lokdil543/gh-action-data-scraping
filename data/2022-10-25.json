@@ -86,5 +86,13 @@
     "username": "whitebear502",
     "password": "redalert",
     "invokedAt": "2022-10-25T10:19:56.467Z"
+  },
+  {
+    "firstName": "Aidan",
+    "lastName": "Hall",
+    "email": "aidan.hall@example.com",
+    "username": "blackfrog822",
+    "password": "fist",
+    "invokedAt": "2022-10-25T10:46:53.351Z"
   }
 ]
