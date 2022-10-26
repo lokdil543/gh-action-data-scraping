@@ -286,5 +286,13 @@
     "username": "yellowkoala236",
     "password": "boxcar",
     "invokedAt": "2022-10-26T14:01:20.723Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Utne",
+    "email": "ella.utne@example.com",
+    "username": "lazygorilla904",
+    "password": "mailman",
+    "invokedAt": "2022-10-26T14:26:43.070Z"
   }
 ]
