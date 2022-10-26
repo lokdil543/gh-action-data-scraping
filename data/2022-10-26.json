@@ -238,5 +238,13 @@
     "username": "organicdog873",
     "password": "beef",
     "invokedAt": "2022-10-26T11:36:06.606Z"
+  },
+  {
+    "firstName": "Brede",
+    "lastName": "Slettum",
+    "email": "brede.slettum@example.com",
+    "username": "purplemeercat944",
+    "password": "standard",
+    "invokedAt": "2022-10-26T11:43:34.983Z"
   }
 ]
