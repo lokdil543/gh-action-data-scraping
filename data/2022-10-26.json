@@ -534,5 +534,13 @@
     "username": "happyduck230",
     "password": "integra",
     "invokedAt": "2022-10-26T21:15:59.777Z"
+  },
+  {
+    "firstName": "Damir",
+    "lastName": "Drljača",
+    "email": "damir.drljaca@example.com",
+    "username": "greenfish106",
+    "password": "mmmmmmmm",
+    "invokedAt": "2022-10-26T21:32:52.394Z"
   }
 ]
