@@ -518,5 +518,13 @@
     "username": "silverpanda344",
     "password": "komodo",
     "invokedAt": "2022-10-27T20:58:31.764Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Henry",
+    "email": "eric.henry@example.com",
+    "username": "sadbird490",
+    "password": "badman",
+    "invokedAt": "2022-10-27T21:13:21.611Z"
   }
 ]
