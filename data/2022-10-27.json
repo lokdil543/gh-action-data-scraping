@@ -422,5 +422,13 @@
     "username": "whitetiger652",
     "password": "alice",
     "invokedAt": "2022-10-27T18:47:01.684Z"
+  },
+  {
+    "firstName": "Tuba",
+    "lastName": "Looijenga",
+    "email": "tuba.looijenga@example.com",
+    "username": "lazybird251",
+    "password": "1011",
+    "invokedAt": "2022-10-27T19:00:53.522Z"
   }
 ]
