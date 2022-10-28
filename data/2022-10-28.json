@@ -430,5 +430,13 @@
     "username": "lazyduck989",
     "password": "sail",
     "invokedAt": "2022-10-28T18:51:53.498Z"
+  },
+  {
+    "firstName": "Bjørnar",
+    "lastName": "Østli",
+    "email": "bjornar.ostli@example.com",
+    "username": "orangebird472",
+    "password": "kittie",
+    "invokedAt": "2022-10-28T18:59:20.680Z"
   }
 ]
