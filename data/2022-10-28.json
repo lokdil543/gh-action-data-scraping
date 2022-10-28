@@ -598,5 +598,13 @@
     "username": "brownswan912",
     "password": "qwe123",
     "invokedAt": "2022-10-28T22:45:47.513Z"
+  },
+  {
+    "firstName": "Elke",
+    "lastName": "Dupont",
+    "email": "elke.dupont@example.com",
+    "username": "bigpanda524",
+    "password": "spock",
+    "invokedAt": "2022-10-28T22:52:29.530Z"
   }
 ]
