@@ -254,5 +254,13 @@
     "username": "bluepeacock144",
     "password": "5555",
     "invokedAt": "2022-10-28T11:45:41.813Z"
+  },
+  {
+    "firstName": "Asbjørn",
+    "lastName": "Unhjem",
+    "email": "asbjorn.unhjem@example.com",
+    "username": "goldenwolf638",
+    "password": "indy",
+    "invokedAt": "2022-10-28T11:51:41.518Z"
   }
 ]
