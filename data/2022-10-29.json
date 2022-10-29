@@ -286,5 +286,13 @@
     "username": "smallkoala666",
     "password": "mailman",
     "invokedAt": "2022-10-29T11:36:18.939Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Knight",
+    "email": "alex.knight@example.com",
+    "username": "lazypeacock642",
+    "password": "floppy",
+    "invokedAt": "2022-10-29T11:43:01.890Z"
   }
 ]
