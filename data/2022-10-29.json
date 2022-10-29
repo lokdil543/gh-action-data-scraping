@@ -278,5 +278,13 @@
     "username": "sadzebra642",
     "password": "palace",
     "invokedAt": "2022-10-29T11:27:40.547Z"
+  },
+  {
+    "firstName": "Jasna",
+    "lastName": "Smiljanić",
+    "email": "jasna.smiljanic@example.com",
+    "username": "smallkoala666",
+    "password": "mailman",
+    "invokedAt": "2022-10-29T11:36:18.939Z"
   }
 ]
