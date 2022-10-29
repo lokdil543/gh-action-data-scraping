@@ -542,5 +542,13 @@
     "username": "lazypanda801",
     "password": "patricia",
     "invokedAt": "2022-10-29T19:11:38.845Z"
+  },
+  {
+    "firstName": "Mathis",
+    "lastName": "Tremblay",
+    "email": "mathis.tremblay@example.com",
+    "username": "angrykoala699",
+    "password": "spongebo",
+    "invokedAt": "2022-10-29T19:24:24.431Z"
   }
 ]
