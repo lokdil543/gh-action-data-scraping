@@ -630,5 +630,13 @@
     "username": "orangebear929",
     "password": "peabody",
     "invokedAt": "2022-10-29T20:55:46.009Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Morris",
+    "email": "caleb.morris@example.com",
+    "username": "goldendog556",
+    "password": "asterix",
+    "invokedAt": "2022-10-29T21:07:30.597Z"
   }
 ]
