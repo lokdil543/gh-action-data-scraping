@@ -710,5 +710,13 @@
     "username": "angrypeacock124",
     "password": "smackdow",
     "invokedAt": "2022-10-29T22:50:13.615Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Fisher",
+    "email": "ryan.fisher@example.com",
+    "username": "tinylion642",
+    "password": "kittycat",
+    "invokedAt": "2022-10-29T22:56:06.251Z"
   }
 ]
