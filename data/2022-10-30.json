@@ -182,5 +182,13 @@
     "username": "silverpanda934",
     "password": "123456789",
     "invokedAt": "2022-10-30T09:15:53.023Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Vasić",
+    "email": "andrea.vasic@example.com",
+    "username": "happypanda953",
+    "password": "starstar",
+    "invokedAt": "2022-10-30T09:32:04.073Z"
   }
 ]
