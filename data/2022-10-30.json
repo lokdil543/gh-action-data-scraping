@@ -598,5 +598,13 @@
     "username": "ticklishmeercat378",
     "password": "test2",
     "invokedAt": "2022-10-30T20:29:44.314Z"
+  },
+  {
+    "firstName": "Cléo",
+    "lastName": "Rousseau",
+    "email": "cleo.rousseau@example.com",
+    "username": "blueladybug563",
+    "password": "elizabet",
+    "invokedAt": "2022-10-30T20:42:00.311Z"
   }
 ]
