@@ -278,5 +278,13 @@
     "username": "ticklishfrog463",
     "password": "zheng",
     "invokedAt": "2022-10-30T11:35:35.506Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Brown",
+    "email": "danny.brown@example.com",
+    "username": "sadleopard678",
+    "password": "mankind",
+    "invokedAt": "2022-10-30T11:42:28.440Z"
   }
 ]
