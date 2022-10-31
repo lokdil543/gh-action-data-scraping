@@ -70,5 +70,13 @@
     "username": "lazybird276",
     "password": "public",
     "invokedAt": "2022-10-31T06:58:27.437Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Wade",
+    "email": "bruce.wade@example.com",
+    "username": "organicpanda473",
+    "password": "cheese1",
+    "invokedAt": "2022-10-31T07:14:54.682Z"
   }
 ]
