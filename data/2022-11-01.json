@@ -78,5 +78,13 @@
     "username": "bigbird259",
     "password": "happy",
     "invokedAt": "2022-11-01T07:46:59.391Z"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Garcia",
+    "email": "olivia.garcia@example.com",
+    "username": "greenbird992",
+    "password": "driver",
+    "invokedAt": "2022-11-01T07:52:55.548Z"
   }
 ]
