@@ -550,5 +550,13 @@
     "username": "purplemouse858",
     "password": "charge",
     "invokedAt": "2022-11-01T23:35:34.799Z"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Lawson",
+    "email": "josh.lawson@example.com",
+    "username": "beautifulkoala547",
+    "password": "ticket",
+    "invokedAt": "2022-11-01T23:49:07.144Z"
   }
 ]
