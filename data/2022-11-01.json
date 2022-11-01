@@ -238,5 +238,13 @@
     "username": "brownladybug856",
     "password": "chrome",
     "invokedAt": "2022-11-01T12:22:24.745Z"
+  },
+  {
+    "firstName": "María",
+    "lastName": "Narváez",
+    "email": "maria.narvaez@example.com",
+    "username": "blackkoala458",
+    "password": "zxcvbn",
+    "invokedAt": "2022-11-01T13:20:03.985Z"
   }
 ]
