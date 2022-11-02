@@ -254,5 +254,13 @@
     "username": "crazypanda182",
     "password": "carlo",
     "invokedAt": "2022-11-02T12:26:56.512Z"
+  },
+  {
+    "firstName": "Ticiano",
+    "lastName": "Sales",
+    "email": "ticiano.sales@example.com",
+    "username": "bigfish216",
+    "password": "futbol",
+    "invokedAt": "2022-11-02T13:24:10.733Z"
   }
 ]
