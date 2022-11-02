@@ -294,5 +294,13 @@
     "username": "purplefish395",
     "password": "champion",
     "invokedAt": "2022-11-02T14:55:53.045Z"
+  },
+  {
+    "firstName": "Velibor",
+    "lastName": "Rakić",
+    "email": "velibor.rakic@example.com",
+    "username": "greenfish420",
+    "password": "scruffy",
+    "invokedAt": "2022-11-02T15:09:13.886Z"
   }
 ]
