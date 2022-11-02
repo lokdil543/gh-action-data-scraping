@@ -406,5 +406,13 @@
     "username": "yellowlion182",
     "password": "absolute",
     "invokedAt": "2022-11-02T19:23:02.684Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Singh",
+    "email": "james.singh@example.com",
+    "username": "bigduck522",
+    "password": "vader",
+    "invokedAt": "2022-11-02T19:29:15.651Z"
   }
 ]
