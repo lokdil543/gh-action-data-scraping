@@ -590,5 +590,13 @@
     "username": "silversnake395",
     "password": "microsoft",
     "invokedAt": "2022-11-02T23:08:10.146Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Hokkanen",
+    "email": "emma.hokkanen@example.com",
+    "username": "sadwolf808",
+    "password": "bob123",
+    "invokedAt": "2022-11-02T23:31:56.761Z"
   }
 ]
