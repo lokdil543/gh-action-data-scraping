@@ -182,5 +182,13 @@
     "username": "orangebird666",
     "password": "more",
     "invokedAt": "2022-11-02T10:36:55.650Z"
+  },
+  {
+    "firstName": "Sergiy",
+    "lastName": "Kobec",
+    "email": "sergiy.kobec@example.com",
+    "username": "bigfish510",
+    "password": "bigman",
+    "invokedAt": "2022-11-02T10:50:42.021Z"
   }
 ]
