@@ -454,5 +454,13 @@
     "username": "greenwolf427",
     "password": "esquire",
     "invokedAt": "2022-11-02T19:59:59.304Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Hall",
+    "email": "claude.hall@example.com",
+    "username": "orangetiger421",
+    "password": "2000",
+    "invokedAt": "2022-11-02T20:18:41.649Z"
   }
 ]
