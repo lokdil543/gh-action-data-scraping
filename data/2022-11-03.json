@@ -422,5 +422,13 @@
     "username": "crazypanda928",
     "password": "1q2w3e",
     "invokedAt": "2022-11-03T17:30:28.096Z"
+  },
+  {
+    "firstName": "Ratimir",
+    "lastName": "Kićanović",
+    "email": "ratimir.kicanovic@example.com",
+    "username": "crazyduck377",
+    "password": "merlin",
+    "invokedAt": "2022-11-03T17:42:28.664Z"
   }
 ]
