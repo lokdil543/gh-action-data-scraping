@@ -518,5 +518,13 @@
     "username": "smallcat362",
     "password": "clapton",
     "invokedAt": "2022-11-03T19:48:35.067Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Clarke",
+    "email": "nixon.clarke@example.com",
+    "username": "heavybutterfly794",
+    "password": "manuel",
+    "invokedAt": "2022-11-03T19:54:44.196Z"
   }
 ]
