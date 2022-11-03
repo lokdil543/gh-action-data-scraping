@@ -158,5 +158,13 @@
     "username": "tinysnake241",
     "password": "vivid",
     "invokedAt": "2022-11-03T08:14:15.892Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "White",
+    "email": "neil.white@example.com",
+    "username": "lazygorilla815",
+    "password": "punch",
+    "invokedAt": "2022-11-03T08:41:17.818Z"
   }
 ]
