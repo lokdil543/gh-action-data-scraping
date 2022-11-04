@@ -726,5 +726,13 @@
     "username": "happyduck648",
     "password": "thumbs",
     "invokedAt": "2022-11-04T23:10:13.719Z"
+  },
+  {
+    "firstName": "Camila",
+    "lastName": "Mireles",
+    "email": "camila.mireles@example.com",
+    "username": "angrydog648",
+    "password": "treefrog",
+    "invokedAt": "2022-11-04T23:31:49.606Z"
   }
 ]
