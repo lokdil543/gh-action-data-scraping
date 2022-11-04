@@ -478,5 +478,13 @@
     "username": "bigbear650",
     "password": "1234abcd",
     "invokedAt": "2022-11-04T17:47:25.052Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "Gray",
+    "email": "gene.gray@example.com",
+    "username": "yellowkoala643",
+    "password": "tina",
+    "invokedAt": "2022-11-04T17:53:19.992Z"
   }
 ]
