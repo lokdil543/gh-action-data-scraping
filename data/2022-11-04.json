@@ -222,5 +222,13 @@
     "username": "purplefrog274",
     "password": "paradox",
     "invokedAt": "2022-11-04T09:57:32.750Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Baker",
+    "email": "amy.baker@example.com",
+    "username": "purplebutterfly772",
+    "password": "tartar",
+    "invokedAt": "2022-11-04T10:13:47.066Z"
   }
 ]
