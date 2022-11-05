@@ -582,5 +582,13 @@
     "username": "whitepanda581",
     "password": "fiddle",
     "invokedAt": "2022-11-05T17:54:26.846Z"
+  },
+  {
+    "firstName": "Joris",
+    "lastName": "Schmitt",
+    "email": "joris.schmitt@example.com",
+    "username": "sadpanda469",
+    "password": "greenbay",
+    "invokedAt": "2022-11-05T18:00:28.889Z"
   }
 ]
