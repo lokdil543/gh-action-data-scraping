@@ -430,5 +430,13 @@
     "username": "blackcat776",
     "password": "scissors",
     "invokedAt": "2022-11-05T14:25:13.741Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Claire",
+    "email": "hudson.claire@example.com",
+    "username": "purpleswan453",
+    "password": "blades",
+    "invokedAt": "2022-11-05T14:33:31.992Z"
   }
 ]
