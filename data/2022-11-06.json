@@ -246,5 +246,13 @@
     "username": "organicsnake153",
     "password": "noel",
     "invokedAt": "2022-11-06T09:31:28.830Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Chan",
+    "email": "nathan.chan@example.com",
+    "username": "crazygoose993",
+    "password": "birthday1",
+    "invokedAt": "2022-11-06T09:41:57.840Z"
   }
 ]
