@@ -598,5 +598,13 @@
     "username": "smallwolf179",
     "password": "entropy",
     "invokedAt": "2022-11-06T18:11:49.757Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Newman",
+    "email": "marshall.newman@example.com",
+    "username": "greenbutterfly156",
+    "password": "matthews",
+    "invokedAt": "2022-11-06T18:34:20.841Z"
   }
 ]
