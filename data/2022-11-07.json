@@ -198,5 +198,13 @@
     "username": "greentiger423",
     "password": "icehouse",
     "invokedAt": "2022-11-07T09:43:32.995Z"
+  },
+  {
+    "firstName": "Basile",
+    "lastName": "Perez",
+    "email": "basile.perez@example.com",
+    "username": "smallbird115",
+    "password": "brown",
+    "invokedAt": "2022-11-07T09:50:24.885Z"
   }
 ]
