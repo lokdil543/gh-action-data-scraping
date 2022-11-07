@@ -406,5 +406,13 @@
     "username": "bigostrich449",
     "password": "snapon",
     "invokedAt": "2022-11-07T15:58:59.555Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Chavez",
+    "email": "sam.chavez@example.com",
+    "username": "goldenpanda327",
+    "password": "fruity",
+    "invokedAt": "2022-11-07T16:21:31.650Z"
   }
 ]
