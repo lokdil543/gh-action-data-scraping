@@ -78,5 +78,13 @@
     "username": "happyswan552",
     "password": "season",
     "invokedAt": "2022-11-07T06:22:53.890Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Carr",
+    "email": "sam.carr@example.com",
+    "username": "goldenfrog829",
+    "password": "birthday4",
+    "invokedAt": "2022-11-07T06:43:30.653Z"
   }
 ]
