@@ -174,5 +174,13 @@
     "username": "happydog310",
     "password": "hover",
     "invokedAt": "2022-11-07T08:57:24.937Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Williams",
+    "email": "grace.williams@example.com",
+    "username": "silverladybug610",
+    "password": "plane",
+    "invokedAt": "2022-11-07T09:12:22.178Z"
   }
 ]
