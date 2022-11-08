@@ -222,5 +222,13 @@
     "username": "brownpanda942",
     "password": "brendan",
     "invokedAt": "2022-11-08T10:00:53.092Z"
+  },
+  {
+    "firstName": "Marinko",
+    "lastName": "Ognjanović",
+    "email": "marinko.ognjanovic@example.com",
+    "username": "smallfish753",
+    "password": "hun999",
+    "invokedAt": "2022-11-08T10:24:55.120Z"
   }
 ]
