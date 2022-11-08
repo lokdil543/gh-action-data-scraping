@@ -142,5 +142,13 @@
     "username": "redlion321",
     "password": "trustno1",
     "invokedAt": "2022-11-08T07:53:49.461Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Francois",
+    "email": "mila.francois@example.com",
+    "username": "bigbird786",
+    "password": "thisisit",
+    "invokedAt": "2022-11-08T08:00:08.961Z"
   }
 ]
