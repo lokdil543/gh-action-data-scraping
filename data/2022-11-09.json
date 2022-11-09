@@ -294,5 +294,13 @@
     "username": "bigostrich344",
     "password": "snowboar",
     "invokedAt": "2022-11-09T11:55:16.680Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Lewis",
+    "email": "kayla.lewis@example.com",
+    "username": "lazyostrich636",
+    "password": "brady",
+    "invokedAt": "2022-11-09T12:15:24.508Z"
   }
 ]
