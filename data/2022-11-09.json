@@ -670,5 +670,13 @@
     "username": "bigrabbit934",
     "password": "spooky",
     "invokedAt": "2022-11-09T22:59:43.358Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Spencer",
+    "email": "roger.spencer@example.com",
+    "username": "angrycat958",
+    "password": "morpheus",
+    "invokedAt": "2022-11-09T23:20:17.104Z"
   }
 ]
