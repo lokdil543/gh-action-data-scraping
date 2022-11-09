@@ -470,5 +470,13 @@
     "username": "brownbear331",
     "password": "bobbob",
     "invokedAt": "2022-11-09T18:50:00.119Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Roussel",
+    "email": "jorge.roussel@example.com",
+    "username": "whitelion423",
+    "password": "fender",
+    "invokedAt": "2022-11-09T18:57:10.850Z"
   }
 ]
