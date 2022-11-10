@@ -166,5 +166,13 @@
     "username": "whiteostrich110",
     "password": "bluemoon",
     "invokedAt": "2022-11-10T08:42:30.892Z"
+  },
+  {
+    "firstName": "Davor",
+    "lastName": "Ivanišević",
+    "email": "davor.ivanisevic@example.com",
+    "username": "blackrabbit192",
+    "password": "242424",
+    "invokedAt": "2022-11-10T08:57:35.132Z"
   }
 ]
