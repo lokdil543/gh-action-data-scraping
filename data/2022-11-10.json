@@ -78,5 +78,13 @@
     "username": "silverbird645",
     "password": "just4fun",
     "invokedAt": "2022-11-10T06:11:53.610Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Jakšić",
+    "email": "maria.jaksic@example.com",
+    "username": "redpanda603",
+    "password": "wrestling",
+    "invokedAt": "2022-11-10T06:36:44.023Z"
   }
 ]
