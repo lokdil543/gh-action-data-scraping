@@ -222,5 +222,13 @@
     "username": "heavylion604",
     "password": "crescent",
     "invokedAt": "2022-11-10T10:11:20.077Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Petersen",
+    "email": "marie.petersen@example.com",
+    "username": "blueladybug938",
+    "password": "lestat",
+    "invokedAt": "2022-11-10T10:33:29.973Z"
   }
 ]
