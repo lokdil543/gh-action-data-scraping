@@ -550,5 +550,13 @@
     "username": "bigfish638",
     "password": "enrico",
     "invokedAt": "2022-11-10T20:32:03.600Z"
+  },
+  {
+    "firstName": "Noa",
+    "lastName": "Duval",
+    "email": "noa.duval@example.com",
+    "username": "orangekoala481",
+    "password": "snapon",
+    "invokedAt": "2022-11-10T20:44:22.775Z"
   }
 ]
