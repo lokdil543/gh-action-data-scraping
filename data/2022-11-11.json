@@ -654,5 +654,13 @@
     "username": "bluefrog325",
     "password": "computer",
     "invokedAt": "2022-11-11T22:05:42.520Z"
+  },
+  {
+    "firstName": "Magdalena",
+    "lastName": "Jakšić",
+    "email": "magdalena.jaksic@example.com",
+    "username": "bluefrog419",
+    "password": "2469",
+    "invokedAt": "2022-11-11T22:27:29.153Z"
   }
 ]
