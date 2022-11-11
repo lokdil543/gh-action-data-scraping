@@ -550,5 +550,13 @@
     "username": "sadgorilla215",
     "password": "secrets",
     "invokedAt": "2022-11-11T19:50:19.603Z"
+  },
+  {
+    "firstName": "Mónica",
+    "lastName": "Ortega",
+    "email": "monica.ortega@example.com",
+    "username": "greenbird162",
+    "password": "stick",
+    "invokedAt": "2022-11-11T19:56:11.735Z"
   }
 ]
