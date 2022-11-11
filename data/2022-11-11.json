@@ -470,5 +470,13 @@
     "username": "whiteladybug450",
     "password": "willow",
     "invokedAt": "2022-11-11T17:55:18.930Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Anderson",
+    "email": "adam.anderson@example.com",
+    "username": "brownpanda560",
+    "password": "1357",
+    "invokedAt": "2022-11-11T18:08:54.013Z"
   }
 ]
