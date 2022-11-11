@@ -606,5 +606,13 @@
     "username": "orangelion136",
     "password": "openup",
     "invokedAt": "2022-11-11T21:04:59.603Z"
+  },
+  {
+    "firstName": "Barb",
+    "lastName": "Freeman",
+    "email": "barb.freeman@example.com",
+    "username": "ticklishbear969",
+    "password": "ferguson",
+    "invokedAt": "2022-11-11T21:24:04.575Z"
   }
 ]
