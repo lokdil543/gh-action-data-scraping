@@ -734,5 +734,13 @@
     "username": "tinygorilla928",
     "password": "chainsaw",
     "invokedAt": "2022-11-12T21:31:56.717Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Bergh",
+    "email": "jeppe.bergh@example.com",
+    "username": "sadgorilla656",
+    "password": "saturday",
+    "invokedAt": "2022-11-12T21:40:40.000Z"
   }
 ]
