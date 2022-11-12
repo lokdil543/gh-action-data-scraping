@@ -806,5 +806,13 @@
     "username": "heavygoose734",
     "password": "clifford",
     "invokedAt": "2022-11-12T22:53:33.636Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Brewer",
+    "email": "jeremy.brewer@example.com",
+    "username": "happyostrich132",
+    "password": "lightnin",
+    "invokedAt": "2022-11-12T22:59:22.452Z"
   }
 ]
