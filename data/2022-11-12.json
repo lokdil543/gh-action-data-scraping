@@ -398,5 +398,13 @@
     "username": "angrymeercat408",
     "password": "thunder",
     "invokedAt": "2022-11-12T13:48:48.124Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Cox",
+    "email": "kent.cox@example.com",
+    "username": "redgoose191",
+    "password": "julian",
+    "invokedAt": "2022-11-12T13:54:41.899Z"
   }
 ]
