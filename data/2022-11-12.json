@@ -478,5 +478,13 @@
     "username": "brownbird462",
     "password": "carrera",
     "invokedAt": "2022-11-12T15:31:04.475Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Madsen",
+    "email": "anton.madsen@example.com",
+    "username": "angrysnake129",
+    "password": "duncan",
+    "invokedAt": "2022-11-12T15:43:15.136Z"
   }
 ]
