@@ -182,5 +182,13 @@
     "username": "yellowlion125",
     "password": "lighting",
     "invokedAt": "2022-11-12T08:00:42.901Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Gutiérrez",
+    "email": "miguel.gutierrez@example.com",
+    "username": "purpleduck703",
+    "password": "formula1",
+    "invokedAt": "2022-11-12T08:24:45.077Z"
   }
 ]
