@@ -710,5 +710,13 @@
     "username": "crazysnake725",
     "password": "vivid",
     "invokedAt": "2022-11-13T21:12:06.966Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Graham",
+    "email": "alex.graham@example.com",
+    "username": "tinybutterfly288",
+    "password": "peng",
+    "invokedAt": "2022-11-13T21:27:23.222Z"
   }
 ]
