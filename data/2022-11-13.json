@@ -790,5 +790,13 @@
     "username": "greenfish980",
     "password": "iforgot",
     "invokedAt": "2022-11-13T22:53:07.775Z"
+  },
+  {
+    "firstName": "Eran",
+    "lastName": "Dijksma",
+    "email": "eran.dijksma@example.com",
+    "username": "whitesnake977",
+    "password": "pointer",
+    "invokedAt": "2022-11-13T22:59:05.779Z"
   }
 ]
