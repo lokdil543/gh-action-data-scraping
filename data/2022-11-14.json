@@ -502,5 +502,13 @@
     "username": "blueswan173",
     "password": "systems",
     "invokedAt": "2022-11-14T19:39:03.234Z"
+  },
+  {
+    "firstName": "Živan",
+    "lastName": "Simonović",
+    "email": "zivan.simonovic@example.com",
+    "username": "orangeelephant668",
+    "password": "point",
+    "invokedAt": "2022-11-14T19:44:51.555Z"
   }
 ]
