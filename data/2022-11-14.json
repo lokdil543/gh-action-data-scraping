@@ -430,5 +430,13 @@
     "username": "redsnake665",
     "password": "antelope",
     "invokedAt": "2022-11-14T17:47:50.006Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Shaw",
+    "email": "emma.shaw@example.com",
+    "username": "crazymouse982",
+    "password": "paradigm",
+    "invokedAt": "2022-11-14T17:58:47.455Z"
   }
 ]
