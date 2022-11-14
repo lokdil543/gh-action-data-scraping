@@ -358,5 +358,13 @@
     "username": "bigfrog206",
     "password": "theforce",
     "invokedAt": "2022-11-14T14:55:48.508Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Bradley",
+    "email": "susan.bradley@example.com",
+    "username": "happyfrog471",
+    "password": "audi",
+    "invokedAt": "2022-11-14T15:08:34.730Z"
   }
 ]
