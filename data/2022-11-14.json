@@ -102,5 +102,13 @@
     "username": "lazyelephant867",
     "password": "bigmac",
     "invokedAt": "2022-11-14T07:07:05.811Z"
+  },
+  {
+    "firstName": "Hinrich",
+    "lastName": "Mester",
+    "email": "hinrich.mester@example.com",
+    "username": "reddog723",
+    "password": "pa55word",
+    "invokedAt": "2022-11-14T07:25:56.755Z"
   }
 ]
