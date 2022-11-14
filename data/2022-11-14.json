@@ -278,5 +278,13 @@
     "username": "redbird403",
     "password": "sweetnes",
     "invokedAt": "2022-11-14T11:41:19.949Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Santillán",
+    "email": "martin.santillan@example.com",
+    "username": "ticklishfish317",
+    "password": "golfer",
+    "invokedAt": "2022-11-14T11:47:23.940Z"
   }
 ]
