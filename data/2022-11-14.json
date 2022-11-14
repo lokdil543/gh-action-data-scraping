@@ -510,5 +510,13 @@
     "username": "orangeelephant668",
     "password": "point",
     "invokedAt": "2022-11-14T19:44:51.555Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Cunningham",
+    "email": "isaac.cunningham@example.com",
+    "username": "silverelephant415",
+    "password": "callaway",
+    "invokedAt": "2022-11-14T19:50:51.428Z"
   }
 ]
