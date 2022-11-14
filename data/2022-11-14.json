@@ -294,5 +294,13 @@
     "username": "purplekoala247",
     "password": "pearson",
     "invokedAt": "2022-11-14T11:53:18.897Z"
+  },
+  {
+    "firstName": "Åsa",
+    "lastName": "Ueland",
+    "email": "asa.ueland@example.com",
+    "username": "silverbird896",
+    "password": "horizon",
+    "invokedAt": "2022-11-14T11:59:04.693Z"
   }
 ]
