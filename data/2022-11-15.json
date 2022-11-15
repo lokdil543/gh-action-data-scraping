@@ -382,5 +382,13 @@
     "username": "greendog979",
     "password": "warcraft",
     "invokedAt": "2022-11-15T12:33:46.854Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Kari",
+    "email": "aapo.kari@example.com",
+    "username": "sadfrog825",
+    "password": "hiking",
+    "invokedAt": "2022-11-15T13:19:12.366Z"
   }
 ]
