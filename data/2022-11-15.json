@@ -414,5 +414,13 @@
     "username": "browngorilla295",
     "password": "transit",
     "invokedAt": "2022-11-15T13:59:45.545Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Sanchez",
+    "email": "nicolas.sanchez@example.com",
+    "username": "brownbear212",
+    "password": "741852",
+    "invokedAt": "2022-11-15T14:15:16.055Z"
   }
 ]
