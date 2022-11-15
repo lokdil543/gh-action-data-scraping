@@ -798,5 +798,13 @@
     "username": "sadpeacock852",
     "password": "packers",
     "invokedAt": "2022-11-15T22:37:43.078Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Kristensen",
+    "email": "simon.kristensen@example.com",
+    "username": "purpleostrich176",
+    "password": "danny1",
+    "invokedAt": "2022-11-15T22:44:49.554Z"
   }
 ]
