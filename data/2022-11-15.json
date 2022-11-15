@@ -246,5 +246,13 @@
     "username": "bluemouse264",
     "password": "backdoor",
     "invokedAt": "2022-11-15T09:37:55.373Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Williams",
+    "email": "jorge.williams@example.com",
+    "username": "beautifulbear162",
+    "password": "johnjohn",
+    "invokedAt": "2022-11-15T09:45:01.814Z"
   }
 ]
