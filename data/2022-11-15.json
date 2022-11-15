@@ -406,5 +406,13 @@
     "username": "purplefrog377",
     "password": "timmy",
     "invokedAt": "2022-11-15T13:53:57.274Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Brown",
+    "email": "olivier.brown@example.com",
+    "username": "browngorilla295",
+    "password": "transit",
+    "invokedAt": "2022-11-15T13:59:45.545Z"
   }
 ]
