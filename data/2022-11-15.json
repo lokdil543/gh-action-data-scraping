@@ -630,5 +630,13 @@
     "username": "orangepanda971",
     "password": "a1b2c3d4",
     "invokedAt": "2022-11-15T19:23:19.369Z"
+  },
+  {
+    "firstName": "Velizar",
+    "lastName": "Vujčić",
+    "email": "velizar.vujcic@example.com",
+    "username": "sadsnake393",
+    "password": "member",
+    "invokedAt": "2022-11-15T19:29:10.495Z"
   }
 ]
