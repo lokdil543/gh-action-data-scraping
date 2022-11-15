@@ -326,5 +326,13 @@
     "username": "whitekoala527",
     "password": "focus",
     "invokedAt": "2022-11-15T11:21:24.626Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Gill",
+    "email": "jack.gill@example.com",
+    "username": "goldenelephant792",
+    "password": "broker",
+    "invokedAt": "2022-11-15T11:29:07.717Z"
   }
 ]
