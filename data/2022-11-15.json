@@ -206,5 +206,13 @@
     "username": "angrymeercat435",
     "password": "team",
     "invokedAt": "2022-11-15T08:15:31.918Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Bélanger",
+    "email": "owen.belanger@example.com",
+    "username": "blackdog545",
+    "password": "look",
+    "invokedAt": "2022-11-15T08:50:58.977Z"
   }
 ]
