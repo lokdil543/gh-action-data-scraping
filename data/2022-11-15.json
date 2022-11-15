@@ -734,5 +734,13 @@
     "username": "happywolf333",
     "password": "latino",
     "invokedAt": "2022-11-15T21:22:06.009Z"
+  },
+  {
+    "firstName": "Tellef",
+    "lastName": "Furuseth",
+    "email": "tellef.furuseth@example.com",
+    "username": "sadostrich187",
+    "password": "jagger",
+    "invokedAt": "2022-11-15T21:31:14.830Z"
   }
 ]
