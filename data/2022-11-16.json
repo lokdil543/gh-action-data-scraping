@@ -686,5 +686,13 @@
     "username": "goldengoose512",
     "password": "blizzard",
     "invokedAt": "2022-11-16T20:07:20.749Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Lo",
+    "email": "etienne.lo@example.com",
+    "username": "whitemouse425",
+    "password": "usmc",
+    "invokedAt": "2022-11-16T20:27:09.383Z"
   }
 ]
