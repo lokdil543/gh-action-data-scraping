@@ -358,5 +358,13 @@
     "username": "silverwolf459",
     "password": "alibaba",
     "invokedAt": "2022-11-16T11:42:22.350Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Moore",
+    "email": "grace.moore@example.com",
+    "username": "heavydog245",
+    "password": "hotdog",
+    "invokedAt": "2022-11-16T11:48:19.794Z"
   }
 ]
