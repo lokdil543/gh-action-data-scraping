@@ -446,5 +446,13 @@
     "username": "beautifulsnake118",
     "password": "vodka",
     "invokedAt": "2022-11-16T14:43:38.688Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Lynch",
+    "email": "andrea.lynch@example.com",
+    "username": "happyostrich105",
+    "password": "nick",
+    "invokedAt": "2022-11-16T14:49:30.209Z"
   }
 ]
