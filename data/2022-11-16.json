@@ -470,5 +470,13 @@
     "username": "lazyduck224",
     "password": "capital",
     "invokedAt": "2022-11-16T15:07:02.250Z"
+  },
+  {
+    "firstName": "Fletcher",
+    "lastName": "Johnson",
+    "email": "fletcher.johnson@example.com",
+    "username": "orangeduck363",
+    "password": "bimmer",
+    "invokedAt": "2022-11-16T15:28:00.696Z"
   }
 ]
