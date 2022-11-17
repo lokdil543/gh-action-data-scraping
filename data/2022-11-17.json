@@ -870,5 +870,13 @@
     "username": "angrydog955",
     "password": "athlon",
     "invokedAt": "2022-11-17T23:46:12.308Z"
+  },
+  {
+    "firstName": "Torsten",
+    "lastName": "Muller",
+    "email": "torsten.muller@example.com",
+    "username": "angryfrog736",
+    "password": "braves",
+    "invokedAt": "2022-11-17T23:52:13.182Z"
   }
 ]
