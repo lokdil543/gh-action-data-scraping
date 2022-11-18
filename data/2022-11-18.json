@@ -590,5 +590,13 @@
     "username": "ticklishkoala445",
     "password": "weird",
     "invokedAt": "2022-11-18T17:50:41.625Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Bradley",
+    "email": "kate.bradley@example.com",
+    "username": "blackbear323",
+    "password": "asdf",
+    "invokedAt": "2022-11-18T17:56:54.378Z"
   }
 ]
