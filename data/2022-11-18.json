@@ -422,5 +422,13 @@
     "username": "whiteduck442",
     "password": "trip",
     "invokedAt": "2022-11-18T13:46:30.939Z"
+  },
+  {
+    "firstName": "Cindy",
+    "lastName": "Hill",
+    "email": "cindy.hill@example.com",
+    "username": "lazyfish311",
+    "password": "sigma",
+    "invokedAt": "2022-11-18T13:54:23.974Z"
   }
 ]
