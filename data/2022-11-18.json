@@ -470,5 +470,13 @@
     "username": "smallkoala910",
     "password": "starter",
     "invokedAt": "2022-11-18T14:48:00.559Z"
+  },
+  {
+    "firstName": "Jean-Jacques",
+    "lastName": "Brunet",
+    "email": "jean-jacques.brunet@example.com",
+    "username": "redswan429",
+    "password": "recovery",
+    "invokedAt": "2022-11-18T14:53:16.857Z"
   }
 ]
