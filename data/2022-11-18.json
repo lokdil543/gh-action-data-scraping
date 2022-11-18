@@ -126,5 +126,13 @@
     "username": "brownsnake722",
     "password": "visa",
     "invokedAt": "2022-11-18T06:25:06.619Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Ertürk",
+    "email": "ahmet.erturk@example.com",
+    "username": "brownpanda850",
+    "password": "waterloo",
+    "invokedAt": "2022-11-18T06:42:11.412Z"
   }
 ]
