@@ -230,5 +230,13 @@
     "username": "happyelephant407",
     "password": "hyperion",
     "invokedAt": "2022-11-18T08:48:44.718Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Niskanen",
+    "email": "miro.niskanen@example.com",
+    "username": "angryelephant790",
+    "password": "trustno1",
+    "invokedAt": "2022-11-18T08:54:37.525Z"
   }
 ]
