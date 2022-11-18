@@ -846,5 +846,13 @@
     "username": "orangelion598",
     "password": "sandman",
     "invokedAt": "2022-11-18T23:02:59.367Z"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Luft",
+    "email": "abdul.luft@example.com",
+    "username": "sadfish647",
+    "password": "firewall",
+    "invokedAt": "2022-11-18T23:24:15.435Z"
   }
 ]
