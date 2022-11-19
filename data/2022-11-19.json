@@ -518,5 +518,13 @@
     "username": "redpanda102",
     "password": "rebel",
     "invokedAt": "2022-11-19T14:44:27.550Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Jiménez",
+    "email": "ana.jimenez@example.com",
+    "username": "silverladybug103",
+    "password": "gabriela",
+    "invokedAt": "2022-11-19T14:50:21.644Z"
   }
 ]
