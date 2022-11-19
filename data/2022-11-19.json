@@ -510,5 +510,13 @@
     "username": "organicfrog109",
     "password": "beatle",
     "invokedAt": "2022-11-19T14:38:39.678Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Arslanoğlu",
+    "email": "ulku.arslanoglu@example.com",
+    "username": "redpanda102",
+    "password": "rebel",
+    "invokedAt": "2022-11-19T14:44:27.550Z"
   }
 ]
