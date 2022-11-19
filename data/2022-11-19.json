@@ -710,5 +710,13 @@
     "username": "tinyostrich116",
     "password": "real",
     "invokedAt": "2022-11-19T19:09:43.249Z"
+  },
+  {
+    "firstName": "Stanimir",
+    "lastName": "Nenadović",
+    "email": "stanimir.nenadovic@example.com",
+    "username": "orangewolf129",
+    "password": "tbone",
+    "invokedAt": "2022-11-19T19:21:02.783Z"
   }
 ]
