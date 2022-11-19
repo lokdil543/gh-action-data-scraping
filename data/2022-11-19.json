@@ -862,5 +862,13 @@
     "username": "beautifulpanda663",
     "password": "django",
     "invokedAt": "2022-11-19T21:49:09.156Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Rey",
+    "email": "joseph.rey@example.com",
+    "username": "silverswan986",
+    "password": "balloon",
+    "invokedAt": "2022-11-19T21:55:00.463Z"
   }
 ]
