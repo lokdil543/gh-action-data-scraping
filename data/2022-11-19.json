@@ -790,5 +790,13 @@
     "username": "angrygorilla821",
     "password": "phpbb",
     "invokedAt": "2022-11-19T20:37:15.513Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Sørensen",
+    "email": "william.sorensen@example.com",
+    "username": "whitebear158",
+    "password": "pants",
+    "invokedAt": "2022-11-19T20:44:10.002Z"
   }
 ]
