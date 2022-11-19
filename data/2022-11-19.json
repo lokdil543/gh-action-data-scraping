@@ -966,5 +966,13 @@
     "username": "orangeduck440",
     "password": "buster1",
     "invokedAt": "2022-11-19T23:51:07.385Z"
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Gautier",
+    "email": "alicia.gautier@example.com",
+    "username": "greenzebra127",
+    "password": "oreo",
+    "invokedAt": "2022-11-19T23:56:59.291Z"
   }
 ]
