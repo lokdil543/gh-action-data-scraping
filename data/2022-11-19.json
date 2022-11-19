@@ -798,5 +798,13 @@
     "username": "whitebear158",
     "password": "pants",
     "invokedAt": "2022-11-19T20:44:10.002Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Andersen",
+    "email": "gustav.andersen@example.com",
+    "username": "orangebear461",
+    "password": "handball",
+    "invokedAt": "2022-11-19T20:50:04.524Z"
   }
 ]
