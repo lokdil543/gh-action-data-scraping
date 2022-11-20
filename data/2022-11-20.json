@@ -654,5 +654,13 @@
     "username": "bluelion350",
     "password": "more",
     "invokedAt": "2022-11-20T17:59:01.466Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Toro",
+    "email": "sara.toro@example.com",
+    "username": "greenwolf701",
+    "password": "zurich",
+    "invokedAt": "2022-11-20T18:17:14.662Z"
   }
 ]
