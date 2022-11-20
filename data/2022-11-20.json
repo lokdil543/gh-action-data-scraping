@@ -430,5 +430,13 @@
     "username": "smallmeercat269",
     "password": "peabody",
     "invokedAt": "2022-11-20T13:00:14.145Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Morris",
+    "email": "ruby.morris@example.com",
+    "username": "purplepanda693",
+    "password": "swim",
+    "invokedAt": "2022-11-20T13:26:27.834Z"
   }
 ]
