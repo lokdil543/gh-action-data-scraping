@@ -662,5 +662,13 @@
     "username": "greenwolf701",
     "password": "zurich",
     "invokedAt": "2022-11-20T18:17:14.662Z"
+  },
+  {
+    "firstName": "Thibaut",
+    "lastName": "Dupuis",
+    "email": "thibaut.dupuis@example.com",
+    "username": "lazykoala430",
+    "password": "1007",
+    "invokedAt": "2022-11-20T18:35:20.775Z"
   }
 ]
