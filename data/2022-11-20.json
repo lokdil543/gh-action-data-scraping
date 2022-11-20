@@ -542,5 +542,13 @@
     "username": "organicfrog579",
     "password": "contract",
     "invokedAt": "2022-11-20T15:30:27.244Z"
+  },
+  {
+    "firstName": "Jay",
+    "lastName": "Shaw",
+    "email": "jay.shaw@example.com",
+    "username": "ticklishfrog861",
+    "password": "sapper",
+    "invokedAt": "2022-11-20T15:40:19.257Z"
   }
 ]
