@@ -726,5 +726,13 @@
     "username": "happygorilla711",
     "password": "legend",
     "invokedAt": "2022-11-20T19:34:30.611Z"
+  },
+  {
+    "firstName": "Patsy",
+    "lastName": "Gibson",
+    "email": "patsy.gibson@example.com",
+    "username": "sadwolf570",
+    "password": "anaconda",
+    "invokedAt": "2022-11-20T19:40:20.047Z"
   }
 ]
