@@ -326,5 +326,13 @@
     "username": "bluegoose578",
     "password": "whatsup",
     "invokedAt": "2022-11-20T10:39:00.046Z"
+  },
+  {
+    "firstName": "Warren",
+    "lastName": "Ross",
+    "email": "warren.ross@example.com",
+    "username": "crazyfrog828",
+    "password": "carpente",
+    "invokedAt": "2022-11-20T10:46:10.727Z"
   }
 ]
