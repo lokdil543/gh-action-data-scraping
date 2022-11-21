@@ -422,5 +422,13 @@
     "username": "happyrabbit252",
     "password": "empire",
     "invokedAt": "2022-11-21T14:35:11.729Z"
+  },
+  {
+    "firstName": "Villads",
+    "lastName": "Christensen",
+    "email": "villads.christensen@example.com",
+    "username": "redfrog117",
+    "password": "myself",
+    "invokedAt": "2022-11-21T14:43:09.526Z"
   }
 ]
