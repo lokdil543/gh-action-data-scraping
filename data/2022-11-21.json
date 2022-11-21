@@ -702,5 +702,13 @@
     "username": "yellowdog895",
     "password": "carbon",
     "invokedAt": "2022-11-21T20:55:36.764Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Mittelstädt",
+    "email": "ian.mittelstadt@example.com",
+    "username": "smallfish683",
+    "password": "amstel",
+    "invokedAt": "2022-11-21T21:06:57.539Z"
   }
 ]
