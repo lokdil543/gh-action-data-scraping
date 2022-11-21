@@ -406,5 +406,13 @@
     "username": "reddog375",
     "password": "slapshot",
     "invokedAt": "2022-11-21T14:09:10.551Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "King",
+    "email": "caitlin.king@example.com",
+    "username": "angryostrich380",
+    "password": "bite",
+    "invokedAt": "2022-11-21T14:25:44.127Z"
   }
 ]
