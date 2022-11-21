@@ -318,5 +318,13 @@
     "username": "purpledog979",
     "password": "lane",
     "invokedAt": "2022-11-21T11:08:53.851Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Jensen",
+    "email": "jonathan.jensen@example.com",
+    "username": "tinyladybug105",
+    "password": "trip",
+    "invokedAt": "2022-11-21T11:23:19.490Z"
   }
 ]
