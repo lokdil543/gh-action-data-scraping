@@ -326,5 +326,13 @@
     "username": "tinyladybug105",
     "password": "trip",
     "invokedAt": "2022-11-21T11:23:19.490Z"
+  },
+  {
+    "firstName": "Arnoud",
+    "lastName": "Van Meegen",
+    "email": "arnoud.vanmeegen@example.com",
+    "username": "heavymouse538",
+    "password": "nextel",
+    "invokedAt": "2022-11-21T11:30:25.059Z"
   }
 ]
