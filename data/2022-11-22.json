@@ -214,5 +214,13 @@
     "username": "smallladybug835",
     "password": "rugger",
     "invokedAt": "2022-11-22T08:22:33.470Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Michel",
+    "email": "clement.michel@example.com",
+    "username": "bluefish315",
+    "password": "post",
+    "invokedAt": "2022-11-22T08:43:21.804Z"
   }
 ]
