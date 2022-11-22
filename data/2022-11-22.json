@@ -350,5 +350,13 @@
     "username": "blackgorilla409",
     "password": "property",
     "invokedAt": "2022-11-22T11:30:24.497Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Takala",
+    "email": "oliver.takala@example.com",
+    "username": "ticklishbutterfly409",
+    "password": "skibum",
+    "invokedAt": "2022-11-22T11:37:02.624Z"
   }
 ]
