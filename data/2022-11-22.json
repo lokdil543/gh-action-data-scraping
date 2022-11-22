@@ -262,5 +262,13 @@
     "username": "brownbird139",
     "password": "marshall",
     "invokedAt": "2022-11-22T09:41:17.455Z"
+  },
+  {
+    "firstName": "Umut",
+    "lastName": "Dağdaş",
+    "email": "umut.dagdas@example.com",
+    "username": "bigswan232",
+    "password": "surfer",
+    "invokedAt": "2022-11-22T09:47:12.825Z"
   }
 ]
