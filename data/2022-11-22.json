@@ -558,5 +558,13 @@
     "username": "orangebear272",
     "password": "chewbacc",
     "invokedAt": "2022-11-22T17:30:49.803Z"
+  },
+  {
+    "firstName": "Blanca",
+    "lastName": "Arias",
+    "email": "blanca.arias@example.com",
+    "username": "happybird455",
+    "password": "sinister",
+    "invokedAt": "2022-11-22T17:41:09.614Z"
   }
 ]
