@@ -574,5 +574,13 @@
     "username": "blackmeercat124",
     "password": "alexande",
     "invokedAt": "2022-11-23T15:44:56.421Z"
+  },
+  {
+    "firstName": "Vesna",
+    "lastName": "Burger",
+    "email": "vesna.burger@example.com",
+    "username": "blackostrich604",
+    "password": "ranger1",
+    "invokedAt": "2022-11-23T15:50:45.705Z"
   }
 ]
