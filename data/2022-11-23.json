@@ -646,5 +646,13 @@
     "username": "ticklishdog188",
     "password": "monopoly",
     "invokedAt": "2022-11-23T17:33:00.545Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Morales",
+    "email": "ricardo.morales@example.com",
+    "username": "crazyfish788",
+    "password": "anakin",
+    "invokedAt": "2022-11-23T17:39:27.326Z"
   }
 ]
