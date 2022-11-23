@@ -366,5 +366,13 @@
     "username": "whitetiger321",
     "password": "tester",
     "invokedAt": "2022-11-23T10:48:42.799Z"
+  },
+  {
+    "firstName": "Luz",
+    "lastName": "Ocasio",
+    "email": "luz.ocasio@example.com",
+    "username": "silverfrog220",
+    "password": "spikey",
+    "invokedAt": "2022-11-23T10:54:36.286Z"
   }
 ]
