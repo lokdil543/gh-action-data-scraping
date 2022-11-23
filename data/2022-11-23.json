@@ -278,5 +278,13 @@
     "username": "redleopard989",
     "password": "racecar",
     "invokedAt": "2022-11-23T08:49:59.449Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Kivela",
+    "email": "otto.kivela@example.com",
+    "username": "yellowzebra255",
+    "password": "support",
+    "invokedAt": "2022-11-23T08:55:50.230Z"
   }
 ]
