@@ -766,5 +766,13 @@
     "username": "bigostrich173",
     "password": "scarface",
     "invokedAt": "2022-11-23T19:43:16.853Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Rasmussen",
+    "email": "mikkel.rasmussen@example.com",
+    "username": "silverbutterfly807",
+    "password": "brownie",
+    "invokedAt": "2022-11-23T19:49:16.676Z"
   }
 ]
