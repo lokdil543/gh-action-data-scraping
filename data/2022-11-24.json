@@ -942,5 +942,13 @@
     "username": "angryfish955",
     "password": "4711",
     "invokedAt": "2022-11-24T22:28:50.389Z"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Tucker",
+    "email": "kenneth.tucker@example.com",
+    "username": "brownswan611",
+    "password": "scuba",
+    "invokedAt": "2022-11-24T22:36:56.770Z"
   }
 ]
