@@ -462,5 +462,13 @@
     "username": "lazypanda379",
     "password": "hoffman",
     "invokedAt": "2022-11-24T12:00:11.450Z"
+  },
+  {
+    "firstName": "Kuzman",
+    "lastName": "Lazić",
+    "email": "kuzman.lazic@example.com",
+    "username": "blackmouse311",
+    "password": "cypress",
+    "invokedAt": "2022-11-24T12:33:34.786Z"
   }
 ]
