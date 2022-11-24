@@ -638,5 +638,13 @@
     "username": "bigwolf999",
     "password": "sprout",
     "invokedAt": "2022-11-24T16:52:20.715Z"
+  },
+  {
+    "firstName": "Josep",
+    "lastName": "Gómez",
+    "email": "josep.gomez@example.com",
+    "username": "happycat259",
+    "password": "cowboy1",
+    "invokedAt": "2022-11-24T16:58:54.499Z"
   }
 ]
