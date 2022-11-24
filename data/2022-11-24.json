@@ -758,5 +758,13 @@
     "username": "redduck391",
     "password": "shakur",
     "invokedAt": "2022-11-24T19:20:02.483Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Miller",
+    "email": "lily.miller@example.com",
+    "username": "bigbird139",
+    "password": "mailman",
+    "invokedAt": "2022-11-24T19:26:04.734Z"
   }
 ]
