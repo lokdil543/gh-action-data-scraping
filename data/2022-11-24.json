@@ -206,5 +206,13 @@
     "username": "lazytiger501",
     "password": "timber",
     "invokedAt": "2022-11-24T07:24:23.153Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Wang",
+    "email": "henry.wang@example.com",
+    "username": "blackgoose163",
+    "password": "patience",
+    "invokedAt": "2022-11-24T07:30:16.752Z"
   }
 ]
