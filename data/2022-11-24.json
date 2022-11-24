@@ -350,5 +350,13 @@
     "username": "redbird297",
     "password": "zanzibar",
     "invokedAt": "2022-11-24T10:00:11.475Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Rolland",
+    "email": "bruno.rolland@example.com",
+    "username": "silverswan937",
+    "password": "land",
+    "invokedAt": "2022-11-24T10:16:56.891Z"
   }
 ]
