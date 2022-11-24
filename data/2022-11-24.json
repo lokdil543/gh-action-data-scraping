@@ -766,5 +766,13 @@
     "username": "bigbird139",
     "password": "mailman",
     "invokedAt": "2022-11-24T19:26:04.734Z"
+  },
+  {
+    "firstName": "Piper",
+    "lastName": "Thomas",
+    "email": "piper.thomas@example.com",
+    "username": "crazysnake473",
+    "password": "samiam",
+    "invokedAt": "2022-11-24T19:32:23.477Z"
   }
 ]
