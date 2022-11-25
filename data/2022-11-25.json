@@ -982,5 +982,13 @@
     "username": "orangefish238",
     "password": "kramer",
     "invokedAt": "2022-11-25T23:16:56.013Z"
+  },
+  {
+    "firstName": "Alejandro",
+    "lastName": "Treviño",
+    "email": "alejandro.trevino@example.com",
+    "username": "angryostrich279",
+    "password": "goat",
+    "invokedAt": "2022-11-25T23:29:10.757Z"
   }
 ]
