@@ -286,5 +286,13 @@
     "username": "happybird774",
     "password": "square",
     "invokedAt": "2022-11-25T09:06:28.565Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Márquez",
+    "email": "esteban.marquez@example.com",
+    "username": "redcat632",
+    "password": "2121",
+    "invokedAt": "2022-11-25T09:23:40.628Z"
   }
 ]
