@@ -590,5 +590,13 @@
     "username": "whitedog372",
     "password": "barton",
     "invokedAt": "2022-11-25T15:42:56.445Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Kauppila",
+    "email": "toivo.kauppila@example.com",
+    "username": "blackmeercat792",
+    "password": "turnip",
+    "invokedAt": "2022-11-25T15:48:54.609Z"
   }
 ]
