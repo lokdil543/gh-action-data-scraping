@@ -854,5 +854,13 @@
     "username": "silverpeacock535",
     "password": "salesman",
     "invokedAt": "2022-11-25T20:55:00.643Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Gibson",
+    "email": "mike.gibson@example.com",
+    "username": "silverzebra523",
+    "password": "catcat",
+    "invokedAt": "2022-11-25T21:03:16.379Z"
   }
 ]
