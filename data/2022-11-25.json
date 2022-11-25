@@ -238,5 +238,13 @@
     "username": "silverduck101",
     "password": "123456",
     "invokedAt": "2022-11-25T07:55:39.495Z"
+  },
+  {
+    "firstName": "Sundus",
+    "lastName": "Williams",
+    "email": "sundus.williams@example.com",
+    "username": "bigelephant390",
+    "password": "madness",
+    "invokedAt": "2022-11-25T08:09:13.615Z"
   }
 ]
