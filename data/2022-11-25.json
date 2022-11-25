@@ -1014,5 +1014,13 @@
     "username": "goldengorilla586",
     "password": "route66",
     "invokedAt": "2022-11-25T23:48:43.810Z"
+  },
+  {
+    "firstName": "Earl",
+    "lastName": "Craig",
+    "email": "earl.craig@example.com",
+    "username": "reddog314",
+    "password": "mystic",
+    "invokedAt": "2022-11-25T23:54:41.820Z"
   }
 ]
