@@ -438,5 +438,13 @@
     "username": "lazylion653",
     "password": "columbia",
     "invokedAt": "2022-11-26T11:25:13.662Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Shaw",
+    "email": "dean.shaw@example.com",
+    "username": "happyfrog403",
+    "password": "poiu",
+    "invokedAt": "2022-11-26T11:31:15.599Z"
   }
 ]
