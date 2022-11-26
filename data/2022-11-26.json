@@ -398,5 +398,13 @@
     "username": "happyrabbit165",
     "password": "whitey",
     "invokedAt": "2022-11-26T10:43:45.707Z"
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "White",
+    "email": "frederick.white@example.com",
+    "username": "crazyduck337",
+    "password": "sputnik",
+    "invokedAt": "2022-11-26T10:49:36.887Z"
   }
 ]
