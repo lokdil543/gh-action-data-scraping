@@ -358,5 +358,13 @@
     "username": "happycat666",
     "password": "1003",
     "invokedAt": "2022-11-26T09:53:41.677Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Koyuncu",
+    "email": "gokhan.koyuncu@example.com",
+    "username": "orangepanda640",
+    "password": "virgil",
+    "invokedAt": "2022-11-26T09:59:10.916Z"
   }
 ]
