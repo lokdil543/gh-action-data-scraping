@@ -606,5 +606,13 @@
     "username": "tinybutterfly238",
     "password": "marijuan",
     "invokedAt": "2022-11-26T14:55:28.576Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Clarke",
+    "email": "john.clarke@example.com",
+    "username": "tinybutterfly654",
+    "password": "nimbus",
+    "invokedAt": "2022-11-26T15:05:30.946Z"
   }
 ]
