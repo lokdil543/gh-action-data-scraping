@@ -310,5 +310,13 @@
     "username": "lazypanda837",
     "password": "beerbeer",
     "invokedAt": "2022-11-26T09:02:36.666Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Wood",
+    "email": "kate.wood@example.com",
+    "username": "purplelion802",
+    "password": "getout",
+    "invokedAt": "2022-11-26T09:19:48.001Z"
   }
 ]
