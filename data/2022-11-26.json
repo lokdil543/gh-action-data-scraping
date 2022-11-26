@@ -1014,5 +1014,13 @@
     "username": "crazybear310",
     "password": "static",
     "invokedAt": "2022-11-26T22:35:39.422Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Giménez",
+    "email": "xavier.gimenez@example.com",
+    "username": "whitetiger146",
+    "password": "asdfg",
+    "invokedAt": "2022-11-26T22:41:28.618Z"
   }
 ]
