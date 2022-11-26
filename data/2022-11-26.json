@@ -1006,5 +1006,13 @@
     "username": "purplelion142",
     "password": "columbia",
     "invokedAt": "2022-11-26T22:27:37.715Z"
+  },
+  {
+    "firstName": "Akhil",
+    "lastName": "Kumar",
+    "email": "akhil.kumar@example.com",
+    "username": "crazybear310",
+    "password": "static",
+    "invokedAt": "2022-11-26T22:35:39.422Z"
   }
 ]
