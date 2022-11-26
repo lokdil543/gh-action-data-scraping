@@ -406,5 +406,13 @@
     "username": "crazyduck337",
     "password": "sputnik",
     "invokedAt": "2022-11-26T10:49:36.887Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Hughes",
+    "email": "edward.hughes@example.com",
+    "username": "greenelephant413",
+    "password": "sidney",
+    "invokedAt": "2022-11-26T10:55:30.196Z"
   }
 ]
