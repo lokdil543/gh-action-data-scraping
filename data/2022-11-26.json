@@ -710,5 +710,13 @@
     "username": "yellowkoala480",
     "password": "hercules",
     "invokedAt": "2022-11-26T17:23:07.831Z"
+  },
+  {
+    "firstName": "Berendje",
+    "lastName": "Van Spijker",
+    "email": "berendje.vanspijker@example.com",
+    "username": "brownmeercat285",
+    "password": "command",
+    "invokedAt": "2022-11-26T17:30:13.412Z"
   }
 ]
