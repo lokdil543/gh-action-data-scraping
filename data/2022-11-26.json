@@ -670,5 +670,13 @@
     "username": "crazyelephant472",
     "password": "magazine",
     "invokedAt": "2022-11-26T16:13:17.343Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Andrews",
+    "email": "jack.andrews@example.com",
+    "username": "redlion201",
+    "password": "train",
+    "invokedAt": "2022-11-26T16:37:37.059Z"
   }
 ]
