@@ -46,5 +46,13 @@
     "username": "greensnake965",
     "password": "looker",
     "invokedAt": "2022-11-27T04:11:55.562Z"
+  },
+  {
+    "firstName": "Karim",
+    "lastName": "Lecomte",
+    "email": "karim.lecomte@example.com",
+    "username": "redsnake431",
+    "password": "catch22",
+    "invokedAt": "2022-11-27T04:32:25.931Z"
   }
 ]
