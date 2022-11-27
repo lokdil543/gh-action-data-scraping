@@ -406,5 +406,13 @@
     "username": "redpeacock769",
     "password": "test",
     "invokedAt": "2022-11-27T11:06:55.742Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Romero",
+    "email": "edgar.romero@example.com",
+    "username": "blackpanda351",
+    "password": "havana",
+    "invokedAt": "2022-11-27T11:19:43.866Z"
   }
 ]
