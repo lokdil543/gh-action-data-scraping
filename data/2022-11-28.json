@@ -742,5 +742,13 @@
     "username": "orangebird349",
     "password": "starcraft",
     "invokedAt": "2022-11-28T18:52:52.328Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Guillot",
+    "email": "simon.guillot@example.com",
+    "username": "smallzebra111",
+    "password": "clapton",
+    "invokedAt": "2022-11-28T18:58:46.253Z"
   }
 ]
