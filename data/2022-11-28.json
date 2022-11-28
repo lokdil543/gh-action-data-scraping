@@ -694,5 +694,13 @@
     "username": "blackelephant971",
     "password": "wright",
     "invokedAt": "2022-11-28T17:46:53.978Z"
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Karanović",
+    "email": "vladimir.karanovic@example.com",
+    "username": "whiteelephant869",
+    "password": "justdoit",
+    "invokedAt": "2022-11-28T17:53:04.894Z"
   }
 ]
