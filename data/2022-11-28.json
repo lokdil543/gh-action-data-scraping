@@ -606,5 +606,13 @@
     "username": "angryswan224",
     "password": "gotribe",
     "invokedAt": "2022-11-28T15:51:06.970Z"
+  },
+  {
+    "firstName": "Tomislav",
+    "lastName": "Busche",
+    "email": "tomislav.busche@example.com",
+    "username": "greendog909",
+    "password": "leader",
+    "invokedAt": "2022-11-28T15:56:53.494Z"
   }
 ]
