@@ -262,5 +262,13 @@
     "username": "bigpeacock393",
     "password": "roland",
     "invokedAt": "2022-11-28T08:39:09.837Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Gagnon",
+    "email": "liam.gagnon@example.com",
+    "username": "happyzebra812",
+    "password": "train",
+    "invokedAt": "2022-11-28T08:48:16.845Z"
   }
 ]
