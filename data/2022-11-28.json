@@ -814,5 +814,13 @@
     "username": "bluecat705",
     "password": "strat",
     "invokedAt": "2022-11-28T19:57:53.018Z"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Klingenberg",
+    "email": "karl.klingenberg@example.com",
+    "username": "sadfish619",
+    "password": "weather",
+    "invokedAt": "2022-11-28T20:12:27.630Z"
   }
 ]
