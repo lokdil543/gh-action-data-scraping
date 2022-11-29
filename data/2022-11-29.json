@@ -406,5 +406,13 @@
     "username": "orangemouse426",
     "password": "nutter",
     "invokedAt": "2022-11-29T11:25:00.655Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Rodriguez",
+    "email": "linda.rodriguez@example.com",
+    "username": "goldentiger888",
+    "password": "phpbb",
+    "invokedAt": "2022-11-29T11:31:01.776Z"
   }
 ]
