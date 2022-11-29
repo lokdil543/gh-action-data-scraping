@@ -918,5 +918,13 @@
     "username": "tinyduck919",
     "password": "snickers",
     "invokedAt": "2022-11-29T22:08:29.849Z"
+  },
+  {
+    "firstName": "Brendan",
+    "lastName": "Carr",
+    "email": "brendan.carr@example.com",
+    "username": "purplebutterfly402",
+    "password": "tree",
+    "invokedAt": "2022-11-29T22:24:26.140Z"
   }
 ]
