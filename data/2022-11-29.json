@@ -358,5 +358,13 @@
     "username": "sadcat712",
     "password": "eating",
     "invokedAt": "2022-11-29T10:32:12.873Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Kıraç",
+    "email": "gokhan.kirac@example.com",
+    "username": "yellowcat544",
+    "password": "england",
+    "invokedAt": "2022-11-29T10:42:45.021Z"
   }
 ]
