@@ -526,5 +526,13 @@
     "username": "whitelion598",
     "password": "conan",
     "invokedAt": "2022-11-29T14:32:55.048Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Jørgensen",
+    "email": "christoffer.jorgensen@example.com",
+    "username": "greendog805",
+    "password": "323232",
+    "invokedAt": "2022-11-29T14:40:39.223Z"
   }
 ]
