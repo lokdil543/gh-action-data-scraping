@@ -190,5 +190,13 @@
     "username": "browndog110",
     "password": "puff",
     "invokedAt": "2022-11-29T06:59:24.010Z"
+  },
+  {
+    "firstName": "Vojislava",
+    "lastName": "Ivanović",
+    "email": "vojislava.ivanovic@example.com",
+    "username": "bigpeacock757",
+    "password": "ride",
+    "invokedAt": "2022-11-29T07:13:42.756Z"
   }
 ]
