@@ -350,5 +350,13 @@
     "username": "silverpeacock620",
     "password": "roll",
     "invokedAt": "2022-11-29T10:16:09.358Z"
+  },
+  {
+    "firstName": "Basile",
+    "lastName": "Brunet",
+    "email": "basile.brunet@example.com",
+    "username": "sadcat712",
+    "password": "eating",
+    "invokedAt": "2022-11-29T10:32:12.873Z"
   }
 ]
