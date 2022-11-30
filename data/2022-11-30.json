@@ -374,5 +374,13 @@
     "username": "yellowdog989",
     "password": "typhoon",
     "invokedAt": "2022-11-30T10:46:17.681Z"
+  },
+  {
+    "firstName": "Tibor",
+    "lastName": "Ter Laak",
+    "email": "tibor.terlaak@example.com",
+    "username": "yellowladybug250",
+    "password": "peter",
+    "invokedAt": "2022-11-30T10:52:10.486Z"
   }
 ]
