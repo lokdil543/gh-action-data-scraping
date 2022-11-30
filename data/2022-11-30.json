@@ -782,5 +782,13 @@
     "username": "silvercat148",
     "password": "james007",
     "invokedAt": "2022-11-30T19:57:52.921Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Ferguson",
+    "email": "danny.ferguson@example.com",
+    "username": "lazymeercat779",
+    "password": "87654321",
+    "invokedAt": "2022-11-30T20:12:18.296Z"
   }
 ]
