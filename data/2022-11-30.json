@@ -662,5 +662,13 @@
     "username": "bluemeercat171",
     "password": "alive",
     "invokedAt": "2022-11-30T17:45:02.899Z"
+  },
+  {
+    "firstName": "Ryder",
+    "lastName": "Wong",
+    "email": "ryder.wong@example.com",
+    "username": "angrydog451",
+    "password": "grande",
+    "invokedAt": "2022-11-30T17:51:01.762Z"
   }
 ]
