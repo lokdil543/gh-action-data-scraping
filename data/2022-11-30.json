@@ -726,5 +726,13 @@
     "username": "orangerabbit278",
     "password": "truck1",
     "invokedAt": "2022-11-30T19:11:00.034Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Mortensen",
+    "email": "freja.mortensen@example.com",
+    "username": "silverzebra418",
+    "password": "python",
+    "invokedAt": "2022-11-30T19:21:42.679Z"
   }
 ]
