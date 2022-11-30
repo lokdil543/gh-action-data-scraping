@@ -206,5 +206,13 @@
     "username": "lazyfish778",
     "password": "doubled",
     "invokedAt": "2022-11-30T07:23:32.901Z"
+  },
+  {
+    "firstName": "Wade",
+    "lastName": "Griffin",
+    "email": "wade.griffin@example.com",
+    "username": "yellowostrich462",
+    "password": "gesperrt",
+    "invokedAt": "2022-11-30T07:29:34.930Z"
   }
 ]
