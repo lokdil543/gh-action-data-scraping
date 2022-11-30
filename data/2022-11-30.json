@@ -574,5 +574,13 @@
     "username": "bluebear925",
     "password": "shibby",
     "invokedAt": "2022-11-30T15:33:39.154Z"
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Dahlmann",
+    "email": "gunnar.dahlmann@example.com",
+    "username": "smallleopard391",
+    "password": "route66",
+    "invokedAt": "2022-11-30T15:43:54.885Z"
   }
 ]
