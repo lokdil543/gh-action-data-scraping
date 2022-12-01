@@ -294,5 +294,13 @@
     "username": "yellowdog171",
     "password": "keeper",
     "invokedAt": "2022-12-01T09:38:36.197Z"
+  },
+  {
+    "firstName": "Vicky",
+    "lastName": "Peterson",
+    "email": "vicky.peterson@example.com",
+    "username": "brownsnake151",
+    "password": "playa",
+    "invokedAt": "2022-12-01T09:44:30.931Z"
   }
 ]
