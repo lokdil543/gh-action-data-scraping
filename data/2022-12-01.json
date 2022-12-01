@@ -102,5 +102,13 @@
     "username": "organicrabbit711",
     "password": "platinum",
     "invokedAt": "2022-12-01T05:36:20.397Z"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Murphy",
+    "email": "andrew.murphy@example.com",
+    "username": "brownlion306",
+    "password": "asimov",
+    "invokedAt": "2022-12-01T05:42:15.268Z"
   }
 ]
