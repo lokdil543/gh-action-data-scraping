@@ -934,5 +934,13 @@
     "username": "whitepanda781",
     "password": "icehouse",
     "invokedAt": "2022-12-01T22:57:09.616Z"
+  },
+  {
+    "firstName": "Brandie",
+    "lastName": "Lowe",
+    "email": "brandie.lowe@example.com",
+    "username": "lazybear302",
+    "password": "something",
+    "invokedAt": "2022-12-01T23:10:18.646Z"
   }
 ]
