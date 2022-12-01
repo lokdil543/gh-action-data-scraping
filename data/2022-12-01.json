@@ -510,5 +510,13 @@
     "username": "blackfrog383",
     "password": "aaaaaaa",
     "invokedAt": "2022-12-01T14:46:52.021Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "White",
+    "email": "andy.white@example.com",
+    "username": "bigbutterfly138",
+    "password": "comet",
+    "invokedAt": "2022-12-01T14:52:46.898Z"
   }
 ]
