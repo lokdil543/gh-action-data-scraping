@@ -318,5 +318,13 @@
     "username": "whiteleopard459",
     "password": "moonbeam",
     "invokedAt": "2022-12-01T09:56:33.193Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Harvey",
+    "email": "ryan.harvey@example.com",
+    "username": "blueduck876",
+    "password": "misery",
+    "invokedAt": "2022-12-01T10:10:22.498Z"
   }
 ]
