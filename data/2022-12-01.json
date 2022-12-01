@@ -790,5 +790,13 @@
     "username": "lazyostrich499",
     "password": "mobile",
     "invokedAt": "2022-12-01T20:39:35.229Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Herrera",
+    "email": "juan.herrera@example.com",
+    "username": "tinymouse403",
+    "password": "bite",
+    "invokedAt": "2022-12-01T20:45:36.898Z"
   }
 ]
