@@ -982,5 +982,13 @@
     "username": "sadgoose322",
     "password": "blazer",
     "invokedAt": "2022-12-01T23:52:26.747Z"
+  },
+  {
+    "firstName": "Dexter",
+    "lastName": "Sandbæk",
+    "email": "dexter.sandbaek@example.com",
+    "username": "angryfrog413",
+    "password": "qwertz",
+    "invokedAt": "2022-12-01T23:58:19.733Z"
   }
 ]
