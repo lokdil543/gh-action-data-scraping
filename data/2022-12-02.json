@@ -1014,5 +1014,13 @@
     "username": "silverelephant680",
     "password": "indiana",
     "invokedAt": "2022-12-02T21:53:27.795Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Zhang",
+    "email": "zoe.zhang@example.com",
+    "username": "greenfish284",
+    "password": "woohoo",
+    "invokedAt": "2022-12-02T21:59:19.769Z"
   }
 ]
