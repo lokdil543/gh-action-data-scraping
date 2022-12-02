@@ -870,5 +870,13 @@
     "username": "heavygorilla365",
     "password": "mykids",
     "invokedAt": "2022-12-02T19:36:52.131Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Stojković",
+    "email": "milos.stojkovic@example.com",
+    "username": "blacksnake160",
+    "password": "qwerty1",
+    "invokedAt": "2022-12-02T19:42:57.096Z"
   }
 ]
