@@ -294,5 +294,13 @@
     "username": "silversnake178",
     "password": "voodoo",
     "invokedAt": "2022-12-02T08:31:06.882Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Barnes",
+    "email": "tracy.barnes@example.com",
+    "username": "purplefrog220",
+    "password": "clean",
+    "invokedAt": "2022-12-02T08:40:54.462Z"
   }
 ]
