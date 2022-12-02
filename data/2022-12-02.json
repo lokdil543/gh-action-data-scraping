@@ -414,5 +414,13 @@
     "username": "crazydog376",
     "password": "sound",
     "invokedAt": "2022-12-02T10:43:09.803Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Larson",
+    "email": "luis.larson@example.com",
+    "username": "goldentiger905",
+    "password": "magic",
+    "invokedAt": "2022-12-02T10:49:26.258Z"
   }
 ]
