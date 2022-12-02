@@ -342,5 +342,13 @@
     "username": "happypeacock440",
     "password": "record",
     "invokedAt": "2022-12-02T09:25:11.795Z"
+  },
+  {
+    "firstName": "Milka",
+    "lastName": "Simić",
+    "email": "milka.simic@example.com",
+    "username": "goldenswan192",
+    "password": "matthias",
+    "invokedAt": "2022-12-02T09:31:12.423Z"
   }
 ]
