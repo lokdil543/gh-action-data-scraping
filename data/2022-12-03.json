@@ -414,5 +414,13 @@
     "username": "smallwolf129",
     "password": "limited",
     "invokedAt": "2022-12-03T09:47:31.217Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Guzmán",
+    "email": "bruno.guzman@example.com",
+    "username": "silverbird972",
+    "password": "defender",
+    "invokedAt": "2022-12-03T09:53:18.000Z"
   }
 ]
