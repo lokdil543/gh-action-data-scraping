@@ -494,5 +494,13 @@
     "username": "brownduck990",
     "password": "treble",
     "invokedAt": "2022-12-03T11:11:40.389Z"
+  },
+  {
+    "firstName": "Dijana",
+    "lastName": "Obradović",
+    "email": "dijana.obradovic@example.com",
+    "username": "goldenbird433",
+    "password": "freeuser",
+    "invokedAt": "2022-12-03T11:20:37.727Z"
   }
 ]
