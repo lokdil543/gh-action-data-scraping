@@ -446,5 +446,13 @@
     "username": "crazysnake615",
     "password": "surgery",
     "invokedAt": "2022-12-03T10:27:52.812Z"
+  },
+  {
+    "firstName": "Alfonso",
+    "lastName": "Espinoza",
+    "email": "alfonso.espinoza@example.com",
+    "username": "purplesnake322",
+    "password": "sabine",
+    "invokedAt": "2022-12-03T10:35:31.258Z"
   }
 ]
