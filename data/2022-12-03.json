@@ -942,5 +942,13 @@
     "username": "redfish581",
     "password": "recovery",
     "invokedAt": "2022-12-03T19:35:36.036Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Elliott",
+    "email": "jonathan.elliott@example.com",
+    "username": "orangepanda330",
+    "password": "bacon",
+    "invokedAt": "2022-12-03T19:41:26.507Z"
   }
 ]
