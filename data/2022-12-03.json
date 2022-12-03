@@ -958,5 +958,13 @@
     "username": "lazykoala323",
     "password": "positive",
     "invokedAt": "2022-12-03T19:47:23.720Z"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Watkins",
+    "email": "troy.watkins@example.com",
+    "username": "orangelion910",
+    "password": "panda",
+    "invokedAt": "2022-12-03T19:53:23.180Z"
   }
 ]
