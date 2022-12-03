@@ -934,5 +934,13 @@
     "username": "lazyzebra169",
     "password": "1121",
     "invokedAt": "2022-12-03T19:29:34.354Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Rogers",
+    "email": "lauren.rogers@example.com",
+    "username": "redfish581",
+    "password": "recovery",
+    "invokedAt": "2022-12-03T19:35:36.036Z"
   }
 ]
