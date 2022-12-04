@@ -1158,5 +1158,13 @@
     "username": "purpletiger596",
     "password": "murphy1",
     "invokedAt": "2022-12-04T23:32:45.871Z"
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "Dupont",
+    "email": "colin.dupont@example.com",
+    "username": "lazyostrich621",
+    "password": "deputy",
+    "invokedAt": "2022-12-04T23:39:15.664Z"
   }
 ]
