@@ -566,5 +566,13 @@
     "username": "yellowmouse948",
     "password": "banshee",
     "invokedAt": "2022-12-04T13:22:40.230Z"
+  },
+  {
+    "firstName": "Nenad",
+    "lastName": "Golubović",
+    "email": "nenad.golubovic@example.com",
+    "username": "tinyduck315",
+    "password": "water",
+    "invokedAt": "2022-12-04T13:31:35.783Z"
   }
 ]
