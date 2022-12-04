@@ -558,5 +558,13 @@
     "username": "happyzebra317",
     "password": "jack1",
     "invokedAt": "2022-12-04T13:02:03.524Z"
+  },
+  {
+    "firstName": "Miško",
+    "lastName": "Stevanović",
+    "email": "misko.stevanovic@example.com",
+    "username": "yellowmouse948",
+    "password": "banshee",
+    "invokedAt": "2022-12-04T13:22:40.230Z"
   }
 ]
