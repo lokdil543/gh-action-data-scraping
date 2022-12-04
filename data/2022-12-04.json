@@ -862,5 +862,13 @@
     "username": "tinydog288",
     "password": "a123456",
     "invokedAt": "2022-12-04T18:44:23.908Z"
+  },
+  {
+    "firstName": "Andréa",
+    "lastName": "Guerin",
+    "email": "andrea.guerin@example.com",
+    "username": "beautifuldog577",
+    "password": "sidekick",
+    "invokedAt": "2022-12-04T18:50:21.892Z"
   }
 ]
