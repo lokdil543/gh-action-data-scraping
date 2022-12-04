@@ -526,5 +526,13 @@
     "username": "biglion469",
     "password": "123987",
     "invokedAt": "2022-12-04T11:49:42.201Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Günday",
+    "email": "koray.gunday@example.com",
+    "username": "redcat351",
+    "password": "widget",
+    "invokedAt": "2022-12-04T11:55:32.971Z"
   }
 ]
