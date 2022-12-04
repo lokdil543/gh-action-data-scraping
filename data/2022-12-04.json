@@ -590,5 +590,13 @@
     "username": "lazyladybug644",
     "password": "screamer",
     "invokedAt": "2022-12-04T13:43:27.769Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Park",
+    "email": "thomas.park@example.com",
+    "username": "bigbear501",
+    "password": "nirvana",
+    "invokedAt": "2022-12-04T13:49:20.139Z"
   }
 ]
