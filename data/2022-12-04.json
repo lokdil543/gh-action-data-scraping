@@ -670,5 +670,13 @@
     "username": "happyduck234",
     "password": "pertinant",
     "invokedAt": "2022-12-04T14:56:39.328Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Gönültaş",
+    "email": "efe.gonultas@example.com",
+    "username": "whitecat420",
+    "password": "stinker",
+    "invokedAt": "2022-12-04T15:07:49.167Z"
   }
 ]
