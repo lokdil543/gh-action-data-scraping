@@ -774,5 +774,13 @@
     "username": "whitebird840",
     "password": "beezer",
     "invokedAt": "2022-12-05T18:00:21.155Z"
+  },
+  {
+    "firstName": "Edwin",
+    "lastName": "Scheerer",
+    "email": "edwin.scheerer@example.com",
+    "username": "lazytiger599",
+    "password": "12345678",
+    "invokedAt": "2022-12-05T18:19:30.414Z"
   }
 ]
