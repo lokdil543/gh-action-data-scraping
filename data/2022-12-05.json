@@ -582,5 +582,13 @@
     "username": "bluerabbit124",
     "password": "beans",
     "invokedAt": "2022-12-05T14:13:38.311Z"
+  },
+  {
+    "firstName": "Mihailo",
+    "lastName": "Ćirić",
+    "email": "mihailo.ciric@example.com",
+    "username": "smallmouse613",
+    "password": "splash",
+    "invokedAt": "2022-12-05T14:26:16.144Z"
   }
 ]
