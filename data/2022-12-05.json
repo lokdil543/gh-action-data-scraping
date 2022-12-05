@@ -1030,5 +1030,13 @@
     "username": "greenkoala625",
     "password": "102030",
     "invokedAt": "2022-12-05T22:35:01.776Z"
+  },
+  {
+    "firstName": "Shravya",
+    "lastName": "Nand",
+    "email": "shravya.nand@example.com",
+    "username": "orangekoala934",
+    "password": "planes",
+    "invokedAt": "2022-12-05T22:40:50.618Z"
   }
 ]
