@@ -718,5 +718,13 @@
     "username": "happycat109",
     "password": "bigd",
     "invokedAt": "2022-12-05T17:07:41.452Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Nguyen",
+    "email": "bastien.nguyen@example.com",
+    "username": "crazydog718",
+    "password": "qwert",
+    "invokedAt": "2022-12-05T17:22:26.578Z"
   }
 ]
