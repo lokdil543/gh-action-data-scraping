@@ -742,5 +742,13 @@
     "username": "redmouse113",
     "password": "cosmic",
     "invokedAt": "2022-12-05T17:36:23.931Z"
+  },
+  {
+    "firstName": "Chad",
+    "lastName": "Coleman",
+    "email": "chad.coleman@example.com",
+    "username": "orangelion590",
+    "password": "cowboys",
+    "invokedAt": "2022-12-05T17:42:13.511Z"
   }
 ]
