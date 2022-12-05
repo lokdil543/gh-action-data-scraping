@@ -574,5 +574,13 @@
     "username": "yellowbird537",
     "password": "forest",
     "invokedAt": "2022-12-05T13:59:37.642Z"
+  },
+  {
+    "firstName": "Hatun",
+    "lastName": "Van Son",
+    "email": "hatun.vanson@example.com",
+    "username": "bluerabbit124",
+    "password": "beans",
+    "invokedAt": "2022-12-05T14:13:38.311Z"
   }
 ]
