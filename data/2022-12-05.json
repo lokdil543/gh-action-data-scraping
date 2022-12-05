@@ -310,5 +310,13 @@
     "username": "greenwolf123",
     "password": "martin1",
     "invokedAt": "2022-12-05T08:37:10.883Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Kyllonen",
+    "email": "vaino.kyllonen@example.com",
+    "username": "lazybutterfly538",
+    "password": "madeline",
+    "invokedAt": "2022-12-05T08:45:26.375Z"
   }
 ]
