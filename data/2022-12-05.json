@@ -326,5 +326,13 @@
     "username": "bluecat644",
     "password": "stop",
     "invokedAt": "2022-12-05T08:51:24.087Z"
+  },
+  {
+    "firstName": "Zoé",
+    "lastName": "Philippe",
+    "email": "zoe.philippe@example.com",
+    "username": "yellowgoose233",
+    "password": "cartoon",
+    "invokedAt": "2022-12-05T08:57:23.807Z"
   }
 ]
