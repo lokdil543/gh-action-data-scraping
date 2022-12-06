@@ -726,5 +726,13 @@
     "username": "greenpeacock659",
     "password": "suburban",
     "invokedAt": "2022-12-06T17:11:10.322Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Kitić",
+    "email": "maria.kitic@example.com",
+    "username": "sadsnake852",
+    "password": "enigma",
+    "invokedAt": "2022-12-06T17:25:20.900Z"
   }
 ]
