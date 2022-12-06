@@ -478,5 +478,13 @@
     "username": "crazyfrog180",
     "password": "munich",
     "invokedAt": "2022-12-06T11:29:16.744Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Rubio",
+    "email": "daniel.rubio@example.com",
+    "username": "brownbird345",
+    "password": "1223",
+    "invokedAt": "2022-12-06T11:35:53.659Z"
   }
 ]
