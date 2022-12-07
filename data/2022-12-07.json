@@ -414,5 +414,13 @@
     "username": "purplefish298",
     "password": "blade",
     "invokedAt": "2022-12-07T10:48:55.227Z"
+  },
+  {
+    "firstName": "Pål",
+    "lastName": "Rystad",
+    "email": "pal.rystad@example.com",
+    "username": "crazybear307",
+    "password": "colin",
+    "invokedAt": "2022-12-07T10:54:58.104Z"
   }
 ]
