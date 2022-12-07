@@ -86,5 +86,13 @@
     "username": "yellowleopard481",
     "password": "change",
     "invokedAt": "2022-12-07T04:42:15.773Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Harris",
+    "email": "maria.harris@example.com",
+    "username": "goldenmouse669",
+    "password": "cabernet",
+    "invokedAt": "2022-12-07T04:48:23.032Z"
   }
 ]
