@@ -710,5 +710,13 @@
     "username": "heavytiger233",
     "password": "blue12",
     "invokedAt": "2022-12-07T17:12:42.277Z"
+  },
+  {
+    "firstName": "Kaïs",
+    "lastName": "Perrin",
+    "email": "kais.perrin@example.com",
+    "username": "greenladybug252",
+    "password": "none",
+    "invokedAt": "2022-12-07T17:26:32.334Z"
   }
 ]
