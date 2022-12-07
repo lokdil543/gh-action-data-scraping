@@ -438,5 +438,13 @@
     "username": "heavyfrog413",
     "password": "hong",
     "invokedAt": "2022-12-07T11:15:34.733Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Edwards",
+    "email": "jordan.edwards@example.com",
+    "username": "silvercat421",
+    "password": "eclipse",
+    "invokedAt": "2022-12-07T11:24:07.279Z"
   }
 ]
