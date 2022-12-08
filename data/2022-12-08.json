@@ -70,5 +70,13 @@
     "username": "reddog676",
     "password": "song",
     "invokedAt": "2022-12-08T03:54:41.682Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Lammi",
+    "email": "emil.lammi@example.com",
+    "username": "redelephant409",
+    "password": "webmaste",
+    "invokedAt": "2022-12-08T04:00:32.644Z"
   }
 ]
