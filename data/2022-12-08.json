@@ -422,5 +422,13 @@
     "username": "whitebear204",
     "password": "winston1",
     "invokedAt": "2022-12-08T10:46:08.786Z"
+  },
+  {
+    "firstName": "Dorrit",
+    "lastName": "Van der Werf",
+    "email": "dorrit.vanderwerf@example.com",
+    "username": "blackmeercat648",
+    "password": "eric",
+    "invokedAt": "2022-12-08T10:52:16.568Z"
   }
 ]
