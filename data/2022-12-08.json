@@ -958,5 +958,13 @@
     "username": "redkoala246",
     "password": "mongoose",
     "invokedAt": "2022-12-08T21:15:45.918Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Frazier",
+    "email": "carlos.frazier@example.com",
+    "username": "heavyswan170",
+    "password": "oracle",
+    "invokedAt": "2022-12-08T21:25:52.050Z"
   }
 ]
