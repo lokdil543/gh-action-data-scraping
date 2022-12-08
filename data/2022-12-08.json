@@ -966,5 +966,13 @@
     "username": "heavyswan170",
     "password": "oracle",
     "invokedAt": "2022-12-08T21:25:52.050Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Hughes",
+    "email": "bradley.hughes@example.com",
+    "username": "silverswan989",
+    "password": "paint",
+    "invokedAt": "2022-12-08T21:32:02.923Z"
   }
 ]
