@@ -950,5 +950,13 @@
     "username": "lazyduck920",
     "password": "house",
     "invokedAt": "2022-12-08T21:01:01.002Z"
+  },
+  {
+    "firstName": "Jérémy",
+    "lastName": "Giraud",
+    "email": "jeremy.giraud@example.com",
+    "username": "redkoala246",
+    "password": "mongoose",
+    "invokedAt": "2022-12-08T21:15:45.918Z"
   }
 ]
