@@ -550,5 +550,13 @@
     "username": "ticklishpeacock961",
     "password": "sparky1",
     "invokedAt": "2022-12-08T13:44:59.954Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Beermann",
+    "email": "branko.beermann@example.com",
+    "username": "brownbear732",
+    "password": "band",
+    "invokedAt": "2022-12-08T13:50:56.220Z"
   }
 ]
