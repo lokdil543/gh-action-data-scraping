@@ -382,5 +382,13 @@
     "username": "beautifulmouse183",
     "password": "0.0.0.000",
     "invokedAt": "2022-12-08T09:54:48.171Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Day",
+    "email": "dave.day@example.com",
+    "username": "lazypanda464",
+    "password": "soccer10",
+    "invokedAt": "2022-12-08T10:00:51.630Z"
   }
 ]
