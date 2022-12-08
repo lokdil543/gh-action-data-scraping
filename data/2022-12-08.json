@@ -678,5 +678,13 @@
     "username": "ticklishtiger388",
     "password": "cisco",
     "invokedAt": "2022-12-08T15:54:31.851Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Hall",
+    "email": "peter.hall@example.com",
+    "username": "orangedog215",
+    "password": "tank",
+    "invokedAt": "2022-12-08T16:00:10.826Z"
   }
 ]
