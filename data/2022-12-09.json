@@ -550,5 +550,13 @@
     "username": "crazyleopard842",
     "password": "denver",
     "invokedAt": "2022-12-09T13:42:18.451Z"
+  },
+  {
+    "firstName": "Hervé",
+    "lastName": "Schmitt",
+    "email": "herve.schmitt@example.com",
+    "username": "beautifulelephant240",
+    "password": "carlo",
+    "invokedAt": "2022-12-09T13:48:17.902Z"
   }
 ]
