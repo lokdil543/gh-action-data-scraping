@@ -734,5 +734,13 @@
     "username": "heavytiger333",
     "password": "laser",
     "invokedAt": "2022-12-09T17:22:01.092Z"
+  },
+  {
+    "firstName": "Jørgen",
+    "lastName": "Nesland",
+    "email": "jorgen.nesland@example.com",
+    "username": "heavypeacock156",
+    "password": "extreme",
+    "invokedAt": "2022-12-09T17:30:11.979Z"
   }
 ]
