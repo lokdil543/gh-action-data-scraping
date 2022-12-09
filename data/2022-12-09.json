@@ -286,5 +286,13 @@
     "username": "orangewolf827",
     "password": "flyer",
     "invokedAt": "2022-12-09T07:57:13.713Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Larson",
+    "email": "joe.larson@example.com",
+    "username": "lazygorilla258",
+    "password": "alpine",
+    "invokedAt": "2022-12-09T08:12:41.826Z"
   }
 ]
