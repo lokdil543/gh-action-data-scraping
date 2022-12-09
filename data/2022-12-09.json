@@ -646,5 +646,13 @@
     "username": "tinymouse446",
     "password": "celtics",
     "invokedAt": "2022-12-09T15:22:30.686Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Ilıcalı",
+    "email": "mehmet.ilicali@example.com",
+    "username": "angrygorilla119",
+    "password": "driven",
+    "invokedAt": "2022-12-09T15:30:30.029Z"
   }
 ]
