@@ -1062,5 +1062,13 @@
     "username": "bigostrich893",
     "password": "square",
     "invokedAt": "2022-12-09T23:13:51.502Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "White",
+    "email": "bruce.white@example.com",
+    "username": "organicsnake181",
+    "password": "earth",
+    "invokedAt": "2022-12-09T23:27:15.408Z"
   }
 ]
