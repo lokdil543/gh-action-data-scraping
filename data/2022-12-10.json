@@ -726,5 +726,13 @@
     "username": "bigbird457",
     "password": "synergy",
     "invokedAt": "2022-12-10T15:55:07.507Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Cooper",
+    "email": "eli.cooper@example.com",
+    "username": "purplekoala272",
+    "password": "colt45",
+    "invokedAt": "2022-12-10T16:06:26.334Z"
   }
 ]
