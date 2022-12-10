@@ -710,5 +710,13 @@
     "username": "silverrabbit930",
     "password": "valdez",
     "invokedAt": "2022-12-10T15:43:03.793Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Cabrera",
+    "email": "martin.cabrera@example.com",
+    "username": "greenostrich367",
+    "password": "sponge",
+    "invokedAt": "2022-12-10T15:49:04.640Z"
   }
 ]
