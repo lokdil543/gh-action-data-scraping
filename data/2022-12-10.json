@@ -902,5 +902,13 @@
     "username": "angrydog239",
     "password": "engine",
     "invokedAt": "2022-12-10T19:24:25.685Z"
+  },
+  {
+    "firstName": "Heinz",
+    "lastName": "Schweizer",
+    "email": "heinz.schweizer@example.com",
+    "username": "angryzebra224",
+    "password": "death1",
+    "invokedAt": "2022-12-10T19:30:10.149Z"
   }
 ]
