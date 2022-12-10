@@ -966,5 +966,13 @@
     "username": "blacktiger729",
     "password": "snuffy",
     "invokedAt": "2022-12-10T20:26:45.053Z"
+  },
+  {
+    "firstName": "Franjo",
+    "lastName": "Wollmann",
+    "email": "franjo.wollmann@example.com",
+    "username": "angrypanda117",
+    "password": "python",
+    "invokedAt": "2022-12-10T20:33:01.870Z"
   }
 ]
