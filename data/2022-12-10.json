@@ -870,5 +870,13 @@
     "username": "purplefish833",
     "password": "gidget",
     "invokedAt": "2022-12-10T18:52:37.772Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Aro",
+    "email": "elias.aro@example.com",
+    "username": "beautifulmouse208",
+    "password": "pretty",
+    "invokedAt": "2022-12-10T18:58:30.851Z"
   }
 ]
