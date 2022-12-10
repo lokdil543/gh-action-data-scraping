@@ -862,5 +862,13 @@
     "username": "tinygorilla134",
     "password": "kevin",
     "invokedAt": "2022-12-10T18:46:34.974Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Ramírez",
+    "email": "santiago.ramirez@example.com",
+    "username": "purplefish833",
+    "password": "gidget",
+    "invokedAt": "2022-12-10T18:52:37.772Z"
   }
 ]
