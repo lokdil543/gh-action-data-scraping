@@ -750,5 +750,13 @@
     "username": "bigelephant993",
     "password": "emilio",
     "invokedAt": "2022-12-11T16:59:47.759Z"
+  },
+  {
+    "firstName": "Eve",
+    "lastName": "Brunet",
+    "email": "eve.brunet@example.com",
+    "username": "brownelephant799",
+    "password": "conan",
+    "invokedAt": "2022-12-11T17:12:47.633Z"
   }
 ]
