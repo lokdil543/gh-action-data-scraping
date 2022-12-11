@@ -878,5 +878,13 @@
     "username": "bigpanda335",
     "password": "marino",
     "invokedAt": "2022-12-11T19:19:40.708Z"
+  },
+  {
+    "firstName": "Arndt",
+    "lastName": "Hamann",
+    "email": "arndt.hamann@example.com",
+    "username": "redmouse923",
+    "password": "corvette",
+    "invokedAt": "2022-12-11T19:25:36.698Z"
   }
 ]
