@@ -998,5 +998,13 @@
     "username": "blackdog166",
     "password": "copper",
     "invokedAt": "2022-12-11T21:11:35.928Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Gautier",
+    "email": "jean.gautier@example.com",
+    "username": "brownkoala316",
+    "password": "soul",
+    "invokedAt": "2022-12-11T21:22:08.908Z"
   }
 ]
