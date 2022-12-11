@@ -1134,5 +1134,13 @@
     "username": "sadfish511",
     "password": "0000",
     "invokedAt": "2022-12-11T23:29:48.579Z"
+  },
+  {
+    "firstName": "Lilja",
+    "lastName": "Koivisto",
+    "email": "lilja.koivisto@example.com",
+    "username": "sadbear841",
+    "password": "wildcard",
+    "invokedAt": "2022-12-11T23:36:14.641Z"
   }
 ]
