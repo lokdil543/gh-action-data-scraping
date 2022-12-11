@@ -286,5 +286,13 @@
     "username": "whitefish393",
     "password": "vector",
     "invokedAt": "2022-12-11T07:59:45.665Z"
+  },
+  {
+    "firstName": "Germaine",
+    "lastName": "Fabre",
+    "email": "germaine.fabre@example.com",
+    "username": "sadwolf108",
+    "password": "benoit",
+    "invokedAt": "2022-12-11T08:17:56.884Z"
   }
 ]
