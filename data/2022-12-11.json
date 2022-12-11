@@ -934,5 +934,13 @@
     "username": "yellowfrog565",
     "password": "jumper",
     "invokedAt": "2022-12-11T20:04:24.632Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Karadžić",
+    "email": "ana.karadzic@example.com",
+    "username": "heavycat157",
+    "password": "summer1",
+    "invokedAt": "2022-12-11T20:21:47.861Z"
   }
 ]
