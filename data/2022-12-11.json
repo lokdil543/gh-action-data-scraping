@@ -526,5 +526,13 @@
     "username": "redsnake382",
     "password": "footjob",
     "invokedAt": "2022-12-11T12:18:35.604Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Pedersen",
+    "email": "maria.pedersen@example.com",
+    "username": "beautifulmouse207",
+    "password": "ranger",
+    "invokedAt": "2022-12-11T12:47:57.706Z"
   }
 ]
