@@ -350,5 +350,13 @@
     "username": "greenrabbit633",
     "password": "peter",
     "invokedAt": "2022-12-11T09:24:28.347Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Prieto",
+    "email": "jose.prieto@example.com",
+    "username": "blueladybug976",
+    "password": "jabber",
+    "invokedAt": "2022-12-11T09:30:21.747Z"
   }
 ]
