@@ -158,5 +158,13 @@
     "username": "yellowbear771",
     "password": "mike1",
     "invokedAt": "2022-12-11T05:47:37.902Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Perrin",
+    "email": "raymond.perrin@example.com",
+    "username": "brownmouse279",
+    "password": "squerting",
+    "invokedAt": "2022-12-11T05:53:36.899Z"
   }
 ]
