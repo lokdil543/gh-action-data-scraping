@@ -950,5 +950,13 @@
     "username": "crazyrabbit428",
     "password": "david",
     "invokedAt": "2022-12-12T21:35:53.931Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Vidal",
+    "email": "robin.vidal@example.com",
+    "username": "crazypanda628",
+    "password": "meow",
+    "invokedAt": "2022-12-12T21:41:56.617Z"
   }
 ]
