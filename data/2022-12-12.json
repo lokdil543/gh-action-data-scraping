@@ -870,5 +870,13 @@
     "username": "orangeleopard317",
     "password": "london1",
     "invokedAt": "2022-12-12T20:15:52.636Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Mortensen",
+    "email": "emil.mortensen@example.com",
+    "username": "greenbutterfly287",
+    "password": "chip",
+    "invokedAt": "2022-12-12T20:27:43.319Z"
   }
 ]
