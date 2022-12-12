@@ -958,5 +958,13 @@
     "username": "crazypanda628",
     "password": "meow",
     "invokedAt": "2022-12-12T21:41:56.617Z"
+  },
+  {
+    "firstName": "Lester",
+    "lastName": "Stone",
+    "email": "lester.stone@example.com",
+    "username": "ticklishpanda947",
+    "password": "bond",
+    "invokedAt": "2022-12-12T21:47:55.851Z"
   }
 ]
