@@ -974,5 +974,13 @@
     "username": "redrabbit372",
     "password": "testpass",
     "invokedAt": "2022-12-12T21:53:52.527Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Johnson",
+    "email": "eva.johnson@example.com",
+    "username": "silverlion885",
+    "password": "manolo",
+    "invokedAt": "2022-12-12T21:59:53.050Z"
   }
 ]
