@@ -798,5 +798,13 @@
     "username": "orangeswan389",
     "password": "dynamite",
     "invokedAt": "2022-12-12T18:59:38.936Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Olsen",
+    "email": "nicklas.olsen@example.com",
+    "username": "silvergoose712",
+    "password": "thumbs",
+    "invokedAt": "2022-12-12T19:15:00.811Z"
   }
 ]
