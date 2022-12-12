@@ -350,5 +350,13 @@
     "username": "blackkoala657",
     "password": "hawk",
     "invokedAt": "2022-12-12T09:34:23.513Z"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Wilson",
+    "email": "ron.wilson@example.com",
+    "username": "angrypanda532",
+    "password": "song",
+    "invokedAt": "2022-12-12T09:40:16.276Z"
   }
 ]
