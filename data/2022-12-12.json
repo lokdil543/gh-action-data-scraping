@@ -382,5 +382,13 @@
     "username": "bigwolf188",
     "password": "redsox",
     "invokedAt": "2022-12-12T09:57:52.863Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Duval",
+    "email": "adam.duval@example.com",
+    "username": "purplebutterfly890",
+    "password": "doobie",
+    "invokedAt": "2022-12-12T10:12:49.748Z"
   }
 ]
