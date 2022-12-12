@@ -966,5 +966,13 @@
     "username": "ticklishpanda947",
     "password": "bond",
     "invokedAt": "2022-12-12T21:47:55.851Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Taylor",
+    "email": "arthur.taylor@example.com",
+    "username": "redrabbit372",
+    "password": "testpass",
+    "invokedAt": "2022-12-12T21:53:52.527Z"
   }
 ]
