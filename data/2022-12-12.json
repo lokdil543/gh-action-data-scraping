@@ -286,5 +286,13 @@
     "username": "brownwolf647",
     "password": "2020",
     "invokedAt": "2022-12-12T08:09:37.425Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Andersen",
+    "email": "silas.andersen@example.com",
+    "username": "smalllion402",
+    "password": "sigma",
+    "invokedAt": "2022-12-12T08:30:42.685Z"
   }
 ]
