@@ -398,5 +398,13 @@
     "username": "happyzebra135",
     "password": "fender1",
     "invokedAt": "2022-12-12T10:30:08.950Z"
+  },
+  {
+    "firstName": "Jo",
+    "lastName": "Strømberg",
+    "email": "jo.stromberg@example.com",
+    "username": "redswan897",
+    "password": "stephane",
+    "invokedAt": "2022-12-12T10:39:22.716Z"
   }
 ]
