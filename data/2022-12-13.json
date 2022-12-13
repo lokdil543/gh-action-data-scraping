@@ -406,5 +406,13 @@
     "username": "bigfish541",
     "password": "thunder",
     "invokedAt": "2022-12-13T10:46:51.520Z"
+  },
+  {
+    "firstName": "Alessio",
+    "lastName": "Roger",
+    "email": "alessio.roger@example.com",
+    "username": "happyfrog772",
+    "password": "bottle",
+    "invokedAt": "2022-12-13T10:52:50.484Z"
   }
 ]
