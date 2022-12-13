@@ -966,5 +966,13 @@
     "username": "purplefrog620",
     "password": "school",
     "invokedAt": "2022-12-13T21:54:42.197Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Poulsen",
+    "email": "gustav.poulsen@example.com",
+    "username": "redsnake451",
+    "password": "lockerroom",
+    "invokedAt": "2022-12-13T22:00:49.387Z"
   }
 ]
