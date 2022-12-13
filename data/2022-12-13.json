@@ -974,5 +974,13 @@
     "username": "redsnake451",
     "password": "lockerroom",
     "invokedAt": "2022-12-13T22:00:49.387Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Clarke",
+    "email": "charles.clarke@example.com",
+    "username": "lazyostrich382",
+    "password": "chicago",
+    "invokedAt": "2022-12-13T22:16:16.786Z"
   }
 ]
