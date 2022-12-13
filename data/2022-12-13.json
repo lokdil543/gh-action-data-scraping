@@ -46,5 +46,13 @@
     "username": "bigbear241",
     "password": "bledsoe",
     "invokedAt": "2022-12-13T03:45:11.016Z"
+  },
+  {
+    "firstName": "Ángel",
+    "lastName": "Bravo",
+    "email": "angel.bravo@example.com",
+    "username": "beautifulrabbit368",
+    "password": "backup",
+    "invokedAt": "2022-12-13T03:51:06.326Z"
   }
 ]
