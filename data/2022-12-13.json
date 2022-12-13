@@ -886,5 +886,13 @@
     "username": "purpleduck592",
     "password": "glacier",
     "invokedAt": "2022-12-13T20:41:56.042Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Adan",
+    "email": "fatih.adan@example.com",
+    "username": "sadbird128",
+    "password": "basketball",
+    "invokedAt": "2022-12-13T20:47:43.064Z"
   }
 ]
