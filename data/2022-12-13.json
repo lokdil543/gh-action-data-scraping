@@ -694,5 +694,13 @@
     "username": "bigpanda345",
     "password": "sparkle",
     "invokedAt": "2022-12-13T17:22:54.373Z"
+  },
+  {
+    "firstName": "Jordi",
+    "lastName": "Mora",
+    "email": "jordi.mora@example.com",
+    "username": "bluemeercat816",
+    "password": "toast",
+    "invokedAt": "2022-12-13T17:30:21.508Z"
   }
 ]
