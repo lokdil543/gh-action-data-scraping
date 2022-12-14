@@ -494,5 +494,13 @@
     "username": "blackcat700",
     "password": "axio",
     "invokedAt": "2022-12-14T12:00:06.469Z"
+  },
+  {
+    "firstName": "Mavka",
+    "lastName": "Kadenyuk",
+    "email": "mavka.kadenyuk@example.com",
+    "username": "heavyelephant302",
+    "password": "nobody",
+    "invokedAt": "2022-12-14T12:30:11.665Z"
   }
 ]
