@@ -158,5 +158,13 @@
     "username": "bigostrich222",
     "password": "carpedie",
     "invokedAt": "2022-12-14T05:49:05.847Z"
+  },
+  {
+    "firstName": "Milorad",
+    "lastName": "Divac",
+    "email": "milorad.divac@example.com",
+    "username": "goldenduck995",
+    "password": "asdf1234",
+    "invokedAt": "2022-12-14T05:55:15.349Z"
   }
 ]
