@@ -478,5 +478,13 @@
     "username": "orangesnake135",
     "password": "record",
     "invokedAt": "2022-12-14T11:48:03.906Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Petersen",
+    "email": "simon.petersen@example.com",
+    "username": "whitegorilla885",
+    "password": "woody",
+    "invokedAt": "2022-12-14T11:54:06.701Z"
   }
 ]
