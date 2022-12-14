@@ -718,5 +718,13 @@
     "username": "whitedog671",
     "password": "nopass",
     "invokedAt": "2022-12-14T17:27:16.241Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Leroux",
+    "email": "brian.leroux@example.com",
+    "username": "redmeercat223",
+    "password": "picks",
+    "invokedAt": "2022-12-14T17:34:26.699Z"
   }
 ]
