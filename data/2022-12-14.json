@@ -262,5 +262,13 @@
     "username": "silverswan786",
     "password": "denali",
     "invokedAt": "2022-12-14T07:49:01.777Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Brown",
+    "email": "sarah.brown@example.com",
+    "username": "bigmouse757",
+    "password": "trustno1",
+    "invokedAt": "2022-12-14T07:54:51.006Z"
   }
 ]
