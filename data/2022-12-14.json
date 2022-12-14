@@ -1046,5 +1046,13 @@
     "username": "silverpanda191",
     "password": "playing",
     "invokedAt": "2022-12-14T22:59:56.100Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Lévesque",
+    "email": "philip.levesque@example.com",
+    "username": "greenbutterfly201",
+    "password": "animated",
+    "invokedAt": "2022-12-14T23:15:27.686Z"
   }
 ]
