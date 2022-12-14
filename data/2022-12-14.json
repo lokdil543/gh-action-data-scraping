@@ -550,5 +550,13 @@
     "username": "silvermouse161",
     "password": "wallet",
     "invokedAt": "2022-12-14T13:53:25.428Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Pomp",
+    "email": "john.pomp@example.com",
+    "username": "sadzebra515",
+    "password": "zhang",
+    "invokedAt": "2022-12-14T13:59:18.674Z"
   }
 ]
