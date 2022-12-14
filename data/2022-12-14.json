@@ -950,5 +950,13 @@
     "username": "heavydog117",
     "password": "science",
     "invokedAt": "2022-12-14T21:29:00.670Z"
+  },
+  {
+    "firstName": "Melissa",
+    "lastName": "Hansen",
+    "email": "melissa.hansen@example.com",
+    "username": "crazypanda845",
+    "password": "manfred",
+    "invokedAt": "2022-12-14T21:35:46.879Z"
   }
 ]
