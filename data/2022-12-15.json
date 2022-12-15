@@ -718,5 +718,13 @@
     "username": "blackmouse419",
     "password": "pigpen",
     "invokedAt": "2022-12-15T17:27:53.354Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Kowalski",
+    "email": "leo.kowalski@example.com",
+    "username": "goldenzebra698",
+    "password": "clifton",
+    "invokedAt": "2022-12-15T17:35:01.670Z"
   }
 ]
