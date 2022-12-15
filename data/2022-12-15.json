@@ -422,5 +422,13 @@
     "username": "greensnake795",
     "password": "siemens",
     "invokedAt": "2022-12-15T10:54:28.080Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Navarro",
+    "email": "sandra.navarro@example.com",
+    "username": "tinymouse600",
+    "password": "random",
+    "invokedAt": "2022-12-15T11:00:22.704Z"
   }
 ]
