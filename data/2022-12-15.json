@@ -998,5 +998,13 @@
     "username": "purplelion342",
     "password": "larry1",
     "invokedAt": "2022-12-15T21:51:46.928Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Guerin",
+    "email": "alice.guerin@example.com",
+    "username": "heavyrabbit563",
+    "password": "nirvana",
+    "invokedAt": "2022-12-15T21:57:41.506Z"
   }
 ]
