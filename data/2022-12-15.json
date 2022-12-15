@@ -614,5 +614,13 @@
     "username": "browndog377",
     "password": "rightnow",
     "invokedAt": "2022-12-15T14:58:02.496Z"
+  },
+  {
+    "firstName": "Elif",
+    "lastName": "Topçuoğlu",
+    "email": "elif.topcuoglu@example.com",
+    "username": "happyfish401",
+    "password": "bunker",
+    "invokedAt": "2022-12-15T15:12:17.806Z"
   }
 ]
