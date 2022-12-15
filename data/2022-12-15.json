@@ -430,5 +430,13 @@
     "username": "tinymouse600",
     "password": "random",
     "invokedAt": "2022-12-15T11:00:22.704Z"
+  },
+  {
+    "firstName": "Cenilda",
+    "lastName": "Teixeira",
+    "email": "cenilda.teixeira@example.com",
+    "username": "lazyrabbit192",
+    "password": "auto",
+    "invokedAt": "2022-12-15T11:13:16.492Z"
   }
 ]
