@@ -238,5 +238,13 @@
     "username": "redlion156",
     "password": "1212",
     "invokedAt": "2022-12-15T07:30:46.732Z"
+  },
+  {
+    "firstName": "Ajay",
+    "lastName": "Banerjee",
+    "email": "ajay.banerjee@example.com",
+    "username": "blackcat479",
+    "password": "gamecube",
+    "invokedAt": "2022-12-15T07:36:54.151Z"
   }
 ]
