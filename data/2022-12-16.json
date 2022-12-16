@@ -798,5 +798,13 @@
     "username": "angryzebra220",
     "password": "timothy",
     "invokedAt": "2022-12-16T17:12:29.689Z"
+  },
+  {
+    "firstName": "Érico",
+    "lastName": "da Cunha",
+    "email": "erico.dacunha@example.com",
+    "username": "browntiger940",
+    "password": "screamer",
+    "invokedAt": "2022-12-16T17:23:35.866Z"
   }
 ]
