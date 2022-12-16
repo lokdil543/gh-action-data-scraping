@@ -422,5 +422,13 @@
     "username": "whitefrog807",
     "password": "bluefish",
     "invokedAt": "2022-12-16T09:49:53.739Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Miller",
+    "email": "alfred.miller@example.com",
+    "username": "blacksnake462",
+    "password": "knight1",
+    "invokedAt": "2022-12-16T09:54:54.336Z"
   }
 ]
