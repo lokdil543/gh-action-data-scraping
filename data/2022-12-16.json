@@ -574,5 +574,13 @@
     "username": "bluesnake611",
     "password": "space",
     "invokedAt": "2022-12-16T12:48:16.780Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Spasić",
+    "email": "dusan.spasic@example.com",
+    "username": "whitecat861",
+    "password": "quality",
+    "invokedAt": "2022-12-16T13:03:12.368Z"
   }
 ]
