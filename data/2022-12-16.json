@@ -998,5 +998,13 @@
     "username": "silverbutterfly608",
     "password": "george",
     "invokedAt": "2022-12-16T20:32:19.661Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Hanson",
+    "email": "adam.hanson@example.com",
+    "username": "redduck382",
+    "password": "africa",
+    "invokedAt": "2022-12-16T20:38:33.604Z"
   }
 ]
