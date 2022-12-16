@@ -446,5 +446,13 @@
     "username": "purplelion789",
     "password": "dodge",
     "invokedAt": "2022-12-16T10:20:49.511Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Porter",
+    "email": "sergio.porter@example.com",
+    "username": "crazybird636",
+    "password": "monster",
+    "invokedAt": "2022-12-16T10:30:33.753Z"
   }
 ]
