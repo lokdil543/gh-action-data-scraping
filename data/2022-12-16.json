@@ -582,5 +582,13 @@
     "username": "whitecat861",
     "password": "quality",
     "invokedAt": "2022-12-16T13:03:12.368Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Bryant",
+    "email": "daniel.bryant@example.com",
+    "username": "lazybear903",
+    "password": "bunny1",
+    "invokedAt": "2022-12-16T13:24:14.212Z"
   }
 ]
