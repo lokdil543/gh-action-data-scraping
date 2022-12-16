@@ -414,5 +414,13 @@
     "username": "smallleopard608",
     "password": "uptown",
     "invokedAt": "2022-12-16T09:42:48.013Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Washington",
+    "email": "emily.washington@example.com",
+    "username": "whitefrog807",
+    "password": "bluefish",
+    "invokedAt": "2022-12-16T09:49:53.739Z"
   }
 ]
