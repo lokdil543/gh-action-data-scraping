@@ -1014,5 +1014,13 @@
     "username": "redgoose812",
     "password": "spurs1",
     "invokedAt": "2022-12-17T19:40:05.506Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Hansen",
+    "email": "daniel.hansen@example.com",
+    "username": "crazydog703",
+    "password": "sprint",
+    "invokedAt": "2022-12-17T19:46:13.990Z"
   }
 ]
