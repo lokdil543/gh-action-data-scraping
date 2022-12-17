@@ -22,5 +22,13 @@
     "username": "whitebutterfly828",
     "password": "passpass",
     "invokedAt": "2022-12-17T02:25:59.568Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Wagner",
+    "email": "jim.wagner@example.com",
+    "username": "whitebear144",
+    "password": "bunker",
+    "invokedAt": "2022-12-17T02:42:53.249Z"
   }
 ]
