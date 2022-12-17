@@ -814,5 +814,13 @@
     "username": "tinydog344",
     "password": "portland",
     "invokedAt": "2022-12-17T16:15:17.710Z"
+  },
+  {
+    "firstName": "Lisette",
+    "lastName": "Henkel",
+    "email": "lisette.henkel@example.com",
+    "username": "greendog976",
+    "password": "funk",
+    "invokedAt": "2022-12-17T16:34:08.508Z"
   }
 ]
