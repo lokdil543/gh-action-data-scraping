@@ -1278,5 +1278,13 @@
     "username": "angrygoose592",
     "password": "serpent",
     "invokedAt": "2022-12-17T23:45:51.934Z"
+  },
+  {
+    "firstName": "Georges",
+    "lastName": "Jean",
+    "email": "georges.jean@example.com",
+    "username": "bigbird364",
+    "password": "photos",
+    "invokedAt": "2022-12-17T23:52:11.684Z"
   }
 ]
