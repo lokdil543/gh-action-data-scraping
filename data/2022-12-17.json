@@ -230,5 +230,13 @@
     "username": "blackbird302",
     "password": "flight",
     "invokedAt": "2022-12-17T06:12:38.339Z"
+  },
+  {
+    "firstName": "Esther",
+    "lastName": "Odijk",
+    "email": "esther.odijk@example.com",
+    "username": "purplemouse279",
+    "password": "robocop",
+    "invokedAt": "2022-12-17T06:28:14.808Z"
   }
 ]
