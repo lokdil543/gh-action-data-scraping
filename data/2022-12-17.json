@@ -838,5 +838,13 @@
     "username": "redtiger994",
     "password": "delphi",
     "invokedAt": "2022-12-17T16:50:42.805Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Lambert",
+    "email": "alex.lambert@example.com",
+    "username": "goldenelephant852",
+    "password": "ricky",
+    "invokedAt": "2022-12-17T16:56:44.209Z"
   }
 ]
