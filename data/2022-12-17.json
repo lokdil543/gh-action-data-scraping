@@ -286,5 +286,13 @@
     "username": "happymouse800",
     "password": "catalina",
     "invokedAt": "2022-12-17T07:12:38.399Z"
+  },
+  {
+    "firstName": "Atanas",
+    "lastName": "Sirko",
+    "email": "atanas.sirko@example.com",
+    "username": "goldensnake161",
+    "password": "blacklab",
+    "invokedAt": "2022-12-17T07:21:21.018Z"
   }
 ]
