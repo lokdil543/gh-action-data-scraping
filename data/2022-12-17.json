@@ -1270,5 +1270,13 @@
     "username": "whiteduck465",
     "password": "element",
     "invokedAt": "2022-12-17T23:40:00.292Z"
+  },
+  {
+    "firstName": "Primo",
+    "lastName": "Jesus",
+    "email": "primo.jesus@example.com",
+    "username": "angrygoose592",
+    "password": "serpent",
+    "invokedAt": "2022-12-17T23:45:51.934Z"
   }
 ]
