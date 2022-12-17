@@ -1022,5 +1022,13 @@
     "username": "crazydog703",
     "password": "sprint",
     "invokedAt": "2022-12-17T19:46:13.990Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Carroll",
+    "email": "steve.carroll@example.com",
+    "username": "redcat809",
+    "password": "1269",
+    "invokedAt": "2022-12-17T19:52:09.579Z"
   }
 ]
