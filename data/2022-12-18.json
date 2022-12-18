@@ -902,5 +902,13 @@
     "username": "happyzebra727",
     "password": "eureka",
     "invokedAt": "2022-12-18T18:09:05.033Z"
+  },
+  {
+    "firstName": "Bartosz",
+    "lastName": "Sørensen",
+    "email": "bartosz.sorensen@example.com",
+    "username": "sadpanda889",
+    "password": "whiskey",
+    "invokedAt": "2022-12-18T18:25:21.390Z"
   }
 ]
