@@ -766,5 +766,13 @@
     "username": "silverdog237",
     "password": "comet",
     "invokedAt": "2022-12-18T15:39:48.388Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Petit",
+    "email": "ellen.petit@example.com",
+    "username": "greenbutterfly235",
+    "password": "tickler",
+    "invokedAt": "2022-12-18T15:45:40.946Z"
   }
 ]
