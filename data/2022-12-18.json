@@ -230,5 +230,13 @@
     "username": "greendog833",
     "password": "return",
     "invokedAt": "2022-12-18T06:27:39.732Z"
+  },
+  {
+    "firstName": "Gianluca",
+    "lastName": "Van de Westerlo",
+    "email": "gianluca.vandewesterlo@example.com",
+    "username": "greenfish934",
+    "password": "brucelee",
+    "invokedAt": "2022-12-18T06:36:01.623Z"
   }
 ]
