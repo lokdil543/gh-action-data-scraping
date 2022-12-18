@@ -670,5 +670,13 @@
     "username": "greenbear455",
     "password": "power",
     "invokedAt": "2022-12-18T14:07:35.239Z"
+  },
+  {
+    "firstName": "Zlatan",
+    "lastName": "Šakić",
+    "email": "zlatan.sakic@example.com",
+    "username": "whitefish360",
+    "password": "grapes",
+    "invokedAt": "2022-12-18T14:19:17.773Z"
   }
 ]
