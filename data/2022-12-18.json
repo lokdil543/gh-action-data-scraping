@@ -694,5 +694,13 @@
     "username": "happybird829",
     "password": "5rxypn",
     "invokedAt": "2022-12-18T14:32:12.428Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Miller",
+    "email": "brad.miller@example.com",
+    "username": "lazyfish726",
+    "password": "wolverine",
+    "invokedAt": "2022-12-18T14:38:15.925Z"
   }
 ]
