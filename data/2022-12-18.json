@@ -454,5 +454,13 @@
     "username": "orangefish288",
     "password": "drake",
     "invokedAt": "2022-12-18T09:58:50.756Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Vidal",
+    "email": "jonas.vidal@example.com",
+    "username": "ticklishbird102",
+    "password": "spiker",
+    "invokedAt": "2022-12-18T10:11:56.721Z"
   }
 ]
