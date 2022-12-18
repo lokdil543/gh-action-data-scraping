@@ -718,5 +718,13 @@
     "username": "happydog362",
     "password": "airwolf",
     "invokedAt": "2022-12-18T14:50:09.232Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Waaler",
+    "email": "cassandra.waaler@example.com",
+    "username": "purplesnake615",
+    "password": "mack",
+    "invokedAt": "2022-12-18T14:56:01.195Z"
   }
 ]
