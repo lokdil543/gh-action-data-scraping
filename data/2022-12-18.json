@@ -1126,5 +1126,13 @@
     "username": "bluepanda360",
     "password": "burton",
     "invokedAt": "2022-12-18T21:38:40.959Z"
+  },
+  {
+    "firstName": "Thierry",
+    "lastName": "Morin",
+    "email": "thierry.morin@example.com",
+    "username": "whitebird204",
+    "password": "31415926",
+    "invokedAt": "2022-12-18T21:44:34.192Z"
   }
 ]
