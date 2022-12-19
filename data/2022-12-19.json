@@ -462,5 +462,13 @@
     "username": "yellowpanda532",
     "password": "lambda",
     "invokedAt": "2022-12-19T10:45:56.793Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Pedersen",
+    "email": "jonas.pedersen@example.com",
+    "username": "organicbear483",
+    "password": "deeznutz",
+    "invokedAt": "2022-12-19T10:51:55.892Z"
   }
 ]
