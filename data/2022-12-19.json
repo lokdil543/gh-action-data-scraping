@@ -142,5 +142,13 @@
     "username": "greenfrog603",
     "password": "ncc1701",
     "invokedAt": "2022-12-19T04:54:50.614Z"
+  },
+  {
+    "firstName": "June",
+    "lastName": "Welch",
+    "email": "june.welch@example.com",
+    "username": "bluebird217",
+    "password": "boston",
+    "invokedAt": "2022-12-19T05:00:53.957Z"
   }
 ]
