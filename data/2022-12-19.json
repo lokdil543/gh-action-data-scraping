@@ -318,5 +318,13 @@
     "username": "lazywolf141",
     "password": "cardinal",
     "invokedAt": "2022-12-19T07:56:15.101Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Scott",
+    "email": "jacob.scott@example.com",
+    "username": "blacktiger800",
+    "password": "buddy1",
+    "invokedAt": "2022-12-19T08:10:14.798Z"
   }
 ]
