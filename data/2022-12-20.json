@@ -870,5 +870,13 @@
     "username": "blackkoala134",
     "password": "hockey",
     "invokedAt": "2022-12-20T19:12:01.982Z"
+  },
+  {
+    "firstName": "Stanislav",
+    "lastName": "Simeonović",
+    "email": "stanislav.simeonovic@example.com",
+    "username": "bluebird880",
+    "password": "draven",
+    "invokedAt": "2022-12-20T19:19:51.280Z"
   }
 ]
