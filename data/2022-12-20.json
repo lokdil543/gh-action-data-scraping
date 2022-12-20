@@ -862,5 +862,13 @@
     "username": "blackelephant205",
     "password": "babies",
     "invokedAt": "2022-12-20T19:00:03.082Z"
+  },
+  {
+    "firstName": "Verica",
+    "lastName": "Urošević",
+    "email": "verica.urosevic@example.com",
+    "username": "blackkoala134",
+    "password": "hockey",
+    "invokedAt": "2022-12-20T19:12:01.982Z"
   }
 ]
