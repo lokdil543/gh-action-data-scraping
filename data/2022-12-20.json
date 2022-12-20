@@ -318,5 +318,13 @@
     "username": "happytiger521",
     "password": "sinatra",
     "invokedAt": "2022-12-20T08:08:22.995Z"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Vučetić",
+    "email": "marija.vucetic@example.com",
+    "username": "happygoose340",
+    "password": "mathew",
+    "invokedAt": "2022-12-20T08:28:22.933Z"
   }
 ]
