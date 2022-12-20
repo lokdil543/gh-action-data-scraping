@@ -262,5 +262,13 @@
     "username": "greenfish822",
     "password": "davies",
     "invokedAt": "2022-12-20T07:19:44.634Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Pejić",
+    "email": "cedomir.pejic@example.com",
+    "username": "purplesnake198",
+    "password": "spurs1",
+    "invokedAt": "2022-12-20T07:25:45.270Z"
   }
 ]
