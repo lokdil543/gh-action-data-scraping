@@ -1094,5 +1094,13 @@
     "username": "crazymouse452",
     "password": "logan1",
     "invokedAt": "2022-12-20T22:44:28.280Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Lucas",
+    "email": "billy.lucas@example.com",
+    "username": "crazywolf221",
+    "password": "sinatra",
+    "invokedAt": "2022-12-20T22:50:27.955Z"
   }
 ]
