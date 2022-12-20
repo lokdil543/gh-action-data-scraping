@@ -750,5 +750,13 @@
     "username": "tinyladybug271",
     "password": "vantage",
     "invokedAt": "2022-12-20T17:00:09.456Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Tverå",
+    "email": "jenny.tvera@example.com",
+    "username": "blacksnake881",
+    "password": "fatcat",
+    "invokedAt": "2022-12-20T17:13:26.741Z"
   }
 ]
