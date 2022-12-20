@@ -774,5 +774,13 @@
     "username": "heavybird158",
     "password": "starship",
     "invokedAt": "2022-12-20T17:31:13.318Z"
+  },
+  {
+    "firstName": "Lycke",
+    "lastName": "Soltvedt",
+    "email": "lycke.soltvedt@example.com",
+    "username": "redgoose685",
+    "password": "hans",
+    "invokedAt": "2022-12-20T17:37:05.201Z"
   }
 ]
