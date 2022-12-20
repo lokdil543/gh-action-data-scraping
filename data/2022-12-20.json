@@ -470,5 +470,13 @@
     "username": "lazybird378",
     "password": "yang",
     "invokedAt": "2022-12-20T10:57:25.288Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Gauthier",
+    "email": "vincent.gauthier@example.com",
+    "username": "yellowdog776",
+    "password": "nong",
+    "invokedAt": "2022-12-20T11:08:08.984Z"
   }
 ]
