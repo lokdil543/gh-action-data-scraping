@@ -758,5 +758,13 @@
     "username": "blacksnake881",
     "password": "fatcat",
     "invokedAt": "2022-12-20T17:13:26.741Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Roberts",
+    "email": "terry.roberts@example.com",
+    "username": "crazyelephant200",
+    "password": "popopo",
+    "invokedAt": "2022-12-20T17:25:06.677Z"
   }
 ]
