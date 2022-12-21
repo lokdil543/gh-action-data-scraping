@@ -470,5 +470,13 @@
     "username": "happydog201",
     "password": "nutter",
     "invokedAt": "2022-12-21T10:49:44.476Z"
+  },
+  {
+    "firstName": "Harold",
+    "lastName": "Freeman",
+    "email": "harold.freeman@example.com",
+    "username": "angrymeercat689",
+    "password": "qing",
+    "invokedAt": "2022-12-21T10:55:31.056Z"
   }
 ]
