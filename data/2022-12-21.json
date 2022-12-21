@@ -582,5 +582,13 @@
     "username": "yellowdog126",
     "password": "bubba",
     "invokedAt": "2022-12-21T13:28:22.607Z"
+  },
+  {
+    "firstName": "Burkard",
+    "lastName": "Kreis",
+    "email": "burkard.kreis@example.com",
+    "username": "heavyleopard472",
+    "password": "fender",
+    "invokedAt": "2022-12-21T13:35:34.535Z"
   }
 ]
