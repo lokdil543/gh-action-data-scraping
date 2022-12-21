@@ -62,5 +62,13 @@
     "username": "crazypanda158",
     "password": "barney1",
     "invokedAt": "2022-12-21T03:31:57.729Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Graves",
+    "email": "amanda.graves@example.com",
+    "username": "bluebear802",
+    "password": "bucket",
+    "invokedAt": "2022-12-21T03:38:26.820Z"
   }
 ]
