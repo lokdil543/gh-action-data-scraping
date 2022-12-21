@@ -590,5 +590,13 @@
     "username": "heavyleopard472",
     "password": "fender",
     "invokedAt": "2022-12-21T13:35:34.535Z"
+  },
+  {
+    "firstName": "Burkard",
+    "lastName": "Gottfried",
+    "email": "burkard.gottfried@example.com",
+    "username": "blueswan767",
+    "password": "twelve",
+    "invokedAt": "2022-12-21T13:41:40.509Z"
   }
 ]
