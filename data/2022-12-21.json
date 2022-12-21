@@ -782,5 +782,13 @@
     "username": "greenfrog750",
     "password": "martin1",
     "invokedAt": "2022-12-21T17:22:46.054Z"
+  },
+  {
+    "firstName": "Rene",
+    "lastName": "Ruff",
+    "email": "rene.ruff@example.com",
+    "username": "purplefish314",
+    "password": "bollocks",
+    "invokedAt": "2022-12-21T17:29:24.601Z"
   }
 ]
