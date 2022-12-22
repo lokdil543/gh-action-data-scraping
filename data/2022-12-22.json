@@ -854,5 +854,13 @@
     "username": "yellowelephant191",
     "password": "ncc1701a",
     "invokedAt": "2022-12-22T18:40:21.070Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Tuomi",
+    "email": "elsa.tuomi@example.com",
+    "username": "redduck474",
+    "password": "berry",
+    "invokedAt": "2022-12-22T18:46:18.630Z"
   }
 ]
