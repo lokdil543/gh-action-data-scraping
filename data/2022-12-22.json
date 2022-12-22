@@ -726,5 +726,13 @@
     "username": "orangemouse751",
     "password": "outkast",
     "invokedAt": "2022-12-22T15:53:21.933Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Østrem",
+    "email": "nikola.ostrem@example.com",
+    "username": "purplebutterfly500",
+    "password": "chocolate",
+    "invokedAt": "2022-12-22T15:59:15.034Z"
   }
 ]
