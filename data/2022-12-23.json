@@ -734,5 +734,13 @@
     "username": "goldencat340",
     "password": "wrestle",
     "invokedAt": "2022-12-23T15:48:54.740Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Hudson",
+    "email": "greg.hudson@example.com",
+    "username": "ticklishrabbit308",
+    "password": "service",
+    "invokedAt": "2022-12-23T15:54:47.392Z"
   }
 ]
