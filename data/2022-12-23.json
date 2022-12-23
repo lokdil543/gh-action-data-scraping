@@ -382,5 +382,13 @@
     "username": "yellowmouse112",
     "password": "brown1",
     "invokedAt": "2022-12-23T09:22:09.249Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Lomeli",
+    "email": "bruno.lomeli@example.com",
+    "username": "greengorilla863",
+    "password": "train",
+    "invokedAt": "2022-12-23T09:28:00.418Z"
   }
 ]
