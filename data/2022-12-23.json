@@ -390,5 +390,13 @@
     "username": "greengorilla863",
     "password": "train",
     "invokedAt": "2022-12-23T09:28:00.418Z"
+  },
+  {
+    "firstName": "Imogen",
+    "lastName": "Wang",
+    "email": "imogen.wang@example.com",
+    "username": "whitelion906",
+    "password": "escape",
+    "invokedAt": "2022-12-23T09:34:55.624Z"
   }
 ]
