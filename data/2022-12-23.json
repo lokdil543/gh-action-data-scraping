@@ -438,5 +438,13 @@
     "username": "bigkoala420",
     "password": "storm",
     "invokedAt": "2022-12-23T10:12:31.614Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Tuğluk",
+    "email": "vildan.tugluk@example.com",
+    "username": "yellowfish673",
+    "password": "kelsey",
+    "invokedAt": "2022-12-23T10:28:26.709Z"
   }
 ]
