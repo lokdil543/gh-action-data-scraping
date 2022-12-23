@@ -198,5 +198,13 @@
     "username": "purplemouse179",
     "password": "browns",
     "invokedAt": "2022-12-23T05:53:23.498Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Martin",
+    "email": "simon.martin@example.com",
+    "username": "purplemouse113",
+    "password": "close-up",
+    "invokedAt": "2022-12-23T05:59:16.544Z"
   }
 ]
