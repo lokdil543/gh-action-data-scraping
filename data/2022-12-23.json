@@ -334,5 +334,13 @@
     "username": "whitecat287",
     "password": "enigma",
     "invokedAt": "2022-12-23T08:31:10.011Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Sørensen",
+    "email": "alfred.sorensen@example.com",
+    "username": "tinyelephant980",
+    "password": "leng",
+    "invokedAt": "2022-12-23T08:39:43.839Z"
   }
 ]
