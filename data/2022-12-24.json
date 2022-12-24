@@ -430,5 +430,13 @@
     "username": "angrygorilla680",
     "password": "philly",
     "invokedAt": "2022-12-24T09:38:02.836Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Hill",
+    "email": "evan.hill@example.com",
+    "username": "silvermeercat202",
+    "password": "gateway1",
+    "invokedAt": "2022-12-24T09:44:03.138Z"
   }
 ]
