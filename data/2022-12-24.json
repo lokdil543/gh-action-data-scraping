@@ -478,5 +478,13 @@
     "username": "bluecat815",
     "password": "saigon",
     "invokedAt": "2022-12-24T10:30:11.574Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Møller",
+    "email": "rasmus.moller@example.com",
+    "username": "beautifulbird230",
+    "password": "kris",
+    "invokedAt": "2022-12-24T10:36:08.162Z"
   }
 ]
