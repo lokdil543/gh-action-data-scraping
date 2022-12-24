@@ -566,5 +566,13 @@
     "username": "goldenbear887",
     "password": "italia",
     "invokedAt": "2022-12-24T11:43:05.952Z"
+  },
+  {
+    "firstName": "Nouk",
+    "lastName": "Van Remmerden",
+    "email": "nouk.vanremmerden@example.com",
+    "username": "blackostrich242",
+    "password": "timeout",
+    "invokedAt": "2022-12-24T11:48:57.203Z"
   }
 ]
