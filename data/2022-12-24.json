@@ -406,5 +406,13 @@
     "username": "redkoala238",
     "password": "deutsch",
     "invokedAt": "2022-12-24T09:19:32.983Z"
+  },
+  {
+    "firstName": "Jelena",
+    "lastName": "Nenezić",
+    "email": "jelena.nenezic@example.com",
+    "username": "greenmouse265",
+    "password": "coldplay",
+    "invokedAt": "2022-12-24T09:25:55.946Z"
   }
 ]
