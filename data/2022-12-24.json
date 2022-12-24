@@ -550,5 +550,13 @@
     "username": "beautifulfrog852",
     "password": "password2",
     "invokedAt": "2022-12-24T11:31:27.683Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Stone",
+    "email": "evan.stone@example.com",
+    "username": "bluebear550",
+    "password": "stallion",
+    "invokedAt": "2022-12-24T11:37:14.259Z"
   }
 ]
