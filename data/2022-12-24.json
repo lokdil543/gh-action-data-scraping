@@ -798,5 +798,13 @@
     "username": "smallostrich973",
     "password": "ripley",
     "invokedAt": "2022-12-24T16:11:32.733Z"
+  },
+  {
+    "firstName": "Branka",
+    "lastName": "Nenadović",
+    "email": "branka.nenadovic@example.com",
+    "username": "whiteduck983",
+    "password": "pizza",
+    "invokedAt": "2022-12-24T16:32:37.947Z"
   }
 ]
