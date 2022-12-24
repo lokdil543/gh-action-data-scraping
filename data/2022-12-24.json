@@ -838,5 +838,13 @@
     "username": "lazypanda218",
     "password": "lollipop",
     "invokedAt": "2022-12-24T17:07:35.999Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Walker",
+    "email": "ruby.walker@example.com",
+    "username": "heavyfrog369",
+    "password": "achtung",
+    "invokedAt": "2022-12-24T17:20:07.918Z"
   }
 ]
