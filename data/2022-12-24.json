@@ -246,5 +246,13 @@
     "username": "bluebird489",
     "password": "tobias",
     "invokedAt": "2022-12-24T06:37:48.812Z"
+  },
+  {
+    "firstName": "Mihailo",
+    "lastName": "Tešić",
+    "email": "mihailo.tesic@example.com",
+    "username": "goldenbear915",
+    "password": "flesh",
+    "invokedAt": "2022-12-24T06:43:46.997Z"
   }
 ]
