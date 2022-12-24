@@ -670,5 +670,13 @@
     "username": "orangedog685",
     "password": "onetime",
     "invokedAt": "2022-12-24T14:04:00.116Z"
+  },
+  {
+    "firstName": "Sonja",
+    "lastName": "Lopez",
+    "email": "sonja.lopez@example.com",
+    "username": "happybear845",
+    "password": "scratch",
+    "invokedAt": "2022-12-24T14:17:19.154Z"
   }
 ]
