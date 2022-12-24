@@ -1230,5 +1230,13 @@
     "username": "blacktiger867",
     "password": "members",
     "invokedAt": "2022-12-24T23:23:23.456Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Madsen",
+    "email": "mathilde.madsen@example.com",
+    "username": "beautifulbutterfly303",
+    "password": "duckie",
+    "invokedAt": "2022-12-24T23:29:12.892Z"
   }
 ]
