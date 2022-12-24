@@ -1222,5 +1222,13 @@
     "username": "yellowmeercat971",
     "password": "itsme",
     "invokedAt": "2022-12-24T23:11:50.005Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Sørensen",
+    "email": "jonas.sorensen@example.com",
+    "username": "blacktiger867",
+    "password": "members",
+    "invokedAt": "2022-12-24T23:23:23.456Z"
   }
 ]
