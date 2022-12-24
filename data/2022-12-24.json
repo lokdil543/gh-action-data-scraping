@@ -590,5 +590,13 @@
     "username": "whiteleopard273",
     "password": "changeme",
     "invokedAt": "2022-12-24T12:08:15.781Z"
+  },
+  {
+    "firstName": "Slađana",
+    "lastName": "Mandić",
+    "email": "sladana.mandic@example.com",
+    "username": "redbear201",
+    "password": "wasted",
+    "invokedAt": "2022-12-24T12:37:49.666Z"
   }
 ]
