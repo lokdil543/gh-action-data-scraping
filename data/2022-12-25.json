@@ -462,5 +462,13 @@
     "username": "ticklishpeacock631",
     "password": "cathy",
     "invokedAt": "2022-12-25T10:30:47.795Z"
+  },
+  {
+    "firstName": "Gareth",
+    "lastName": "Ten Voorde",
+    "email": "gareth.tenvoorde@example.com",
+    "username": "purplebird891",
+    "password": "gregor",
+    "invokedAt": "2022-12-25T10:36:37.842Z"
   }
 ]
