@@ -830,5 +830,13 @@
     "username": "blacklion152",
     "password": "tbird",
     "invokedAt": "2022-12-25T17:21:04.935Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Butler",
+    "email": "roger.butler@example.com",
+    "username": "smalldog804",
+    "password": "browns",
+    "invokedAt": "2022-12-25T17:27:23.036Z"
   }
 ]
