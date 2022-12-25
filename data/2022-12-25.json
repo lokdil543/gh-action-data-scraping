@@ -990,5 +990,13 @@
     "username": "blackkoala805",
     "password": "kiwi",
     "invokedAt": "2022-12-25T19:47:35.811Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Campbell",
+    "email": "sophie.campbell@example.com",
+    "username": "lazyswan241",
+    "password": "forgot",
+    "invokedAt": "2022-12-25T19:53:36.197Z"
   }
 ]
