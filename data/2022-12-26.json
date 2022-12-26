@@ -782,5 +782,13 @@
     "username": "smallcat560",
     "password": "shutup",
     "invokedAt": "2022-12-26T16:50:02.744Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Smiljanić",
+    "email": "cedomir.smiljanic@example.com",
+    "username": "happykoala588",
+    "password": "pablo",
+    "invokedAt": "2022-12-26T16:55:58.847Z"
   }
 ]
