@@ -230,5 +230,13 @@
     "username": "purpleleopard135",
     "password": "bearbear",
     "invokedAt": "2022-12-26T06:42:12.076Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Gómez",
+    "email": "miguel.gomez@example.com",
+    "username": "blueelephant925",
+    "password": "proxy",
+    "invokedAt": "2022-12-26T06:48:07.121Z"
   }
 ]
