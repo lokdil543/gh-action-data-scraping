@@ -726,5 +726,13 @@
     "username": "bigbear285",
     "password": "cecile",
     "invokedAt": "2022-12-26T15:37:53.432Z"
+  },
+  {
+    "firstName": "Aleksej",
+    "lastName": "Hadžić",
+    "email": "aleksej.hadzic@example.com",
+    "username": "biggorilla360",
+    "password": "bluejay",
+    "invokedAt": "2022-12-26T15:43:45.862Z"
   }
 ]
