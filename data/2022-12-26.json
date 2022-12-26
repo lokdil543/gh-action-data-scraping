@@ -798,5 +798,13 @@
     "username": "purpleduck600",
     "password": "station",
     "invokedAt": "2022-12-26T17:06:11.128Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Olvera",
+    "email": "andres.olvera@example.com",
+    "username": "yellowtiger695",
+    "password": "steven1",
+    "invokedAt": "2022-12-26T17:19:33.696Z"
   }
 ]
