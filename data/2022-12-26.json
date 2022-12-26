@@ -342,5 +342,13 @@
     "username": "angryladybug248",
     "password": "tintin",
     "invokedAt": "2022-12-26T08:38:43.555Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Muller",
+    "email": "charles.muller@example.com",
+    "username": "brownsnake507",
+    "password": "blaze",
+    "invokedAt": "2022-12-26T08:44:32.791Z"
   }
 ]
