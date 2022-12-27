@@ -1142,5 +1142,13 @@
     "username": "angrysnake899",
     "password": "whiteout",
     "invokedAt": "2022-12-27T22:36:06.715Z"
+  },
+  {
+    "firstName": "Rich",
+    "lastName": "Lewis",
+    "email": "rich.lewis@example.com",
+    "username": "heavyfish191",
+    "password": "macbeth",
+    "invokedAt": "2022-12-27T22:42:11.299Z"
   }
 ]
