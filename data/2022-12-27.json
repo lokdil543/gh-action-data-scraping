@@ -102,5 +102,13 @@
     "username": "angryfish138",
     "password": "phillies",
     "invokedAt": "2022-12-27T04:02:01.229Z"
+  },
+  {
+    "firstName": "Noémie",
+    "lastName": "Bouchard",
+    "email": "noemie.bouchard@example.com",
+    "username": "smallgorilla447",
+    "password": "music1",
+    "invokedAt": "2022-12-27T04:22:54.353Z"
   }
 ]
