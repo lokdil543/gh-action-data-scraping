@@ -734,5 +734,13 @@
     "username": "angrytiger993",
     "password": "yolanda",
     "invokedAt": "2022-12-27T15:38:18.773Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Newman",
+    "email": "diana.newman@example.com",
+    "username": "bluebutterfly629",
+    "password": "54321",
+    "invokedAt": "2022-12-27T15:44:23.353Z"
   }
 ]
