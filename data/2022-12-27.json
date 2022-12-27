@@ -606,5 +606,13 @@
     "username": "redfrog357",
     "password": "francine",
     "invokedAt": "2022-12-27T13:35:38.277Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Fleming",
+    "email": "neil.fleming@example.com",
+    "username": "tinyduck927",
+    "password": "chou",
+    "invokedAt": "2022-12-27T13:41:31.739Z"
   }
 ]
