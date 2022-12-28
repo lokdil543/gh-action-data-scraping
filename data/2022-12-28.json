@@ -926,5 +926,13 @@
     "username": "blackmeercat232",
     "password": "adults",
     "invokedAt": "2022-12-28T19:22:34.127Z"
+  },
+  {
+    "firstName": "Loïc",
+    "lastName": "Joly",
+    "email": "loic.joly@example.com",
+    "username": "whitefrog870",
+    "password": "robocop",
+    "invokedAt": "2022-12-28T19:28:23.580Z"
   }
 ]
