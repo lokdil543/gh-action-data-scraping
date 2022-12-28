@@ -182,5 +182,13 @@
     "username": "beautifulrabbit931",
     "password": "weird",
     "invokedAt": "2022-12-28T05:40:50.585Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Ćirić",
+    "email": "marko.ciric@example.com",
+    "username": "ticklishladybug502",
+    "password": "nope",
+    "invokedAt": "2022-12-28T05:46:52.127Z"
   }
 ]
