@@ -790,5 +790,13 @@
     "username": "redbear426",
     "password": "thick",
     "invokedAt": "2022-12-28T16:57:39.196Z"
+  },
+  {
+    "firstName": "Noam",
+    "lastName": "Simon",
+    "email": "noam.simon@example.com",
+    "username": "bluetiger390",
+    "password": "1210",
+    "invokedAt": "2022-12-28T17:09:07.232Z"
   }
 ]
