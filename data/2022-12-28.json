@@ -454,5 +454,13 @@
     "username": "angrydog217",
     "password": "yahoo",
     "invokedAt": "2022-12-28T10:34:50.594Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Olson",
+    "email": "mary.olson@example.com",
+    "username": "redladybug527",
+    "password": "martini",
+    "invokedAt": "2022-12-28T10:40:45.574Z"
   }
 ]
