@@ -486,5 +486,13 @@
     "username": "sadostrich123",
     "password": "glass",
     "invokedAt": "2022-12-28T10:58:41.514Z"
+  },
+  {
+    "firstName": "Velimir",
+    "lastName": "Grujić",
+    "email": "velimir.grujic@example.com",
+    "username": "ticklishfish370",
+    "password": "asterix",
+    "invokedAt": "2022-12-28T11:09:54.481Z"
   }
 ]
