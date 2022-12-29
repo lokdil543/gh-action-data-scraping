@@ -854,5 +854,13 @@
     "username": "tinysnake349",
     "password": "456456",
     "invokedAt": "2022-12-29T18:17:04.819Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Bell",
+    "email": "ted.bell@example.com",
+    "username": "whitefrog600",
+    "password": "unreal",
+    "invokedAt": "2022-12-29T18:30:49.842Z"
   }
 ]
