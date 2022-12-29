@@ -638,5 +638,13 @@
     "username": "goldenfish681",
     "password": "cars",
     "invokedAt": "2022-12-29T14:24:11.623Z"
+  },
+  {
+    "firstName": "Angela",
+    "lastName": "Meehan",
+    "email": "angela.meehan@example.com",
+    "username": "bluebird844",
+    "password": "topdog",
+    "invokedAt": "2022-12-29T14:30:14.566Z"
   }
 ]
