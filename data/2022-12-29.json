@@ -718,5 +718,13 @@
     "username": "yellowgoose709",
     "password": "absolute",
     "invokedAt": "2022-12-29T15:39:13.144Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Nedregård",
+    "email": "gustav.nedregard@example.com",
+    "username": "brownpeacock384",
+    "password": "civic",
+    "invokedAt": "2022-12-29T15:45:16.534Z"
   }
 ]
