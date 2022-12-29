@@ -1070,5 +1070,13 @@
     "username": "blackzebra209",
     "password": "tabasco",
     "invokedAt": "2022-12-29T21:44:07.671Z"
+  },
+  {
+    "firstName": "Radojko",
+    "lastName": "Jakovljević",
+    "email": "radojko.jakovljevic@example.com",
+    "username": "orangefish498",
+    "password": "cookie",
+    "invokedAt": "2022-12-29T21:50:07.940Z"
   }
 ]
