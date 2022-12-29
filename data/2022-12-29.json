@@ -710,5 +710,13 @@
     "username": "bluebutterfly276",
     "password": "stinks",
     "invokedAt": "2022-12-29T15:33:13.433Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Soto",
+    "email": "gabriel.soto@example.com",
+    "username": "yellowgoose709",
+    "password": "absolute",
+    "invokedAt": "2022-12-29T15:39:13.144Z"
   }
 ]
