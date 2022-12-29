@@ -486,5 +486,13 @@
     "username": "tinysnake324",
     "password": "ferris",
     "invokedAt": "2022-12-29T11:09:48.212Z"
+  },
+  {
+    "firstName": "Danilo",
+    "lastName": "Ćirić",
+    "email": "danilo.ciric@example.com",
+    "username": "silvermeercat895",
+    "password": "cheers",
+    "invokedAt": "2022-12-29T11:19:39.100Z"
   }
 ]
