@@ -702,5 +702,13 @@
     "username": "organicfish677",
     "password": "ghost",
     "invokedAt": "2022-12-29T15:26:57.993Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Coleman",
+    "email": "roger.coleman@example.com",
+    "username": "bluebutterfly276",
+    "password": "stinks",
+    "invokedAt": "2022-12-29T15:33:13.433Z"
   }
 ]
