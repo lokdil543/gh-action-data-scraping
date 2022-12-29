@@ -206,5 +206,13 @@
     "username": "sadfrog462",
     "password": "storm",
     "invokedAt": "2022-12-29T06:00:54.414Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Clarke",
+    "email": "cameron.clarke@example.com",
+    "username": "smallzebra777",
+    "password": "brother",
+    "invokedAt": "2022-12-29T06:20:29.714Z"
   }
 ]
