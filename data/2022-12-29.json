@@ -814,5 +814,13 @@
     "username": "bluebear712",
     "password": "torpedo",
     "invokedAt": "2022-12-29T17:35:54.276Z"
+  },
+  {
+    "firstName": "Svetozar",
+    "lastName": "Šarović",
+    "email": "svetozar.sarovic@example.com",
+    "username": "brownleopard223",
+    "password": "orange1",
+    "invokedAt": "2022-12-29T17:41:38.695Z"
   }
 ]
