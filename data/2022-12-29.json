@@ -526,5 +526,13 @@
     "username": "sadgoose101",
     "password": "poohbear",
     "invokedAt": "2022-12-29T11:43:35.903Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Dağlaroğlu",
+    "email": "vildan.daglaroglu@example.com",
+    "username": "blackzebra800",
+    "password": "lake",
+    "invokedAt": "2022-12-29T11:49:40.694Z"
   }
 ]
