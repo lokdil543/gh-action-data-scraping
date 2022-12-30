@@ -822,5 +822,13 @@
     "username": "smallwolf536",
     "password": "bird",
     "invokedAt": "2022-12-30T17:25:22.222Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Coleman",
+    "email": "lucy.coleman@example.com",
+    "username": "smallcat902",
+    "password": "maker",
+    "invokedAt": "2022-12-30T17:31:25.157Z"
   }
 ]
