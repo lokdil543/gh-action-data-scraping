@@ -262,5 +262,13 @@
     "username": "happyostrich348",
     "password": "rams",
     "invokedAt": "2022-12-30T07:10:51.057Z"
+  },
+  {
+    "firstName": "Mischa",
+    "lastName": "Van de Bilt",
+    "email": "mischa.vandebilt@example.com",
+    "username": "bigelephant673",
+    "password": "digital",
+    "invokedAt": "2022-12-30T07:20:57.800Z"
   }
 ]
