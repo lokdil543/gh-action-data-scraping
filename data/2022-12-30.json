@@ -166,5 +166,13 @@
     "username": "blackpeacock360",
     "password": "sherlock",
     "invokedAt": "2022-12-30T05:28:31.500Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Pedersen",
+    "email": "malou.pedersen@example.com",
+    "username": "greenbear735",
+    "password": "redeye",
+    "invokedAt": "2022-12-30T05:35:01.882Z"
   }
 ]
