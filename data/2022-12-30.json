@@ -542,5 +542,13 @@
     "username": "yellowbear798",
     "password": "sweden",
     "invokedAt": "2022-12-30T11:44:02.877Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Stefanović",
+    "email": "milos.stefanovic@example.com",
+    "username": "silverbear510",
+    "password": "stretch",
+    "invokedAt": "2022-12-30T11:50:13.674Z"
   }
 ]
