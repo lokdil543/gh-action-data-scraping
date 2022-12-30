@@ -798,5 +798,13 @@
     "username": "purplezebra575",
     "password": "basketball",
     "invokedAt": "2022-12-30T16:54:55.384Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Williams",
+    "email": "leo.williams@example.com",
+    "username": "goldenbear292",
+    "password": "raymond",
+    "invokedAt": "2022-12-30T17:01:39.585Z"
   }
 ]
