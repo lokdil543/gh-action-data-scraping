@@ -966,5 +966,13 @@
     "username": "bigzebra518",
     "password": "lasvegas",
     "invokedAt": "2022-12-30T19:41:20.863Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Matthews",
+    "email": "neil.matthews@example.com",
+    "username": "crazydog905",
+    "password": "pepsi1",
+    "invokedAt": "2022-12-30T19:47:18.230Z"
   }
 ]
