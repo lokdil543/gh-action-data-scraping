@@ -1006,5 +1006,13 @@
     "username": "sadtiger894",
     "password": "land",
     "invokedAt": "2022-12-30T20:25:12.802Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Leppanen",
+    "email": "jesse.leppanen@example.com",
+    "username": "silverswan999",
+    "password": "anakin",
+    "invokedAt": "2022-12-30T20:31:04.220Z"
   }
 ]
