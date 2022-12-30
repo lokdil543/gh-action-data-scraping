@@ -206,5 +206,13 @@
     "username": "sadbutterfly331",
     "password": "mega",
     "invokedAt": "2022-12-30T05:58:49.212Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Turner",
+    "email": "charlie.turner@example.com",
+    "username": "greendog675",
+    "password": "nimitz",
+    "invokedAt": "2022-12-30T06:15:32.255Z"
   }
 ]
