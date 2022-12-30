@@ -1022,5 +1022,13 @@
     "username": "greenfish963",
     "password": "pressure",
     "invokedAt": "2022-12-30T20:37:15.258Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Hughes",
+    "email": "kirk.hughes@example.com",
+    "username": "happypeacock470",
+    "password": "panic",
+    "invokedAt": "2022-12-30T20:43:07.367Z"
   }
 ]
