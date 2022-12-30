@@ -982,5 +982,13 @@
     "username": "organicostrich417",
     "password": "caravan",
     "invokedAt": "2022-12-30T19:53:25.166Z"
+  },
+  {
+    "firstName": "Moritz",
+    "lastName": "Schilling",
+    "email": "moritz.schilling@example.com",
+    "username": "sadwolf654",
+    "password": "john",
+    "invokedAt": "2022-12-30T19:59:06.654Z"
   }
 ]
