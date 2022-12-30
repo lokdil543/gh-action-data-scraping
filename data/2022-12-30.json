@@ -950,5 +950,13 @@
     "username": "redbutterfly358",
     "password": "padres",
     "invokedAt": "2022-12-30T19:29:33.247Z"
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Tošić",
+    "email": "bojan.tosic@example.com",
+    "username": "orangegorilla831",
+    "password": "standard",
+    "invokedAt": "2022-12-30T19:35:35.769Z"
   }
 ]
