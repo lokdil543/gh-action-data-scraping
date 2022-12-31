@@ -382,5 +382,13 @@
     "username": "whitekoala481",
     "password": "silverad",
     "invokedAt": "2022-12-31T08:48:35.701Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Pedersen",
+    "email": "august.pedersen@example.com",
+    "username": "heavyfrog839",
+    "password": "matrix",
+    "invokedAt": "2022-12-31T08:54:27.226Z"
   }
 ]
