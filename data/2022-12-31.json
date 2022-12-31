@@ -390,5 +390,13 @@
     "username": "heavyfrog839",
     "password": "matrix",
     "invokedAt": "2022-12-31T08:54:27.226Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Roy",
+    "email": "daniel.roy@example.com",
+    "username": "crazycat588",
+    "password": "webmaster",
+    "invokedAt": "2022-12-31T09:00:27.296Z"
   }
 ]
