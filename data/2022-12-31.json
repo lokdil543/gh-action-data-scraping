@@ -646,5 +646,13 @@
     "username": "crazyfish901",
     "password": "biscuit",
     "invokedAt": "2022-12-31T13:38:55.106Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "García",
+    "email": "eva.garcia@example.com",
+    "username": "greenfish581",
+    "password": "lonesome",
+    "invokedAt": "2022-12-31T13:44:53.875Z"
   }
 ]
