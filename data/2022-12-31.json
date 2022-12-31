@@ -262,5 +262,13 @@
     "username": "greenkoala362",
     "password": "topgun",
     "invokedAt": "2022-12-31T06:49:42.068Z"
+  },
+  {
+    "firstName": "Ratko",
+    "lastName": "Šarić",
+    "email": "ratko.saric@example.com",
+    "username": "blueduck466",
+    "password": "sesame",
+    "invokedAt": "2022-12-31T06:55:32.730Z"
   }
 ]
