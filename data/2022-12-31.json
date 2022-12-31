@@ -686,5 +686,13 @@
     "username": "tinymeercat761",
     "password": "federal",
     "invokedAt": "2022-12-31T14:18:57.659Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Olson",
+    "email": "sean.olson@example.com",
+    "username": "sadmouse429",
+    "password": "asdf123",
+    "invokedAt": "2022-12-31T14:25:55.151Z"
   }
 ]
