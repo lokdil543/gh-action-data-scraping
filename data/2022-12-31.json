@@ -974,5 +974,13 @@
     "username": "brownbird422",
     "password": "dizzy",
     "invokedAt": "2022-12-31T19:16:25.452Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "White",
+    "email": "morris.white@example.com",
+    "username": "happytiger389",
+    "password": "luckyone",
+    "invokedAt": "2022-12-31T19:22:23.338Z"
   }
 ]
