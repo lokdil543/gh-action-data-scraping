@@ -782,5 +782,13 @@
     "username": "bigelephant746",
     "password": "chloe",
     "invokedAt": "2022-12-31T15:46:00.987Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Fitzpatrick",
+    "email": "james.fitzpatrick@example.com",
+    "username": "browngorilla639",
+    "password": "sapphire",
+    "invokedAt": "2022-12-31T15:51:54.880Z"
   }
 ]
