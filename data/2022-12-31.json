@@ -966,5 +966,13 @@
     "username": "greenduck498",
     "password": "spectrum",
     "invokedAt": "2022-12-31T19:07:23.913Z"
+  },
+  {
+    "firstName": "Antonija",
+    "lastName": "Polić",
+    "email": "antonija.polic@example.com",
+    "username": "brownbird422",
+    "password": "dizzy",
+    "invokedAt": "2022-12-31T19:16:25.452Z"
   }
 ]
