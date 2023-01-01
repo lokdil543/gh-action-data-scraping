@@ -670,5 +670,13 @@
     "username": "redcat794",
     "password": "armstron",
     "invokedAt": "2023-01-01T14:40:01.096Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Byrd",
+    "email": "bill.byrd@example.com",
+    "username": "lazywolf733",
+    "password": "pringles",
+    "invokedAt": "2023-01-01T14:46:17.169Z"
   }
 ]
