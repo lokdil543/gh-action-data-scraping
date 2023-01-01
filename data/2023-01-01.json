@@ -974,5 +974,13 @@
     "username": "heavycat395",
     "password": "citizen",
     "invokedAt": "2023-01-01T19:47:37.052Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Garrett",
+    "email": "roger.garrett@example.com",
+    "username": "ticklishbutterfly194",
+    "password": "whistler",
+    "invokedAt": "2023-01-01T19:53:22.039Z"
   }
 ]
