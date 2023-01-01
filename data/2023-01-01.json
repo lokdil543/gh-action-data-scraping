@@ -262,5 +262,13 @@
     "username": "silverpeacock126",
     "password": "blaine",
     "invokedAt": "2023-01-01T07:24:35.825Z"
+  },
+  {
+    "firstName": "Cecil",
+    "lastName": "Davis",
+    "email": "cecil.davis@example.com",
+    "username": "redwolf533",
+    "password": "stylus",
+    "invokedAt": "2023-01-01T07:30:34.955Z"
   }
 ]
