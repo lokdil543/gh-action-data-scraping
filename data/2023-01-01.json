@@ -958,5 +958,13 @@
     "username": "lazydog145",
     "password": "voyager",
     "invokedAt": "2023-01-01T19:35:39.210Z"
+  },
+  {
+    "firstName": "Jackie",
+    "lastName": "Romero",
+    "email": "jackie.romero@example.com",
+    "username": "happysnake347",
+    "password": "backup",
+    "invokedAt": "2023-01-01T19:41:41.124Z"
   }
 ]
