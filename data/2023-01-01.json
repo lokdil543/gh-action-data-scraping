@@ -486,5 +486,13 @@
     "username": "orangecat351",
     "password": "divx1",
     "invokedAt": "2023-01-01T11:00:53.042Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Köylüoğlu",
+    "email": "ege.koyluoglu@example.com",
+    "username": "tinylion411",
+    "password": "woohoo",
+    "invokedAt": "2023-01-01T11:12:49.219Z"
   }
 ]
