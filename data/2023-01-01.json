@@ -254,5 +254,13 @@
     "username": "happyrabbit587",
     "password": "rivera",
     "invokedAt": "2023-01-01T07:18:45.795Z"
+  },
+  {
+    "firstName": "Steinar",
+    "lastName": "Leirvåg",
+    "email": "steinar.leirvag@example.com",
+    "username": "silverpeacock126",
+    "password": "blaine",
+    "invokedAt": "2023-01-01T07:24:35.825Z"
   }
 ]
