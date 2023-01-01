@@ -774,5 +774,13 @@
     "username": "bigdog671",
     "password": "852456",
     "invokedAt": "2023-01-01T16:36:13.861Z"
+  },
+  {
+    "firstName": "Guido",
+    "lastName": "da Conceição",
+    "email": "guido.daconceicao@example.com",
+    "username": "yellowsnake422",
+    "password": "buttons",
+    "invokedAt": "2023-01-01T16:46:04.996Z"
   }
 ]
