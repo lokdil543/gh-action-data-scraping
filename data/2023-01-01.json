@@ -1142,5 +1142,13 @@
     "username": "yellowtiger417",
     "password": "jordan1",
     "invokedAt": "2023-01-01T22:31:15.595Z"
+  },
+  {
+    "firstName": "Wendy",
+    "lastName": "Algera",
+    "email": "wendy.algera@example.com",
+    "username": "sadfish410",
+    "password": "food",
+    "invokedAt": "2023-01-01T22:37:11.097Z"
   }
 ]
