@@ -294,5 +294,13 @@
     "username": "blackkoala360",
     "password": "munch",
     "invokedAt": "2023-01-01T07:48:09.128Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Chan",
+    "email": "adam.chan@example.com",
+    "username": "tinyelephant449",
+    "password": "jeremy1",
+    "invokedAt": "2023-01-01T07:54:07.022Z"
   }
 ]
