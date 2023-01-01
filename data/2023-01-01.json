@@ -430,5 +430,13 @@
     "username": "organiccat881",
     "password": "tiffany",
     "invokedAt": "2023-01-01T10:08:45.105Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wilms",
+    "email": "daniel.wilms@example.com",
+    "username": "brownmeercat768",
+    "password": "bubbles",
+    "invokedAt": "2023-01-01T10:24:14.853Z"
   }
 ]
