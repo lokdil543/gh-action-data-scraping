@@ -638,5 +638,13 @@
     "username": "angrydog264",
     "password": "homerun",
     "invokedAt": "2023-01-01T14:10:03.360Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Williams",
+    "email": "thomas.williams@example.com",
+    "username": "silverdog721",
+    "password": "salesman",
+    "invokedAt": "2023-01-01T14:21:36.208Z"
   }
 ]
