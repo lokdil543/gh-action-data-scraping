@@ -902,5 +902,13 @@
     "username": "bluefrog378",
     "password": "byteme",
     "invokedAt": "2023-01-02T19:00:34.991Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Hart",
+    "email": "calvin.hart@example.com",
+    "username": "angryladybug913",
+    "password": "molly1",
+    "invokedAt": "2023-01-02T19:12:15.513Z"
   }
 ]
