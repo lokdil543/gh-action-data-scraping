@@ -374,5 +374,13 @@
     "username": "greencat728",
     "password": "meridian",
     "invokedAt": "2023-01-02T09:09:55.126Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Muller",
+    "email": "william.muller@example.com",
+    "username": "orangeduck231",
+    "password": "yyyy",
+    "invokedAt": "2023-01-02T09:22:52.901Z"
   }
 ]
