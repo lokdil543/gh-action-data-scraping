@@ -622,5 +622,13 @@
     "username": "yellowdog532",
     "password": "tribble",
     "invokedAt": "2023-01-02T13:57:23.875Z"
+  },
+  {
+    "firstName": "Art",
+    "lastName": "Thomas",
+    "email": "art.thomas@example.com",
+    "username": "greenfish854",
+    "password": "redfox",
+    "invokedAt": "2023-01-02T14:08:52.535Z"
   }
 ]
