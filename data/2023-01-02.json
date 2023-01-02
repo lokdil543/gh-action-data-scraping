@@ -1030,5 +1030,13 @@
     "username": "blackdog228",
     "password": "leedsutd",
     "invokedAt": "2023-01-02T20:56:53.967Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Anderson",
+    "email": "connor.anderson@example.com",
+    "username": "smallbird360",
+    "password": "compton",
+    "invokedAt": "2023-01-02T21:07:34.508Z"
   }
 ]
