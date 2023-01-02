@@ -1070,5 +1070,13 @@
     "username": "tinyostrich981",
     "password": "artist",
     "invokedAt": "2023-01-02T21:37:24.369Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Robledo",
+    "email": "aaron.robledo@example.com",
+    "username": "tinylion422",
+    "password": "frisky",
+    "invokedAt": "2023-01-02T21:43:15.745Z"
   }
 ]
