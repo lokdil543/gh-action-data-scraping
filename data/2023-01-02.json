@@ -958,5 +958,13 @@
     "username": "yellowswan697",
     "password": "minime",
     "invokedAt": "2023-01-02T19:48:56.090Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Duran",
+    "email": "john.duran@example.com",
+    "username": "crazygoose452",
+    "password": "beretta",
+    "invokedAt": "2023-01-02T19:54:42.775Z"
   }
 ]
