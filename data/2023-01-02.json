@@ -966,5 +966,13 @@
     "username": "crazygoose452",
     "password": "beretta",
     "invokedAt": "2023-01-02T19:54:42.775Z"
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Rodriguez",
+    "email": "sally.rodriguez@example.com",
+    "username": "purplewolf465",
+    "password": "idontkno",
+    "invokedAt": "2023-01-02T20:00:56.923Z"
   }
 ]
