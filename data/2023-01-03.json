@@ -710,5 +710,13 @@
     "username": "sadcat859",
     "password": "excess",
     "invokedAt": "2023-01-03T15:38:39.918Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Martin",
+    "email": "philip.martin@example.com",
+    "username": "blueduck854",
+    "password": "shinobi",
+    "invokedAt": "2023-01-03T15:44:39.799Z"
   }
 ]
