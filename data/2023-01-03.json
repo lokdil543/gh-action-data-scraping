@@ -958,5 +958,13 @@
     "username": "organicduck999",
     "password": "strap",
     "invokedAt": "2023-01-03T20:07:52.244Z"
+  },
+  {
+    "firstName": "Rowan",
+    "lastName": "Van der Stroom",
+    "email": "rowan.vanderstroom@example.com",
+    "username": "whiteswan244",
+    "password": "watcher",
+    "invokedAt": "2023-01-03T20:23:41.639Z"
   }
 ]
