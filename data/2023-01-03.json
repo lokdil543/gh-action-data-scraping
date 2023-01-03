@@ -862,5 +862,13 @@
     "username": "greendog156",
     "password": "hamburg",
     "invokedAt": "2023-01-03T18:42:10.700Z"
+  },
+  {
+    "firstName": "Gabrielle",
+    "lastName": "Thompson",
+    "email": "gabrielle.thompson@example.com",
+    "username": "redbutterfly622",
+    "password": "90210",
+    "invokedAt": "2023-01-03T18:47:40.866Z"
   }
 ]
