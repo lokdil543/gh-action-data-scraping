@@ -734,5 +734,13 @@
     "username": "yellowkoala126",
     "password": "anthony",
     "invokedAt": "2023-01-03T15:56:32.695Z"
+  },
+  {
+    "firstName": "Laszlo",
+    "lastName": "Van Oostrum",
+    "email": "laszlo.vanoostrum@example.com",
+    "username": "greenrabbit574",
+    "password": "acura",
+    "invokedAt": "2023-01-03T16:11:33.034Z"
   }
 ]
