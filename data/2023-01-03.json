@@ -246,5 +246,13 @@
     "username": "happybear592",
     "password": "wing",
     "invokedAt": "2023-01-03T06:49:42.220Z"
+  },
+  {
+    "firstName": "Denis",
+    "lastName": "Dmitrichenko",
+    "email": "denis.dmitrichenko@example.com",
+    "username": "bigbear530",
+    "password": "killbill",
+    "invokedAt": "2023-01-03T06:55:46.964Z"
   }
 ]
