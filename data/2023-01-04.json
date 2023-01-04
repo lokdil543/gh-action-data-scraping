@@ -918,5 +918,13 @@
     "username": "redswan124",
     "password": "030303",
     "invokedAt": "2023-01-04T20:30:45.404Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Moore",
+    "email": "john.moore@example.com",
+    "username": "blueelephant656",
+    "password": "blacklab",
+    "invokedAt": "2023-01-04T20:37:24.076Z"
   }
 ]
