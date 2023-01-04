@@ -94,5 +94,13 @@
     "username": "lazybear533",
     "password": "monster",
     "invokedAt": "2023-01-04T03:55:59.376Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Andersen",
+    "email": "gustav.andersen@example.com",
+    "username": "bluegorilla752",
+    "password": "downer",
+    "invokedAt": "2023-01-04T04:08:30.420Z"
   }
 ]
