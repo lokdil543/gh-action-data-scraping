@@ -326,5 +326,13 @@
     "username": "beautifulduck456",
     "password": "mercury",
     "invokedAt": "2023-01-04T08:14:10.139Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Llamas",
+    "email": "gustavo.llamas@example.com",
+    "username": "heavygorilla638",
+    "password": "contains",
+    "invokedAt": "2023-01-04T08:30:55.705Z"
   }
 ]
