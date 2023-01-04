@@ -446,5 +446,13 @@
     "username": "angrypanda102",
     "password": "impala",
     "invokedAt": "2023-01-04T10:30:17.576Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Johansen",
+    "email": "maja.johansen@example.com",
+    "username": "heavysnake883",
+    "password": "wonder",
+    "invokedAt": "2023-01-04T10:36:24.835Z"
   }
 ]
