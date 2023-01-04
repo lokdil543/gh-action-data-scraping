@@ -142,5 +142,13 @@
     "username": "goldendog425",
     "password": "maxmax",
     "invokedAt": "2023-01-04T04:55:04.090Z"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Lévesque",
+    "email": "chloe.levesque@example.com",
+    "username": "organicbird989",
+    "password": "hello123",
+    "invokedAt": "2023-01-04T05:03:10.100Z"
   }
 ]
