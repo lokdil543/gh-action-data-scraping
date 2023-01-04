@@ -526,5 +526,13 @@
     "username": "yellowgoose167",
     "password": "womble",
     "invokedAt": "2023-01-04T11:40:45.420Z"
+  },
+  {
+    "firstName": "Anni",
+    "lastName": "Halla",
+    "email": "anni.halla@example.com",
+    "username": "lazygoose841",
+    "password": "99999",
+    "invokedAt": "2023-01-04T11:46:36.655Z"
   }
 ]
