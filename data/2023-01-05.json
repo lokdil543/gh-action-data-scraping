@@ -1110,5 +1110,13 @@
     "username": "orangefish903",
     "password": "deutsch",
     "invokedAt": "2023-01-05T23:30:44.700Z"
+  },
+  {
+    "firstName": "Pirmin",
+    "lastName": "Gehlen",
+    "email": "pirmin.gehlen@example.com",
+    "username": "purplemeercat111",
+    "password": "shazam",
+    "invokedAt": "2023-01-05T23:36:41.681Z"
   }
 ]
