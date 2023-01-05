@@ -566,5 +566,13 @@
     "username": "browndog374",
     "password": "racer",
     "invokedAt": "2023-01-05T13:32:55.363Z"
+  },
+  {
+    "firstName": "Candice",
+    "lastName": "Fleming",
+    "email": "candice.fleming@example.com",
+    "username": "angryfrog390",
+    "password": "tiny",
+    "invokedAt": "2023-01-05T13:41:02.120Z"
   }
 ]
