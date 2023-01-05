@@ -326,5 +326,13 @@
     "username": "whitebutterfly888",
     "password": "shop",
     "invokedAt": "2023-01-05T08:32:52.110Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Fowler",
+    "email": "ivan.fowler@example.com",
+    "username": "smallostrich870",
+    "password": "nuggets",
+    "invokedAt": "2023-01-05T08:42:15.331Z"
   }
 ]
