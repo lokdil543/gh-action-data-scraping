@@ -502,5 +502,13 @@
     "username": "browngorilla791",
     "password": "fallen",
     "invokedAt": "2023-01-05T11:35:03.212Z"
+  },
+  {
+    "firstName": "Damjan",
+    "lastName": "Pejaković",
+    "email": "damjan.pejakovic@example.com",
+    "username": "brownsnake162",
+    "password": "pinball",
+    "invokedAt": "2023-01-05T11:41:12.432Z"
   }
 ]
