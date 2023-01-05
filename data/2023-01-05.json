@@ -470,5 +470,13 @@
     "username": "bluelion808",
     "password": "puppet",
     "invokedAt": "2023-01-05T11:00:12.317Z"
+  },
+  {
+    "firstName": "Indie",
+    "lastName": "Robinson",
+    "email": "indie.robinson@example.com",
+    "username": "bigtiger693",
+    "password": "handyman",
+    "invokedAt": "2023-01-05T11:13:12.332Z"
   }
 ]
