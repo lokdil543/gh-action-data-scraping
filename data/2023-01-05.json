@@ -702,5 +702,13 @@
     "username": "smallfrog687",
     "password": "lockerroom",
     "invokedAt": "2023-01-05T15:56:37.514Z"
+  },
+  {
+    "firstName": "Lotti",
+    "lastName": "Henry",
+    "email": "lotti.henry@example.com",
+    "username": "happyfrog911",
+    "password": "never",
+    "invokedAt": "2023-01-05T16:13:03.968Z"
   }
 ]
