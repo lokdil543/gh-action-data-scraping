@@ -574,5 +574,13 @@
     "username": "angryfrog390",
     "password": "tiny",
     "invokedAt": "2023-01-05T13:41:02.120Z"
+  },
+  {
+    "firstName": "Benito",
+    "lastName": "Marín",
+    "email": "benito.marin@example.com",
+    "username": "redbear903",
+    "password": "dracula",
+    "invokedAt": "2023-01-05T13:47:05.658Z"
   }
 ]
