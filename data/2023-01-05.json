@@ -774,5 +774,13 @@
     "username": "tinymouse225",
     "password": "allstar",
     "invokedAt": "2023-01-05T17:42:05.687Z"
+  },
+  {
+    "firstName": "Tassilo",
+    "lastName": "Wimmer",
+    "email": "tassilo.wimmer@example.com",
+    "username": "greenmouse495",
+    "password": "madden",
+    "invokedAt": "2023-01-05T17:48:00.747Z"
   }
 ]
