@@ -1094,5 +1094,13 @@
     "username": "happyduck457",
     "password": "fallout",
     "invokedAt": "2023-01-06T22:38:47.171Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Park",
+    "email": "emily.park@example.com",
+    "username": "orangemeercat202",
+    "password": "fraser",
+    "invokedAt": "2023-01-06T22:44:41.086Z"
   }
 ]
