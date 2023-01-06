@@ -470,5 +470,13 @@
     "username": "sadsnake847",
     "password": "summit",
     "invokedAt": "2023-01-06T10:56:17.218Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Nguyen",
+    "email": "jonas.nguyen@example.com",
+    "username": "yellowleopard428",
+    "password": "macleod",
+    "invokedAt": "2023-01-06T11:07:01.168Z"
   }
 ]
