@@ -102,5 +102,13 @@
     "username": "bigleopard640",
     "password": "qwert",
     "invokedAt": "2023-01-06T04:29:14.245Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Kjelstad",
+    "email": "jonathan.kjelstad@example.com",
+    "username": "smalltiger561",
+    "password": "mister",
+    "invokedAt": "2023-01-06T04:39:10.810Z"
   }
 ]
