@@ -462,5 +462,13 @@
     "username": "bigpanda203",
     "password": "boots",
     "invokedAt": "2023-01-06T10:50:15.748Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Smith",
+    "email": "ruby.smith@example.com",
+    "username": "sadsnake847",
+    "password": "summit",
+    "invokedAt": "2023-01-06T10:56:17.218Z"
   }
 ]
