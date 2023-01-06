@@ -1142,5 +1142,13 @@
     "username": "yellowbutterfly840",
     "password": "lighter",
     "invokedAt": "2023-01-06T23:27:27.208Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Žigić",
+    "email": "nebojsa.zigic@example.com",
+    "username": "whiteduck703",
+    "password": "frodo",
+    "invokedAt": "2023-01-06T23:34:09.081Z"
   }
 ]
