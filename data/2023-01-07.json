@@ -526,5 +526,13 @@
     "username": "happyelephant961",
     "password": "rachael",
     "invokedAt": "2023-01-07T11:26:23.338Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Saarinen",
+    "email": "anton.saarinen@example.com",
+    "username": "bigrabbit671",
+    "password": "bowwow",
+    "invokedAt": "2023-01-07T11:32:34.772Z"
   }
 ]
