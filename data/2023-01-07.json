@@ -958,5 +958,13 @@
     "username": "orangetiger177",
     "password": "amazon",
     "invokedAt": "2023-01-07T19:23:51.789Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Li",
+    "email": "charlie.li@example.com",
+    "username": "lazygorilla682",
+    "password": "coffee",
+    "invokedAt": "2023-01-07T19:29:51.720Z"
   }
 ]
