@@ -446,5 +446,13 @@
     "username": "tinycat876",
     "password": "laser1",
     "invokedAt": "2023-01-07T10:07:03.002Z"
+  },
+  {
+    "firstName": "Janko",
+    "lastName": "Radosavljević",
+    "email": "janko.radosavljevic@example.com",
+    "username": "beautifulbear345",
+    "password": "barbie",
+    "invokedAt": "2023-01-07T10:23:12.243Z"
   }
 ]
