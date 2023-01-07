@@ -750,5 +750,13 @@
     "username": "bigwolf492",
     "password": "freaks",
     "invokedAt": "2023-01-07T15:40:51.325Z"
+  },
+  {
+    "firstName": "Oğuzhan",
+    "lastName": "Taşçı",
+    "email": "oguzhan.tasci@example.com",
+    "username": "bigcat379",
+    "password": "woodman",
+    "invokedAt": "2023-01-07T15:46:55.413Z"
   }
 ]
