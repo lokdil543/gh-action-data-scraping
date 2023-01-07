@@ -1174,5 +1174,13 @@
     "username": "brownfrog483",
     "password": "utopia",
     "invokedAt": "2023-01-07T22:42:30.108Z"
+  },
+  {
+    "firstName": "Penny",
+    "lastName": "Turner",
+    "email": "penny.turner@example.com",
+    "username": "happyswan423",
+    "password": "wetter",
+    "invokedAt": "2023-01-07T22:48:26.630Z"
   }
 ]
