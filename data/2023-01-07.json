@@ -278,5 +278,13 @@
     "username": "happypanda555",
     "password": "roxanne",
     "invokedAt": "2023-01-07T07:24:00.854Z"
+  },
+  {
+    "firstName": "Friedemann",
+    "lastName": "Früh",
+    "email": "friedemann.fruh@example.com",
+    "username": "angrybird120",
+    "password": "gracie",
+    "invokedAt": "2023-01-07T07:29:52.998Z"
   }
 ]
