@@ -318,5 +318,13 @@
     "username": "angrymouse107",
     "password": "carrera",
     "invokedAt": "2023-01-08T07:59:22.982Z"
+  },
+  {
+    "firstName": "Tomé",
+    "lastName": "da Luz",
+    "email": "tome.daluz@example.com",
+    "username": "tinyostrich548",
+    "password": "789789",
+    "invokedAt": "2023-01-08T08:16:36.444Z"
   }
 ]
