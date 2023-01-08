@@ -342,5 +342,13 @@
     "username": "whitezebra509",
     "password": "washington",
     "invokedAt": "2023-01-08T08:37:58.800Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Körmükçü",
+    "email": "gul.kormukcu@example.com",
+    "username": "silverkoala876",
+    "password": "freepass",
+    "invokedAt": "2023-01-08T08:43:55.720Z"
   }
 ]
