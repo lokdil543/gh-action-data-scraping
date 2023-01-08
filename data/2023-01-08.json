@@ -606,5 +606,13 @@
     "username": "silverkoala530",
     "password": "chivas",
     "invokedAt": "2023-01-08T13:34:57.377Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Christiansen",
+    "email": "mikkel.christiansen@example.com",
+    "username": "biggorilla500",
+    "password": "austria",
+    "invokedAt": "2023-01-08T13:41:03.081Z"
   }
 ]
