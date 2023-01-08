@@ -670,5 +670,13 @@
     "username": "happykoala319",
     "password": "artist",
     "invokedAt": "2023-01-08T14:34:35.116Z"
+  },
+  {
+    "firstName": "Célestin",
+    "lastName": "Arnaud",
+    "email": "celestin.arnaud@example.com",
+    "username": "bluegorilla350",
+    "password": "sparkle",
+    "invokedAt": "2023-01-08T14:40:41.722Z"
   }
 ]
