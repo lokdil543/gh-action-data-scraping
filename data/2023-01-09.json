@@ -350,5 +350,13 @@
     "username": "smallfrog651",
     "password": "caca",
     "invokedAt": "2023-01-09T08:57:37.255Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Johansen",
+    "email": "anton.johansen@example.com",
+    "username": "crazylion871",
+    "password": "rrpass1",
+    "invokedAt": "2023-01-09T09:11:16.820Z"
   }
 ]
