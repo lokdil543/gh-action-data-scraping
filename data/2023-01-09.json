@@ -902,5 +902,13 @@
     "username": "redcat836",
     "password": "system",
     "invokedAt": "2023-01-09T20:53:10.141Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Adam",
+    "email": "ben.adam@example.com",
+    "username": "bigbear431",
+    "password": "punk",
+    "invokedAt": "2023-01-09T20:58:56.362Z"
   }
 ]
