@@ -302,5 +302,13 @@
     "username": "biggorilla371",
     "password": "moose",
     "invokedAt": "2023-01-09T07:55:23.127Z"
+  },
+  {
+    "firstName": "Bogoljub",
+    "lastName": "Srejović",
+    "email": "bogoljub.srejovic@example.com",
+    "username": "angryelephant944",
+    "password": "akira",
+    "invokedAt": "2023-01-09T08:08:37.852Z"
   }
 ]
