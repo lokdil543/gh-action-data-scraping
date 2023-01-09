@@ -182,5 +182,13 @@
     "username": "smallbear133",
     "password": "bball",
     "invokedAt": "2023-01-09T05:47:46.735Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Branković",
+    "email": "nebojsa.brankovic@example.com",
+    "username": "blackgoose394",
+    "password": "edward",
+    "invokedAt": "2023-01-09T05:53:41.894Z"
   }
 ]
