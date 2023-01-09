@@ -622,5 +622,13 @@
     "username": "yellowdog895",
     "password": "mike123",
     "invokedAt": "2023-01-09T14:51:01.565Z"
+  },
+  {
+    "firstName": "Muhsin",
+    "lastName": "Van Harskamp",
+    "email": "muhsin.vanharskamp@example.com",
+    "username": "silverdog172",
+    "password": "perfect1",
+    "invokedAt": "2023-01-09T14:56:55.413Z"
   }
 ]
