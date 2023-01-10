@@ -782,5 +782,13 @@
     "username": "yellowostrich390",
     "password": "qwert",
     "invokedAt": "2023-01-10T18:55:43.821Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Christensen",
+    "email": "asta.christensen@example.com",
+    "username": "greenwolf804",
+    "password": "bologna",
+    "invokedAt": "2023-01-10T19:05:03.798Z"
   }
 ]
