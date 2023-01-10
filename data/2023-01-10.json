@@ -518,5 +518,13 @@
     "username": "happybird224",
     "password": "twist",
     "invokedAt": "2023-01-10T11:58:46.719Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Jimínez",
+    "email": "miguel.jiminez@example.com",
+    "username": "whitebird820",
+    "password": "luke",
+    "invokedAt": "2023-01-10T12:25:41.663Z"
   }
 ]
