@@ -630,5 +630,13 @@
     "username": "orangekoala372",
     "password": "starwars",
     "invokedAt": "2023-01-10T15:13:38.945Z"
+  },
+  {
+    "firstName": "Samu",
+    "lastName": "Kallio",
+    "email": "samu.kallio@example.com",
+    "username": "goldenpanda871",
+    "password": "devin",
+    "invokedAt": "2023-01-10T15:33:54.217Z"
   }
 ]
