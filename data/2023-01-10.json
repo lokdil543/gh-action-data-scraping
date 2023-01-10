@@ -606,5 +606,13 @@
     "username": "crazybutterfly466",
     "password": "hippo",
     "invokedAt": "2023-01-10T14:43:55.736Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Lévesque",
+    "email": "vincent.levesque@example.com",
+    "username": "silvertiger964",
+    "password": "colnago",
+    "invokedAt": "2023-01-10T14:50:43.579Z"
   }
 ]
