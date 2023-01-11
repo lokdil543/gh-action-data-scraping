@@ -710,5 +710,13 @@
     "username": "whitezebra890",
     "password": "lifetime",
     "invokedAt": "2023-01-11T18:57:08.818Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Okumuş",
+    "email": "sedef.okumus@example.com",
+    "username": "whitebear209",
+    "password": "dian",
+    "invokedAt": "2023-01-11T19:08:36.344Z"
   }
 ]
