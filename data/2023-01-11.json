@@ -774,5 +774,13 @@
     "username": "crazylion349",
     "password": "always",
     "invokedAt": "2023-01-11T19:55:49.771Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Herrera",
+    "email": "diego.herrera@example.com",
+    "username": "crazydog349",
+    "password": "ireland",
+    "invokedAt": "2023-01-11T20:07:15.086Z"
   }
 ]
