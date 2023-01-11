@@ -166,5 +166,13 @@
     "username": "bigfrog819",
     "password": "mooses",
     "invokedAt": "2023-01-11T05:38:00.105Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Nielsen",
+    "email": "carl.nielsen@example.com",
+    "username": "goldenmeercat324",
+    "password": "slapshot",
+    "invokedAt": "2023-01-11T05:43:52.005Z"
   }
 ]
