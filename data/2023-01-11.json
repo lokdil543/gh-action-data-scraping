@@ -782,5 +782,13 @@
     "username": "crazydog349",
     "password": "ireland",
     "invokedAt": "2023-01-11T20:07:15.086Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "David",
+    "email": "valentin.david@example.com",
+    "username": "greenswan508",
+    "password": "butler",
+    "invokedAt": "2023-01-11T20:24:14.683Z"
   }
 ]
