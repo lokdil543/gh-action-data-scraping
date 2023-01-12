@@ -398,5 +398,13 @@
     "username": "angrydog493",
     "password": "keystone",
     "invokedAt": "2023-01-12T09:54:13.813Z"
+  },
+  {
+    "firstName": "Nieves",
+    "lastName": "Vidal",
+    "email": "nieves.vidal@example.com",
+    "username": "whitemouse331",
+    "password": "pablo",
+    "invokedAt": "2023-01-12T10:00:13.332Z"
   }
 ]
