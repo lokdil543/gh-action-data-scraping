@@ -382,5 +382,13 @@
     "username": "redrabbit625",
     "password": "rocker",
     "invokedAt": "2023-01-12T09:42:35.000Z"
+  },
+  {
+    "firstName": "María",
+    "lastName": "Pastor",
+    "email": "maria.pastor@example.com",
+    "username": "redmeercat753",
+    "password": "boss",
+    "invokedAt": "2023-01-12T09:48:20.206Z"
   }
 ]
