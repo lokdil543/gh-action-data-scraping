@@ -646,5 +646,13 @@
     "username": "angrybutterfly760",
     "password": "all4one",
     "invokedAt": "2023-01-12T17:48:43.564Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Miller",
+    "email": "simon.miller@example.com",
+    "username": "crazydog737",
+    "password": "glory",
+    "invokedAt": "2023-01-12T17:54:35.937Z"
   }
 ]
