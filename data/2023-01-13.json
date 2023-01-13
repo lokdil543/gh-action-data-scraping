@@ -342,5 +342,13 @@
     "username": "tinyfish898",
     "password": "syracuse",
     "invokedAt": "2023-01-13T09:01:16.937Z"
+  },
+  {
+    "firstName": "Franz-Peter",
+    "lastName": "Döll",
+    "email": "franz-peter.doll@example.com",
+    "username": "greendog343",
+    "password": "abcdefg",
+    "invokedAt": "2023-01-13T09:19:08.918Z"
   }
 ]
