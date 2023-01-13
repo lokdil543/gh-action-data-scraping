@@ -734,5 +734,13 @@
     "username": "redfish842",
     "password": "changeme",
     "invokedAt": "2023-01-13T17:29:09.108Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Curtis",
+    "email": "james.curtis@example.com",
+    "username": "orangepanda794",
+    "password": "theatre",
+    "invokedAt": "2023-01-13T17:35:16.474Z"
   }
 ]
