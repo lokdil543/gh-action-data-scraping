@@ -470,5 +470,13 @@
     "username": "brownpeacock795",
     "password": "hong",
     "invokedAt": "2023-01-13T11:27:00.336Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Martin",
+    "email": "henry.martin@example.com",
+    "username": "smallbird760",
+    "password": "lambda",
+    "invokedAt": "2023-01-13T11:33:22.367Z"
   }
 ]
