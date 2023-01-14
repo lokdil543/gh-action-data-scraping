@@ -54,5 +54,13 @@
     "username": "goldenfish992",
     "password": "twiggy",
     "invokedAt": "2023-01-14T03:23:41.241Z"
+  },
+  {
+    "firstName": "Novak",
+    "lastName": "Karanović",
+    "email": "novak.karanovic@example.com",
+    "username": "goldenostrich326",
+    "password": "white1",
+    "invokedAt": "2023-01-14T03:30:26.697Z"
   }
 ]
