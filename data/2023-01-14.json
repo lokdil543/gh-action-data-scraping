@@ -198,5 +198,13 @@
     "username": "whiteduck234",
     "password": "lobster",
     "invokedAt": "2023-01-14T05:47:22.940Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "French",
+    "email": "charles.french@example.com",
+    "username": "sadbird330",
+    "password": "ursitesux",
+    "invokedAt": "2023-01-14T05:53:39.201Z"
   }
 ]
