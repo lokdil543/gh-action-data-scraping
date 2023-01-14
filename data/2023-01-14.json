@@ -246,5 +246,13 @@
     "username": "goldenlion331",
     "password": "chicken1",
     "invokedAt": "2023-01-14T06:44:28.855Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Hansen",
+    "email": "nikolaj.hansen@example.com",
+    "username": "orangemeercat754",
+    "password": "ring",
+    "invokedAt": "2023-01-14T06:50:35.927Z"
   }
 ]
