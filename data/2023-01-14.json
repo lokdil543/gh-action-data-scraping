@@ -278,5 +278,13 @@
     "username": "greenmeercat871",
     "password": "secret1",
     "invokedAt": "2023-01-14T07:18:47.677Z"
+  },
+  {
+    "firstName": "Luciën",
+    "lastName": "Schmeits",
+    "email": "lucien.schmeits@example.com",
+    "username": "whitefish941",
+    "password": "ring",
+    "invokedAt": "2023-01-14T07:24:50.973Z"
   }
 ]
