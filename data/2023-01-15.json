@@ -526,5 +526,13 @@
     "username": "silverwolf516",
     "password": "stone",
     "invokedAt": "2023-01-15T11:38:54.500Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Scott",
+    "email": "brandon.scott@example.com",
+    "username": "sadmeercat324",
+    "password": "pikachu",
+    "invokedAt": "2023-01-15T11:45:10.358Z"
   }
 ]
