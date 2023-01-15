@@ -670,5 +670,13 @@
     "username": "lazykoala472",
     "password": "rookie",
     "invokedAt": "2023-01-15T14:40:03.656Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Alpuğan",
+    "email": "kadir.alpugan@example.com",
+    "username": "lazybutterfly686",
+    "password": "jose",
+    "invokedAt": "2023-01-15T14:46:05.875Z"
   }
 ]
