@@ -870,5 +870,13 @@
     "username": "goldenrabbit778",
     "password": "port",
     "invokedAt": "2023-01-15T18:13:00.235Z"
+  },
+  {
+    "firstName": "Pomme",
+    "lastName": "Verloop",
+    "email": "pomme.verloop@example.com",
+    "username": "smallcat354",
+    "password": "sander",
+    "invokedAt": "2023-01-15T18:28:13.099Z"
   }
 ]
