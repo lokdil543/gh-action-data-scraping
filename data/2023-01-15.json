@@ -574,5 +574,13 @@
     "username": "purpledog746",
     "password": "georgia",
     "invokedAt": "2023-01-15T12:59:54.012Z"
+  },
+  {
+    "firstName": "Branimir",
+    "lastName": "Milovanović",
+    "email": "branimir.milovanovic@example.com",
+    "username": "ticklishfish213",
+    "password": "thanks",
+    "invokedAt": "2023-01-15T13:17:34.279Z"
   }
 ]
