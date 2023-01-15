@@ -710,5 +710,13 @@
     "username": "beautifulbird679",
     "password": "house1",
     "invokedAt": "2023-01-15T15:23:19.736Z"
+  },
+  {
+    "firstName": "Alix",
+    "lastName": "Durand",
+    "email": "alix.durand@example.com",
+    "username": "bigfish878",
+    "password": "lucy",
+    "invokedAt": "2023-01-15T15:29:08.801Z"
   }
 ]
