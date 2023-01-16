@@ -686,5 +686,13 @@
     "username": "organiclion204",
     "password": "devin",
     "invokedAt": "2023-01-16T15:48:17.560Z"
+  },
+  {
+    "firstName": "Derek",
+    "lastName": "Jenkins",
+    "email": "derek.jenkins@example.com",
+    "username": "tinyfish828",
+    "password": "water",
+    "invokedAt": "2023-01-16T15:54:13.120Z"
   }
 ]
