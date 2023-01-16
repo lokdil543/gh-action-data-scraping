@@ -86,5 +86,13 @@
     "username": "purplepeacock302",
     "password": "dynasty",
     "invokedAt": "2023-01-16T03:58:45.953Z"
+  },
+  {
+    "firstName": "Randy",
+    "lastName": "Brewer",
+    "email": "randy.brewer@example.com",
+    "username": "bluepeacock892",
+    "password": "burrito",
+    "invokedAt": "2023-01-16T04:15:37.340Z"
   }
 ]
