@@ -478,5 +478,13 @@
     "username": "silvergorilla172",
     "password": "loving",
     "invokedAt": "2023-01-16T11:25:06.797Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Romero",
+    "email": "jose.romero@example.com",
+    "username": "greenfrog291",
+    "password": "medical",
+    "invokedAt": "2023-01-16T11:30:59.966Z"
   }
 ]
