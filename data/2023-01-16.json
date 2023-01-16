@@ -814,5 +814,13 @@
     "username": "sadbutterfly823",
     "password": "tickle",
     "invokedAt": "2023-01-16T18:30:53.887Z"
+  },
+  {
+    "firstName": "Lynn",
+    "lastName": "Nguyen",
+    "email": "lynn.nguyen@example.com",
+    "username": "saddog113",
+    "password": "tigger",
+    "invokedAt": "2023-01-16T18:40:01.115Z"
   }
 ]
