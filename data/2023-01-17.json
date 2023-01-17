@@ -758,5 +758,13 @@
     "username": "smallfish482",
     "password": "zxcv",
     "invokedAt": "2023-01-17T17:00:40.785Z"
+  },
+  {
+    "firstName": "Gordan",
+    "lastName": "Orlić",
+    "email": "gordan.orlic@example.com",
+    "username": "heavymouse159",
+    "password": "bcfields",
+    "invokedAt": "2023-01-17T17:14:35.275Z"
   }
 ]
