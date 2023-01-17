@@ -502,5 +502,13 @@
     "username": "crazycat616",
     "password": "enter1",
     "invokedAt": "2023-01-17T11:35:08.857Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Van de Veen",
+    "email": "carl.vandeveen@example.com",
+    "username": "redgoose195",
+    "password": "radio",
+    "invokedAt": "2023-01-17T11:40:59.835Z"
   }
 ]
