@@ -974,5 +974,13 @@
     "username": "bluebird648",
     "password": "sergio",
     "invokedAt": "2023-01-18T21:00:01.071Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Jones",
+    "email": "jeremy.jones@example.com",
+    "username": "happyrabbit973",
+    "password": "foobar",
+    "invokedAt": "2023-01-18T21:12:58.023Z"
   }
 ]
