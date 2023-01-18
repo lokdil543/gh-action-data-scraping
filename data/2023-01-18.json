@@ -430,5 +430,13 @@
     "username": "tinydog314",
     "password": "bordeaux",
     "invokedAt": "2023-01-18T10:42:41.570Z"
+  },
+  {
+    "firstName": "Radovan",
+    "lastName": "Shpara",
+    "email": "radovan.shpara@example.com",
+    "username": "beautifulkoala175",
+    "password": "dodge",
+    "invokedAt": "2023-01-18T10:48:40.978Z"
   }
 ]
