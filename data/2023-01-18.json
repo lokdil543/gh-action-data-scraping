@@ -422,5 +422,13 @@
     "username": "bluedog208",
     "password": "toonarmy",
     "invokedAt": "2023-01-18T10:36:46.179Z"
+  },
+  {
+    "firstName": "Tristão",
+    "lastName": "de Souza",
+    "email": "tristao.desouza@example.com",
+    "username": "tinydog314",
+    "password": "bordeaux",
+    "invokedAt": "2023-01-18T10:42:41.570Z"
   }
 ]
