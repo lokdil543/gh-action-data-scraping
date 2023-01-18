@@ -918,5 +918,13 @@
     "username": "crazyelephant386",
     "password": "lookin",
     "invokedAt": "2023-01-18T20:06:29.089Z"
+  },
+  {
+    "firstName": "Áquila",
+    "lastName": "Gonçalves",
+    "email": "aquila.goncalves@example.com",
+    "username": "redpanda979",
+    "password": "puffin",
+    "invokedAt": "2023-01-18T20:23:11.464Z"
   }
 ]
