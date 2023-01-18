@@ -950,5 +950,13 @@
     "username": "smallcat201",
     "password": "generic",
     "invokedAt": "2023-01-18T20:42:16.995Z"
+  },
+  {
+    "firstName": "Arjun",
+    "lastName": "Saha",
+    "email": "arjun.saha@example.com",
+    "username": "bigostrich968",
+    "password": "gatorade",
+    "invokedAt": "2023-01-18T20:48:06.040Z"
   }
 ]
