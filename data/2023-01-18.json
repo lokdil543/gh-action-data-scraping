@@ -766,5 +766,13 @@
     "username": "tinycat364",
     "password": "wireless",
     "invokedAt": "2023-01-18T17:35:39.891Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Lam",
+    "email": "alexis.lam@example.com",
+    "username": "orangefish374",
+    "password": "fishin",
+    "invokedAt": "2023-01-18T17:41:41.232Z"
   }
 ]
