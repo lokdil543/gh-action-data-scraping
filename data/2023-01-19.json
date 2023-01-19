@@ -214,5 +214,13 @@
     "username": "silverdog754",
     "password": "barbados",
     "invokedAt": "2023-01-19T06:45:37.398Z"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Graves",
+    "email": "gavin.graves@example.com",
+    "username": "browntiger452",
+    "password": "daffy",
+    "invokedAt": "2023-01-19T06:51:39.162Z"
   }
 ]
