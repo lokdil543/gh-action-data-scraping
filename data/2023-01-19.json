@@ -238,5 +238,13 @@
     "username": "bluewolf719",
     "password": "forward",
     "invokedAt": "2023-01-19T07:10:02.682Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Leclercq",
+    "email": "chris.leclercq@example.com",
+    "username": "brownbear260",
+    "password": "firefox",
+    "invokedAt": "2023-01-19T07:22:00.569Z"
   }
 ]
