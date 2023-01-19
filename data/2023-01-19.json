@@ -1022,5 +1022,13 @@
     "username": "greenrabbit786",
     "password": "grunt",
     "invokedAt": "2023-01-19T22:27:11.982Z"
+  },
+  {
+    "firstName": "Matthieu",
+    "lastName": "Renard",
+    "email": "matthieu.renard@example.com",
+    "username": "crazypanda431",
+    "password": "wareagle",
+    "invokedAt": "2023-01-19T22:34:12.699Z"
   }
 ]
