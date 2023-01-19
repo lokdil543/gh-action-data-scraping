@@ -190,5 +190,13 @@
     "username": "redswan476",
     "password": "123457",
     "invokedAt": "2023-01-19T06:09:12.406Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Chan",
+    "email": "harper.chan@example.com",
+    "username": "beautifulbird160",
+    "password": "shutup",
+    "invokedAt": "2023-01-19T06:28:34.916Z"
   }
 ]
