@@ -438,5 +438,13 @@
     "username": "angrypanda180",
     "password": "zappa",
     "invokedAt": "2023-01-19T10:48:56.348Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Petersen",
+    "email": "lucas.petersen@example.com",
+    "username": "greenbutterfly479",
+    "password": "impact",
+    "invokedAt": "2023-01-19T10:54:57.479Z"
   }
 ]
