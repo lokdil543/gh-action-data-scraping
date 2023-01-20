@@ -686,5 +686,13 @@
     "username": "tinybutterfly451",
     "password": "luke",
     "invokedAt": "2023-01-20T15:55:10.658Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Arslanoğlu",
+    "email": "mehmet.arslanoglu@example.com",
+    "username": "lazyduck784",
+    "password": "spiker",
+    "invokedAt": "2023-01-20T16:07:21.505Z"
   }
 ]
