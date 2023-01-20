@@ -622,5 +622,13 @@
     "username": "lazyfrog646",
     "password": "weird",
     "invokedAt": "2023-01-20T14:48:19.925Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Holt",
+    "email": "martha.holt@example.com",
+    "username": "blacklion940",
+    "password": "shodan",
+    "invokedAt": "2023-01-20T14:54:18.381Z"
   }
 ]
