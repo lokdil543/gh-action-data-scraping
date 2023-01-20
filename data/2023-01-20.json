@@ -998,5 +998,13 @@
     "username": "smalltiger337",
     "password": "badger",
     "invokedAt": "2023-01-20T21:39:18.060Z"
+  },
+  {
+    "firstName": "Syver",
+    "lastName": "Refsland",
+    "email": "syver.refsland@example.com",
+    "username": "sadfish931",
+    "password": "phillip",
+    "invokedAt": "2023-01-20T21:45:11.319Z"
   }
 ]
