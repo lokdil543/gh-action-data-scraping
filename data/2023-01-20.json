@@ -774,5 +774,13 @@
     "username": "beautifullion980",
     "password": "yankees",
     "invokedAt": "2023-01-20T17:50:47.198Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Møller",
+    "email": "johan.moller@example.com",
+    "username": "crazyfrog682",
+    "password": "alpha1",
+    "invokedAt": "2023-01-20T17:56:58.429Z"
   }
 ]
