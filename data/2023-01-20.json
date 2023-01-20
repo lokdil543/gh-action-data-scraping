@@ -1118,5 +1118,13 @@
     "username": "whitewolf622",
     "password": "vanguard",
     "invokedAt": "2023-01-20T23:38:20.094Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Adams",
+    "email": "sam.adams@example.com",
+    "username": "sadgorilla672",
+    "password": "neng",
+    "invokedAt": "2023-01-20T23:44:24.153Z"
   }
 ]
