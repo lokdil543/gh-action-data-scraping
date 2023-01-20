@@ -254,5 +254,13 @@
     "username": "happygoose353",
     "password": "icehouse",
     "invokedAt": "2023-01-20T07:32:38.489Z"
+  },
+  {
+    "firstName": "Galina",
+    "lastName": "Nenadović",
+    "email": "galina.nenadovic@example.com",
+    "username": "tinygoose923",
+    "password": "1949",
+    "invokedAt": "2023-01-20T07:38:44.961Z"
   }
 ]
