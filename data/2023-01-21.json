@@ -526,5 +526,13 @@
     "username": "yellowdog918",
     "password": "student",
     "invokedAt": "2023-01-21T11:29:35.995Z"
+  },
+  {
+    "firstName": "Jennie",
+    "lastName": "West",
+    "email": "jennie.west@example.com",
+    "username": "purplemouse276",
+    "password": "abby",
+    "invokedAt": "2023-01-21T11:35:32.018Z"
   }
 ]
