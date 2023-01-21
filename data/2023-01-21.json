@@ -414,5 +414,13 @@
     "username": "greenfish923",
     "password": "sunny1",
     "invokedAt": "2023-01-21T09:41:40.086Z"
+  },
+  {
+    "firstName": "Barış",
+    "lastName": "Akaydın",
+    "email": "baris.akaydin@example.com",
+    "username": "greendog674",
+    "password": "guitar",
+    "invokedAt": "2023-01-21T09:47:33.034Z"
   }
 ]
