@@ -846,5 +846,13 @@
     "username": "yellowelephant604",
     "password": "farmboy",
     "invokedAt": "2023-01-21T17:34:14.312Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Tremblay",
+    "email": "zoe.tremblay@example.com",
+    "username": "beautifulcat798",
+    "password": "experience",
+    "invokedAt": "2023-01-21T17:40:12.854Z"
   }
 ]
