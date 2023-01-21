@@ -278,5 +278,13 @@
     "username": "smallfish360",
     "password": "puffin",
     "invokedAt": "2023-01-21T07:25:41.862Z"
+  },
+  {
+    "firstName": "Ragnar",
+    "lastName": "Berisha",
+    "email": "ragnar.berisha@example.com",
+    "username": "beautifuldog111",
+    "password": "hans",
+    "invokedAt": "2023-01-21T07:31:42.695Z"
   }
 ]
