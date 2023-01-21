@@ -342,5 +342,13 @@
     "username": "crazyduck429",
     "password": "super1",
     "invokedAt": "2023-01-21T08:35:21.223Z"
+  },
+  {
+    "firstName": "Nazario",
+    "lastName": "Guzmán",
+    "email": "nazario.guzman@example.com",
+    "username": "happyelephant963",
+    "password": "unique",
+    "invokedAt": "2023-01-21T08:41:56.984Z"
   }
 ]
