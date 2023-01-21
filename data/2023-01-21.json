@@ -886,5 +886,13 @@
     "username": "sadbird723",
     "password": "dodger",
     "invokedAt": "2023-01-21T18:12:06.367Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Walker",
+    "email": "harper.walker@example.com",
+    "username": "sadsnake109",
+    "password": "laurence",
+    "invokedAt": "2023-01-21T18:27:43.175Z"
   }
 ]
