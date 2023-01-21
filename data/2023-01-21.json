@@ -182,5 +182,13 @@
     "username": "happyduck216",
     "password": "patch",
     "invokedAt": "2023-01-21T05:42:31.587Z"
+  },
+  {
+    "firstName": "Even",
+    "lastName": "Heggestad",
+    "email": "even.heggestad@example.com",
+    "username": "yellowostrich249",
+    "password": "1221",
+    "invokedAt": "2023-01-21T05:48:32.227Z"
   }
 ]
