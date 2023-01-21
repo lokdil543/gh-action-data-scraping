@@ -510,5 +510,13 @@
     "username": "beautifulmeercat850",
     "password": "dentist",
     "invokedAt": "2023-01-21T11:18:00.401Z"
+  },
+  {
+    "firstName": "Gautam",
+    "lastName": "Gamskar",
+    "email": "gautam.gamskar@example.com",
+    "username": "redgoose222",
+    "password": "sheila",
+    "invokedAt": "2023-01-21T11:23:42.127Z"
   }
 ]
