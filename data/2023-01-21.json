@@ -1062,5 +1062,13 @@
     "username": "goldensnake495",
     "password": "platypus",
     "invokedAt": "2023-01-21T20:54:40.920Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Barbier",
+    "email": "steve.barbier@example.com",
+    "username": "goldenbutterfly333",
+    "password": "govols",
+    "invokedAt": "2023-01-21T21:00:28.768Z"
   }
 ]
