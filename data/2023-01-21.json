@@ -798,5 +798,13 @@
     "username": "blackfish505",
     "password": "369369",
     "invokedAt": "2023-01-21T16:46:16.899Z"
+  },
+  {
+    "firstName": "Isac",
+    "lastName": "Lauritzen",
+    "email": "isac.lauritzen@example.com",
+    "username": "lazycat777",
+    "password": "gate",
+    "invokedAt": "2023-01-21T16:52:15.587Z"
   }
 ]
