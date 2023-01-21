@@ -926,5 +926,13 @@
     "username": "greencat632",
     "password": "1017",
     "invokedAt": "2023-01-21T18:53:16.731Z"
+  },
+  {
+    "firstName": "Momir",
+    "lastName": "Damjanović",
+    "email": "momir.damjanovic@example.com",
+    "username": "blackfrog500",
+    "password": "gloria",
+    "invokedAt": "2023-01-21T18:59:08.588Z"
   }
 ]
