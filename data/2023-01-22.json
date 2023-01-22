@@ -1142,5 +1142,13 @@
     "username": "redduck925",
     "password": "wetter",
     "invokedAt": "2023-01-22T22:25:45.244Z"
+  },
+  {
+    "firstName": "Sebastián",
+    "lastName": "Ferrer",
+    "email": "sebastian.ferrer@example.com",
+    "username": "tinysnake224",
+    "password": "silly",
+    "invokedAt": "2023-01-22T22:31:36.639Z"
   }
 ]
