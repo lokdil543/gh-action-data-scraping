@@ -726,5 +726,13 @@
     "username": "silverfrog291",
     "password": "vulcan",
     "invokedAt": "2023-01-22T15:30:19.426Z"
+  },
+  {
+    "firstName": "Laurie",
+    "lastName": "Jones",
+    "email": "laurie.jones@example.com",
+    "username": "angrypanda376",
+    "password": "nick",
+    "invokedAt": "2023-01-22T15:36:33.401Z"
   }
 ]
