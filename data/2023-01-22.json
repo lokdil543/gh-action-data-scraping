@@ -446,5 +446,13 @@
     "username": "silvergoose840",
     "password": "loveit",
     "invokedAt": "2023-01-22T10:24:14.724Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Ferguson",
+    "email": "harper.ferguson@example.com",
+    "username": "bigfrog861",
+    "password": "moondog",
+    "invokedAt": "2023-01-22T10:31:12.947Z"
   }
 ]
