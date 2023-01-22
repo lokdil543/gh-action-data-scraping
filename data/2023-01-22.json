@@ -142,5 +142,13 @@
     "username": "orangetiger390",
     "password": "smokey",
     "invokedAt": "2023-01-22T05:07:06.828Z"
+  },
+  {
+    "firstName": "Nataša",
+    "lastName": "Žigić",
+    "email": "natasa.zigic@example.com",
+    "username": "lazyduck263",
+    "password": "hawaii",
+    "invokedAt": "2023-01-22T05:20:52.840Z"
   }
 ]
