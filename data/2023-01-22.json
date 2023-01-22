@@ -166,5 +166,13 @@
     "username": "heavykoala378",
     "password": "supreme",
     "invokedAt": "2023-01-22T05:34:23.850Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Kelley",
+    "email": "dave.kelley@example.com",
+    "username": "heavyswan170",
+    "password": "light",
+    "invokedAt": "2023-01-22T05:40:20.845Z"
   }
 ]
