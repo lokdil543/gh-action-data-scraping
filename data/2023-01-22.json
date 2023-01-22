@@ -246,5 +246,13 @@
     "username": "greengorilla460",
     "password": "nine",
     "invokedAt": "2023-01-22T06:55:28.844Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Mortensen",
+    "email": "adam.mortensen@example.com",
+    "username": "organicfrog670",
+    "password": "volley",
+    "invokedAt": "2023-01-22T07:04:26.965Z"
   }
 ]
