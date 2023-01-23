@@ -574,5 +574,13 @@
     "username": "silversnake230",
     "password": "kikimora",
     "invokedAt": "2023-01-23T13:42:46.008Z"
+  },
+  {
+    "firstName": "Aline",
+    "lastName": "Berger",
+    "email": "aline.berger@example.com",
+    "username": "smallsnake518",
+    "password": "fullmoon",
+    "invokedAt": "2023-01-23T13:49:09.956Z"
   }
 ]
