@@ -470,5 +470,13 @@
     "username": "brownmouse411",
     "password": "1234abcd",
     "invokedAt": "2023-01-23T11:04:41.372Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Christiansen",
+    "email": "karla.christiansen@example.com",
+    "username": "lazywolf322",
+    "password": "fishbone",
+    "invokedAt": "2023-01-23T11:18:02.721Z"
   }
 ]
