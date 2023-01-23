@@ -278,5 +278,13 @@
     "username": "silverrabbit158",
     "password": "kidrock",
     "invokedAt": "2023-01-23T07:36:18.767Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Hansen",
+    "email": "alfred.hansen@example.com",
+    "username": "purpleelephant179",
+    "password": "mephisto",
+    "invokedAt": "2023-01-23T07:42:04.062Z"
   }
 ]
