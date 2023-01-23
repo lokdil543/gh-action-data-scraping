@@ -510,5 +510,13 @@
     "username": "goldenduck550",
     "password": "natalia",
     "invokedAt": "2023-01-23T11:42:53.248Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Nielsen",
+    "email": "tristan.nielsen@example.com",
+    "username": "goldenfrog563",
+    "password": "pickup",
+    "invokedAt": "2023-01-23T11:48:49.989Z"
   }
 ]
