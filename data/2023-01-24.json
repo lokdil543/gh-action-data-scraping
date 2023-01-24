@@ -542,5 +542,13 @@
     "username": "bluewolf934",
     "password": "script",
     "invokedAt": "2023-01-24T11:54:29.435Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Thompson",
+    "email": "thea.thompson@example.com",
+    "username": "bigfish227",
+    "password": "bumper",
+    "invokedAt": "2023-01-24T12:00:25.832Z"
   }
 ]
