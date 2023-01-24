@@ -590,5 +590,13 @@
     "username": "redpanda733",
     "password": "pingpong",
     "invokedAt": "2023-01-24T13:37:31.282Z"
+  },
+  {
+    "firstName": "Noe",
+    "lastName": "Gonzalez",
+    "email": "noe.gonzalez@example.com",
+    "username": "silversnake362",
+    "password": "doggy",
+    "invokedAt": "2023-01-24T13:43:29.485Z"
   }
 ]
