@@ -414,5 +414,13 @@
     "username": "organicmouse623",
     "password": "justme",
     "invokedAt": "2023-01-24T09:49:13.879Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Bélanger",
+    "email": "simon.belanger@example.com",
+    "username": "smallleopard808",
+    "password": "cheese",
+    "invokedAt": "2023-01-24T09:55:23.118Z"
   }
 ]
