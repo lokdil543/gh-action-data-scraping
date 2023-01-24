@@ -438,5 +438,13 @@
     "username": "bigwolf121",
     "password": "national",
     "invokedAt": "2023-01-24T10:23:59.079Z"
+  },
+  {
+    "firstName": "Zorica",
+    "lastName": "Vučetić",
+    "email": "zorica.vucetic@example.com",
+    "username": "bluebutterfly693",
+    "password": "hornets",
+    "invokedAt": "2023-01-24T10:32:42.293Z"
   }
 ]
