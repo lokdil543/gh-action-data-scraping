@@ -310,5 +310,13 @@
     "username": "orangecat359",
     "password": "power",
     "invokedAt": "2023-01-25T08:19:10.475Z"
+  },
+  {
+    "firstName": "Mirjana",
+    "lastName": "Blažić",
+    "email": "mirjana.blazic@example.com",
+    "username": "crazybird686",
+    "password": "woodie",
+    "invokedAt": "2023-01-25T08:31:54.206Z"
   }
 ]
