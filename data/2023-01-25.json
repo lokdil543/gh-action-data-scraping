@@ -806,5 +806,13 @@
     "username": "silverzebra164",
     "password": "monday",
     "invokedAt": "2023-01-25T17:47:25.919Z"
+  },
+  {
+    "firstName": "Mateo",
+    "lastName": "Van Kasteren",
+    "email": "mateo.vankasteren@example.com",
+    "username": "goldentiger778",
+    "password": "sinned",
+    "invokedAt": "2023-01-25T17:53:30.217Z"
   }
 ]
