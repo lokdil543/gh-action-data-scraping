@@ -710,5 +710,13 @@
     "username": "heavylion415",
     "password": "customer",
     "invokedAt": "2023-01-25T15:49:19.182Z"
+  },
+  {
+    "firstName": "مهدي",
+    "lastName": "صدر",
+    "email": "mhdy.sdr@example.com",
+    "username": "silverswan774",
+    "password": "holmes",
+    "invokedAt": "2023-01-25T15:55:17.022Z"
   }
 ]
