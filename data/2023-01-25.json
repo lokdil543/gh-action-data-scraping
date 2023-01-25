@@ -1126,5 +1126,13 @@
     "username": "orangeduck800",
     "password": "sticks",
     "invokedAt": "2023-01-25T22:59:12.801Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Pedersen",
+    "email": "karla.pedersen@example.com",
+    "username": "happyzebra914",
+    "password": "billy1",
+    "invokedAt": "2023-01-25T23:13:35.111Z"
   }
 ]
