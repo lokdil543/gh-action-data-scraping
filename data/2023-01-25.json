@@ -254,5 +254,13 @@
     "username": "happywolf261",
     "password": "florian",
     "invokedAt": "2023-01-25T07:15:45.687Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Jones",
+    "email": "mila.jones@example.com",
+    "username": "goldenfish401",
+    "password": "believe",
+    "invokedAt": "2023-01-25T07:23:48.631Z"
   }
 ]
