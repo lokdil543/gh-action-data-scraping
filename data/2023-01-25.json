@@ -198,5 +198,13 @@
     "username": "happysnake942",
     "password": "wildwood",
     "invokedAt": "2023-01-25T05:58:31.687Z"
+  },
+  {
+    "firstName": "Vegard",
+    "lastName": "Gjerdrum",
+    "email": "vegard.gjerdrum@example.com",
+    "username": "biggorilla465",
+    "password": "jenna",
+    "invokedAt": "2023-01-25T06:15:12.460Z"
   }
 ]
