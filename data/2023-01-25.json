@@ -558,5 +558,13 @@
     "username": "greengoose654",
     "password": "dirtbike",
     "invokedAt": "2023-01-25T13:10:51.449Z"
+  },
+  {
+    "firstName": "Margaux",
+    "lastName": "Roger",
+    "email": "margaux.roger@example.com",
+    "username": "redelephant415",
+    "password": "surfing",
+    "invokedAt": "2023-01-25T13:28:21.901Z"
   }
 ]
