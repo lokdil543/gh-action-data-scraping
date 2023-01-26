@@ -790,5 +790,13 @@
     "username": "lazyostrich877",
     "password": "paris1",
     "invokedAt": "2023-01-26T17:41:19.456Z"
+  },
+  {
+    "firstName": "Romeo",
+    "lastName": "Fabre",
+    "email": "romeo.fabre@example.com",
+    "username": "beautifulbear666",
+    "password": "bumble",
+    "invokedAt": "2023-01-26T17:47:17.934Z"
   }
 ]
