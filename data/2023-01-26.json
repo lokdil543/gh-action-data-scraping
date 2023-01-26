@@ -966,5 +966,13 @@
     "username": "redwolf136",
     "password": "rommel",
     "invokedAt": "2023-01-26T20:38:47.256Z"
+  },
+  {
+    "firstName": "Laszlo",
+    "lastName": "Nordmann",
+    "email": "laszlo.nordmann@example.com",
+    "username": "redmouse492",
+    "password": "anthony",
+    "invokedAt": "2023-01-26T20:44:40.695Z"
   }
 ]
