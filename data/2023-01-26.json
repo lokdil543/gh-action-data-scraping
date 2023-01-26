@@ -718,5 +718,13 @@
     "username": "angrysnake216",
     "password": "something",
     "invokedAt": "2023-01-26T16:06:34.122Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Adan",
+    "email": "ceylan.adan@example.com",
+    "username": "sadwolf345",
+    "password": "gizmodo",
+    "invokedAt": "2023-01-26T16:30:01.765Z"
   }
 ]
