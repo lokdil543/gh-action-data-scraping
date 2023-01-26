@@ -710,5 +710,13 @@
     "username": "redduck236",
     "password": "shell",
     "invokedAt": "2023-01-26T15:55:16.152Z"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Kićanović",
+    "email": "marija.kicanovic@example.com",
+    "username": "angrysnake216",
+    "password": "something",
+    "invokedAt": "2023-01-26T16:06:34.122Z"
   }
 ]
