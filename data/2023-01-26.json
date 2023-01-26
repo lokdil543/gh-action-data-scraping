@@ -702,5 +702,13 @@
     "username": "beautifulmeercat735",
     "password": "gandalf1",
     "invokedAt": "2023-01-26T15:49:04.460Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Katić",
+    "email": "adam.katic@example.com",
+    "username": "redduck236",
+    "password": "shell",
+    "invokedAt": "2023-01-26T15:55:16.152Z"
   }
 ]
