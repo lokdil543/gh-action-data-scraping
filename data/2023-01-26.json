@@ -798,5 +798,13 @@
     "username": "beautifulbear666",
     "password": "bumble",
     "invokedAt": "2023-01-26T17:47:17.934Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Wong",
+    "email": "thomas.wong@example.com",
+    "username": "bluesnake141",
+    "password": "zzzzzz",
+    "invokedAt": "2023-01-26T17:53:04.020Z"
   }
 ]
