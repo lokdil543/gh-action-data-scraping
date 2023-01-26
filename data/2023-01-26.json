@@ -518,5 +518,13 @@
     "username": "sadsnake380",
     "password": "babyface",
     "invokedAt": "2023-01-26T11:43:59.357Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Rasmussen",
+    "email": "anna.rasmussen@example.com",
+    "username": "blacksnake273",
+    "password": "breeze",
+    "invokedAt": "2023-01-26T11:49:53.966Z"
   }
 ]
