@@ -758,5 +758,13 @@
     "username": "sadostrich223",
     "password": "party",
     "invokedAt": "2023-01-26T17:07:56.972Z"
+  },
+  {
+    "firstName": "Berthold",
+    "lastName": "Hiller",
+    "email": "berthold.hiller@example.com",
+    "username": "goldenmouse513",
+    "password": "request",
+    "invokedAt": "2023-01-26T17:22:18.413Z"
   }
 ]
