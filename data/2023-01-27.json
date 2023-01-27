@@ -462,5 +462,13 @@
     "username": "redduck286",
     "password": "implants",
     "invokedAt": "2023-01-27T10:51:14.430Z"
+  },
+  {
+    "firstName": "Eemil",
+    "lastName": "Niemi",
+    "email": "eemil.niemi@example.com",
+    "username": "orangewolf161",
+    "password": "wrench",
+    "invokedAt": "2023-01-27T10:57:19.332Z"
   }
 ]
