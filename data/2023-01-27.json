@@ -1062,5 +1062,13 @@
     "username": "angrylion576",
     "password": "eastside",
     "invokedAt": "2023-01-27T21:52:51.326Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Lassila",
+    "email": "sara.lassila@example.com",
+    "username": "bigduck202",
+    "password": "johnny5",
+    "invokedAt": "2023-01-27T21:58:49.011Z"
   }
 ]
