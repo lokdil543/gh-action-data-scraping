@@ -710,5 +710,13 @@
     "username": "bluetiger919",
     "password": "pressure",
     "invokedAt": "2023-01-28T15:11:53.128Z"
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Stanojević",
+    "email": "vera.stanojevic@example.com",
+    "username": "redkoala119",
+    "password": "wendy1",
+    "invokedAt": "2023-01-28T15:24:27.623Z"
   }
 ]
