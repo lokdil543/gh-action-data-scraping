@@ -918,5 +918,13 @@
     "username": "purpleswan414",
     "password": "admin",
     "invokedAt": "2023-01-28T18:52:40.847Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Holguín",
+    "email": "santiago.holguin@example.com",
+    "username": "sadpanda333",
+    "password": "343434",
+    "invokedAt": "2023-01-28T18:58:31.754Z"
   }
 ]
