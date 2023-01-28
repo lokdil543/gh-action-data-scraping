@@ -902,5 +902,13 @@
     "username": "bigfrog480",
     "password": "shopper",
     "invokedAt": "2023-01-28T18:40:49.600Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Özdoğan",
+    "email": "davut.ozdogan@example.com",
+    "username": "silverbird233",
+    "password": "penny1",
+    "invokedAt": "2023-01-28T18:46:42.352Z"
   }
 ]
