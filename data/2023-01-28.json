@@ -358,5 +358,13 @@
     "username": "ticklishfrog600",
     "password": "manfred",
     "invokedAt": "2023-01-28T08:50:41.008Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Anderson",
+    "email": "nelson.anderson@example.com",
+    "username": "bigmeercat222",
+    "password": "worm",
+    "invokedAt": "2023-01-28T08:56:29.860Z"
   }
 ]
