@@ -806,5 +806,13 @@
     "username": "purplegoose702",
     "password": "sigmar",
     "invokedAt": "2023-01-29T17:27:11.439Z"
+  },
+  {
+    "firstName": "Pearl",
+    "lastName": "Meyer",
+    "email": "pearl.meyer@example.com",
+    "username": "purplewolf624",
+    "password": "glock",
+    "invokedAt": "2023-01-29T17:33:23.234Z"
   }
 ]
