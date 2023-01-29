@@ -862,5 +862,13 @@
     "username": "brownelephant584",
     "password": "spectre",
     "invokedAt": "2023-01-29T18:26:36.185Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Lemoine",
+    "email": "roger.lemoine@example.com",
+    "username": "greenpeacock356",
+    "password": "twinkle",
+    "invokedAt": "2023-01-29T18:34:00.346Z"
   }
 ]
