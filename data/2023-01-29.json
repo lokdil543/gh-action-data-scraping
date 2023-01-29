@@ -206,5 +206,13 @@
     "username": "crazywolf508",
     "password": "spectrum",
     "invokedAt": "2023-01-29T06:37:23.227Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Pedersen",
+    "email": "malthe.pedersen@example.com",
+    "username": "silverbird140",
+    "password": "return",
+    "invokedAt": "2023-01-29T06:43:20.231Z"
   }
 ]
