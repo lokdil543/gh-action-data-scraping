@@ -734,5 +734,13 @@
     "username": "saddog672",
     "password": "beowulf",
     "invokedAt": "2023-01-30T16:40:26.060Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Cooper",
+    "email": "alfred.cooper@example.com",
+    "username": "beautifulwolf716",
+    "password": "a1b2c3d4",
+    "invokedAt": "2023-01-30T16:50:24.890Z"
   }
 ]
