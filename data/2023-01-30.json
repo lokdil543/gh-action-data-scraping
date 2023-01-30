@@ -614,5 +614,13 @@
     "username": "blackcat313",
     "password": "hiking",
     "invokedAt": "2023-01-30T14:24:59.673Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Tremblay",
+    "email": "felix.tremblay@example.com",
+    "username": "heavymeercat201",
+    "password": "wildbill",
+    "invokedAt": "2023-01-30T14:30:58.371Z"
   }
 ]
