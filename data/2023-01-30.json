@@ -246,5 +246,13 @@
     "username": "lazygoose790",
     "password": "celtics",
     "invokedAt": "2023-01-30T06:55:09.365Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Mortensen",
+    "email": "laerke.mortensen@example.com",
+    "username": "tinybird201",
+    "password": "swim",
+    "invokedAt": "2023-01-30T07:04:27.208Z"
   }
 ]
