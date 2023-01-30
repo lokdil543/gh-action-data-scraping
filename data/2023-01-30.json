@@ -110,5 +110,13 @@
     "username": "angryfish189",
     "password": "racing",
     "invokedAt": "2023-01-30T04:30:14.753Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Lacroix",
+    "email": "charles.lacroix@example.com",
+    "username": "silverfrog109",
+    "password": "preacher",
+    "invokedAt": "2023-01-30T04:39:34.044Z"
   }
 ]
