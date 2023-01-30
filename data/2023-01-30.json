@@ -326,5 +326,13 @@
     "username": "happyfish247",
     "password": "giggles",
     "invokedAt": "2023-01-30T08:29:47.623Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Newman",
+    "email": "scott.newman@example.com",
+    "username": "purplecat774",
+    "password": "domino",
+    "invokedAt": "2023-01-30T08:39:22.157Z"
   }
 ]
