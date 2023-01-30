@@ -254,5 +254,13 @@
     "username": "tinybird201",
     "password": "swim",
     "invokedAt": "2023-01-30T07:04:27.208Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Wallace",
+    "email": "charlotte.wallace@example.com",
+    "username": "brownpanda301",
+    "password": "californ",
+    "invokedAt": "2023-01-30T07:19:08.127Z"
   }
 ]
