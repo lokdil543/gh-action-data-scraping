@@ -446,5 +446,13 @@
     "username": "yellowfish992",
     "password": "georgia",
     "invokedAt": "2023-01-30T10:39:37.036Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Roberts",
+    "email": "ryan.roberts@example.com",
+    "username": "beautifulpanda971",
+    "password": "stocking",
+    "invokedAt": "2023-01-30T10:45:40.916Z"
   }
 ]
