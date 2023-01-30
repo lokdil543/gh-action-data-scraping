@@ -518,5 +518,13 @@
     "username": "beautifulmeercat899",
     "password": "petunia",
     "invokedAt": "2023-01-30T11:44:32.612Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Côté",
+    "email": "ryan.cote@example.com",
+    "username": "lazybear480",
+    "password": "terry",
+    "invokedAt": "2023-01-30T11:50:30.914Z"
   }
 ]
