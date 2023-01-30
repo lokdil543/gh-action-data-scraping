@@ -102,5 +102,13 @@
     "username": "lazyduck265",
     "password": "mortal",
     "invokedAt": "2023-01-30T04:12:54.889Z"
+  },
+  {
+    "firstName": "Nanke",
+    "lastName": "De Krom",
+    "email": "nanke.dekrom@example.com",
+    "username": "angryfish189",
+    "password": "racing",
+    "invokedAt": "2023-01-30T04:30:14.753Z"
   }
 ]
