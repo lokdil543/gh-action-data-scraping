@@ -870,5 +870,13 @@
     "username": "smallduck707",
     "password": "sputnik",
     "invokedAt": "2023-01-30T19:12:34.442Z"
+  },
+  {
+    "firstName": "Belén",
+    "lastName": "Vázquez",
+    "email": "belen.vazquez@example.com",
+    "username": "greenfish848",
+    "password": "grumpy",
+    "invokedAt": "2023-01-30T19:20:26.133Z"
   }
 ]
