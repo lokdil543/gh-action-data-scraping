@@ -870,5 +870,13 @@
     "username": "silverpanda691",
     "password": "look",
     "invokedAt": "2023-01-31T19:19:26.308Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Castro",
+    "email": "john.castro@example.com",
+    "username": "blackfrog875",
+    "password": "universe",
+    "invokedAt": "2023-01-31T19:25:31.897Z"
   }
 ]
