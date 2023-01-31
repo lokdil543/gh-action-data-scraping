@@ -486,5 +486,13 @@
     "username": "blacktiger144",
     "password": "squash",
     "invokedAt": "2023-01-31T11:26:09.444Z"
+  },
+  {
+    "firstName": "Slavica",
+    "lastName": "Popović",
+    "email": "slavica.popovic@example.com",
+    "username": "orangebear472",
+    "password": "beerman",
+    "invokedAt": "2023-01-31T11:32:13.978Z"
   }
 ]
