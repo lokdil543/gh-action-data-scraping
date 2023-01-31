@@ -766,5 +766,13 @@
     "username": "whitepanda579",
     "password": "oregon",
     "invokedAt": "2023-01-31T17:29:45.941Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Lorenzo",
+    "email": "sandra.lorenzo@example.com",
+    "username": "blackfrog524",
+    "password": "here",
+    "invokedAt": "2023-01-31T17:35:43.550Z"
   }
 ]
