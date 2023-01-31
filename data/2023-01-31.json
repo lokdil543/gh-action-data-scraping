@@ -470,5 +470,13 @@
     "username": "sadduck711",
     "password": "test2",
     "invokedAt": "2023-01-31T11:10:11.140Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Taylor",
+    "email": "liam.taylor@example.com",
+    "username": "beautifulleopard143",
+    "password": "krypton",
+    "invokedAt": "2023-01-31T11:20:18.735Z"
   }
 ]
