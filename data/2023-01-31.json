@@ -198,5 +198,13 @@
     "username": "goldenladybug189",
     "password": "ticket",
     "invokedAt": "2023-01-31T06:15:33.463Z"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Van Herten",
+    "email": "toni.vanherten@example.com",
+    "username": "angrysnake323",
+    "password": "asdf1234",
+    "invokedAt": "2023-01-31T06:31:52.293Z"
   }
 ]
