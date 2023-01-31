@@ -422,5 +422,13 @@
     "username": "blackpanda336",
     "password": "herewego",
     "invokedAt": "2023-01-31T10:25:50.997Z"
+  },
+  {
+    "firstName": "Hazel",
+    "lastName": "Walker",
+    "email": "hazel.walker@example.com",
+    "username": "sadcat252",
+    "password": "wayne",
+    "invokedAt": "2023-01-31T10:34:17.891Z"
   }
 ]
