@@ -526,5 +526,13 @@
     "username": "ticklishmouse151",
     "password": "cabernet",
     "invokedAt": "2023-01-31T11:56:09.181Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Kujala",
+    "email": "emma.kujala@example.com",
+    "username": "crazycat969",
+    "password": "505050",
+    "invokedAt": "2023-01-31T12:13:25.809Z"
   }
 ]
