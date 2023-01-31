@@ -358,5 +358,13 @@
     "username": "goldenpeacock209",
     "password": "string",
     "invokedAt": "2023-01-31T09:13:46.586Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Møller",
+    "email": "laura.moller@example.com",
+    "username": "crazyleopard775",
+    "password": "airforce",
+    "invokedAt": "2023-01-31T09:25:34.935Z"
   }
 ]
