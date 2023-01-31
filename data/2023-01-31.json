@@ -454,5 +454,13 @@
     "username": "lazymouse225",
     "password": "clover",
     "invokedAt": "2023-01-31T10:52:34.211Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Ristović",
+    "email": "anton.ristovic@example.com",
+    "username": "beautifulwolf137",
+    "password": "nico",
+    "invokedAt": "2023-01-31T10:58:29.455Z"
   }
 ]
