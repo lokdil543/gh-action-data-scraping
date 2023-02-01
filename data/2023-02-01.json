@@ -662,5 +662,13 @@
     "username": "yellowbird430",
     "password": "godfather",
     "invokedAt": "2023-02-01T15:41:42.958Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "da Rocha",
+    "email": "ana.darocha@example.com",
+    "username": "orangecat546",
+    "password": "force",
+    "invokedAt": "2023-02-01T15:47:35.607Z"
   }
 ]
