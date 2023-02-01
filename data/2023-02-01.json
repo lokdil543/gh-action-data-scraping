@@ -766,5 +766,13 @@
     "username": "blackmouse611",
     "password": "topgun",
     "invokedAt": "2023-02-01T17:45:53.786Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Madsen",
+    "email": "malthe.madsen@example.com",
+    "username": "brownkoala679",
+    "password": "patch",
+    "invokedAt": "2023-02-01T17:51:57.994Z"
   }
 ]
