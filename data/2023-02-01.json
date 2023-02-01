@@ -398,5 +398,13 @@
     "username": "goldencat187",
     "password": "sprout",
     "invokedAt": "2023-02-01T10:18:48.145Z"
+  },
+  {
+    "firstName": "Daline",
+    "lastName": "Lopes",
+    "email": "daline.lopes@example.com",
+    "username": "bluemouse789",
+    "password": "2626",
+    "invokedAt": "2023-02-01T10:32:05.267Z"
   }
 ]
