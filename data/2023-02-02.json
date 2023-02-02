@@ -1054,5 +1054,13 @@
     "username": "happywolf999",
     "password": "bigmac",
     "invokedAt": "2023-02-02T22:30:05.656Z"
+  },
+  {
+    "firstName": "Ayten",
+    "lastName": "Roll",
+    "email": "ayten.roll@example.com",
+    "username": "smallpanda843",
+    "password": "homer",
+    "invokedAt": "2023-02-02T22:36:37.900Z"
   }
 ]
