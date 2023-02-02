@@ -670,5 +670,13 @@
     "username": "angryelephant946",
     "password": "bullfrog",
     "invokedAt": "2023-02-02T15:39:50.041Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Côté",
+    "email": "louis.cote@example.com",
+    "username": "lazymouse217",
+    "password": "nopass",
+    "invokedAt": "2023-02-02T15:45:37.173Z"
   }
 ]
