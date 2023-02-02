@@ -646,5 +646,13 @@
     "username": "greenpeacock805",
     "password": "circle",
     "invokedAt": "2023-02-02T15:09:14.598Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Graham",
+    "email": "terry.graham@example.com",
+    "username": "happydog741",
+    "password": "phillies",
+    "invokedAt": "2023-02-02T15:24:58.000Z"
   }
 ]
