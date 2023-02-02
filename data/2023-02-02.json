@@ -678,5 +678,13 @@
     "username": "lazymouse217",
     "password": "nopass",
     "invokedAt": "2023-02-02T15:45:37.173Z"
+  },
+  {
+    "firstName": "Nair",
+    "lastName": "Freitas",
+    "email": "nair.freitas@example.com",
+    "username": "beautifulbutterfly726",
+    "password": "admin",
+    "invokedAt": "2023-02-02T15:51:38.253Z"
   }
 ]
