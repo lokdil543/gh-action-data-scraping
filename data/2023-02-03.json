@@ -718,5 +718,13 @@
     "username": "blackfish494",
     "password": "score",
     "invokedAt": "2023-02-03T16:38:40.720Z"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Van 't Veen",
+    "email": "damian.van'tveen@example.com",
+    "username": "smallmouse435",
+    "password": "5150",
+    "invokedAt": "2023-02-03T16:49:40.725Z"
   }
 ]
