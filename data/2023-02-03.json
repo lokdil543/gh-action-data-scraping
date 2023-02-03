@@ -598,5 +598,13 @@
     "username": "yellowgorilla124",
     "password": "mykids",
     "invokedAt": "2023-02-03T14:21:38.320Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Hughes",
+    "email": "max.hughes@example.com",
+    "username": "purpleduck747",
+    "password": "alley",
+    "invokedAt": "2023-02-03T14:29:35.075Z"
   }
 ]
