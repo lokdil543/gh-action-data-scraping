@@ -366,5 +366,13 @@
     "username": "sadfrog716",
     "password": "counter",
     "invokedAt": "2023-02-03T09:36:35.073Z"
+  },
+  {
+    "firstName": "Gunar",
+    "lastName": "Winkel",
+    "email": "gunar.winkel@example.com",
+    "username": "smallfish665",
+    "password": "roofer",
+    "invokedAt": "2023-02-03T09:42:37.514Z"
   }
 ]
