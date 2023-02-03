@@ -358,5 +358,13 @@
     "username": "angrycat317",
     "password": "121212",
     "invokedAt": "2023-02-03T09:30:15.527Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Heikkinen",
+    "email": "eetu.heikkinen@example.com",
+    "username": "sadfrog716",
+    "password": "counter",
+    "invokedAt": "2023-02-03T09:36:35.073Z"
   }
 ]
