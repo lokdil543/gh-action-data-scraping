@@ -526,5 +526,13 @@
     "username": "redrabbit598",
     "password": "danzig",
     "invokedAt": "2023-02-03T12:28:14.788Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Hubert",
+    "email": "guillaume.hubert@example.com",
+    "username": "smalldog918",
+    "password": "helpme",
+    "invokedAt": "2023-02-03T12:54:36.193Z"
   }
 ]
