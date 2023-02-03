@@ -78,5 +78,13 @@
     "username": "happygoose388",
     "password": "remote",
     "invokedAt": "2023-02-03T04:14:10.551Z"
+  },
+  {
+    "firstName": "Bjørnar",
+    "lastName": "Aske",
+    "email": "bjornar.aske@example.com",
+    "username": "redmeercat875",
+    "password": "tundra",
+    "invokedAt": "2023-02-03T04:31:32.751Z"
   }
 ]
