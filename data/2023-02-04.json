@@ -334,5 +334,13 @@
     "username": "greenwolf215",
     "password": "vamp",
     "invokedAt": "2023-02-04T08:17:18.944Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Roussel",
+    "email": "eduardo.roussel@example.com",
+    "username": "bigkoala465",
+    "password": "attack",
+    "invokedAt": "2023-02-04T08:30:54.576Z"
   }
 ]
