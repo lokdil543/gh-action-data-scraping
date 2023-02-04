@@ -966,5 +966,13 @@
     "username": "silverwolf594",
     "password": "cubs",
     "invokedAt": "2023-02-04T19:30:01.332Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Reed",
+    "email": "don.reed@example.com",
+    "username": "crazycat605",
+    "password": "guess",
+    "invokedAt": "2023-02-04T19:35:54.288Z"
   }
 ]
