@@ -214,5 +214,13 @@
     "username": "lazyswan312",
     "password": "20002000",
     "invokedAt": "2023-02-04T06:14:30.798Z"
+  },
+  {
+    "firstName": "Miško",
+    "lastName": "Ninković",
+    "email": "misko.ninkovic@example.com",
+    "username": "silverostrich396",
+    "password": "sleepy",
+    "invokedAt": "2023-02-04T06:29:44.107Z"
   }
 ]
