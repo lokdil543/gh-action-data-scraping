@@ -478,5 +478,13 @@
     "username": "biglion659",
     "password": "dilbert",
     "invokedAt": "2023-02-04T10:43:00.196Z"
+  },
+  {
+    "firstName": "Željko",
+    "lastName": "Mitrović",
+    "email": "zeljko.mitrovic@example.com",
+    "username": "greenpanda176",
+    "password": "load",
+    "invokedAt": "2023-02-04T10:48:56.429Z"
   }
 ]
