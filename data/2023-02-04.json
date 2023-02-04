@@ -470,5 +470,13 @@
     "username": "bigkoala109",
     "password": "beatles",
     "invokedAt": "2023-02-04T10:36:59.978Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Koç",
+    "email": "omur.koc@example.com",
+    "username": "biglion659",
+    "password": "dilbert",
+    "invokedAt": "2023-02-04T10:43:00.196Z"
   }
 ]
