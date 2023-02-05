@@ -366,5 +366,13 @@
     "username": "bluefish276",
     "password": "nate",
     "invokedAt": "2023-02-05T09:11:53.922Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Fahri",
+    "email": "ali.fahri@example.com",
+    "username": "yellowtiger402",
+    "password": "tinman",
+    "invokedAt": "2023-02-05T09:22:42.107Z"
   }
 ]
