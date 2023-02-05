@@ -286,5 +286,13 @@
     "username": "bluewolf833",
     "password": "biology",
     "invokedAt": "2023-02-05T07:43:12.971Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Ross",
+    "email": "leo.ross@example.com",
+    "username": "brownelephant344",
+    "password": "groups",
+    "invokedAt": "2023-02-05T07:49:07.684Z"
   }
 ]
