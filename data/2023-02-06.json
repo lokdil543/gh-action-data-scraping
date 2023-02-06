@@ -742,5 +742,13 @@
     "username": "heavybear279",
     "password": "labtec",
     "invokedAt": "2023-02-06T17:05:20.728Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Li",
+    "email": "lucy.li@example.com",
+    "username": "bluegoose936",
+    "password": "slugger",
+    "invokedAt": "2023-02-06T17:19:56.643Z"
   }
 ]
