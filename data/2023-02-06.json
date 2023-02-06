@@ -630,5 +630,13 @@
     "username": "whitefrog170",
     "password": "sprout",
     "invokedAt": "2023-02-06T14:48:46.984Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Simeonović",
+    "email": "marko.simeonovic@example.com",
+    "username": "redkoala440",
+    "password": "xanadu",
+    "invokedAt": "2023-02-06T14:54:47.026Z"
   }
 ]
