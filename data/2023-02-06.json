@@ -190,5 +190,13 @@
     "username": "whitewolf215",
     "password": "walmart",
     "invokedAt": "2023-02-06T05:53:28.477Z"
+  },
+  {
+    "firstName": "Vicente",
+    "lastName": "Carmona",
+    "email": "vicente.carmona@example.com",
+    "username": "happydog568",
+    "password": "sprinter",
+    "invokedAt": "2023-02-06T05:59:18.010Z"
   }
 ]
