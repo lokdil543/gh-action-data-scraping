@@ -606,5 +606,13 @@
     "username": "silvermouse364",
     "password": "qwert",
     "invokedAt": "2023-02-06T14:30:31.695Z"
+  },
+  {
+    "firstName": "Armand",
+    "lastName": "Giraud",
+    "email": "armand.giraud@example.com",
+    "username": "silversnake574",
+    "password": "newbie",
+    "invokedAt": "2023-02-06T14:36:37.565Z"
   }
 ]
