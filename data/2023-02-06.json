@@ -286,5 +286,13 @@
     "username": "silverpanda969",
     "password": "bear",
     "invokedAt": "2023-02-06T07:43:58.325Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Chan",
+    "email": "xavier.chan@example.com",
+    "username": "blackkoala240",
+    "password": "onetime",
+    "invokedAt": "2023-02-06T07:49:55.245Z"
   }
 ]
