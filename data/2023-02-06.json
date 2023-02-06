@@ -1142,5 +1142,13 @@
     "username": "organicdog221",
     "password": "street",
     "invokedAt": "2023-02-06T23:50:33.144Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Kantola",
+    "email": "emil.kantola@example.com",
+    "username": "blackbear241",
+    "password": "chocolat",
+    "invokedAt": "2023-02-06T23:56:24.426Z"
   }
 ]
