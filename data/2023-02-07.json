@@ -990,5 +990,13 @@
     "username": "orangetiger113",
     "password": "bogart",
     "invokedAt": "2023-02-07T21:23:38.171Z"
+  },
+  {
+    "firstName": "Roeland",
+    "lastName": "Mesman",
+    "email": "roeland.mesman@example.com",
+    "username": "lazyduck755",
+    "password": "video",
+    "invokedAt": "2023-02-07T21:29:31.325Z"
   }
 ]
