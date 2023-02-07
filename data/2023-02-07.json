@@ -246,5 +246,13 @@
     "username": "redfish600",
     "password": "metal",
     "invokedAt": "2023-02-07T06:59:43.360Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Shaw",
+    "email": "perry.shaw@example.com",
+    "username": "redgoose909",
+    "password": "shonuf",
+    "invokedAt": "2023-02-07T07:13:22.278Z"
   }
 ]
