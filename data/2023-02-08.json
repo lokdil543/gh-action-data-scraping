@@ -366,5 +366,13 @@
     "username": "ticklishbear956",
     "password": "bubbles",
     "invokedAt": "2023-02-08T09:47:12.263Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Sørensen",
+    "email": "adam.sorensen@example.com",
+    "username": "sadmeercat125",
+    "password": "larson",
+    "invokedAt": "2023-02-08T09:53:19.516Z"
   }
 ]
