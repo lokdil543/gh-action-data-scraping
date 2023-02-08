@@ -622,5 +622,13 @@
     "username": "browntiger984",
     "password": "teen",
     "invokedAt": "2023-02-08T15:10:46.088Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Bertrand",
+    "email": "lisa.bertrand@example.com",
+    "username": "smallfrog330",
+    "password": "frenchy",
+    "invokedAt": "2023-02-08T15:26:27.016Z"
   }
 ]
