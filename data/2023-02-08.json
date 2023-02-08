@@ -334,5 +334,13 @@
     "username": "orangetiger785",
     "password": "matrix1",
     "invokedAt": "2023-02-08T09:08:17.932Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Wright",
+    "email": "ethan.wright@example.com",
+    "username": "lazyfish256",
+    "password": "banane",
+    "invokedAt": "2023-02-08T09:24:59.345Z"
   }
 ]
