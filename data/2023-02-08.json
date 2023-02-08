@@ -486,5 +486,13 @@
     "username": "bluebird987",
     "password": "yankees1",
     "invokedAt": "2023-02-08T11:54:41.383Z"
+  },
+  {
+    "firstName": "Lana",
+    "lastName": "Garnier",
+    "email": "lana.garnier@example.com",
+    "username": "bluegorilla147",
+    "password": "hand",
+    "invokedAt": "2023-02-08T12:00:27.840Z"
   }
 ]
