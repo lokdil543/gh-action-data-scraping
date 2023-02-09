@@ -718,5 +718,13 @@
     "username": "whitepanda983",
     "password": "stefan",
     "invokedAt": "2023-02-09T17:34:20.340Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Maijala",
+    "email": "oliver.maijala@example.com",
+    "username": "blackleopard256",
+    "password": "xfiles",
+    "invokedAt": "2023-02-09T17:40:09.415Z"
   }
 ]
