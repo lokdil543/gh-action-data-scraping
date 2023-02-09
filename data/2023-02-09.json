@@ -350,5 +350,13 @@
     "username": "redostrich417",
     "password": "wowwow",
     "invokedAt": "2023-02-09T09:34:19.769Z"
+  },
+  {
+    "firstName": "Maxim",
+    "lastName": "Ulriksen",
+    "email": "maxim.ulriksen@example.com",
+    "username": "heavyduck249",
+    "password": "pokemon",
+    "invokedAt": "2023-02-09T09:40:09.961Z"
   }
 ]
