@@ -462,5 +462,13 @@
     "username": "blueswan111",
     "password": "halifax",
     "invokedAt": "2023-02-10T11:42:15.412Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Autio",
+    "email": "valtteri.autio@example.com",
+    "username": "greencat957",
+    "password": "bond",
+    "invokedAt": "2023-02-10T11:48:09.164Z"
   }
 ]
