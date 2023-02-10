@@ -926,5 +926,13 @@
     "username": "heavypeacock901",
     "password": "absolutely",
     "invokedAt": "2023-02-10T21:07:07.862Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Cox",
+    "email": "ruben.cox@example.com",
+    "username": "angryrabbit939",
+    "password": "insertion",
+    "invokedAt": "2023-02-10T21:20:31.961Z"
   }
 ]
