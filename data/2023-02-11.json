@@ -502,5 +502,13 @@
     "username": "heavysnake685",
     "password": "compaq1",
     "invokedAt": "2023-02-11T11:25:23.257Z"
+  },
+  {
+    "firstName": "Hilla",
+    "lastName": "Peltola",
+    "email": "hilla.peltola@example.com",
+    "username": "silversnake773",
+    "password": "boat",
+    "invokedAt": "2023-02-11T11:31:35.023Z"
   }
 ]
