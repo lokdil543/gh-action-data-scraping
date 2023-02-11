@@ -462,5 +462,13 @@
     "username": "tinyfrog969",
     "password": "clarinet",
     "invokedAt": "2023-02-11T10:46:56.194Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Jørgensen",
+    "email": "storm.jorgensen@example.com",
+    "username": "lazybird141",
+    "password": "looker",
+    "invokedAt": "2023-02-11T10:52:53.940Z"
   }
 ]
