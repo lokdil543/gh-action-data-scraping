@@ -214,5 +214,13 @@
     "username": "happycat242",
     "password": "plane",
     "invokedAt": "2023-02-11T06:36:11.830Z"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Pierce",
+    "email": "karen.pierce@example.com",
+    "username": "goldenbird793",
+    "password": "cooter",
+    "invokedAt": "2023-02-11T06:43:04.865Z"
   }
 ]
