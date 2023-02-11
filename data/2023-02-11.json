@@ -342,5 +342,13 @@
     "username": "happydog784",
     "password": "teenie",
     "invokedAt": "2023-02-11T08:46:43.535Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Kulaksızoğlu",
+    "email": "gul.kulaksizoglu@example.com",
+    "username": "brownmouse924",
+    "password": "home",
+    "invokedAt": "2023-02-11T08:52:35.316Z"
   }
 ]
