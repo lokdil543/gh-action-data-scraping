@@ -726,5 +726,13 @@
     "username": "greenfrog711",
     "password": "maria",
     "invokedAt": "2023-02-12T15:53:51.677Z"
+  },
+  {
+    "firstName": "Borka",
+    "lastName": "Bajević",
+    "email": "borka.bajevic@example.com",
+    "username": "bigwolf922",
+    "password": "starship",
+    "invokedAt": "2023-02-12T15:59:42.148Z"
   }
 ]
