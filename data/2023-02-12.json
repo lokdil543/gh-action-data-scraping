@@ -374,5 +374,13 @@
     "username": "crazykoala280",
     "password": "soccer",
     "invokedAt": "2023-02-12T09:29:31.288Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Møller",
+    "email": "daniel.moller@example.com",
+    "username": "heavybear485",
+    "password": "123456789",
+    "invokedAt": "2023-02-12T09:35:47.968Z"
   }
 ]
