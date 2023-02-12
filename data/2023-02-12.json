@@ -118,5 +118,13 @@
     "username": "bluebear883",
     "password": "scuba",
     "invokedAt": "2023-02-12T04:53:39.783Z"
+  },
+  {
+    "firstName": "Miranda",
+    "lastName": "Meyer",
+    "email": "miranda.meyer@example.com",
+    "username": "brownfrog406",
+    "password": "frosch",
+    "invokedAt": "2023-02-12T04:59:35.174Z"
   }
 ]
