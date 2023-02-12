@@ -310,5 +310,13 @@
     "username": "purplegorilla742",
     "password": "missouri",
     "invokedAt": "2023-02-12T08:19:36.295Z"
+  },
+  {
+    "firstName": "Angelina",
+    "lastName": "Bakić",
+    "email": "angelina.bakic@example.com",
+    "username": "blackgorilla603",
+    "password": "bilbo",
+    "invokedAt": "2023-02-12T08:32:31.241Z"
   }
 ]
