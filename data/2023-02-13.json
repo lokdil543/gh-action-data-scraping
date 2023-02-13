@@ -934,5 +934,13 @@
     "username": "yellowrabbit206",
     "password": "viper",
     "invokedAt": "2023-02-13T21:29:07.054Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Chapman",
+    "email": "dave.chapman@example.com",
+    "username": "whitefish512",
+    "password": "wrench",
+    "invokedAt": "2023-02-13T21:35:50.413Z"
   }
 ]
