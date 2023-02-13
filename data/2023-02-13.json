@@ -326,5 +326,13 @@
     "username": "angrydog461",
     "password": "hunting",
     "invokedAt": "2023-02-13T09:10:49.584Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Ninković",
+    "email": "marko.ninkovic@example.com",
+    "username": "angrytiger352",
+    "password": "7734",
+    "invokedAt": "2023-02-13T09:25:57.169Z"
   }
 ]
