@@ -294,5 +294,13 @@
     "username": "biggoose322",
     "password": "cyber",
     "invokedAt": "2023-02-13T08:35:30.101Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Wang",
+    "email": "ellie.wang@example.com",
+    "username": "ticklishgorilla312",
+    "password": "field",
+    "invokedAt": "2023-02-13T08:45:09.698Z"
   }
 ]
