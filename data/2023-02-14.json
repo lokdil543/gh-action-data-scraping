@@ -318,5 +318,13 @@
     "username": "blacktiger685",
     "password": "idontknow",
     "invokedAt": "2023-02-14T09:00:13.057Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Heikkila",
+    "email": "juho.heikkila@example.com",
+    "username": "crazydog300",
+    "password": "cruise",
+    "invokedAt": "2023-02-14T09:16:35.043Z"
   }
 ]
