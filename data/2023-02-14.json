@@ -326,5 +326,13 @@
     "username": "crazydog300",
     "password": "cruise",
     "invokedAt": "2023-02-14T09:16:35.043Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Petersen",
+    "email": "jeppe.petersen@example.com",
+    "username": "tinybird847",
+    "password": "video1",
+    "invokedAt": "2023-02-14T09:28:30.389Z"
   }
 ]
