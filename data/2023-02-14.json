@@ -534,5 +534,13 @@
     "username": "orangetiger332",
     "password": "timeout",
     "invokedAt": "2023-02-14T13:53:18.041Z"
+  },
+  {
+    "firstName": "Žarko",
+    "lastName": "Spajić",
+    "email": "zarko.spajic@example.com",
+    "username": "happyelephant193",
+    "password": "amsterda",
+    "invokedAt": "2023-02-14T13:59:10.303Z"
   }
 ]
