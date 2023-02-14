@@ -334,5 +334,13 @@
     "username": "tinybird847",
     "password": "video1",
     "invokedAt": "2023-02-14T09:28:30.389Z"
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Renard",
+    "email": "matteo.renard@example.com",
+    "username": "heavybird420",
+    "password": "barbie",
+    "invokedAt": "2023-02-14T09:35:55.222Z"
   }
 ]
