@@ -406,5 +406,13 @@
     "username": "heavyfish794",
     "password": "open",
     "invokedAt": "2023-02-14T10:48:04.123Z"
+  },
+  {
+    "firstName": "Miroslav",
+    "lastName": "Lishchuk",
+    "email": "miroslav.lishchuk@example.com",
+    "username": "purplegoose691",
+    "password": "senna",
+    "invokedAt": "2023-02-14T10:54:00.813Z"
   }
 ]
