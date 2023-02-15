@@ -422,5 +422,13 @@
     "username": "sadostrich401",
     "password": "batman",
     "invokedAt": "2023-02-15T10:51:20.164Z"
+  },
+  {
+    "firstName": "Eddie",
+    "lastName": "Dickmann",
+    "email": "eddie.dickmann@example.com",
+    "username": "sadlion553",
+    "password": "blue22",
+    "invokedAt": "2023-02-15T10:57:21.883Z"
   }
 ]
