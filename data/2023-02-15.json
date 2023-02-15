@@ -638,5 +638,13 @@
     "username": "blackelephant510",
     "password": "bucket",
     "invokedAt": "2023-02-15T15:37:52.933Z"
+  },
+  {
+    "firstName": "Clemens",
+    "lastName": "Le Gall",
+    "email": "clemens.legall@example.com",
+    "username": "happypanda330",
+    "password": "fruity",
+    "invokedAt": "2023-02-15T15:44:17.746Z"
   }
 ]
