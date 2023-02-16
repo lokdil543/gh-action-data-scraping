@@ -526,5 +526,13 @@
     "username": "blackcat658",
     "password": "condor",
     "invokedAt": "2023-02-16T13:37:48.387Z"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Ochs",
+    "email": "abdul.ochs@example.com",
+    "username": "silversnake979",
+    "password": "hiphop",
+    "invokedAt": "2023-02-16T13:45:49.258Z"
   }
 ]
