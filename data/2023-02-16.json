@@ -286,5 +286,13 @@
     "username": "organicfish406",
     "password": "stuff",
     "invokedAt": "2023-02-16T08:14:06.011Z"
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "Delgado",
+    "email": "javier.delgado@example.com",
+    "username": "smallcat984",
+    "password": "celica",
+    "invokedAt": "2023-02-16T08:32:15.283Z"
   }
 ]
