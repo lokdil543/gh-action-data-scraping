@@ -382,5 +382,13 @@
     "username": "redgoose346",
     "password": "surgery",
     "invokedAt": "2023-02-16T09:59:04.788Z"
+  },
+  {
+    "firstName": "Ann",
+    "lastName": "Martinez",
+    "email": "ann.martinez@example.com",
+    "username": "beautifulgoose370",
+    "password": "noodles",
+    "invokedAt": "2023-02-16T10:15:06.220Z"
   }
 ]
