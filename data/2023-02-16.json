@@ -486,5 +486,13 @@
     "username": "happyostrich430",
     "password": "basketball",
     "invokedAt": "2023-02-16T11:51:51.435Z"
+  },
+  {
+    "firstName": "Vukašin",
+    "lastName": "Ognjanović",
+    "email": "vukasin.ognjanovic@example.com",
+    "username": "ticklishleopard312",
+    "password": "gspot",
+    "invokedAt": "2023-02-16T11:57:57.122Z"
   }
 ]
