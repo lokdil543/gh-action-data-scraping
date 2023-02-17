@@ -622,5 +622,13 @@
     "username": "redladybug234",
     "password": "rrpass1",
     "invokedAt": "2023-02-17T15:03:11.332Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Durmaz",
+    "email": "fatih.durmaz@example.com",
+    "username": "greenpanda493",
+    "password": "diamond",
+    "invokedAt": "2023-02-17T15:22:10.919Z"
   }
 ]
