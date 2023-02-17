@@ -846,5 +846,13 @@
     "username": "purplesnake402",
     "password": "maxell",
     "invokedAt": "2023-02-17T19:35:32.915Z"
+  },
+  {
+    "firstName": "Hans-Detlef",
+    "lastName": "Brede",
+    "email": "hans-detlef.brede@example.com",
+    "username": "bigdog750",
+    "password": "frog",
+    "invokedAt": "2023-02-17T19:41:25.634Z"
   }
 ]
