@@ -718,5 +718,13 @@
     "username": "goldenzebra473",
     "password": "huskers",
     "invokedAt": "2023-02-17T17:18:44.227Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Hamalainen",
+    "email": "niklas.hamalainen@example.com",
+    "username": "bigzebra995",
+    "password": "clint",
+    "invokedAt": "2023-02-17T17:28:36.298Z"
   }
 ]
