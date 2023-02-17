@@ -350,5 +350,13 @@
     "username": "beautifuldog125",
     "password": "dogwood",
     "invokedAt": "2023-02-17T09:36:25.053Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Berger",
+    "email": "nael.berger@example.com",
+    "username": "lazyduck438",
+    "password": "umpire",
+    "invokedAt": "2023-02-17T09:42:35.379Z"
   }
 ]
