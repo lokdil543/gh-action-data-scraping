@@ -758,5 +758,13 @@
     "username": "crazyswan581",
     "password": "noway",
     "invokedAt": "2023-02-17T17:53:16.903Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Pilz",
+    "email": "alberto.pilz@example.com",
+    "username": "bigbird100",
+    "password": "packer",
+    "invokedAt": "2023-02-17T17:59:25.801Z"
   }
 ]
