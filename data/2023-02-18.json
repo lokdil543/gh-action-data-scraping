@@ -622,5 +622,13 @@
     "username": "organicbutterfly980",
     "password": "friendly",
     "invokedAt": "2023-02-18T15:08:58.217Z"
+  },
+  {
+    "firstName": "Judy",
+    "lastName": "Wheeler",
+    "email": "judy.wheeler@example.com",
+    "username": "happybird958",
+    "password": "f00tball",
+    "invokedAt": "2023-02-18T15:23:23.222Z"
   }
 ]
