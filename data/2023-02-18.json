@@ -726,5 +726,13 @@
     "username": "smallbutterfly985",
     "password": "bigman",
     "invokedAt": "2023-02-18T17:12:40.473Z"
+  },
+  {
+    "firstName": "Léa",
+    "lastName": "Berger",
+    "email": "lea.berger@example.com",
+    "username": "smallelephant560",
+    "password": "vader1",
+    "invokedAt": "2023-02-18T17:25:14.005Z"
   }
 ]
