@@ -742,5 +742,13 @@
     "username": "organicwolf900",
     "password": "garfield",
     "invokedAt": "2023-02-18T17:31:10.608Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Madsen",
+    "email": "magnus.madsen@example.com",
+    "username": "bluefrog724",
+    "password": "102030",
+    "invokedAt": "2023-02-18T17:37:10.371Z"
   }
 ]
