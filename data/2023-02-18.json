@@ -830,5 +830,13 @@
     "username": "smallbear495",
     "password": "aztnm",
     "invokedAt": "2023-02-18T18:59:23.250Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Høvik",
+    "email": "otto.hovik@example.com",
+    "username": "orangerabbit281",
+    "password": "creative",
+    "invokedAt": "2023-02-18T19:10:33.749Z"
   }
 ]
