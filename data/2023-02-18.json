@@ -942,5 +942,13 @@
     "username": "goldendog679",
     "password": "20012001",
     "invokedAt": "2023-02-18T20:45:21.458Z"
+  },
+  {
+    "firstName": "Valentín",
+    "lastName": "Ortega",
+    "email": "valentin.ortega@example.com",
+    "username": "happypanda581",
+    "password": "engine",
+    "invokedAt": "2023-02-18T20:51:22.974Z"
   }
 ]
