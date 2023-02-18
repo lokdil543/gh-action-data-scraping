@@ -558,5 +558,13 @@
     "username": "reddog244",
     "password": "squirrel",
     "invokedAt": "2023-02-18T14:03:44.921Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Wilson",
+    "email": "matthew.wilson@example.com",
+    "username": "crazygorilla977",
+    "password": "caliente",
+    "invokedAt": "2023-02-18T14:18:20.152Z"
   }
 ]
