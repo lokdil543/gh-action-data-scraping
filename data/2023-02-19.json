@@ -542,5 +542,13 @@
     "username": "angrypanda520",
     "password": "transit",
     "invokedAt": "2023-02-19T12:46:22.376Z"
+  },
+  {
+    "firstName": "Wigbert",
+    "lastName": "Wirth",
+    "email": "wigbert.wirth@example.com",
+    "username": "purpleelephant482",
+    "password": "hunt",
+    "invokedAt": "2023-02-19T13:03:36.106Z"
   }
 ]
