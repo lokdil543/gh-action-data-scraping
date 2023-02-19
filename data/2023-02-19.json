@@ -374,5 +374,13 @@
     "username": "brownostrich612",
     "password": "twiggy",
     "invokedAt": "2023-02-19T09:35:46.151Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Woods",
+    "email": "brian.woods@example.com",
+    "username": "greentiger766",
+    "password": "hilton",
+    "invokedAt": "2023-02-19T09:41:36.709Z"
   }
 ]
