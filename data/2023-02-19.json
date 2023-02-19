@@ -854,5 +854,13 @@
     "username": "smallpeacock449",
     "password": "gretzky",
     "invokedAt": "2023-02-19T18:42:05.944Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Sanders",
+    "email": "scott.sanders@example.com",
+    "username": "bluelion698",
+    "password": "sigma",
+    "invokedAt": "2023-02-19T18:47:57.777Z"
   }
 ]
