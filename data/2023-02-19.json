@@ -358,5 +358,13 @@
     "username": "silverrabbit992",
     "password": "cancel",
     "invokedAt": "2023-02-19T09:23:30.285Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Christensen",
+    "email": "tobias.christensen@example.com",
+    "username": "sadduck710",
+    "password": "demons",
+    "invokedAt": "2023-02-19T09:29:17.600Z"
   }
 ]
