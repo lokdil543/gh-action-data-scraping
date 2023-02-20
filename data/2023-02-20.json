@@ -750,5 +750,13 @@
     "username": "happypanda992",
     "password": "shan",
     "invokedAt": "2023-02-20T18:00:26.130Z"
+  },
+  {
+    "firstName": "Estefanía",
+    "lastName": "Ocampo",
+    "email": "estefania.ocampo@example.com",
+    "username": "lazyzebra987",
+    "password": "sprinter",
+    "invokedAt": "2023-02-20T18:20:16.431Z"
   }
 ]
