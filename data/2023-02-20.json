@@ -662,5 +662,13 @@
     "username": "goldenrabbit764",
     "password": "123456a",
     "invokedAt": "2023-02-20T16:19:28.222Z"
+  },
+  {
+    "firstName": "Brechtje",
+    "lastName": "Van Staalduinen",
+    "email": "brechtje.vanstaalduinen@example.com",
+    "username": "bluebear890",
+    "password": "defender",
+    "invokedAt": "2023-02-20T16:40:42.023Z"
   }
 ]
