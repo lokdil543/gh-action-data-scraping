@@ -702,5 +702,13 @@
     "username": "brownelephant361",
     "password": "benton",
     "invokedAt": "2023-02-20T17:23:58.198Z"
+  },
+  {
+    "firstName": "Radenko",
+    "lastName": "Popović",
+    "email": "radenko.popovic@example.com",
+    "username": "goldenduck469",
+    "password": "foster",
+    "invokedAt": "2023-02-20T17:30:13.220Z"
   }
 ]
