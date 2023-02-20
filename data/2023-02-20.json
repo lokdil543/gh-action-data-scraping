@@ -110,5 +110,13 @@
     "username": "greenmouse969",
     "password": "doit",
     "invokedAt": "2023-02-20T04:58:56.243Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Griffin",
+    "email": "mario.griffin@example.com",
+    "username": "ticklishmeercat654",
+    "password": "clouds",
+    "invokedAt": "2023-02-20T05:12:41.124Z"
   }
 ]
