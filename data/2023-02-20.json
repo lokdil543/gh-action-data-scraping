@@ -166,5 +166,13 @@
     "username": "redfrog474",
     "password": "highland",
     "invokedAt": "2023-02-20T05:56:39.431Z"
+  },
+  {
+    "firstName": "Joran",
+    "lastName": "Van Knippenberg",
+    "email": "joran.vanknippenberg@example.com",
+    "username": "blackgorilla308",
+    "password": "topper",
+    "invokedAt": "2023-02-20T06:12:09.733Z"
   }
 ]
