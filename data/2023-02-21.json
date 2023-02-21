@@ -470,5 +470,13 @@
     "username": "whiteswan928",
     "password": "hotmail",
     "invokedAt": "2023-02-21T11:39:02.189Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Møller",
+    "email": "noah.moller@example.com",
+    "username": "redbear718",
+    "password": "1031",
+    "invokedAt": "2023-02-21T11:44:56.590Z"
   }
 ]
