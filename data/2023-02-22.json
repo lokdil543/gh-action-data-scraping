@@ -334,5 +334,13 @@
     "username": "whitepeacock373",
     "password": "reds",
     "invokedAt": "2023-02-22T09:26:25.989Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Brewer",
+    "email": "ken.brewer@example.com",
+    "username": "bluepeacock686",
+    "password": "colt",
+    "invokedAt": "2023-02-22T09:33:43.575Z"
   }
 ]
