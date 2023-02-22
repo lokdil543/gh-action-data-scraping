@@ -358,5 +358,13 @@
     "username": "crazygoose714",
     "password": "redline",
     "invokedAt": "2023-02-22T09:46:22.366Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Hansen",
+    "email": "julie.hansen@example.com",
+    "username": "lazyfrog971",
+    "password": "hippo",
+    "invokedAt": "2023-02-22T09:52:24.621Z"
   }
 ]
