@@ -990,5 +990,13 @@
     "username": "greencat841",
     "password": "fulham",
     "invokedAt": "2023-02-22T22:21:14.406Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Candan",
+    "email": "onal.candan@example.com",
+    "username": "smallwolf799",
+    "password": "banana",
+    "invokedAt": "2023-02-22T22:30:35.241Z"
   }
 ]
