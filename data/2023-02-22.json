@@ -782,5 +782,13 @@
     "username": "tinycat923",
     "password": "rotten",
     "invokedAt": "2023-02-22T18:52:56.243Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Tucker",
+    "email": "ralph.tucker@example.com",
+    "username": "bigladybug836",
+    "password": "superior",
+    "invokedAt": "2023-02-22T18:58:31.610Z"
   }
 ]
