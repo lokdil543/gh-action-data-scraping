@@ -822,5 +822,13 @@
     "username": "bigfish191",
     "password": "lister",
     "invokedAt": "2023-02-22T19:30:40.964Z"
+  },
+  {
+    "firstName": "Ingeburg",
+    "lastName": "Schroeder",
+    "email": "ingeburg.schroeder@example.com",
+    "username": "crazymouse894",
+    "password": "tabitha",
+    "invokedAt": "2023-02-22T19:36:47.764Z"
   }
 ]
