@@ -702,5 +702,13 @@
     "username": "biglion220",
     "password": "istanbul",
     "invokedAt": "2023-02-22T17:22:20.231Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Tekelioğlu",
+    "email": "mehmet.tekelioglu@example.com",
+    "username": "angrybear192",
+    "password": "5555555",
+    "invokedAt": "2023-02-22T17:31:01.369Z"
   }
 ]
