@@ -470,5 +470,13 @@
     "username": "redduck223",
     "password": "tripod",
     "invokedAt": "2023-02-23T11:34:19.113Z"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Richardson",
+    "email": "nelson.richardson@example.com",
+    "username": "bigbird231",
+    "password": "seymour",
+    "invokedAt": "2023-02-23T11:40:10.181Z"
   }
 ]
