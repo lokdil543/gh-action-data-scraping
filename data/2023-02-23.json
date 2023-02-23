@@ -710,5 +710,13 @@
     "username": "crazydog450",
     "password": "mets",
     "invokedAt": "2023-02-23T17:27:46.032Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Griffin",
+    "email": "frank.griffin@example.com",
+    "username": "purpletiger184",
+    "password": "tyler",
+    "invokedAt": "2023-02-23T17:36:02.243Z"
   }
 ]
