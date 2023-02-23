@@ -478,5 +478,13 @@
     "username": "bigbird231",
     "password": "seymour",
     "invokedAt": "2023-02-23T11:40:10.181Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Rojas",
+    "email": "eduardo.rojas@example.com",
+    "username": "beautifuldog379",
+    "password": "apollo",
+    "invokedAt": "2023-02-23T11:46:15.453Z"
   }
 ]
