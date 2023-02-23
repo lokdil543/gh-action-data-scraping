@@ -918,5 +918,13 @@
     "username": "sadostrich169",
     "password": "band",
     "invokedAt": "2023-02-23T21:09:53.538Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Sánchez",
+    "email": "alex.sanchez@example.com",
+    "username": "beautifulmouse271",
+    "password": "jetta",
+    "invokedAt": "2023-02-23T21:22:32.578Z"
   }
 ]
