@@ -966,5 +966,13 @@
     "username": "angrybird450",
     "password": "grapes",
     "invokedAt": "2023-02-23T21:53:32.381Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Lefevre",
+    "email": "guillaume.lefevre@example.com",
+    "username": "beautifulgorilla799",
+    "password": "shower",
+    "invokedAt": "2023-02-23T21:59:18.237Z"
   }
 ]
