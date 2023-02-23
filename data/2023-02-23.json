@@ -350,5 +350,13 @@
     "username": "orangebear355",
     "password": "citadel",
     "invokedAt": "2023-02-23T09:28:02.070Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "da Rosa",
+    "email": "laura.darosa@example.com",
+    "username": "orangebird626",
+    "password": "safety",
+    "invokedAt": "2023-02-23T09:34:49.676Z"
   }
 ]
