@@ -1046,5 +1046,13 @@
     "username": "tinylion200",
     "password": "robocop",
     "invokedAt": "2023-02-23T23:29:00.594Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Barrett",
+    "email": "kelly.barrett@example.com",
+    "username": "bluefrog342",
+    "password": "metro",
+    "invokedAt": "2023-02-23T23:35:57.551Z"
   }
 ]
