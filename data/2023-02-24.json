@@ -190,5 +190,13 @@
     "username": "goldenleopard349",
     "password": "bigmac",
     "invokedAt": "2023-02-24T06:42:06.975Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Stojanović",
+    "email": "petko.stojanovic@example.com",
+    "username": "reddog701",
+    "password": "checkers",
+    "invokedAt": "2023-02-24T06:48:42.678Z"
   }
 ]
