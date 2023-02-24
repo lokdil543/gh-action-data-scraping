@@ -622,5 +622,13 @@
     "username": "sadladybug751",
     "password": "sniffing",
     "invokedAt": "2023-02-24T15:25:00.125Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Nikula",
+    "email": "siiri.nikula@example.com",
+    "username": "greendog678",
+    "password": "vamp",
+    "invokedAt": "2023-02-24T15:32:06.757Z"
   }
 ]
