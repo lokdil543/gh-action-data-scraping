@@ -366,5 +366,13 @@
     "username": "goldenfrog411",
     "password": "hallowee",
     "invokedAt": "2023-02-24T09:51:19.188Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Kowalski",
+    "email": "clara.kowalski@example.com",
+    "username": "orangedog422",
+    "password": "addict",
+    "invokedAt": "2023-02-24T09:57:08.398Z"
   }
 ]
