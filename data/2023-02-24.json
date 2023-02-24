@@ -790,5 +790,13 @@
     "username": "orangeduck141",
     "password": "hawaii",
     "invokedAt": "2023-02-24T18:54:19.155Z"
+  },
+  {
+    "firstName": "Duy",
+    "lastName": "Van Kessel",
+    "email": "duy.vankessel@example.com",
+    "username": "greenrabbit517",
+    "password": "leroy",
+    "invokedAt": "2023-02-24T19:00:27.366Z"
   }
 ]
