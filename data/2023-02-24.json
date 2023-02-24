@@ -262,5 +262,13 @@
     "username": "orangefrog483",
     "password": "taylor1",
     "invokedAt": "2023-02-24T07:49:22.373Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Jones",
+    "email": "leo.jones@example.com",
+    "username": "beautifulfish122",
+    "password": "fenway",
+    "invokedAt": "2023-02-24T07:55:21.331Z"
   }
 ]
