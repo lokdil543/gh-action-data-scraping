@@ -734,5 +734,13 @@
     "username": "crazykoala135",
     "password": "656565",
     "invokedAt": "2023-02-24T17:44:58.861Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Türkdoğan",
+    "email": "davut.turkdogan@example.com",
+    "username": "silverdog390",
+    "password": "public",
+    "invokedAt": "2023-02-24T17:50:56.309Z"
   }
 ]
