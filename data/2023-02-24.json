@@ -990,5 +990,13 @@
     "username": "lazypeacock124",
     "password": "paladin",
     "invokedAt": "2023-02-24T22:11:17.717Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Wade",
+    "email": "emma.wade@example.com",
+    "username": "purplefish419",
+    "password": "caught",
+    "invokedAt": "2023-02-24T22:27:09.444Z"
   }
 ]
