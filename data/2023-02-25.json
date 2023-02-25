@@ -206,5 +206,13 @@
     "username": "redduck115",
     "password": "justin1",
     "invokedAt": "2023-02-25T06:42:51.568Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Spencer",
+    "email": "alice.spencer@example.com",
+    "username": "angrybird510",
+    "password": "groups",
+    "invokedAt": "2023-02-25T06:48:54.876Z"
   }
 ]
