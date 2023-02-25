@@ -110,5 +110,13 @@
     "username": "brownpeacock528",
     "password": "packer",
     "invokedAt": "2023-02-25T04:52:08.205Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Kulaksızoğlu",
+    "email": "gul.kulaksizoglu@example.com",
+    "username": "greengoose308",
+    "password": "alley",
+    "invokedAt": "2023-02-25T04:58:10.685Z"
   }
 ]
