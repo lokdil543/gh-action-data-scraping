@@ -646,5 +646,13 @@
     "username": "bigbear221",
     "password": "1230",
     "invokedAt": "2023-02-25T14:47:35.971Z"
+  },
+  {
+    "firstName": "Ester",
+    "lastName": "Lillebø",
+    "email": "ester.lillebo@example.com",
+    "username": "blacklion311",
+    "password": "coldplay",
+    "invokedAt": "2023-02-25T14:53:37.315Z"
   }
 ]
