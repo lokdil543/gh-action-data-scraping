@@ -910,5 +910,13 @@
     "username": "goldengoose800",
     "password": "1963",
     "invokedAt": "2023-02-26T20:01:02.573Z"
+  },
+  {
+    "firstName": "Abdullah",
+    "lastName": "Rød",
+    "email": "abdullah.rod@example.com",
+    "username": "crazygoose435",
+    "password": "windmill",
+    "invokedAt": "2023-02-26T20:17:54.308Z"
   }
 ]
