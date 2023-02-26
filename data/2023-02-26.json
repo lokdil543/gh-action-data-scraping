@@ -398,5 +398,13 @@
     "username": "goldencat208",
     "password": "trojans",
     "invokedAt": "2023-02-26T10:23:56.159Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Sanders",
+    "email": "lily.sanders@example.com",
+    "username": "whitecat634",
+    "password": "merlot",
+    "invokedAt": "2023-02-26T10:33:20.721Z"
   }
 ]
