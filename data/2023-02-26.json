@@ -998,5 +998,13 @@
     "username": "purpletiger762",
     "password": "badgers",
     "invokedAt": "2023-02-26T21:33:38.628Z"
+  },
+  {
+    "firstName": "Clyde",
+    "lastName": "Porter",
+    "email": "clyde.porter@example.com",
+    "username": "orangegoose943",
+    "password": "1010",
+    "invokedAt": "2023-02-26T21:39:33.559Z"
   }
 ]
