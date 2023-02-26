@@ -606,5 +606,13 @@
     "username": "yellowdog886",
     "password": "hyperion",
     "invokedAt": "2023-02-26T14:35:52.708Z"
+  },
+  {
+    "firstName": "Sacha",
+    "lastName": "Rodriguez",
+    "email": "sacha.rodriguez@example.com",
+    "username": "silverrabbit153",
+    "password": "chat",
+    "invokedAt": "2023-02-26T14:41:46.800Z"
   }
 ]
