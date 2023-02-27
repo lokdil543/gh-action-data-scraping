@@ -662,5 +662,13 @@
     "username": "redlion254",
     "password": "ultima",
     "invokedAt": "2023-02-27T17:00:34.448Z"
+  },
+  {
+    "firstName": "Siegbert",
+    "lastName": "Ackermann",
+    "email": "siegbert.ackermann@example.com",
+    "username": "heavyleopard322",
+    "password": "nokia",
+    "invokedAt": "2023-02-27T17:15:53.618Z"
   }
 ]
