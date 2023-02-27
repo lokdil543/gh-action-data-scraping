@@ -718,5 +718,13 @@
     "username": "smallladybug541",
     "password": "scissors",
     "invokedAt": "2023-02-27T18:00:20.990Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Russell",
+    "email": "benjamin.russell@example.com",
+    "username": "whiteleopard186",
+    "password": "logger",
+    "invokedAt": "2023-02-27T18:20:51.204Z"
   }
 ]
