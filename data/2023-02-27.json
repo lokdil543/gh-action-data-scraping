@@ -1022,5 +1022,13 @@
     "username": "tinytiger799",
     "password": "fast",
     "invokedAt": "2023-02-27T23:37:58.667Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Peterson",
+    "email": "ida.peterson@example.com",
+    "username": "crazyswan528",
+    "password": "answer",
+    "invokedAt": "2023-02-27T23:43:58.852Z"
   }
 ]
