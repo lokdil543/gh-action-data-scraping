@@ -486,5 +486,13 @@
     "username": "silverbear201",
     "password": "tang",
     "invokedAt": "2023-02-28T12:21:30.141Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Sepetçi",
+    "email": "esma.sepetci@example.com",
+    "username": "orangebird100",
+    "password": "havana",
+    "invokedAt": "2023-02-28T12:53:32.160Z"
   }
 ]
