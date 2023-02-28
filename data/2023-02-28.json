@@ -766,5 +766,13 @@
     "username": "bluecat899",
     "password": "spectre",
     "invokedAt": "2023-02-28T18:51:21.618Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Pelletier",
+    "email": "etienne.pelletier@example.com",
+    "username": "sadleopard883",
+    "password": "common",
+    "invokedAt": "2023-02-28T18:57:22.170Z"
   }
 ]
