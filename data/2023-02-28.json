@@ -726,5 +726,13 @@
     "username": "silversnake124",
     "password": "insertions",
     "invokedAt": "2023-02-28T17:54:11.806Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Williams",
+    "email": "benjamin.williams@example.com",
+    "username": "angrymouse864",
+    "password": "phantom1",
+    "invokedAt": "2023-02-28T18:00:00.720Z"
   }
 ]
