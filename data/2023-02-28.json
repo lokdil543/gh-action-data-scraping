@@ -990,5 +990,13 @@
     "username": "yellowdog591",
     "password": "panzer",
     "invokedAt": "2023-02-28T22:43:37.916Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Zhang",
+    "email": "noah.zhang@example.com",
+    "username": "greenzebra572",
+    "password": "shutup",
+    "invokedAt": "2023-02-28T22:49:35.956Z"
   }
 ]
