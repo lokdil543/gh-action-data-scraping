@@ -318,5 +318,13 @@
     "username": "yellowgorilla316",
     "password": "cabernet",
     "invokedAt": "2023-03-02T09:25:46.459Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Poulsen",
+    "email": "nanna.poulsen@example.com",
+    "username": "lazygoose314",
+    "password": "woody",
+    "invokedAt": "2023-03-02T09:32:52.323Z"
   }
 ]
