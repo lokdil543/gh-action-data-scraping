@@ -758,5 +758,13 @@
     "username": "lazyladybug434",
     "password": "xyzzy",
     "invokedAt": "2023-03-02T19:07:12.297Z"
+  },
+  {
+    "firstName": "Harley",
+    "lastName": "Robinson",
+    "email": "harley.robinson@example.com",
+    "username": "crazygoose519",
+    "password": "aragorn",
+    "invokedAt": "2023-03-02T19:19:33.413Z"
   }
 ]
