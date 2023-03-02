@@ -782,5 +782,13 @@
     "username": "goldengoose289",
     "password": "voodoo",
     "invokedAt": "2023-03-02T19:31:30.306Z"
+  },
+  {
+    "firstName": "Raúl",
+    "lastName": "Marín",
+    "email": "raul.marin@example.com",
+    "username": "brownkoala654",
+    "password": "linkin",
+    "invokedAt": "2023-03-02T19:37:47.308Z"
   }
 ]
