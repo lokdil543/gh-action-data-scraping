@@ -622,5 +622,13 @@
     "username": "blackgoose106",
     "password": "ducati",
     "invokedAt": "2023-03-02T15:52:05.760Z"
+  },
+  {
+    "firstName": "Filipe",
+    "lastName": "Ramos",
+    "email": "filipe.ramos@example.com",
+    "username": "crazydog159",
+    "password": "tinman",
+    "invokedAt": "2023-03-02T15:57:54.158Z"
   }
 ]
