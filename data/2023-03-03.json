@@ -758,5 +758,13 @@
     "username": "organicgoose153",
     "password": "passw0rd",
     "invokedAt": "2023-03-03T19:42:01.340Z"
+  },
+  {
+    "firstName": "Afşar",
+    "lastName": "Taşçı",
+    "email": "afsar.tasci@example.com",
+    "username": "bigbird601",
+    "password": "1236",
+    "invokedAt": "2023-03-03T19:47:52.428Z"
   }
 ]
