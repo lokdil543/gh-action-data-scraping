@@ -678,5 +678,13 @@
     "username": "happytiger826",
     "password": "wowwow",
     "invokedAt": "2023-03-03T18:21:13.422Z"
+  },
+  {
+    "firstName": "Heinz-Günther",
+    "lastName": "Stöhr",
+    "email": "heinz-gunther.stohr@example.com",
+    "username": "blueduck165",
+    "password": "berlin",
+    "invokedAt": "2023-03-03T18:34:48.876Z"
   }
 ]
