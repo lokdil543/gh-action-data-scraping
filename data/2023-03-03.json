@@ -526,5 +526,13 @@
     "username": "brownbird873",
     "password": "1227",
     "invokedAt": "2023-03-03T15:12:13.226Z"
+  },
+  {
+    "firstName": "Prodan",
+    "lastName": "Ristović",
+    "email": "prodan.ristovic@example.com",
+    "username": "yellowostrich591",
+    "password": "biggles",
+    "invokedAt": "2023-03-03T15:27:27.940Z"
   }
 ]
