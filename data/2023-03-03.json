@@ -166,5 +166,13 @@
     "username": "greentiger930",
     "password": "spam",
     "invokedAt": "2023-03-03T07:48:27.644Z"
+  },
+  {
+    "firstName": "Natan",
+    "lastName": "Nybråten",
+    "email": "natan.nybraten@example.com",
+    "username": "yellowbear315",
+    "password": "dirtbike",
+    "invokedAt": "2023-03-03T07:54:31.319Z"
   }
 ]
