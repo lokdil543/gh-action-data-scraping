@@ -86,5 +86,13 @@
     "username": "tinyzebra497",
     "password": "shopping",
     "invokedAt": "2023-03-03T06:29:31.724Z"
+  },
+  {
+    "firstName": "Cesar",
+    "lastName": "Ibáñez",
+    "email": "cesar.ibanez@example.com",
+    "username": "smallbird200",
+    "password": "trombone",
+    "invokedAt": "2023-03-03T06:40:42.846Z"
   }
 ]
