@@ -158,5 +158,13 @@
     "username": "smallswan159",
     "password": "joanne",
     "invokedAt": "2023-03-03T07:42:29.321Z"
+  },
+  {
+    "firstName": "Mirjana",
+    "lastName": "Drljača",
+    "email": "mirjana.drljaca@example.com",
+    "username": "greentiger930",
+    "password": "spam",
+    "invokedAt": "2023-03-03T07:48:27.644Z"
   }
 ]
