@@ -622,5 +622,13 @@
     "username": "heavydog861",
     "password": "data",
     "invokedAt": "2023-03-03T17:24:41.184Z"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Fletcher",
+    "email": "elizabeth.fletcher@example.com",
+    "username": "goldenostrich200",
+    "password": "griffin",
+    "invokedAt": "2023-03-03T17:30:29.945Z"
   }
 ]
