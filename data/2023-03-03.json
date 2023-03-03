@@ -182,5 +182,13 @@
     "username": "smallpanda732",
     "password": "atlantic",
     "invokedAt": "2023-03-03T08:00:27.765Z"
+  },
+  {
+    "firstName": "Selmer",
+    "lastName": "Hellerud",
+    "email": "selmer.hellerud@example.com",
+    "username": "purplebear594",
+    "password": "cohiba",
+    "invokedAt": "2023-03-03T08:20:43.463Z"
   }
 ]
