@@ -318,5 +318,13 @@
     "username": "yellowleopard102",
     "password": "bigcat",
     "invokedAt": "2023-03-03T10:48:35.345Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Thomsen",
+    "email": "jonathan.thomsen@example.com",
+    "username": "happyrabbit832",
+    "password": "magazine",
+    "invokedAt": "2023-03-03T10:54:30.351Z"
   }
 ]
