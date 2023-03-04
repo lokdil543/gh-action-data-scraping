@@ -598,5 +598,13 @@
     "username": "yellowpeacock494",
     "password": "jackson1",
     "invokedAt": "2023-03-04T13:55:38.430Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Saarela",
+    "email": "arttu.saarela@example.com",
+    "username": "happycat826",
+    "password": "glotest",
+    "invokedAt": "2023-03-04T14:05:17.133Z"
   }
 ]
