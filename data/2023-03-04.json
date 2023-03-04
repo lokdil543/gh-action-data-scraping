@@ -78,5 +78,13 @@
     "username": "whitegoose710",
     "password": "gothic",
     "invokedAt": "2023-03-04T03:58:06.473Z"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Barnett",
+    "email": "logan.barnett@example.com",
+    "username": "tinygoose224",
+    "password": "456789",
+    "invokedAt": "2023-03-04T04:14:00.974Z"
   }
 ]
