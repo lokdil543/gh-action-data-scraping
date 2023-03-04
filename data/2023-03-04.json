@@ -334,5 +334,13 @@
     "username": "ticklishzebra730",
     "password": "goodboy",
     "invokedAt": "2023-03-04T08:50:26.348Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Moore",
+    "email": "john.moore@example.com",
+    "username": "heavylion348",
+    "password": "jeepster",
+    "invokedAt": "2023-03-04T08:56:27.785Z"
   }
 ]
