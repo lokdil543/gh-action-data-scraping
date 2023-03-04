@@ -870,5 +870,13 @@
     "username": "purplerabbit902",
     "password": "sinbad",
     "invokedAt": "2023-03-04T18:52:34.104Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Lemoine",
+    "email": "alice.lemoine@example.com",
+    "username": "greenrabbit681",
+    "password": "library",
+    "invokedAt": "2023-03-04T18:58:20.955Z"
   }
 ]
