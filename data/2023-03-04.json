@@ -126,5 +126,13 @@
     "username": "silvermouse333",
     "password": "amateur",
     "invokedAt": "2023-03-04T05:00:12.241Z"
+  },
+  {
+    "firstName": "Mirjana",
+    "lastName": "Nikolić",
+    "email": "mirjana.nikolic@example.com",
+    "username": "bigmouse460",
+    "password": "allstar",
+    "invokedAt": "2023-03-04T05:14:02.665Z"
   }
 ]
