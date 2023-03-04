@@ -486,5 +486,13 @@
     "username": "sadleopard252",
     "password": "doit",
     "invokedAt": "2023-03-04T11:26:44.915Z"
+  },
+  {
+    "firstName": "Daniela",
+    "lastName": "Bustos",
+    "email": "daniela.bustos@example.com",
+    "username": "bluemouse450",
+    "password": "chicago",
+    "invokedAt": "2023-03-04T11:32:42.383Z"
   }
 ]
