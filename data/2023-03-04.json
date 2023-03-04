@@ -318,5 +318,13 @@
     "username": "orangelion452",
     "password": "madison",
     "invokedAt": "2023-03-04T08:38:17.585Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Wright",
+    "email": "dave.wright@example.com",
+    "username": "redgorilla997",
+    "password": "aurora",
+    "invokedAt": "2023-03-04T08:44:28.495Z"
   }
 ]
