@@ -262,5 +262,13 @@
     "username": "purplecat264",
     "password": "secret1",
     "invokedAt": "2023-03-05T07:47:37.792Z"
+  },
+  {
+    "firstName": "Radoslava",
+    "lastName": "Kolesnik",
+    "email": "radoslava.kolesnik@example.com",
+    "username": "blackgorilla569",
+    "password": "london",
+    "invokedAt": "2023-03-05T07:53:42.570Z"
   }
 ]
