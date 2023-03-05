@@ -286,5 +286,13 @@
     "username": "angryelephant339",
     "password": "alberta",
     "invokedAt": "2023-03-05T08:17:49.272Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Lavoie",
+    "email": "liam.lavoie@example.com",
+    "username": "blackfish649",
+    "password": "0420",
+    "invokedAt": "2023-03-05T08:32:11.965Z"
   }
 ]
