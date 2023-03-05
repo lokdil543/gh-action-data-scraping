@@ -934,5 +934,13 @@
     "username": "blackrabbit417",
     "password": "director",
     "invokedAt": "2023-03-05T20:11:38.448Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Kallio",
+    "email": "julia.kallio@example.com",
+    "username": "smallbutterfly319",
+    "password": "qwert",
+    "invokedAt": "2023-03-05T20:25:22.522Z"
   }
 ]
