@@ -558,5 +558,13 @@
     "username": "goldentiger202",
     "password": "vampire",
     "invokedAt": "2023-03-05T13:38:39.912Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Jones",
+    "email": "nina.jones@example.com",
+    "username": "whitesnake558",
+    "password": "house",
+    "invokedAt": "2023-03-05T13:44:27.454Z"
   }
 ]
