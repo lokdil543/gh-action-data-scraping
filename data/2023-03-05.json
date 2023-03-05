@@ -670,5 +670,13 @@
     "username": "beautifulbear668",
     "password": "trance",
     "invokedAt": "2023-03-05T15:31:04.956Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Lam",
+    "email": "david.lam@example.com",
+    "username": "lazyfrog647",
+    "password": "spud",
+    "invokedAt": "2023-03-05T15:37:06.772Z"
   }
 ]
