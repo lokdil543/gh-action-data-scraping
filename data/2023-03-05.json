@@ -790,5 +790,13 @@
     "username": "happygoose780",
     "password": "orgasms",
     "invokedAt": "2023-03-05T17:45:05.301Z"
+  },
+  {
+    "firstName": "Stine",
+    "lastName": "Aksnes",
+    "email": "stine.aksnes@example.com",
+    "username": "sadsnake205",
+    "password": "fletch",
+    "invokedAt": "2023-03-05T17:51:00.197Z"
   }
 ]
