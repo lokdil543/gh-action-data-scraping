@@ -510,5 +510,13 @@
     "username": "greenbutterfly461",
     "password": "donna",
     "invokedAt": "2023-03-05T11:57:52.690Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Gilbert",
+    "email": "donald.gilbert@example.com",
+    "username": "bigduck392",
+    "password": "obsidian",
+    "invokedAt": "2023-03-05T12:19:55.208Z"
   }
 ]
