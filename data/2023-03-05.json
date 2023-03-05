@@ -942,5 +942,13 @@
     "username": "smallbutterfly319",
     "password": "qwert",
     "invokedAt": "2023-03-05T20:25:22.522Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Holmes",
+    "email": "tony.holmes@example.com",
+    "username": "purplebutterfly506",
+    "password": "soleil",
+    "invokedAt": "2023-03-05T20:31:20.418Z"
   }
 ]
