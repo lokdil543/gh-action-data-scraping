@@ -982,5 +982,13 @@
     "username": "orangedog247",
     "password": "thirteen",
     "invokedAt": "2023-03-05T20:55:37.401Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "León",
+    "email": "xavier.leon@example.com",
+    "username": "yellowleopard308",
+    "password": "fulham",
+    "invokedAt": "2023-03-05T21:05:16.399Z"
   }
 ]
