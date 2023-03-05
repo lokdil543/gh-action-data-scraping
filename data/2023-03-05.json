@@ -950,5 +950,13 @@
     "username": "purplebutterfly506",
     "password": "soleil",
     "invokedAt": "2023-03-05T20:31:20.418Z"
+  },
+  {
+    "firstName": "Vidya",
+    "lastName": "Das",
+    "email": "vidya.das@example.com",
+    "username": "beautifulcat323",
+    "password": "stinks",
+    "invokedAt": "2023-03-05T20:37:39.354Z"
   }
 ]
