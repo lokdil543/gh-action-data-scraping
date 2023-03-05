@@ -462,5 +462,13 @@
     "username": "happyleopard681",
     "password": "abcdefg",
     "invokedAt": "2023-03-05T11:21:52.199Z"
+  },
+  {
+    "firstName": "Hans-Henning",
+    "lastName": "Pichler",
+    "email": "hans-henning.pichler@example.com",
+    "username": "purplecat766",
+    "password": "music1",
+    "invokedAt": "2023-03-05T11:27:42.638Z"
   }
 ]
