@@ -246,5 +246,13 @@
     "username": "happybird330",
     "password": "airplane",
     "invokedAt": "2023-03-05T07:35:36.277Z"
+  },
+  {
+    "firstName": "Aria",
+    "lastName": "White",
+    "email": "aria.white@example.com",
+    "username": "biggorilla509",
+    "password": "zaphod",
+    "invokedAt": "2023-03-05T07:41:43.597Z"
   }
 ]
