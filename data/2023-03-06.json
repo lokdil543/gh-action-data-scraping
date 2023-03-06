@@ -294,5 +294,13 @@
     "username": "greengoose236",
     "password": "houston",
     "invokedAt": "2023-03-06T08:45:23.176Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Holmstrøm",
+    "email": "benjamin.holmstrom@example.com",
+    "username": "tinycat531",
+    "password": "neutron",
+    "invokedAt": "2023-03-06T08:51:20.203Z"
   }
 ]
