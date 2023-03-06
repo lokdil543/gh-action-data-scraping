@@ -414,5 +414,13 @@
     "username": "tinyzebra356",
     "password": "portland",
     "invokedAt": "2023-03-06T10:58:46.628Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Lemaire",
+    "email": "paul.lemaire@example.com",
+    "username": "bluemeercat436",
+    "password": "redman",
+    "invokedAt": "2023-03-06T11:11:29.620Z"
   }
 ]
