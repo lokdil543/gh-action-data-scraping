@@ -318,5 +318,13 @@
     "username": "lazyduck199",
     "password": "sassy1",
     "invokedAt": "2023-03-06T09:11:08.863Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Rantala",
+    "email": "leevi.rantala@example.com",
+    "username": "angrygorilla319",
+    "password": "alberta",
+    "invokedAt": "2023-03-06T09:26:24.354Z"
   }
 ]
