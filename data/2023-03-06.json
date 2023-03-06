@@ -526,5 +526,13 @@
     "username": "blackostrich865",
     "password": "oracle",
     "invokedAt": "2023-03-06T13:49:48.422Z"
+  },
+  {
+    "firstName": "Derck",
+    "lastName": "Van Polen",
+    "email": "derck.vanpolen@example.com",
+    "username": "blackleopard244",
+    "password": "entrance",
+    "invokedAt": "2023-03-06T13:55:38.475Z"
   }
 ]
