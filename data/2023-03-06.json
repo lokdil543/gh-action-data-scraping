@@ -310,5 +310,13 @@
     "username": "greenpeacock945",
     "password": "surgery",
     "invokedAt": "2023-03-06T08:57:08.587Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Morris",
+    "email": "connor.morris@example.com",
+    "username": "lazyduck199",
+    "password": "sassy1",
+    "invokedAt": "2023-03-06T09:11:08.863Z"
   }
 ]
