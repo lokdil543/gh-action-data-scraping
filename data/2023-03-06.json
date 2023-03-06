@@ -1022,5 +1022,13 @@
     "username": "brownwolf230",
     "password": "1961",
     "invokedAt": "2023-03-06T23:30:52.064Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Perko",
+    "email": "arttu.perko@example.com",
+    "username": "blackpanda573",
+    "password": "bizkit",
+    "invokedAt": "2023-03-06T23:37:45.290Z"
   }
 ]
