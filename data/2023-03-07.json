@@ -462,5 +462,13 @@
     "username": "redgoose521",
     "password": "pickup",
     "invokedAt": "2023-03-07T11:59:55.979Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Jensen",
+    "email": "silje.jensen@example.com",
+    "username": "whitelion854",
+    "password": "planes",
+    "invokedAt": "2023-03-07T12:30:56.051Z"
   }
 ]
