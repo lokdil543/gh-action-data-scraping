@@ -126,5 +126,13 @@
     "username": "crazyfish824",
     "password": "guinness",
     "invokedAt": "2023-03-07T05:39:42.065Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Palmer",
+    "email": "zachary.palmer@example.com",
+    "username": "angrysnake195",
+    "password": "diamond1",
+    "invokedAt": "2023-03-07T05:45:31.751Z"
   }
 ]
