@@ -118,5 +118,13 @@
     "username": "happyduck453",
     "password": "asia",
     "invokedAt": "2023-03-07T05:33:10.163Z"
+  },
+  {
+    "firstName": "Jelena",
+    "lastName": "Šarović",
+    "email": "jelena.sarovic@example.com",
+    "username": "crazyfish824",
+    "password": "guinness",
+    "invokedAt": "2023-03-07T05:39:42.065Z"
   }
 ]
