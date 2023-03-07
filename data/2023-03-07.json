@@ -982,5 +982,13 @@
     "username": "redduck286",
     "password": "zappa",
     "invokedAt": "2023-03-07T22:53:49.434Z"
+  },
+  {
+    "firstName": "Hans-Ludwig",
+    "lastName": "Schreiter",
+    "email": "hans-ludwig.schreiter@example.com",
+    "username": "purplesnake321",
+    "password": "hokies",
+    "invokedAt": "2023-03-07T22:59:34.657Z"
   }
 ]
