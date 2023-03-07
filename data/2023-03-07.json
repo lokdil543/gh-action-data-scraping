@@ -494,5 +494,13 @@
     "username": "beautifulduck247",
     "password": "wasser",
     "invokedAt": "2023-03-07T13:39:52.247Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Van Bergeijk",
+    "email": "matt.vanbergeijk@example.com",
+    "username": "goldenduck107",
+    "password": "liquid",
+    "invokedAt": "2023-03-07T13:45:44.315Z"
   }
 ]
