@@ -574,5 +574,13 @@
     "username": "bigmouse398",
     "password": "grandam",
     "invokedAt": "2023-03-07T14:59:39.175Z"
+  },
+  {
+    "firstName": "Zvezdan",
+    "lastName": "Milutinović",
+    "email": "zvezdan.milutinovic@example.com",
+    "username": "browngorilla440",
+    "password": "woohoo",
+    "invokedAt": "2023-03-07T15:14:56.056Z"
   }
 ]
