@@ -102,5 +102,13 @@
     "username": "goldenbear256",
     "password": "isabel",
     "invokedAt": "2023-03-07T05:09:56.588Z"
+  },
+  {
+    "firstName": "Mina",
+    "lastName": "Tomović",
+    "email": "mina.tomovic@example.com",
+    "username": "sadmouse394",
+    "password": "conway",
+    "invokedAt": "2023-03-07T05:25:55.075Z"
   }
 ]
