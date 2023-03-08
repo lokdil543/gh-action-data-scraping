@@ -670,5 +670,13 @@
     "username": "yellowladybug398",
     "password": "consumer",
     "invokedAt": "2023-03-08T16:58:28.849Z"
+  },
+  {
+    "firstName": "Donna",
+    "lastName": "Bowman",
+    "email": "donna.bowman@example.com",
+    "username": "lazybear608",
+    "password": "compass",
+    "invokedAt": "2023-03-08T17:11:58.264Z"
   }
 ]
