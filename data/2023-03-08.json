@@ -214,5 +214,13 @@
     "username": "silverdog894",
     "password": "chicago",
     "invokedAt": "2023-03-08T07:18:12.519Z"
+  },
+  {
+    "firstName": "Agatha",
+    "lastName": "Pierre",
+    "email": "agatha.pierre@example.com",
+    "username": "orangeelephant192",
+    "password": "menace",
+    "invokedAt": "2023-03-08T07:26:11.191Z"
   }
 ]
