@@ -382,5 +382,13 @@
     "username": "bluecat660",
     "password": "chico",
     "invokedAt": "2023-03-08T10:38:37.456Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Ibarra",
+    "email": "gustavo.ibarra@example.com",
+    "username": "bluebutterfly634",
+    "password": "mandingo",
+    "invokedAt": "2023-03-08T10:44:57.558Z"
   }
 ]
