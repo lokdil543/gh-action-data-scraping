@@ -694,5 +694,13 @@
     "username": "happygorilla183",
     "password": "flight",
     "invokedAt": "2023-03-08T17:35:23.044Z"
+  },
+  {
+    "firstName": "Eve",
+    "lastName": "Martin",
+    "email": "eve.martin@example.com",
+    "username": "happysnake126",
+    "password": "backdoor",
+    "invokedAt": "2023-03-08T17:41:13.335Z"
   }
 ]
