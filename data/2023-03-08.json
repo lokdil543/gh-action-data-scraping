@@ -422,5 +422,13 @@
     "username": "bigbird437",
     "password": "check",
     "invokedAt": "2023-03-08T11:20:30.353Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Thomsen",
+    "email": "maja.thomsen@example.com",
+    "username": "whiteostrich783",
+    "password": "scuba",
+    "invokedAt": "2023-03-08T11:26:34.174Z"
   }
 ]
