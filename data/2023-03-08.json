@@ -782,5 +782,13 @@
     "username": "blackostrich179",
     "password": "hatred",
     "invokedAt": "2023-03-08T19:19:22.241Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Wallace",
+    "email": "edgar.wallace@example.com",
+    "username": "redswan241",
+    "password": "3131",
+    "invokedAt": "2023-03-08T19:25:27.200Z"
   }
 ]
