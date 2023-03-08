@@ -1022,5 +1022,13 @@
     "username": "yellowkoala275",
     "password": "zurich",
     "invokedAt": "2023-03-08T23:30:33.600Z"
+  },
+  {
+    "firstName": "Bernabé",
+    "lastName": "Olvera",
+    "email": "bernabe.olvera@example.com",
+    "username": "greenmouse907",
+    "password": "camelot",
+    "invokedAt": "2023-03-08T23:37:25.778Z"
   }
 ]
