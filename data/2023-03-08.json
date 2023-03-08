@@ -854,5 +854,13 @@
     "username": "silvercat463",
     "password": "access14",
     "invokedAt": "2023-03-08T20:32:16.116Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Jackson",
+    "email": "ken.jackson@example.com",
+    "username": "orangebear350",
+    "password": "bumble",
+    "invokedAt": "2023-03-08T20:39:40.571Z"
   }
 ]
