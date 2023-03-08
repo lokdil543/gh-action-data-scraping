@@ -862,5 +862,13 @@
     "username": "orangebear350",
     "password": "bumble",
     "invokedAt": "2023-03-08T20:39:40.571Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Suarez",
+    "email": "sandra.suarez@example.com",
+    "username": "whiteleopard832",
+    "password": "hello",
+    "invokedAt": "2023-03-08T20:45:31.729Z"
   }
 ]
