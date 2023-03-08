@@ -198,5 +198,13 @@
     "username": "ticklishdog537",
     "password": "dundee",
     "invokedAt": "2023-03-08T06:54:57.378Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "James",
+    "email": "juan.james@example.com",
+    "username": "ticklishduck629",
+    "password": "eighteen",
+    "invokedAt": "2023-03-08T07:02:10.520Z"
   }
 ]
