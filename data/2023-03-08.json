@@ -902,5 +902,13 @@
     "username": "smalldog154",
     "password": "catherine",
     "invokedAt": "2023-03-08T21:22:43.304Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Sannes",
+    "email": "joshua.sannes@example.com",
+    "username": "beautifulcat689",
+    "password": "tribe",
+    "invokedAt": "2023-03-08T21:28:49.111Z"
   }
 ]
