@@ -478,5 +478,13 @@
     "username": "crazyostrich952",
     "password": "quest",
     "invokedAt": "2023-03-09T12:48:23.033Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Foster",
+    "email": "alan.foster@example.com",
+    "username": "beautifulfish506",
+    "password": "chains",
+    "invokedAt": "2023-03-09T13:13:32.072Z"
   }
 ]
