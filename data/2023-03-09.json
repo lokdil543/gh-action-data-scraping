@@ -542,5 +542,13 @@
     "username": "orangemouse119",
     "password": "mongoose",
     "invokedAt": "2023-03-09T14:37:03.344Z"
+  },
+  {
+    "firstName": "Lisette",
+    "lastName": "Rieger",
+    "email": "lisette.rieger@example.com",
+    "username": "greendog836",
+    "password": "striper",
+    "invokedAt": "2023-03-09T14:42:51.223Z"
   }
 ]
