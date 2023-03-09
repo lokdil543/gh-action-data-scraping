@@ -502,5 +502,13 @@
     "username": "greenbird652",
     "password": "record",
     "invokedAt": "2023-03-09T13:47:10.599Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Mackay",
+    "email": "sophie.mackay@example.com",
+    "username": "bigswan822",
+    "password": "amature",
+    "invokedAt": "2023-03-09T13:53:10.152Z"
   }
 ]
