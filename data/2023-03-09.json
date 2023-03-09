@@ -782,5 +782,13 @@
     "username": "silvercat588",
     "password": "010101",
     "invokedAt": "2023-03-09T19:34:00.867Z"
+  },
+  {
+    "firstName": "Roope",
+    "lastName": "Lakso",
+    "email": "roope.lakso@example.com",
+    "username": "angryduck164",
+    "password": "ncc1701a",
+    "invokedAt": "2023-03-09T19:40:00.005Z"
   }
 ]
