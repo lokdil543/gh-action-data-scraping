@@ -318,5 +318,13 @@
     "username": "smallzebra184",
     "password": "reckless",
     "invokedAt": "2023-03-09T09:27:09.615Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Makinen",
+    "email": "niklas.makinen@example.com",
+    "username": "heavycat988",
+    "password": "rusty",
+    "invokedAt": "2023-03-09T09:34:49.872Z"
   }
 ]
