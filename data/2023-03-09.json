@@ -902,5 +902,13 @@
     "username": "tinybear302",
     "password": "protect",
     "invokedAt": "2023-03-09T21:38:36.296Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Mortensen",
+    "email": "emma.mortensen@example.com",
+    "username": "whitezebra629",
+    "password": "sparkle",
+    "invokedAt": "2023-03-09T21:44:36.314Z"
   }
 ]
