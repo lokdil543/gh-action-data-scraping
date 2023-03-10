@@ -494,5 +494,13 @@
     "username": "bigdog972",
     "password": "grunt",
     "invokedAt": "2023-03-10T13:34:04.405Z"
+  },
+  {
+    "firstName": "Duane",
+    "lastName": "Cook",
+    "email": "duane.cook@example.com",
+    "username": "beautifulelephant925",
+    "password": "turbo",
+    "invokedAt": "2023-03-10T13:42:30.654Z"
   }
 ]
