@@ -526,5 +526,13 @@
     "username": "purpledog642",
     "password": "panda",
     "invokedAt": "2023-03-10T14:00:19.250Z"
+  },
+  {
+    "firstName": "Mathis",
+    "lastName": "Leclerc",
+    "email": "mathis.leclerc@example.com",
+    "username": "orangewolf247",
+    "password": "frankie",
+    "invokedAt": "2023-03-10T14:15:24.821Z"
   }
 ]
