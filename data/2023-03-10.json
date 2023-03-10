@@ -782,5 +782,13 @@
     "username": "lazybear876",
     "password": "cricket",
     "invokedAt": "2023-03-10T19:16:13.764Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Johansen",
+    "email": "noah.johansen@example.com",
+    "username": "greenleopard415",
+    "password": "1dragon",
+    "invokedAt": "2023-03-10T19:22:03.848Z"
   }
 ]
