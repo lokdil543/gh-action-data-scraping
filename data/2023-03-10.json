@@ -286,5 +286,13 @@
     "username": "blueelephant213",
     "password": "jennifer",
     "invokedAt": "2023-03-10T08:50:46.126Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Beşok",
+    "email": "ege.besok@example.com",
+    "username": "lazytiger972",
+    "password": "server",
+    "invokedAt": "2023-03-10T08:56:40.482Z"
   }
 ]
