@@ -630,5 +630,13 @@
     "username": "blackgoose604",
     "password": "capecod",
     "invokedAt": "2023-03-10T15:57:33.210Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Hayes",
+    "email": "sean.hayes@example.com",
+    "username": "tinyzebra364",
+    "password": "wheels",
+    "invokedAt": "2023-03-10T16:14:38.122Z"
   }
 ]
