@@ -1070,5 +1070,13 @@
     "username": "brownpeacock101",
     "password": "fender",
     "invokedAt": "2023-03-10T23:50:24.422Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Turner",
+    "email": "amanda.turner@example.com",
+    "username": "orangeswan419",
+    "password": "thirteen",
+    "invokedAt": "2023-03-10T23:56:35.111Z"
   }
 ]
