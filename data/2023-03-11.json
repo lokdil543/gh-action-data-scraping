@@ -270,5 +270,13 @@
     "username": "organicdog958",
     "password": "daytona",
     "invokedAt": "2023-03-11T07:07:36.208Z"
+  },
+  {
+    "firstName": "Javier",
+    "lastName": "de la Fuente",
+    "email": "javier.delafuente@example.com",
+    "username": "silverlion353",
+    "password": "static",
+    "invokedAt": "2023-03-11T07:19:17.881Z"
   }
 ]
