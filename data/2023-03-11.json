@@ -782,5 +782,13 @@
     "username": "whiteostrich220",
     "password": "chronic",
     "invokedAt": "2023-03-11T16:01:12.714Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Park",
+    "email": "alexis.park@example.com",
+    "username": "sadswan324",
+    "password": "1982",
+    "invokedAt": "2023-03-11T16:22:00.573Z"
   }
 ]
