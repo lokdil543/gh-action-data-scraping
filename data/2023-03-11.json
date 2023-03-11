@@ -230,5 +230,13 @@
     "username": "blackfish747",
     "password": "paragon",
     "invokedAt": "2023-03-11T06:30:33.690Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Andersen",
+    "email": "anton.andersen@example.com",
+    "username": "organicmeercat654",
+    "password": "watcher",
+    "invokedAt": "2023-03-11T06:38:54.304Z"
   }
 ]
