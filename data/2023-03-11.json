@@ -318,5 +318,13 @@
     "username": "redwolf763",
     "password": "ragnarok",
     "invokedAt": "2023-03-11T07:48:38.628Z"
+  },
+  {
+    "firstName": "Bert",
+    "lastName": "De Blaauw",
+    "email": "bert.deblaauw@example.com",
+    "username": "goldenduck737",
+    "password": "hack",
+    "invokedAt": "2023-03-11T07:54:34.103Z"
   }
 ]
