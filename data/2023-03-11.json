@@ -726,5 +726,13 @@
     "username": "silverdog108",
     "password": "spanish",
     "invokedAt": "2023-03-11T15:12:33.723Z"
+  },
+  {
+    "firstName": "Radko",
+    "lastName": "Goshovskiy",
+    "email": "radko.goshovskiy@example.com",
+    "username": "heavybird566",
+    "password": "smoke1",
+    "invokedAt": "2023-03-11T15:24:12.153Z"
   }
 ]
