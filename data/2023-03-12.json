@@ -710,5 +710,13 @@
     "username": "biggorilla176",
     "password": "movie",
     "invokedAt": "2023-03-12T15:12:52.109Z"
+  },
+  {
+    "firstName": "Gertrude",
+    "lastName": "Roberts",
+    "email": "gertrude.roberts@example.com",
+    "username": "greenduck765",
+    "password": "phillip",
+    "invokedAt": "2023-03-12T15:24:46.405Z"
   }
 ]
