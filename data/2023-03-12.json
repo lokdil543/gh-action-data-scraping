@@ -118,5 +118,13 @@
     "username": "purplerabbit987",
     "password": "tabasco",
     "invokedAt": "2023-03-12T04:47:04.636Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Garcia",
+    "email": "justin.garcia@example.com",
+    "username": "bluebird256",
+    "password": "valkyrie",
+    "invokedAt": "2023-03-12T04:52:57.355Z"
   }
 ]
