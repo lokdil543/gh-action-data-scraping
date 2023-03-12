@@ -838,5 +838,13 @@
     "username": "redelephant794",
     "password": "campbell",
     "invokedAt": "2023-03-12T17:33:53.481Z"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Bates",
+    "email": "wayne.bates@example.com",
+    "username": "greenswan341",
+    "password": "gamma",
+    "invokedAt": "2023-03-12T17:39:34.536Z"
   }
 ]
