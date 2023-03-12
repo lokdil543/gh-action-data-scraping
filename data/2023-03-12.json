@@ -1198,5 +1198,13 @@
     "username": "yellowfish105",
     "password": "big1",
     "invokedAt": "2023-03-12T23:19:51.031Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Sarıoğlu",
+    "email": "mehmet.sarioglu@example.com",
+    "username": "redduck996",
+    "password": "highheel",
+    "invokedAt": "2023-03-12T23:26:59.815Z"
   }
 ]
