@@ -854,5 +854,13 @@
     "username": "silverbutterfly376",
     "password": "sealteam",
     "invokedAt": "2023-03-12T17:45:27.445Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Diaz",
+    "email": "john.diaz@example.com",
+    "username": "redpanda194",
+    "password": "nimitz",
+    "invokedAt": "2023-03-12T17:51:32.481Z"
   }
 ]
