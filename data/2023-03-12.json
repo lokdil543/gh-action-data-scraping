@@ -294,5 +294,13 @@
     "username": "happybear624",
     "password": "sean",
     "invokedAt": "2023-03-12T07:43:53.018Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Garrett",
+    "email": "christian.garrett@example.com",
+    "username": "lazybear475",
+    "password": "fuzzy",
+    "invokedAt": "2023-03-12T07:49:41.201Z"
   }
 ]
