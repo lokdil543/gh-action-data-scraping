@@ -1222,5 +1222,13 @@
     "username": "yellowdog516",
     "password": "absolut",
     "invokedAt": "2023-03-12T23:39:32.194Z"
+  },
+  {
+    "firstName": "Vladan",
+    "lastName": "Santrač",
+    "email": "vladan.santrac@example.com",
+    "username": "blackmouse855",
+    "password": "instant",
+    "invokedAt": "2023-03-12T23:45:30.471Z"
   }
 ]
