@@ -398,5 +398,13 @@
     "username": "bluerabbit127",
     "password": "25252525",
     "invokedAt": "2023-03-13T09:50:41.715Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Simpson",
+    "email": "scott.simpson@example.com",
+    "username": "smallcat158",
+    "password": "obsidian",
+    "invokedAt": "2023-03-13T09:56:31.569Z"
   }
 ]
