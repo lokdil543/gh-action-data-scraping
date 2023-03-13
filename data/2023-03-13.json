@@ -374,5 +374,13 @@
     "username": "goldenfish271",
     "password": "2000",
     "invokedAt": "2023-03-13T09:32:23.462Z"
+  },
+  {
+    "firstName": "Mariël",
+    "lastName": "Van de Wiel",
+    "email": "mariel.vandewiel@example.com",
+    "username": "heavyelephant896",
+    "password": "descent",
+    "invokedAt": "2023-03-13T09:38:54.400Z"
   }
 ]
