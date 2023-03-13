@@ -310,5 +310,13 @@
     "username": "silverkoala270",
     "password": "punkrock",
     "invokedAt": "2023-03-13T08:08:41.314Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Palomo",
+    "email": "andres.palomo@example.com",
+    "username": "happygoose569",
+    "password": "core",
+    "invokedAt": "2023-03-13T08:29:38.708Z"
   }
 ]
