@@ -838,5 +838,13 @@
     "username": "greenbear123",
     "password": "acidburn",
     "invokedAt": "2023-03-13T18:52:36.495Z"
+  },
+  {
+    "firstName": "Noélie",
+    "lastName": "Leroux",
+    "email": "noelie.leroux@example.com",
+    "username": "greenmeercat423",
+    "password": "walton",
+    "invokedAt": "2023-03-13T18:58:45.112Z"
   }
 ]
