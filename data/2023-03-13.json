@@ -742,5 +742,13 @@
     "username": "greenduck160",
     "password": "wrestler",
     "invokedAt": "2023-03-13T17:02:18.544Z"
+  },
+  {
+    "firstName": "Parcídio",
+    "lastName": "Melo",
+    "email": "parcidio.melo@example.com",
+    "username": "angrykoala894",
+    "password": "peewee",
+    "invokedAt": "2023-03-13T17:18:22.333Z"
   }
 ]
