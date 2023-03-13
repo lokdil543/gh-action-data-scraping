@@ -734,5 +734,13 @@
     "username": "orangeleopard656",
     "password": "private",
     "invokedAt": "2023-03-13T16:55:03.361Z"
+  },
+  {
+    "firstName": "Jesús",
+    "lastName": "Fuentes",
+    "email": "jesus.fuentes@example.com",
+    "username": "greenduck160",
+    "password": "wrestler",
+    "invokedAt": "2023-03-13T17:02:18.544Z"
   }
 ]
