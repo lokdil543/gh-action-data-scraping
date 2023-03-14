@@ -126,5 +126,13 @@
     "username": "greencat542",
     "password": "border",
     "invokedAt": "2023-03-14T04:42:21.170Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Cooper",
+    "email": "benjamin.cooper@example.com",
+    "username": "heavymeercat104",
+    "password": "macaroni",
+    "invokedAt": "2023-03-14T04:48:12.253Z"
   }
 ]
