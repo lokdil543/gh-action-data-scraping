@@ -398,5 +398,13 @@
     "username": "sadbird435",
     "password": "shan",
     "invokedAt": "2023-03-14T09:55:10.609Z"
+  },
+  {
+    "firstName": "Israel",
+    "lastName": "Pineda",
+    "email": "israel.pineda@example.com",
+    "username": "heavytiger862",
+    "password": "password2",
+    "invokedAt": "2023-03-14T10:07:11.092Z"
   }
 ]
