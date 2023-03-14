@@ -310,5 +310,13 @@
     "username": "bluefrog115",
     "password": "reebok",
     "invokedAt": "2023-03-14T07:57:09.401Z"
+  },
+  {
+    "firstName": "Radiša",
+    "lastName": "Jevtić",
+    "email": "radisa.jevtic@example.com",
+    "username": "yellowfrog648",
+    "password": "micron",
+    "invokedAt": "2023-03-14T08:14:07.411Z"
   }
 ]
