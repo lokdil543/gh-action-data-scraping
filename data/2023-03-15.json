@@ -606,5 +606,13 @@
     "username": "orangepeacock996",
     "password": "123123123",
     "invokedAt": "2023-03-15T14:07:46.426Z"
+  },
+  {
+    "firstName": "Veselin",
+    "lastName": "Zelenović",
+    "email": "veselin.zelenovic@example.com",
+    "username": "whitedog116",
+    "password": "pinky",
+    "invokedAt": "2023-03-15T14:23:00.723Z"
   }
 ]
