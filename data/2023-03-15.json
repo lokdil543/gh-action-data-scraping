@@ -822,5 +822,13 @@
     "username": "whitedog903",
     "password": "smiths",
     "invokedAt": "2023-03-15T18:39:21.568Z"
+  },
+  {
+    "firstName": "Richardus",
+    "lastName": "Van der Kamp",
+    "email": "richardus.vanderkamp@example.com",
+    "username": "angrygorilla397",
+    "password": "citadel",
+    "invokedAt": "2023-03-15T18:45:36.709Z"
   }
 ]
