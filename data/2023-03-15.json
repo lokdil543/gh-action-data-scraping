@@ -390,5 +390,13 @@
     "username": "smallbutterfly416",
     "password": "pearson",
     "invokedAt": "2023-03-15T09:38:23.672Z"
+  },
+  {
+    "firstName": "Clifford",
+    "lastName": "Peterson",
+    "email": "clifford.peterson@example.com",
+    "username": "orangebird140",
+    "password": "passthie",
+    "invokedAt": "2023-03-15T09:44:24.744Z"
   }
 ]
