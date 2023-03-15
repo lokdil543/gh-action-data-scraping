@@ -806,5 +806,13 @@
     "username": "purplebutterfly420",
     "password": "starter",
     "invokedAt": "2023-03-15T18:11:30.287Z"
+  },
+  {
+    "firstName": "Méline",
+    "lastName": "Olivier",
+    "email": "meline.olivier@example.com",
+    "username": "bluecat176",
+    "password": "dave",
+    "invokedAt": "2023-03-15T18:30:12.533Z"
   }
 ]
