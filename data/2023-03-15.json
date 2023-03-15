@@ -422,5 +422,13 @@
     "username": "bigbear494",
     "password": "wright",
     "invokedAt": "2023-03-15T10:08:57.178Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Howard",
+    "email": "jerry.howard@example.com",
+    "username": "goldenmouse369",
+    "password": "44444444",
+    "invokedAt": "2023-03-15T10:27:19.934Z"
   }
 ]
