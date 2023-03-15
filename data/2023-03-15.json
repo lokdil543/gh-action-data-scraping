@@ -566,5 +566,13 @@
     "username": "lazybear292",
     "password": "crescent",
     "invokedAt": "2023-03-15T13:30:54.307Z"
+  },
+  {
+    "firstName": "Lola",
+    "lastName": "Barnes",
+    "email": "lola.barnes@example.com",
+    "username": "happyzebra108",
+    "password": "wolfie",
+    "invokedAt": "2023-03-15T13:38:44.030Z"
   }
 ]
