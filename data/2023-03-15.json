@@ -1030,5 +1030,13 @@
     "username": "smallkoala483",
     "password": "thegame",
     "invokedAt": "2023-03-15T21:53:14.552Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Clarke",
+    "email": "alice.clarke@example.com",
+    "username": "blackrabbit986",
+    "password": "bowler",
+    "invokedAt": "2023-03-15T21:59:07.149Z"
   }
 ]
