@@ -358,5 +358,13 @@
     "username": "goldenkoala889",
     "password": "purdue",
     "invokedAt": "2023-03-15T08:58:25.917Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Palmer",
+    "email": "neil.palmer@example.com",
+    "username": "happybird153",
+    "password": "mozart",
+    "invokedAt": "2023-03-15T09:12:51.195Z"
   }
 ]
