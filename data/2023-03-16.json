@@ -918,5 +918,13 @@
     "username": "heavyswan112",
     "password": "dave",
     "invokedAt": "2023-03-16T20:34:10.517Z"
+  },
+  {
+    "firstName": "Ahmad",
+    "lastName": "Furu",
+    "email": "ahmad.furu@example.com",
+    "username": "orangewolf171",
+    "password": "skydive",
+    "invokedAt": "2023-03-16T20:40:03.099Z"
   }
 ]
