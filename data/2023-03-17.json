@@ -382,5 +382,13 @@
     "username": "bigostrich301",
     "password": "anthony1",
     "invokedAt": "2023-03-17T09:29:40.228Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Okumuş",
+    "email": "gul.okumus@example.com",
+    "username": "purplebird275",
+    "password": "picasso",
+    "invokedAt": "2023-03-17T09:36:25.975Z"
   }
 ]
