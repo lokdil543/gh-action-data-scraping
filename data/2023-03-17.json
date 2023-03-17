@@ -886,5 +886,13 @@
     "username": "crazymeercat754",
     "password": "smile",
     "invokedAt": "2023-03-17T19:21:40.811Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Kurtti",
+    "email": "amanda.kurtti@example.com",
+    "username": "crazykoala792",
+    "password": "foobar",
+    "invokedAt": "2023-03-17T19:27:28.795Z"
   }
 ]
