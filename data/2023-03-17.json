@@ -614,5 +614,13 @@
     "username": "orangefish680",
     "password": "rockies",
     "invokedAt": "2023-03-17T14:12:55.189Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Vasquez",
+    "email": "eric.vasquez@example.com",
+    "username": "whiteswan243",
+    "password": "baxter",
+    "invokedAt": "2023-03-17T14:26:13.235Z"
   }
 ]
