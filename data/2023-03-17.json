@@ -726,5 +726,13 @@
     "username": "smallbutterfly802",
     "password": "1103",
     "invokedAt": "2023-03-17T16:12:22.871Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Holland",
+    "email": "edward.holland@example.com",
+    "username": "angrydog559",
+    "password": "timeout",
+    "invokedAt": "2023-03-17T16:34:20.566Z"
   }
 ]
