@@ -214,5 +214,13 @@
     "username": "lazydog239",
     "password": "blaze",
     "invokedAt": "2023-03-17T06:25:56.007Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Welch",
+    "email": "kayla.welch@example.com",
+    "username": "angrygoose360",
+    "password": "wendy",
+    "invokedAt": "2023-03-17T06:36:16.092Z"
   }
 ]
