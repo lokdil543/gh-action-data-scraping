@@ -518,5 +518,13 @@
     "username": "yellowgorilla100",
     "password": "deftones",
     "invokedAt": "2023-03-17T11:43:46.314Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Robinson",
+    "email": "marcus.robinson@example.com",
+    "username": "sadbird489",
+    "password": "hores",
+    "invokedAt": "2023-03-17T11:49:50.502Z"
   }
 ]
