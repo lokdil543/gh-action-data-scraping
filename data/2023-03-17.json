@@ -142,5 +142,13 @@
     "username": "whitefrog558",
     "password": "meredith",
     "invokedAt": "2023-03-17T04:58:30.813Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Christensen",
+    "email": "sander.christensen@example.com",
+    "username": "bluegorilla770",
+    "password": "pirates",
+    "invokedAt": "2023-03-17T05:11:26.391Z"
   }
 ]
