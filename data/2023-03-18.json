@@ -430,5 +430,13 @@
     "username": "orangegoose233",
     "password": "howell",
     "invokedAt": "2023-03-18T09:49:48.649Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Smith",
+    "email": "molly.smith@example.com",
+    "username": "redbird123",
+    "password": "windows1",
+    "invokedAt": "2023-03-18T09:55:41.278Z"
   }
 ]
