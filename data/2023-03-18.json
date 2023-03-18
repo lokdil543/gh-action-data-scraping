@@ -678,5 +678,13 @@
     "username": "bigrabbit206",
     "password": "ironman",
     "invokedAt": "2023-03-18T14:35:05.068Z"
+  },
+  {
+    "firstName": "Ignacio",
+    "lastName": "Gutiérrez",
+    "email": "ignacio.gutierrez@example.com",
+    "username": "smallbear483",
+    "password": "timeout",
+    "invokedAt": "2023-03-18T14:41:11.540Z"
   }
 ]
