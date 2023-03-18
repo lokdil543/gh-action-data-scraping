@@ -742,5 +742,13 @@
     "username": "angrypanda802",
     "password": "simba",
     "invokedAt": "2023-03-18T15:36:19.547Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Herrera",
+    "email": "jane.herrera@example.com",
+    "username": "goldenbear153",
+    "password": "guido",
+    "invokedAt": "2023-03-18T15:42:24.410Z"
   }
 ]
