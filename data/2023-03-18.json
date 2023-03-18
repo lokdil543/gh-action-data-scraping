@@ -1038,5 +1038,13 @@
     "username": "browngorilla955",
     "password": "govols",
     "invokedAt": "2023-03-18T20:37:33.231Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "García",
+    "email": "pedro.garcia@example.com",
+    "username": "bigcat498",
+    "password": "phrases",
+    "invokedAt": "2023-03-18T20:43:19.328Z"
   }
 ]
