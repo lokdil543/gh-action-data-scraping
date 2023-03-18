@@ -86,5 +86,13 @@
     "username": "organiclion241",
     "password": "longbow",
     "invokedAt": "2023-03-18T03:50:15.480Z"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Fisher",
+    "email": "gordon.fisher@example.com",
+    "username": "bigduck112",
+    "password": "br0d3r",
+    "invokedAt": "2023-03-18T03:56:17.544Z"
   }
 ]
