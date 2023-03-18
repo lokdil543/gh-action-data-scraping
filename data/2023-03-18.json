@@ -670,5 +670,13 @@
     "username": "purplewolf248",
     "password": "slim",
     "invokedAt": "2023-03-18T14:28:57.346Z"
+  },
+  {
+    "firstName": "Abbie",
+    "lastName": "Fowler",
+    "email": "abbie.fowler@example.com",
+    "username": "bigrabbit206",
+    "password": "ironman",
+    "invokedAt": "2023-03-18T14:35:05.068Z"
   }
 ]
