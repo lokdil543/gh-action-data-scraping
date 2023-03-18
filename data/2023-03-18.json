@@ -590,5 +590,13 @@
     "username": "crazytiger690",
     "password": "engine",
     "invokedAt": "2023-03-18T13:00:55.345Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Lee",
+    "email": "raymond.lee@example.com",
+    "username": "ticklishbird169",
+    "password": "dynamite",
+    "invokedAt": "2023-03-18T13:19:36.765Z"
   }
 ]
