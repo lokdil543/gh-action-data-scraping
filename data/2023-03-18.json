@@ -790,5 +790,13 @@
     "username": "yellowtiger970",
     "password": "quebec",
     "invokedAt": "2023-03-18T16:36:31.402Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Christensen",
+    "email": "tobias.christensen@example.com",
+    "username": "redrabbit398",
+    "password": "twins",
+    "invokedAt": "2023-03-18T16:45:06.399Z"
   }
 ]
