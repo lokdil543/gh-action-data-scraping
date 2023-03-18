@@ -438,5 +438,13 @@
     "username": "redbird123",
     "password": "windows1",
     "invokedAt": "2023-03-18T09:55:41.278Z"
+  },
+  {
+    "firstName": "Fredrik",
+    "lastName": "Horsman",
+    "email": "fredrik.horsman@example.com",
+    "username": "goldencat689",
+    "password": "amber",
+    "invokedAt": "2023-03-18T10:06:17.833Z"
   }
 ]
