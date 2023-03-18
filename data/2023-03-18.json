@@ -70,5 +70,13 @@
     "username": "browndog234",
     "password": "gotcha",
     "invokedAt": "2023-03-18T03:38:34.462Z"
+  },
+  {
+    "firstName": "Jesús",
+    "lastName": "Moreno",
+    "email": "jesus.moreno@example.com",
+    "username": "happypanda549",
+    "password": "gone",
+    "invokedAt": "2023-03-18T03:44:23.714Z"
   }
 ]
