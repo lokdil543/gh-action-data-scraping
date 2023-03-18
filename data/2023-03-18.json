@@ -710,5 +710,13 @@
     "username": "brownostrich968",
     "password": "apache",
     "invokedAt": "2023-03-18T14:59:06.440Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Berger",
+    "email": "eric.berger@example.com",
+    "username": "blueostrich862",
+    "password": "shark1",
+    "invokedAt": "2023-03-18T15:12:26.308Z"
   }
 ]
