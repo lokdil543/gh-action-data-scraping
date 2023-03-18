@@ -1006,5 +1006,13 @@
     "username": "angrykoala666",
     "password": "doggie",
     "invokedAt": "2023-03-18T19:59:23.488Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Ağaoğlu",
+    "email": "emre.agaoglu@example.com",
+    "username": "tinycat691",
+    "password": "1234567",
+    "invokedAt": "2023-03-18T20:13:35.742Z"
   }
 ]
