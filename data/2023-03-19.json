@@ -278,5 +278,13 @@
     "username": "angrypeacock633",
     "password": "prelude",
     "invokedAt": "2023-03-19T07:37:00.702Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Le Gall",
+    "email": "charlie.legall@example.com",
+    "username": "redmouse367",
+    "password": "eclipse",
+    "invokedAt": "2023-03-19T07:42:50.871Z"
   }
 ]
