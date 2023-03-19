@@ -414,5 +414,13 @@
     "username": "browncat622",
     "password": "shrimp",
     "invokedAt": "2023-03-19T09:52:45.425Z"
+  },
+  {
+    "firstName": "Orlando",
+    "lastName": "Morel",
+    "email": "orlando.morel@example.com",
+    "username": "redduck822",
+    "password": "disney",
+    "invokedAt": "2023-03-19T09:58:33.668Z"
   }
 ]
