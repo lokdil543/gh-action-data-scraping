@@ -1150,5 +1150,13 @@
     "username": "bigzebra301",
     "password": "wrestling",
     "invokedAt": "2023-03-19T22:48:05.029Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Mikkola",
+    "email": "eetu.mikkola@example.com",
+    "username": "silverzebra405",
+    "password": "dusty",
+    "invokedAt": "2023-03-19T22:53:57.283Z"
   }
 ]
