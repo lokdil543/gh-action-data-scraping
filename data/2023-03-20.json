@@ -558,5 +558,13 @@
     "username": "beautifulfish545",
     "password": "phone",
     "invokedAt": "2023-03-20T13:33:24.704Z"
+  },
+  {
+    "firstName": "Hans-Peter",
+    "lastName": "Häuser",
+    "email": "hans-peter.hauser@example.com",
+    "username": "bigmouse851",
+    "password": "waffle",
+    "invokedAt": "2023-03-20T13:41:33.246Z"
   }
 ]
