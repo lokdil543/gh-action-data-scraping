@@ -782,5 +782,13 @@
     "username": "bigdog790",
     "password": "virgil",
     "invokedAt": "2023-03-20T18:00:28.108Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Hamilton",
+    "email": "howard.hamilton@example.com",
+    "username": "tinypeacock653",
+    "password": "reng",
+    "invokedAt": "2023-03-20T18:20:31.750Z"
   }
 ]
