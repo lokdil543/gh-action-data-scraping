@@ -606,5 +606,13 @@
     "username": "lazypanda997",
     "password": "alexa",
     "invokedAt": "2023-03-20T14:29:45.373Z"
+  },
+  {
+    "firstName": "Lasse",
+    "lastName": "Gunnarsen",
+    "email": "lasse.gunnarsen@example.com",
+    "username": "whiteduck670",
+    "password": "orange",
+    "invokedAt": "2023-03-20T14:39:11.342Z"
   }
 ]
