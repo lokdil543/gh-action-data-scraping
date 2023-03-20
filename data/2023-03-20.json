@@ -1118,5 +1118,13 @@
     "username": "blackelephant341",
     "password": "deftones",
     "invokedAt": "2023-03-20T23:38:22.702Z"
+  },
+  {
+    "firstName": "Gregory",
+    "lastName": "Scott",
+    "email": "gregory.scott@example.com",
+    "username": "bigbird193",
+    "password": "playmate",
+    "invokedAt": "2023-03-20T23:44:22.507Z"
   }
 ]
