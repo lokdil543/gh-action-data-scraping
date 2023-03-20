@@ -758,5 +758,13 @@
     "username": "yellowduck889",
     "password": "blue12",
     "invokedAt": "2023-03-20T17:42:36.946Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Frazier",
+    "email": "laura.frazier@example.com",
+    "username": "blackbear905",
+    "password": "piggy",
+    "invokedAt": "2023-03-20T17:48:38.725Z"
   }
 ]
