@@ -294,5 +294,13 @@
     "username": "tinyduck387",
     "password": "insertion",
     "invokedAt": "2023-03-21T07:19:32.168Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Sørensen",
+    "email": "sebastian.sorensen@example.com",
+    "username": "crazykoala139",
+    "password": "kuang",
+    "invokedAt": "2023-03-21T07:25:30.878Z"
   }
 ]
