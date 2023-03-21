@@ -574,5 +574,13 @@
     "username": "whitegoose142",
     "password": "carbon",
     "invokedAt": "2023-03-21T11:54:05.909Z"
+  },
+  {
+    "firstName": "Olga",
+    "lastName": "Domontovich",
+    "email": "olga.domontovich@example.com",
+    "username": "heavyostrich803",
+    "password": "surf",
+    "invokedAt": "2023-03-21T12:00:07.311Z"
   }
 ]
