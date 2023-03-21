@@ -1270,5 +1270,13 @@
     "username": "sadmouse480",
     "password": "meow",
     "invokedAt": "2023-03-21T23:39:46.367Z"
+  },
+  {
+    "firstName": "Aubrey",
+    "lastName": "Hoffman",
+    "email": "aubrey.hoffman@example.com",
+    "username": "yellowkoala451",
+    "password": "starwars",
+    "invokedAt": "2023-03-21T23:45:35.934Z"
   }
 ]
