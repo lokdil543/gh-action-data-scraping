@@ -982,5 +982,13 @@
     "username": "whitebird357",
     "password": "training",
     "invokedAt": "2023-03-21T19:16:51.723Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Smith",
+    "email": "ryan.smith@example.com",
+    "username": "smallbird547",
+    "password": "1123",
+    "invokedAt": "2023-03-21T19:22:54.382Z"
   }
 ]
