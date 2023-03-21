@@ -854,5 +854,13 @@
     "username": "smalltiger658",
     "password": "nobody",
     "invokedAt": "2023-03-21T16:59:09.298Z"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "West",
+    "email": "julian.west@example.com",
+    "username": "purplebear365",
+    "password": "torpedo",
+    "invokedAt": "2023-03-21T17:11:38.793Z"
   }
 ]
