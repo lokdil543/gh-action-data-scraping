@@ -1094,5 +1094,13 @@
     "username": "blackbird957",
     "password": "formula1",
     "invokedAt": "2023-03-22T21:31:42.344Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Brewer",
+    "email": "richard.brewer@example.com",
+    "username": "beautifulpeacock221",
+    "password": "motor",
+    "invokedAt": "2023-03-22T21:37:40.793Z"
   }
 ]
