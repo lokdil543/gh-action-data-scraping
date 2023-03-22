@@ -1126,5 +1126,13 @@
     "username": "bluemouse868",
     "password": "a12345",
     "invokedAt": "2023-03-22T21:55:24.741Z"
+  },
+  {
+    "firstName": "Oswald",
+    "lastName": "Legrand",
+    "email": "oswald.legrand@example.com",
+    "username": "smallpeacock888",
+    "password": "casey",
+    "invokedAt": "2023-03-22T22:03:16.411Z"
   }
 ]
