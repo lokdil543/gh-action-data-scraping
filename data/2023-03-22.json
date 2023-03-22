@@ -206,5 +206,13 @@
     "username": "greendog911",
     "password": "tractor",
     "invokedAt": "2023-03-22T05:47:15.590Z"
+  },
+  {
+    "firstName": "Lyubomil",
+    "lastName": "Petrishin",
+    "email": "lyubomil.petrishin@example.com",
+    "username": "tinybird525",
+    "password": "comet",
+    "invokedAt": "2023-03-22T05:53:12.621Z"
   }
 ]
