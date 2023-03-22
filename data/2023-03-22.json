@@ -1222,5 +1222,13 @@
     "username": "tinyelephant587",
     "password": "school",
     "invokedAt": "2023-03-22T23:25:38.463Z"
+  },
+  {
+    "firstName": "Annie",
+    "lastName": "Brown",
+    "email": "annie.brown@example.com",
+    "username": "crazybear175",
+    "password": "planet",
+    "invokedAt": "2023-03-22T23:31:49.451Z"
   }
 ]
