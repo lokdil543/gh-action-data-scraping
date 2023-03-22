@@ -702,5 +702,13 @@
     "username": "orangepanda317",
     "password": "runner",
     "invokedAt": "2023-03-22T14:47:42.282Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Živanović",
+    "email": "nemanja.zivanovic@example.com",
+    "username": "bigwolf519",
+    "password": "reddevil",
+    "invokedAt": "2023-03-22T14:53:37.232Z"
   }
 ]
