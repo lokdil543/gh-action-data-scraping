@@ -926,5 +926,13 @@
     "username": "bigfrog782",
     "password": "1515",
     "invokedAt": "2023-03-23T19:09:19.312Z"
+  },
+  {
+    "firstName": "Harold",
+    "lastName": "Mccoy",
+    "email": "harold.mccoy@example.com",
+    "username": "tinymouse418",
+    "password": "summit",
+    "invokedAt": "2023-03-23T19:17:36.127Z"
   }
 ]
