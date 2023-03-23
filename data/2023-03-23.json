@@ -246,5 +246,13 @@
     "username": "heavypeacock801",
     "password": "joke",
     "invokedAt": "2023-03-23T06:31:30.690Z"
+  },
+  {
+    "firstName": "Ray",
+    "lastName": "Spencer",
+    "email": "ray.spencer@example.com",
+    "username": "bluegorilla417",
+    "password": "compass",
+    "invokedAt": "2023-03-23T06:39:57.307Z"
   }
 ]
