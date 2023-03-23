@@ -718,5 +718,13 @@
     "username": "happykoala412",
     "password": "washington",
     "invokedAt": "2023-03-23T15:24:38.672Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Gray",
+    "email": "brittany.gray@example.com",
+    "username": "silverladybug157",
+    "password": "smithers",
+    "invokedAt": "2023-03-23T15:30:29.213Z"
   }
 ]
