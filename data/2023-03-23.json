@@ -1126,5 +1126,13 @@
     "username": "crazydog565",
     "password": "customer",
     "invokedAt": "2023-03-23T22:11:03.343Z"
+  },
+  {
+    "firstName": "Adriana",
+    "lastName": "da Rocha",
+    "email": "adriana.darocha@example.com",
+    "username": "greenbear937",
+    "password": "pounding",
+    "invokedAt": "2023-03-23T22:24:31.025Z"
   }
 ]
