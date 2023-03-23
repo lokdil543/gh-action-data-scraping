@@ -526,5 +526,13 @@
     "username": "blackbear819",
     "password": "inter",
     "invokedAt": "2023-03-23T11:18:52.387Z"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Terry",
+    "email": "mia.terry@example.com",
+    "username": "lazybear714",
+    "password": "987456",
+    "invokedAt": "2023-03-23T11:24:49.166Z"
   }
 ]
