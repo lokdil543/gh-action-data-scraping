@@ -782,5 +782,13 @@
     "username": "browncat580",
     "password": "phantom",
     "invokedAt": "2023-03-24T16:16:49.756Z"
+  },
+  {
+    "firstName": "Nedeljko",
+    "lastName": "Zeljković",
+    "email": "nedeljko.zeljkovic@example.com",
+    "username": "heavyduck407",
+    "password": "helper",
+    "invokedAt": "2023-03-24T16:35:54.722Z"
   }
 ]
