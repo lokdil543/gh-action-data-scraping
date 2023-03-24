@@ -686,5 +686,13 @@
     "username": "smallbutterfly961",
     "password": "earth",
     "invokedAt": "2023-03-24T14:37:05.456Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Ryan",
+    "email": "jackson.ryan@example.com",
+    "username": "beautifultiger894",
+    "password": "surfing",
+    "invokedAt": "2023-03-24T14:42:54.585Z"
   }
 ]
