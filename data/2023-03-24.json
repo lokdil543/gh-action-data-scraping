@@ -494,5 +494,13 @@
     "username": "angrypanda217",
     "password": "polly",
     "invokedAt": "2023-03-24T10:45:58.214Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Jørgensen",
+    "email": "jacob.jorgensen@example.com",
+    "username": "greencat450",
+    "password": "25252525",
+    "invokedAt": "2023-03-24T10:51:59.081Z"
   }
 ]
