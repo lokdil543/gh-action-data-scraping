@@ -182,5 +182,13 @@
     "username": "bigbird287",
     "password": "iiii",
     "invokedAt": "2023-03-24T05:28:29.604Z"
+  },
+  {
+    "firstName": "Bjørnar",
+    "lastName": "Selnes",
+    "email": "bjornar.selnes@example.com",
+    "username": "sadmeercat212",
+    "password": "enigma",
+    "invokedAt": "2023-03-24T05:35:04.429Z"
   }
 ]
