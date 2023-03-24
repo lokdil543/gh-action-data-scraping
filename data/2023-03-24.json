@@ -846,5 +846,13 @@
     "username": "sadkoala702",
     "password": "kansas",
     "invokedAt": "2023-03-24T17:36:06.629Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Pulkkinen",
+    "email": "pinja.pulkkinen@example.com",
+    "username": "lazypeacock504",
+    "password": "4711",
+    "invokedAt": "2023-03-24T17:42:05.599Z"
   }
 ]
