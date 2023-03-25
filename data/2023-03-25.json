@@ -118,5 +118,13 @@
     "username": "lazyelephant831",
     "password": "theforce",
     "invokedAt": "2023-03-25T04:15:47.147Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Rasmussen",
+    "email": "victor.rasmussen@example.com",
+    "username": "orangemouse631",
+    "password": "encore",
+    "invokedAt": "2023-03-25T04:29:42.779Z"
   }
 ]
