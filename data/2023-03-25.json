@@ -550,5 +550,13 @@
     "username": "heavyduck951",
     "password": "mindy",
     "invokedAt": "2023-03-25T11:16:23.469Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Tuomala",
+    "email": "rasmus.tuomala@example.com",
+    "username": "crazykoala258",
+    "password": "hiphop",
+    "invokedAt": "2023-03-25T11:22:19.612Z"
   }
 ]
