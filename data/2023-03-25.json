@@ -1318,5 +1318,13 @@
     "username": "bigfish413",
     "password": "jersey",
     "invokedAt": "2023-03-25T23:51:50.145Z"
+  },
+  {
+    "firstName": "Mishka",
+    "lastName": "Babu",
+    "email": "mishka.babu@example.com",
+    "username": "greenbutterfly884",
+    "password": "gizmo1",
+    "invokedAt": "2023-03-25T23:57:36.469Z"
   }
 ]
