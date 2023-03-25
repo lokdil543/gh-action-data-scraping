@@ -918,5 +918,13 @@
     "username": "brownleopard773",
     "password": "ronaldo",
     "invokedAt": "2023-03-25T17:44:24.545Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Torres",
+    "email": "carlos.torres@example.com",
+    "username": "bigleopard667",
+    "password": "wrestling",
+    "invokedAt": "2023-03-25T17:50:28.769Z"
   }
 ]
