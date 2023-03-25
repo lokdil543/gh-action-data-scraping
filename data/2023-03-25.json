@@ -262,5 +262,13 @@
     "username": "angryrabbit489",
     "password": "saturday",
     "invokedAt": "2023-03-25T06:43:02.922Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Wong",
+    "email": "blake.wong@example.com",
+    "username": "bigdog827",
+    "password": "chan",
+    "invokedAt": "2023-03-25T06:48:52.120Z"
   }
 ]
