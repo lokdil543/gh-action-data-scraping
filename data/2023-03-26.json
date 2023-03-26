@@ -526,5 +526,13 @@
     "username": "lazyduck805",
     "password": "falcon1",
     "invokedAt": "2023-03-26T11:05:57.709Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Román",
+    "email": "christian.roman@example.com",
+    "username": "purplebear274",
+    "password": "city",
+    "invokedAt": "2023-03-26T11:16:09.180Z"
   }
 ]
