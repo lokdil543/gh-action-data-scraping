@@ -326,5 +326,13 @@
     "username": "crazyostrich237",
     "password": "cat123",
     "invokedAt": "2023-03-26T07:50:12.021Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Thomsen",
+    "email": "sophie.thomsen@example.com",
+    "username": "organictiger231",
+    "password": "seahawks",
+    "invokedAt": "2023-03-26T07:56:10.809Z"
   }
 ]
