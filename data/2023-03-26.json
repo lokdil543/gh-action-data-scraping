@@ -158,5 +158,13 @@
     "username": "yellowfrog989",
     "password": "corvette",
     "invokedAt": "2023-03-26T05:11:38.432Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Andersen",
+    "email": "victor.andersen@example.com",
+    "username": "orangedog311",
+    "password": "puffer",
+    "invokedAt": "2023-03-26T05:23:22.541Z"
   }
 ]
