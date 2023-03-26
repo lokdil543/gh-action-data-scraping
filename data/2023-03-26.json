@@ -734,5 +734,13 @@
     "username": "crazycat680",
     "password": "server",
     "invokedAt": "2023-03-26T14:55:03.336Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Thomas",
+    "email": "erik.thomas@example.com",
+    "username": "tinydog751",
+    "password": "lightnin",
+    "invokedAt": "2023-03-26T15:01:45.697Z"
   }
 ]
