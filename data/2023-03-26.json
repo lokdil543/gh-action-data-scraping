@@ -558,5 +558,13 @@
     "username": "redostrich355",
     "password": "swedish",
     "invokedAt": "2023-03-26T11:34:04.485Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Walker",
+    "email": "herbert.walker@example.com",
+    "username": "yellowsnake586",
+    "password": "melanie",
+    "invokedAt": "2023-03-26T11:39:56.675Z"
   }
 ]
