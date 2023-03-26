@@ -550,5 +550,13 @@
     "username": "yellowfish849",
     "password": "sounds",
     "invokedAt": "2023-03-26T11:27:54.275Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Shelton",
+    "email": "juan.shelton@example.com",
+    "username": "redostrich355",
+    "password": "swedish",
+    "invokedAt": "2023-03-26T11:34:04.485Z"
   }
 ]
