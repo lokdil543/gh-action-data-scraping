@@ -150,5 +150,13 @@
     "username": "sadfrog271",
     "password": "lightnin",
     "invokedAt": "2023-03-26T04:59:17.297Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "George",
+    "email": "jon.george@example.com",
+    "username": "yellowfrog989",
+    "password": "corvette",
+    "invokedAt": "2023-03-26T05:11:38.432Z"
   }
 ]
