@@ -662,5 +662,13 @@
     "username": "greencat292",
     "password": "dominion",
     "invokedAt": "2023-03-26T13:49:35.233Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Anđelić",
+    "email": "maria.andelic@example.com",
+    "username": "bigfrog239",
+    "password": "christopher",
+    "invokedAt": "2023-03-26T13:55:40.296Z"
   }
 ]
