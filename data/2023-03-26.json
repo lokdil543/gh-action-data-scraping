@@ -1086,5 +1086,13 @@
     "username": "yellowfrog111",
     "password": "contains",
     "invokedAt": "2023-03-26T20:42:05.854Z"
+  },
+  {
+    "firstName": "Florence",
+    "lastName": "Patel",
+    "email": "florence.patel@example.com",
+    "username": "blueladybug456",
+    "password": "energy",
+    "invokedAt": "2023-03-26T20:48:12.464Z"
   }
 ]
