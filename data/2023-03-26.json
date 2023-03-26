@@ -534,5 +534,13 @@
     "username": "purplebear274",
     "password": "city",
     "invokedAt": "2023-03-26T11:16:09.180Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Gonzales",
+    "email": "dave.gonzales@example.com",
+    "username": "greenpanda386",
+    "password": "qwerty",
+    "invokedAt": "2023-03-26T11:22:01.336Z"
   }
 ]
