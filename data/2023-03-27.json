@@ -366,5 +366,13 @@
     "username": "yellowfrog902",
     "password": "wordpass",
     "invokedAt": "2023-03-27T08:47:26.454Z"
+  },
+  {
+    "firstName": "Sidraque",
+    "lastName": "de Souza",
+    "email": "sidraque.desouza@example.com",
+    "username": "yellowostrich805",
+    "password": "doofus",
+    "invokedAt": "2023-03-27T08:53:43.448Z"
   }
 ]
