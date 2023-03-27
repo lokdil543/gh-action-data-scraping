@@ -670,5 +670,13 @@
     "username": "brownfish944",
     "password": "istanbul",
     "invokedAt": "2023-03-27T16:33:29.374Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Babacan",
+    "email": "babur.babacan@example.com",
+    "username": "whitefish597",
+    "password": "jazzman",
+    "invokedAt": "2023-03-27T16:44:45.534Z"
   }
 ]
