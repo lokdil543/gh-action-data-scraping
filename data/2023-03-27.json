@@ -526,5 +526,13 @@
     "username": "orangegorilla466",
     "password": "canada",
     "invokedAt": "2023-03-27T11:38:37.848Z"
+  },
+  {
+    "firstName": "Milla",
+    "lastName": "Aro",
+    "email": "milla.aro@example.com",
+    "username": "goldentiger243",
+    "password": "older",
+    "invokedAt": "2023-03-27T11:44:30.232Z"
   }
 ]
