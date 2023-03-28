@@ -606,5 +606,13 @@
     "username": "sadtiger642",
     "password": "bowwow",
     "invokedAt": "2023-03-28T13:48:28.371Z"
+  },
+  {
+    "firstName": "Thibaut",
+    "lastName": "Lefebvre",
+    "email": "thibaut.lefebvre@example.com",
+    "username": "redgoose875",
+    "password": "gator1",
+    "invokedAt": "2023-03-28T13:54:18.355Z"
   }
 ]
