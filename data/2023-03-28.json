@@ -766,5 +766,13 @@
     "username": "smallzebra254",
     "password": "heineken",
     "invokedAt": "2023-03-28T17:24:36.140Z"
+  },
+  {
+    "firstName": "Lincoln",
+    "lastName": "White",
+    "email": "lincoln.white@example.com",
+    "username": "lazypanda357",
+    "password": "monty",
+    "invokedAt": "2023-03-28T17:30:36.240Z"
   }
 ]
