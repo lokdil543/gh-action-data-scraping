@@ -734,5 +734,13 @@
     "username": "bigduck445",
     "password": "lawrence",
     "invokedAt": "2023-03-28T16:23:34.670Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Yazıcı",
+    "email": "gul.yazici@example.com",
+    "username": "browntiger677",
+    "password": "spoon",
+    "invokedAt": "2023-03-28T16:48:50.721Z"
   }
 ]
