@@ -182,5 +182,13 @@
     "username": "crazysnake493",
     "password": "fender",
     "invokedAt": "2023-03-28T05:35:06.453Z"
+  },
+  {
+    "firstName": "Cédric",
+    "lastName": "Klunder",
+    "email": "cedric.klunder@example.com",
+    "username": "greenmouse906",
+    "password": "minemine",
+    "invokedAt": "2023-03-28T05:41:13.776Z"
   }
 ]
