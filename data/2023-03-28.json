@@ -406,5 +406,13 @@
     "username": "brownleopard603",
     "password": "biit",
     "invokedAt": "2023-03-28T09:37:22.554Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Mora",
+    "email": "miguel.mora@example.com",
+    "username": "tinybird282",
+    "password": "bricks",
+    "invokedAt": "2023-03-28T09:43:38.326Z"
   }
 ]
