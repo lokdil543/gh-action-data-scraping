@@ -110,5 +110,13 @@
     "username": "whitefish571",
     "password": "sandiego",
     "invokedAt": "2023-03-28T04:15:03.064Z"
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Rivera",
+    "email": "diane.rivera@example.com",
+    "username": "bluefish178",
+    "password": "cars",
+    "invokedAt": "2023-03-28T04:30:11.637Z"
   }
 ]
