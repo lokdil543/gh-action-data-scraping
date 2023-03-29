@@ -670,5 +670,13 @@
     "username": "smallfish315",
     "password": "redleg",
     "invokedAt": "2023-03-29T18:52:09.617Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Granados",
+    "email": "juan.granados@example.com",
+    "username": "bigmeercat618",
+    "password": "chronic",
+    "invokedAt": "2023-03-29T18:58:00.333Z"
   }
 ]
