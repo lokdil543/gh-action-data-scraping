@@ -86,5 +86,13 @@
     "username": "greencat556",
     "password": "newpass",
     "invokedAt": "2023-03-29T03:55:12.319Z"
+  },
+  {
+    "firstName": "Sabina",
+    "lastName": "Den Breejen",
+    "email": "sabina.denbreejen@example.com",
+    "username": "blackgorilla926",
+    "password": "rrpass1",
+    "invokedAt": "2023-03-29T04:07:19.362Z"
   }
 ]
