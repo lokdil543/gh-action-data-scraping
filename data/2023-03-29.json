@@ -918,5 +918,13 @@
     "username": "sadelephant650",
     "password": "start1",
     "invokedAt": "2023-03-29T22:49:04.453Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Walker",
+    "email": "nathan.walker@example.com",
+    "username": "heavybear625",
+    "password": "flexible",
+    "invokedAt": "2023-03-29T22:55:00.611Z"
   }
 ]
