@@ -878,5 +878,13 @@
     "username": "silverbird898",
     "password": "portugal",
     "invokedAt": "2023-03-30T18:39:24.967Z"
+  },
+  {
+    "firstName": "Ibrahim",
+    "lastName": "Wickstrøm",
+    "email": "ibrahim.wickstrom@example.com",
+    "username": "bluebird622",
+    "password": "nick",
+    "invokedAt": "2023-03-30T18:45:21.634Z"
   }
 ]
