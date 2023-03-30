@@ -294,5 +294,13 @@
     "username": "greenbutterfly452",
     "password": "1982",
     "invokedAt": "2023-03-30T07:37:41.065Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Bravo",
+    "email": "john.bravo@example.com",
+    "username": "blackmeercat209",
+    "password": "ncc1701a",
+    "invokedAt": "2023-03-30T07:43:44.276Z"
   }
 ]
