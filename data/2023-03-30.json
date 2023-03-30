@@ -606,5 +606,13 @@
     "username": "ticklishwolf264",
     "password": "bank",
     "invokedAt": "2023-03-30T13:47:06.392Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Bates",
+    "email": "peter.bates@example.com",
+    "username": "bluepanda528",
+    "password": "misty1",
+    "invokedAt": "2023-03-30T13:53:00.618Z"
   }
 ]
