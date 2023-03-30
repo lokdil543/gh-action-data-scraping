@@ -1190,5 +1190,13 @@
     "username": "happypeacock465",
     "password": "liberty",
     "invokedAt": "2023-03-30T23:29:38.482Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Møller",
+    "email": "philip.moller@example.com",
+    "username": "goldenbird432",
+    "password": "chapman",
+    "invokedAt": "2023-03-30T23:35:53.359Z"
   }
 ]
