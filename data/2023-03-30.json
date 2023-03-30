@@ -662,5 +662,13 @@
     "username": "crazywolf366",
     "password": "waldo1",
     "invokedAt": "2023-03-30T14:43:21.224Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Rasmussen",
+    "email": "julie.rasmussen@example.com",
+    "username": "brownfish941",
+    "password": "wrestling",
+    "invokedAt": "2023-03-30T14:49:18.833Z"
   }
 ]
