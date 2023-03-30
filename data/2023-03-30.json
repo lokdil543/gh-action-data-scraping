@@ -526,5 +526,13 @@
     "username": "whitemouse957",
     "password": "playball",
     "invokedAt": "2023-03-30T11:36:16.694Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Lucas",
+    "email": "roger.lucas@example.com",
+    "username": "silvermouse463",
+    "password": "jeremy1",
+    "invokedAt": "2023-03-30T11:42:10.510Z"
   }
 ]
