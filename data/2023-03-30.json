@@ -670,5 +670,13 @@
     "username": "brownfish941",
     "password": "wrestling",
     "invokedAt": "2023-03-30T14:49:18.833Z"
+  },
+  {
+    "firstName": "Mons",
+    "lastName": "Halstensen",
+    "email": "mons.halstensen@example.com",
+    "username": "sadgorilla692",
+    "password": "mighty",
+    "invokedAt": "2023-03-30T14:55:04.425Z"
   }
 ]
