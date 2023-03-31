@@ -62,5 +62,13 @@
     "username": "sadlion789",
     "password": "smurf",
     "invokedAt": "2023-03-31T03:30:02.788Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Madsen",
+    "email": "emil.madsen@example.com",
+    "username": "greencat850",
+    "password": "emilio",
+    "invokedAt": "2023-03-31T03:36:11.396Z"
   }
 ]
