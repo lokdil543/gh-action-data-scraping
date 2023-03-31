@@ -622,5 +622,13 @@
     "username": "greentiger120",
     "password": "babylon",
     "invokedAt": "2023-03-31T13:41:56.672Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Côté",
+    "email": "jack.cote@example.com",
+    "username": "purplecat712",
+    "password": "hattrick",
+    "invokedAt": "2023-03-31T13:47:54.211Z"
   }
 ]
