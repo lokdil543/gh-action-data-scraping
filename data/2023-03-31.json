@@ -702,5 +702,13 @@
     "username": "bluebear434",
     "password": "qwert1",
     "invokedAt": "2023-03-31T14:55:06.864Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Lagesen",
+    "email": "nicklas.lagesen@example.com",
+    "username": "goldenzebra423",
+    "password": "12344321",
+    "invokedAt": "2023-03-31T15:02:36.648Z"
   }
 ]
