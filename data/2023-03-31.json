@@ -54,5 +54,13 @@
     "username": "redpanda638",
     "password": "nights",
     "invokedAt": "2023-03-31T03:24:06.602Z"
+  },
+  {
+    "firstName": "Ronja",
+    "lastName": "Heikkinen",
+    "email": "ronja.heikkinen@example.com",
+    "username": "sadlion789",
+    "password": "smurf",
+    "invokedAt": "2023-03-31T03:30:02.788Z"
   }
 ]
