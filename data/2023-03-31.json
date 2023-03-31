@@ -430,5 +430,13 @@
     "username": "silverdog163",
     "password": "spiderma",
     "invokedAt": "2023-03-31T09:48:38.587Z"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "Guerrero",
+    "email": "guillermo.guerrero@example.com",
+    "username": "purpleostrich757",
+    "password": "postman",
+    "invokedAt": "2023-03-31T09:54:28.336Z"
   }
 ]
