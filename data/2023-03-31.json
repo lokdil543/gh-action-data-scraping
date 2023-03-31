@@ -182,5 +182,13 @@
     "username": "heavyleopard270",
     "password": "picard",
     "invokedAt": "2023-03-31T05:35:03.562Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Møller",
+    "email": "adam.moller@example.com",
+    "username": "heavyrabbit579",
+    "password": "blackbir",
+    "invokedAt": "2023-03-31T05:40:59.291Z"
   }
 ]
