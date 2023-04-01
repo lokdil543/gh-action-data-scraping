@@ -542,5 +542,13 @@
     "username": "tinylion379",
     "password": "snappy",
     "invokedAt": "2023-04-01T10:50:00.804Z"
+  },
+  {
+    "firstName": "Bjorn",
+    "lastName": "Van Domselaar",
+    "email": "bjorn.vandomselaar@example.com",
+    "username": "heavybear995",
+    "password": "again",
+    "invokedAt": "2023-04-01T10:55:59.677Z"
   }
 ]
