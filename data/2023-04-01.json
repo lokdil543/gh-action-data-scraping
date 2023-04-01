@@ -974,5 +974,13 @@
     "username": "blacklion652",
     "password": "magic1",
     "invokedAt": "2023-04-01T18:14:26.621Z"
+  },
+  {
+    "firstName": "Milo",
+    "lastName": "Lemaire",
+    "email": "milo.lemaire@example.com",
+    "username": "brownfish560",
+    "password": "cupcake",
+    "invokedAt": "2023-04-01T18:26:38.516Z"
   }
 ]
