@@ -1038,5 +1038,13 @@
     "username": "happywolf747",
     "password": "sonics",
     "invokedAt": "2023-04-01T19:14:52.181Z"
+  },
+  {
+    "firstName": "Naja",
+    "lastName": "Andersen",
+    "email": "naja.andersen@example.com",
+    "username": "bigsnake826",
+    "password": "django",
+    "invokedAt": "2023-04-01T19:20:51.199Z"
   }
 ]
