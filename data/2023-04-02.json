@@ -646,5 +646,13 @@
     "username": "brownrabbit999",
     "password": "maggot",
     "invokedAt": "2023-04-02T12:42:11.534Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Roux",
+    "email": "remy.roux@example.com",
+    "username": "sadostrich766",
+    "password": "chan",
+    "invokedAt": "2023-04-02T12:56:22.427Z"
   }
 ]
