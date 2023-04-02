@@ -270,5 +270,13 @@
     "username": "whiteduck345",
     "password": "keystone",
     "invokedAt": "2023-04-02T06:37:19.448Z"
+  },
+  {
+    "firstName": "Mille",
+    "lastName": "Andersen",
+    "email": "mille.andersen@example.com",
+    "username": "brownpeacock727",
+    "password": "redbaron",
+    "invokedAt": "2023-04-02T06:43:01.061Z"
   }
 ]
