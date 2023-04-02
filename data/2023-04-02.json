@@ -334,5 +334,13 @@
     "username": "happyzebra292",
     "password": "zelda",
     "invokedAt": "2023-04-02T07:32:18.371Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Tomašević",
+    "email": "nemanja.tomasevic@example.com",
+    "username": "whitemouse677",
+    "password": "curious",
+    "invokedAt": "2023-04-02T07:38:04.921Z"
   }
 ]
