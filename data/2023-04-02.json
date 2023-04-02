@@ -774,5 +774,13 @@
     "username": "happygoose896",
     "password": "circle",
     "invokedAt": "2023-04-02T14:48:39.232Z"
+  },
+  {
+    "firstName": "Ramón",
+    "lastName": "Escobar",
+    "email": "ramon.escobar@example.com",
+    "username": "tinyswan278",
+    "password": "splinter",
+    "invokedAt": "2023-04-02T14:54:32.777Z"
   }
 ]
