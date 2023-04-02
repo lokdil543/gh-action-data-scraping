@@ -702,5 +702,13 @@
     "username": "goldengorilla737",
     "password": "trash",
     "invokedAt": "2023-04-02T13:45:40.415Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Olsen",
+    "email": "nanna.olsen@example.com",
+    "username": "greenfrog309",
+    "password": "herring",
+    "invokedAt": "2023-04-02T13:51:37.776Z"
   }
 ]
