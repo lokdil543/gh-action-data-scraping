@@ -1198,5 +1198,13 @@
     "username": "tinygorilla945",
     "password": "unique",
     "invokedAt": "2023-04-02T21:23:23.663Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Dunne",
+    "email": "matt.dunne@example.com",
+    "username": "smallcat243",
+    "password": "swordfish",
+    "invokedAt": "2023-04-02T21:29:32.102Z"
   }
 ]
