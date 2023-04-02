@@ -1254,5 +1254,13 @@
     "username": "smallrabbit822",
     "password": "entrance",
     "invokedAt": "2023-04-02T22:10:59.277Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Brink",
+    "email": "andy.brink@example.com",
+    "username": "bigostrich160",
+    "password": "pulsar",
+    "invokedAt": "2023-04-02T22:22:07.183Z"
   }
 ]
