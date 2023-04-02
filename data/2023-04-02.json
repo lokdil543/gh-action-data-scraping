@@ -926,5 +926,13 @@
     "username": "tinysnake461",
     "password": "magic1",
     "invokedAt": "2023-04-02T17:22:53.732Z"
+  },
+  {
+    "firstName": "Stanko",
+    "lastName": "Ognjanović",
+    "email": "stanko.ognjanovic@example.com",
+    "username": "heavyleopard274",
+    "password": "fighter",
+    "invokedAt": "2023-04-02T17:28:41.894Z"
   }
 ]
