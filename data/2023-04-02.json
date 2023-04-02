@@ -830,5 +830,13 @@
     "username": "reddog222",
     "password": "sail",
     "invokedAt": "2023-04-02T15:40:30.438Z"
+  },
+  {
+    "firstName": "Hans-Herbert",
+    "lastName": "Kapp",
+    "email": "hans-herbert.kapp@example.com",
+    "username": "happyleopard872",
+    "password": "hank",
+    "invokedAt": "2023-04-02T15:46:26.847Z"
   }
 ]
