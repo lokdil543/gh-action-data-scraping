@@ -942,5 +942,13 @@
     "username": "smallfrog676",
     "password": "lamer",
     "invokedAt": "2023-04-03T18:44:19.339Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Kopf",
+    "email": "eric.kopf@example.com",
+    "username": "bigelephant643",
+    "password": "redalert",
+    "invokedAt": "2023-04-03T18:50:12.147Z"
   }
 ]
