@@ -334,5 +334,13 @@
     "username": "crazydog671",
     "password": "qwertyu",
     "invokedAt": "2023-04-03T07:38:46.300Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Medina",
+    "email": "marcos.medina@example.com",
+    "username": "brownwolf445",
+    "password": "bronze",
+    "invokedAt": "2023-04-03T07:44:37.540Z"
   }
 ]
