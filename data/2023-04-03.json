@@ -438,5 +438,13 @@
     "username": "lazyrabbit834",
     "password": "viewsoni",
     "invokedAt": "2023-04-03T09:29:10.428Z"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Turner",
+    "email": "andrew.turner@example.com",
+    "username": "lazybird657",
+    "password": "longer",
+    "invokedAt": "2023-04-03T09:35:33.763Z"
   }
 ]
