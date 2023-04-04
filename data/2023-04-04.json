@@ -726,5 +726,13 @@
     "username": "blackfrog105",
     "password": "castor",
     "invokedAt": "2023-04-04T14:55:43.014Z"
+  },
+  {
+    "firstName": "Mijat",
+    "lastName": "Nađ",
+    "email": "mijat.nad@example.com",
+    "username": "purpledog522",
+    "password": "oldone",
+    "invokedAt": "2023-04-04T15:06:46.903Z"
   }
 ]
