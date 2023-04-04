@@ -54,5 +54,13 @@
     "username": "whitedog922",
     "password": "hillbill",
     "invokedAt": "2023-04-04T03:10:20.652Z"
+  },
+  {
+    "firstName": "Christos",
+    "lastName": "Feil",
+    "email": "christos.feil@example.com",
+    "username": "redostrich898",
+    "password": "bronze",
+    "invokedAt": "2023-04-04T03:22:27.333Z"
   }
 ]
