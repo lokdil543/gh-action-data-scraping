@@ -630,5 +630,13 @@
     "username": "happyswan918",
     "password": "cabernet",
     "invokedAt": "2023-04-04T13:29:14.534Z"
+  },
+  {
+    "firstName": "Ostap",
+    "lastName": "Povoroznik",
+    "email": "ostap.povoroznik@example.com",
+    "username": "ticklishfish834",
+    "password": "applepie",
+    "invokedAt": "2023-04-04T13:35:13.446Z"
   }
 ]
