@@ -254,5 +254,13 @@
     "username": "goldenduck823",
     "password": "march",
     "invokedAt": "2023-04-04T06:36:36.850Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Gonzalez",
+    "email": "ivan.gonzalez@example.com",
+    "username": "goldenduck248",
+    "password": "bologna",
+    "invokedAt": "2023-04-04T06:42:31.957Z"
   }
 ]
