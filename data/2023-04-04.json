@@ -118,5 +118,13 @@
     "username": "bluegorilla941",
     "password": "ferrari",
     "invokedAt": "2023-04-04T04:13:36.787Z"
+  },
+  {
+    "firstName": "Brent",
+    "lastName": "Brewer",
+    "email": "brent.brewer@example.com",
+    "username": "ticklishwolf859",
+    "password": "freepass",
+    "invokedAt": "2023-04-04T04:27:53.666Z"
   }
 ]
