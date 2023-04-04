@@ -742,5 +742,13 @@
     "username": "whitelion273",
     "password": "scarface",
     "invokedAt": "2023-04-04T15:21:16.585Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Wagner",
+    "email": "paul.wagner@example.com",
+    "username": "smalltiger185",
+    "password": "grover",
+    "invokedAt": "2023-04-04T15:28:02.859Z"
   }
 ]
