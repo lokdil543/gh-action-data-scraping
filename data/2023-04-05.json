@@ -790,5 +790,13 @@
     "username": "smallfrog359",
     "password": "pearljam",
     "invokedAt": "2023-04-05T17:00:17.847Z"
+  },
+  {
+    "firstName": "Aarush",
+    "lastName": "Shenoy",
+    "email": "aarush.shenoy@example.com",
+    "username": "bigzebra880",
+    "password": "giraffe",
+    "invokedAt": "2023-04-05T17:14:32.337Z"
   }
 ]
