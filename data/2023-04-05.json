@@ -902,5 +902,13 @@
     "username": "bluebird128",
     "password": "eclipse",
     "invokedAt": "2023-04-05T19:12:13.973Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Nielsen",
+    "email": "noah.nielsen@example.com",
+    "username": "lazypeacock423",
+    "password": "hawkeye",
+    "invokedAt": "2023-04-05T19:20:34.020Z"
   }
 ]
