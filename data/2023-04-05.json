@@ -230,5 +230,13 @@
     "username": "brownbird700",
     "password": "temppass",
     "invokedAt": "2023-04-05T05:41:44.526Z"
+  },
+  {
+    "firstName": "Nelly",
+    "lastName": "Santiago",
+    "email": "nelly.santiago@example.com",
+    "username": "bluedog867",
+    "password": "emma",
+    "invokedAt": "2023-04-05T05:47:47.440Z"
   }
 ]
