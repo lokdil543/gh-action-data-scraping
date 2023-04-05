@@ -606,5 +606,13 @@
     "username": "tinydog141",
     "password": "charlie1",
     "invokedAt": "2023-04-05T13:14:17.239Z"
+  },
+  {
+    "firstName": "Gaurav",
+    "lastName": "Mendonsa",
+    "email": "gaurav.mendonsa@example.com",
+    "username": "whitecat537",
+    "password": "notredam",
+    "invokedAt": "2023-04-05T13:34:06.642Z"
   }
 ]
