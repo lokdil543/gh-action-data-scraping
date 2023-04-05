@@ -862,5 +862,13 @@
     "username": "happygorilla185",
     "password": "wetter",
     "invokedAt": "2023-04-05T18:31:59.449Z"
+  },
+  {
+    "firstName": "Jainy",
+    "lastName": "Van der Haas",
+    "email": "jainy.vanderhaas@example.com",
+    "username": "happyswan234",
+    "password": "menace",
+    "invokedAt": "2023-04-05T18:41:44.690Z"
   }
 ]
