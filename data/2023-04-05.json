@@ -222,5 +222,13 @@
     "username": "ticklishbutterfly359",
     "password": "rolling",
     "invokedAt": "2023-04-05T05:35:42.495Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Pesola",
+    "email": "sara.pesola@example.com",
+    "username": "brownbird700",
+    "password": "temppass",
+    "invokedAt": "2023-04-05T05:41:44.526Z"
   }
 ]
