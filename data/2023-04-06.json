@@ -766,5 +766,13 @@
     "username": "tinyfrog188",
     "password": "hunt",
     "invokedAt": "2023-04-06T15:20:32.964Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Venås",
+    "email": "herman.venas@example.com",
+    "username": "redfrog238",
+    "password": "isaiah",
+    "invokedAt": "2023-04-06T15:26:31.876Z"
   }
 ]
