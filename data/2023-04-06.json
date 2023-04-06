@@ -710,5 +710,13 @@
     "username": "bigfish174",
     "password": "ncc1701d",
     "invokedAt": "2023-04-06T14:27:16.643Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Meunier",
+    "email": "benjamin.meunier@example.com",
+    "username": "redkoala559",
+    "password": "clark",
+    "invokedAt": "2023-04-06T14:33:34.973Z"
   }
 ]
