@@ -318,5 +318,13 @@
     "username": "whiteduck459",
     "password": "starfish",
     "invokedAt": "2023-04-06T07:26:36.682Z"
+  },
+  {
+    "firstName": "Prodan",
+    "lastName": "Pantić",
+    "email": "prodan.pantic@example.com",
+    "username": "sadcat816",
+    "password": "dogfood",
+    "invokedAt": "2023-04-06T07:32:56.701Z"
   }
 ]
