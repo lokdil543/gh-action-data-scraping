@@ -798,5 +798,13 @@
     "username": "orangewolf106",
     "password": "beatles1",
     "invokedAt": "2023-04-06T15:45:00.736Z"
+  },
+  {
+    "firstName": "Victoire",
+    "lastName": "Guerin",
+    "email": "victoire.guerin@example.com",
+    "username": "greengoose891",
+    "password": "smackdow",
+    "invokedAt": "2023-04-06T15:50:59.778Z"
   }
 ]
