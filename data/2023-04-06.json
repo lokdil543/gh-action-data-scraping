@@ -326,5 +326,13 @@
     "username": "sadcat816",
     "password": "dogfood",
     "invokedAt": "2023-04-06T07:32:56.701Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Calvo",
+    "email": "alexander.calvo@example.com",
+    "username": "silverostrich931",
+    "password": "jane",
+    "invokedAt": "2023-04-06T07:38:44.718Z"
   }
 ]
