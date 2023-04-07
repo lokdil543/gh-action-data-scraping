@@ -1094,5 +1094,13 @@
     "username": "tinygoose263",
     "password": "whiteout",
     "invokedAt": "2023-04-07T20:28:03.562Z"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Garnier",
+    "email": "damien.garnier@example.com",
+    "username": "bigbird698",
+    "password": "cola",
+    "invokedAt": "2023-04-07T20:34:45.530Z"
   }
 ]
