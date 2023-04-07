@@ -886,5 +886,13 @@
     "username": "happyswan238",
     "password": "blizzard",
     "invokedAt": "2023-04-07T17:19:07.358Z"
+  },
+  {
+    "firstName": "Heiko",
+    "lastName": "Rieder",
+    "email": "heiko.rieder@example.com",
+    "username": "goldenostrich817",
+    "password": "stallion",
+    "invokedAt": "2023-04-07T17:25:40.365Z"
   }
 ]
