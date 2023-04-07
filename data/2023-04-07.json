@@ -1302,5 +1302,13 @@
     "username": "greengoose877",
     "password": "pepper1",
     "invokedAt": "2023-04-07T23:33:45.270Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Arias",
+    "email": "jose.arias@example.com",
+    "username": "blackgoose548",
+    "password": "quantum",
+    "invokedAt": "2023-04-07T23:39:38.537Z"
   }
 ]
