@@ -686,5 +686,13 @@
     "username": "whitebird409",
     "password": "dnsadm",
     "invokedAt": "2023-04-07T13:50:18.073Z"
+  },
+  {
+    "firstName": "Jace",
+    "lastName": "Van Eldijk",
+    "email": "jace.vaneldijk@example.com",
+    "username": "blackostrich983",
+    "password": "warlord",
+    "invokedAt": "2023-04-07T13:56:15.032Z"
   }
 ]
