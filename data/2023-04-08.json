@@ -622,5 +622,13 @@
     "username": "bigpeacock141",
     "password": "qaz123",
     "invokedAt": "2023-04-08T11:46:06.294Z"
+  },
+  {
+    "firstName": "Filip",
+    "lastName": "Tønder",
+    "email": "filip.tonder@example.com",
+    "username": "sadmeercat289",
+    "password": "smoker",
+    "invokedAt": "2023-04-08T11:52:06.885Z"
   }
 ]
