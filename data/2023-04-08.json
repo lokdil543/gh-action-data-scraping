@@ -638,5 +638,13 @@
     "username": "greengorilla188",
     "password": "checkers",
     "invokedAt": "2023-04-08T11:58:17.332Z"
+  },
+  {
+    "firstName": "Pietro",
+    "lastName": "Roche",
+    "email": "pietro.roche@example.com",
+    "username": "brownfish129",
+    "password": "rrrrr",
+    "invokedAt": "2023-04-08T12:17:51.458Z"
   }
 ]
