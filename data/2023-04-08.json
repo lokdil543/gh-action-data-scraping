@@ -510,5 +510,13 @@
     "username": "lazypeacock179",
     "password": "tickle",
     "invokedAt": "2023-04-08T10:04:35.458Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Porto",
+    "email": "jorge.porto@example.com",
+    "username": "happymouse885",
+    "password": "tartar",
+    "invokedAt": "2023-04-08T10:19:28.318Z"
   }
 ]
