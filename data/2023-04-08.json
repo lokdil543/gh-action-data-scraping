@@ -294,5 +294,13 @@
     "username": "angryostrich486",
     "password": "syracuse",
     "invokedAt": "2023-04-08T06:48:46.981Z"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Frazier",
+    "email": "austin.frazier@example.com",
+    "username": "goldenfrog777",
+    "password": "blam",
+    "invokedAt": "2023-04-08T06:54:30.876Z"
   }
 ]
