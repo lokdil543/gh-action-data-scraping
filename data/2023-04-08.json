@@ -526,5 +526,13 @@
     "username": "smallfrog140",
     "password": "niao",
     "invokedAt": "2023-04-08T10:27:35.643Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Larsen",
+    "email": "elias.larsen@example.com",
+    "username": "blackwolf612",
+    "password": "peeper",
+    "invokedAt": "2023-04-08T10:33:54.124Z"
   }
 ]
