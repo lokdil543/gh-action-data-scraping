@@ -1318,5 +1318,13 @@
     "username": "greenfrog585",
     "password": "python",
     "invokedAt": "2023-04-09T23:19:35.487Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Riley",
+    "email": "roger.riley@example.com",
+    "username": "redfrog806",
+    "password": "mazda",
+    "invokedAt": "2023-04-09T23:25:34.895Z"
   }
 ]
