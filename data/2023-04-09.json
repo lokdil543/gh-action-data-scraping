@@ -790,5 +790,13 @@
     "username": "angrywolf805",
     "password": "allstar",
     "invokedAt": "2023-04-09T15:00:23.809Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Zhang",
+    "email": "eva.zhang@example.com",
+    "username": "redpeacock823",
+    "password": "alpine",
+    "invokedAt": "2023-04-09T15:13:19.615Z"
   }
 ]
