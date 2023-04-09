@@ -1302,5 +1302,13 @@
     "username": "smallkoala819",
     "password": "bigman",
     "invokedAt": "2023-04-09T22:57:29.318Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Jensen",
+    "email": "andrea.jensen@example.com",
+    "username": "smallpeacock370",
+    "password": "legacy",
+    "invokedAt": "2023-04-09T23:09:03.393Z"
   }
 ]
