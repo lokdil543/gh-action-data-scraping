@@ -446,5 +446,13 @@
     "username": "bluebutterfly989",
     "password": "emilio",
     "invokedAt": "2023-04-09T09:19:54.785Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Petit",
+    "email": "olivier.petit@example.com",
+    "username": "happydog524",
+    "password": "pippin",
+    "invokedAt": "2023-04-09T09:25:55.753Z"
   }
 ]
