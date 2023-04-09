@@ -1158,5 +1158,13 @@
     "username": "brownfrog453",
     "password": "sawyer",
     "invokedAt": "2023-04-09T20:49:54.478Z"
+  },
+  {
+    "firstName": "Ernst",
+    "lastName": "Hennemann",
+    "email": "ernst.hennemann@example.com",
+    "username": "redcat132",
+    "password": "cookie1",
+    "invokedAt": "2023-04-09T20:55:41.666Z"
   }
 ]
