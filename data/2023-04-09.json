@@ -318,5 +318,13 @@
     "username": "greendog692",
     "password": "gobucks",
     "invokedAt": "2023-04-09T07:19:44.424Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Pedersen",
+    "email": "anna.pedersen@example.com",
+    "username": "happyostrich122",
+    "password": "jonjon",
+    "invokedAt": "2023-04-09T07:25:40.546Z"
   }
 ]
