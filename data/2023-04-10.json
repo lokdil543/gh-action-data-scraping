@@ -974,5 +974,13 @@
     "username": "redwolf299",
     "password": "flanker",
     "invokedAt": "2023-04-10T18:49:43.418Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Estensen",
+    "email": "niklas.estensen@example.com",
+    "username": "redduck894",
+    "password": "phpbb",
+    "invokedAt": "2023-04-10T18:55:38.635Z"
   }
 ]
