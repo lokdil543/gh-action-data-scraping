@@ -310,5 +310,13 @@
     "username": "crazycat211",
     "password": "town",
     "invokedAt": "2023-04-10T07:21:38.043Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Pejaković",
+    "email": "anton.pejakovic@example.com",
+    "username": "heavyelephant193",
+    "password": "1020",
+    "invokedAt": "2023-04-10T07:27:48.870Z"
   }
 ]
