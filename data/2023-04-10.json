@@ -478,5 +478,13 @@
     "username": "blackmouse315",
     "password": "college",
     "invokedAt": "2023-04-10T09:57:21.642Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Grant",
+    "email": "herbert.grant@example.com",
+    "username": "redbear503",
+    "password": "tony",
+    "invokedAt": "2023-04-10T10:10:08.533Z"
   }
 ]
