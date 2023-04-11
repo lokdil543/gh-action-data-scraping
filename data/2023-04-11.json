@@ -1062,5 +1062,13 @@
     "username": "brownfish789",
     "password": "method",
     "invokedAt": "2023-04-11T20:13:51.459Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Jackson",
+    "email": "tyler.jackson@example.com",
+    "username": "greenswan223",
+    "password": "chevy1",
+    "invokedAt": "2023-04-11T20:24:04.889Z"
   }
 ]
