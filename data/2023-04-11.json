@@ -478,5 +478,13 @@
     "username": "purplegoose185",
     "password": "bryan1",
     "invokedAt": "2023-04-11T10:00:06.040Z"
+  },
+  {
+    "firstName": "Gerry",
+    "lastName": "Powell",
+    "email": "gerry.powell@example.com",
+    "username": "happybear451",
+    "password": "alabama",
+    "invokedAt": "2023-04-11T10:15:37.387Z"
   }
 ]
