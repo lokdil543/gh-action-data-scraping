@@ -494,5 +494,13 @@
     "username": "redladybug321",
     "password": "famous",
     "invokedAt": "2023-04-11T10:28:38.207Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Abramović",
+    "email": "aleksa.abramovic@example.com",
+    "username": "orangecat220",
+    "password": "panzer",
+    "invokedAt": "2023-04-11T10:35:03.142Z"
   }
 ]
