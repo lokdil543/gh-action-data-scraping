@@ -726,5 +726,13 @@
     "username": "blackpeacock946",
     "password": "road",
     "invokedAt": "2023-04-11T14:43:05.037Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Martin",
+    "email": "david.martin@example.com",
+    "username": "yellowswan567",
+    "password": "565656",
+    "invokedAt": "2023-04-11T14:49:07.467Z"
   }
 ]
