@@ -782,5 +782,13 @@
     "username": "ticklishfrog458",
     "password": "grapes",
     "invokedAt": "2023-04-11T15:39:10.798Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Dixon",
+    "email": "james.dixon@example.com",
+    "username": "bigbutterfly554",
+    "password": "hunting",
+    "invokedAt": "2023-04-11T15:45:07.131Z"
   }
 ]
