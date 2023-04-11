@@ -702,5 +702,13 @@
     "username": "organicfrog128",
     "password": "mcdonald",
     "invokedAt": "2023-04-11T14:25:19.511Z"
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Thomas",
+    "email": "luka.thomas@example.com",
+    "username": "whitefrog884",
+    "password": "chuck",
+    "invokedAt": "2023-04-11T14:31:22.656Z"
   }
 ]
