@@ -286,5 +286,13 @@
     "username": "silverpanda675",
     "password": "pencil",
     "invokedAt": "2023-04-11T06:55:13.658Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Herrero",
+    "email": "martin.herrero@example.com",
+    "username": "browndog652",
+    "password": "subway",
+    "invokedAt": "2023-04-11T07:02:58.234Z"
   }
 ]
