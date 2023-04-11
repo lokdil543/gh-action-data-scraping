@@ -694,5 +694,13 @@
     "username": "ticklishfish478",
     "password": "mini",
     "invokedAt": "2023-04-11T14:13:33.675Z"
+  },
+  {
+    "firstName": "Gaël",
+    "lastName": "Mathieu",
+    "email": "gael.mathieu@example.com",
+    "username": "organicfrog128",
+    "password": "mcdonald",
+    "invokedAt": "2023-04-11T14:25:19.511Z"
   }
 ]
