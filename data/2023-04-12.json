@@ -382,5 +382,13 @@
     "username": "lazypeacock609",
     "password": "tulips",
     "invokedAt": "2023-04-12T08:36:00.651Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Patel",
+    "email": "aaron.patel@example.com",
+    "username": "blackrabbit861",
+    "password": "again",
+    "invokedAt": "2023-04-12T08:41:53.471Z"
   }
 ]
