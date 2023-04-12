@@ -1182,5 +1182,13 @@
     "username": "orangelion685",
     "password": "howdy",
     "invokedAt": "2023-04-12T22:13:43.348Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Peterson",
+    "email": "anna.peterson@example.com",
+    "username": "orangeswan516",
+    "password": "kungfu",
+    "invokedAt": "2023-04-12T22:25:04.536Z"
   }
 ]
