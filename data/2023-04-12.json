@@ -110,5 +110,13 @@
     "username": "blackfrog110",
     "password": "usnavy",
     "invokedAt": "2023-04-12T03:53:42.652Z"
+  },
+  {
+    "firstName": "Brendan",
+    "lastName": "Chambers",
+    "email": "brendan.chambers@example.com",
+    "username": "yellowleopard808",
+    "password": "brutus",
+    "invokedAt": "2023-04-12T03:59:41.781Z"
   }
 ]
