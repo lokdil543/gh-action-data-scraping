@@ -198,5 +198,13 @@
     "username": "purplepanda630",
     "password": "test2",
     "invokedAt": "2023-04-12T05:30:16.906Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Heidt",
+    "email": "bruno.heidt@example.com",
+    "username": "blackswan273",
+    "password": "monopoly",
+    "invokedAt": "2023-04-12T05:36:14.813Z"
   }
 ]
