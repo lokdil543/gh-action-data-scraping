@@ -286,5 +286,13 @@
     "username": "organicwolf704",
     "password": "fish",
     "invokedAt": "2023-04-12T06:55:25.985Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Kelly",
+    "email": "sebastian.kelly@example.com",
+    "username": "greenwolf321",
+    "password": "espresso",
+    "invokedAt": "2023-04-12T07:04:09.801Z"
   }
 ]
