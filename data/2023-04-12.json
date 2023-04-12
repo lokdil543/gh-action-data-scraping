@@ -518,5 +518,13 @@
     "username": "crazycat134",
     "password": "beretta",
     "invokedAt": "2023-04-12T10:45:36.589Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Li",
+    "email": "charles.li@example.com",
+    "username": "sadkoala848",
+    "password": "bobcat",
+    "invokedAt": "2023-04-12T10:51:37.597Z"
   }
 ]
