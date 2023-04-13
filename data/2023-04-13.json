@@ -838,5 +838,13 @@
     "username": "bigfrog161",
     "password": "120676",
     "invokedAt": "2023-04-13T17:00:38.752Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Rødseth",
+    "email": "mario.rodseth@example.com",
+    "username": "goldenladybug945",
+    "password": "helium",
+    "invokedAt": "2023-04-13T17:12:06.397Z"
   }
 ]
