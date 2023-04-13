@@ -342,5 +342,13 @@
     "username": "sadpeacock428",
     "password": "pitchers",
     "invokedAt": "2023-04-13T07:56:47.040Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Johansen",
+    "email": "kasper.johansen@example.com",
+    "username": "angrygorilla411",
+    "password": "cancel",
+    "invokedAt": "2023-04-13T08:10:53.228Z"
   }
 ]
