@@ -934,5 +934,13 @@
     "username": "crazybird902",
     "password": "dogpound",
     "invokedAt": "2023-04-13T18:40:53.263Z"
+  },
+  {
+    "firstName": "Susie",
+    "lastName": "Gibson",
+    "email": "susie.gibson@example.com",
+    "username": "angrycat820",
+    "password": "pipeline",
+    "invokedAt": "2023-04-13T18:46:51.002Z"
   }
 ]
