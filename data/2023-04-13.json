@@ -702,5 +702,13 @@
     "username": "ticklishzebra614",
     "password": "tarzan",
     "invokedAt": "2023-04-13T14:42:45.715Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Brewer",
+    "email": "jack.brewer@example.com",
+    "username": "bigwolf332",
+    "password": "johnny1",
+    "invokedAt": "2023-04-13T14:48:40.814Z"
   }
 ]
