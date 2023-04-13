@@ -662,5 +662,13 @@
     "username": "tinyostrich610",
     "password": "comet",
     "invokedAt": "2023-04-13T14:00:02.821Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Lam",
+    "email": "alice.lam@example.com",
+    "username": "silvergorilla663",
+    "password": "sithlord",
+    "invokedAt": "2023-04-13T14:12:58.878Z"
   }
 ]
