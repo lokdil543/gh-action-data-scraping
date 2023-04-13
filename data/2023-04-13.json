@@ -406,5 +406,13 @@
     "username": "silverswan331",
     "password": "clapton",
     "invokedAt": "2023-04-13T09:12:00.620Z"
+  },
+  {
+    "firstName": "Claudio",
+    "lastName": "Pulido",
+    "email": "claudio.pulido@example.com",
+    "username": "bigdog934",
+    "password": "stokes",
+    "invokedAt": "2023-04-13T09:22:24.656Z"
   }
 ]
