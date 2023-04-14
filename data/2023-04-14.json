@@ -270,5 +270,13 @@
     "username": "brownladybug182",
     "password": "roland",
     "invokedAt": "2023-04-14T06:43:12.647Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Prieto",
+    "email": "alvaro.prieto@example.com",
+    "username": "crazypeacock800",
+    "password": "apache",
+    "invokedAt": "2023-04-14T06:49:09.733Z"
   }
 ]
