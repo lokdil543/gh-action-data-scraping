@@ -262,5 +262,13 @@
     "username": "brownbird713",
     "password": "wert",
     "invokedAt": "2023-04-14T06:37:26.529Z"
+  },
+  {
+    "firstName": "Danuta",
+    "lastName": "Plötz",
+    "email": "danuta.plotz@example.com",
+    "username": "brownladybug182",
+    "password": "roland",
+    "invokedAt": "2023-04-14T06:43:12.647Z"
   }
 ]
