@@ -302,5 +302,13 @@
     "username": "heavytiger933",
     "password": "stan",
     "invokedAt": "2023-04-14T07:16:32.333Z"
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Tomović",
+    "email": "marina.tomovic@example.com",
+    "username": "saddog432",
+    "password": "asdfg",
+    "invokedAt": "2023-04-14T07:22:49.375Z"
   }
 ]
