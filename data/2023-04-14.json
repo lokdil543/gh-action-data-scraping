@@ -822,5 +822,13 @@
     "username": "bluemeercat185",
     "password": "enter",
     "invokedAt": "2023-04-14T16:12:09.425Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Özbey",
+    "email": "ozkan.ozbey@example.com",
+    "username": "blackgoose542",
+    "password": "juniper",
+    "invokedAt": "2023-04-14T16:30:31.303Z"
   }
 ]
