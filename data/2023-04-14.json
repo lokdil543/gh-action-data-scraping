@@ -350,5 +350,13 @@
     "username": "orangedog447",
     "password": "fitter",
     "invokedAt": "2023-04-14T07:53:03.396Z"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Moulin",
+    "email": "claire.moulin@example.com",
+    "username": "blacksnake640",
+    "password": "coffee",
+    "invokedAt": "2023-04-14T07:58:52.555Z"
   }
 ]
