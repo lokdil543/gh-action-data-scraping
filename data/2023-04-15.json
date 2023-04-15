@@ -718,5 +718,13 @@
     "username": "goldenduck844",
     "password": "cyclone",
     "invokedAt": "2023-04-15T14:08:14.625Z"
+  },
+  {
+    "firstName": "Manon",
+    "lastName": "Carpentier",
+    "email": "manon.carpentier@example.com",
+    "username": "goldendog830",
+    "password": "travis",
+    "invokedAt": "2023-04-15T14:20:03.596Z"
   }
 ]
