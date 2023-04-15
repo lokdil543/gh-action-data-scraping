@@ -246,5 +246,13 @@
     "username": "tinysnake849",
     "password": "bertha",
     "invokedAt": "2023-04-15T06:10:36.258Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Poulsen",
+    "email": "maja.poulsen@example.com",
+    "username": "tinyfish674",
+    "password": "mailman",
+    "invokedAt": "2023-04-15T06:26:00.943Z"
   }
 ]
