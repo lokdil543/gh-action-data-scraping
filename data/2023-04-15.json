@@ -534,5 +534,13 @@
     "username": "redsnake282",
     "password": "fellow",
     "invokedAt": "2023-04-15T10:44:20.507Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Karaduman",
+    "email": "gul.karaduman@example.com",
+    "username": "purplewolf112",
+    "password": "cleaner",
+    "invokedAt": "2023-04-15T10:50:24.699Z"
   }
 ]
