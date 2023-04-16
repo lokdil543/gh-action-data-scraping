@@ -598,5 +598,13 @@
     "username": "lazyfrog452",
     "password": "creation",
     "invokedAt": "2023-04-16T11:45:56.808Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "King",
+    "email": "george.king@example.com",
+    "username": "smallkoala734",
+    "password": "tomtom",
+    "invokedAt": "2023-04-16T11:51:56.603Z"
   }
 ]
