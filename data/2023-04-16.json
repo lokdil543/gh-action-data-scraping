@@ -398,5 +398,13 @@
     "username": "tinydog421",
     "password": "racecar",
     "invokedAt": "2023-04-16T08:45:19.976Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Sjølie",
+    "email": "carlos.sjolie@example.com",
+    "username": "brownkoala470",
+    "password": "marlboro",
+    "invokedAt": "2023-04-16T08:51:02.567Z"
   }
 ]
