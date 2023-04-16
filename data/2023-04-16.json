@@ -662,5 +662,13 @@
     "username": "bigpanda200",
     "password": "sunrise",
     "invokedAt": "2023-04-16T13:28:29.574Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Lopez",
+    "email": "harry.lopez@example.com",
+    "username": "silversnake992",
+    "password": "blondes",
+    "invokedAt": "2023-04-16T13:34:33.148Z"
   }
 ]
