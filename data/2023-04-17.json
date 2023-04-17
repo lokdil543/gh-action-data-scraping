@@ -726,5 +726,13 @@
     "username": "bigcat263",
     "password": "klingon",
     "invokedAt": "2023-04-17T15:07:23.885Z"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Henry",
+    "email": "willie.henry@example.com",
+    "username": "blackmeercat763",
+    "password": "holidays",
+    "invokedAt": "2023-04-17T15:22:30.358Z"
   }
 ]
