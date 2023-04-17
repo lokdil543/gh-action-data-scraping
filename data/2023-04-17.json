@@ -158,5 +158,13 @@
     "username": "yellowfrog890",
     "password": "dodgers",
     "invokedAt": "2023-04-17T04:54:57.745Z"
+  },
+  {
+    "firstName": "Luigi",
+    "lastName": "Lefebvre",
+    "email": "luigi.lefebvre@example.com",
+    "username": "smallfish354",
+    "password": "beau",
+    "invokedAt": "2023-04-17T05:02:01.284Z"
   }
 ]
