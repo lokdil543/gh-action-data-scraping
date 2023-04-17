@@ -1062,5 +1062,13 @@
     "username": "whitebird966",
     "password": "finance",
     "invokedAt": "2023-04-17T20:46:52.042Z"
+  },
+  {
+    "firstName": "Falko",
+    "lastName": "Rohmann",
+    "email": "falko.rohmann@example.com",
+    "username": "beautifulbird262",
+    "password": "lemmein",
+    "invokedAt": "2023-04-17T20:52:36.239Z"
   }
 ]
