@@ -166,5 +166,13 @@
     "username": "smallfish354",
     "password": "beau",
     "invokedAt": "2023-04-17T05:02:01.284Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Pedersen",
+    "email": "laura.pedersen@example.com",
+    "username": "greenpeacock298",
+    "password": "goalie",
+    "invokedAt": "2023-04-17T05:16:34.379Z"
   }
 ]
