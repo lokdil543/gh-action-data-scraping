@@ -598,5 +598,13 @@
     "username": "orangetiger453",
     "password": "raiders",
     "invokedAt": "2023-04-17T12:50:57.225Z"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Westrum",
+    "email": "tommy.westrum@example.com",
+    "username": "bluewolf169",
+    "password": "poncho",
+    "invokedAt": "2023-04-17T13:06:06.856Z"
   }
 ]
