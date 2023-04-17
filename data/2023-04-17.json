@@ -558,5 +558,13 @@
     "username": "angrygorilla130",
     "password": "here",
     "invokedAt": "2023-04-17T11:42:00.195Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Durak",
+    "email": "okan.durak@example.com",
+    "username": "bigbear741",
+    "password": "cars",
+    "invokedAt": "2023-04-17T11:47:57.643Z"
   }
 ]
