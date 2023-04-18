@@ -182,5 +182,13 @@
     "username": "happyrabbit277",
     "password": "fletch",
     "invokedAt": "2023-04-18T05:13:24.524Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Rice",
+    "email": "don.rice@example.com",
+    "username": "crazylion903",
+    "password": "deep",
+    "invokedAt": "2023-04-18T05:24:40.828Z"
   }
 ]
