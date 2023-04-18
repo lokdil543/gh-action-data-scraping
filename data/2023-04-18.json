@@ -1190,5 +1190,13 @@
     "username": "sadelephant147",
     "password": "wolfpac",
     "invokedAt": "2023-04-18T22:43:51.689Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Schwenke",
+    "email": "jose.schwenke@example.com",
+    "username": "goldenbear707",
+    "password": "secret",
+    "invokedAt": "2023-04-18T22:49:45.066Z"
   }
 ]
