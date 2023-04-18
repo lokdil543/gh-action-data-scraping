@@ -646,5 +646,13 @@
     "username": "yellowfish292",
     "password": "redfox",
     "invokedAt": "2023-04-18T13:42:42.384Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Smith",
+    "email": "roman.smith@example.com",
+    "username": "bluegorilla903",
+    "password": "please1",
+    "invokedAt": "2023-04-18T13:48:41.593Z"
   }
 ]
