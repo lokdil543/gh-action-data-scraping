@@ -246,5 +246,13 @@
     "username": "redleopard583",
     "password": "husker",
     "invokedAt": "2023-04-18T06:18:52.848Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Anderson",
+    "email": "frank.anderson@example.com",
+    "username": "brownlion719",
+    "password": "favorite",
+    "invokedAt": "2023-04-18T06:31:19.410Z"
   }
 ]
