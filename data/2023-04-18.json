@@ -918,5 +918,13 @@
     "username": "lazyostrich360",
     "password": "starwars",
     "invokedAt": "2023-04-18T18:34:38.412Z"
+  },
+  {
+    "firstName": "Rathi",
+    "lastName": "Kouser",
+    "email": "rathi.kouser@example.com",
+    "username": "yellowladybug712",
+    "password": "bucky",
+    "invokedAt": "2023-04-18T18:40:25.561Z"
   }
 ]
