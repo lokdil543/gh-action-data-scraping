@@ -662,5 +662,13 @@
     "username": "silverfrog512",
     "password": "traveler",
     "invokedAt": "2023-04-18T13:54:38.039Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Chevalier",
+    "email": "mathieu.chevalier@example.com",
+    "username": "lazyswan169",
+    "password": "whocares",
+    "invokedAt": "2023-04-18T14:00:30.624Z"
   }
 ]
