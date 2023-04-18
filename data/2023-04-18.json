@@ -166,5 +166,13 @@
     "username": "bluemeercat490",
     "password": "washington",
     "invokedAt": "2023-04-18T04:54:02.491Z"
+  },
+  {
+    "firstName": "Art",
+    "lastName": "Carpenter",
+    "email": "art.carpenter@example.com",
+    "username": "heavyfish335",
+    "password": "patty",
+    "invokedAt": "2023-04-18T05:00:04.536Z"
   }
 ]
