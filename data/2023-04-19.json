@@ -62,5 +62,13 @@
     "username": "smallbear813",
     "password": "enternow",
     "invokedAt": "2023-04-19T03:22:02.699Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Garnier",
+    "email": "edgar.garnier@example.com",
+    "username": "bluefish978",
+    "password": "string",
+    "invokedAt": "2023-04-19T03:27:57.049Z"
   }
 ]
