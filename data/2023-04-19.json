@@ -142,5 +142,13 @@
     "username": "happybear936",
     "password": "weird",
     "invokedAt": "2023-04-19T04:42:15.808Z"
+  },
+  {
+    "firstName": "Noël",
+    "lastName": "Morin",
+    "email": "noel.morin@example.com",
+    "username": "brownfrog778",
+    "password": "gopher",
+    "invokedAt": "2023-04-19T04:48:17.655Z"
   }
 ]
