@@ -478,5 +478,13 @@
     "username": "blackwolf998",
     "password": "streaming",
     "invokedAt": "2023-04-19T10:28:29.659Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Duncan",
+    "email": "joe.duncan@example.com",
+    "username": "lazyostrich208",
+    "password": "cattle",
+    "invokedAt": "2023-04-19T10:35:14.464Z"
   }
 ]
