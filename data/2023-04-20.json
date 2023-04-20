@@ -310,5 +310,13 @@
     "username": "orangefish999",
     "password": "tasha",
     "invokedAt": "2023-04-20T07:33:01.805Z"
+  },
+  {
+    "firstName": "Liva",
+    "lastName": "Madsen",
+    "email": "liva.madsen@example.com",
+    "username": "orangemouse452",
+    "password": "ramsey",
+    "invokedAt": "2023-04-20T07:39:09.125Z"
   }
 ]
