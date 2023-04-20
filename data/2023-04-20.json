@@ -1142,5 +1142,13 @@
     "username": "whitesnake456",
     "password": "vagabond",
     "invokedAt": "2023-04-20T21:44:48.010Z"
+  },
+  {
+    "firstName": "Veeti",
+    "lastName": "Paavola",
+    "email": "veeti.paavola@example.com",
+    "username": "crazydog162",
+    "password": "dogbert",
+    "invokedAt": "2023-04-20T21:50:47.448Z"
   }
 ]
