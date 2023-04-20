@@ -1230,5 +1230,13 @@
     "username": "blackgorilla165",
     "password": "song",
     "invokedAt": "2023-04-20T23:11:31.834Z"
+  },
+  {
+    "firstName": "Izzie",
+    "lastName": "Willis",
+    "email": "izzie.willis@example.com",
+    "username": "orangeostrich437",
+    "password": "newbie",
+    "invokedAt": "2023-04-20T23:22:17.189Z"
   }
 ]
