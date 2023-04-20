@@ -166,5 +166,13 @@
     "username": "ticklishsnake396",
     "password": "secret",
     "invokedAt": "2023-04-20T05:00:14.640Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Zhang",
+    "email": "vincent.zhang@example.com",
+    "username": "sadkoala247",
+    "password": "hattrick",
+    "invokedAt": "2023-04-20T05:13:58.979Z"
   }
 ]
