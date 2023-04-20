@@ -614,5 +614,13 @@
     "username": "redmouse973",
     "password": "roll",
     "invokedAt": "2023-04-20T13:01:23.801Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Laurent",
+    "email": "pierre.laurent@example.com",
+    "username": "redcat563",
+    "password": "1228",
+    "invokedAt": "2023-04-20T13:20:24.526Z"
   }
 ]
