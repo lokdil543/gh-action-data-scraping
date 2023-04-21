@@ -1190,5 +1190,13 @@
     "username": "lazyfrog345",
     "password": "bigpoppa",
     "invokedAt": "2023-04-21T22:17:24.451Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Nemanjić",
+    "email": "adam.nemanjic@example.com",
+    "username": "lazymeercat260",
+    "password": "putter",
+    "invokedAt": "2023-04-21T22:27:06.868Z"
   }
 ]
