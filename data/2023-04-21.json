@@ -702,5 +702,13 @@
     "username": "heavyzebra765",
     "password": "kirby",
     "invokedAt": "2023-04-21T14:27:41.601Z"
+  },
+  {
+    "firstName": "Leszek",
+    "lastName": "Teufel",
+    "email": "leszek.teufel@example.com",
+    "username": "orangeostrich504",
+    "password": "right",
+    "invokedAt": "2023-04-21T14:33:47.645Z"
   }
 ]
