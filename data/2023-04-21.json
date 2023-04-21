@@ -262,5 +262,13 @@
     "username": "crazyelephant895",
     "password": "mypass",
     "invokedAt": "2023-04-21T06:43:08.826Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Pantić",
+    "email": "dora.pantic@example.com",
+    "username": "crazypanda355",
+    "password": "bobcat",
+    "invokedAt": "2023-04-21T06:49:14.831Z"
   }
 ]
