@@ -518,5 +518,13 @@
     "username": "greenpanda126",
     "password": "energy",
     "invokedAt": "2023-04-21T10:50:16.336Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Gonzalez",
+    "email": "jim.gonzalez@example.com",
+    "username": "crazygorilla647",
+    "password": "intruder",
+    "invokedAt": "2023-04-21T10:56:04.262Z"
   }
 ]
