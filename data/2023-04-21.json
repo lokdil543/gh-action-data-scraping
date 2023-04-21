@@ -494,5 +494,13 @@
     "username": "blackkoala109",
     "password": "patrick",
     "invokedAt": "2023-04-21T10:32:22.496Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Liu",
+    "email": "thomas.liu@example.com",
+    "username": "angrysnake405",
+    "password": "outback",
+    "invokedAt": "2023-04-21T10:38:26.418Z"
   }
 ]
