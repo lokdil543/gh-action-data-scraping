@@ -254,5 +254,13 @@
     "username": "redgorilla198",
     "password": "broken",
     "invokedAt": "2023-04-21T06:37:01.781Z"
+  },
+  {
+    "firstName": "Rafayil",
+    "lastName": "Shostak",
+    "email": "rafayil.shostak@example.com",
+    "username": "crazyelephant895",
+    "password": "mypass",
+    "invokedAt": "2023-04-21T06:43:08.826Z"
   }
 ]
