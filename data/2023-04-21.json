@@ -726,5 +726,13 @@
     "username": "heavyostrich184",
     "password": "1026",
     "invokedAt": "2023-04-21T14:45:45.343Z"
+  },
+  {
+    "firstName": "Lincoln",
+    "lastName": "Turner",
+    "email": "lincoln.turner@example.com",
+    "username": "crazyrabbit610",
+    "password": "penguin1",
+    "invokedAt": "2023-04-21T14:51:37.544Z"
   }
 ]
