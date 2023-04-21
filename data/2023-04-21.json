@@ -1118,5 +1118,13 @@
     "username": "greentiger789",
     "password": "rockstar",
     "invokedAt": "2023-04-21T21:10:43.661Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Lucas",
+    "email": "mary.lucas@example.com",
+    "username": "purplebird127",
+    "password": "wildman",
+    "invokedAt": "2023-04-21T21:19:38.810Z"
   }
 ]
