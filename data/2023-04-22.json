@@ -254,5 +254,13 @@
     "username": "heavyduck406",
     "password": "systems",
     "invokedAt": "2023-04-22T06:29:07.397Z"
+  },
+  {
+    "firstName": "Hannes",
+    "lastName": "Vincent",
+    "email": "hannes.vincent@example.com",
+    "username": "bluelion887",
+    "password": "seinfeld",
+    "invokedAt": "2023-04-22T06:35:44.309Z"
   }
 ]
