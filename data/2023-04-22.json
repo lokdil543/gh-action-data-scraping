@@ -814,5 +814,13 @@
     "username": "bluemouse123",
     "password": "kittens",
     "invokedAt": "2023-04-22T15:39:15.708Z"
+  },
+  {
+    "firstName": "Marceau",
+    "lastName": "Deschamps",
+    "email": "marceau.deschamps@example.com",
+    "username": "organicmouse498",
+    "password": "thirteen",
+    "invokedAt": "2023-04-22T15:45:10.001Z"
   }
 ]
