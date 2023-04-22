@@ -382,5 +382,13 @@
     "username": "happybird694",
     "password": "diving",
     "invokedAt": "2023-04-22T08:30:33.754Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Bowman",
+    "email": "sara.bowman@example.com",
+    "username": "tinyfrog504",
+    "password": "none",
+    "invokedAt": "2023-04-22T08:36:24.631Z"
   }
 ]
