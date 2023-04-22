@@ -518,5 +518,13 @@
     "username": "orangedog981",
     "password": "wildcats",
     "invokedAt": "2023-04-22T10:36:03.028Z"
+  },
+  {
+    "firstName": "Balder",
+    "lastName": "Cillessen",
+    "email": "balder.cillessen@example.com",
+    "username": "happyfish180",
+    "password": "matador",
+    "invokedAt": "2023-04-22T10:41:56.677Z"
   }
 ]
