@@ -342,5 +342,13 @@
     "username": "biglion985",
     "password": "showme",
     "invokedAt": "2023-04-22T07:43:40.697Z"
+  },
+  {
+    "firstName": "Milla",
+    "lastName": "Lehtinen",
+    "email": "milla.lehtinen@example.com",
+    "username": "bluedog470",
+    "password": "twenty",
+    "invokedAt": "2023-04-22T07:49:51.541Z"
   }
 ]
