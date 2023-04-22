@@ -278,5 +278,13 @@
     "username": "beautifulbird470",
     "password": "power",
     "invokedAt": "2023-04-22T06:47:35.672Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Holt",
+    "email": "sebastian.holt@example.com",
+    "username": "happypanda555",
+    "password": "notnow",
+    "invokedAt": "2023-04-22T06:53:36.745Z"
   }
 ]
