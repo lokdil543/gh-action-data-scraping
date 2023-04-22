@@ -622,5 +622,13 @@
     "username": "silverbutterfly823",
     "password": "dummy",
     "invokedAt": "2023-04-22T11:59:55.018Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Perala",
+    "email": "aapo.perala@example.com",
+    "username": "happyswan389",
+    "password": "jumbo",
+    "invokedAt": "2023-04-22T12:24:52.606Z"
   }
 ]
