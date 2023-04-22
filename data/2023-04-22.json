@@ -46,5 +46,13 @@
     "username": "brownostrich358",
     "password": "qwert1",
     "invokedAt": "2023-04-22T02:54:09.798Z"
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Simonović",
+    "email": "tina.simonovic@example.com",
+    "username": "bigswan675",
+    "password": "asdf123",
+    "invokedAt": "2023-04-22T03:00:03.896Z"
   }
 ]
