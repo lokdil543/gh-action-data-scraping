@@ -398,5 +398,13 @@
     "username": "whitemeercat234",
     "password": "beatles",
     "invokedAt": "2023-04-23T08:53:38.146Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Taylor",
+    "email": "charles.taylor@example.com",
+    "username": "smallbutterfly107",
+    "password": "trailers",
+    "invokedAt": "2023-04-23T08:59:29.702Z"
   }
 ]
