@@ -262,5 +262,13 @@
     "username": "bigbear248",
     "password": "beastie",
     "invokedAt": "2023-04-23T06:46:42.633Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Turner",
+    "email": "amy.turner@example.com",
+    "username": "sadgorilla117",
+    "password": "wave",
+    "invokedAt": "2023-04-23T06:52:34.622Z"
   }
 ]
