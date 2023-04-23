@@ -294,5 +294,13 @@
     "username": "beautifulelephant491",
     "password": "010203",
     "invokedAt": "2023-04-23T07:18:52.823Z"
+  },
+  {
+    "firstName": "Richie",
+    "lastName": "Busschers",
+    "email": "richie.busschers@example.com",
+    "username": "orangetiger128",
+    "password": "fruit",
+    "invokedAt": "2023-04-23T07:24:49.572Z"
   }
 ]
