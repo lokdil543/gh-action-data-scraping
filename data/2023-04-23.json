@@ -478,5 +478,13 @@
     "username": "brownbird520",
     "password": "bicycle",
     "invokedAt": "2023-04-23T10:08:10.977Z"
+  },
+  {
+    "firstName": "Anniken",
+    "lastName": "Hanssen",
+    "email": "anniken.hanssen@example.com",
+    "username": "heavyfrog606",
+    "password": "white",
+    "invokedAt": "2023-04-23T10:23:24.668Z"
   }
 ]
