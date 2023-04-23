@@ -238,5 +238,13 @@
     "username": "yellowswan203",
     "password": "phillies",
     "invokedAt": "2023-04-23T06:27:57.838Z"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Holt",
+    "email": "adrian.holt@example.com",
+    "username": "goldenbird396",
+    "password": "shanti",
+    "invokedAt": "2023-04-23T06:34:50.485Z"
   }
 ]
