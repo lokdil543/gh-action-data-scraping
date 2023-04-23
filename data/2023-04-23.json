@@ -326,5 +326,13 @@
     "username": "yellowfrog542",
     "password": "1111",
     "invokedAt": "2023-04-23T07:42:59.704Z"
+  },
+  {
+    "firstName": "Romane",
+    "lastName": "Picard",
+    "email": "romane.picard@example.com",
+    "username": "greenleopard184",
+    "password": "tweety",
+    "invokedAt": "2023-04-23T07:48:54.909Z"
   }
 ]
