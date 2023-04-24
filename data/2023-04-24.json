@@ -1070,5 +1070,13 @@
     "username": "happywolf344",
     "password": "miles",
     "invokedAt": "2023-04-24T20:48:30.741Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Denis",
+    "email": "jon.denis@example.com",
+    "username": "smallswan479",
+    "password": "shepherd",
+    "invokedAt": "2023-04-24T20:54:25.575Z"
   }
 ]
