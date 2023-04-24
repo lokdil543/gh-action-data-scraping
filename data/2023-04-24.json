@@ -310,5 +310,13 @@
     "username": "blackfrog841",
     "password": "flying",
     "invokedAt": "2023-04-24T07:38:00.159Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Nielsen",
+    "email": "carl.nielsen@example.com",
+    "username": "happygoose660",
+    "password": "higgins",
+    "invokedAt": "2023-04-24T07:44:01.886Z"
   }
 ]
