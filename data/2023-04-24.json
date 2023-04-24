@@ -830,5 +830,13 @@
     "username": "bigpanda848",
     "password": "beaker",
     "invokedAt": "2023-04-24T17:00:59.598Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Pearson",
+    "email": "susan.pearson@example.com",
+    "username": "angryfrog583",
+    "password": "timeout",
+    "invokedAt": "2023-04-24T17:13:44.763Z"
   }
 ]
