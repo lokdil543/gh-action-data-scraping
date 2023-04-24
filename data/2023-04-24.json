@@ -910,5 +910,13 @@
     "username": "orangekoala457",
     "password": "anfield",
     "invokedAt": "2023-04-24T18:29:44.989Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Nemanjić",
+    "email": "gojko.nemanjic@example.com",
+    "username": "sadmeercat294",
+    "password": "mine",
+    "invokedAt": "2023-04-24T18:36:25.950Z"
   }
 ]
