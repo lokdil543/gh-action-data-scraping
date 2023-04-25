@@ -358,5 +358,13 @@
     "username": "angrygorilla230",
     "password": "trip",
     "invokedAt": "2023-04-25T08:25:42.929Z"
+  },
+  {
+    "firstName": "Gabriella",
+    "lastName": "Meyer",
+    "email": "gabriella.meyer@example.com",
+    "username": "tinyfish200",
+    "password": "grandam",
+    "invokedAt": "2023-04-25T08:33:30.182Z"
   }
 ]
