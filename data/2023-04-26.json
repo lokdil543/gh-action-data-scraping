@@ -422,5 +422,13 @@
     "username": "tinydog105",
     "password": "fields",
     "invokedAt": "2023-04-26T09:23:10.823Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Byrd",
+    "email": "abigail.byrd@example.com",
+    "username": "tinylion177",
+    "password": "peabody",
+    "invokedAt": "2023-04-26T09:29:08.822Z"
   }
 ]
