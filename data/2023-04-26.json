@@ -318,5 +318,13 @@
     "username": "silverdog302",
     "password": "phillies",
     "invokedAt": "2023-04-26T07:34:25.411Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Nesset",
+    "email": "ali.nesset@example.com",
+    "username": "sadmouse866",
+    "password": "rooster",
+    "invokedAt": "2023-04-26T07:40:21.900Z"
   }
 ]
