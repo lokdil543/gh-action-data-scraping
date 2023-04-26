@@ -1198,5 +1198,13 @@
     "username": "angrywolf792",
     "password": "bledsoe",
     "invokedAt": "2023-04-26T22:35:22.632Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Kumpula",
+    "email": "konsta.kumpula@example.com",
+    "username": "blackdog623",
+    "password": "theman",
+    "invokedAt": "2023-04-26T22:41:16.827Z"
   }
 ]
