@@ -966,5 +966,13 @@
     "username": "lazylion760",
     "password": "labrador",
     "invokedAt": "2023-04-26T19:01:41.197Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Fortin",
+    "email": "jack.fortin@example.com",
+    "username": "redpanda939",
+    "password": "bigdog",
+    "invokedAt": "2023-04-26T19:13:42.730Z"
   }
 ]
