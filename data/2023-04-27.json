@@ -534,5 +534,13 @@
     "username": "bigrabbit199",
     "password": "gobears",
     "invokedAt": "2023-04-27T11:18:00.800Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Morris",
+    "email": "luke.morris@example.com",
+    "username": "heavypanda827",
+    "password": "bizkit",
+    "invokedAt": "2023-04-27T11:23:48.303Z"
   }
 ]
