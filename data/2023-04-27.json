@@ -1262,5 +1262,13 @@
     "username": "tinytiger138",
     "password": "strike",
     "invokedAt": "2023-04-27T23:33:52.196Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Yalçın",
+    "email": "gokhan.yalcin@example.com",
+    "username": "redelephant249",
+    "password": "deejay",
+    "invokedAt": "2023-04-27T23:39:43.032Z"
   }
 ]
