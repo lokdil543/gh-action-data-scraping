@@ -918,5 +918,13 @@
     "username": "orangedog741",
     "password": "joe123",
     "invokedAt": "2023-04-27T18:19:29.715Z"
+  },
+  {
+    "firstName": "Kari",
+    "lastName": "Eikås",
+    "email": "kari.eikas@example.com",
+    "username": "organicladybug460",
+    "password": "cupcake",
+    "invokedAt": "2023-04-27T18:29:55.685Z"
   }
 ]
