@@ -550,5 +550,13 @@
     "username": "browngoose538",
     "password": "show",
     "invokedAt": "2023-04-27T11:29:40.440Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Jørgensen",
+    "email": "silje.jorgensen@example.com",
+    "username": "lazybird103",
+    "password": "kenobi",
+    "invokedAt": "2023-04-27T11:35:47.398Z"
   }
 ]
