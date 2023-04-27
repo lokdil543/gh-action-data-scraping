@@ -814,5 +814,13 @@
     "username": "whitepanda102",
     "password": "biggun",
     "invokedAt": "2023-04-27T16:36:30.017Z"
+  },
+  {
+    "firstName": "Mohammed",
+    "lastName": "Flataker",
+    "email": "mohammed.flataker@example.com",
+    "username": "angrydog849",
+    "password": "fright",
+    "invokedAt": "2023-04-27T16:42:24.703Z"
   }
 ]
