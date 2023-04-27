@@ -214,5 +214,13 @@
     "username": "browntiger808",
     "password": "1212",
     "invokedAt": "2023-04-27T05:52:16.846Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Miller",
+    "email": "herbert.miller@example.com",
+    "username": "redbear632",
+    "password": "talbot",
+    "invokedAt": "2023-04-27T05:58:11.342Z"
   }
 ]
