@@ -46,5 +46,13 @@
     "username": "whitecat294",
     "password": "trident",
     "invokedAt": "2023-04-28T02:56:32.890Z"
+  },
+  {
+    "firstName": "José Emilio",
+    "lastName": "Laureano",
+    "email": "joseemilio.laureano@example.com",
+    "username": "blackduck430",
+    "password": "timeout",
+    "invokedAt": "2023-04-28T03:08:10.194Z"
   }
 ]
