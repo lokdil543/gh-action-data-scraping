@@ -726,5 +726,13 @@
     "username": "bigtiger601",
     "password": "hallo",
     "invokedAt": "2023-04-28T14:40:20.133Z"
+  },
+  {
+    "firstName": "Kristupas",
+    "lastName": "Byrkjeland",
+    "email": "kristupas.byrkjeland@example.com",
+    "username": "organicdog613",
+    "password": "more",
+    "invokedAt": "2023-04-28T14:46:36.195Z"
   }
 ]
