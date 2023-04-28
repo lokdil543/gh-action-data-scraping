@@ -926,5 +926,13 @@
     "username": "goldentiger107",
     "password": "uptown",
     "invokedAt": "2023-04-28T17:54:57.265Z"
+  },
+  {
+    "firstName": "Tomás",
+    "lastName": "Hidalgo",
+    "email": "tomas.hidalgo@example.com",
+    "username": "smallostrich693",
+    "password": "storys",
+    "invokedAt": "2023-04-28T18:01:47.645Z"
   }
 ]
