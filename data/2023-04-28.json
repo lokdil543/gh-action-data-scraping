@@ -1142,5 +1142,13 @@
     "username": "tinybird447",
     "password": "bian",
     "invokedAt": "2023-04-28T21:18:42.746Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Van Aarle",
+    "email": "arthur.vanaarle@example.com",
+    "username": "sadcat191",
+    "password": "field",
+    "invokedAt": "2023-04-28T21:24:38.797Z"
   }
 ]
