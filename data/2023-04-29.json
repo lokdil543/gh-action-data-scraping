@@ -622,5 +622,13 @@
     "username": "bigbear156",
     "password": "cornell",
     "invokedAt": "2023-04-29T12:24:55.123Z"
+  },
+  {
+    "firstName": "Camilo",
+    "lastName": "Oquendo",
+    "email": "camilo.oquendo@example.com",
+    "username": "tinysnake169",
+    "password": "chilly",
+    "invokedAt": "2023-04-29T12:44:07.798Z"
   }
 ]
