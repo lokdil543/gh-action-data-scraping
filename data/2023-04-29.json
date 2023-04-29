@@ -94,5 +94,13 @@
     "username": "organicbird859",
     "password": "buzzer",
     "invokedAt": "2023-04-29T03:45:09.704Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Stec",
+    "email": "albert.stec@example.com",
+    "username": "bluemouse416",
+    "password": "allgood",
+    "invokedAt": "2023-04-29T03:51:14.825Z"
   }
 ]
