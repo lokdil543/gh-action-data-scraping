@@ -278,5 +278,13 @@
     "username": "whitepanda173",
     "password": "springer",
     "invokedAt": "2023-04-29T06:48:32.677Z"
+  },
+  {
+    "firstName": "André",
+    "lastName": "Faure",
+    "email": "andre.faure@example.com",
+    "username": "purplefish148",
+    "password": "longhorn",
+    "invokedAt": "2023-04-29T06:54:34.983Z"
   }
 ]
