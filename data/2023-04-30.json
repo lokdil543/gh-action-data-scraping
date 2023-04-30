@@ -1174,5 +1174,13 @@
     "username": "greensnake198",
     "password": "herewego",
     "invokedAt": "2023-04-30T21:09:56.284Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Williams",
+    "email": "henry.williams@example.com",
+    "username": "yellowfish556",
+    "password": "bobdylan",
+    "invokedAt": "2023-04-30T21:18:01.603Z"
   }
 ]
