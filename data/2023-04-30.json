@@ -510,5 +510,13 @@
     "username": "goldenkoala560",
     "password": "marie1",
     "invokedAt": "2023-04-30T10:25:18.191Z"
+  },
+  {
+    "firstName": "Željka",
+    "lastName": "Milutinović",
+    "email": "zeljka.milutinovic@example.com",
+    "username": "greencat268",
+    "password": "ginger",
+    "invokedAt": "2023-04-30T10:31:18.998Z"
   }
 ]
