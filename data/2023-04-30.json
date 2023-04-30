@@ -478,5 +478,13 @@
     "username": "goldengoose614",
     "password": "aviation",
     "invokedAt": "2023-04-30T09:47:30.522Z"
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Bjørdal",
+    "email": "christopher.bjordal@example.com",
+    "username": "greenbear406",
+    "password": "markus",
+    "invokedAt": "2023-04-30T09:53:24.615Z"
   }
 ]
