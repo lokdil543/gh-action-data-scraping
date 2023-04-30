@@ -1086,5 +1086,13 @@
     "username": "blackdog864",
     "password": "canucks",
     "invokedAt": "2023-04-30T19:46:46.842Z"
+  },
+  {
+    "firstName": "Emmi",
+    "lastName": "Haataja",
+    "email": "emmi.haataja@example.com",
+    "username": "silvercat690",
+    "password": "biscuit",
+    "invokedAt": "2023-04-30T19:52:52.907Z"
   }
 ]
