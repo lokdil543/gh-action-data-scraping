@@ -422,5 +422,13 @@
     "username": "biglion962",
     "password": "poiu",
     "invokedAt": "2023-04-30T08:55:50.916Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Lemoine",
+    "email": "thomas.lemoine@example.com",
+    "username": "silverleopard197",
+    "password": "blanche",
+    "invokedAt": "2023-04-30T09:05:57.579Z"
   }
 ]
