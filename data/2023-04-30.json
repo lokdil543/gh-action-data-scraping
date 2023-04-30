@@ -86,5 +86,13 @@
     "username": "redfish891",
     "password": "ruby",
     "invokedAt": "2023-04-30T03:35:11.685Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Wood",
+    "email": "alexander.wood@example.com",
+    "username": "lazypeacock628",
+    "password": "armstron",
+    "invokedAt": "2023-04-30T03:41:30.180Z"
   }
 ]
