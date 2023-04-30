@@ -214,5 +214,13 @@
     "username": "whiteleopard173",
     "password": "oblivion",
     "invokedAt": "2023-04-30T05:39:31.908Z"
+  },
+  {
+    "firstName": "Jean-Luc",
+    "lastName": "Morin",
+    "email": "jean-luc.morin@example.com",
+    "username": "blueduck721",
+    "password": "puffer",
+    "invokedAt": "2023-04-30T05:45:30.947Z"
   }
 ]
