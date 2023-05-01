@@ -110,5 +110,13 @@
     "username": "beautifultiger324",
     "password": "sunfire",
     "invokedAt": "2023-05-01T03:58:53.601Z"
+  },
+  {
+    "firstName": "Mladen",
+    "lastName": "Stojanović",
+    "email": "mladen.stojanovic@example.com",
+    "username": "angrycat628",
+    "password": "doughnut",
+    "invokedAt": "2023-05-01T04:14:23.480Z"
   }
 ]
