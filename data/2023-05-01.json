@@ -542,5 +542,13 @@
     "username": "organicswan151",
     "password": "655321",
     "invokedAt": "2023-05-01T11:17:04.894Z"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Blanc",
+    "email": "lena.blanc@example.com",
+    "username": "purplecat617",
+    "password": "puppet",
+    "invokedAt": "2023-05-01T11:23:01.155Z"
   }
 ]
