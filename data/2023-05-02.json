@@ -750,5 +750,13 @@
     "username": "angrysnake115",
     "password": "million",
     "invokedAt": "2023-05-02T15:13:05.860Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Wilson",
+    "email": "pedro.wilson@example.com",
+    "username": "greenleopard759",
+    "password": "mermaid",
+    "invokedAt": "2023-05-02T15:25:43.704Z"
   }
 ]
