@@ -806,5 +806,13 @@
     "username": "angryfish238",
     "password": "internal",
     "invokedAt": "2023-05-02T16:07:31.932Z"
+  },
+  {
+    "firstName": "Alvaro",
+    "lastName": "de Jesús",
+    "email": "alvaro.dejesus@example.com",
+    "username": "angrybear851",
+    "password": "kojak",
+    "invokedAt": "2023-05-02T16:27:09.809Z"
   }
 ]
