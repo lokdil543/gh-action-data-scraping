@@ -1102,5 +1102,13 @@
     "username": "tinycat301",
     "password": "apples",
     "invokedAt": "2023-05-02T20:53:47.766Z"
+  },
+  {
+    "firstName": "Sacha",
+    "lastName": "Legrand",
+    "email": "sacha.legrand@example.com",
+    "username": "beautifulfrog801",
+    "password": "matthias",
+    "invokedAt": "2023-05-02T20:59:43.820Z"
   }
 ]
