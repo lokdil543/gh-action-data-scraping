@@ -406,5 +406,13 @@
     "username": "crazyfish415",
     "password": "footjob",
     "invokedAt": "2023-05-02T08:55:32.455Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Watson",
+    "email": "victor.watson@example.com",
+    "username": "crazybear957",
+    "password": "beanie",
+    "invokedAt": "2023-05-02T09:06:07.632Z"
   }
 ]
