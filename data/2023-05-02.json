@@ -358,5 +358,13 @@
     "username": "whitecat311",
     "password": "sleep",
     "invokedAt": "2023-05-02T08:10:53.889Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Boyd",
+    "email": "dwight.boyd@example.com",
+    "username": "beautifulbutterfly934",
+    "password": "stereo",
+    "invokedAt": "2023-05-02T08:26:03.983Z"
   }
 ]
