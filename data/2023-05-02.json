@@ -646,5 +646,13 @@
     "username": "angrytiger690",
     "password": "hobbes",
     "invokedAt": "2023-05-02T13:33:38.465Z"
+  },
+  {
+    "firstName": "Vlado",
+    "lastName": "Ivić",
+    "email": "vlado.ivic@example.com",
+    "username": "greentiger776",
+    "password": "gandalf",
+    "invokedAt": "2023-05-02T13:39:27.811Z"
   }
 ]
