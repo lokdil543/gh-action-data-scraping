@@ -734,5 +734,13 @@
     "username": "browntiger720",
     "password": "citizen",
     "invokedAt": "2023-05-03T14:40:51.494Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Salmela",
+    "email": "juho.salmela@example.com",
+    "username": "browncat162",
+    "password": "mandrake",
+    "invokedAt": "2023-05-03T14:46:46.233Z"
   }
 ]
