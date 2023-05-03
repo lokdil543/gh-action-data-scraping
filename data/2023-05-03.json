@@ -782,5 +782,13 @@
     "username": "brownlion255",
     "password": "deedee",
     "invokedAt": "2023-05-03T15:35:23.563Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Taylor",
+    "email": "hunter.taylor@example.com",
+    "username": "blackrabbit698",
+    "password": "starman",
+    "invokedAt": "2023-05-03T15:41:21.879Z"
   }
 ]
