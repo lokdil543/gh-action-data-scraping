@@ -1310,5 +1310,13 @@
     "username": "yellowduck588",
     "password": "lestat",
     "invokedAt": "2023-05-03T23:51:58.628Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Murphy",
+    "email": "jessica.murphy@example.com",
+    "username": "blackcat957",
+    "password": "lookin",
+    "invokedAt": "2023-05-03T23:57:50.549Z"
   }
 ]
