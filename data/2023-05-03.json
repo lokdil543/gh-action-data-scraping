@@ -350,5 +350,13 @@
     "username": "redswan384",
     "password": "player1",
     "invokedAt": "2023-05-03T07:51:12.972Z"
+  },
+  {
+    "firstName": "Tanja",
+    "lastName": "Ognjanović",
+    "email": "tanja.ognjanovic@example.com",
+    "username": "orangefrog209",
+    "password": "daisy",
+    "invokedAt": "2023-05-03T07:57:02.645Z"
   }
 ]
