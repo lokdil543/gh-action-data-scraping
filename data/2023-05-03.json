@@ -1286,5 +1286,13 @@
     "username": "ticklishrabbit128",
     "password": "lennon",
     "invokedAt": "2023-05-03T23:34:08.827Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Scott",
+    "email": "daniel.scott@example.com",
+    "username": "beautifulbird244",
+    "password": "tazmania",
+    "invokedAt": "2023-05-03T23:40:02.536Z"
   }
 ]
