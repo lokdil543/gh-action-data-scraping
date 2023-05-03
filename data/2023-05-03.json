@@ -766,5 +766,13 @@
     "username": "heavycat100",
     "password": "will",
     "invokedAt": "2023-05-03T15:11:33.983Z"
+  },
+  {
+    "firstName": "Željko",
+    "lastName": "Zec",
+    "email": "zeljko.zec@example.com",
+    "username": "brownpanda365",
+    "password": "flores",
+    "invokedAt": "2023-05-03T15:29:17.810Z"
   }
 ]
