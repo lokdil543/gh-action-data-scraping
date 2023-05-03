@@ -758,5 +758,13 @@
     "username": "silvertiger908",
     "password": "steph",
     "invokedAt": "2023-05-03T14:58:36.457Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Patel",
+    "email": "dylan.patel@example.com",
+    "username": "heavycat100",
+    "password": "will",
+    "invokedAt": "2023-05-03T15:11:33.983Z"
   }
 ]
