@@ -278,5 +278,13 @@
     "username": "blackbird452",
     "password": "manutd",
     "invokedAt": "2023-05-04T06:48:57.418Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Novak",
+    "email": "amy.novak@example.com",
+    "username": "blackwolf191",
+    "password": "maria",
+    "invokedAt": "2023-05-04T06:55:01.774Z"
   }
 ]
