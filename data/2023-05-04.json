@@ -998,5 +998,13 @@
     "username": "purpletiger480",
     "password": "zulu",
     "invokedAt": "2023-05-04T19:39:50.057Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Beck",
+    "email": "terry.beck@example.com",
+    "username": "sadtiger604",
+    "password": "iceberg",
+    "invokedAt": "2023-05-04T19:45:48.941Z"
   }
 ]
