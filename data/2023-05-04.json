@@ -606,5 +606,13 @@
     "username": "happyelephant689",
     "password": "dolemite",
     "invokedAt": "2023-05-04T11:59:17.817Z"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "Hughes",
+    "email": "riley.hughes@example.com",
+    "username": "whitebird465",
+    "password": "mypass",
+    "invokedAt": "2023-05-04T12:23:59.912Z"
   }
 ]
