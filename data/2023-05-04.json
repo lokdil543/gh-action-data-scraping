@@ -526,5 +526,13 @@
     "username": "blackswan699",
     "password": "chef",
     "invokedAt": "2023-05-04T10:50:28.873Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Benítez",
+    "email": "david.benitez@example.com",
+    "username": "angrykoala498",
+    "password": "ernest",
+    "invokedAt": "2023-05-04T10:56:28.567Z"
   }
 ]
