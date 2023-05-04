@@ -262,5 +262,13 @@
     "username": "tinycat273",
     "password": "slapshot",
     "invokedAt": "2023-05-04T06:37:12.592Z"
+  },
+  {
+    "firstName": "Mercedes",
+    "lastName": "Pérez",
+    "email": "mercedes.perez@example.com",
+    "username": "orangebear369",
+    "password": "angel",
+    "invokedAt": "2023-05-04T06:43:11.132Z"
   }
 ]
