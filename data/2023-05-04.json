@@ -694,5 +694,13 @@
     "username": "crazydog825",
     "password": "portland",
     "invokedAt": "2023-05-04T14:17:07.687Z"
+  },
+  {
+    "firstName": "Mateo",
+    "lastName": "de la Fuente",
+    "email": "mateo.delafuente@example.com",
+    "username": "purplewolf641",
+    "password": "lighting",
+    "invokedAt": "2023-05-04T14:27:25.796Z"
   }
 ]
