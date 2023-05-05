@@ -1062,5 +1062,13 @@
     "username": "ticklishleopard639",
     "password": "doomsday",
     "invokedAt": "2023-05-05T20:40:33.600Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Williams",
+    "email": "jim.williams@example.com",
+    "username": "brownfish511",
+    "password": "scooter",
+    "invokedAt": "2023-05-05T20:46:43.638Z"
   }
 ]
