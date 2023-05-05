@@ -534,5 +534,13 @@
     "username": "lazygoose106",
     "password": "windows",
     "invokedAt": "2023-05-05T11:23:30.355Z"
+  },
+  {
+    "firstName": "Jean-François",
+    "lastName": "Lemoine",
+    "email": "jean-francois.lemoine@example.com",
+    "username": "greenzebra709",
+    "password": "salomon",
+    "invokedAt": "2023-05-05T11:29:25.699Z"
   }
 ]
