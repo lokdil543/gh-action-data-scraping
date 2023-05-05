@@ -838,5 +838,13 @@
     "username": "whitedog149",
     "password": "quality",
     "invokedAt": "2023-05-05T17:00:34.478Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Santrač",
+    "email": "bosko.santrac@example.com",
+    "username": "smalldog236",
+    "password": "cancun",
+    "invokedAt": "2023-05-05T17:12:46.805Z"
   }
 ]
