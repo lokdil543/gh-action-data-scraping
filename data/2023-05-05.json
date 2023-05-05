@@ -678,5 +678,13 @@
     "username": "smallleopard733",
     "password": "stanford",
     "invokedAt": "2023-05-05T14:15:07.910Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Steward",
+    "email": "benjamin.steward@example.com",
+    "username": "reddog382",
+    "password": "football",
+    "invokedAt": "2023-05-05T14:25:42.446Z"
   }
 ]
