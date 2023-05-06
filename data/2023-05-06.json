@@ -550,5 +550,13 @@
     "username": "lazyfish247",
     "password": "director",
     "invokedAt": "2023-05-06T10:50:11.371Z"
+  },
+  {
+    "firstName": "Kurt",
+    "lastName": "Riley",
+    "email": "kurt.riley@example.com",
+    "username": "ticklishbear321",
+    "password": "futbol",
+    "invokedAt": "2023-05-06T10:56:06.754Z"
   }
 ]
