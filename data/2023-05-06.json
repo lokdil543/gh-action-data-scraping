@@ -846,5 +846,13 @@
     "username": "goldenfrog562",
     "password": "video1",
     "invokedAt": "2023-05-06T15:49:33.346Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Fuller",
+    "email": "patrick.fuller@example.com",
+    "username": "silverrabbit699",
+    "password": "hastings",
+    "invokedAt": "2023-05-06T15:55:19.004Z"
   }
 ]
