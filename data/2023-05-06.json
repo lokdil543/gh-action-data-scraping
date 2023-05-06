@@ -622,5 +622,13 @@
     "username": "browncat100",
     "password": "norris",
     "invokedAt": "2023-05-06T11:51:34.873Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Kulaksızoğlu",
+    "email": "emre.kulaksizoglu@example.com",
+    "username": "silverzebra324",
+    "password": "hayden",
+    "invokedAt": "2023-05-06T11:57:26.882Z"
   }
 ]
