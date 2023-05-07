@@ -278,5 +278,13 @@
     "username": "heavygoose522",
     "password": "avalanch",
     "invokedAt": "2023-05-07T06:52:57.671Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Van der Boon",
+    "email": "luis.vanderboon@example.com",
+    "username": "bluemouse424",
+    "password": "beat",
+    "invokedAt": "2023-05-07T06:58:52.266Z"
   }
 ]
