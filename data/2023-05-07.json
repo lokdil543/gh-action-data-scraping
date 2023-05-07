@@ -1294,5 +1294,13 @@
     "username": "whitedog648",
     "password": "lllll",
     "invokedAt": "2023-05-07T23:00:04.722Z"
+  },
+  {
+    "firstName": "Ljubiša",
+    "lastName": "Polić",
+    "email": "ljubisa.polic@example.com",
+    "username": "crazyfish422",
+    "password": "010203",
+    "invokedAt": "2023-05-07T23:13:11.485Z"
   }
 ]
