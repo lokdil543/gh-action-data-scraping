@@ -718,5 +718,13 @@
     "username": "orangedog564",
     "password": "music",
     "invokedAt": "2023-05-07T14:06:34.354Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Walker",
+    "email": "molly.walker@example.com",
+    "username": "yellowbird809",
+    "password": "longhorn",
+    "invokedAt": "2023-05-07T14:18:32.764Z"
   }
 ]
