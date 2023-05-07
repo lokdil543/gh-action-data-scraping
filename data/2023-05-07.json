@@ -502,5 +502,13 @@
     "username": "yellowfish806",
     "password": "idefix",
     "invokedAt": "2023-05-07T10:25:31.486Z"
+  },
+  {
+    "firstName": "Georges",
+    "lastName": "Meyer",
+    "email": "georges.meyer@example.com",
+    "username": "happyladybug846",
+    "password": "012345",
+    "invokedAt": "2023-05-07T10:31:33.603Z"
   }
 ]
