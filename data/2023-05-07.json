@@ -710,5 +710,13 @@
     "username": "redpeacock585",
     "password": "falcons",
     "invokedAt": "2023-05-07T13:56:49.683Z"
+  },
+  {
+    "firstName": "Jerzy",
+    "lastName": "Grüner",
+    "email": "jerzy.gruner@example.com",
+    "username": "orangedog564",
+    "password": "music",
+    "invokedAt": "2023-05-07T14:06:34.354Z"
   }
 ]
