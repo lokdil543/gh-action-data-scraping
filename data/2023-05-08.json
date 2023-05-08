@@ -406,5 +406,13 @@
     "username": "greenrabbit966",
     "password": "abc123",
     "invokedAt": "2023-05-08T08:57:41.379Z"
+  },
+  {
+    "firstName": "Amparo",
+    "lastName": "Ibáñez",
+    "email": "amparo.ibanez@example.com",
+    "username": "brownpanda322",
+    "password": "judith",
+    "invokedAt": "2023-05-08T09:10:13.894Z"
   }
 ]
