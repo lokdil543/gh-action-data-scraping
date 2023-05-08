@@ -382,5 +382,13 @@
     "username": "bigcat190",
     "password": "rommel",
     "invokedAt": "2023-05-08T08:40:06.326Z"
+  },
+  {
+    "firstName": "Joaquin",
+    "lastName": "Arias",
+    "email": "joaquin.arias@example.com",
+    "username": "sadduck522",
+    "password": "cicero",
+    "invokedAt": "2023-05-08T08:45:51.488Z"
   }
 ]
