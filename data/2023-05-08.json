@@ -414,5 +414,13 @@
     "username": "brownpanda322",
     "password": "judith",
     "invokedAt": "2023-05-08T09:10:13.894Z"
+  },
+  {
+    "firstName": "Sandor",
+    "lastName": "Geboers",
+    "email": "sandor.geboers@example.com",
+    "username": "crazyelephant944",
+    "password": "robotech",
+    "invokedAt": "2023-05-08T09:21:34.782Z"
   }
 ]
