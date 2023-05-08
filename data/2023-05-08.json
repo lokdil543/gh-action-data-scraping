@@ -1182,5 +1182,13 @@
     "username": "whiteleopard425",
     "password": "marcel",
     "invokedAt": "2023-05-08T22:45:52.574Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Dunn",
+    "email": "andy.dunn@example.com",
+    "username": "whitefish783",
+    "password": "tophat",
+    "invokedAt": "2023-05-08T22:51:44.692Z"
   }
 ]
