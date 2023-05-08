@@ -278,5 +278,13 @@
     "username": "crazysnake898",
     "password": "defense",
     "invokedAt": "2023-05-08T06:53:54.602Z"
+  },
+  {
+    "firstName": "Petar",
+    "lastName": "Jevremović",
+    "email": "petar.jevremovic@example.com",
+    "username": "smallostrich678",
+    "password": "draco",
+    "invokedAt": "2023-05-08T06:59:40.393Z"
   }
 ]
