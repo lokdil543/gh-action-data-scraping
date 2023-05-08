@@ -1022,5 +1022,13 @@
     "username": "whitekoala845",
     "password": "gator",
     "invokedAt": "2023-05-08T20:04:15.025Z"
+  },
+  {
+    "firstName": "Đoka",
+    "lastName": "Pantelić",
+    "email": "doka.pantelic@example.com",
+    "username": "blackduck650",
+    "password": "stolen",
+    "invokedAt": "2023-05-08T20:18:49.845Z"
   }
 ]
