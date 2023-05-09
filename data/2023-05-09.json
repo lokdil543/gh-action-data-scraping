@@ -726,5 +726,13 @@
     "username": "silvermouse153",
     "password": "roadster",
     "invokedAt": "2023-05-09T16:51:16.899Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Hansen",
+    "email": "charlie.hansen@example.com",
+    "username": "whitegorilla490",
+    "password": "howard",
+    "invokedAt": "2023-05-09T16:57:13.985Z"
   }
 ]
