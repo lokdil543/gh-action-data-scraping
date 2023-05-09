@@ -950,5 +950,13 @@
     "username": "blackkoala183",
     "password": "road",
     "invokedAt": "2023-05-09T20:34:12.501Z"
+  },
+  {
+    "firstName": "Vildan",
+    "lastName": "Özkök",
+    "email": "vildan.ozkok@example.com",
+    "username": "bigfish634",
+    "password": "giant",
+    "invokedAt": "2023-05-09T20:40:08.296Z"
   }
 ]
