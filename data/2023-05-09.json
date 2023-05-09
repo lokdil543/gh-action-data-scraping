@@ -958,5 +958,13 @@
     "username": "bigfish634",
     "password": "giant",
     "invokedAt": "2023-05-09T20:40:08.296Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Monteiro",
+    "email": "daniel.monteiro@example.com",
+    "username": "whitedog577",
+    "password": "4321",
+    "invokedAt": "2023-05-09T20:46:09.740Z"
   }
 ]
