@@ -782,5 +782,13 @@
     "username": "blackrabbit114",
     "password": "wasabi",
     "invokedAt": "2023-05-09T17:45:01.114Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Brøndbo",
+    "email": "liam.brondbo@example.com",
+    "username": "bigpanda444",
+    "password": "clovis",
+    "invokedAt": "2023-05-09T17:51:04.173Z"
   }
 ]
