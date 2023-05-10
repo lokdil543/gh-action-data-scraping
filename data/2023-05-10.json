@@ -782,5 +782,13 @@
     "username": "orangesnake144",
     "password": "giorgio",
     "invokedAt": "2023-05-10T16:42:25.599Z"
+  },
+  {
+    "firstName": "Josse",
+    "lastName": "Snelders",
+    "email": "josse.snelders@example.com",
+    "username": "silversnake170",
+    "password": "shinobi",
+    "invokedAt": "2023-05-10T16:48:02.354Z"
   }
 ]
