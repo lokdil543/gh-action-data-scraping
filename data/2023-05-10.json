@@ -630,5 +630,13 @@
     "username": "yellowdog565",
     "password": "south",
     "invokedAt": "2023-05-10T13:01:12.329Z"
+  },
+  {
+    "firstName": "Hartmuth",
+    "lastName": "Reichel",
+    "email": "hartmuth.reichel@example.com",
+    "username": "bluemeercat896",
+    "password": "bubble",
+    "invokedAt": "2023-05-10T13:25:35.645Z"
   }
 ]
