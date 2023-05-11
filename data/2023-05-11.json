@@ -1086,5 +1086,13 @@
     "username": "ticklishfish225",
     "password": "spikes",
     "invokedAt": "2023-05-11T20:59:24.191Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Poulsen",
+    "email": "christian.poulsen@example.com",
+    "username": "redbutterfly117",
+    "password": "hedgehog",
+    "invokedAt": "2023-05-11T21:10:51.463Z"
   }
 ]
