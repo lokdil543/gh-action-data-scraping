@@ -494,5 +494,13 @@
     "username": "crazybear434",
     "password": "enter",
     "invokedAt": "2023-05-11T10:11:02.446Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Day",
+    "email": "juan.day@example.com",
+    "username": "orangerabbit706",
+    "password": "credit",
+    "invokedAt": "2023-05-11T10:26:25.274Z"
   }
 ]
