@@ -246,5 +246,13 @@
     "username": "tinytiger344",
     "password": "vulcan",
     "invokedAt": "2023-05-11T06:12:11.311Z"
+  },
+  {
+    "firstName": "Carmen",
+    "lastName": "Nicolas",
+    "email": "carmen.nicolas@example.com",
+    "username": "bluetiger839",
+    "password": "starbuck",
+    "invokedAt": "2023-05-11T06:27:15.782Z"
   }
 ]
