@@ -1030,5 +1030,13 @@
     "username": "bigpanda127",
     "password": "outside",
     "invokedAt": "2023-05-11T20:14:05.063Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Anderson",
+    "email": "sophie.anderson@example.com",
+    "username": "lazyfrog875",
+    "password": "aquarius",
+    "invokedAt": "2023-05-11T20:23:38.865Z"
   }
 ]
