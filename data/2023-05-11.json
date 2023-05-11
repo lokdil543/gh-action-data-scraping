@@ -1022,5 +1022,13 @@
     "username": "heavymouse755",
     "password": "julie",
     "invokedAt": "2023-05-11T20:00:07.740Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Morris",
+    "email": "max.morris@example.com",
+    "username": "bigpanda127",
+    "password": "outside",
+    "invokedAt": "2023-05-11T20:14:05.063Z"
   }
 ]
