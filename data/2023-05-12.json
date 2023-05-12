@@ -374,5 +374,13 @@
     "username": "angryfish153",
     "password": "toolman",
     "invokedAt": "2023-05-12T08:14:29.580Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Andersen",
+    "email": "rasmus.andersen@example.com",
+    "username": "redmeercat589",
+    "password": "tribe",
+    "invokedAt": "2023-05-12T08:26:47.561Z"
   }
 ]
