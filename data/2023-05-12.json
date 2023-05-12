@@ -534,5 +534,13 @@
     "username": "yellowdog560",
     "password": "reeves",
     "invokedAt": "2023-05-12T10:48:37.766Z"
+  },
+  {
+    "firstName": "Živojin",
+    "lastName": "Aleksić",
+    "email": "zivojin.aleksic@example.com",
+    "username": "lazybird846",
+    "password": "bears",
+    "invokedAt": "2023-05-12T10:54:29.782Z"
   }
 ]
