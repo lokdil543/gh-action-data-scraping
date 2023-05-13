@@ -422,5 +422,13 @@
     "username": "smallwolf509",
     "password": "pinnacle",
     "invokedAt": "2023-05-13T08:49:35.585Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Fletcher",
+    "email": "alice.fletcher@example.com",
+    "username": "ticklishpanda179",
+    "password": "0007",
+    "invokedAt": "2023-05-13T08:55:35.356Z"
   }
 ]
