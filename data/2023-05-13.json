@@ -1302,5 +1302,13 @@
     "username": "happyrabbit921",
     "password": "public",
     "invokedAt": "2023-05-13T22:51:58.349Z"
+  },
+  {
+    "firstName": "Zeynep",
+    "lastName": "Gerard",
+    "email": "zeynep.gerard@example.com",
+    "username": "blackfrog765",
+    "password": "012345",
+    "invokedAt": "2023-05-13T22:57:50.972Z"
   }
 ]
