@@ -1078,5 +1078,13 @@
     "username": "silvergoose200",
     "password": "driven",
     "invokedAt": "2023-05-13T19:33:46.818Z"
+  },
+  {
+    "firstName": "Douwe",
+    "lastName": "Bulthuis",
+    "email": "douwe.bulthuis@example.com",
+    "username": "bluezebra318",
+    "password": "surfer1",
+    "invokedAt": "2023-05-13T19:39:41.690Z"
   }
 ]
