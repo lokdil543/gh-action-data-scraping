@@ -678,5 +678,13 @@
     "username": "browndog215",
     "password": "marker",
     "invokedAt": "2023-05-14T13:26:25.050Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Poulsen",
+    "email": "sofia.poulsen@example.com",
+    "username": "orangeelephant944",
+    "password": "hard",
+    "invokedAt": "2023-05-14T13:32:11.820Z"
   }
 ]
