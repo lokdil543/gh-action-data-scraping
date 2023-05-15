@@ -670,5 +670,13 @@
     "username": "lazyelephant417",
     "password": "perkins",
     "invokedAt": "2023-05-15T13:52:48.868Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Poulsen",
+    "email": "mads.poulsen@example.com",
+    "username": "heavyduck888",
+    "password": "reflex",
+    "invokedAt": "2023-05-15T13:58:53.117Z"
   }
 ]
