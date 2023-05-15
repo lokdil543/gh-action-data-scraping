@@ -294,5 +294,13 @@
     "username": "blackostrich263",
     "password": "delaware",
     "invokedAt": "2023-05-15T07:13:07.423Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Kari",
+    "email": "daniel.kari@example.com",
+    "username": "sadkoala985",
+    "password": "vacation",
+    "invokedAt": "2023-05-15T07:22:25.704Z"
   }
 ]
