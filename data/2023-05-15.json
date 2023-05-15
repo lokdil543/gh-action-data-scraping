@@ -598,5 +598,13 @@
     "username": "orangeelephant502",
     "password": "baylor",
     "invokedAt": "2023-05-15T11:59:00.404Z"
+  },
+  {
+    "firstName": "Alejandro",
+    "lastName": "de la Fuente",
+    "email": "alejandro.delafuente@example.com",
+    "username": "blackcat743",
+    "password": "sloppy",
+    "invokedAt": "2023-05-15T12:24:35.516Z"
   }
 ]
