@@ -990,5 +990,13 @@
     "username": "blackostrich411",
     "password": "whatup",
     "invokedAt": "2023-05-16T19:05:18.274Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Mortensen",
+    "email": "rasmus.mortensen@example.com",
+    "username": "redpeacock744",
+    "password": "jamaica",
+    "invokedAt": "2023-05-16T19:15:56.546Z"
   }
 ]
