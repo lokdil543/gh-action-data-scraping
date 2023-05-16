@@ -830,5 +830,13 @@
     "username": "goldenostrich261",
     "password": "riversid",
     "invokedAt": "2023-05-16T16:32:15.656Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Poulsen",
+    "email": "anton.poulsen@example.com",
+    "username": "happybear132",
+    "password": "volcano",
+    "invokedAt": "2023-05-16T16:40:46.960Z"
   }
 ]
