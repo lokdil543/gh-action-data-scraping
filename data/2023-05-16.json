@@ -758,5 +758,13 @@
     "username": "heavydog686",
     "password": "coolguy",
     "invokedAt": "2023-05-16T15:12:20.547Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Waara",
+    "email": "otto.waara@example.com",
+    "username": "bluefrog678",
+    "password": "fitter",
+    "invokedAt": "2023-05-16T15:23:39.790Z"
   }
 ]
