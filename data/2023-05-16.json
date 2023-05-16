@@ -662,5 +662,13 @@
     "username": "blackfrog453",
     "password": "bruno1",
     "invokedAt": "2023-05-16T13:40:14.565Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Koçoğlu",
+    "email": "sedef.kocoglu@example.com",
+    "username": "bluecat666",
+    "password": "pearljam",
+    "invokedAt": "2023-05-16T13:46:25.856Z"
   }
 ]
