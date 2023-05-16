@@ -1006,5 +1006,13 @@
     "username": "blackgoose118",
     "password": "canucks",
     "invokedAt": "2023-05-16T19:21:49.516Z"
+  },
+  {
+    "firstName": "Lenni",
+    "lastName": "Nikula",
+    "email": "lenni.nikula@example.com",
+    "username": "angrytiger381",
+    "password": "cartoon",
+    "invokedAt": "2023-05-16T19:27:45.170Z"
   }
 ]
