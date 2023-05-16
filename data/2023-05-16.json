@@ -950,5 +950,13 @@
     "username": "bigtiger966",
     "password": "amazing",
     "invokedAt": "2023-05-16T18:32:06.601Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Møller",
+    "email": "simon.moller@example.com",
+    "username": "bigbutterfly882",
+    "password": "beautifu",
+    "invokedAt": "2023-05-16T18:38:13.571Z"
   }
 ]
