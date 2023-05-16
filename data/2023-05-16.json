@@ -358,5 +358,13 @@
     "username": "lazyfish150",
     "password": "vectra",
     "invokedAt": "2023-05-16T08:09:19.995Z"
+  },
+  {
+    "firstName": "Slaven",
+    "lastName": "Sokolović",
+    "email": "slaven.sokolovic@example.com",
+    "username": "yellowdog607",
+    "password": "doggies",
+    "invokedAt": "2023-05-16T08:25:22.408Z"
   }
 ]
