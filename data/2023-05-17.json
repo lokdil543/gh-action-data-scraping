@@ -566,5 +566,13 @@
     "username": "blackzebra586",
     "password": "dutch",
     "invokedAt": "2023-05-17T11:29:19.563Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Walker",
+    "email": "patrick.walker@example.com",
+    "username": "lazywolf849",
+    "password": "dddd",
+    "invokedAt": "2023-05-17T11:35:35.755Z"
   }
 ]
