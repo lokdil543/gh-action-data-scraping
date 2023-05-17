@@ -358,5 +358,13 @@
     "username": "bigrabbit646",
     "password": "tototo",
     "invokedAt": "2023-05-17T08:07:28.621Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Jackson",
+    "email": "noah.jackson@example.com",
+    "username": "redbird282",
+    "password": "volume",
+    "invokedAt": "2023-05-17T08:24:53.953Z"
   }
 ]
