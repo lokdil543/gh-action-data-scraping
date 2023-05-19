@@ -726,5 +726,13 @@
     "username": "purplepeacock524",
     "password": "6666",
     "invokedAt": "2023-05-19T14:30:07.332Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Vujičić",
+    "email": "andrea.vujicic@example.com",
+    "username": "happypeacock369",
+    "password": "swordfish",
+    "invokedAt": "2023-05-19T14:35:59.054Z"
   }
 ]
