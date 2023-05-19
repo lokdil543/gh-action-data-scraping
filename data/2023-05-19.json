@@ -862,5 +862,13 @@
     "username": "heavypanda151",
     "password": "blackdog",
     "invokedAt": "2023-05-19T16:44:23.799Z"
+  },
+  {
+    "firstName": "Staniša",
+    "lastName": "Novak",
+    "email": "stanisa.novak@example.com",
+    "username": "smallsnake322",
+    "password": "storms",
+    "invokedAt": "2023-05-19T16:50:26.865Z"
   }
 ]
