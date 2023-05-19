@@ -1062,5 +1062,13 @@
     "username": "smallbird745",
     "password": "topdog",
     "invokedAt": "2023-05-19T19:46:59.859Z"
+  },
+  {
+    "firstName": "Rich",
+    "lastName": "Long",
+    "email": "rich.long@example.com",
+    "username": "blacktiger585",
+    "password": "onion",
+    "invokedAt": "2023-05-19T19:53:09.955Z"
   }
 ]
