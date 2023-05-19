@@ -198,5 +198,13 @@
     "username": "redgoose151",
     "password": "superfly",
     "invokedAt": "2023-05-19T05:34:23.699Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Petersen",
+    "email": "maria.petersen@example.com",
+    "username": "smallladybug783",
+    "password": "roscoe",
+    "invokedAt": "2023-05-19T05:40:09.129Z"
   }
 ]
