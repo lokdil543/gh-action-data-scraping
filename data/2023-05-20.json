@@ -750,5 +750,13 @@
     "username": "lazypanda423",
     "password": "zxcv",
     "invokedAt": "2023-05-20T14:25:00.505Z"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Burns",
+    "email": "jennifer.burns@example.com",
+    "username": "lazyfrog331",
+    "password": "forest",
+    "invokedAt": "2023-05-20T14:30:51.956Z"
   }
 ]
