@@ -614,5 +614,13 @@
     "username": "heavyfrog671",
     "password": "summer",
     "invokedAt": "2023-05-20T11:40:38.969Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Paunović",
+    "email": "bosko.paunovic@example.com",
+    "username": "orangebird781",
+    "password": "frankie",
+    "invokedAt": "2023-05-20T11:46:36.744Z"
   }
 ]
