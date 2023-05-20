@@ -742,5 +742,13 @@
     "username": "redfrog772",
     "password": "linda",
     "invokedAt": "2023-05-20T14:16:20.191Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Radojičić",
+    "email": "aleksa.radojicic@example.com",
+    "username": "lazypanda423",
+    "password": "zxcv",
+    "invokedAt": "2023-05-20T14:25:00.505Z"
   }
 ]
