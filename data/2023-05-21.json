@@ -1166,5 +1166,13 @@
     "username": "orangecat235",
     "password": "long",
     "invokedAt": "2023-05-21T20:56:38.821Z"
+  },
+  {
+    "firstName": "Milomir",
+    "lastName": "Bekić",
+    "email": "milomir.bekic@example.com",
+    "username": "orangesnake439",
+    "password": "cigar",
+    "invokedAt": "2023-05-21T21:07:04.972Z"
   }
 ]
