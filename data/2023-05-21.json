@@ -622,5 +622,13 @@
     "username": "redgoose723",
     "password": "freeze",
     "invokedAt": "2023-05-21T11:57:46.591Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Simonović",
+    "email": "oliver.simonovic@example.com",
+    "username": "tinykoala606",
+    "password": "goldfish",
+    "invokedAt": "2023-05-21T12:16:58.510Z"
   }
 ]
