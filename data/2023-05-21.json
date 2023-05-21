@@ -726,5 +726,13 @@
     "username": "sadwolf702",
     "password": "power1",
     "invokedAt": "2023-05-21T14:12:34.971Z"
+  },
+  {
+    "firstName": "Millie",
+    "lastName": "Walker",
+    "email": "millie.walker@example.com",
+    "username": "greenduck279",
+    "password": "gareth",
+    "invokedAt": "2023-05-21T14:22:34.441Z"
   }
 ]
