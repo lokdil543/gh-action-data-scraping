@@ -734,5 +734,13 @@
     "username": "greenduck279",
     "password": "gareth",
     "invokedAt": "2023-05-21T14:22:34.441Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Harvey",
+    "email": "daniel.harvey@example.com",
+    "username": "heavyostrich732",
+    "password": "spikey",
+    "invokedAt": "2023-05-21T14:28:25.171Z"
   }
 ]
