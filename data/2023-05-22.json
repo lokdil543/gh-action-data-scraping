@@ -1190,5 +1190,13 @@
     "username": "silvergoose643",
     "password": "myxworld",
     "invokedAt": "2023-05-22T22:29:25.250Z"
+  },
+  {
+    "firstName": "Wes",
+    "lastName": "Van Harmelen",
+    "email": "wes.vanharmelen@example.com",
+    "username": "greencat645",
+    "password": "bryan",
+    "invokedAt": "2023-05-22T22:35:14.553Z"
   }
 ]
