@@ -758,5 +758,13 @@
     "username": "happycat535",
     "password": "fergus",
     "invokedAt": "2023-05-22T15:35:50.536Z"
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Gudmestad",
+    "email": "viggo.gudmestad@example.com",
+    "username": "reddog140",
+    "password": "system",
+    "invokedAt": "2023-05-22T15:41:47.879Z"
   }
 ]
