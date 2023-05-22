@@ -406,5 +406,13 @@
     "username": "lazypanda908",
     "password": "concord",
     "invokedAt": "2023-05-22T09:22:52.309Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Holmes",
+    "email": "jen.holmes@example.com",
+    "username": "angrybear200",
+    "password": "another",
+    "invokedAt": "2023-05-22T09:28:44.917Z"
   }
 ]
