@@ -398,5 +398,13 @@
     "username": "lazymouse758",
     "password": "anchor",
     "invokedAt": "2023-05-22T09:12:31.796Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Alemán",
+    "email": "mario.aleman@example.com",
+    "username": "lazypanda908",
+    "password": "concord",
+    "invokedAt": "2023-05-22T09:22:52.309Z"
   }
 ]
