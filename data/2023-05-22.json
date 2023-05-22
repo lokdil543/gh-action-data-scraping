@@ -350,5 +350,13 @@
     "username": "greentiger390",
     "password": "redfox",
     "invokedAt": "2023-05-22T08:28:08.120Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Evans",
+    "email": "charlie.evans@example.com",
+    "username": "bluebear650",
+    "password": "camber",
+    "invokedAt": "2023-05-22T08:35:10.010Z"
   }
 ]
