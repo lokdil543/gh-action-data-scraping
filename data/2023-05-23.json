@@ -990,5 +990,13 @@
     "username": "goldendog985",
     "password": "pulled",
     "invokedAt": "2023-05-23T19:09:15.836Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Madsen",
+    "email": "kasper.madsen@example.com",
+    "username": "crazyzebra188",
+    "password": "internal",
+    "invokedAt": "2023-05-23T19:17:05.883Z"
   }
 ]
