@@ -446,5 +446,13 @@
     "username": "happydog211",
     "password": "turner",
     "invokedAt": "2023-05-23T09:35:33.516Z"
+  },
+  {
+    "firstName": "Srđan",
+    "lastName": "Perić",
+    "email": "srdan.peric@example.com",
+    "username": "sadbutterfly719",
+    "password": "xiao",
+    "invokedAt": "2023-05-23T09:41:30.801Z"
   }
 ]
