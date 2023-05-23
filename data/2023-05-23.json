@@ -1270,5 +1270,13 @@
     "username": "whitegoose350",
     "password": "toto",
     "invokedAt": "2023-05-23T23:29:14.558Z"
+  },
+  {
+    "firstName": "Eckehard",
+    "lastName": "Schaible",
+    "email": "eckehard.schaible@example.com",
+    "username": "silverdog292",
+    "password": "redbaron",
+    "invokedAt": "2023-05-23T23:35:12.745Z"
   }
 ]
