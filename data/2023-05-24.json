@@ -254,5 +254,13 @@
     "username": "smallgoose341",
     "password": "glory",
     "invokedAt": "2023-05-24T06:41:09.546Z"
+  },
+  {
+    "firstName": "Zorica",
+    "lastName": "Ivanić",
+    "email": "zorica.ivanic@example.com",
+    "username": "smallcat586",
+    "password": "lantern",
+    "invokedAt": "2023-05-24T06:47:13.926Z"
   }
 ]
