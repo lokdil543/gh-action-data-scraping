@@ -558,5 +558,13 @@
     "username": "silverlion196",
     "password": "virginia",
     "invokedAt": "2023-05-24T11:29:20.866Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Hansen",
+    "email": "emma.hansen@example.com",
+    "username": "lazylion412",
+    "password": "magpie",
+    "invokedAt": "2023-05-24T11:35:15.189Z"
   }
 ]
