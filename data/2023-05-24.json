@@ -198,5 +198,13 @@
     "username": "crazydog198",
     "password": "formula1",
     "invokedAt": "2023-05-24T05:40:47.619Z"
+  },
+  {
+    "firstName": "Srećko",
+    "lastName": "Selaković",
+    "email": "srecko.selakovic@example.com",
+    "username": "purpledog623",
+    "password": "biit",
+    "invokedAt": "2023-05-24T05:46:42.512Z"
   }
 ]
