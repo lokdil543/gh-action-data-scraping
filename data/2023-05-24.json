@@ -606,5 +606,13 @@
     "username": "angrybutterfly168",
     "password": "danny",
     "invokedAt": "2023-05-24T12:22:45.903Z"
+  },
+  {
+    "firstName": "Pål",
+    "lastName": "Hagberg",
+    "email": "pal.hagberg@example.com",
+    "username": "crazyostrich180",
+    "password": "together",
+    "invokedAt": "2023-05-24T12:46:51.085Z"
   }
 ]
