@@ -622,5 +622,13 @@
     "username": "crazyzebra192",
     "password": "tsunami",
     "invokedAt": "2023-05-24T13:00:38.931Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Evans",
+    "email": "ruby.evans@example.com",
+    "username": "purpleostrich994",
+    "password": "concrete",
+    "invokedAt": "2023-05-24T13:18:34.946Z"
   }
 ]
