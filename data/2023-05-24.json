@@ -126,5 +126,13 @@
     "username": "angrydog395",
     "password": "metallica",
     "invokedAt": "2023-05-24T04:33:35.246Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Roche",
+    "email": "ruben.roche@example.com",
+    "username": "tinysnake175",
+    "password": "billyboy",
+    "invokedAt": "2023-05-24T04:39:22.430Z"
   }
 ]
