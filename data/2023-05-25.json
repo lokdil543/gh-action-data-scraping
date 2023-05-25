@@ -646,5 +646,13 @@
     "username": "orangeswan551",
     "password": "cutlass",
     "invokedAt": "2023-05-25T13:33:58.955Z"
+  },
+  {
+    "firstName": "Joaquín",
+    "lastName": "Zarate",
+    "email": "joaquin.zarate@example.com",
+    "username": "orangesnake800",
+    "password": "madrid",
+    "invokedAt": "2023-05-25T13:40:04.947Z"
   }
 ]
