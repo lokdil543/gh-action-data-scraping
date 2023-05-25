@@ -814,5 +814,13 @@
     "username": "beautifulbear742",
     "password": "chicago1",
     "invokedAt": "2023-05-25T16:14:02.020Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Cooper",
+    "email": "sophie.cooper@example.com",
+    "username": "happyfrog913",
+    "password": "game",
+    "invokedAt": "2023-05-25T16:29:48.710Z"
   }
 ]
