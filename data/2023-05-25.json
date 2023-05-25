@@ -606,5 +606,13 @@
     "username": "brownfrog953",
     "password": "weather",
     "invokedAt": "2023-05-25T11:59:34.028Z"
+  },
+  {
+    "firstName": "Samesh",
+    "lastName": "Rajesh",
+    "email": "samesh.rajesh@example.com",
+    "username": "angryfish380",
+    "password": "beemer",
+    "invokedAt": "2023-05-25T12:26:56.252Z"
   }
 ]
