@@ -558,5 +558,13 @@
     "username": "heavyladybug853",
     "password": "random",
     "invokedAt": "2023-05-26T11:23:44.716Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wood",
+    "email": "daniel.wood@example.com",
+    "username": "beautifulmeercat712",
+    "password": "test1",
+    "invokedAt": "2023-05-26T11:29:45.799Z"
   }
 ]
