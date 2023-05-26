@@ -590,5 +590,13 @@
     "username": "goldenladybug216",
     "password": "doghouse",
     "invokedAt": "2023-05-26T11:47:36.720Z"
+  },
+  {
+    "firstName": "Lester",
+    "lastName": "Garrett",
+    "email": "lester.garrett@example.com",
+    "username": "bluebird420",
+    "password": "passme",
+    "invokedAt": "2023-05-26T11:53:54.784Z"
   }
 ]
