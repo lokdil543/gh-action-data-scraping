@@ -974,5 +974,13 @@
     "username": "orangecat535",
     "password": "standard",
     "invokedAt": "2023-05-27T17:56:56.123Z"
+  },
+  {
+    "firstName": "Sigmund",
+    "lastName": "Lyngmo",
+    "email": "sigmund.lyngmo@example.com",
+    "username": "silverlion834",
+    "password": "retired",
+    "invokedAt": "2023-05-27T18:09:05.102Z"
   }
 ]
