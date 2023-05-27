@@ -238,5 +238,13 @@
     "username": "blackwolf714",
     "password": "series",
     "invokedAt": "2023-05-27T05:56:25.169Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Martinez",
+    "email": "john.martinez@example.com",
+    "username": "yellowostrich795",
+    "password": "andromed",
+    "invokedAt": "2023-05-27T06:09:07.372Z"
   }
 ]
