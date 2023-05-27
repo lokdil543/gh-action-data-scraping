@@ -870,5 +870,13 @@
     "username": "heavybutterfly286",
     "password": "zzzz",
     "invokedAt": "2023-05-27T16:23:40.259Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Anderson",
+    "email": "george.anderson@example.com",
+    "username": "sadtiger222",
+    "password": "ncc1701",
+    "invokedAt": "2023-05-27T16:34:01.026Z"
   }
 ]
