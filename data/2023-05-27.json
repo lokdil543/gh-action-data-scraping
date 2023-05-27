@@ -510,5 +510,13 @@
     "username": "happyleopard479",
     "password": "toolbox",
     "invokedAt": "2023-05-27T10:13:01.915Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Heimdal",
+    "email": "albert.heimdal@example.com",
+    "username": "greenwolf373",
+    "password": "1414",
+    "invokedAt": "2023-05-27T10:25:40.161Z"
   }
 ]
