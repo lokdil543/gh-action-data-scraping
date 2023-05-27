@@ -1262,5 +1262,13 @@
     "username": "purplerabbit818",
     "password": "magazine",
     "invokedAt": "2023-05-27T22:22:50.850Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Liu",
+    "email": "gabriel.liu@example.com",
+    "username": "purplefish902",
+    "password": "arizona",
+    "invokedAt": "2023-05-27T22:28:40.899Z"
   }
 ]
