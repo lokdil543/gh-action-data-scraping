@@ -846,5 +846,13 @@
     "username": "blackfrog711",
     "password": "line",
     "invokedAt": "2023-05-27T15:49:13.937Z"
+  },
+  {
+    "firstName": "Ewa",
+    "lastName": "Hiemstra",
+    "email": "ewa.hiemstra@example.com",
+    "username": "ticklishfish220",
+    "password": "underdog",
+    "invokedAt": "2023-05-27T15:55:12.036Z"
   }
 ]
