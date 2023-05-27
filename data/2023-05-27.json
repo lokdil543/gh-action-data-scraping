@@ -782,5 +782,13 @@
     "username": "goldendog667",
     "password": "chair",
     "invokedAt": "2023-05-27T14:52:04.301Z"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Brakstad",
+    "email": "axel.brakstad@example.com",
+    "username": "heavyduck146",
+    "password": "button",
+    "invokedAt": "2023-05-27T14:57:48.925Z"
   }
 ]
