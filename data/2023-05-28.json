@@ -238,5 +238,13 @@
     "username": "silvergorilla796",
     "password": "1234abcd",
     "invokedAt": "2023-05-28T06:27:38.863Z"
+  },
+  {
+    "firstName": "Margaux",
+    "lastName": "Brussé",
+    "email": "margaux.brusse@example.com",
+    "username": "silvercat199",
+    "password": "squeeze",
+    "invokedAt": "2023-05-28T06:33:56.650Z"
   }
 ]
