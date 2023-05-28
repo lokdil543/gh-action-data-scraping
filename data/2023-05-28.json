@@ -1118,5 +1118,13 @@
     "username": "smallwolf260",
     "password": "samson",
     "invokedAt": "2023-05-28T20:25:43.044Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Kristensen",
+    "email": "jacob.kristensen@example.com",
+    "username": "heavysnake130",
+    "password": "artist",
+    "invokedAt": "2023-05-28T20:31:52.445Z"
   }
 ]
