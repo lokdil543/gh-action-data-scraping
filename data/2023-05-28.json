@@ -966,5 +966,13 @@
     "username": "happydog327",
     "password": "weaver",
     "invokedAt": "2023-05-28T18:00:42.967Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Hart",
+    "email": "sebastian.hart@example.com",
+    "username": "bluemouse322",
+    "password": "oooo",
+    "invokedAt": "2023-05-28T18:16:56.706Z"
   }
 ]
