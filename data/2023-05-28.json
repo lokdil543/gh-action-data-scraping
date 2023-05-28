@@ -742,5 +742,13 @@
     "username": "bigbear535",
     "password": "chrysler",
     "invokedAt": "2023-05-28T14:34:04.703Z"
+  },
+  {
+    "firstName": "Dominic",
+    "lastName": "Lam",
+    "email": "dominic.lam@example.com",
+    "username": "redleopard222",
+    "password": "game",
+    "invokedAt": "2023-05-28T14:39:57.700Z"
   }
 ]
