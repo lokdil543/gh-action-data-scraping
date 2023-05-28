@@ -542,5 +542,13 @@
     "username": "purpledog130",
     "password": "westside",
     "invokedAt": "2023-05-28T10:59:54.731Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Jensen",
+    "email": "victor.jensen@example.com",
+    "username": "heavyladybug484",
+    "password": "enterme",
+    "invokedAt": "2023-05-28T11:10:06.898Z"
   }
 ]
