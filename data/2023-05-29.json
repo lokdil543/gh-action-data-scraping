@@ -462,5 +462,13 @@
     "username": "whitebutterfly977",
     "password": "hydro",
     "invokedAt": "2023-05-29T09:56:32.793Z"
+  },
+  {
+    "firstName": "Thierry",
+    "lastName": "Meyer",
+    "email": "thierry.meyer@example.com",
+    "username": "lazybutterfly501",
+    "password": "tarpon",
+    "invokedAt": "2023-05-29T10:08:33.567Z"
   }
 ]
