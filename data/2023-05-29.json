@@ -702,5 +702,13 @@
     "username": "yellowfish849",
     "password": "ringo",
     "invokedAt": "2023-05-29T14:32:48.085Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Harris",
+    "email": "ryan.harris@example.com",
+    "username": "orangegorilla354",
+    "password": "staples",
+    "invokedAt": "2023-05-29T14:38:43.055Z"
   }
 ]
