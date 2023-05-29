@@ -286,5 +286,13 @@
     "username": "greenwolf885",
     "password": "truck1",
     "invokedAt": "2023-05-29T07:15:29.908Z"
+  },
+  {
+    "firstName": "Vilho",
+    "lastName": "Leppo",
+    "email": "vilho.leppo@example.com",
+    "username": "bigelephant435",
+    "password": "doggie",
+    "invokedAt": "2023-05-29T07:22:20.968Z"
   }
 ]
