@@ -1246,5 +1246,13 @@
     "username": "greenswan142",
     "password": "workout",
     "invokedAt": "2023-05-29T23:00:30.962Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Santrač",
+    "email": "bosko.santrac@example.com",
+    "username": "lazykoala808",
+    "password": "feet",
+    "invokedAt": "2023-05-29T23:13:56.692Z"
   }
 ]
