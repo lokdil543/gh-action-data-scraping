@@ -734,5 +734,13 @@
     "username": "redcat925",
     "password": "grant",
     "invokedAt": "2023-05-29T14:56:30.061Z"
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Larson",
+    "email": "patricia.larson@example.com",
+    "username": "greendog189",
+    "password": "kume",
+    "invokedAt": "2023-05-29T15:07:19.916Z"
   }
 ]
