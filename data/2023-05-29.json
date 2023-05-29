@@ -366,5 +366,13 @@
     "username": "brownduck944",
     "password": "citadel",
     "invokedAt": "2023-05-29T08:33:36.042Z"
+  },
+  {
+    "firstName": "Vegard",
+    "lastName": "Ringstad",
+    "email": "vegard.ringstad@example.com",
+    "username": "redfish781",
+    "password": "solution",
+    "invokedAt": "2023-05-29T08:39:47.551Z"
   }
 ]
