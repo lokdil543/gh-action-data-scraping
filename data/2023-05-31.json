@@ -534,5 +534,13 @@
     "username": "bigdog231",
     "password": "bohica",
     "invokedAt": "2023-05-31T11:30:32.632Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Anderson",
+    "email": "david.anderson@example.com",
+    "username": "organicladybug143",
+    "password": "titanium",
+    "invokedAt": "2023-05-31T11:36:50.733Z"
   }
 ]
