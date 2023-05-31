@@ -334,5 +334,13 @@
     "username": "greenleopard282",
     "password": "mirage",
     "invokedAt": "2023-05-31T08:25:50.305Z"
+  },
+  {
+    "firstName": "Cecilia",
+    "lastName": "Petersen",
+    "email": "cecilia.petersen@example.com",
+    "username": "redcat280",
+    "password": "filter",
+    "invokedAt": "2023-05-31T08:31:46.783Z"
   }
 ]
