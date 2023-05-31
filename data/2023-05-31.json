@@ -742,5 +742,13 @@
     "username": "sadlion613",
     "password": "test1",
     "invokedAt": "2023-05-31T15:28:40.862Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Martin",
+    "email": "stella.martin@example.com",
+    "username": "angryrabbit941",
+    "password": "riddle",
+    "invokedAt": "2023-05-31T15:35:07.765Z"
   }
 ]
