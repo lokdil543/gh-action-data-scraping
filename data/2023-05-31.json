@@ -966,5 +966,13 @@
     "username": "bluebutterfly465",
     "password": "birdie",
     "invokedAt": "2023-05-31T19:14:45.677Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Moreau",
+    "email": "pedro.moreau@example.com",
+    "username": "heavymouse231",
+    "password": "cupcake",
+    "invokedAt": "2023-05-31T19:20:48.652Z"
   }
 ]
