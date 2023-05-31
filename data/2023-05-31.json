@@ -750,5 +750,13 @@
     "username": "angryrabbit941",
     "password": "riddle",
     "invokedAt": "2023-05-31T15:35:07.765Z"
+  },
+  {
+    "firstName": "Laurits",
+    "lastName": "Dreyer",
+    "email": "laurits.dreyer@example.com",
+    "username": "orangefrog401",
+    "password": "wedding",
+    "invokedAt": "2023-05-31T15:41:03.016Z"
   }
 ]
