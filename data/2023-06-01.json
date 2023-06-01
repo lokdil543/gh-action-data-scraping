@@ -702,5 +702,13 @@
     "username": "greenmeercat697",
     "password": "titanic",
     "invokedAt": "2023-06-01T15:29:32.422Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Liu",
+    "email": "ethan.liu@example.com",
+    "username": "purpletiger555",
+    "password": "passme",
+    "invokedAt": "2023-06-01T15:35:52.485Z"
   }
 ]
