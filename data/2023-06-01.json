@@ -238,5 +238,13 @@
     "username": "lazypeacock420",
     "password": "boxster",
     "invokedAt": "2023-06-01T07:17:20.057Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Martinsen",
+    "email": "jonathan.martinsen@example.com",
+    "username": "happyladybug205",
+    "password": "dogbone",
+    "invokedAt": "2023-06-01T07:23:10.919Z"
   }
 ]
