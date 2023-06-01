@@ -254,5 +254,13 @@
     "username": "happybear456",
     "password": "beavis",
     "invokedAt": "2023-06-01T07:29:13.946Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Van Sambeek",
+    "email": "suzy.vansambeek@example.com",
+    "username": "happymeercat384",
+    "password": "qwerty12",
+    "invokedAt": "2023-06-01T07:35:24.992Z"
   }
 ]
