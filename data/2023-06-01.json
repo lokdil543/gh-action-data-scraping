@@ -798,5 +798,13 @@
     "username": "heavylion109",
     "password": "contains",
     "invokedAt": "2023-06-01T17:12:50.812Z"
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Diaz",
+    "email": "marina.diaz@example.com",
+    "username": "lazyzebra261",
+    "password": "paco",
+    "invokedAt": "2023-06-01T17:23:39.890Z"
   }
 ]
