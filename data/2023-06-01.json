@@ -246,5 +246,13 @@
     "username": "happyladybug205",
     "password": "dogbone",
     "invokedAt": "2023-06-01T07:23:10.919Z"
+  },
+  {
+    "firstName": "Emanuel",
+    "lastName": "Reck",
+    "email": "emanuel.reck@example.com",
+    "username": "happybear456",
+    "password": "beavis",
+    "invokedAt": "2023-06-01T07:29:13.946Z"
   }
 ]
