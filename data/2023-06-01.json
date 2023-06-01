@@ -630,5 +630,13 @@
     "username": "orangefrog751",
     "password": "454545",
     "invokedAt": "2023-06-01T14:24:03.428Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Campos",
+    "email": "ricardo.campos@example.com",
+    "username": "lazybird803",
+    "password": "winners",
+    "invokedAt": "2023-06-01T14:29:51.720Z"
   }
 ]
