@@ -1190,5 +1190,13 @@
     "username": "goldenzebra947",
     "password": "ziggy1",
     "invokedAt": "2023-06-01T23:15:20.213Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Hidalgo",
+    "email": "alvaro.hidalgo@example.com",
+    "username": "goldenwolf840",
+    "password": "freddie",
+    "invokedAt": "2023-06-01T23:23:30.758Z"
   }
 ]
