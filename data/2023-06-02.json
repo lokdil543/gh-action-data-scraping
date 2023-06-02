@@ -238,5 +238,13 @@
     "username": "greendog237",
     "password": "backdoor",
     "invokedAt": "2023-06-02T06:40:44.548Z"
+  },
+  {
+    "firstName": "Angel",
+    "lastName": "Freeman",
+    "email": "angel.freeman@example.com",
+    "username": "orangerabbit585",
+    "password": "punch",
+    "invokedAt": "2023-06-02T06:46:43.620Z"
   }
 ]
