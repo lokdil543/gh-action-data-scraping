@@ -1062,5 +1062,13 @@
     "username": "whitegorilla837",
     "password": "surfing",
     "invokedAt": "2023-06-02T20:28:14.878Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Côté",
+    "email": "philippe.cote@example.com",
+    "username": "redpanda940",
+    "password": "11223344",
+    "invokedAt": "2023-06-02T20:34:21.692Z"
   }
 ]
