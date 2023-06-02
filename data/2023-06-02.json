@@ -166,5 +166,13 @@
     "username": "lazyfrog496",
     "password": "puppydog",
     "invokedAt": "2023-06-02T05:29:12.730Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Spajić",
+    "email": "branko.spajic@example.com",
+    "username": "happysnake106",
+    "password": "ireland",
+    "invokedAt": "2023-06-02T05:35:15.685Z"
   }
 ]
