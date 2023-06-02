@@ -774,5 +774,13 @@
     "username": "smallfish725",
     "password": "football1",
     "invokedAt": "2023-06-02T15:47:33.458Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Castillo",
+    "email": "jorge.castillo@example.com",
+    "username": "bigfrog551",
+    "password": "older",
+    "invokedAt": "2023-06-02T15:53:42.929Z"
   }
 ]
