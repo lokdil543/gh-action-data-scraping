@@ -1190,5 +1190,13 @@
     "username": "smallbutterfly320",
     "password": "testerer",
     "invokedAt": "2023-06-02T22:24:29.813Z"
+  },
+  {
+    "firstName": "Gabriela",
+    "lastName": "de la Fuente",
+    "email": "gabriela.delafuente@example.com",
+    "username": "bigbird165",
+    "password": "ariana",
+    "invokedAt": "2023-06-02T22:30:25.118Z"
   }
 ]
