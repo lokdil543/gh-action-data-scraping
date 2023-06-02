@@ -606,5 +606,13 @@
     "username": "angryelephant337",
     "password": "mondeo",
     "invokedAt": "2023-06-02T13:02:58.567Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Perez",
+    "email": "phil.perez@example.com",
+    "username": "redbear276",
+    "password": "shinobi",
+    "invokedAt": "2023-06-02T13:24:04.686Z"
   }
 ]
