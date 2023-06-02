@@ -94,5 +94,13 @@
     "username": "bigcat649",
     "password": "santiago",
     "invokedAt": "2023-06-02T04:14:42.477Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Kristensen",
+    "email": "frida.kristensen@example.com",
+    "username": "lazycat891",
+    "password": "nitro",
+    "invokedAt": "2023-06-02T04:27:22.552Z"
   }
 ]
