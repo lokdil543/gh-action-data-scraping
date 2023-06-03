@@ -430,5 +430,13 @@
     "username": "silverfish119",
     "password": "bluejays",
     "invokedAt": "2023-06-03T09:28:46.126Z"
+  },
+  {
+    "firstName": "Joao",
+    "lastName": "Da Silva",
+    "email": "joao.dasilva@example.com",
+    "username": "silverdog803",
+    "password": "skyler",
+    "invokedAt": "2023-06-03T09:34:51.186Z"
   }
 ]
