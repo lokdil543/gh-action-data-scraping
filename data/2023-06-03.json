@@ -198,5 +198,13 @@
     "username": "heavydog385",
     "password": "sylveste",
     "invokedAt": "2023-06-03T05:46:30.911Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Muller",
+    "email": "david.muller@example.com",
+    "username": "beautifulbird141",
+    "password": "gorgeous",
+    "invokedAt": "2023-06-03T05:52:34.077Z"
   }
 ]
