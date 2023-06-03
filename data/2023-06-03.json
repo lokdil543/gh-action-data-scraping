@@ -246,5 +246,13 @@
     "username": "greendog232",
     "password": "tattoo",
     "invokedAt": "2023-06-03T06:38:50.098Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Robinson",
+    "email": "alexander.robinson@example.com",
+    "username": "organicbear975",
+    "password": "pinhead",
+    "invokedAt": "2023-06-03T06:44:48.728Z"
   }
 ]
