@@ -366,5 +366,13 @@
     "username": "smallwolf300",
     "password": "camp",
     "invokedAt": "2023-06-03T08:31:22.869Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Hall",
+    "email": "lucy.hall@example.com",
+    "username": "crazypanda898",
+    "password": "glenn",
+    "invokedAt": "2023-06-03T08:37:27.120Z"
   }
 ]
