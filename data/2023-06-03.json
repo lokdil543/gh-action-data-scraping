@@ -286,5 +286,13 @@
     "username": "silverfish470",
     "password": "college",
     "invokedAt": "2023-06-03T07:16:31.961Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Bailey",
+    "email": "john.bailey@example.com",
+    "username": "lazylion684",
+    "password": "strike",
+    "invokedAt": "2023-06-03T07:22:32.759Z"
   }
 ]
