@@ -750,5 +750,13 @@
     "username": "smalldog214",
     "password": "future",
     "invokedAt": "2023-06-03T14:52:47.834Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Tangen",
+    "email": "peter.tangen@example.com",
+    "username": "silverleopard886",
+    "password": "berry",
+    "invokedAt": "2023-06-03T14:58:45.735Z"
   }
 ]
