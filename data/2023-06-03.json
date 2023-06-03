@@ -326,5 +326,13 @@
     "username": "silverdog430",
     "password": "pearljam",
     "invokedAt": "2023-06-03T07:46:57.364Z"
+  },
+  {
+    "firstName": "Vladislav",
+    "lastName": "Brikovich",
+    "email": "vladislav.brikovich@example.com",
+    "username": "blackbird506",
+    "password": "bigdog",
+    "invokedAt": "2023-06-03T07:52:59.084Z"
   }
 ]
