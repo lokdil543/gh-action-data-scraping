@@ -726,5 +726,13 @@
     "username": "bluebear557",
     "password": "huge",
     "invokedAt": "2023-06-03T14:34:51.052Z"
+  },
+  {
+    "firstName": "Remo",
+    "lastName": "Fabre",
+    "email": "remo.fabre@example.com",
+    "username": "lazyostrich279",
+    "password": "shelley",
+    "invokedAt": "2023-06-03T14:40:42.547Z"
   }
 ]
