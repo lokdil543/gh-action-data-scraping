@@ -390,5 +390,13 @@
     "username": "heavypanda120",
     "password": "alfa",
     "invokedAt": "2023-06-03T08:49:30.605Z"
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Hansen",
+    "email": "signe.hansen@example.com",
+    "username": "heavywolf211",
+    "password": "akira",
+    "invokedAt": "2023-06-03T08:55:40.165Z"
   }
 ]
