@@ -518,5 +518,13 @@
     "username": "happygorilla643",
     "password": "818181",
     "invokedAt": "2023-06-04T11:16:22.168Z"
+  },
+  {
+    "firstName": "Ewald",
+    "lastName": "Haberland",
+    "email": "ewald.haberland@example.com",
+    "username": "greenpeacock347",
+    "password": "herewego",
+    "invokedAt": "2023-06-04T11:22:24.301Z"
   }
 ]
