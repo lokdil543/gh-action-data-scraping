@@ -526,5 +526,13 @@
     "username": "greenpeacock347",
     "password": "herewego",
     "invokedAt": "2023-06-04T11:22:24.301Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Wood",
+    "email": "jacob.wood@example.com",
+    "username": "happyzebra288",
+    "password": "wolfie",
+    "invokedAt": "2023-06-04T11:28:28.101Z"
   }
 ]
