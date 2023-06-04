@@ -710,5 +710,13 @@
     "username": "silvermouse456",
     "password": "disney",
     "invokedAt": "2023-06-04T14:43:19.757Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Hughes",
+    "email": "perry.hughes@example.com",
+    "username": "happyleopard962",
+    "password": "flyer",
+    "invokedAt": "2023-06-04T14:49:14.898Z"
   }
 ]
