@@ -166,5 +166,13 @@
     "username": "ticklishwolf335",
     "password": "shaved",
     "invokedAt": "2023-06-04T05:42:04.811Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Macdonald",
+    "email": "alice.macdonald@example.com",
+    "username": "beautifuldog269",
+    "password": "dinner",
+    "invokedAt": "2023-06-04T05:48:06.294Z"
   }
 ]
