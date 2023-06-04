@@ -398,5 +398,13 @@
     "username": "whiteswan523",
     "password": "talbot",
     "invokedAt": "2023-06-04T09:25:23.974Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Peña",
+    "email": "diego.pena@example.com",
+    "username": "smallduck854",
+    "password": "snowboard",
+    "invokedAt": "2023-06-04T09:31:30.690Z"
   }
 ]
