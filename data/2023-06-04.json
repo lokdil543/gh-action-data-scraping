@@ -78,5 +78,13 @@
     "username": "happylion438",
     "password": "woohoo",
     "invokedAt": "2023-06-04T04:24:43.845Z"
+  },
+  {
+    "firstName": "Lois",
+    "lastName": "Hanson",
+    "email": "lois.hanson@example.com",
+    "username": "browncat830",
+    "password": "tracer",
+    "invokedAt": "2023-06-04T04:30:54.664Z"
   }
 ]
