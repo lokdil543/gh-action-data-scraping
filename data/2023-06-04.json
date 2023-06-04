@@ -734,5 +734,13 @@
     "username": "smallgoose512",
     "password": "broncos",
     "invokedAt": "2023-06-04T15:02:32.198Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Manninen",
+    "email": "jimi.manninen@example.com",
+    "username": "sadmeercat154",
+    "password": "wiseguy",
+    "invokedAt": "2023-06-04T15:16:42.434Z"
   }
 ]
