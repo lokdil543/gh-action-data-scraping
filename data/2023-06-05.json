@@ -982,5 +982,13 @@
     "username": "lazyelephant350",
     "password": "speed1",
     "invokedAt": "2023-06-05T19:26:37.999Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Petersen",
+    "email": "anton.petersen@example.com",
+    "username": "angryfish754",
+    "password": "stereo",
+    "invokedAt": "2023-06-05T19:32:57.311Z"
   }
 ]
