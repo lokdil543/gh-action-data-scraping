@@ -822,5 +822,13 @@
     "username": "blackzebra612",
     "password": "987654321",
     "invokedAt": "2023-06-05T16:51:12.656Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Marttila",
+    "email": "vaino.marttila@example.com",
+    "username": "crazygoose711",
+    "password": "reggae",
+    "invokedAt": "2023-06-05T16:57:04.080Z"
   }
 ]
