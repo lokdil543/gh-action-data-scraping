@@ -54,5 +54,13 @@
     "username": "silverlion411",
     "password": "lost",
     "invokedAt": "2023-06-05T03:36:20.989Z"
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Little",
+    "email": "nicholas.little@example.com",
+    "username": "happylion600",
+    "password": "beaver",
+    "invokedAt": "2023-06-05T03:42:18.186Z"
   }
 ]
