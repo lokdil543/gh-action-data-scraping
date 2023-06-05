@@ -758,5 +758,13 @@
     "username": "angrygorilla955",
     "password": "beautiful",
     "invokedAt": "2023-06-05T15:42:29.105Z"
+  },
+  {
+    "firstName": "Khalid",
+    "lastName": "Reed",
+    "email": "khalid.reed@example.com",
+    "username": "redgorilla861",
+    "password": "fishman",
+    "invokedAt": "2023-06-05T15:48:09.489Z"
   }
 ]
