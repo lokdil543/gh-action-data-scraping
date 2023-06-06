@@ -686,5 +686,13 @@
     "username": "beautifullion301",
     "password": "four",
     "invokedAt": "2023-06-06T14:39:07.118Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Spencer",
+    "email": "samuel.spencer@example.com",
+    "username": "blackfrog101",
+    "password": "pamela",
+    "invokedAt": "2023-06-06T14:45:10.350Z"
   }
 ]
