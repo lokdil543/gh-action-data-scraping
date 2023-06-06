@@ -710,5 +710,13 @@
     "username": "greendog679",
     "password": "celtic",
     "invokedAt": "2023-06-06T14:57:20.679Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Poulsen",
+    "email": "mads.poulsen@example.com",
+    "username": "smallcat936",
+    "password": "away",
+    "invokedAt": "2023-06-06T15:09:11.294Z"
   }
 ]
