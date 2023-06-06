@@ -30,5 +30,13 @@
     "username": "whitegoose216",
     "password": "lilly",
     "invokedAt": "2023-06-06T03:25:07.166Z"
+  },
+  {
+    "firstName": "Lotta",
+    "lastName": "Saarinen",
+    "email": "lotta.saarinen@example.com",
+    "username": "heavyfrog543",
+    "password": "whatsup",
+    "invokedAt": "2023-06-06T03:31:58.553Z"
   }
 ]
