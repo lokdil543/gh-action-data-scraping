@@ -1222,5 +1222,13 @@
     "username": "blueostrich900",
     "password": "gotcha",
     "invokedAt": "2023-06-06T23:19:38.233Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Mitchell",
+    "email": "nathan.mitchell@example.com",
+    "username": "yellowcat728",
+    "password": "dogbert",
+    "invokedAt": "2023-06-06T23:25:30.700Z"
   }
 ]
