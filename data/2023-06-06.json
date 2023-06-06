@@ -646,5 +646,13 @@
     "username": "heavytiger474",
     "password": "tanner",
     "invokedAt": "2023-06-06T13:56:45.631Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Miller",
+    "email": "andy.miller@example.com",
+    "username": "yellowelephant682",
+    "password": "barry",
+    "invokedAt": "2023-06-06T14:07:36.953Z"
   }
 ]
