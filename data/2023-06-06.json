@@ -734,5 +734,13 @@
     "username": "bigswan984",
     "password": "nothing",
     "invokedAt": "2023-06-06T15:27:20.510Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Scheffel",
+    "email": "johan.scheffel@example.com",
+    "username": "goldenfish736",
+    "password": "spiderma",
+    "invokedAt": "2023-06-06T15:33:43.809Z"
   }
 ]
