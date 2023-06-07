@@ -686,5 +686,13 @@
     "username": "orangebird405",
     "password": "little1",
     "invokedAt": "2023-06-07T14:42:37.024Z"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Guillot",
+    "email": "morgan.guillot@example.com",
+    "username": "brownmeercat961",
+    "password": "wildcard",
+    "invokedAt": "2023-06-07T14:48:26.737Z"
   }
 ]
