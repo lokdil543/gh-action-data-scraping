@@ -790,5 +790,13 @@
     "username": "sadpeacock499",
     "password": "dogbert",
     "invokedAt": "2023-06-07T16:33:24.351Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Jensen",
+    "email": "daniel.jensen@example.com",
+    "username": "brownmeercat687",
+    "password": "gadget",
+    "invokedAt": "2023-06-07T16:41:51.703Z"
   }
 ]
