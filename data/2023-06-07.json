@@ -774,5 +774,13 @@
     "username": "browndog518",
     "password": "medusa",
     "invokedAt": "2023-06-07T16:00:30.754Z"
+  },
+  {
+    "firstName": "Sebastián",
+    "lastName": "Ruiz",
+    "email": "sebastian.ruiz@example.com",
+    "username": "greenkoala183",
+    "password": "close",
+    "invokedAt": "2023-06-07T16:19:18.532Z"
   }
 ]
