@@ -158,5 +158,13 @@
     "username": "silvergoose413",
     "password": "atomic",
     "invokedAt": "2023-06-07T05:28:17.015Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Scheibe",
+    "email": "patrick.scheibe@example.com",
+    "username": "purplemeercat725",
+    "password": "sailboat",
+    "invokedAt": "2023-06-07T05:34:51.947Z"
   }
 ]
