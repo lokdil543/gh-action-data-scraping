@@ -438,5 +438,13 @@
     "username": "crazyrabbit425",
     "password": "bertha",
     "invokedAt": "2023-06-08T09:53:55.017Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Christiansen",
+    "email": "anna.christiansen@example.com",
+    "username": "smallbird236",
+    "password": "bridge",
+    "invokedAt": "2023-06-08T09:59:53.895Z"
   }
 ]
