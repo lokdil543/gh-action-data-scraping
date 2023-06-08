@@ -1022,5 +1022,13 @@
     "username": "crazycat346",
     "password": "pacers",
     "invokedAt": "2023-06-08T20:09:46.723Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Ross",
+    "email": "craig.ross@example.com",
+    "username": "blackfish424",
+    "password": "private",
+    "invokedAt": "2023-06-08T20:20:32.700Z"
   }
 ]
