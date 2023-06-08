@@ -478,5 +478,13 @@
     "username": "redcat373",
     "password": "joke",
     "invokedAt": "2023-06-08T10:41:15.946Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Evans",
+    "email": "jacob.evans@example.com",
+    "username": "brownpanda923",
+    "password": "back",
+    "invokedAt": "2023-06-08T10:47:15.723Z"
   }
 ]
