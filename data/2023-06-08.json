@@ -78,5 +78,13 @@
     "username": "purplebird826",
     "password": "cornell",
     "invokedAt": "2023-06-08T03:58:04.630Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Poulsen",
+    "email": "christian.poulsen@example.com",
+    "username": "orangedog884",
+    "password": "records",
+    "invokedAt": "2023-06-08T04:12:44.872Z"
   }
 ]
