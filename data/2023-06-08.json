@@ -534,5 +534,13 @@
     "username": "bluebird238",
     "password": "soft",
     "invokedAt": "2023-06-08T11:30:13.455Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "White",
+    "email": "phoebe.white@example.com",
+    "username": "happygorilla903",
+    "password": "bigdog1",
+    "invokedAt": "2023-06-08T11:36:21.859Z"
   }
 ]
