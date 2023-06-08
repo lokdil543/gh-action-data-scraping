@@ -526,5 +526,13 @@
     "username": "bluelion232",
     "password": "flint",
     "invokedAt": "2023-06-08T11:24:27.866Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Evans",
+    "email": "ava.evans@example.com",
+    "username": "bluebird238",
+    "password": "soft",
+    "invokedAt": "2023-06-08T11:30:13.455Z"
   }
 ]
