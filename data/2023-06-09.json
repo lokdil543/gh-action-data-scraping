@@ -814,5 +814,13 @@
     "username": "happykoala621",
     "password": "streets",
     "invokedAt": "2023-06-09T16:55:40.791Z"
+  },
+  {
+    "firstName": "Dobroslav",
+    "lastName": "Ivanović",
+    "email": "dobroslav.ivanovic@example.com",
+    "username": "goldenostrich300",
+    "password": "teacher",
+    "invokedAt": "2023-06-09T17:04:46.706Z"
   }
 ]
