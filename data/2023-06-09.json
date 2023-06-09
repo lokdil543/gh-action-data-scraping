@@ -342,5 +342,13 @@
     "username": "yellowwolf419",
     "password": "fdsa",
     "invokedAt": "2023-06-09T08:37:30.619Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Stevens",
+    "email": "philip.stevens@example.com",
+    "username": "blackleopard134",
+    "password": "single",
+    "invokedAt": "2023-06-09T08:43:39.680Z"
   }
 ]
