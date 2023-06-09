@@ -622,5 +622,13 @@
     "username": "angryduck653",
     "password": "aaaaaaaa",
     "invokedAt": "2023-06-09T13:43:45.036Z"
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Jones",
+    "email": "diane.jones@example.com",
+    "username": "crazyfrog755",
+    "password": "murray",
+    "invokedAt": "2023-06-09T13:49:43.601Z"
   }
 ]
