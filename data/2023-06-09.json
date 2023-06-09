@@ -822,5 +822,13 @@
     "username": "goldenostrich300",
     "password": "teacher",
     "invokedAt": "2023-06-09T17:04:46.706Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Robinson",
+    "email": "rose.robinson@example.com",
+    "username": "goldenfrog648",
+    "password": "mildred",
+    "invokedAt": "2023-06-09T17:18:21.513Z"
   }
 ]
