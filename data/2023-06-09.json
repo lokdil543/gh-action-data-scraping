@@ -310,5 +310,13 @@
     "username": "lazytiger465",
     "password": "moritz",
     "invokedAt": "2023-06-09T07:56:30.152Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Russell",
+    "email": "edgar.russell@example.com",
+    "username": "sadpanda682",
+    "password": "cookie1",
+    "invokedAt": "2023-06-09T08:09:54.304Z"
   }
 ]
