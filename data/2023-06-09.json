@@ -1230,5 +1230,13 @@
     "username": "lazydog924",
     "password": "jeeper",
     "invokedAt": "2023-06-09T23:27:45.284Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Sørensen",
+    "email": "asta.sorensen@example.com",
+    "username": "smallpanda944",
+    "password": "wordpass",
+    "invokedAt": "2023-06-09T23:34:08.031Z"
   }
 ]
