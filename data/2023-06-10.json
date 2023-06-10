@@ -638,5 +638,13 @@
     "username": "silvertiger560",
     "password": "nopass",
     "invokedAt": "2023-06-10T13:07:16.039Z"
+  },
+  {
+    "firstName": "Ezra",
+    "lastName": "Robinson",
+    "email": "ezra.robinson@example.com",
+    "username": "happytiger142",
+    "password": "center",
+    "invokedAt": "2023-06-10T13:21:21.035Z"
   }
 ]
