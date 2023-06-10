@@ -550,5 +550,13 @@
     "username": "purplepanda197",
     "password": "book",
     "invokedAt": "2023-06-10T11:18:45.700Z"
+  },
+  {
+    "firstName": "Thaïs",
+    "lastName": "Nguyen",
+    "email": "thais.nguyen@example.com",
+    "username": "purplegorilla142",
+    "password": "shells",
+    "invokedAt": "2023-06-10T11:24:45.795Z"
   }
 ]
