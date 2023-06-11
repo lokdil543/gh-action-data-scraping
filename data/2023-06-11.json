@@ -582,5 +582,13 @@
     "username": "goldenkoala387",
     "password": "olympia",
     "invokedAt": "2023-06-11T12:19:58.022Z"
+  },
+  {
+    "firstName": "Fabian",
+    "lastName": "Rimstad",
+    "email": "fabian.rimstad@example.com",
+    "username": "silverdog282",
+    "password": "tights",
+    "invokedAt": "2023-06-11T12:43:29.435Z"
   }
 ]
