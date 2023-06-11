@@ -686,5 +686,13 @@
     "username": "happydog138",
     "password": "123456",
     "invokedAt": "2023-06-11T14:26:52.559Z"
+  },
+  {
+    "firstName": "Siniša",
+    "lastName": "Kalinić",
+    "email": "sinisa.kalinic@example.com",
+    "username": "whiteelephant275",
+    "password": "212121",
+    "invokedAt": "2023-06-11T14:33:02.181Z"
   }
 ]
