@@ -326,5 +326,13 @@
     "username": "redbird590",
     "password": "tinkerbe",
     "invokedAt": "2023-06-11T08:19:21.364Z"
+  },
+  {
+    "firstName": "Julián",
+    "lastName": "León",
+    "email": "julian.leon@example.com",
+    "username": "whitebird971",
+    "password": "111111",
+    "invokedAt": "2023-06-11T08:28:02.173Z"
   }
 ]
