@@ -254,5 +254,13 @@
     "username": "blackfrog925",
     "password": "ratboy",
     "invokedAt": "2023-06-11T07:11:25.856Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Damjanović",
+    "email": "anton.damjanovic@example.com",
+    "username": "brownpeacock280",
+    "password": "underdog",
+    "invokedAt": "2023-06-11T07:19:25.064Z"
   }
 ]
