@@ -142,5 +142,13 @@
     "username": "angrybird110",
     "password": "marathon",
     "invokedAt": "2023-06-11T05:24:33.397Z"
+  },
+  {
+    "firstName": "Marcel",
+    "lastName": "Skogseth",
+    "email": "marcel.skogseth@example.com",
+    "username": "beautifulladybug933",
+    "password": "point",
+    "invokedAt": "2023-06-11T05:30:23.849Z"
   }
 ]
