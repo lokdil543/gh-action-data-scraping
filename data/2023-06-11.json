@@ -382,5 +382,13 @@
     "username": "greentiger959",
     "password": "enterprise",
     "invokedAt": "2023-06-11T09:09:46.770Z"
+  },
+  {
+    "firstName": "Dunja",
+    "lastName": "Kojić",
+    "email": "dunja.kojic@example.com",
+    "username": "crazytiger926",
+    "password": "boater",
+    "invokedAt": "2023-06-11T09:19:20.668Z"
   }
 ]
