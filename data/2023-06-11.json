@@ -998,5 +998,13 @@
     "username": "crazygorilla132",
     "password": "dome",
     "invokedAt": "2023-06-11T19:21:54.419Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Martin",
+    "email": "alex.martin@example.com",
+    "username": "tinygoose965",
+    "password": "keepout",
+    "invokedAt": "2023-06-11T19:27:41.766Z"
   }
 ]
