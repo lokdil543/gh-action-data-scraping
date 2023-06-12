@@ -126,5 +126,13 @@
     "username": "yellowfrog887",
     "password": "gladiator",
     "invokedAt": "2023-06-12T04:55:24.994Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Alonso",
+    "email": "pedro.alonso@example.com",
+    "username": "yellowelephant157",
+    "password": "closer",
+    "invokedAt": "2023-06-12T05:05:35.440Z"
   }
 ]
