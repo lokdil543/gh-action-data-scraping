@@ -1150,5 +1150,13 @@
     "username": "blackdog705",
     "password": "sail",
     "invokedAt": "2023-06-12T22:46:49.375Z"
+  },
+  {
+    "firstName": "Izolda",
+    "lastName": "Kuzmanović",
+    "email": "izolda.kuzmanovic@example.com",
+    "username": "greenbutterfly666",
+    "password": "burns",
+    "invokedAt": "2023-06-12T22:52:49.473Z"
   }
 ]
