@@ -102,5 +102,13 @@
     "username": "happydog166",
     "password": "snowboard",
     "invokedAt": "2023-06-12T04:37:44.083Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Singh",
+    "email": "john.singh@example.com",
+    "username": "bigzebra220",
+    "password": "driven",
+    "invokedAt": "2023-06-12T04:43:35.977Z"
   }
 ]
