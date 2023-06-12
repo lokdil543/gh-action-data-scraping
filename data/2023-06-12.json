@@ -742,5 +742,13 @@
     "username": "redkoala782",
     "password": "zone",
     "invokedAt": "2023-06-12T15:47:29.247Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Cornejo",
+    "email": "jorge.cornejo@example.com",
+    "username": "beautifuldog219",
+    "password": "4711",
+    "invokedAt": "2023-06-12T15:53:25.970Z"
   }
 ]
