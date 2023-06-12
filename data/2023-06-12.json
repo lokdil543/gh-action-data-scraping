@@ -662,5 +662,13 @@
     "username": "crazydog545",
     "password": "truck1",
     "invokedAt": "2023-06-12T14:34:41.054Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Willis",
+    "email": "laura.willis@example.com",
+    "username": "crazyostrich772",
+    "password": "mouse",
+    "invokedAt": "2023-06-12T14:40:42.922Z"
   }
 ]
