@@ -1142,5 +1142,13 @@
     "username": "ticklishkoala255",
     "password": "memorex",
     "invokedAt": "2023-06-13T21:41:51.623Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Andersen",
+    "email": "adam.andersen@example.com",
+    "username": "brownduck649",
+    "password": "review",
+    "invokedAt": "2023-06-13T21:47:53.256Z"
   }
 ]
