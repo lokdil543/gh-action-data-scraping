@@ -334,5 +334,13 @@
     "username": "heavyfrog411",
     "password": "looker",
     "invokedAt": "2023-06-13T07:56:31.170Z"
+  },
+  {
+    "firstName": "Rodrigo",
+    "lastName": "Menéndez",
+    "email": "rodrigo.menendez@example.com",
+    "username": "angrybear905",
+    "password": "director",
+    "invokedAt": "2023-06-13T08:10:05.135Z"
   }
 ]
