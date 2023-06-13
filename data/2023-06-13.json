@@ -254,5 +254,13 @@
     "username": "heavygoose234",
     "password": "frogger",
     "invokedAt": "2023-06-13T06:47:07.822Z"
+  },
+  {
+    "firstName": "Deanna",
+    "lastName": "Newman",
+    "email": "deanna.newman@example.com",
+    "username": "tinyfrog834",
+    "password": "stocking",
+    "invokedAt": "2023-06-13T06:53:13.626Z"
   }
 ]
