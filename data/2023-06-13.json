@@ -710,5 +710,13 @@
     "username": "greenduck581",
     "password": "burning",
     "invokedAt": "2023-06-13T14:42:19.091Z"
+  },
+  {
+    "firstName": "Amalie",
+    "lastName": "Olsen",
+    "email": "amalie.olsen@example.com",
+    "username": "bigsnake355",
+    "password": "figaro",
+    "invokedAt": "2023-06-13T14:48:11.132Z"
   }
 ]
