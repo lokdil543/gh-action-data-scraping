@@ -718,5 +718,13 @@
     "username": "bigsnake355",
     "password": "figaro",
     "invokedAt": "2023-06-13T14:48:11.132Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Rogers",
+    "email": "anthony.rogers@example.com",
+    "username": "ticklishgorilla329",
+    "password": "quattro",
+    "invokedAt": "2023-06-13T14:54:16.197Z"
   }
 ]
