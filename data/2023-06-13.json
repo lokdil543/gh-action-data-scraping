@@ -1022,5 +1022,13 @@
     "username": "heavydog648",
     "password": "transit",
     "invokedAt": "2023-06-13T19:52:11.099Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Webb",
+    "email": "vincent.webb@example.com",
+    "username": "tinyfrog176",
+    "password": "venice",
+    "invokedAt": "2023-06-13T19:58:00.619Z"
   }
 ]
