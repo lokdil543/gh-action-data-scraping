@@ -1118,5 +1118,13 @@
     "username": "smallpeacock575",
     "password": "snowboar",
     "invokedAt": "2023-06-14T21:19:05.824Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Graves",
+    "email": "fred.graves@example.com",
+    "username": "smallfrog154",
+    "password": "anarchy",
+    "invokedAt": "2023-06-14T21:25:04.022Z"
   }
 ]
