@@ -646,5 +646,13 @@
     "username": "angrydog166",
     "password": "special",
     "invokedAt": "2023-06-14T13:41:01.127Z"
+  },
+  {
+    "firstName": "Malone",
+    "lastName": "Dubois",
+    "email": "malone.dubois@example.com",
+    "username": "smallbird204",
+    "password": "groove",
+    "invokedAt": "2023-06-14T13:46:49.270Z"
   }
 ]
