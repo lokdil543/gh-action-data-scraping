@@ -510,5 +510,13 @@
     "username": "greenpeacock538",
     "password": "fullmoon",
     "invokedAt": "2023-06-14T10:54:24.956Z"
+  },
+  {
+    "firstName": "Eino",
+    "lastName": "Lehto",
+    "email": "eino.lehto@example.com",
+    "username": "brownbird321",
+    "password": "jessica1",
+    "invokedAt": "2023-06-14T11:00:10.960Z"
   }
 ]
