@@ -830,5 +830,13 @@
     "username": "sadbird894",
     "password": "microsoft",
     "invokedAt": "2023-06-14T16:47:35.387Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Hubert",
+    "email": "jane.hubert@example.com",
+    "username": "greenbear294",
+    "password": "michael",
+    "invokedAt": "2023-06-14T16:53:34.588Z"
   }
 ]
