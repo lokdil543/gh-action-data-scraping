@@ -518,5 +518,13 @@
     "username": "brownbird321",
     "password": "jessica1",
     "invokedAt": "2023-06-14T11:00:10.960Z"
+  },
+  {
+    "firstName": "Lilli",
+    "lastName": "Mercier",
+    "email": "lilli.mercier@example.com",
+    "username": "redgorilla448",
+    "password": "gmoney",
+    "invokedAt": "2023-06-14T11:11:24.172Z"
   }
 ]
