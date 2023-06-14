@@ -630,5 +630,13 @@
     "username": "organicleopard780",
     "password": "school",
     "invokedAt": "2023-06-14T13:29:10.885Z"
+  },
+  {
+    "firstName": "Hervé",
+    "lastName": "Morel",
+    "email": "herve.morel@example.com",
+    "username": "redostrich103",
+    "password": "pikachu",
+    "invokedAt": "2023-06-14T13:35:06.242Z"
   }
 ]
