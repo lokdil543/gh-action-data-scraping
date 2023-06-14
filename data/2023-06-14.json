@@ -638,5 +638,13 @@
     "username": "redostrich103",
     "password": "pikachu",
     "invokedAt": "2023-06-14T13:35:06.242Z"
+  },
+  {
+    "firstName": "Flora",
+    "lastName": "Grossmann",
+    "email": "flora.grossmann@example.com",
+    "username": "angrydog166",
+    "password": "special",
+    "invokedAt": "2023-06-14T13:41:01.127Z"
   }
 ]
