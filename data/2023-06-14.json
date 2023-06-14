@@ -942,5 +942,13 @@
     "username": "redpanda549",
     "password": "figaro",
     "invokedAt": "2023-06-14T18:39:23.053Z"
+  },
+  {
+    "firstName": "Anujna",
+    "lastName": "Taj",
+    "email": "anujna.taj@example.com",
+    "username": "redbird269",
+    "password": "diehard",
+    "invokedAt": "2023-06-14T18:45:34.312Z"
   }
 ]
