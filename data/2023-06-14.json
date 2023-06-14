@@ -534,5 +534,13 @@
     "username": "yellowlion452",
     "password": "goldwing",
     "invokedAt": "2023-06-14T11:18:34.029Z"
+  },
+  {
+    "firstName": "Stanko",
+    "lastName": "Vujičić",
+    "email": "stanko.vujicic@example.com",
+    "username": "bluewolf394",
+    "password": "pass1",
+    "invokedAt": "2023-06-14T11:24:26.943Z"
   }
 ]
