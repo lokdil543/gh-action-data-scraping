@@ -926,5 +926,13 @@
     "username": "crazylion820",
     "password": "high",
     "invokedAt": "2023-06-15T18:33:28.154Z"
+  },
+  {
+    "firstName": "Cohen",
+    "lastName": "Edwards",
+    "email": "cohen.edwards@example.com",
+    "username": "happybutterfly480",
+    "password": "coltrane",
+    "invokedAt": "2023-06-15T18:39:17.407Z"
   }
 ]
