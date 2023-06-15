@@ -390,5 +390,13 @@
     "username": "greenostrich789",
     "password": "monopoly",
     "invokedAt": "2023-06-15T08:55:04.664Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Sporsheim",
+    "email": "rebecca.sporsheim@example.com",
+    "username": "blackostrich769",
+    "password": "daemon",
+    "invokedAt": "2023-06-15T09:01:51.861Z"
   }
 ]
