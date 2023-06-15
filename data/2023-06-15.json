@@ -382,5 +382,13 @@
     "username": "greenmouse450",
     "password": "legs",
     "invokedAt": "2023-06-15T08:49:01.914Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Jenkins",
+    "email": "bernard.jenkins@example.com",
+    "username": "greenostrich789",
+    "password": "monopoly",
+    "invokedAt": "2023-06-15T08:55:04.664Z"
   }
 ]
