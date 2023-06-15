@@ -1118,5 +1118,13 @@
     "username": "yellowrabbit801",
     "password": "shadow1",
     "invokedAt": "2023-06-15T21:24:17.598Z"
+  },
+  {
+    "firstName": "Radomir",
+    "lastName": "Grujić",
+    "email": "radomir.grujic@example.com",
+    "username": "redrabbit274",
+    "password": "murray",
+    "invokedAt": "2023-06-15T21:30:12.888Z"
   }
 ]
