@@ -550,5 +550,13 @@
     "username": "tinydog333",
     "password": "alucard",
     "invokedAt": "2023-06-16T11:28:47.090Z"
+  },
+  {
+    "firstName": "Gabriela",
+    "lastName": "Lemoine",
+    "email": "gabriela.lemoine@example.com",
+    "username": "tinyduck294",
+    "password": "bender",
+    "invokedAt": "2023-06-16T11:34:46.922Z"
   }
 ]
