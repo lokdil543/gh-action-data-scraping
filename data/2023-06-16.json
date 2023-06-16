@@ -1206,5 +1206,13 @@
     "username": "tinygorilla260",
     "password": "compass",
     "invokedAt": "2023-06-16T22:30:45.160Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Lopez",
+    "email": "paul.lopez@example.com",
+    "username": "tinysnake987",
+    "password": "tazmania",
+    "invokedAt": "2023-06-16T22:36:42.356Z"
   }
 ]
