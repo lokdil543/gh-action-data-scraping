@@ -662,5 +662,13 @@
     "username": "silverkoala222",
     "password": "filter",
     "invokedAt": "2023-06-16T13:50:49.005Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Bailey",
+    "email": "dennis.bailey@example.com",
+    "username": "heavyfish331",
+    "password": "christma",
+    "invokedAt": "2023-06-16T13:56:41.911Z"
   }
 ]
