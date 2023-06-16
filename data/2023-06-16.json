@@ -430,5 +430,13 @@
     "username": "orangemouse436",
     "password": "three",
     "invokedAt": "2023-06-16T09:34:29.717Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Poulsen",
+    "email": "silas.poulsen@example.com",
+    "username": "crazykoala702",
+    "password": "piercing",
+    "invokedAt": "2023-06-16T09:40:22.467Z"
   }
 ]
