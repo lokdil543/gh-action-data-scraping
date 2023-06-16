@@ -1214,5 +1214,13 @@
     "username": "tinysnake987",
     "password": "tazmania",
     "invokedAt": "2023-06-16T22:36:42.356Z"
+  },
+  {
+    "firstName": "Onni",
+    "lastName": "Haataja",
+    "email": "onni.haataja@example.com",
+    "username": "bluebear781",
+    "password": "stolen",
+    "invokedAt": "2023-06-16T22:42:36.263Z"
   }
 ]
