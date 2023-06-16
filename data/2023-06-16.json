@@ -518,5 +518,13 @@
     "username": "greenkoala575",
     "password": "gymnast",
     "invokedAt": "2023-06-16T10:57:06.880Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Thompson",
+    "email": "daniel.thompson@example.com",
+    "username": "blackgorilla843",
+    "password": "delta",
+    "invokedAt": "2023-06-16T11:07:26.878Z"
   }
 ]
