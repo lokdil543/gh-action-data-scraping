@@ -1022,5 +1022,13 @@
     "username": "blackzebra110",
     "password": "5683",
     "invokedAt": "2023-06-16T19:41:27.704Z"
+  },
+  {
+    "firstName": "Sammy",
+    "lastName": "Williamson",
+    "email": "sammy.williamson@example.com",
+    "username": "whitefish744",
+    "password": "electra",
+    "invokedAt": "2023-06-16T19:47:22.641Z"
   }
 ]
