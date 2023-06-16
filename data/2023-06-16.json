@@ -646,5 +646,13 @@
     "username": "goldengorilla473",
     "password": "nitram",
     "invokedAt": "2023-06-16T13:39:00.870Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Long",
+    "email": "carol.long@example.com",
+    "username": "redwolf887",
+    "password": "chewy",
+    "invokedAt": "2023-06-16T13:44:51.862Z"
   }
 ]
