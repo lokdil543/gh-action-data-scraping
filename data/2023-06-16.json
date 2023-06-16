@@ -926,5 +926,13 @@
     "username": "heavygorilla171",
     "password": "heart",
     "invokedAt": "2023-06-16T18:24:51.113Z"
+  },
+  {
+    "firstName": "Slaven",
+    "lastName": "Vučetić",
+    "email": "slaven.vucetic@example.com",
+    "username": "whitegoose678",
+    "password": "zander",
+    "invokedAt": "2023-06-16T18:30:47.913Z"
   }
 ]
