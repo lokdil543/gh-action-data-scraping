@@ -462,5 +462,13 @@
     "username": "whitebutterfly645",
     "password": "seahawks",
     "invokedAt": "2023-06-16T09:58:11.188Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Jarvela",
+    "email": "viljami.jarvela@example.com",
+    "username": "blackdog909",
+    "password": "manowar",
+    "invokedAt": "2023-06-16T10:11:07.180Z"
   }
 ]
