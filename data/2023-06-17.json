@@ -342,5 +342,13 @@
     "username": "whitezebra692",
     "password": "hank",
     "invokedAt": "2023-06-17T07:52:37.871Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Williams",
+    "email": "charlie.williams@example.com",
+    "username": "crazybear613",
+    "password": "pantera1",
+    "invokedAt": "2023-06-17T07:58:31.844Z"
   }
 ]
