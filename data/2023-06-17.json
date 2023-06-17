@@ -422,5 +422,13 @@
     "username": "orangecat255",
     "password": "pass",
     "invokedAt": "2023-06-17T09:17:45.396Z"
+  },
+  {
+    "firstName": "Bilal",
+    "lastName": "Tran",
+    "email": "bilal.tran@example.com",
+    "username": "silverrabbit184",
+    "password": "fairlane",
+    "invokedAt": "2023-06-17T09:23:39.866Z"
   }
 ]
