@@ -414,5 +414,13 @@
     "username": "blackgoose846",
     "password": "jughead",
     "invokedAt": "2023-06-17T09:04:06.876Z"
+  },
+  {
+    "firstName": "Siddharth",
+    "lastName": "Bhat",
+    "email": "siddharth.bhat@example.com",
+    "username": "orangecat255",
+    "password": "pass",
+    "invokedAt": "2023-06-17T09:17:45.396Z"
   }
 ]
