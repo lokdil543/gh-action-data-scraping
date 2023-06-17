@@ -566,5 +566,13 @@
     "username": "browndog386",
     "password": "seagull",
     "invokedAt": "2023-06-17T11:34:07.911Z"
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Haavik",
+    "email": "lukas.haavik@example.com",
+    "username": "purplemouse834",
+    "password": "cookies",
+    "invokedAt": "2023-06-17T11:34:38.055Z"
   }
 ]
