@@ -406,5 +406,13 @@
     "username": "angrymeercat915",
     "password": "fred",
     "invokedAt": "2023-06-17T08:55:22.227Z"
+  },
+  {
+    "firstName": "Tihomir",
+    "lastName": "Rašić",
+    "email": "tihomir.rasic@example.com",
+    "username": "blackgoose846",
+    "password": "jughead",
+    "invokedAt": "2023-06-17T09:04:06.876Z"
   }
 ]
