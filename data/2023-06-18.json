@@ -862,5 +862,13 @@
     "username": "greensnake134",
     "password": "soulmate",
     "invokedAt": "2023-06-18T17:09:58.154Z"
+  },
+  {
+    "firstName": "Sverre",
+    "lastName": "Torheim",
+    "email": "sverre.torheim@example.com",
+    "username": "greenmouse978",
+    "password": "devildog",
+    "invokedAt": "2023-06-18T17:21:40.628Z"
   }
 ]
