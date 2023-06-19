@@ -702,5 +702,13 @@
     "username": "brownwolf404",
     "password": "arsenal",
     "invokedAt": "2023-06-19T14:54:24.588Z"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Parker",
+    "email": "stephen.parker@example.com",
+    "username": "smalllion938",
+    "password": "bigblue",
+    "invokedAt": "2023-06-19T15:00:15.072Z"
   }
 ]
