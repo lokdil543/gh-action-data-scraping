@@ -622,5 +622,13 @@
     "username": "crazylion138",
     "password": "unknown",
     "invokedAt": "2023-06-19T13:40:44.234Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Jensen",
+    "email": "matt.jensen@example.com",
+    "username": "bluebear164",
+    "password": "cinder",
+    "invokedAt": "2023-06-19T13:46:34.673Z"
   }
 ]
