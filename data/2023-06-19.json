@@ -406,5 +406,13 @@
     "username": "purpledog125",
     "password": "juventus",
     "invokedAt": "2023-06-19T09:27:50.207Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Clarke",
+    "email": "alexander.clarke@example.com",
+    "username": "heavyelephant266",
+    "password": "utopia",
+    "invokedAt": "2023-06-19T09:34:29.341Z"
   }
 ]
