@@ -710,5 +710,13 @@
     "username": "smalllion938",
     "password": "bigblue",
     "invokedAt": "2023-06-19T15:00:15.072Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Jørgensen",
+    "email": "alma.jorgensen@example.com",
+    "username": "smallduck777",
+    "password": "deadhead",
+    "invokedAt": "2023-06-19T15:14:49.603Z"
   }
 ]
