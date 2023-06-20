@@ -1014,5 +1014,13 @@
     "username": "whitepanda180",
     "password": "systems",
     "invokedAt": "2023-06-20T19:40:01.080Z"
+  },
+  {
+    "firstName": "Eddie",
+    "lastName": "Murray",
+    "email": "eddie.murray@example.com",
+    "username": "happymeercat861",
+    "password": "mortimer",
+    "invokedAt": "2023-06-20T19:45:57.110Z"
   }
 ]
