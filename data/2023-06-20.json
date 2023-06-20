@@ -606,5 +606,13 @@
     "username": "sadmouse701",
     "password": "help",
     "invokedAt": "2023-06-20T12:50:27.552Z"
+  },
+  {
+    "firstName": "Ilan",
+    "lastName": "Dumas",
+    "email": "ilan.dumas@example.com",
+    "username": "crazyfrog340",
+    "password": "asimov",
+    "invokedAt": "2023-06-20T13:04:06.795Z"
   }
 ]
