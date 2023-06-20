@@ -118,5 +118,13 @@
     "username": "lazyleopard298",
     "password": "keepout",
     "invokedAt": "2023-06-20T04:28:05.214Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Gibson",
+    "email": "david.gibson@example.com",
+    "username": "bigbear193",
+    "password": "froggy",
+    "invokedAt": "2023-06-20T04:34:24.043Z"
   }
 ]
