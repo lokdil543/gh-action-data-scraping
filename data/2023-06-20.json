@@ -558,5 +558,13 @@
     "username": "greensnake185",
     "password": "writer",
     "invokedAt": "2023-06-20T11:35:13.054Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Evans",
+    "email": "diana.evans@example.com",
+    "username": "silvermouse975",
+    "password": "speaker",
+    "invokedAt": "2023-06-20T11:41:17.762Z"
   }
 ]
