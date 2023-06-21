@@ -270,5 +270,13 @@
     "username": "heavycat571",
     "password": "ramones",
     "invokedAt": "2023-06-21T06:57:51.422Z"
+  },
+  {
+    "firstName": "Željko",
+    "lastName": "Tadić",
+    "email": "zeljko.tadic@example.com",
+    "username": "redrabbit592",
+    "password": "shan",
+    "invokedAt": "2023-06-21T07:09:33.852Z"
   }
 ]
