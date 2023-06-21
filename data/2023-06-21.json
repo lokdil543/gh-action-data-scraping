@@ -558,5 +558,13 @@
     "username": "whitepeacock248",
     "password": "megadeth",
     "invokedAt": "2023-06-21T11:35:28.350Z"
+  },
+  {
+    "firstName": "Raquel",
+    "lastName": "Álvarez",
+    "email": "raquel.alvarez@example.com",
+    "username": "silverpeacock641",
+    "password": "stolen",
+    "invokedAt": "2023-06-21T11:41:19.098Z"
   }
 ]
