@@ -1022,5 +1022,13 @@
     "username": "bluemeercat434",
     "password": "movie",
     "invokedAt": "2023-06-22T19:43:35.076Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Andersen",
+    "email": "sofia.andersen@example.com",
+    "username": "blueladybug507",
+    "password": "bright",
+    "invokedAt": "2023-06-22T19:49:22.181Z"
   }
 ]
