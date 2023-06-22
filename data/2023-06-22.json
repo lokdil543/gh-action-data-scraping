@@ -774,5 +774,13 @@
     "username": "brownfrog203",
     "password": "highway",
     "invokedAt": "2023-06-22T15:41:30.472Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Robert",
+    "email": "nathan.robert@example.com",
+    "username": "crazygoose732",
+    "password": "biteme1",
+    "invokedAt": "2023-06-22T15:47:18.835Z"
   }
 ]
