@@ -446,5 +446,13 @@
     "username": "blackfish973",
     "password": "gate",
     "invokedAt": "2023-06-22T09:46:09.832Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Mortensen",
+    "email": "christian.mortensen@example.com",
+    "username": "tinyostrich686",
+    "password": "sam123",
+    "invokedAt": "2023-06-22T09:52:10.165Z"
   }
 ]
