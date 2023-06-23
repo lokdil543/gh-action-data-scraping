@@ -174,5 +174,13 @@
     "username": "greenkoala202",
     "password": "onlyme",
     "invokedAt": "2023-06-23T06:42:26.741Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Wirtanen",
+    "email": "niklas.wirtanen@example.com",
+    "username": "reddog491",
+    "password": "stanford",
+    "invokedAt": "2023-06-23T06:48:41.281Z"
   }
 ]
