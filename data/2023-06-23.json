@@ -182,5 +182,13 @@
     "username": "reddog491",
     "password": "stanford",
     "invokedAt": "2023-06-23T06:48:41.281Z"
+  },
+  {
+    "firstName": "Bertram",
+    "lastName": "Olsen",
+    "email": "bertram.olsen@example.com",
+    "username": "lazykoala842",
+    "password": "hunting",
+    "invokedAt": "2023-06-23T06:54:33.750Z"
   }
 ]
