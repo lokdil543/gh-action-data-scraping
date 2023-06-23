@@ -502,5 +502,13 @@
     "username": "purpletiger398",
     "password": "12345a",
     "invokedAt": "2023-06-23T13:16:03.883Z"
+  },
+  {
+    "firstName": "Grimaldo",
+    "lastName": "Benavídez",
+    "email": "grimaldo.benavidez@example.com",
+    "username": "browndog683",
+    "password": "cartman",
+    "invokedAt": "2023-06-23T13:33:07.124Z"
   }
 ]
