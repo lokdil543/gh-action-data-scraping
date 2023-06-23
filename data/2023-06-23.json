@@ -662,5 +662,13 @@
     "username": "goldenostrich351",
     "password": "potter",
     "invokedAt": "2023-06-23T16:15:38.536Z"
+  },
+  {
+    "firstName": "Sigmund",
+    "lastName": "Kühner",
+    "email": "sigmund.kuhner@example.com",
+    "username": "crazyostrich285",
+    "password": "khan",
+    "invokedAt": "2023-06-23T16:35:22.790Z"
   }
 ]
