@@ -854,5 +854,13 @@
     "username": "greenbutterfly913",
     "password": "dean",
     "invokedAt": "2023-06-24T19:10:54.547Z"
+  },
+  {
+    "firstName": "Tieme",
+    "lastName": "Van der Aalst",
+    "email": "tieme.vanderaalst@example.com",
+    "username": "crazydog922",
+    "password": "warcraft",
+    "invokedAt": "2023-06-24T19:19:21.661Z"
   }
 ]
