@@ -1046,5 +1046,13 @@
     "username": "bigpeacock731",
     "password": "wrestling",
     "invokedAt": "2023-06-24T22:13:42.970Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Tucker",
+    "email": "johnny.tucker@example.com",
+    "username": "smallduck416",
+    "password": "mail",
+    "invokedAt": "2023-06-24T22:28:33.965Z"
   }
 ]
