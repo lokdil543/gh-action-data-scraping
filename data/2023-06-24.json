@@ -518,5 +518,13 @@
     "username": "redtiger388",
     "password": "scarface",
     "invokedAt": "2023-06-24T12:43:23.364Z"
+  },
+  {
+    "firstName": "Bastian",
+    "lastName": "Eggan",
+    "email": "bastian.eggan@example.com",
+    "username": "tinybird959",
+    "password": "ghost",
+    "invokedAt": "2023-06-24T13:02:20.097Z"
   }
 ]
