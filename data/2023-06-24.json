@@ -886,5 +886,13 @@
     "username": "whitemeercat246",
     "password": "tanya",
     "invokedAt": "2023-06-24T19:37:33.077Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Stošić",
+    "email": "adam.stosic@example.com",
+    "username": "tinymouse121",
+    "password": "sand",
+    "invokedAt": "2023-06-24T19:43:32.062Z"
   }
 ]
