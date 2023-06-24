@@ -422,5 +422,13 @@
     "username": "heavylion315",
     "password": "usnavy",
     "invokedAt": "2023-06-24T10:45:05.303Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Ferguson",
+    "email": "norman.ferguson@example.com",
+    "username": "heavybird551",
+    "password": "sunny",
+    "invokedAt": "2023-06-24T10:51:10.596Z"
   }
 ]
