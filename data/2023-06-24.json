@@ -598,5 +598,13 @@
     "username": "beautifulduck992",
     "password": "enterprise",
     "invokedAt": "2023-06-24T14:30:37.916Z"
+  },
+  {
+    "firstName": "Bertrand",
+    "lastName": "Denis",
+    "email": "bertrand.denis@example.com",
+    "username": "goldenlion906",
+    "password": "cupoi",
+    "invokedAt": "2023-06-24T14:37:01.095Z"
   }
 ]
