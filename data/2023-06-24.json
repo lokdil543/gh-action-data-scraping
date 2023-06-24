@@ -470,5 +470,13 @@
     "username": "goldenfish985",
     "password": "adam12",
     "invokedAt": "2023-06-24T11:31:08.049Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Larson",
+    "email": "ellie.larson@example.com",
+    "username": "smalltiger162",
+    "password": "guido",
+    "invokedAt": "2023-06-24T11:37:19.256Z"
   }
 ]
