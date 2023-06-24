@@ -46,5 +46,13 @@
     "username": "whitekoala514",
     "password": "kingdom",
     "invokedAt": "2023-06-24T03:46:08.041Z"
+  },
+  {
+    "firstName": "Arne",
+    "lastName": "Van Eerden",
+    "email": "arne.vaneerden@example.com",
+    "username": "redfrog340",
+    "password": "griffey",
+    "invokedAt": "2023-06-24T03:52:07.825Z"
   }
 ]
