@@ -566,5 +566,13 @@
     "username": "blackmeercat851",
     "password": "trinity",
     "invokedAt": "2023-06-25T14:27:07.073Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Hopkins",
+    "email": "howard.hopkins@example.com",
+    "username": "lazyostrich103",
+    "password": "legs",
+    "invokedAt": "2023-06-25T14:33:49.055Z"
   }
 ]
