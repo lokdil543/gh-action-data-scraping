@@ -270,5 +270,13 @@
     "username": "bigbear665",
     "password": "warthog",
     "invokedAt": "2023-06-25T08:31:32.730Z"
+  },
+  {
+    "firstName": "Malin",
+    "lastName": "Morel",
+    "email": "malin.morel@example.com",
+    "username": "crazypanda365",
+    "password": "unreal",
+    "invokedAt": "2023-06-25T08:40:00.022Z"
   }
 ]
