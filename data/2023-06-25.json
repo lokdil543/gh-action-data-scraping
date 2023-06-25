@@ -518,5 +518,13 @@
     "username": "greenduck470",
     "password": "virus",
     "invokedAt": "2023-06-25T13:36:27.709Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Hawkins",
+    "email": "anna.hawkins@example.com",
+    "username": "redwolf305",
+    "password": "drpepper",
+    "invokedAt": "2023-06-25T13:42:22.790Z"
   }
 ]
