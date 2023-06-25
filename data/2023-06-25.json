@@ -326,5 +326,13 @@
     "username": "lazytiger249",
     "password": "torino",
     "invokedAt": "2023-06-25T09:28:52.217Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Garcia",
+    "email": "cathy.garcia@example.com",
+    "username": "tinyzebra763",
+    "password": "temppass",
+    "invokedAt": "2023-06-25T09:35:34.170Z"
   }
 ]
