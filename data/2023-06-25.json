@@ -734,5 +734,13 @@
     "username": "happypanda159",
     "password": "fenway",
     "invokedAt": "2023-06-25T17:31:04.473Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Bélanger",
+    "email": "etienne.belanger@example.com",
+    "username": "brownmeercat867",
+    "password": "barker",
+    "invokedAt": "2023-06-25T17:36:58.248Z"
   }
 ]
