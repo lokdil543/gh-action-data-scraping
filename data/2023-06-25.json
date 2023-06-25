@@ -262,5 +262,13 @@
     "username": "silverkoala195",
     "password": "vanilla",
     "invokedAt": "2023-06-25T08:17:04.015Z"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Lemaire",
+    "email": "theo.lemaire@example.com",
+    "username": "bigbear665",
+    "password": "warthog",
+    "invokedAt": "2023-06-25T08:31:32.730Z"
   }
 ]
