@@ -294,5 +294,13 @@
     "username": "smallgorilla500",
     "password": "browning",
     "invokedAt": "2023-06-26T09:19:01.939Z"
+  },
+  {
+    "firstName": "Wolfgang",
+    "lastName": "David",
+    "email": "wolfgang.david@example.com",
+    "username": "heavydog301",
+    "password": "beaver",
+    "invokedAt": "2023-06-26T09:29:12.180Z"
   }
 ]
