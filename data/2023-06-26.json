@@ -830,5 +830,13 @@
     "username": "greenbutterfly193",
     "password": "morpheus",
     "invokedAt": "2023-06-26T19:50:27.943Z"
+  },
+  {
+    "firstName": "Clifford",
+    "lastName": "Gilbert",
+    "email": "clifford.gilbert@example.com",
+    "username": "lazylion432",
+    "password": "chat",
+    "invokedAt": "2023-06-26T19:56:28.401Z"
   }
 ]
