@@ -958,5 +958,13 @@
     "username": "smalldog570",
     "password": "garage",
     "invokedAt": "2023-06-26T21:56:23.318Z"
+  },
+  {
+    "firstName": "Batur",
+    "lastName": "Kasapoğlu",
+    "email": "batur.kasapoglu@example.com",
+    "username": "whitesnake223",
+    "password": "lebowski",
+    "invokedAt": "2023-06-26T22:08:13.117Z"
   }
 ]
