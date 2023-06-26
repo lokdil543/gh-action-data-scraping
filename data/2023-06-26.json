@@ -190,5 +190,13 @@
     "username": "orangedog100",
     "password": "kids",
     "invokedAt": "2023-06-26T07:08:34.456Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Evans",
+    "email": "alex.evans@example.com",
+    "username": "bigpeacock695",
+    "password": "airport",
+    "invokedAt": "2023-06-26T07:22:38.990Z"
   }
 ]
