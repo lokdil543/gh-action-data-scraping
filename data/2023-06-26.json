@@ -838,5 +838,13 @@
     "username": "lazylion432",
     "password": "chat",
     "invokedAt": "2023-06-26T19:56:28.401Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Grant",
+    "email": "craig.grant@example.com",
+    "username": "ticklishbear923",
+    "password": "scissors",
+    "invokedAt": "2023-06-26T20:09:03.302Z"
   }
 ]
