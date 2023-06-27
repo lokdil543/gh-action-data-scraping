@@ -526,5 +526,13 @@
     "username": "goldenpanda638",
     "password": "testing",
     "invokedAt": "2023-06-27T13:45:46.482Z"
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Girard",
+    "email": "noel.girard@example.com",
+    "username": "greenzebra183",
+    "password": "66666",
+    "invokedAt": "2023-06-27T13:51:43.102Z"
   }
 ]
