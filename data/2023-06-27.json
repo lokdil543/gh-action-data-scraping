@@ -246,5 +246,13 @@
     "username": "whiteelephant443",
     "password": "sabres",
     "invokedAt": "2023-06-27T07:46:09.131Z"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Tošić",
+    "email": "milan.tosic@example.com",
+    "username": "purplerabbit131",
+    "password": "r2d2",
+    "invokedAt": "2023-06-27T07:52:09.991Z"
   }
 ]
