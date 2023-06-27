@@ -502,5 +502,13 @@
     "username": "orangebear115",
     "password": "japanes",
     "invokedAt": "2023-06-27T13:14:39.727Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Rivera",
+    "email": "terry.rivera@example.com",
+    "username": "orangebear384",
+    "password": "proxy",
+    "invokedAt": "2023-06-27T13:31:45.690Z"
   }
 ]
