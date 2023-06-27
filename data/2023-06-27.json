@@ -934,5 +934,13 @@
     "username": "crazyfish523",
     "password": "pilgrim",
     "invokedAt": "2023-06-27T21:12:46.967Z"
+  },
+  {
+    "firstName": "Duško",
+    "lastName": "Trajković",
+    "email": "dusko.trajkovic@example.com",
+    "username": "tinydog872",
+    "password": "mykids",
+    "invokedAt": "2023-06-27T21:23:03.559Z"
   }
 ]
