@@ -886,5 +886,13 @@
     "username": "greenbear347",
     "password": "supreme",
     "invokedAt": "2023-06-27T20:30:06.202Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Lévesque",
+    "email": "simon.levesque@example.com",
+    "username": "orangefish681",
+    "password": "tinkerbe",
+    "invokedAt": "2023-06-27T20:36:18.353Z"
   }
 ]
