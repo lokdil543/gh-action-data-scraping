@@ -870,5 +870,13 @@
     "username": "bluebutterfly630",
     "password": "subway",
     "invokedAt": "2023-06-27T20:07:16.545Z"
+  },
+  {
+    "firstName": "Nika",
+    "lastName": "Pushchenko",
+    "email": "nika.pushchenko@example.com",
+    "username": "sadfrog694",
+    "password": "falcon",
+    "invokedAt": "2023-06-27T20:23:43.870Z"
   }
 ]
