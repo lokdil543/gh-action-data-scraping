@@ -710,5 +710,13 @@
     "username": "bluefrog976",
     "password": "quest1",
     "invokedAt": "2023-06-28T17:23:56.998Z"
+  },
+  {
+    "firstName": "Catalina",
+    "lastName": "Delgado",
+    "email": "catalina.delgado@example.com",
+    "username": "redfrog679",
+    "password": "keystone",
+    "invokedAt": "2023-06-28T17:31:08.783Z"
   }
 ]
