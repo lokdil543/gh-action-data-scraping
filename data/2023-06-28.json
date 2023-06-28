@@ -718,5 +718,13 @@
     "username": "redfrog679",
     "password": "keystone",
     "invokedAt": "2023-06-28T17:31:08.783Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Laitinen",
+    "email": "konsta.laitinen@example.com",
+    "username": "happybear980",
+    "password": "huskies",
+    "invokedAt": "2023-06-28T17:37:13.455Z"
   }
 ]
