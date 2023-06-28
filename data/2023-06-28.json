@@ -742,5 +742,13 @@
     "username": "sadfish873",
     "password": "freeway",
     "invokedAt": "2023-06-28T17:49:05.902Z"
+  },
+  {
+    "firstName": "Franklin",
+    "lastName": "Hanson",
+    "email": "franklin.hanson@example.com",
+    "username": "happyfrog446",
+    "password": "1027",
+    "invokedAt": "2023-06-28T17:55:03.018Z"
   }
 ]
