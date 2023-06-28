@@ -518,5 +518,13 @@
     "username": "whiteelephant406",
     "password": "2424",
     "invokedAt": "2023-06-28T13:40:20.157Z"
+  },
+  {
+    "firstName": "Danka",
+    "lastName": "Adamović",
+    "email": "danka.adamovic@example.com",
+    "username": "blackleopard849",
+    "password": "beans",
+    "invokedAt": "2023-06-28T13:46:31.328Z"
   }
 ]
