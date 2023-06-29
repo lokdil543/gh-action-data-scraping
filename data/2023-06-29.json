@@ -1078,5 +1078,13 @@
     "username": "orangewolf462",
     "password": "balance",
     "invokedAt": "2023-06-29T23:35:07.169Z"
+  },
+  {
+    "firstName": "Ezio",
+    "lastName": "Richard",
+    "email": "ezio.richard@example.com",
+    "username": "orangepanda428",
+    "password": "abacab",
+    "invokedAt": "2023-06-29T23:40:58.941Z"
   }
 ]
