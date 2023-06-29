@@ -390,5 +390,13 @@
     "username": "brownmouse265",
     "password": "scrapper",
     "invokedAt": "2023-06-29T10:28:29.713Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Jenkins",
+    "email": "tom.jenkins@example.com",
+    "username": "greenleopard471",
+    "password": "driven",
+    "invokedAt": "2023-06-29T10:38:06.458Z"
   }
 ]
