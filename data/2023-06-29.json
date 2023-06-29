@@ -870,5 +870,13 @@
     "username": "silverzebra492",
     "password": "bearcat",
     "invokedAt": "2023-06-29T20:02:54.198Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Muller",
+    "email": "adam.muller@example.com",
+    "username": "tinyrabbit569",
+    "password": "wrestler",
+    "invokedAt": "2023-06-29T20:20:50.103Z"
   }
 ]
