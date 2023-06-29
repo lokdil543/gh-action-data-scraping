@@ -382,5 +382,13 @@
     "username": "blueduck290",
     "password": "kkkkkk",
     "invokedAt": "2023-06-29T10:08:30.218Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Bryant",
+    "email": "bob.bryant@example.com",
+    "username": "brownmouse265",
+    "password": "scrapper",
+    "invokedAt": "2023-06-29T10:28:29.713Z"
   }
 ]
