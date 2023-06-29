@@ -582,5 +582,13 @@
     "username": "purplefish592",
     "password": "a123456",
     "invokedAt": "2023-06-29T14:31:41.781Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Koivisto",
+    "email": "luukas.koivisto@example.com",
+    "username": "greenleopard468",
+    "password": "install",
+    "invokedAt": "2023-06-29T14:37:35.838Z"
   }
 ]
