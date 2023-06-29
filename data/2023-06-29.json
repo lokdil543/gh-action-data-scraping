@@ -878,5 +878,13 @@
     "username": "tinyrabbit569",
     "password": "wrestler",
     "invokedAt": "2023-06-29T20:20:50.103Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Jones",
+    "email": "ryan.jones@example.com",
+    "username": "bigwolf575",
+    "password": "sasha1",
+    "invokedAt": "2023-06-29T20:28:10.865Z"
   }
 ]
