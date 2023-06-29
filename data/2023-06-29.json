@@ -974,5 +974,13 @@
     "username": "sadfrog230",
     "password": "max123",
     "invokedAt": "2023-06-29T21:45:10.815Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Grant",
+    "email": "jorge.grant@example.com",
+    "username": "whitesnake918",
+    "password": "ncc1701d",
+    "invokedAt": "2023-06-29T21:51:14.317Z"
   }
 ]
