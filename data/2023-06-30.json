@@ -822,5 +822,13 @@
     "username": "happyduck639",
     "password": "fighting",
     "invokedAt": "2023-06-30T18:18:53.775Z"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "David",
+    "email": "damian.david@example.com",
+    "username": "sadleopard427",
+    "password": "moomoo",
+    "invokedAt": "2023-06-30T18:32:07.384Z"
   }
 ]
