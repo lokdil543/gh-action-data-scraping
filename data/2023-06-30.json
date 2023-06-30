@@ -774,5 +774,13 @@
     "username": "purpletiger940",
     "password": "tintin",
     "invokedAt": "2023-06-30T17:30:17.908Z"
+  },
+  {
+    "firstName": "Enora",
+    "lastName": "Picard",
+    "email": "enora.picard@example.com",
+    "username": "whiteleopard626",
+    "password": "manson",
+    "invokedAt": "2023-06-30T17:36:16.247Z"
   }
 ]
