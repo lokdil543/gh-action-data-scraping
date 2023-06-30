@@ -998,5 +998,13 @@
     "username": "purplegorilla174",
     "password": "player",
     "invokedAt": "2023-06-30T21:04:11.904Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Santiago",
+    "email": "david.santiago@example.com",
+    "username": "bigladybug918",
+    "password": "simpsons",
+    "invokedAt": "2023-06-30T21:17:49.645Z"
   }
 ]
