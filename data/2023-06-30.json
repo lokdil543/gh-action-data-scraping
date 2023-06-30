@@ -382,5 +382,13 @@
     "username": "brownduck142",
     "password": "worm",
     "invokedAt": "2023-06-30T09:46:32.477Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Fournier",
+    "email": "paul.fournier@example.com",
+    "username": "bigtiger797",
+    "password": "trucks",
+    "invokedAt": "2023-06-30T09:52:00.163Z"
   }
 ]
