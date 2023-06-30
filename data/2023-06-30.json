@@ -758,5 +758,13 @@
     "username": "brownbird735",
     "password": "formula",
     "invokedAt": "2023-06-30T17:08:00.049Z"
+  },
+  {
+    "firstName": "Boris",
+    "lastName": "Simon",
+    "email": "boris.simon@example.com",
+    "username": "smallbear707",
+    "password": "spinner",
+    "invokedAt": "2023-06-30T17:23:03.275Z"
   }
 ]
