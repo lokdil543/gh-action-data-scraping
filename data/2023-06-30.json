@@ -814,5 +814,13 @@
     "username": "blackcat162",
     "password": "paradigm",
     "invokedAt": "2023-06-30T18:00:10.040Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Hale",
+    "email": "eric.hale@example.com",
+    "username": "happyduck639",
+    "password": "fighting",
+    "invokedAt": "2023-06-30T18:18:53.775Z"
   }
 ]
