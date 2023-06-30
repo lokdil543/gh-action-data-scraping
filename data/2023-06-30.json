@@ -94,5 +94,13 @@
     "username": "biggoose737",
     "password": "gagged",
     "invokedAt": "2023-06-30T04:39:14.946Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Renard",
+    "email": "leon.renard@example.com",
+    "username": "goldendog526",
+    "password": "blanche",
+    "invokedAt": "2023-06-30T04:45:03.001Z"
   }
 ]
