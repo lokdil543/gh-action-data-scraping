@@ -918,5 +918,13 @@
     "username": "smallzebra939",
     "password": "grunt",
     "invokedAt": "2023-06-30T19:47:53.923Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Hall",
+    "email": "samuel.hall@example.com",
+    "username": "happyzebra536",
+    "password": "checker",
+    "invokedAt": "2023-06-30T19:53:52.292Z"
   }
 ]
