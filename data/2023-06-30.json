@@ -1054,5 +1054,13 @@
     "username": "yellowmouse207",
     "password": "yahoo",
     "invokedAt": "2023-06-30T21:54:35.199Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Palmer",
+    "email": "james.palmer@example.com",
+    "username": "ticklishkoala908",
+    "password": "broncos",
+    "invokedAt": "2023-06-30T22:00:25.123Z"
   }
 ]
