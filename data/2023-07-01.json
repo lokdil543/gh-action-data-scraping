@@ -422,5 +422,13 @@
     "username": "goldendog341",
     "password": "picasso",
     "invokedAt": "2023-07-01T10:37:00.693Z"
+  },
+  {
+    "firstName": "Vitaliano",
+    "lastName": "Moraes",
+    "email": "vitaliano.moraes@example.com",
+    "username": "brownfrog422",
+    "password": "moomoo",
+    "invokedAt": "2023-07-01T10:42:53.553Z"
   }
 ]
