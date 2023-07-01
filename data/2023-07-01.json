@@ -342,5 +342,13 @@
     "username": "ticklishrabbit490",
     "password": "2233",
     "invokedAt": "2023-07-01T09:10:54.986Z"
+  },
+  {
+    "firstName": "Oona",
+    "lastName": "Moilanen",
+    "email": "oona.moilanen@example.com",
+    "username": "lazybird629",
+    "password": "wrench",
+    "invokedAt": "2023-07-01T09:22:10.141Z"
   }
 ]
