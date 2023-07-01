@@ -78,5 +78,13 @@
     "username": "beautifuldog300",
     "password": "blaster",
     "invokedAt": "2023-07-01T04:36:27.962Z"
+  },
+  {
+    "firstName": "Bernabé",
+    "lastName": "Velásquez",
+    "email": "bernabe.velasquez@example.com",
+    "username": "redpanda400",
+    "password": "scott",
+    "invokedAt": "2023-07-01T04:42:21.405Z"
   }
 ]
