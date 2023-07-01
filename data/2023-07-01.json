@@ -966,5 +966,13 @@
     "username": "whitefrog436",
     "password": "hippo",
     "invokedAt": "2023-07-01T20:24:08.318Z"
+  },
+  {
+    "firstName": "Axelle",
+    "lastName": "Thomas",
+    "email": "axelle.thomas@example.com",
+    "username": "redgoose903",
+    "password": "cookies",
+    "invokedAt": "2023-07-01T20:30:04.962Z"
   }
 ]
