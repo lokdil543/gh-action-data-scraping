@@ -262,5 +262,13 @@
     "username": "organicmouse784",
     "password": "qweasd",
     "invokedAt": "2023-07-01T07:43:26.168Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Thomas",
+    "email": "vincent.thomas@example.com",
+    "username": "smallleopard140",
+    "password": "true",
+    "invokedAt": "2023-07-01T07:49:27.741Z"
   }
 ]
