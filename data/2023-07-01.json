@@ -350,5 +350,13 @@
     "username": "lazybird629",
     "password": "wrench",
     "invokedAt": "2023-07-01T09:22:10.141Z"
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Cooper",
+    "email": "sergio.cooper@example.com",
+    "username": "goldenmouse256",
+    "password": "delphi",
+    "invokedAt": "2023-07-01T09:27:57.086Z"
   }
 ]
