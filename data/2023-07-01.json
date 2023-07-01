@@ -830,5 +830,13 @@
     "username": "crazyfrog835",
     "password": "stormy",
     "invokedAt": "2023-07-01T18:00:26.688Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Pearson",
+    "email": "antonio.pearson@example.com",
+    "username": "whitedog108",
+    "password": "random",
+    "invokedAt": "2023-07-01T18:18:45.474Z"
   }
 ]
