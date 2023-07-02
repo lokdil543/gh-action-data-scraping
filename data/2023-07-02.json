@@ -446,5 +446,13 @@
     "username": "silvermeercat235",
     "password": "hose",
     "invokedAt": "2023-07-02T10:50:49.362Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Robinson",
+    "email": "jacob.robinson@example.com",
+    "username": "whitetiger242",
+    "password": "total",
+    "invokedAt": "2023-07-02T10:56:42.984Z"
   }
 ]
