@@ -118,5 +118,13 @@
     "username": "happyfrog965",
     "password": "guitars",
     "invokedAt": "2023-07-02T05:12:13.286Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Nikula",
+    "email": "arttu.nikula@example.com",
+    "username": "ticklishbear900",
+    "password": "gmoney",
+    "invokedAt": "2023-07-02T05:26:17.114Z"
   }
 ]
