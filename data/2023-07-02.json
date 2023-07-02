@@ -686,5 +686,13 @@
     "username": "blueelephant528",
     "password": "working",
     "invokedAt": "2023-07-02T15:27:19.002Z"
+  },
+  {
+    "firstName": "Ilija",
+    "lastName": "Živanović",
+    "email": "ilija.zivanovic@example.com",
+    "username": "heavygoose890",
+    "password": "bullfrog",
+    "invokedAt": "2023-07-02T15:34:03.695Z"
   }
 ]
