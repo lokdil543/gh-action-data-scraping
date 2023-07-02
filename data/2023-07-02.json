@@ -206,5 +206,13 @@
     "username": "bluebird613",
     "password": "baylor",
     "invokedAt": "2023-07-02T06:49:20.018Z"
+  },
+  {
+    "firstName": "Ramón",
+    "lastName": "Arguello",
+    "email": "ramon.arguello@example.com",
+    "username": "orangecat521",
+    "password": "macross",
+    "invokedAt": "2023-07-02T06:55:13.809Z"
   }
 ]
