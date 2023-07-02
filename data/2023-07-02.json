@@ -814,5 +814,13 @@
     "username": "heavygoose163",
     "password": "yyyyyy1",
     "invokedAt": "2023-07-02T17:42:11.279Z"
+  },
+  {
+    "firstName": "Tijana",
+    "lastName": "Popović",
+    "email": "tijana.popovic@example.com",
+    "username": "bigfrog100",
+    "password": "terrier",
+    "invokedAt": "2023-07-02T17:48:04.210Z"
   }
 ]
