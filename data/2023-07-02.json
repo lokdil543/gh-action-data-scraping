@@ -750,5 +750,13 @@
     "username": "purpledog587",
     "password": "toast",
     "invokedAt": "2023-07-02T16:41:16.043Z"
+  },
+  {
+    "firstName": "Joy",
+    "lastName": "Watts",
+    "email": "joy.watts@example.com",
+    "username": "purpleswan751",
+    "password": "piper",
+    "invokedAt": "2023-07-02T16:47:15.587Z"
   }
 ]
