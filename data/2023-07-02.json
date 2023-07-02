@@ -902,5 +902,13 @@
     "username": "silverdog749",
     "password": "zippy",
     "invokedAt": "2023-07-02T19:12:11.502Z"
+  },
+  {
+    "firstName": "Cody",
+    "lastName": "James",
+    "email": "cody.james@example.com",
+    "username": "whiteswan494",
+    "password": "darryl",
+    "invokedAt": "2023-07-02T19:19:01.403Z"
   }
 ]
