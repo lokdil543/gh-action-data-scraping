@@ -846,5 +846,13 @@
     "username": "bigfrog348",
     "password": "lost",
     "invokedAt": "2023-07-02T18:17:10.360Z"
+  },
+  {
+    "firstName": "Bratislav",
+    "lastName": "Šakić",
+    "email": "bratislav.sakic@example.com",
+    "username": "goldenpeacock309",
+    "password": "wrestler",
+    "invokedAt": "2023-07-02T18:29:43.412Z"
   }
 ]
