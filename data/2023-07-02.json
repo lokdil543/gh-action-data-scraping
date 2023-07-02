@@ -1126,5 +1126,13 @@
     "username": "lazybird809",
     "password": "twelve",
     "invokedAt": "2023-07-02T22:40:02.319Z"
+  },
+  {
+    "firstName": "Jean-Claude",
+    "lastName": "Mercier",
+    "email": "jean-claude.mercier@example.com",
+    "username": "greenduck124",
+    "password": "eskimo",
+    "invokedAt": "2023-07-02T22:45:55.759Z"
   }
 ]
