@@ -750,5 +750,13 @@
     "username": "brownwolf802",
     "password": "buffet",
     "invokedAt": "2023-07-03T17:42:07.013Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Lucas",
+    "email": "danny.lucas@example.com",
+    "username": "greenbear528",
+    "password": "anita",
+    "invokedAt": "2023-07-03T17:48:07.297Z"
   }
 ]
