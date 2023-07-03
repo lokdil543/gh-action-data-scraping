@@ -1062,5 +1062,13 @@
     "username": "whitekoala524",
     "password": "3333333",
     "invokedAt": "2023-07-03T22:57:19.608Z"
+  },
+  {
+    "firstName": "Nihal",
+    "lastName": "Berberoğlu",
+    "email": "nihal.berberoglu@example.com",
+    "username": "blackdog758",
+    "password": "topdog",
+    "invokedAt": "2023-07-03T23:10:29.855Z"
   }
 ]
