@@ -798,5 +798,13 @@
     "username": "orangetiger480",
     "password": "broadway",
     "invokedAt": "2023-07-03T18:40:44.168Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Robertson",
+    "email": "claude.robertson@example.com",
+    "username": "redleopard777",
+    "password": "awnyce",
+    "invokedAt": "2023-07-03T18:46:39.310Z"
   }
 ]
