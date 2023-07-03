@@ -478,5 +478,13 @@
     "username": "whiteduck321",
     "password": "killer1",
     "invokedAt": "2023-07-03T11:48:10.077Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Green",
+    "email": "emma.green@example.com",
+    "username": "bluemouse376",
+    "password": "budlight",
+    "invokedAt": "2023-07-03T11:54:14.163Z"
   }
 ]
