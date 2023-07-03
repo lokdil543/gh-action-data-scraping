@@ -534,5 +534,13 @@
     "username": "whiteelephant407",
     "password": "compass",
     "invokedAt": "2023-07-03T13:45:06.569Z"
+  },
+  {
+    "firstName": "Teodor",
+    "lastName": "Živković",
+    "email": "teodor.zivkovic@example.com",
+    "username": "redcat763",
+    "password": "howdy",
+    "invokedAt": "2023-07-03T13:51:16.035Z"
   }
 ]
