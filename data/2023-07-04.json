@@ -590,5 +590,13 @@
     "username": "brownladybug545",
     "password": "parola",
     "invokedAt": "2023-07-04T15:13:22.918Z"
+  },
+  {
+    "firstName": "José María",
+    "lastName": "Mota",
+    "email": "josemaria.mota@example.com",
+    "username": "orangebear158",
+    "password": "4444",
+    "invokedAt": "2023-07-04T15:27:15.818Z"
   }
 ]
