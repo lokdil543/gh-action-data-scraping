@@ -918,5 +918,13 @@
     "username": "whitecat658",
     "password": "cards",
     "invokedAt": "2023-07-04T21:26:53.341Z"
+  },
+  {
+    "firstName": "Per",
+    "lastName": "Bregman",
+    "email": "per.bregman@example.com",
+    "username": "goldenleopard936",
+    "password": "01234567",
+    "invokedAt": "2023-07-04T21:33:29.100Z"
   }
 ]
