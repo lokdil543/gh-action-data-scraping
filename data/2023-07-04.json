@@ -158,5 +158,13 @@
     "username": "angryfrog601",
     "password": "rocker",
     "invokedAt": "2023-07-04T06:08:26.183Z"
+  },
+  {
+    "firstName": "Hansjörg",
+    "lastName": "Behnke",
+    "email": "hansjorg.behnke@example.com",
+    "username": "crazycat920",
+    "password": "646464",
+    "invokedAt": "2023-07-04T06:30:26.327Z"
   }
 ]
