@@ -638,5 +638,13 @@
     "username": "greengoose984",
     "password": "test",
     "invokedAt": "2023-07-04T15:58:36.927Z"
+  },
+  {
+    "firstName": "Kerim",
+    "lastName": "Yıldırım",
+    "email": "kerim.yildirim@example.com",
+    "username": "goldengoose502",
+    "password": "pikachu",
+    "invokedAt": "2023-07-04T16:16:51.145Z"
   }
 ]
