@@ -606,5 +606,13 @@
     "username": "crazyzebra391",
     "password": "herewego",
     "invokedAt": "2023-07-04T15:34:52.933Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Pérez",
+    "email": "marcos.perez@example.com",
+    "username": "angrydog838",
+    "password": "jingle",
+    "invokedAt": "2023-07-04T15:40:54.334Z"
   }
 ]
