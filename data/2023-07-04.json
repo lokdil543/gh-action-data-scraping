@@ -206,5 +206,13 @@
     "username": "blackfrog668",
     "password": "ronald",
     "invokedAt": "2023-07-04T07:15:04.834Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Walker",
+    "email": "adam.walker@example.com",
+    "username": "blackpeacock781",
+    "password": "coldplay",
+    "invokedAt": "2023-07-04T07:25:15.819Z"
   }
 ]
