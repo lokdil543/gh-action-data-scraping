@@ -214,5 +214,13 @@
     "username": "blackpeacock781",
     "password": "coldplay",
     "invokedAt": "2023-07-04T07:25:15.819Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Christensen",
+    "email": "nanna.christensen@example.com",
+    "username": "crazygoose601",
+    "password": "andrews",
+    "invokedAt": "2023-07-04T07:31:33.362Z"
   }
 ]
