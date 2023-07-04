@@ -534,5 +534,13 @@
     "username": "happyostrich937",
     "password": "peekaboo",
     "invokedAt": "2023-07-04T14:07:34.611Z"
+  },
+  {
+    "firstName": "Mandy",
+    "lastName": "Snyder",
+    "email": "mandy.snyder@example.com",
+    "username": "greenpeacock882",
+    "password": "public",
+    "invokedAt": "2023-07-04T14:24:44.924Z"
   }
 ]
