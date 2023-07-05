@@ -446,5 +446,13 @@
     "username": "redbutterfly556",
     "password": "figaro",
     "invokedAt": "2023-07-05T11:52:34.545Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Jean-Baptiste",
+    "email": "olivier.jean-baptiste@example.com",
+    "username": "browndog966",
+    "password": "babycake",
+    "invokedAt": "2023-07-05T11:58:23.249Z"
   }
 ]
