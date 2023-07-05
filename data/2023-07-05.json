@@ -718,5 +718,13 @@
     "username": "smallcat802",
     "password": "chilli",
     "invokedAt": "2023-07-05T18:31:54.223Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Sanz",
+    "email": "daniel.sanz@example.com",
+    "username": "redbird794",
+    "password": "apple123",
+    "invokedAt": "2023-07-05T18:42:50.530Z"
   }
 ]
