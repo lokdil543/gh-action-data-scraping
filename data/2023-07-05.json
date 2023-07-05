@@ -422,5 +422,13 @@
     "username": "yellowlion248",
     "password": "shutup",
     "invokedAt": "2023-07-05T11:34:32.051Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Stone",
+    "email": "abigail.stone@example.com",
+    "username": "heavyfish187",
+    "password": "grinch",
+    "invokedAt": "2023-07-05T11:40:36.341Z"
   }
 ]
