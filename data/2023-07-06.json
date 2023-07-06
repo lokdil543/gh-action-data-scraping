@@ -182,5 +182,13 @@
     "username": "goldenmouse526",
     "password": "warren",
     "invokedAt": "2023-07-06T06:53:43.421Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Murto",
+    "email": "vaino.murto@example.com",
+    "username": "redtiger205",
+    "password": "stocks",
+    "invokedAt": "2023-07-06T06:59:35.249Z"
   }
 ]
