@@ -846,5 +846,13 @@
     "username": "orangebird707",
     "password": "wishbone",
     "invokedAt": "2023-07-06T20:33:34.247Z"
+  },
+  {
+    "firstName": "Piet",
+    "lastName": "Van Walsum",
+    "email": "piet.vanwalsum@example.com",
+    "username": "ticklishsnake502",
+    "password": "newpass",
+    "invokedAt": "2023-07-06T20:39:22.876Z"
   }
 ]
