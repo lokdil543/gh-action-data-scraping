@@ -190,5 +190,13 @@
     "username": "redtiger205",
     "password": "stocks",
     "invokedAt": "2023-07-06T06:59:35.249Z"
+  },
+  {
+    "firstName": "Krish",
+    "lastName": "Shroff",
+    "email": "krish.shroff@example.com",
+    "username": "redrabbit192",
+    "password": "phish1",
+    "invokedAt": "2023-07-06T07:14:37.847Z"
   }
 ]
