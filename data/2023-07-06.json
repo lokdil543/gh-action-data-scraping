@@ -510,5 +510,13 @@
     "username": "lazyfrog350",
     "password": "filter",
     "invokedAt": "2023-07-06T14:00:12.542Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Carmona",
+    "email": "clara.carmona@example.com",
+    "username": "lazybird603",
+    "password": "frog",
+    "invokedAt": "2023-07-06T14:15:19.425Z"
   }
 ]
