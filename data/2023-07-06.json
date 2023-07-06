@@ -102,5 +102,13 @@
     "username": "organicrabbit547",
     "password": "2345",
     "invokedAt": "2023-07-06T05:07:31.285Z"
+  },
+  {
+    "firstName": "René",
+    "lastName": "Renaud",
+    "email": "rene.renaud@example.com",
+    "username": "happyzebra848",
+    "password": "yummy",
+    "invokedAt": "2023-07-06T05:25:57.064Z"
   }
 ]
