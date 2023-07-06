@@ -1006,5 +1006,13 @@
     "username": "bluesnake672",
     "password": "xiao",
     "invokedAt": "2023-07-06T23:13:27.538Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Tremblay",
+    "email": "hunter.tremblay@example.com",
+    "username": "brownbutterfly266",
+    "password": "iceberg",
+    "invokedAt": "2023-07-06T23:25:43.078Z"
   }
 ]
