@@ -718,5 +718,13 @@
     "username": "brownlion959",
     "password": "vulcan",
     "invokedAt": "2023-07-07T17:20:00.585Z"
+  },
+  {
+    "firstName": "Snežana",
+    "lastName": "Jakšić",
+    "email": "snezana.jaksic@example.com",
+    "username": "orangetiger365",
+    "password": "pegasus",
+    "invokedAt": "2023-07-07T17:30:29.074Z"
   }
 ]
