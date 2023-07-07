@@ -462,5 +462,13 @@
     "username": "blueostrich401",
     "password": "fruity",
     "invokedAt": "2023-07-07T11:37:47.258Z"
+  },
+  {
+    "firstName": "Dragojlo",
+    "lastName": "Jović",
+    "email": "dragojlo.jovic@example.com",
+    "username": "bluefish605",
+    "password": "dreamer",
+    "invokedAt": "2023-07-07T11:43:40.038Z"
   }
 ]
