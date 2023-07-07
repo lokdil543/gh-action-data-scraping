@@ -446,5 +446,13 @@
     "username": "bluesnake191",
     "password": "lestat",
     "invokedAt": "2023-07-07T11:25:24.004Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Thompson",
+    "email": "liam.thompson@example.com",
+    "username": "heavyswan354",
+    "password": "travel",
+    "invokedAt": "2023-07-07T11:31:38.625Z"
   }
 ]
