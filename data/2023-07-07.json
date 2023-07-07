@@ -382,5 +382,13 @@
     "username": "lazyleopard703",
     "password": "video1",
     "invokedAt": "2023-07-07T10:10:06.567Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Mitchell",
+    "email": "liam.mitchell@example.com",
+    "username": "purpleleopard965",
+    "password": "capital",
+    "invokedAt": "2023-07-07T10:29:51.363Z"
   }
 ]
