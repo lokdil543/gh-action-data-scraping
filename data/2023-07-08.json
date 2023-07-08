@@ -126,5 +126,13 @@
     "username": "redbird636",
     "password": "123321",
     "invokedAt": "2023-07-08T05:23:55.126Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Tuğlu",
+    "email": "coskun.tuglu@example.com",
+    "username": "smallwolf626",
+    "password": "camaro",
+    "invokedAt": "2023-07-08T05:30:55.427Z"
   }
 ]
