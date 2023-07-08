@@ -470,5 +470,13 @@
     "username": "purplegoose412",
     "password": "brenda",
     "invokedAt": "2023-07-08T11:13:52.982Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Petersen",
+    "email": "oscar.petersen@example.com",
+    "username": "orangezebra187",
+    "password": "dalejr",
+    "invokedAt": "2023-07-08T11:20:54.279Z"
   }
 ]
