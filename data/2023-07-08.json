@@ -158,5 +158,13 @@
     "username": "whitesnake402",
     "password": "ncc1701e",
     "invokedAt": "2023-07-08T05:48:52.212Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Parra",
+    "email": "felipe.parra@example.com",
+    "username": "smallpanda426",
+    "password": "12345",
+    "invokedAt": "2023-07-08T05:54:49.066Z"
   }
 ]
