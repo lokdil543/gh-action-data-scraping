@@ -78,5 +78,13 @@
     "username": "brownbear802",
     "password": "molson",
     "invokedAt": "2023-07-09T04:38:11.376Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Chen",
+    "email": "sarah.chen@example.com",
+    "username": "lazybird366",
+    "password": "giggles",
+    "invokedAt": "2023-07-09T04:44:05.215Z"
   }
 ]
