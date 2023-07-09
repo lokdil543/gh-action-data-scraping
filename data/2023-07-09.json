@@ -758,5 +758,13 @@
     "username": "bigdog910",
     "password": "favorite6",
     "invokedAt": "2023-07-09T17:00:04.938Z"
+  },
+  {
+    "firstName": "Emmeli",
+    "lastName": "Skogvoll",
+    "email": "emmeli.skogvoll@example.com",
+    "username": "organiccat528",
+    "password": "kangaroo",
+    "invokedAt": "2023-07-09T17:12:33.806Z"
   }
 ]
