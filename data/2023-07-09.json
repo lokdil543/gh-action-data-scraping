@@ -862,5 +862,13 @@
     "username": "whitefrog218",
     "password": "superior",
     "invokedAt": "2023-07-09T18:53:37.542Z"
+  },
+  {
+    "firstName": "Eskil",
+    "lastName": "Sharif",
+    "email": "eskil.sharif@example.com",
+    "username": "browntiger287",
+    "password": "pippo",
+    "invokedAt": "2023-07-09T18:59:24.966Z"
   }
 ]
