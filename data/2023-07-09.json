@@ -734,5 +734,13 @@
     "username": "whitebird573",
     "password": "steffen",
     "invokedAt": "2023-07-09T16:42:11.056Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Lecomte",
+    "email": "ana.lecomte@example.com",
+    "username": "lazybird727",
+    "password": "everton",
+    "invokedAt": "2023-07-09T16:48:13.070Z"
   }
 ]
