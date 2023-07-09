@@ -1086,5 +1086,13 @@
     "username": "blackcat667",
     "password": "lambda",
     "invokedAt": "2023-07-09T22:28:08.747Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Kumar",
+    "email": "arthur.kumar@example.com",
+    "username": "blackpeacock629",
+    "password": "nacked",
+    "invokedAt": "2023-07-09T22:35:28.644Z"
   }
 ]
