@@ -142,5 +142,13 @@
     "username": "yellowlion568",
     "password": "49ers",
     "invokedAt": "2023-07-09T05:43:08.432Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Hunt",
+    "email": "maria.hunt@example.com",
+    "username": "greenrabbit493",
+    "password": "othello",
+    "invokedAt": "2023-07-09T05:49:09.722Z"
   }
 ]
