@@ -854,5 +854,13 @@
     "username": "blackfrog895",
     "password": "magic",
     "invokedAt": "2023-07-09T18:47:37.449Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Lee",
+    "email": "anna.lee@example.com",
+    "username": "whitefrog218",
+    "password": "superior",
+    "invokedAt": "2023-07-09T18:53:37.542Z"
   }
 ]
