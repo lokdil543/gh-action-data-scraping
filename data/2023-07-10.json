@@ -990,5 +990,13 @@
     "username": "bigdog574",
     "password": "search",
     "invokedAt": "2023-07-10T22:34:09.274Z"
+  },
+  {
+    "firstName": "Thérèse",
+    "lastName": "Roche",
+    "email": "therese.roche@example.com",
+    "username": "blackduck534",
+    "password": "crusty",
+    "invokedAt": "2023-07-10T22:39:59.908Z"
   }
 ]
