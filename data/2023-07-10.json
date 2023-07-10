@@ -574,5 +574,13 @@
     "username": "heavyostrich385",
     "password": "chair",
     "invokedAt": "2023-07-10T14:49:18.029Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Barnes",
+    "email": "kathy.barnes@example.com",
+    "username": "brownostrich841",
+    "password": "chains",
+    "invokedAt": "2023-07-10T14:55:16.142Z"
   }
 ]
