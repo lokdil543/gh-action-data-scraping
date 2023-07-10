@@ -526,5 +526,13 @@
     "username": "beautifulgorilla769",
     "password": "pepper",
     "invokedAt": "2023-07-10T13:52:41.003Z"
+  },
+  {
+    "firstName": "Janis",
+    "lastName": "Muller",
+    "email": "janis.muller@example.com",
+    "username": "bluebird321",
+    "password": "tweety",
+    "invokedAt": "2023-07-10T13:58:37.548Z"
   }
 ]
