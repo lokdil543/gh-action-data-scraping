@@ -158,5 +158,13 @@
     "username": "lazyfish428",
     "password": "bobafett",
     "invokedAt": "2023-07-10T05:59:41.887Z"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "White",
+    "email": "mason.white@example.com",
+    "username": "bigbird319",
+    "password": "tototo",
+    "invokedAt": "2023-07-10T06:20:00.393Z"
   }
 ]
