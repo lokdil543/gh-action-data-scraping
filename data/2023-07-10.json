@@ -382,5 +382,13 @@
     "username": "bluewolf907",
     "password": "enter1",
     "invokedAt": "2023-07-10T10:37:03.257Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Serrano",
+    "email": "samuel.serrano@example.com",
+    "username": "crazyelephant459",
+    "password": "cigar",
+    "invokedAt": "2023-07-10T10:43:36.030Z"
   }
 ]
