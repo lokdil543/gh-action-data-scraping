@@ -990,5 +990,13 @@
     "username": "goldensnake269",
     "password": "chess",
     "invokedAt": "2023-07-11T21:45:24.540Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Johansen",
+    "email": "carl.johansen@example.com",
+    "username": "happyleopard299",
+    "password": "post",
+    "invokedAt": "2023-07-11T21:50:41.942Z"
   }
 ]
