@@ -766,5 +766,13 @@
     "username": "happypanda138",
     "password": "blonds",
     "invokedAt": "2023-07-11T17:57:15.847Z"
+  },
+  {
+    "firstName": "Anupama",
+    "lastName": "Banerjee",
+    "email": "anupama.banerjee@example.com",
+    "username": "bigbutterfly202",
+    "password": "play",
+    "invokedAt": "2023-07-11T18:12:38.386Z"
   }
 ]
