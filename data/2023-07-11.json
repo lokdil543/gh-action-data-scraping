@@ -1070,5 +1070,13 @@
     "username": "greenduck857",
     "password": "swimming",
     "invokedAt": "2023-07-11T23:10:45.441Z"
+  },
+  {
+    "firstName": "Aitor",
+    "lastName": "Sánchez",
+    "email": "aitor.sanchez@example.com",
+    "username": "brownbird665",
+    "password": "ping",
+    "invokedAt": "2023-07-11T23:23:00.529Z"
   }
 ]
