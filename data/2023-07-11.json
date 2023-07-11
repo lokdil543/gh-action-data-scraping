@@ -606,5 +606,13 @@
     "username": "tinykoala166",
     "password": "feet",
     "invokedAt": "2023-07-11T14:54:15.152Z"
+  },
+  {
+    "firstName": "Vlatko",
+    "lastName": "Jakšić",
+    "email": "vlatko.jaksic@example.com",
+    "username": "sadbird288",
+    "password": "string",
+    "invokedAt": "2023-07-11T15:00:14.309Z"
   }
 ]
