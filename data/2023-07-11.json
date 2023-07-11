@@ -486,5 +486,13 @@
     "username": "sadpeacock549",
     "password": "susan",
     "invokedAt": "2023-07-11T11:49:29.573Z"
+  },
+  {
+    "firstName": "Nastya",
+    "lastName": "Chebikin",
+    "email": "nastya.chebikin@example.com",
+    "username": "lazyladybug888",
+    "password": "stormy",
+    "invokedAt": "2023-07-11T11:55:33.313Z"
   }
 ]
