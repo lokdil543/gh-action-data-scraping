@@ -902,5 +902,13 @@
     "username": "blackelephant866",
     "password": "switch",
     "invokedAt": "2023-07-13T20:26:31.612Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "George",
+    "email": "jeremy.george@example.com",
+    "username": "bluecat952",
+    "password": "gateway",
+    "invokedAt": "2023-07-13T20:32:53.842Z"
   }
 ]
