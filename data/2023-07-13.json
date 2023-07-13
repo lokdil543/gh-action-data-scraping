@@ -622,5 +622,13 @@
     "username": "blackpanda520",
     "password": "john316",
     "invokedAt": "2023-07-13T15:24:52.590Z"
+  },
+  {
+    "firstName": "Jakov",
+    "lastName": "Šarović",
+    "email": "jakov.sarovic@example.com",
+    "username": "blackkoala739",
+    "password": "candy",
+    "invokedAt": "2023-07-13T15:30:56.950Z"
   }
 ]
