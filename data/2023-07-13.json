@@ -374,5 +374,13 @@
     "username": "tinyfrog365",
     "password": "potato",
     "invokedAt": "2023-07-13T09:56:28.102Z"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Johnston",
+    "email": "monica.johnston@example.com",
+    "username": "silverfrog839",
+    "password": "abcde",
+    "invokedAt": "2023-07-13T10:09:07.565Z"
   }
 ]
