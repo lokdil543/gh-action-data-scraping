@@ -246,5 +246,13 @@
     "username": "orangebear780",
     "password": "indians",
     "invokedAt": "2023-07-13T07:42:23.601Z"
+  },
+  {
+    "firstName": "Guy",
+    "lastName": "Meyer",
+    "email": "guy.meyer@example.com",
+    "username": "bluepeacock235",
+    "password": "brendan",
+    "invokedAt": "2023-07-13T07:48:28.873Z"
   }
 ]
