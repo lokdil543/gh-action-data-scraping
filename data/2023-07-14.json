@@ -1022,5 +1022,13 @@
     "username": "sadcat228",
     "password": "exotic",
     "invokedAt": "2023-07-14T21:50:18.137Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Morris",
+    "email": "tom.morris@example.com",
+    "username": "sadleopard824",
+    "password": "hopper",
+    "invokedAt": "2023-07-14T21:56:13.364Z"
   }
 ]
