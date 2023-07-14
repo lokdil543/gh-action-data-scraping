@@ -830,5 +830,13 @@
     "username": "crazypanda516",
     "password": "concorde",
     "invokedAt": "2023-07-14T18:53:00.325Z"
+  },
+  {
+    "firstName": "Severin",
+    "lastName": "Lefebvre",
+    "email": "severin.lefebvre@example.com",
+    "username": "crazydog443",
+    "password": "lipstick",
+    "invokedAt": "2023-07-14T18:58:53.169Z"
   }
 ]
