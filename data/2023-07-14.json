@@ -222,5 +222,13 @@
     "username": "tinyfrog965",
     "password": "blizzard",
     "invokedAt": "2023-07-14T07:13:39.206Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Jensen",
+    "email": "silje.jensen@example.com",
+    "username": "smallfish124",
+    "password": "neutron",
+    "invokedAt": "2023-07-14T07:23:42.726Z"
   }
 ]
