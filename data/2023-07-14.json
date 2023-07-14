@@ -782,5 +782,13 @@
     "username": "heavytiger243",
     "password": "gamma",
     "invokedAt": "2023-07-14T17:54:13.905Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Roberts",
+    "email": "aaron.roberts@example.com",
+    "username": "silvertiger993",
+    "password": "chris",
+    "invokedAt": "2023-07-14T18:00:09.451Z"
   }
 ]
