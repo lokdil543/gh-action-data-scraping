@@ -182,5 +182,13 @@
     "username": "happyfish359",
     "password": "searay",
     "invokedAt": "2023-07-14T06:31:17.328Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Williams",
+    "email": "sam.williams@example.com",
+    "username": "tinyrabbit354",
+    "password": "temp",
+    "invokedAt": "2023-07-14T06:41:55.396Z"
   }
 ]
