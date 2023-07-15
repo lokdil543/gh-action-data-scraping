@@ -54,5 +54,13 @@
     "username": "blueduck112",
     "password": "cinder",
     "invokedAt": "2023-07-15T03:58:02.153Z"
+  },
+  {
+    "firstName": "Airton",
+    "lastName": "da Rocha",
+    "email": "airton.darocha@example.com",
+    "username": "browndog602",
+    "password": "noway",
+    "invokedAt": "2023-07-15T04:13:07.523Z"
   }
 ]
