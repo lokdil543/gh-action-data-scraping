@@ -966,5 +966,13 @@
     "username": "purplerabbit260",
     "password": "coffee",
     "invokedAt": "2023-07-15T20:30:12.115Z"
+  },
+  {
+    "firstName": "Inès",
+    "lastName": "Fabre",
+    "email": "ines.fabre@example.com",
+    "username": "blackbutterfly224",
+    "password": "train",
+    "invokedAt": "2023-07-15T20:36:37.449Z"
   }
 ]
