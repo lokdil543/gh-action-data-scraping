@@ -822,5 +822,13 @@
     "username": "bigpanda593",
     "password": "queens",
     "invokedAt": "2023-07-15T18:07:45.088Z"
+  },
+  {
+    "firstName": "Bernd",
+    "lastName": "Gehrke",
+    "email": "bernd.gehrke@example.com",
+    "username": "happypanda708",
+    "password": "nostromo",
+    "invokedAt": "2023-07-15T18:26:07.276Z"
   }
 ]
