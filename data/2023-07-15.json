@@ -262,5 +262,13 @@
     "username": "redcat840",
     "password": "trigger",
     "invokedAt": "2023-07-15T07:49:22.089Z"
+  },
+  {
+    "firstName": "Terje",
+    "lastName": "Lauritzen",
+    "email": "terje.lauritzen@example.com",
+    "username": "blackfrog760",
+    "password": "nightwin",
+    "invokedAt": "2023-07-15T07:55:26.966Z"
   }
 ]
