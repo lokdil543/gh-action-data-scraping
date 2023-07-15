@@ -526,5 +526,13 @@
     "username": "smallswan656",
     "password": "west",
     "invokedAt": "2023-07-15T12:46:59.147Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Horton",
+    "email": "luke.horton@example.com",
+    "username": "happysnake727",
+    "password": "antelope",
+    "invokedAt": "2023-07-15T13:03:35.301Z"
   }
 ]
