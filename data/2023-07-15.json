@@ -102,5 +102,13 @@
     "username": "bluebird159",
     "password": "chips",
     "invokedAt": "2023-07-15T04:55:50.532Z"
+  },
+  {
+    "firstName": "Günter",
+    "lastName": "Lieder",
+    "email": "gunter.lieder@example.com",
+    "username": "orangeduck428",
+    "password": "series",
+    "invokedAt": "2023-07-15T05:06:59.230Z"
   }
 ]
