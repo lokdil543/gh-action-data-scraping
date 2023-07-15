@@ -678,5 +678,13 @@
     "username": "blackbird190",
     "password": "rockstar",
     "invokedAt": "2023-07-15T15:34:45.225Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Sanchez",
+    "email": "bastien.sanchez@example.com",
+    "username": "blackpanda598",
+    "password": "billbill",
+    "invokedAt": "2023-07-15T15:40:34.777Z"
   }
 ]
