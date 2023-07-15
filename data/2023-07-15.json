@@ -1126,5 +1126,13 @@
     "username": "bigtiger869",
     "password": "amelia",
     "invokedAt": "2023-07-15T22:55:11.204Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Blažić",
+    "email": "dusan.blazic@example.com",
+    "username": "sadtiger806",
+    "password": "hotbox",
+    "invokedAt": "2023-07-15T23:03:23.792Z"
   }
 ]
