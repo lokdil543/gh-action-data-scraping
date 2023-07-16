@@ -214,5 +214,13 @@
     "username": "yellowlion899",
     "password": "2001",
     "invokedAt": "2023-07-16T07:01:47.944Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Watson",
+    "email": "caitlin.watson@example.com",
+    "username": "beautifulmouse223",
+    "password": "bounce",
+    "invokedAt": "2023-07-16T07:16:06.659Z"
   }
 ]
