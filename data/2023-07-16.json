@@ -998,5 +998,13 @@
     "username": "orangesnake692",
     "password": "groups",
     "invokedAt": "2023-07-16T20:51:44.312Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Gill",
+    "email": "jack.gill@example.com",
+    "username": "heavygorilla947",
+    "password": "security",
+    "invokedAt": "2023-07-16T20:57:36.120Z"
   }
 ]
