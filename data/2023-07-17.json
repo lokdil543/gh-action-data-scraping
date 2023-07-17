@@ -774,5 +774,13 @@
     "username": "greenpeacock705",
     "password": "password",
     "invokedAt": "2023-07-17T18:49:15.047Z"
+  },
+  {
+    "firstName": "Elli",
+    "lastName": "Lammi",
+    "email": "elli.lammi@example.com",
+    "username": "brownrabbit302",
+    "password": "mailman",
+    "invokedAt": "2023-07-17T18:55:14.638Z"
   }
 ]
