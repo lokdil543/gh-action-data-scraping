@@ -782,5 +782,13 @@
     "username": "brownrabbit302",
     "password": "mailman",
     "invokedAt": "2023-07-17T18:55:14.638Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Numanoğlu",
+    "email": "kenan.numanoglu@example.com",
+    "username": "brownswan359",
+    "password": "anchor",
+    "invokedAt": "2023-07-17T19:02:52.317Z"
   }
 ]
