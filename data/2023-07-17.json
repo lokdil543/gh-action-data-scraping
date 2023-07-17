@@ -350,5 +350,13 @@
     "username": "smallbear820",
     "password": "adult",
     "invokedAt": "2023-07-17T09:51:03.138Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Mortensen",
+    "email": "felix.mortensen@example.com",
+    "username": "yellowbear947",
+    "password": "pooter",
+    "invokedAt": "2023-07-17T09:56:56.081Z"
   }
 ]
