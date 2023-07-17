@@ -198,5 +198,13 @@
     "username": "angrypanda622",
     "password": "magic",
     "invokedAt": "2023-07-17T06:56:31.851Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Richards",
+    "email": "roger.richards@example.com",
+    "username": "heavymouse711",
+    "password": "alaska",
+    "invokedAt": "2023-07-17T07:08:50.201Z"
   }
 ]
