@@ -166,5 +166,13 @@
     "username": "orangewolf320",
     "password": "mets",
     "invokedAt": "2023-07-17T06:19:03.067Z"
+  },
+  {
+    "firstName": "Sandro",
+    "lastName": "Meyer",
+    "email": "sandro.meyer@example.com",
+    "username": "greenpeacock348",
+    "password": "poipoi",
+    "invokedAt": "2023-07-17T06:35:00.345Z"
   }
 ]
