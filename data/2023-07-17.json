@@ -454,5 +454,13 @@
     "username": "bigpanda138",
     "password": "cerberus",
     "invokedAt": "2023-07-17T11:44:35.638Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Niemi",
+    "email": "otto.niemi@example.com",
+    "username": "sadduck904",
+    "password": "bitter",
+    "invokedAt": "2023-07-17T11:50:25.473Z"
   }
 ]
