@@ -1006,5 +1006,13 @@
     "username": "bigsnake381",
     "password": "tupac",
     "invokedAt": "2023-07-17T22:35:55.223Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Wagner",
+    "email": "jessica.wagner@example.com",
+    "username": "angryfish841",
+    "password": "hammer",
+    "invokedAt": "2023-07-17T22:41:48.902Z"
   }
 ]
