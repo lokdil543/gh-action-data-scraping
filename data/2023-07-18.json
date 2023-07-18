@@ -638,5 +638,13 @@
     "username": "orangeduck112",
     "password": "stick",
     "invokedAt": "2023-07-18T14:46:06.190Z"
+  },
+  {
+    "firstName": "Nagesh",
+    "lastName": "Dalvi",
+    "email": "nagesh.dalvi@example.com",
+    "username": "blackfish308",
+    "password": "ophelia",
+    "invokedAt": "2023-07-18T14:52:08.012Z"
   }
 ]
