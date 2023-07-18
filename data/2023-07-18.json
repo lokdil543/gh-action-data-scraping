@@ -262,5 +262,13 @@
     "username": "silvertiger927",
     "password": "terminal",
     "invokedAt": "2023-07-18T07:34:53.719Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Pelletier",
+    "email": "arthur.pelletier@example.com",
+    "username": "lazymouse752",
+    "password": "456456",
+    "invokedAt": "2023-07-18T07:40:42.073Z"
   }
 ]
