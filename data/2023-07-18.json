@@ -422,5 +422,13 @@
     "username": "lazybear539",
     "password": "extra",
     "invokedAt": "2023-07-18T10:28:45.503Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Hertel",
+    "email": "benjamin.hertel@example.com",
+    "username": "angrymouse107",
+    "password": "10101010",
+    "invokedAt": "2023-07-18T10:37:04.072Z"
   }
 ]
