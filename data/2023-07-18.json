@@ -334,5 +334,13 @@
     "username": "whitefrog828",
     "password": "marker",
     "invokedAt": "2023-07-18T08:49:52.416Z"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Brown",
+    "email": "chloe.brown@example.com",
+    "username": "angrygorilla787",
+    "password": "animal",
+    "invokedAt": "2023-07-18T08:55:44.233Z"
   }
 ]
