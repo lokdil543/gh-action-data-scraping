@@ -414,5 +414,13 @@
     "username": "yellowmouse896",
     "password": "temppass",
     "invokedAt": "2023-07-18T10:10:55.132Z"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Laitinen",
+    "email": "lauri.laitinen@example.com",
+    "username": "lazybear539",
+    "password": "extra",
+    "invokedAt": "2023-07-18T10:28:45.503Z"
   }
 ]
