@@ -558,5 +558,13 @@
     "username": "tinyrabbit622",
     "password": "weather",
     "invokedAt": "2023-07-19T13:47:56.579Z"
+  },
+  {
+    "firstName": "Samarth",
+    "lastName": "Kouser",
+    "email": "samarth.kouser@example.com",
+    "username": "purplezebra277",
+    "password": "custom",
+    "invokedAt": "2023-07-19T13:53:58.854Z"
   }
 ]
