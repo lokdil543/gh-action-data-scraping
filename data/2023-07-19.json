@@ -710,5 +710,13 @@
     "username": "bluepeacock184",
     "password": "umpire",
     "invokedAt": "2023-07-19T16:30:30.648Z"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "West",
+    "email": "alan.west@example.com",
+    "username": "crazycat687",
+    "password": "nobody",
+    "invokedAt": "2023-07-19T16:39:48.303Z"
   }
 ]
