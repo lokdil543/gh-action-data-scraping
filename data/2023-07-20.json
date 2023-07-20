@@ -510,5 +510,13 @@
     "username": "goldenduck245",
     "password": "tracer",
     "invokedAt": "2023-07-20T10:41:10.423Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Özkara",
+    "email": "gokhan.ozkara@example.com",
+    "username": "brownbear846",
+    "password": "slipper",
+    "invokedAt": "2023-07-20T10:47:05.012Z"
   }
 ]
