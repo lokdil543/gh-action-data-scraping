@@ -582,5 +582,13 @@
     "username": "bigfish340",
     "password": "beach",
     "invokedAt": "2023-07-20T11:42:12.877Z"
+  },
+  {
+    "firstName": "Gaël",
+    "lastName": "Dupuis",
+    "email": "gael.dupuis@example.com",
+    "username": "smallfrog497",
+    "password": "china",
+    "invokedAt": "2023-07-20T11:48:18.594Z"
   }
 ]
