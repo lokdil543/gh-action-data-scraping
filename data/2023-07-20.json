@@ -958,5 +958,13 @@
     "username": "browntiger213",
     "password": "scuba",
     "invokedAt": "2023-07-20T18:53:27.378Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Amador",
+    "email": "valentin.amador@example.com",
+    "username": "blackbird918",
+    "password": "boxcar",
+    "invokedAt": "2023-07-20T18:59:25.175Z"
   }
 ]
