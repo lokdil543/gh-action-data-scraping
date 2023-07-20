@@ -966,5 +966,13 @@
     "username": "blackbird918",
     "password": "boxcar",
     "invokedAt": "2023-07-20T18:59:25.175Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Thomsen",
+    "email": "valdemar.thomsen@example.com",
+    "username": "silverdog192",
+    "password": "freak",
+    "invokedAt": "2023-07-20T19:10:11.599Z"
   }
 ]
