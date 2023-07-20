@@ -310,5 +310,13 @@
     "username": "yellowmouse497",
     "password": "teenage",
     "invokedAt": "2023-07-20T07:23:11.243Z"
+  },
+  {
+    "firstName": "Brent",
+    "lastName": "Stevens",
+    "email": "brent.stevens@example.com",
+    "username": "yellowmouse510",
+    "password": "lemonade",
+    "invokedAt": "2023-07-20T07:29:05.696Z"
   }
 ]
