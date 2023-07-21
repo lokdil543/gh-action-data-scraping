@@ -494,5 +494,13 @@
     "username": "crazymouse402",
     "password": "nine",
     "invokedAt": "2023-07-21T10:31:58.277Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Johnson",
+    "email": "oscar.johnson@example.com",
+    "username": "goldenbird706",
+    "password": "nymets",
+    "invokedAt": "2023-07-21T10:37:57.390Z"
   }
 ]
