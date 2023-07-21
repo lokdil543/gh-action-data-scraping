@@ -310,5 +310,13 @@
     "username": "bigcat568",
     "password": "0000",
     "invokedAt": "2023-07-21T07:26:20.416Z"
+  },
+  {
+    "firstName": "Fedora",
+    "lastName": "Golubovska",
+    "email": "fedora.golubovska@example.com",
+    "username": "angryelephant703",
+    "password": "lekker",
+    "invokedAt": "2023-07-21T07:32:32.125Z"
   }
 ]
