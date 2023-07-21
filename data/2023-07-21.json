@@ -278,5 +278,13 @@
     "username": "silvergorilla644",
     "password": "player1",
     "invokedAt": "2023-07-21T06:53:48.210Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Armstrong",
+    "email": "bob.armstrong@example.com",
+    "username": "orangebutterfly105",
+    "password": "radio",
+    "invokedAt": "2023-07-21T06:59:45.945Z"
   }
 ]
