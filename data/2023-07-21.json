@@ -182,5 +182,13 @@
     "username": "goldenlion338",
     "password": "5551212",
     "invokedAt": "2023-07-21T05:21:09.454Z"
+  },
+  {
+    "firstName": "Zorica",
+    "lastName": "Damjanović",
+    "email": "zorica.damjanovic@example.com",
+    "username": "blueelephant943",
+    "password": "grateful",
+    "invokedAt": "2023-07-21T05:28:18.338Z"
   }
 ]
