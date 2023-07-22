@@ -598,5 +598,13 @@
     "username": "happyleopard861",
     "password": "pippen",
     "invokedAt": "2023-07-22T11:35:40.691Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Van der Maat",
+    "email": "danny.vandermaat@example.com",
+    "username": "redtiger350",
+    "password": "apples",
+    "invokedAt": "2023-07-22T11:41:31.007Z"
   }
 ]
