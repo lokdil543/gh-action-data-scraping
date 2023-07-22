@@ -966,5 +966,13 @@
     "username": "yellowleopard332",
     "password": "jermaine",
     "invokedAt": "2023-07-22T17:52:16.605Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Lampinen",
+    "email": "anton.lampinen@example.com",
+    "username": "lazycat616",
+    "password": "waldo",
+    "invokedAt": "2023-07-22T17:57:59.332Z"
   }
 ]
