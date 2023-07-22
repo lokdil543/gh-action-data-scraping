@@ -510,5 +510,13 @@
     "username": "greentiger415",
     "password": "brains",
     "invokedAt": "2023-07-22T10:24:34.087Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Petersen",
+    "email": "ida.petersen@example.com",
+    "username": "browndog299",
+    "password": "112233",
+    "invokedAt": "2023-07-22T10:30:26.381Z"
   }
 ]
