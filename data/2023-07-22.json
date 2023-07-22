@@ -846,5 +846,13 @@
     "username": "orangepanda212",
     "password": "pauline",
     "invokedAt": "2023-07-22T15:53:44.270Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Ouellet",
+    "email": "clara.ouellet@example.com",
+    "username": "tinykoala342",
+    "password": "miles",
+    "invokedAt": "2023-07-22T15:59:37.447Z"
   }
 ]
