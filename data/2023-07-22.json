@@ -926,5 +926,13 @@
     "username": "sadbutterfly628",
     "password": "eight",
     "invokedAt": "2023-07-22T17:22:17.605Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Thomsen",
+    "email": "christian.thomsen@example.com",
+    "username": "tinylion980",
+    "password": "a12345",
+    "invokedAt": "2023-07-22T17:28:26.444Z"
   }
 ]
