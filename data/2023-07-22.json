@@ -1350,5 +1350,13 @@
     "username": "orangeostrich271",
     "password": "redfish",
     "invokedAt": "2023-07-22T23:37:44.305Z"
+  },
+  {
+    "firstName": "Srđan",
+    "lastName": "Zelenović",
+    "email": "srdan.zelenovic@example.com",
+    "username": "smallpanda422",
+    "password": "cooter",
+    "invokedAt": "2023-07-22T23:43:42.533Z"
   }
 ]
