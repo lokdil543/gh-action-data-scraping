@@ -718,5 +718,13 @@
     "username": "crazydog579",
     "password": "karate",
     "invokedAt": "2023-07-22T13:57:42.148Z"
+  },
+  {
+    "firstName": "Sandro",
+    "lastName": "Nguyen",
+    "email": "sandro.nguyen@example.com",
+    "username": "smallpanda104",
+    "password": "popo",
+    "invokedAt": "2023-07-22T14:07:59.554Z"
   }
 ]
