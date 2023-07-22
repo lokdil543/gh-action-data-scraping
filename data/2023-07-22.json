@@ -494,5 +494,13 @@
     "username": "silverfish767",
     "password": "stocking",
     "invokedAt": "2023-07-22T09:58:15.226Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Pena",
+    "email": "zoe.pena@example.com",
+    "username": "purplefish244",
+    "password": "misha",
+    "invokedAt": "2023-07-22T10:10:10.190Z"
   }
 ]
