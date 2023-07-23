@@ -238,5 +238,13 @@
     "username": "yellowdog540",
     "password": "swim",
     "invokedAt": "2023-07-23T06:16:35.583Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Li",
+    "email": "cameron.li@example.com",
+    "username": "whiteswan715",
+    "password": "watford",
+    "invokedAt": "2023-07-23T06:28:28.462Z"
   }
 ]
