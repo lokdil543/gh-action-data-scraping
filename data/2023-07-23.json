@@ -1158,5 +1158,13 @@
     "username": "smallsnake169",
     "password": "andromed",
     "invokedAt": "2023-07-23T20:58:10.731Z"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Jenkins",
+    "email": "mason.jenkins@example.com",
+    "username": "bluefish412",
+    "password": "abcde",
+    "invokedAt": "2023-07-23T21:09:06.756Z"
   }
 ]
