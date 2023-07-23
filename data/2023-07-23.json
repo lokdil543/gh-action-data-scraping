@@ -846,5 +846,13 @@
     "username": "yellowrabbit243",
     "password": "aloha",
     "invokedAt": "2023-07-23T16:13:59.265Z"
+  },
+  {
+    "firstName": "Tatiana",
+    "lastName": "Vlahović",
+    "email": "tatiana.vlahovic@example.com",
+    "username": "heavymouse148",
+    "password": "longer",
+    "invokedAt": "2023-07-23T16:28:30.589Z"
   }
 ]
