@@ -198,5 +198,13 @@
     "username": "blackcat442",
     "password": "sigma",
     "invokedAt": "2023-07-23T05:35:40.128Z"
+  },
+  {
+    "firstName": "Ragna",
+    "lastName": "Kowalski",
+    "email": "ragna.kowalski@example.com",
+    "username": "silvermouse320",
+    "password": "hayley",
+    "invokedAt": "2023-07-23T05:41:49.883Z"
   }
 ]
