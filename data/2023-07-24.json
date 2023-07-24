@@ -758,5 +758,13 @@
     "username": "silverfrog838",
     "password": "sausages",
     "invokedAt": "2023-07-24T15:43:38.773Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Andrews",
+    "email": "danny.andrews@example.com",
+    "username": "silverrabbit852",
+    "password": "catcher",
+    "invokedAt": "2023-07-24T15:49:31.303Z"
   }
 ]
