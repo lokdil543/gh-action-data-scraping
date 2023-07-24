@@ -718,5 +718,13 @@
     "username": "goldenpeacock255",
     "password": "thewho",
     "invokedAt": "2023-07-24T15:00:15.828Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Skjølberg",
+    "email": "tim.skjolberg@example.com",
+    "username": "sadcat365",
+    "password": "boots",
+    "invokedAt": "2023-07-24T15:14:59.578Z"
   }
 ]
