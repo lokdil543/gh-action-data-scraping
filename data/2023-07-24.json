@@ -958,5 +958,13 @@
     "username": "silverdog719",
     "password": "infinity",
     "invokedAt": "2023-07-24T19:17:45.380Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Gil",
+    "email": "pedro.gil@example.com",
+    "username": "yellowpanda981",
+    "password": "military",
+    "invokedAt": "2023-07-24T19:23:39.327Z"
   }
 ]
