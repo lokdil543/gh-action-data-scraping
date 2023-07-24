@@ -318,5 +318,13 @@
     "username": "whiteduck191",
     "password": "becky",
     "invokedAt": "2023-07-24T07:41:51.445Z"
+  },
+  {
+    "firstName": "Belén",
+    "lastName": "Pascual",
+    "email": "belen.pascual@example.com",
+    "username": "whiteduck136",
+    "password": "frank1",
+    "invokedAt": "2023-07-24T07:48:00.652Z"
   }
 ]
