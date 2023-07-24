@@ -518,5 +518,13 @@
     "username": "purplebear121",
     "password": "scorpion",
     "invokedAt": "2023-07-24T11:10:03.980Z"
+  },
+  {
+    "firstName": "Božo",
+    "lastName": "Tomić",
+    "email": "bozo.tomic@example.com",
+    "username": "bigdog301",
+    "password": "f**k",
+    "invokedAt": "2023-07-24T11:18:08.986Z"
   }
 ]
