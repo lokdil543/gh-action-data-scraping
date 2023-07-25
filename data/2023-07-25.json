@@ -262,5 +262,13 @@
     "username": "redgorilla799",
     "password": "tsunami",
     "invokedAt": "2023-07-25T07:00:13.804Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Benavides",
+    "email": "ana.benavides@example.com",
+    "username": "happybird545",
+    "password": "sprite",
+    "invokedAt": "2023-07-25T07:13:22.125Z"
   }
 ]
