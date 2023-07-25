@@ -462,5 +462,13 @@
     "username": "bluelion597",
     "password": "enforcer",
     "invokedAt": "2023-07-25T10:29:02.296Z"
+  },
+  {
+    "firstName": "Quentin",
+    "lastName": "Laurent",
+    "email": "quentin.laurent@example.com",
+    "username": "purplebutterfly509",
+    "password": "foxtrot",
+    "invokedAt": "2023-07-25T10:36:01.511Z"
   }
 ]
