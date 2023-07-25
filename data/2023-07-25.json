@@ -622,5 +622,13 @@
     "username": "greenrabbit601",
     "password": "clock",
     "invokedAt": "2023-07-25T13:40:24.213Z"
+  },
+  {
+    "firstName": "Alexa",
+    "lastName": "Neal",
+    "email": "alexa.neal@example.com",
+    "username": "yellowmouse656",
+    "password": "popcorn",
+    "invokedAt": "2023-07-25T13:46:25.079Z"
   }
 ]
