@@ -366,5 +366,13 @@
     "username": "crazyfrog381",
     "password": "boots",
     "invokedAt": "2023-07-25T08:46:34.470Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Williams",
+    "email": "donald.williams@example.com",
+    "username": "beautifulmeercat765",
+    "password": "helper",
+    "invokedAt": "2023-07-25T08:52:38.602Z"
   }
 ]
