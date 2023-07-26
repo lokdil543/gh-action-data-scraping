@@ -494,5 +494,13 @@
     "username": "smallbutterfly784",
     "password": "peeper",
     "invokedAt": "2023-07-26T10:24:11.097Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Fields",
+    "email": "todd.fields@example.com",
+    "username": "redtiger989",
+    "password": "dodger",
+    "invokedAt": "2023-07-26T10:30:59.173Z"
   }
 ]
