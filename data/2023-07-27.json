@@ -638,5 +638,13 @@
     "username": "smallmouse901",
     "password": "handball",
     "invokedAt": "2023-07-27T12:13:33.580Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Rasmussen",
+    "email": "mikkel.rasmussen@example.com",
+    "username": "smallelephant404",
+    "password": "freedom1",
+    "invokedAt": "2023-07-27T12:43:04.435Z"
   }
 ]
