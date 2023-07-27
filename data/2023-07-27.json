@@ -598,5 +598,13 @@
     "username": "whiterabbit365",
     "password": "wassup",
     "invokedAt": "2023-07-27T11:32:36.101Z"
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "Green",
+    "email": "mitchell.green@example.com",
+    "username": "blueswan308",
+    "password": "martini",
+    "invokedAt": "2023-07-27T11:38:37.476Z"
   }
 ]
