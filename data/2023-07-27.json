@@ -958,5 +958,13 @@
     "username": "greengoose148",
     "password": "school",
     "invokedAt": "2023-07-27T18:07:37.532Z"
+  },
+  {
+    "firstName": "Estela",
+    "lastName": "Vázquez",
+    "email": "estela.vazquez@example.com",
+    "username": "browntiger519",
+    "password": "entropy",
+    "invokedAt": "2023-07-27T18:24:08.296Z"
   }
 ]
