@@ -1294,5 +1294,13 @@
     "username": "greendog172",
     "password": "madison1",
     "invokedAt": "2023-07-27T23:09:57.806Z"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Cooper",
+    "email": "erik.cooper@example.com",
+    "username": "lazygorilla592",
+    "password": "fender",
+    "invokedAt": "2023-07-27T23:18:53.978Z"
   }
 ]
