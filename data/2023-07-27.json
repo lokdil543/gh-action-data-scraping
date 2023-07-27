@@ -726,5 +726,13 @@
     "username": "tinybear150",
     "password": "secret",
     "invokedAt": "2023-07-27T14:23:19.063Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Tucker",
+    "email": "phoebe.tucker@example.com",
+    "username": "angrybird971",
+    "password": "coldplay",
+    "invokedAt": "2023-07-27T14:29:15.352Z"
   }
 ]
