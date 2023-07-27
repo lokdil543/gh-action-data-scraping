@@ -734,5 +734,13 @@
     "username": "angrybird971",
     "password": "coldplay",
     "invokedAt": "2023-07-27T14:29:15.352Z"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "Walker",
+    "email": "riley.walker@example.com",
+    "username": "greenduck791",
+    "password": "chichi",
+    "invokedAt": "2023-07-27T14:35:06.604Z"
   }
 ]
