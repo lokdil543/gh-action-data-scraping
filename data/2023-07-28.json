@@ -926,5 +926,13 @@
     "username": "angrygoose310",
     "password": "maserati",
     "invokedAt": "2023-07-28T17:38:53.382Z"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Hunt",
+    "email": "keith.hunt@example.com",
+    "username": "bigcat472",
+    "password": "dipper",
+    "invokedAt": "2023-07-28T17:44:45.489Z"
   }
 ]
