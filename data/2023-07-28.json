@@ -1254,5 +1254,13 @@
     "username": "greentiger140",
     "password": "winners",
     "invokedAt": "2023-07-28T22:35:20.572Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Salmela",
+    "email": "elsa.salmela@example.com",
+    "username": "redpeacock920",
+    "password": "toto",
+    "invokedAt": "2023-07-28T22:41:11.573Z"
   }
 ]
