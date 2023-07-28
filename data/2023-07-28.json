@@ -1262,5 +1262,13 @@
     "username": "redpeacock920",
     "password": "toto",
     "invokedAt": "2023-07-28T22:41:11.573Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Liu",
+    "email": "arnaud.liu@example.com",
+    "username": "goldendog284",
+    "password": "fordf150",
+    "invokedAt": "2023-07-28T22:47:05.923Z"
   }
 ]
