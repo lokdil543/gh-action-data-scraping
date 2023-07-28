@@ -358,5 +358,13 @@
     "username": "bigduck625",
     "password": "super",
     "invokedAt": "2023-07-28T07:47:42.463Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Hughes",
+    "email": "bill.hughes@example.com",
+    "username": "beautifulgoose591",
+    "password": "diamond1",
+    "invokedAt": "2023-07-28T07:53:42.129Z"
   }
 ]
