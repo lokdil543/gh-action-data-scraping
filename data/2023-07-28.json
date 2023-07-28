@@ -798,5 +798,13 @@
     "username": "happytiger508",
     "password": "italia",
     "invokedAt": "2023-07-28T15:27:56.244Z"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Ryan",
+    "email": "bryan.ryan@example.com",
+    "username": "angrytiger660",
+    "password": "talbot",
+    "invokedAt": "2023-07-28T15:34:43.526Z"
   }
 ]
