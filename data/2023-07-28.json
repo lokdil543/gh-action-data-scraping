@@ -790,5 +790,13 @@
     "username": "blackcat398",
     "password": "bond",
     "invokedAt": "2023-07-28T15:22:05.406Z"
+  },
+  {
+    "firstName": "Lars",
+    "lastName": "Øvergård",
+    "email": "lars.overgard@example.com",
+    "username": "happytiger508",
+    "password": "italia",
+    "invokedAt": "2023-07-28T15:27:56.244Z"
   }
 ]
