@@ -998,5 +998,13 @@
     "username": "lazyostrich725",
     "password": "clayton",
     "invokedAt": "2023-07-28T18:47:41.211Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Peterson",
+    "email": "vincent.peterson@example.com",
+    "username": "tinykoala831",
+    "password": "server",
+    "invokedAt": "2023-07-28T18:53:38.803Z"
   }
 ]
