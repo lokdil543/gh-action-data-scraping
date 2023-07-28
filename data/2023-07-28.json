@@ -846,5 +846,13 @@
     "username": "redbird641",
     "password": "faster",
     "invokedAt": "2023-07-28T16:14:41.118Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Scott",
+    "email": "mario.scott@example.com",
+    "username": "silverfrog700",
+    "password": "kane",
+    "invokedAt": "2023-07-28T16:29:46.199Z"
   }
 ]
