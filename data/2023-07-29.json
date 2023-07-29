@@ -774,5 +774,13 @@
     "username": "crazylion294",
     "password": "spring",
     "invokedAt": "2023-07-29T14:25:06.835Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Nielsen",
+    "email": "simon.nielsen@example.com",
+    "username": "organicfish999",
+    "password": "kristen",
+    "invokedAt": "2023-07-29T14:30:54.186Z"
   }
 ]
