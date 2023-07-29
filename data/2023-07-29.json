@@ -222,5 +222,13 @@
     "username": "goldensnake559",
     "password": "celtics",
     "invokedAt": "2023-07-29T05:34:04.899Z"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Clarke",
+    "email": "aiden.clarke@example.com",
+    "username": "goldencat473",
+    "password": "palmtree",
+    "invokedAt": "2023-07-29T05:40:02.573Z"
   }
 ]
