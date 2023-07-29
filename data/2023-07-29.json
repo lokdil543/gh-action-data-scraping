@@ -158,5 +158,13 @@
     "username": "happyfrog163",
     "password": "longer",
     "invokedAt": "2023-07-29T04:34:45.384Z"
+  },
+  {
+    "firstName": "Syver",
+    "lastName": "Røsnes",
+    "email": "syver.rosnes@example.com",
+    "username": "smallfrog740",
+    "password": "fringe",
+    "invokedAt": "2023-07-29T04:40:50.706Z"
   }
 ]
