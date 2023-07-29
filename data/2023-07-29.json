@@ -638,5 +638,13 @@
     "username": "lazysnake184",
     "password": "bernard",
     "invokedAt": "2023-07-29T11:44:48.137Z"
+  },
+  {
+    "firstName": "Amorim",
+    "lastName": "da Rocha",
+    "email": "amorim.darocha@example.com",
+    "username": "blackelephant621",
+    "password": "charlie123",
+    "invokedAt": "2023-07-29T11:50:37.574Z"
   }
 ]
