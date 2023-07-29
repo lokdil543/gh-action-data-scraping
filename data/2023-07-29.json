@@ -230,5 +230,13 @@
     "username": "goldencat473",
     "password": "palmtree",
     "invokedAt": "2023-07-29T05:40:02.573Z"
+  },
+  {
+    "firstName": "Poppy",
+    "lastName": "Turner",
+    "email": "poppy.turner@example.com",
+    "username": "beautifultiger956",
+    "password": "longer",
+    "invokedAt": "2023-07-29T05:45:55.543Z"
   }
 ]
