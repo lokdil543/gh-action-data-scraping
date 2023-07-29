@@ -1326,5 +1326,13 @@
     "username": "browncat238",
     "password": "red123",
     "invokedAt": "2023-07-29T22:38:07.698Z"
+  },
+  {
+    "firstName": "Ömür",
+    "lastName": "Topçuoğlu",
+    "email": "omur.topcuoglu@example.com",
+    "username": "blacksnake452",
+    "password": "albany",
+    "invokedAt": "2023-07-29T22:44:00.251Z"
   }
 ]
