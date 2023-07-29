@@ -1406,5 +1406,13 @@
     "username": "redbutterfly260",
     "password": "credit",
     "invokedAt": "2023-07-29T23:47:24.057Z"
+  },
+  {
+    "firstName": "Jannis",
+    "lastName": "Funke",
+    "email": "jannis.funke@example.com",
+    "username": "bluebutterfly308",
+    "password": "bitter",
+    "invokedAt": "2023-07-29T23:53:29.940Z"
   }
 ]
