@@ -510,5 +510,13 @@
     "username": "brownfish355",
     "password": "zurich",
     "invokedAt": "2023-07-29T09:49:29.393Z"
+  },
+  {
+    "firstName": "Enni",
+    "lastName": "Elo",
+    "email": "enni.elo@example.com",
+    "username": "angryostrich142",
+    "password": "wave",
+    "invokedAt": "2023-07-29T09:55:27.277Z"
   }
 ]
