@@ -238,5 +238,13 @@
     "username": "beautifultiger956",
     "password": "longer",
     "invokedAt": "2023-07-29T05:45:55.543Z"
+  },
+  {
+    "firstName": "Soline",
+    "lastName": "Picard",
+    "email": "soline.picard@example.com",
+    "username": "lazycat622",
+    "password": "testing",
+    "invokedAt": "2023-07-29T05:51:53.452Z"
   }
 ]
