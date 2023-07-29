@@ -526,5 +526,13 @@
     "username": "orangetiger784",
     "password": "consumer",
     "invokedAt": "2023-07-29T10:04:02.026Z"
+  },
+  {
+    "firstName": "Alonso",
+    "lastName": "Verduzco",
+    "email": "alonso.verduzco@example.com",
+    "username": "greenswan415",
+    "password": "fiction",
+    "invokedAt": "2023-07-29T10:18:29.372Z"
   }
 ]
