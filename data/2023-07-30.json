@@ -1062,5 +1062,13 @@
     "username": "greenfish693",
     "password": "milk",
     "invokedAt": "2023-07-30T19:06:45.738Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Lahti",
+    "email": "otto.lahti@example.com",
+    "username": "beautifulladybug231",
+    "password": "doobie",
+    "invokedAt": "2023-07-30T19:14:45.550Z"
   }
 ]
