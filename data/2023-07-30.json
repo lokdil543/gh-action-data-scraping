@@ -1326,5 +1326,13 @@
     "username": "redfrog102",
     "password": "detroit",
     "invokedAt": "2023-07-30T22:52:46.224Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Waisanen",
+    "email": "otto.waisanen@example.com",
+    "username": "orangerabbit482",
+    "password": "sebring",
+    "invokedAt": "2023-07-30T22:58:42.688Z"
   }
 ]
