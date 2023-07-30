@@ -790,5 +790,13 @@
     "username": "bluefrog586",
     "password": "circle",
     "invokedAt": "2023-07-30T14:48:13.218Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Li",
+    "email": "lea.li@example.com",
+    "username": "orangefrog576",
+    "password": "jessie",
+    "invokedAt": "2023-07-30T14:54:16.164Z"
   }
 ]
