@@ -294,5 +294,13 @@
     "username": "orangewolf872",
     "password": "zigzag",
     "invokedAt": "2023-07-30T06:49:46.852Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Arnold",
+    "email": "emily.arnold@example.com",
+    "username": "greensnake740",
+    "password": "julien",
+    "invokedAt": "2023-07-30T06:55:47.314Z"
   }
 ]
