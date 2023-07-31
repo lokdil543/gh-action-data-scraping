@@ -998,5 +998,13 @@
     "username": "sadlion229",
     "password": "horse",
     "invokedAt": "2023-07-31T19:26:14.078Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Bishop",
+    "email": "jen.bishop@example.com",
+    "username": "angrygoose289",
+    "password": "warner",
+    "invokedAt": "2023-07-31T19:32:27.012Z"
   }
 ]
