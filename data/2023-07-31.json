@@ -750,5 +750,13 @@
     "username": "tinyduck407",
     "password": "illini",
     "invokedAt": "2023-07-31T15:14:27.915Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Deschamps",
+    "email": "alexis.deschamps@example.com",
+    "username": "goldengorilla675",
+    "password": "iomega",
+    "invokedAt": "2023-07-31T15:26:32.289Z"
   }
 ]
