@@ -1214,5 +1214,13 @@
     "username": "redpanda201",
     "password": "ocean",
     "invokedAt": "2023-07-31T22:42:44.629Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Lecomte",
+    "email": "thomas.lecomte@example.com",
+    "username": "redbear273",
+    "password": "access",
+    "invokedAt": "2023-07-31T22:48:49.840Z"
   }
 ]
