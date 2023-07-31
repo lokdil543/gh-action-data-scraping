@@ -310,5 +310,13 @@
     "username": "yellowfrog997",
     "password": "zippy",
     "invokedAt": "2023-07-31T07:21:31.174Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Robinson",
+    "email": "herbert.robinson@example.com",
+    "username": "yellowwolf943",
+    "password": "calvin1",
+    "invokedAt": "2023-07-31T07:27:20.719Z"
   }
 ]
