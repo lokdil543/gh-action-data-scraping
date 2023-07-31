@@ -1126,5 +1126,13 @@
     "username": "silverdog338",
     "password": "punkrock",
     "invokedAt": "2023-07-31T21:23:36.793Z"
+  },
+  {
+    "firstName": "Pirmin",
+    "lastName": "Klaas",
+    "email": "pirmin.klaas@example.com",
+    "username": "angrydog580",
+    "password": "hobbes",
+    "invokedAt": "2023-07-31T21:29:27.583Z"
   }
 ]
