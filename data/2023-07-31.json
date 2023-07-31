@@ -142,5 +142,13 @@
     "username": "greenfish902",
     "password": "missouri",
     "invokedAt": "2023-07-31T04:32:29.240Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Molina",
+    "email": "john.molina@example.com",
+    "username": "silverbutterfly295",
+    "password": "tiny",
+    "invokedAt": "2023-07-31T04:38:40.687Z"
   }
 ]
