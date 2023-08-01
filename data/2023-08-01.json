@@ -542,5 +542,13 @@
     "username": "bigrabbit309",
     "password": "flight",
     "invokedAt": "2023-08-01T11:22:49.412Z"
+  },
+  {
+    "firstName": "Nigoslav",
+    "lastName": "Radkevich",
+    "email": "nigoslav.radkevich@example.com",
+    "username": "bigkoala249",
+    "password": "naruto",
+    "invokedAt": "2023-08-01T11:29:08.435Z"
   }
 ]
