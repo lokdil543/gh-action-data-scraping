@@ -886,5 +886,13 @@
     "username": "blackkoala301",
     "password": "divine",
     "invokedAt": "2023-08-01T17:36:15.292Z"
+  },
+  {
+    "firstName": "Freddie",
+    "lastName": "Hansen",
+    "email": "freddie.hansen@example.com",
+    "username": "heavydog586",
+    "password": "punkrock",
+    "invokedAt": "2023-08-01T17:42:11.665Z"
   }
 ]
