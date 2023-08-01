@@ -870,5 +870,13 @@
     "username": "brownbear789",
     "password": "duke",
     "invokedAt": "2023-08-01T17:24:09.460Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Dergach",
+    "email": "ivan.dergach@example.com",
+    "username": "crazybird839",
+    "password": "dogface",
+    "invokedAt": "2023-08-01T17:30:05.700Z"
   }
 ]
