@@ -1086,5 +1086,13 @@
     "username": "silvertiger375",
     "password": "goldstar",
     "invokedAt": "2023-08-01T20:40:04.820Z"
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "Seyfarth",
+    "email": "willy.seyfarth@example.com",
+    "username": "blacktiger192",
+    "password": "digital",
+    "invokedAt": "2023-08-01T20:45:53.449Z"
   }
 ]
