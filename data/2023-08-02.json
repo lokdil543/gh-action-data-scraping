@@ -638,5 +638,13 @@
     "username": "orangemeercat553",
     "password": "riddle",
     "invokedAt": "2023-08-02T12:20:14.579Z"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Cooper",
+    "email": "mason.cooper@example.com",
+    "username": "blackmouse243",
+    "password": "paradigm",
+    "invokedAt": "2023-08-02T12:46:25.606Z"
   }
 ]
