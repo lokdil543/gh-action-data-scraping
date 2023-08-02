@@ -886,5 +886,13 @@
     "username": "bigwolf852",
     "password": "abcde",
     "invokedAt": "2023-08-02T16:56:23.210Z"
+  },
+  {
+    "firstName": "Miguel Ángel",
+    "lastName": "Fonseca",
+    "email": "miguelangel.fonseca@example.com",
+    "username": "lazypeacock318",
+    "password": "invis",
+    "invokedAt": "2023-08-02T17:06:37.058Z"
   }
 ]
