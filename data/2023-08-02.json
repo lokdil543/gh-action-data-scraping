@@ -830,5 +830,13 @@
     "username": "browngoose195",
     "password": "static",
     "invokedAt": "2023-08-02T15:52:39.363Z"
+  },
+  {
+    "firstName": "Glen",
+    "lastName": "Torres",
+    "email": "glen.torres@example.com",
+    "username": "brownzebra670",
+    "password": "little",
+    "invokedAt": "2023-08-02T15:58:33.247Z"
   }
 ]
