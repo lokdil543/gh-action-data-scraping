@@ -398,5 +398,13 @@
     "username": "lazymeercat108",
     "password": "qwerty1",
     "invokedAt": "2023-08-02T08:30:08.485Z"
+  },
+  {
+    "firstName": "Wijnand",
+    "lastName": "Rutjes",
+    "email": "wijnand.rutjes@example.com",
+    "username": "happygoose146",
+    "password": "brest",
+    "invokedAt": "2023-08-02T08:36:20.852Z"
   }
 ]
