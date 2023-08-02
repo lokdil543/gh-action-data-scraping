@@ -878,5 +878,13 @@
     "username": "tinyfrog608",
     "password": "vancouve",
     "invokedAt": "2023-08-02T16:50:27.275Z"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Morrison",
+    "email": "wayne.morrison@example.com",
+    "username": "bigwolf852",
+    "password": "abcde",
+    "invokedAt": "2023-08-02T16:56:23.210Z"
   }
 ]
