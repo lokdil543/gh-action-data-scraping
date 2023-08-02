@@ -326,5 +326,13 @@
     "username": "heavytiger142",
     "password": "canada",
     "invokedAt": "2023-08-02T07:19:32.073Z"
+  },
+  {
+    "firstName": "Lisandro",
+    "lastName": "da Luz",
+    "email": "lisandro.daluz@example.com",
+    "username": "bluefrog887",
+    "password": "impala",
+    "invokedAt": "2023-08-02T07:25:20.052Z"
   }
 ]
