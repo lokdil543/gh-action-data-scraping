@@ -574,5 +574,13 @@
     "username": "greenfish816",
     "password": "chipmunk",
     "invokedAt": "2023-08-03T11:17:51.869Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Marchand",
+    "email": "guillaume.marchand@example.com",
+    "username": "whiteelephant332",
+    "password": "onlyme",
+    "invokedAt": "2023-08-03T11:23:34.277Z"
   }
 ]
