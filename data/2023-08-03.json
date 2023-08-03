@@ -1086,5 +1086,13 @@
     "username": "sadbutterfly404",
     "password": "swim",
     "invokedAt": "2023-08-03T19:58:23.703Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Andersen",
+    "email": "maria.andersen@example.com",
+    "username": "heavyzebra893",
+    "password": "mickey1",
+    "invokedAt": "2023-08-03T20:10:43.130Z"
   }
 ]
