@@ -766,5 +766,13 @@
     "username": "goldensnake170",
     "password": "comment",
     "invokedAt": "2023-08-03T14:57:06.260Z"
+  },
+  {
+    "firstName": "Valentín",
+    "lastName": "Diaz",
+    "email": "valentin.diaz@example.com",
+    "username": "crazyostrich947",
+    "password": "global",
+    "invokedAt": "2023-08-03T15:09:09.070Z"
   }
 ]
