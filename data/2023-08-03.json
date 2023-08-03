@@ -942,5 +942,13 @@
     "username": "blackfish976",
     "password": "testpass",
     "invokedAt": "2023-08-03T17:49:12.491Z"
+  },
+  {
+    "firstName": "Bratislav",
+    "lastName": "Kojić",
+    "email": "bratislav.kojic@example.com",
+    "username": "tinywolf177",
+    "password": "sublime",
+    "invokedAt": "2023-08-03T17:55:10.278Z"
   }
 ]
