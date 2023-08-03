@@ -1070,5 +1070,13 @@
     "username": "happyduck375",
     "password": "presto",
     "invokedAt": "2023-08-03T19:46:29.217Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Garza",
+    "email": "kayla.garza@example.com",
+    "username": "goldenmeercat431",
+    "password": "internal",
+    "invokedAt": "2023-08-03T19:52:31.481Z"
   }
 ]
