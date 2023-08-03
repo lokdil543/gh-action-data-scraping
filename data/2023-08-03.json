@@ -1230,5 +1230,13 @@
     "username": "bluebutterfly523",
     "password": "ticket",
     "invokedAt": "2023-08-03T22:09:58.214Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Petersen",
+    "email": "nicklas.petersen@example.com",
+    "username": "beautifulmouse309",
+    "password": "pacers",
+    "invokedAt": "2023-08-03T22:22:49.404Z"
   }
 ]
