@@ -790,5 +790,13 @@
     "username": "happyduck355",
     "password": "fashion",
     "invokedAt": "2023-08-03T15:27:26.399Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Newman",
+    "email": "lewis.newman@example.com",
+    "username": "blackduck134",
+    "password": "coyote",
+    "invokedAt": "2023-08-03T15:33:59.462Z"
   }
 ]
