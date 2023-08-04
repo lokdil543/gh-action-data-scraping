@@ -1150,5 +1150,13 @@
     "username": "heavyfish259",
     "password": "1227",
     "invokedAt": "2023-08-04T20:55:56.297Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Kasapoğlu",
+    "email": "ozkan.kasapoglu@example.com",
+    "username": "purplewolf328",
+    "password": "remote",
+    "invokedAt": "2023-08-04T21:05:34.217Z"
   }
 ]
