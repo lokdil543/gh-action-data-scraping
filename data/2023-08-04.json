@@ -1262,5 +1262,13 @@
     "username": "bigpanda966",
     "password": "98765",
     "invokedAt": "2023-08-04T22:40:19.347Z"
+  },
+  {
+    "firstName": "Dharun",
+    "lastName": "Manjunath",
+    "email": "dharun.manjunath@example.com",
+    "username": "redtiger391",
+    "password": "skip",
+    "invokedAt": "2023-08-04T22:46:15.020Z"
   }
 ]
