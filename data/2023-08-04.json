@@ -326,5 +326,13 @@
     "username": "lazysnake415",
     "password": "guitars",
     "invokedAt": "2023-08-04T07:24:33.222Z"
+  },
+  {
+    "firstName": "Avram",
+    "lastName": "Lapčević",
+    "email": "avram.lapcevic@example.com",
+    "username": "smallgorilla974",
+    "password": "baba",
+    "invokedAt": "2023-08-04T07:30:35.320Z"
   }
 ]
