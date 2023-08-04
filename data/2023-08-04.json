@@ -142,5 +142,13 @@
     "username": "blackcat332",
     "password": "snickers",
     "invokedAt": "2023-08-04T04:29:24.168Z"
+  },
+  {
+    "firstName": "Ljubica",
+    "lastName": "Živković",
+    "email": "ljubica.zivkovic@example.com",
+    "username": "brownbird384",
+    "password": "zxcvbn",
+    "invokedAt": "2023-08-04T04:35:45.079Z"
   }
 ]
