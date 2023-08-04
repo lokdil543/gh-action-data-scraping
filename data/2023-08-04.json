@@ -934,5 +934,13 @@
     "username": "bigcat305",
     "password": "redbone",
     "invokedAt": "2023-08-04T17:40:46.835Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Sullivan",
+    "email": "juan.sullivan@example.com",
+    "username": "happywolf553",
+    "password": "ninjas",
+    "invokedAt": "2023-08-04T17:46:37.078Z"
   }
 ]
