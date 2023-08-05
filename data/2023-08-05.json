@@ -214,5 +214,13 @@
     "username": "redrabbit126",
     "password": "drive",
     "invokedAt": "2023-08-05T05:27:52.283Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Medina",
+    "email": "alfred.medina@example.com",
+    "username": "redelephant811",
+    "password": "meow",
+    "invokedAt": "2023-08-05T05:34:19.336Z"
   }
 ]
