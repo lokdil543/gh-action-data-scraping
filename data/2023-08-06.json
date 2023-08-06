@@ -470,5 +470,13 @@
     "username": "bluebutterfly910",
     "password": "traffic",
     "invokedAt": "2023-08-06T09:19:10.505Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Christensen",
+    "email": "simon.christensen@example.com",
+    "username": "browncat275",
+    "password": "pointer",
+    "invokedAt": "2023-08-06T09:25:14.017Z"
   }
 ]
