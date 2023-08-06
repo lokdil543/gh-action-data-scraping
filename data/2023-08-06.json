@@ -286,5 +286,13 @@
     "username": "smallfrog444",
     "password": "sailor",
     "invokedAt": "2023-08-06T06:32:26.257Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Santillán",
+    "email": "diego.santillan@example.com",
+    "username": "heavykoala591",
+    "password": "citizen",
+    "invokedAt": "2023-08-06T06:38:32.113Z"
   }
 ]
