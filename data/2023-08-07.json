@@ -542,5 +542,13 @@
     "username": "whitemouse365",
     "password": "richie",
     "invokedAt": "2023-08-07T10:55:56.753Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Türkyılmaz",
+    "email": "gul.turkyilmaz@example.com",
+    "username": "lazyduck789",
+    "password": "weird",
+    "invokedAt": "2023-08-07T11:05:35.117Z"
   }
 ]
