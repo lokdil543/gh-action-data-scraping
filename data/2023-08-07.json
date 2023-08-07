@@ -638,5 +638,13 @@
     "username": "brownduck385",
     "password": "bitter",
     "invokedAt": "2023-08-07T12:58:49.115Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Sarıoğlu",
+    "email": "cetin.sarioglu@example.com",
+    "username": "tinyostrich672",
+    "password": "fudge",
+    "invokedAt": "2023-08-07T13:14:59.311Z"
   }
 ]
