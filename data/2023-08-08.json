@@ -950,5 +950,13 @@
     "username": "browncat152",
     "password": "waterloo",
     "invokedAt": "2023-08-08T18:09:03.240Z"
+  },
+  {
+    "firstName": "Armin",
+    "lastName": "Opedal",
+    "email": "armin.opedal@example.com",
+    "username": "greenbear448",
+    "password": "rrpass1",
+    "invokedAt": "2023-08-08T18:26:02.800Z"
   }
 ]
