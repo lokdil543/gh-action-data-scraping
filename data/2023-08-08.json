@@ -982,5 +982,13 @@
     "username": "organickoala123",
     "password": "ticket",
     "invokedAt": "2023-08-08T18:44:11.946Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Hall",
+    "email": "joshua.hall@example.com",
+    "username": "redsnake334",
+    "password": "muppet",
+    "invokedAt": "2023-08-08T18:50:05.803Z"
   }
 ]
