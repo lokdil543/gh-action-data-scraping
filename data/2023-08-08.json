@@ -422,5 +422,13 @@
     "username": "lazymouse843",
     "password": "sunday",
     "invokedAt": "2023-08-08T08:52:02.600Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Perrin",
+    "email": "martin.perrin@example.com",
+    "username": "bluesnake426",
+    "password": "racing",
+    "invokedAt": "2023-08-08T08:57:59.791Z"
   }
 ]
