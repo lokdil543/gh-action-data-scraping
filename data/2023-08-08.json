@@ -974,5 +974,13 @@
     "username": "blackwolf714",
     "password": "moose1",
     "invokedAt": "2023-08-08T18:38:09.304Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Mortensen",
+    "email": "nicklas.mortensen@example.com",
+    "username": "organickoala123",
+    "password": "ticket",
+    "invokedAt": "2023-08-08T18:44:11.946Z"
   }
 ]
