@@ -478,5 +478,13 @@
     "username": "angrygorilla989",
     "password": "bulldog1",
     "invokedAt": "2023-08-08T09:44:24.578Z"
+  },
+  {
+    "firstName": "Angelo",
+    "lastName": "Rodriguez",
+    "email": "angelo.rodriguez@example.com",
+    "username": "redkoala788",
+    "password": "newpass",
+    "invokedAt": "2023-08-08T09:50:14.043Z"
   }
 ]
