@@ -742,5 +742,13 @@
     "username": "angryrabbit688",
     "password": "sonja",
     "invokedAt": "2023-08-08T14:35:40.546Z"
+  },
+  {
+    "firstName": "Miško",
+    "lastName": "Ignjatović",
+    "email": "misko.ignjatovic@example.com",
+    "username": "blueleopard680",
+    "password": "vectra",
+    "invokedAt": "2023-08-08T14:41:42.618Z"
   }
 ]
