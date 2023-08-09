@@ -1246,5 +1246,13 @@
     "username": "happyleopard378",
     "password": "piglet",
     "invokedAt": "2023-08-09T23:48:20.859Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Jones",
+    "email": "philippe.jones@example.com",
+    "username": "yellowtiger150",
+    "password": "fishing",
+    "invokedAt": "2023-08-09T23:54:23.965Z"
   }
 ]
