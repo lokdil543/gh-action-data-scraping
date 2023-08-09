@@ -1150,5 +1150,13 @@
     "username": "tinyduck480",
     "password": "cosmos",
     "invokedAt": "2023-08-09T22:26:12.831Z"
+  },
+  {
+    "firstName": "Lars",
+    "lastName": "Kolstad",
+    "email": "lars.kolstad@example.com",
+    "username": "lazyzebra549",
+    "password": "truck1",
+    "invokedAt": "2023-08-09T22:32:10.837Z"
   }
 ]
