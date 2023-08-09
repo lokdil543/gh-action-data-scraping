@@ -982,5 +982,13 @@
     "username": "sadfish508",
     "password": "woodman",
     "invokedAt": "2023-08-09T19:45:00.163Z"
+  },
+  {
+    "firstName": "Božo",
+    "lastName": "Šakić",
+    "email": "bozo.sakic@example.com",
+    "username": "purplebird413",
+    "password": "deftones",
+    "invokedAt": "2023-08-09T19:50:50.176Z"
   }
 ]
