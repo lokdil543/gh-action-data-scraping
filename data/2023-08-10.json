@@ -702,5 +702,13 @@
     "username": "brownrabbit391",
     "password": "oxford",
     "invokedAt": "2023-08-10T14:39:38.695Z"
+  },
+  {
+    "firstName": "Derek",
+    "lastName": "Carter",
+    "email": "derek.carter@example.com",
+    "username": "browngorilla718",
+    "password": "beautiful",
+    "invokedAt": "2023-08-10T14:45:35.145Z"
   }
 ]
