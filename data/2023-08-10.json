@@ -246,5 +246,13 @@
     "username": "bigdog478",
     "password": "dizzy",
     "invokedAt": "2023-08-10T06:16:50.052Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Gauthier",
+    "email": "matthew.gauthier@example.com",
+    "username": "happytiger368",
+    "password": "mission",
+    "invokedAt": "2023-08-10T06:29:21.166Z"
   }
 ]
