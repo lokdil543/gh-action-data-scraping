@@ -702,5 +702,13 @@
     "username": "blueduck812",
     "password": "pickup",
     "invokedAt": "2023-08-11T13:21:16.098Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Claire",
+    "email": "zoe.claire@example.com",
+    "username": "orangepanda728",
+    "password": "booster",
+    "invokedAt": "2023-08-11T13:27:05.287Z"
   }
 ]
