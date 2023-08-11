@@ -726,5 +726,13 @@
     "username": "blackcat954",
     "password": "qwert1",
     "invokedAt": "2023-08-11T13:39:16.522Z"
+  },
+  {
+    "firstName": "Bratislava",
+    "lastName": "Silić",
+    "email": "bratislava.silic@example.com",
+    "username": "orangebird683",
+    "password": "priest",
+    "invokedAt": "2023-08-11T13:45:08.980Z"
   }
 ]
