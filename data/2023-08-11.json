@@ -606,5 +606,13 @@
     "username": "whiteelephant611",
     "password": "weed",
     "invokedAt": "2023-08-11T11:16:51.370Z"
+  },
+  {
+    "firstName": "Željko",
+    "lastName": "Vujčić",
+    "email": "zeljko.vujcic@example.com",
+    "username": "blacklion409",
+    "password": "toonarmy",
+    "invokedAt": "2023-08-11T11:22:39.028Z"
   }
 ]
