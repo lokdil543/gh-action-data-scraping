@@ -718,5 +718,13 @@
     "username": "orangezebra496",
     "password": "super1",
     "invokedAt": "2023-08-11T13:33:23.301Z"
+  },
+  {
+    "firstName": "Mirko",
+    "lastName": "Tripković",
+    "email": "mirko.tripkovic@example.com",
+    "username": "blackcat954",
+    "password": "qwert1",
+    "invokedAt": "2023-08-11T13:39:16.522Z"
   }
 ]
