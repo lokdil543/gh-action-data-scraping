@@ -1342,5 +1342,13 @@
     "username": "orangemouse109",
     "password": "whistler",
     "invokedAt": "2023-08-12T22:05:30.653Z"
+  },
+  {
+    "firstName": "Zoran",
+    "lastName": "Stevanović",
+    "email": "zoran.stevanovic@example.com",
+    "username": "crazypanda826",
+    "password": "liverpool",
+    "invokedAt": "2023-08-12T22:17:19.358Z"
   }
 ]
