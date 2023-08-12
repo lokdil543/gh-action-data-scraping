@@ -1142,5 +1142,13 @@
     "username": "redtiger337",
     "password": "avalon",
     "invokedAt": "2023-08-12T19:19:34.434Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Christiansen",
+    "email": "nicklas.christiansen@example.com",
+    "username": "crazyelephant286",
+    "password": "hiking",
+    "invokedAt": "2023-08-12T19:25:32.872Z"
   }
 ]
