@@ -310,5 +310,13 @@
     "username": "blackwolf682",
     "password": "ripley",
     "invokedAt": "2023-08-12T06:34:39.870Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Jensen",
+    "email": "sebastian.jensen@example.com",
+    "username": "ticklishladybug424",
+    "password": "1001",
+    "invokedAt": "2023-08-12T06:40:20.683Z"
   }
 ]
