@@ -910,5 +910,13 @@
     "username": "happypanda249",
     "password": "snappy",
     "invokedAt": "2023-08-12T15:46:20.407Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Ruiz",
+    "email": "richard.ruiz@example.com",
+    "username": "lazypanda991",
+    "password": "female",
+    "invokedAt": "2023-08-12T15:52:13.217Z"
   }
 ]
