@@ -238,5 +238,13 @@
     "username": "bigpeacock198",
     "password": "yummy",
     "invokedAt": "2023-08-12T05:26:24.098Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Jakovljević",
+    "email": "adam.jakovljevic@example.com",
+    "username": "brownpeacock108",
+    "password": "wibble",
+    "invokedAt": "2023-08-12T05:32:16.508Z"
   }
 ]
