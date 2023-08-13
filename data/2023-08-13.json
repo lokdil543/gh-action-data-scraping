@@ -630,5 +630,13 @@
     "username": "happylion302",
     "password": "sydney",
     "invokedAt": "2023-08-13T11:15:15.831Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Neumeier",
+    "email": "sophie.neumeier@example.com",
+    "username": "silverelephant580",
+    "password": "revenge",
+    "invokedAt": "2023-08-13T11:21:11.171Z"
   }
 ]
