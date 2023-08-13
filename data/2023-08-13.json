@@ -390,5 +390,13 @@
     "username": "brownbutterfly275",
     "password": "outkast",
     "invokedAt": "2023-08-13T07:40:40.702Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Miller",
+    "email": "daniel.miller@example.com",
+    "username": "heavyswan929",
+    "password": "rusty",
+    "invokedAt": "2023-08-13T07:46:30.040Z"
   }
 ]
