@@ -574,5 +574,13 @@
     "username": "bluedog408",
     "password": "studman",
     "invokedAt": "2023-08-13T10:30:08.884Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Zhang",
+    "email": "vincent.zhang@example.com",
+    "username": "purpledog322",
+    "password": "delta",
+    "invokedAt": "2023-08-13T10:36:05.431Z"
   }
 ]
