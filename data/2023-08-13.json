@@ -974,5 +974,13 @@
     "username": "bigduck291",
     "password": "rocket",
     "invokedAt": "2023-08-13T16:50:45.402Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Thomsen",
+    "email": "tristan.thomsen@example.com",
+    "username": "orangeostrich264",
+    "password": "racing",
+    "invokedAt": "2023-08-13T16:56:36.775Z"
   }
 ]
