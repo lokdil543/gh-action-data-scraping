@@ -1070,5 +1070,13 @@
     "username": "biggoose100",
     "password": "callisto",
     "invokedAt": "2023-08-14T19:15:30.157Z"
+  },
+  {
+    "firstName": "Halvor",
+    "lastName": "Vedå",
+    "email": "halvor.veda@example.com",
+    "username": "purplemouse309",
+    "password": "bubble",
+    "invokedAt": "2023-08-14T19:21:31.544Z"
   }
 ]
