@@ -62,5 +62,13 @@
     "username": "browncat864",
     "password": "piano",
     "invokedAt": "2023-08-14T02:46:19.659Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Rojo",
+    "email": "frida.rojo@example.com",
+    "username": "angrybird154",
+    "password": "snake",
+    "invokedAt": "2023-08-14T02:52:09.301Z"
   }
 ]
