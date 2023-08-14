@@ -526,5 +526,13 @@
     "username": "whiteduck361",
     "password": "toaster",
     "invokedAt": "2023-08-14T10:00:17.712Z"
+  },
+  {
+    "firstName": "Berndt",
+    "lastName": "Kammerer",
+    "email": "berndt.kammerer@example.com",
+    "username": "bluefrog325",
+    "password": "hansen",
+    "invokedAt": "2023-08-14T10:14:26.275Z"
   }
 ]
