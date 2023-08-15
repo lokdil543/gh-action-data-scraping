@@ -798,5 +798,13 @@
     "username": "greentiger454",
     "password": "edge",
     "invokedAt": "2023-08-15T14:44:42.242Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Halonen",
+    "email": "toivo.halonen@example.com",
+    "username": "browngorilla354",
+    "password": "hydro",
+    "invokedAt": "2023-08-15T14:50:31.983Z"
   }
 ]
