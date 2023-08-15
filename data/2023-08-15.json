@@ -1158,5 +1158,13 @@
     "username": "heavybutterfly193",
     "password": "rosie",
     "invokedAt": "2023-08-15T20:20:20.564Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Davis",
+    "email": "blake.davis@example.com",
+    "username": "bigbird937",
+    "password": "true",
+    "invokedAt": "2023-08-15T20:26:08.540Z"
   }
 ]
