@@ -470,5 +470,13 @@
     "username": "greenzebra154",
     "password": "mexico",
     "invokedAt": "2023-08-16T09:18:15.207Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Christiansen",
+    "email": "carl.christiansen@example.com",
+    "username": "bigbird426",
+    "password": "court",
+    "invokedAt": "2023-08-16T09:24:10.359Z"
   }
 ]
