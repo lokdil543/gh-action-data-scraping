@@ -726,5 +726,13 @@
     "username": "orangecat855",
     "password": "dennis",
     "invokedAt": "2023-08-16T13:44:46.880Z"
+  },
+  {
+    "firstName": "Adrián",
+    "lastName": "Pérez",
+    "email": "adrian.perez@example.com",
+    "username": "brownbird102",
+    "password": "easter",
+    "invokedAt": "2023-08-16T13:50:41.986Z"
   }
 ]
