@@ -958,5 +958,13 @@
     "username": "greendog635",
     "password": "dallas",
     "invokedAt": "2023-08-17T17:20:29.336Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Moore",
+    "email": "maria.moore@example.com",
+    "username": "yellowfrog110",
+    "password": "twist",
+    "invokedAt": "2023-08-17T17:26:22.324Z"
   }
 ]
