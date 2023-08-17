@@ -1158,5 +1158,13 @@
     "username": "lazygoose232",
     "password": "airborne",
     "invokedAt": "2023-08-17T20:20:23.261Z"
+  },
+  {
+    "firstName": "Gabriele",
+    "lastName": "Bruland",
+    "email": "gabriele.bruland@example.com",
+    "username": "tinypeacock495",
+    "password": "string",
+    "invokedAt": "2023-08-17T20:26:22.113Z"
   }
 ]
