@@ -422,5 +422,13 @@
     "username": "bigwolf296",
     "password": "kansas",
     "invokedAt": "2023-08-18T08:31:06.864Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Andersen",
+    "email": "nanna.andersen@example.com",
+    "username": "yellowostrich417",
+    "password": "lamer",
+    "invokedAt": "2023-08-18T08:37:00.526Z"
   }
 ]
