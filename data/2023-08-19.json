@@ -1030,5 +1030,13 @@
     "username": "tinybutterfly142",
     "password": "thirty",
     "invokedAt": "2023-08-19T17:45:03.691Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Sørensen",
+    "email": "daniel.sorensen@example.com",
+    "username": "browngoose560",
+    "password": "minime",
+    "invokedAt": "2023-08-19T17:50:51.982Z"
   }
 ]
