@@ -1366,5 +1366,13 @@
     "username": "whitemeercat305",
     "password": "lola",
     "invokedAt": "2023-08-19T22:35:47.407Z"
+  },
+  {
+    "firstName": "Hans Jürgen",
+    "lastName": "Behrens",
+    "email": "hansjurgen.behrens@example.com",
+    "username": "purpleswan654",
+    "password": "pearljam",
+    "invokedAt": "2023-08-19T22:41:40.459Z"
   }
 ]
