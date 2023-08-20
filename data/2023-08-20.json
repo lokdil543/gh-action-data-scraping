@@ -470,5 +470,13 @@
     "username": "redbird578",
     "password": "chevy",
     "invokedAt": "2023-08-20T08:58:06.684Z"
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Polić",
+    "email": "tina.polic@example.com",
+    "username": "bigfrog875",
+    "password": "kilroy",
+    "invokedAt": "2023-08-20T09:08:44.084Z"
   }
 ]
