@@ -206,5 +206,13 @@
     "username": "bigduck333",
     "password": "death1",
     "invokedAt": "2023-08-20T04:55:05.450Z"
+  },
+  {
+    "firstName": "Óscar",
+    "lastName": "Chavarría",
+    "email": "oscar.chavarria@example.com",
+    "username": "yellowmouse151",
+    "password": "maxima",
+    "invokedAt": "2023-08-20T05:02:11.364Z"
   }
 ]
