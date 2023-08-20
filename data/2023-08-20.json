@@ -1046,5 +1046,13 @@
     "username": "crazyduck401",
     "password": "piper",
     "invokedAt": "2023-08-20T17:55:08.038Z"
+  },
+  {
+    "firstName": "Sabrina",
+    "lastName": "Nesterenko",
+    "email": "sabrina.nesterenko@example.com",
+    "username": "sadduck389",
+    "password": "alien",
+    "invokedAt": "2023-08-20T18:04:16.656Z"
   }
 ]
