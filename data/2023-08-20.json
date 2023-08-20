@@ -358,5 +358,13 @@
     "username": "tinytiger322",
     "password": "thewho",
     "invokedAt": "2023-08-20T07:17:18.352Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Thompson",
+    "email": "henry.thompson@example.com",
+    "username": "purplewolf269",
+    "password": "deftones",
+    "invokedAt": "2023-08-20T07:23:22.677Z"
   }
 ]
