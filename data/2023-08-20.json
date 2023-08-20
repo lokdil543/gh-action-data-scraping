@@ -622,5 +622,13 @@
     "username": "sadostrich346",
     "password": "saints",
     "invokedAt": "2023-08-20T11:14:36.542Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Bradley",
+    "email": "blake.bradley@example.com",
+    "username": "lazyostrich134",
+    "password": "goodgirl",
+    "invokedAt": "2023-08-20T11:20:18.530Z"
   }
 ]
