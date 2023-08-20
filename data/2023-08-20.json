@@ -734,5 +734,13 @@
     "username": "happyostrich846",
     "password": "eileen",
     "invokedAt": "2023-08-20T13:24:01.544Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Vega",
+    "email": "santiago.vega@example.com",
+    "username": "heavyostrich672",
+    "password": "newlife",
+    "invokedAt": "2023-08-20T13:29:55.558Z"
   }
 ]
