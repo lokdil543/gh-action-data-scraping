@@ -1086,5 +1086,13 @@
     "username": "happycat456",
     "password": "premium",
     "invokedAt": "2023-08-21T19:30:20.537Z"
+  },
+  {
+    "firstName": "Irma",
+    "lastName": "Domínguez",
+    "email": "irma.dominguez@example.com",
+    "username": "happydog596",
+    "password": "griffey",
+    "invokedAt": "2023-08-21T19:36:22.006Z"
   }
 ]
