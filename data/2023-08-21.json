@@ -1214,5 +1214,13 @@
     "username": "happycat323",
     "password": "comet",
     "invokedAt": "2023-08-21T21:23:08.650Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Wang",
+    "email": "zachary.wang@example.com",
+    "username": "beautifulbutterfly808",
+    "password": "bigguy",
+    "invokedAt": "2023-08-21T21:29:08.722Z"
   }
 ]
