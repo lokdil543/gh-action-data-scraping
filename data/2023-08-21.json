@@ -542,5 +542,13 @@
     "username": "beautifulfrog377",
     "password": "redwing",
     "invokedAt": "2023-08-21T10:30:48.024Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Gibson",
+    "email": "greg.gibson@example.com",
+    "username": "lazygoose833",
+    "password": "pigeon",
+    "invokedAt": "2023-08-21T10:36:31.699Z"
   }
 ]
