@@ -582,5 +582,13 @@
     "username": "heavymeercat385",
     "password": "howard",
     "invokedAt": "2023-08-21T11:00:11.622Z"
+  },
+  {
+    "firstName": "Asmee",
+    "lastName": "Das",
+    "email": "asmee.das@example.com",
+    "username": "redcat679",
+    "password": "reader",
+    "invokedAt": "2023-08-21T11:10:50.353Z"
   }
 ]
