@@ -214,5 +214,13 @@
     "username": "orangeleopard456",
     "password": "fringe",
     "invokedAt": "2023-08-21T05:10:45.628Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Fitzgerald",
+    "email": "lewis.fitzgerald@example.com",
+    "username": "orangefish817",
+    "password": "heat",
+    "invokedAt": "2023-08-21T05:23:02.516Z"
   }
 ]
