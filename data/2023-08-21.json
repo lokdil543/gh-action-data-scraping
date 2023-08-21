@@ -1358,5 +1358,13 @@
     "username": "orangesnake443",
     "password": "mopar",
     "invokedAt": "2023-08-21T23:31:25.583Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Majstorović",
+    "email": "nemanja.majstorovic@example.com",
+    "username": "blackduck986",
+    "password": "bigben",
+    "invokedAt": "2023-08-21T23:37:10.388Z"
   }
 ]
