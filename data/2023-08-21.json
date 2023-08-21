@@ -238,5 +238,13 @@
     "username": "redbird222",
     "password": "hillbill",
     "invokedAt": "2023-08-21T05:35:00.628Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Almonte",
+    "email": "hugo.almonte@example.com",
+    "username": "brownmeercat957",
+    "password": "pepe",
+    "invokedAt": "2023-08-21T05:40:48.556Z"
   }
 ]
