@@ -550,5 +550,13 @@
     "username": "sadbear343",
     "password": "smith1",
     "invokedAt": "2023-08-22T10:33:17.750Z"
+  },
+  {
+    "firstName": "Esat",
+    "lastName": "Akbulut",
+    "email": "esat.akbulut@example.com",
+    "username": "redcat908",
+    "password": "pete",
+    "invokedAt": "2023-08-22T10:39:09.609Z"
   }
 ]
