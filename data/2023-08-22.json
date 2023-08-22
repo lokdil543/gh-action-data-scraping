@@ -862,5 +862,13 @@
     "username": "blackduck980",
     "password": "kahuna",
     "invokedAt": "2023-08-22T15:51:18.696Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Andersen",
+    "email": "lucas.andersen@example.com",
+    "username": "greengoose547",
+    "password": "vectra",
+    "invokedAt": "2023-08-22T15:56:59.919Z"
   }
 ]
