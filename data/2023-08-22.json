@@ -622,5 +622,13 @@
     "username": "happygorilla232",
     "password": "tanya",
     "invokedAt": "2023-08-22T11:33:41.496Z"
+  },
+  {
+    "firstName": "Michel",
+    "lastName": "Ruck",
+    "email": "michel.ruck@example.com",
+    "username": "redswan555",
+    "password": "channel",
+    "invokedAt": "2023-08-22T11:39:32.214Z"
   }
 ]
