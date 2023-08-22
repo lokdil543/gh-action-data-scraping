@@ -894,5 +894,13 @@
     "username": "silverpanda108",
     "password": "firefox",
     "invokedAt": "2023-08-22T16:35:32.779Z"
+  },
+  {
+    "firstName": "Émile",
+    "lastName": "Olivier",
+    "email": "emile.olivier@example.com",
+    "username": "purplecat482",
+    "password": "bossman",
+    "invokedAt": "2023-08-22T16:41:23.496Z"
   }
 ]
