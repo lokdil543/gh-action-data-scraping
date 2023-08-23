@@ -118,5 +118,13 @@
     "username": "crazyleopard515",
     "password": "topgun",
     "invokedAt": "2023-08-23T03:37:52.900Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Møller",
+    "email": "william.moller@example.com",
+    "username": "bigelephant929",
+    "password": "celeb",
+    "invokedAt": "2023-08-23T03:43:49.308Z"
   }
 ]
