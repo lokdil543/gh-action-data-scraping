@@ -238,5 +238,13 @@
     "username": "beautifulfish276",
     "password": "michael",
     "invokedAt": "2023-08-23T05:35:11.256Z"
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Montgomery",
+    "email": "allan.montgomery@example.com",
+    "username": "heavyelephant969",
+    "password": "nuggets",
+    "invokedAt": "2023-08-23T05:41:00.470Z"
   }
 ]
