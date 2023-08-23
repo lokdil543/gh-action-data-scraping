@@ -318,5 +318,13 @@
     "username": "blackgoose559",
     "password": "henry1",
     "invokedAt": "2023-08-23T06:50:52.295Z"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Dupuis",
+    "email": "lena.dupuis@example.com",
+    "username": "brownfrog485",
+    "password": "skyline",
+    "invokedAt": "2023-08-23T06:56:39.773Z"
   }
 ]
