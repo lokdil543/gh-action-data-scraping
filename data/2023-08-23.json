@@ -710,5 +710,13 @@
     "username": "bigrabbit635",
     "password": "bombay",
     "invokedAt": "2023-08-23T13:34:46.271Z"
+  },
+  {
+    "firstName": "Eli",
+    "lastName": "Husevåg",
+    "email": "eli.husevag@example.com",
+    "username": "sadpeacock478",
+    "password": "triangle",
+    "invokedAt": "2023-08-23T13:40:32.765Z"
   }
 ]
