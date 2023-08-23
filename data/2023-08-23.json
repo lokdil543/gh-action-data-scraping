@@ -366,5 +366,13 @@
     "username": "bluefish490",
     "password": "airborne",
     "invokedAt": "2023-08-23T07:34:54.108Z"
+  },
+  {
+    "firstName": "Claus",
+    "lastName": "Eckhoff",
+    "email": "claus.eckhoff@example.com",
+    "username": "sadmeercat248",
+    "password": "beagle",
+    "invokedAt": "2023-08-23T07:40:45.770Z"
   }
 ]
