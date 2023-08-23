@@ -534,5 +534,13 @@
     "username": "goldensnake338",
     "password": "brazil",
     "invokedAt": "2023-08-23T10:13:51.005Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Saksa",
+    "email": "vaino.saksa@example.com",
+    "username": "lazyostrich992",
+    "password": "bravo",
+    "invokedAt": "2023-08-23T10:27:17.338Z"
   }
 ]
