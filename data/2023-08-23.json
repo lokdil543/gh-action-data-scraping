@@ -430,5 +430,13 @@
     "username": "redfish626",
     "password": "windows1",
     "invokedAt": "2023-08-23T08:38:27.551Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Møller",
+    "email": "nicklas.moller@example.com",
+    "username": "tinyfish256",
+    "password": "deskjet",
+    "invokedAt": "2023-08-23T08:44:04.228Z"
   }
 ]
