@@ -678,5 +678,13 @@
     "username": "orangemouse882",
     "password": "whistler",
     "invokedAt": "2023-08-23T12:56:04.909Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Salminen",
+    "email": "eevi.salminen@example.com",
+    "username": "orangemouse444",
+    "password": "martha",
+    "invokedAt": "2023-08-23T13:08:53.914Z"
   }
 ]
