@@ -606,5 +606,13 @@
     "username": "greenostrich922",
     "password": "printer",
     "invokedAt": "2023-08-23T11:21:35.307Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Olsen",
+    "email": "malthe.olsen@example.com",
+    "username": "crazykoala984",
+    "password": "burrito",
+    "invokedAt": "2023-08-23T11:27:27.779Z"
   }
 ]
