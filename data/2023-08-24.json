@@ -254,5 +254,13 @@
     "username": "sadkoala860",
     "password": "salasana",
     "invokedAt": "2023-08-24T05:44:32.222Z"
+  },
+  {
+    "firstName": "Marcel",
+    "lastName": "Bertrand",
+    "email": "marcel.bertrand@example.com",
+    "username": "greenmouse843",
+    "password": "cory",
+    "invokedAt": "2023-08-24T05:50:33.196Z"
   }
 ]
