@@ -654,5 +654,13 @@
     "username": "redduck210",
     "password": "tornado",
     "invokedAt": "2023-08-24T11:56:02.360Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Williams",
+    "email": "kathy.williams@example.com",
+    "username": "silversnake842",
+    "password": "silly",
+    "invokedAt": "2023-08-24T12:12:43.875Z"
   }
 ]
