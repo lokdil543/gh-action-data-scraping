@@ -46,5 +46,13 @@
     "username": "smalldog559",
     "password": "toast",
     "invokedAt": "2023-08-24T02:32:02.573Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Ennis",
+    "email": "clara.ennis@example.com",
+    "username": "angrypanda712",
+    "password": "bogus",
+    "invokedAt": "2023-08-24T02:37:57.526Z"
   }
 ]
