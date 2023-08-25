@@ -942,5 +942,13 @@
     "username": "angrylion302",
     "password": "smiles",
     "invokedAt": "2023-08-25T17:22:08.343Z"
+  },
+  {
+    "firstName": "Kaća",
+    "lastName": "Maksimović",
+    "email": "kaca.maksimovic@example.com",
+    "username": "tinycat586",
+    "password": "cerberus",
+    "invokedAt": "2023-08-25T17:28:08.110Z"
   }
 ]
