@@ -1190,5 +1190,13 @@
     "username": "tinyduck368",
     "password": "gravity",
     "invokedAt": "2023-08-25T20:58:03.023Z"
+  },
+  {
+    "firstName": "Uschi",
+    "lastName": "De Vries",
+    "email": "uschi.devries@example.com",
+    "username": "blackkoala694",
+    "password": "password",
+    "invokedAt": "2023-08-25T21:08:21.200Z"
   }
 ]
