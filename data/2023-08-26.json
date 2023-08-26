@@ -582,5 +582,13 @@
     "username": "greensnake555",
     "password": "winona",
     "invokedAt": "2023-08-26T10:37:20.393Z"
+  },
+  {
+    "firstName": "Agustín",
+    "lastName": "Figueroa",
+    "email": "agustin.figueroa@example.com",
+    "username": "bigdog329",
+    "password": "lestat",
+    "invokedAt": "2023-08-26T10:43:13.882Z"
   }
 ]
