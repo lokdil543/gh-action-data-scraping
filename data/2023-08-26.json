@@ -262,5 +262,13 @@
     "username": "bigbird832",
     "password": "williams",
     "invokedAt": "2023-08-26T05:45:57.294Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Walker",
+    "email": "jackson.walker@example.com",
+    "username": "crazyrabbit197",
+    "password": "stayout",
+    "invokedAt": "2023-08-26T05:51:50.427Z"
   }
 ]
