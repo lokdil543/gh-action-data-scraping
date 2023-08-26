@@ -950,5 +950,13 @@
     "username": "lazypanda389",
     "password": "training",
     "invokedAt": "2023-08-26T16:37:05.328Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Miles",
+    "email": "robert.miles@example.com",
+    "username": "silverfish527",
+    "password": "neon",
+    "invokedAt": "2023-08-26T16:42:51.088Z"
   }
 ]
