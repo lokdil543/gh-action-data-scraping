@@ -798,5 +798,13 @@
     "username": "bigbird139",
     "password": "orchid",
     "invokedAt": "2023-08-27T14:24:28.135Z"
+  },
+  {
+    "firstName": "Thorbjørn",
+    "lastName": "Kyllingstad",
+    "email": "thorbjorn.kyllingstad@example.com",
+    "username": "happyduck594",
+    "password": "tongue",
+    "invokedAt": "2023-08-27T14:30:22.254Z"
   }
 ]
