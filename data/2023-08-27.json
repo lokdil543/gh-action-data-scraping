@@ -286,5 +286,13 @@
     "username": "sadgorilla454",
     "password": "aliens",
     "invokedAt": "2023-08-27T06:23:55.997Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Larson",
+    "email": "sophie.larson@example.com",
+    "username": "redduck503",
+    "password": "bass",
+    "invokedAt": "2023-08-27T06:29:43.301Z"
   }
 ]
