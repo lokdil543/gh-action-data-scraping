@@ -574,5 +574,13 @@
     "username": "lazyleopard939",
     "password": "hong",
     "invokedAt": "2023-08-28T11:07:43.238Z"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Walker",
+    "email": "jasmine.walker@example.com",
+    "username": "redpanda731",
+    "password": "startrek",
+    "invokedAt": "2023-08-28T11:16:11.427Z"
   }
 ]
