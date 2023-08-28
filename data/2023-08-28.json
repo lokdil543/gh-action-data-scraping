@@ -230,5 +230,13 @@
     "username": "happygoose828",
     "password": "common",
     "invokedAt": "2023-08-28T05:33:55.538Z"
+  },
+  {
+    "firstName": "Cecílio",
+    "lastName": "de Souza",
+    "email": "cecilio.desouza@example.com",
+    "username": "smallfrog305",
+    "password": "testing",
+    "invokedAt": "2023-08-28T05:39:40.079Z"
   }
 ]
