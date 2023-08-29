@@ -726,5 +726,13 @@
     "username": "beautifulduck881",
     "password": "devo",
     "invokedAt": "2023-08-29T14:42:00.121Z"
+  },
+  {
+    "firstName": "Hélène",
+    "lastName": "Gautier",
+    "email": "helene.gautier@example.com",
+    "username": "brownzebra452",
+    "password": "guest",
+    "invokedAt": "2023-08-29T14:47:48.349Z"
   }
 ]
