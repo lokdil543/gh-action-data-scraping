@@ -1238,5 +1238,13 @@
     "username": "tinysnake390",
     "password": "deputy",
     "invokedAt": "2023-08-29T22:42:00.144Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Jensen",
+    "email": "silje.jensen@example.com",
+    "username": "happyfrog113",
+    "password": "startrek",
+    "invokedAt": "2023-08-29T22:47:51.618Z"
   }
 ]
