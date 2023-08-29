@@ -390,5 +390,13 @@
     "username": "purpleduck803",
     "password": "mets",
     "invokedAt": "2023-08-29T08:47:26.176Z"
+  },
+  {
+    "firstName": "Helen",
+    "lastName": "Hammer",
+    "email": "helen.hammer@example.com",
+    "username": "happyleopard556",
+    "password": "crow",
+    "invokedAt": "2023-08-29T08:53:21.332Z"
   }
 ]
