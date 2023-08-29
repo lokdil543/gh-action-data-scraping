@@ -1030,5 +1030,13 @@
     "username": "crazymeercat319",
     "password": "retired",
     "invokedAt": "2023-08-29T19:33:39.316Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Møller",
+    "email": "felix.moller@example.com",
+    "username": "greenwolf599",
+    "password": "andrea",
+    "invokedAt": "2023-08-29T19:39:24.246Z"
   }
 ]
