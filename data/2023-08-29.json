@@ -1022,5 +1022,13 @@
     "username": "silverdog104",
     "password": "hermes",
     "invokedAt": "2023-08-29T19:27:44.546Z"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Stensvold",
+    "email": "jessica.stensvold@example.com",
+    "username": "crazymeercat319",
+    "password": "retired",
+    "invokedAt": "2023-08-29T19:33:39.316Z"
   }
 ]
