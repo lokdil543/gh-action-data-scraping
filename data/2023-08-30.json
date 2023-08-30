@@ -878,5 +878,13 @@
     "username": "yellowtiger507",
     "password": "pooh",
     "invokedAt": "2023-08-30T16:16:18.416Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Nielsen",
+    "email": "tobias.nielsen@example.com",
+    "username": "tinyzebra678",
+    "password": "sensei",
+    "invokedAt": "2023-08-30T16:30:13.687Z"
   }
 ]
