@@ -886,5 +886,13 @@
     "username": "tinyzebra678",
     "password": "sensei",
     "invokedAt": "2023-08-30T16:30:13.687Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Mackay",
+    "email": "charlie.mackay@example.com",
+    "username": "orangeladybug253",
+    "password": "elvira",
+    "invokedAt": "2023-08-30T16:38:46.975Z"
   }
 ]
