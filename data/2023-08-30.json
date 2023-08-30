@@ -86,5 +86,13 @@
     "username": "smallfrog438",
     "password": "shuai",
     "invokedAt": "2023-08-30T03:10:15.052Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Mackay",
+    "email": "alice.mackay@example.com",
+    "username": "redrabbit886",
+    "password": "a1b2c3d4",
+    "invokedAt": "2023-08-30T03:20:53.951Z"
   }
 ]
