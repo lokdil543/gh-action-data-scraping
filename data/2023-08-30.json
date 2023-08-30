@@ -590,5 +590,13 @@
     "username": "orangetiger523",
     "password": "buckeye",
     "invokedAt": "2023-08-30T11:10:36.584Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Jensen",
+    "email": "ted.jensen@example.com",
+    "username": "ticklishbear267",
+    "password": "starship",
+    "invokedAt": "2023-08-30T11:17:25.792Z"
   }
 ]
