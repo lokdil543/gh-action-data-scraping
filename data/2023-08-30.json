@@ -918,5 +918,13 @@
     "username": "redpanda430",
     "password": "samm",
     "invokedAt": "2023-08-30T16:56:26.785Z"
+  },
+  {
+    "firstName": "Milano",
+    "lastName": "Van den Broeke",
+    "email": "milano.vandenbroeke@example.com",
+    "username": "bluemouse662",
+    "password": "saigon",
+    "invokedAt": "2023-08-30T17:06:49.319Z"
   }
 ]
