@@ -998,5 +998,13 @@
     "username": "tinybird290",
     "password": "asdfjkl",
     "invokedAt": "2023-08-30T18:25:11.182Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Nienhaus",
+    "email": "albert.nienhaus@example.com",
+    "username": "tinyfish205",
+    "password": "lookin",
+    "invokedAt": "2023-08-30T18:31:29.059Z"
   }
 ]
