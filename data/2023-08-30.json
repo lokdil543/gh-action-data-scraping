@@ -910,5 +910,13 @@
     "username": "reddog581",
     "password": "bluemoon",
     "invokedAt": "2023-08-30T16:50:17.087Z"
+  },
+  {
+    "firstName": "Saagar",
+    "lastName": "Lauwers",
+    "email": "saagar.lauwers@example.com",
+    "username": "redpanda430",
+    "password": "samm",
+    "invokedAt": "2023-08-30T16:56:26.785Z"
   }
 ]
