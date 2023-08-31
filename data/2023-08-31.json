@@ -886,5 +886,13 @@
     "username": "yellowdog102",
     "password": "private1",
     "invokedAt": "2023-08-31T16:45:57.461Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Cabrera",
+    "email": "roberto.cabrera@example.com",
+    "username": "goldenpeacock268",
+    "password": "ultima",
+    "invokedAt": "2023-08-31T16:51:45.847Z"
   }
 ]
