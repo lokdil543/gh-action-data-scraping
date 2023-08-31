@@ -1310,5 +1310,13 @@
     "username": "beautifulduck656",
     "password": "maradona",
     "invokedAt": "2023-08-31T23:11:03.970Z"
+  },
+  {
+    "firstName": "Vanesa",
+    "lastName": "Tejeda",
+    "email": "vanesa.tejeda@example.com",
+    "username": "bluemouse289",
+    "password": "none",
+    "invokedAt": "2023-08-31T23:20:26.669Z"
   }
 ]
