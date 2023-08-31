@@ -918,5 +918,13 @@
     "username": "bigpanda105",
     "password": "jakejake",
     "invokedAt": "2023-08-31T17:21:43.429Z"
+  },
+  {
+    "firstName": "Vojislav",
+    "lastName": "Vučetić",
+    "email": "vojislav.vucetic@example.com",
+    "username": "angrycat600",
+    "password": "blacky",
+    "invokedAt": "2023-08-31T17:27:35.784Z"
   }
 ]
