@@ -1254,5 +1254,13 @@
     "username": "ticklishgorilla860",
     "password": "lori",
     "invokedAt": "2023-08-31T22:23:45.523Z"
+  },
+  {
+    "firstName": "José Luis",
+    "lastName": "de la Fuente",
+    "email": "joseluis.delafuente@example.com",
+    "username": "heavygorilla408",
+    "password": "thegame",
+    "invokedAt": "2023-08-31T22:29:29.630Z"
   }
 ]
