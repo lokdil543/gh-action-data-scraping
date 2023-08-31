@@ -518,5 +518,13 @@
     "username": "happybear661",
     "password": "western",
     "invokedAt": "2023-08-31T10:06:28.500Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Morrison",
+    "email": "alfred.morrison@example.com",
+    "username": "lazysnake684",
+    "password": "talk",
+    "invokedAt": "2023-08-31T10:22:55.664Z"
   }
 ]
