@@ -1326,5 +1326,13 @@
     "username": "orangekoala910",
     "password": "wapapapa",
     "invokedAt": "2023-08-31T23:26:24.890Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Li",
+    "email": "ethan.li@example.com",
+    "username": "redsnake800",
+    "password": "laptop",
+    "invokedAt": "2023-08-31T23:32:22.930Z"
   }
 ]
