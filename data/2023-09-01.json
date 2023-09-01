@@ -846,5 +846,13 @@
     "username": "greendog728",
     "password": "body",
     "invokedAt": "2023-09-01T15:52:45.292Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Nicolas",
+    "email": "julie.nicolas@example.com",
+    "username": "blackswan185",
+    "password": "jiggaman",
+    "invokedAt": "2023-09-01T15:58:33.887Z"
   }
 ]
