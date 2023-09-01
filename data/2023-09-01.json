@@ -526,5 +526,13 @@
     "username": "happydog929",
     "password": "double",
     "invokedAt": "2023-09-01T10:31:05.514Z"
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Lewis",
+    "email": "alvin.lewis@example.com",
+    "username": "blueleopard946",
+    "password": "emmitt",
+    "invokedAt": "2023-09-01T10:37:00.254Z"
   }
 ]
