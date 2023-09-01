@@ -1326,5 +1326,13 @@
     "username": "sadswan750",
     "password": "nextel",
     "invokedAt": "2023-09-01T23:24:26.365Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Morris",
+    "email": "liam.morris@example.com",
+    "username": "angrymouse274",
+    "password": "donkey",
+    "invokedAt": "2023-09-01T23:30:23.297Z"
   }
 ]
