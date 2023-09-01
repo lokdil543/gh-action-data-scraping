@@ -302,5 +302,13 @@
     "username": "ticklishgoose649",
     "password": "foobar",
     "invokedAt": "2023-09-01T06:52:18.357Z"
+  },
+  {
+    "firstName": "Davor",
+    "lastName": "Grujić",
+    "email": "davor.grujic@example.com",
+    "username": "blackfrog706",
+    "password": "3333333",
+    "invokedAt": "2023-09-01T06:58:06.232Z"
   }
 ]
