@@ -726,5 +726,13 @@
     "username": "redelephant231",
     "password": "butterfly",
     "invokedAt": "2023-09-01T13:59:25.086Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Behrmann",
+    "email": "niklas.behrmann@example.com",
+    "username": "bluefrog743",
+    "password": "perkins",
+    "invokedAt": "2023-09-01T14:11:30.567Z"
   }
 ]
