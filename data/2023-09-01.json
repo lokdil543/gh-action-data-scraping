@@ -862,5 +862,13 @@
     "username": "redfish384",
     "password": "message",
     "invokedAt": "2023-09-01T16:13:59.083Z"
+  },
+  {
+    "firstName": "Violet",
+    "lastName": "Wilson",
+    "email": "violet.wilson@example.com",
+    "username": "redwolf759",
+    "password": "babydoll",
+    "invokedAt": "2023-09-01T16:29:19.530Z"
   }
 ]
