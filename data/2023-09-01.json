@@ -1030,5 +1030,13 @@
     "username": "goldengoose531",
     "password": "haggis",
     "invokedAt": "2023-09-01T18:58:35.492Z"
+  },
+  {
+    "firstName": "Gunnar",
+    "lastName": "Estensen",
+    "email": "gunnar.estensen@example.com",
+    "username": "angrylion840",
+    "password": "slippery",
+    "invokedAt": "2023-09-01T19:08:29.676Z"
   }
 ]
