@@ -606,5 +606,13 @@
     "username": "heavymouse541",
     "password": "zebra",
     "invokedAt": "2023-09-01T11:35:52.210Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Moore",
+    "email": "nathan.moore@example.com",
+    "username": "goldenkoala992",
+    "password": "gobucks",
+    "invokedAt": "2023-09-01T11:41:35.121Z"
   }
 ]
