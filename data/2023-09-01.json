@@ -294,5 +294,13 @@
     "username": "blacklion544",
     "password": "games",
     "invokedAt": "2023-09-01T06:46:33.371Z"
+  },
+  {
+    "firstName": "Pat",
+    "lastName": "Burns",
+    "email": "pat.burns@example.com",
+    "username": "ticklishgoose649",
+    "password": "foobar",
+    "invokedAt": "2023-09-01T06:52:18.357Z"
   }
 ]
