@@ -854,5 +854,13 @@
     "username": "blackswan185",
     "password": "jiggaman",
     "invokedAt": "2023-09-01T15:58:33.887Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Gonzalez",
+    "email": "james.gonzalez@example.com",
+    "username": "redfish384",
+    "password": "message",
+    "invokedAt": "2023-09-01T16:13:59.083Z"
   }
 ]
