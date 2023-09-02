@@ -838,5 +838,13 @@
     "username": "lazyswan672",
     "password": "workout",
     "invokedAt": "2023-09-02T14:54:07.587Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Steward",
+    "email": "charlie.steward@example.com",
+    "username": "silverswan904",
+    "password": "ticket",
+    "invokedAt": "2023-09-02T14:59:56.380Z"
   }
 ]
