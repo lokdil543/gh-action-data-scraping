@@ -966,5 +966,13 @@
     "username": "purplecat408",
     "password": "errors",
     "invokedAt": "2023-09-02T16:54:47.987Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Peura",
+    "email": "aapo.peura@example.com",
+    "username": "greenmouse540",
+    "password": "1212",
+    "invokedAt": "2023-09-02T17:00:57.473Z"
   }
 ]
