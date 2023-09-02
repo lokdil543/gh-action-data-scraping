@@ -598,5 +598,13 @@
     "username": "bluelion440",
     "password": "chrysler",
     "invokedAt": "2023-09-02T10:53:35.407Z"
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Srećković",
+    "email": "bogdan.sreckovic@example.com",
+    "username": "happysnake909",
+    "password": "indiana",
+    "invokedAt": "2023-09-02T10:59:35.557Z"
   }
 ]
