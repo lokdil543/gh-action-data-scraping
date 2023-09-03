@@ -174,5 +174,13 @@
     "username": "ticklishcat440",
     "password": "tribble",
     "invokedAt": "2023-09-03T04:35:35.299Z"
+  },
+  {
+    "firstName": "Ann",
+    "lastName": "Roerink",
+    "email": "ann.roerink@example.com",
+    "username": "ticklishdog968",
+    "password": "williams",
+    "invokedAt": "2023-09-03T04:41:29.268Z"
   }
 ]
