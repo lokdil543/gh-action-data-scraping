@@ -430,5 +430,13 @@
     "username": "yellowtiger478",
     "password": "scuba1",
     "invokedAt": "2023-09-03T08:34:31.696Z"
+  },
+  {
+    "firstName": "Srećko",
+    "lastName": "Peković",
+    "email": "srecko.pekovic@example.com",
+    "username": "greengoose962",
+    "password": "comp",
+    "invokedAt": "2023-09-03T08:40:05.379Z"
   }
 ]
