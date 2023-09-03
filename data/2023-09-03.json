@@ -798,5 +798,13 @@
     "username": "lazywolf281",
     "password": "theatre",
     "invokedAt": "2023-09-03T14:30:51.473Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Koçoğlu",
+    "email": "fatih.kocoglu@example.com",
+    "username": "greenbird419",
+    "password": "bruno1",
+    "invokedAt": "2023-09-03T14:36:39.242Z"
   }
 ]
