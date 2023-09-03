@@ -446,5 +446,13 @@
     "username": "sadbird706",
     "password": "merlin",
     "invokedAt": "2023-09-03T08:46:02.359Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "King",
+    "email": "robert.king@example.com",
+    "username": "lazypeacock924",
+    "password": "praise",
+    "invokedAt": "2023-09-03T08:51:50.793Z"
   }
 ]
