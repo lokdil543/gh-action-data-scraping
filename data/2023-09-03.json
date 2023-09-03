@@ -1030,5 +1030,13 @@
     "username": "angrymouse982",
     "password": "streaming",
     "invokedAt": "2023-09-03T18:06:10.130Z"
+  },
+  {
+    "firstName": "Egon",
+    "lastName": "Hutter",
+    "email": "egon.hutter@example.com",
+    "username": "happyfish451",
+    "password": "puppydog",
+    "invokedAt": "2023-09-03T18:21:54.930Z"
   }
 ]
