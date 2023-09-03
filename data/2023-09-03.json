@@ -1326,5 +1326,13 @@
     "username": "redfish395",
     "password": "pppp",
     "invokedAt": "2023-09-03T22:27:33.375Z"
+  },
+  {
+    "firstName": "Amal",
+    "lastName": "Van Aarle",
+    "email": "amal.vanaarle@example.com",
+    "username": "smallbear265",
+    "password": "storm",
+    "invokedAt": "2023-09-03T22:33:50.267Z"
   }
 ]
