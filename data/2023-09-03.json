@@ -158,5 +158,13 @@
     "username": "greencat775",
     "password": "motor",
     "invokedAt": "2023-09-03T04:23:21.646Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Kocabıyık",
+    "email": "ahmet.kocabiyik@example.com",
+    "username": "greenpeacock758",
+    "password": "pigpen",
+    "invokedAt": "2023-09-03T04:29:30.343Z"
   }
 ]
