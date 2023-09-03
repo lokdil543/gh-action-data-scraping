@@ -438,5 +438,13 @@
     "username": "greengoose962",
     "password": "comp",
     "invokedAt": "2023-09-03T08:40:05.379Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Sørensen",
+    "email": "julie.sorensen@example.com",
+    "username": "sadbird706",
+    "password": "merlin",
+    "invokedAt": "2023-09-03T08:46:02.359Z"
   }
 ]
