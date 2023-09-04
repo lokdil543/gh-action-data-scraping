@@ -990,5 +990,13 @@
     "username": "tinylion124",
     "password": "bingo",
     "invokedAt": "2023-09-04T18:31:11.720Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Beck",
+    "email": "carol.beck@example.com",
+    "username": "blackleopard260",
+    "password": "55555555",
+    "invokedAt": "2023-09-04T18:37:05.002Z"
   }
 ]
