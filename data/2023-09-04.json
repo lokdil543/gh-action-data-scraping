@@ -526,5 +526,13 @@
     "username": "brownbutterfly137",
     "password": "cobra",
     "invokedAt": "2023-09-04T10:31:35.906Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Gomez",
+    "email": "stanley.gomez@example.com",
+    "username": "browncat156",
+    "password": "smelly",
+    "invokedAt": "2023-09-04T10:37:31.627Z"
   }
 ]
