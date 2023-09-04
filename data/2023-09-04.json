@@ -1326,5 +1326,13 @@
     "username": "happydog286",
     "password": "gotcha",
     "invokedAt": "2023-09-04T23:23:51.863Z"
+  },
+  {
+    "firstName": "Donna",
+    "lastName": "Hayes",
+    "email": "donna.hayes@example.com",
+    "username": "orangefish238",
+    "password": "frogger",
+    "invokedAt": "2023-09-04T23:29:37.953Z"
   }
 ]
