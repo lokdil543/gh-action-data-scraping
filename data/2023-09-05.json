@@ -462,5 +462,13 @@
     "username": "browngoose761",
     "password": "camera",
     "invokedAt": "2023-09-05T09:49:18.915Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Soto",
+    "email": "arturo.soto@example.com",
+    "username": "purplewolf319",
+    "password": "foobar",
+    "invokedAt": "2023-09-05T09:55:11.717Z"
   }
 ]
