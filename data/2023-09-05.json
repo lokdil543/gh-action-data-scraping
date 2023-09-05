@@ -470,5 +470,13 @@
     "username": "purplewolf319",
     "password": "foobar",
     "invokedAt": "2023-09-05T09:55:11.717Z"
+  },
+  {
+    "firstName": "Coline",
+    "lastName": "Martin",
+    "email": "coline.martin@example.com",
+    "username": "silvertiger716",
+    "password": "easter",
+    "invokedAt": "2023-09-05T10:04:01.369Z"
   }
 ]
