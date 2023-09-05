@@ -1278,5 +1278,13 @@
     "username": "heavyrabbit128",
     "password": "evil",
     "invokedAt": "2023-09-05T23:19:09.727Z"
+  },
+  {
+    "firstName": "Jo",
+    "lastName": "Wallace",
+    "email": "jo.wallace@example.com",
+    "username": "bigelephant451",
+    "password": "amazon",
+    "invokedAt": "2023-09-05T23:25:01.109Z"
   }
 ]
