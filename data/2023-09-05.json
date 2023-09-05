@@ -838,5 +838,13 @@
     "username": "whiteduck264",
     "password": "connor",
     "invokedAt": "2023-09-05T16:38:12.923Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Elo",
+    "email": "matias.elo@example.com",
+    "username": "smalltiger126",
+    "password": "mike",
+    "invokedAt": "2023-09-05T16:44:08.040Z"
   }
 ]
