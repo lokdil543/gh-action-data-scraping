@@ -630,5 +630,13 @@
     "username": "purpletiger697",
     "password": "sharp",
     "invokedAt": "2023-09-05T12:58:52.338Z"
+  },
+  {
+    "firstName": "José Luis",
+    "lastName": "Rocha",
+    "email": "joseluis.rocha@example.com",
+    "username": "organictiger114",
+    "password": "asdf",
+    "invokedAt": "2023-09-05T13:14:42.378Z"
   }
 ]
