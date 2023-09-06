@@ -102,5 +102,13 @@
     "username": "bigfish619",
     "password": "garbage",
     "invokedAt": "2023-09-06T03:26:55.721Z"
+  },
+  {
+    "firstName": "Rubén",
+    "lastName": "Echeverría",
+    "email": "ruben.echeverria@example.com",
+    "username": "redleopard317",
+    "password": "deedee",
+    "invokedAt": "2023-09-06T03:33:22.850Z"
   }
 ]
