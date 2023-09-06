@@ -414,5 +414,13 @@
     "username": "redbutterfly738",
     "password": "1020",
     "invokedAt": "2023-09-06T08:28:57.674Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Seppanen",
+    "email": "luukas.seppanen@example.com",
+    "username": "lazybird166",
+    "password": "reason",
+    "invokedAt": "2023-09-06T08:35:23.112Z"
   }
 ]
