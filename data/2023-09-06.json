@@ -422,5 +422,13 @@
     "username": "lazybird166",
     "password": "reason",
     "invokedAt": "2023-09-06T08:35:23.112Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Thomsen",
+    "email": "storm.thomsen@example.com",
+    "username": "whitefish223",
+    "password": "director",
+    "invokedAt": "2023-09-06T08:41:11.364Z"
   }
 ]
