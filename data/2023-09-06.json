@@ -678,5 +678,13 @@
     "username": "brownmouse337",
     "password": "kimmie",
     "invokedAt": "2023-09-06T13:14:13.278Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Blažić",
+    "email": "mila.blazic@example.com",
+    "username": "orangedog883",
+    "password": "door",
+    "invokedAt": "2023-09-06T13:25:57.019Z"
   }
 ]
