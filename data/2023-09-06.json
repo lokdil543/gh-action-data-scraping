@@ -1326,5 +1326,13 @@
     "username": "happyelephant272",
     "password": "wrench",
     "invokedAt": "2023-09-06T23:30:34.005Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Zhang",
+    "email": "ryan.zhang@example.com",
+    "username": "bluerabbit144",
+    "password": "blacklab",
+    "invokedAt": "2023-09-06T23:36:31.401Z"
   }
 ]
