@@ -366,5 +366,13 @@
     "username": "blackpanda932",
     "password": "horse",
     "invokedAt": "2023-09-06T07:36:55.997Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Jokela",
+    "email": "vaino.jokela@example.com",
+    "username": "silverladybug709",
+    "password": "harlem",
+    "invokedAt": "2023-09-06T07:42:37.931Z"
   }
 ]
