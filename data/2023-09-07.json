@@ -998,5 +998,13 @@
     "username": "goldenfish480",
     "password": "animal",
     "invokedAt": "2023-09-07T18:33:46.708Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Çamdalı",
+    "email": "ahmet.camdali@example.com",
+    "username": "redpeacock645",
+    "password": "junior1",
+    "invokedAt": "2023-09-07T18:39:27.260Z"
   }
 ]
