@@ -214,5 +214,13 @@
     "username": "orangefrog211",
     "password": "chicago",
     "invokedAt": "2023-09-07T05:10:41.356Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Chambers",
+    "email": "patrick.chambers@example.com",
+    "username": "happypeacock342",
+    "password": "zxcv",
+    "invokedAt": "2023-09-07T05:23:39.404Z"
   }
 ]
