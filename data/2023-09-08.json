@@ -958,5 +958,13 @@
     "username": "bigdog597",
     "password": "idontknow",
     "invokedAt": "2023-09-08T17:32:34.944Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Amann",
+    "email": "carlos.amann@example.com",
+    "username": "blackkoala853",
+    "password": "central",
+    "invokedAt": "2023-09-08T17:38:44.132Z"
   }
 ]
