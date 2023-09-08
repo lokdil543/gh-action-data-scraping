@@ -190,5 +190,13 @@
     "username": "purplefish663",
     "password": "hetfield",
     "invokedAt": "2023-09-08T04:48:30.500Z"
+  },
+  {
+    "firstName": "Jérémy",
+    "lastName": "Da Silva",
+    "email": "jeremy.dasilva@example.com",
+    "username": "sadfrog132",
+    "password": "misery",
+    "invokedAt": "2023-09-08T04:54:18.643Z"
   }
 ]
