@@ -1214,5 +1214,13 @@
     "username": "bluegorilla199",
     "password": "archange",
     "invokedAt": "2023-09-08T21:22:08.242Z"
+  },
+  {
+    "firstName": "Leona",
+    "lastName": "Van der Graaff",
+    "email": "leona.vandergraaff@example.com",
+    "username": "whitegorilla144",
+    "password": "shell",
+    "invokedAt": "2023-09-08T21:28:05.547Z"
   }
 ]
