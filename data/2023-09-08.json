@@ -534,5 +534,13 @@
     "username": "blackwolf950",
     "password": "silver",
     "invokedAt": "2023-09-08T10:18:42.222Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Haro",
+    "email": "hugo.haro@example.com",
+    "username": "lazyzebra872",
+    "password": "carlos",
+    "invokedAt": "2023-09-08T10:29:29.644Z"
   }
 ]
