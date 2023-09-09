@@ -958,5 +958,13 @@
     "username": "lazyfish537",
     "password": "chip",
     "invokedAt": "2023-09-09T16:48:29.741Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Fernandez",
+    "email": "juan.fernandez@example.com",
+    "username": "lazygoose375",
+    "password": "tribble",
+    "invokedAt": "2023-09-09T16:54:21.176Z"
   }
 ]
