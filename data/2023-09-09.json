@@ -542,5 +542,13 @@
     "username": "smallsnake461",
     "password": "shotgun",
     "invokedAt": "2023-09-09T09:59:37.338Z"
+  },
+  {
+    "firstName": "Earl",
+    "lastName": "Williams",
+    "email": "earl.williams@example.com",
+    "username": "angrydog640",
+    "password": "atlantic",
+    "invokedAt": "2023-09-09T10:12:08.646Z"
   }
 ]
