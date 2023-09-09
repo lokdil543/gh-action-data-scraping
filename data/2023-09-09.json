@@ -238,5 +238,13 @@
     "username": "orangeduck181",
     "password": "anchor",
     "invokedAt": "2023-09-09T05:27:27.398Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Dunn",
+    "email": "pedro.dunn@example.com",
+    "username": "lazydog201",
+    "password": "buck",
+    "invokedAt": "2023-09-09T05:33:32.341Z"
   }
 ]
