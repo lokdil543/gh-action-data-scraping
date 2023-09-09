@@ -1070,5 +1070,13 @@
     "username": "goldenpanda223",
     "password": "boeing",
     "invokedAt": "2023-09-09T18:35:38.724Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Murphy",
+    "email": "stanley.murphy@example.com",
+    "username": "brownpanda175",
+    "password": "squerting",
+    "invokedAt": "2023-09-09T18:41:46.806Z"
   }
 ]
