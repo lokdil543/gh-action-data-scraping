@@ -294,5 +294,13 @@
     "username": "bigwolf897",
     "password": "pilgrim",
     "invokedAt": "2023-09-09T06:24:05.039Z"
+  },
+  {
+    "firstName": "Denis",
+    "lastName": "Zhdanovich",
+    "email": "denis.zhdanovich@example.com",
+    "username": "bluecat426",
+    "password": "buster1",
+    "invokedAt": "2023-09-09T06:30:05.560Z"
   }
 ]
