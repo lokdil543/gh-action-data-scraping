@@ -1094,5 +1094,13 @@
     "username": "brownbutterfly331",
     "password": "chevrolet",
     "invokedAt": "2023-09-10T19:06:36.280Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Kristensen",
+    "email": "emily.kristensen@example.com",
+    "username": "greenbutterfly504",
+    "password": "lambda",
+    "invokedAt": "2023-09-10T19:14:11.135Z"
   }
 ]
