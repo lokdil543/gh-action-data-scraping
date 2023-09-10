@@ -398,5 +398,13 @@
     "username": "angryduck342",
     "password": "highway",
     "invokedAt": "2023-09-10T07:58:53.823Z"
+  },
+  {
+    "firstName": "Natasha",
+    "lastName": "Reinsma",
+    "email": "natasha.reinsma@example.com",
+    "username": "blackostrich963",
+    "password": "cool",
+    "invokedAt": "2023-09-10T08:13:10.443Z"
   }
 ]
