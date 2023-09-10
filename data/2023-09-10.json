@@ -526,5 +526,13 @@
     "username": "bigfrog360",
     "password": "wildbill",
     "invokedAt": "2023-09-10T09:54:18.219Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Soler",
+    "email": "oscar.soler@example.com",
+    "username": "happyswan874",
+    "password": "circle",
+    "invokedAt": "2023-09-10T10:00:10.768Z"
   }
 ]
