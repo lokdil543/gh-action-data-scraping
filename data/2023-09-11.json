@@ -614,5 +614,13 @@
     "username": "sadcat204",
     "password": "5678",
     "invokedAt": "2023-09-11T11:46:02.386Z"
+  },
+  {
+    "firstName": "Milica",
+    "lastName": "Živadinović",
+    "email": "milica.zivadinovic@example.com",
+    "username": "sadleopard279",
+    "password": "bluebird",
+    "invokedAt": "2023-09-11T11:51:54.558Z"
   }
 ]
