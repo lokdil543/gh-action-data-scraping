@@ -918,5 +918,13 @@
     "username": "smallmouse819",
     "password": "heineken",
     "invokedAt": "2023-09-11T17:34:32.324Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Türkyılmaz",
+    "email": "gokhan.turkyilmaz@example.com",
+    "username": "blacktiger958",
+    "password": "jimmys",
+    "invokedAt": "2023-09-11T17:40:24.559Z"
   }
 ]
