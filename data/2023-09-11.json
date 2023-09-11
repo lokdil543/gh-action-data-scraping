@@ -478,5 +478,13 @@
     "username": "beautifulfrog456",
     "password": "munch",
     "invokedAt": "2023-09-11T09:39:07.519Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Mortensen",
+    "email": "christian.mortensen@example.com",
+    "username": "heavyleopard765",
+    "password": "chuck1",
+    "invokedAt": "2023-09-11T09:45:08.043Z"
   }
 ]
