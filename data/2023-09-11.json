@@ -1230,5 +1230,13 @@
     "username": "silvercat701",
     "password": "womble",
     "invokedAt": "2023-09-11T22:11:38.485Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Zhang",
+    "email": "xavier.zhang@example.com",
+    "username": "orangefrog317",
+    "password": "bergkamp",
+    "invokedAt": "2023-09-11T22:24:14.937Z"
   }
 ]
