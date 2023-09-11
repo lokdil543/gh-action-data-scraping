@@ -766,5 +766,13 @@
     "username": "bluerabbit616",
     "password": "womble",
     "invokedAt": "2023-09-11T14:53:21.467Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Møller",
+    "email": "noah.moller@example.com",
+    "username": "smallcat601",
+    "password": "pookie",
+    "invokedAt": "2023-09-11T14:59:04.259Z"
   }
 ]
