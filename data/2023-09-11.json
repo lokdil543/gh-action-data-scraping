@@ -46,5 +46,13 @@
     "username": "bluefish196",
     "password": "asdf12",
     "invokedAt": "2023-09-11T02:36:56.652Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Meier",
+    "email": "scott.meier@example.com",
+    "username": "tinyfish532",
+    "password": "legolas",
+    "invokedAt": "2023-09-11T02:42:48.885Z"
   }
 ]
