@@ -342,5 +342,13 @@
     "username": "goldenelephant249",
     "password": "topcat",
     "invokedAt": "2023-09-12T07:23:33.884Z"
+  },
+  {
+    "firstName": "Barb",
+    "lastName": "Ross",
+    "email": "barb.ross@example.com",
+    "username": "goldendog168",
+    "password": "lovelove",
+    "invokedAt": "2023-09-12T07:29:19.397Z"
   }
 ]
