@@ -1262,5 +1262,13 @@
     "username": "yellowpanda994",
     "password": "chronic",
     "invokedAt": "2023-09-12T22:35:33.786Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Møller",
+    "email": "philip.moller@example.com",
+    "username": "orangebear613",
+    "password": "danny",
+    "invokedAt": "2023-09-12T22:41:32.578Z"
   }
 ]
