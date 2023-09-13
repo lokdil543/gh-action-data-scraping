@@ -1198,5 +1198,13 @@
     "username": "sadgoose110",
     "password": "pyramid",
     "invokedAt": "2023-09-13T21:30:03.424Z"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Gardner",
+    "email": "rick.gardner@example.com",
+    "username": "beautifulleopard383",
+    "password": "mermaid",
+    "invokedAt": "2023-09-13T21:35:58.758Z"
   }
 ]
