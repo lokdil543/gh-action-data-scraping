@@ -422,5 +422,13 @@
     "username": "smallmeercat597",
     "password": "anton",
     "invokedAt": "2023-09-13T08:41:09.676Z"
+  },
+  {
+    "firstName": "Randall",
+    "lastName": "Davidson",
+    "email": "randall.davidson@example.com",
+    "username": "lazymeercat501",
+    "password": "lionel",
+    "invokedAt": "2023-09-13T08:47:00.452Z"
   }
 ]
