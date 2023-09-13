@@ -678,5 +678,13 @@
     "username": "silverwolf113",
     "password": "abcdef",
     "invokedAt": "2023-09-13T13:26:41.457Z"
+  },
+  {
+    "firstName": "Mariëtte",
+    "lastName": "Rijkhoff",
+    "email": "mariette.rijkhoff@example.com",
+    "username": "orangemouse329",
+    "password": "bigone",
+    "invokedAt": "2023-09-13T13:32:46.452Z"
   }
 ]
