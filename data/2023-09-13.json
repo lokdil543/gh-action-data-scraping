@@ -54,5 +54,13 @@
     "username": "goldenmouse248",
     "password": "a1b2c3d4",
     "invokedAt": "2023-09-13T02:42:10.602Z"
+  },
+  {
+    "firstName": "Biljana",
+    "lastName": "Ćirić",
+    "email": "biljana.ciric@example.com",
+    "username": "blackbird402",
+    "password": "revolver",
+    "invokedAt": "2023-09-13T02:48:29.290Z"
   }
 ]
