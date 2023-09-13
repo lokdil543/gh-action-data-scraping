@@ -406,5 +406,13 @@
     "username": "lazybear370",
     "password": "station",
     "invokedAt": "2023-09-13T08:28:24.705Z"
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "Marinus",
+    "email": "willy.marinus@example.com",
+    "username": "bluepanda441",
+    "password": "1999",
+    "invokedAt": "2023-09-13T08:35:17.937Z"
   }
 ]
