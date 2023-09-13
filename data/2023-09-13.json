@@ -486,5 +486,13 @@
     "username": "brownlion874",
     "password": "celebrity",
     "invokedAt": "2023-09-13T09:39:38.504Z"
+  },
+  {
+    "firstName": "Phoenix",
+    "lastName": "Jackson",
+    "email": "phoenix.jackson@example.com",
+    "username": "silverlion553",
+    "password": "emerald",
+    "invokedAt": "2023-09-13T09:45:25.606Z"
   }
 ]
