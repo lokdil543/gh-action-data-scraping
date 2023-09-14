@@ -342,5 +342,13 @@
     "username": "biggoose796",
     "password": "maxi",
     "invokedAt": "2023-09-14T07:21:16.402Z"
+  },
+  {
+    "firstName": "Cézanne",
+    "lastName": "Wullink",
+    "email": "cezanne.wullink@example.com",
+    "username": "redbutterfly249",
+    "password": "flip",
+    "invokedAt": "2023-09-14T07:27:06.363Z"
   }
 ]
