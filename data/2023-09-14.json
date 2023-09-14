@@ -622,5 +622,13 @@
     "username": "purplemeercat109",
     "password": "animals",
     "invokedAt": "2023-09-14T11:41:03.132Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Mason",
+    "email": "terry.mason@example.com",
+    "username": "tinypanda988",
+    "password": "racers",
+    "invokedAt": "2023-09-14T11:47:04.309Z"
   }
 ]
