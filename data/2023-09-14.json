@@ -446,5 +446,13 @@
     "username": "orangesnake548",
     "password": "alucard",
     "invokedAt": "2023-09-14T08:55:04.171Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Rhodes",
+    "email": "ryan.rhodes@example.com",
+    "username": "angrysnake917",
+    "password": "siemens",
+    "invokedAt": "2023-09-14T09:03:24.784Z"
   }
 ]
