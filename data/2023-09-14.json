@@ -1070,5 +1070,13 @@
     "username": "heavycat938",
     "password": "kong",
     "invokedAt": "2023-09-14T19:38:55.281Z"
+  },
+  {
+    "firstName": "Dragoslav",
+    "lastName": "Šerbedžija",
+    "email": "dragoslav.serbedzija@example.com",
+    "username": "heavyfish493",
+    "password": "draco",
+    "invokedAt": "2023-09-14T19:44:42.299Z"
   }
 ]
