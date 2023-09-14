@@ -814,5 +814,13 @@
     "username": "brownladybug991",
     "password": "stream",
     "invokedAt": "2023-09-14T15:33:56.979Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Thomsen",
+    "email": "alfred.thomsen@example.com",
+    "username": "smallgorilla692",
+    "password": "testtest",
+    "invokedAt": "2023-09-14T15:40:04.196Z"
   }
 ]
