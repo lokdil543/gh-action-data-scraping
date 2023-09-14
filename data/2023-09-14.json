@@ -1262,5 +1262,13 @@
     "username": "goldencat784",
     "password": "briggs",
     "invokedAt": "2023-09-14T22:34:57.658Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Lugo",
+    "email": "andres.lugo@example.com",
+    "username": "lazycat465",
+    "password": "single",
+    "invokedAt": "2023-09-14T22:41:01.646Z"
   }
 ]
