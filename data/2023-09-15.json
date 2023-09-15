@@ -814,5 +814,13 @@
     "username": "bigostrich201",
     "password": "port",
     "invokedAt": "2023-09-15T15:28:38.664Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Deschamps",
+    "email": "lily.deschamps@example.com",
+    "username": "orangesnake333",
+    "password": "hearts",
+    "invokedAt": "2023-09-15T15:34:52.916Z"
   }
 ]
