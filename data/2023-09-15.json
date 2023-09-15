@@ -206,5 +206,13 @@
     "username": "beautifulfrog782",
     "password": "nobody",
     "invokedAt": "2023-09-15T05:12:44.041Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Evans",
+    "email": "mila.evans@example.com",
+    "username": "redfrog871",
+    "password": "arizona",
+    "invokedAt": "2023-09-15T05:24:39.650Z"
   }
 ]
