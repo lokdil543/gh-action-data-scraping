@@ -134,5 +134,13 @@
     "username": "beautifulduck314",
     "password": "global",
     "invokedAt": "2023-09-15T03:55:11.856Z"
+  },
+  {
+    "firstName": "Kristijan",
+    "lastName": "Popović",
+    "email": "kristijan.popovic@example.com",
+    "username": "angryfrog535",
+    "password": "123987",
+    "invokedAt": "2023-09-15T04:06:52.882Z"
   }
 ]
