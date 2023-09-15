@@ -1046,5 +1046,13 @@
     "username": "whiteduck364",
     "password": "hooter",
     "invokedAt": "2023-09-15T19:16:44.786Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Renaud",
+    "email": "dennis.renaud@example.com",
+    "username": "happyleopard148",
+    "password": "smokin",
+    "invokedAt": "2023-09-15T19:22:33.010Z"
   }
 ]
