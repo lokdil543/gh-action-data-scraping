@@ -238,5 +238,13 @@
     "username": "blackwolf841",
     "password": "gggggggg",
     "invokedAt": "2023-09-15T05:42:33.223Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Brar",
+    "email": "simon.brar@example.com",
+    "username": "angryfish541",
+    "password": "sirius",
+    "invokedAt": "2023-09-15T05:48:26.620Z"
   }
 ]
