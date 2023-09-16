@@ -710,5 +710,13 @@
     "username": "bigelephant501",
     "password": "tracker",
     "invokedAt": "2023-09-16T12:57:48.069Z"
+  },
+  {
+    "firstName": "Gino",
+    "lastName": "Lefebvre",
+    "email": "gino.lefebvre@example.com",
+    "username": "happydog273",
+    "password": "ross",
+    "invokedAt": "2023-09-16T13:09:46.586Z"
   }
 ]
