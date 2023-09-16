@@ -526,5 +526,13 @@
     "username": "brownzebra653",
     "password": "penguin1",
     "invokedAt": "2023-09-16T09:48:17.289Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Johansen",
+    "email": "marie.johansen@example.com",
+    "username": "angryfrog225",
+    "password": "cheers",
+    "invokedAt": "2023-09-16T09:54:17.027Z"
   }
 ]
