@@ -1230,5 +1230,13 @@
     "username": "tinygoose135",
     "password": "action",
     "invokedAt": "2023-09-17T20:53:58.736Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Alexander",
+    "email": "ben.alexander@example.com",
+    "username": "angrylion406",
+    "password": "clayton",
+    "invokedAt": "2023-09-17T20:59:55.841Z"
   }
 ]
