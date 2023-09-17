@@ -1382,5 +1382,13 @@
     "username": "purplefish148",
     "password": "roll",
     "invokedAt": "2023-09-17T23:07:57.473Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Richardson",
+    "email": "joshua.richardson@example.com",
+    "username": "sadpanda734",
+    "password": "gambit",
+    "invokedAt": "2023-09-17T23:18:13.613Z"
   }
 ]
