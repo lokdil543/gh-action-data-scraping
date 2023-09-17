@@ -734,5 +734,13 @@
     "username": "bluebird592",
     "password": "farm",
     "invokedAt": "2023-09-17T13:32:38.334Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Cabrera",
+    "email": "christian.cabrera@example.com",
+    "username": "heavyfish732",
+    "password": "magical",
+    "invokedAt": "2023-09-17T13:38:40.041Z"
   }
 ]
