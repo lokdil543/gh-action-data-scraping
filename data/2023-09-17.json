@@ -1022,5 +1022,13 @@
     "username": "greenbird942",
     "password": "cobain",
     "invokedAt": "2023-09-17T17:52:05.008Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Kapetanović",
+    "email": "mila.kapetanovic@example.com",
+    "username": "smalldog341",
+    "password": "doofus",
+    "invokedAt": "2023-09-17T17:57:53.474Z"
   }
 ]
