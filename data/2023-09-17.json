@@ -646,5 +646,13 @@
     "username": "happymouse312",
     "password": "000007",
     "invokedAt": "2023-09-17T11:39:15.365Z"
+  },
+  {
+    "firstName": "Gilberto",
+    "lastName": "Treviño",
+    "email": "gilberto.trevino@example.com",
+    "username": "bluemouse361",
+    "password": "qwert1",
+    "invokedAt": "2023-09-17T11:45:18.521Z"
   }
 ]
