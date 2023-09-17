@@ -790,5 +790,13 @@
     "username": "heavyostrich332",
     "password": "twelve",
     "invokedAt": "2023-09-17T14:24:48.623Z"
+  },
+  {
+    "firstName": "Kuzman",
+    "lastName": "Novaković",
+    "email": "kuzman.novakovic@example.com",
+    "username": "blackmouse312",
+    "password": "picture",
+    "invokedAt": "2023-09-17T14:30:38.817Z"
   }
 ]
