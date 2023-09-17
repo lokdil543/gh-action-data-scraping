@@ -430,5 +430,13 @@
     "username": "silverostrich127",
     "password": "pudding",
     "invokedAt": "2023-09-17T08:35:15.660Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Lucas",
+    "email": "martin.lucas@example.com",
+    "username": "bluebear911",
+    "password": "duffer",
+    "invokedAt": "2023-09-17T08:41:16.390Z"
   }
 ]
