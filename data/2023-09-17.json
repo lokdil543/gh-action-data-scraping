@@ -462,5 +462,13 @@
     "username": "goldenleopard511",
     "password": "cornell",
     "invokedAt": "2023-09-17T08:58:43.409Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Johnson",
+    "email": "jerry.johnson@example.com",
+    "username": "blueswan806",
+    "password": "chilly",
+    "invokedAt": "2023-09-17T09:10:24.560Z"
   }
 ]
