@@ -574,5 +574,13 @@
     "username": "blueduck406",
     "password": "highway",
     "invokedAt": "2023-09-18T11:22:16.543Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Thomsen",
+    "email": "victor.thomsen@example.com",
+    "username": "ticklishmouse921",
+    "password": "beardog",
+    "invokedAt": "2023-09-18T11:28:06.402Z"
   }
 ]
