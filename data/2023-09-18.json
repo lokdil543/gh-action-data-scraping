@@ -686,5 +686,13 @@
     "username": "blackelephant338",
     "password": "swimming",
     "invokedAt": "2023-09-18T13:42:24.430Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Büscher",
+    "email": "edgar.buscher@example.com",
+    "username": "sadgorilla106",
+    "password": "touching",
+    "invokedAt": "2023-09-18T13:48:21.766Z"
   }
 ]
