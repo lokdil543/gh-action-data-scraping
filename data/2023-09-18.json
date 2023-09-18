@@ -934,5 +934,13 @@
     "username": "orangecat915",
     "password": "cohiba",
     "invokedAt": "2023-09-18T17:51:46.570Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Gagné",
+    "email": "sarah.gagne@example.com",
+    "username": "bluepanda561",
+    "password": "celebrity",
+    "invokedAt": "2023-09-18T17:57:45.227Z"
   }
 ]
