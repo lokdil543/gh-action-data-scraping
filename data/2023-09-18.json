@@ -46,5 +46,13 @@
     "username": "beautifulgoose874",
     "password": "zxcv",
     "invokedAt": "2023-09-18T02:37:20.930Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Snyder",
+    "email": "mario.snyder@example.com",
+    "username": "browncat874",
+    "password": "catwoman",
+    "invokedAt": "2023-09-18T02:43:16.801Z"
   }
 ]
