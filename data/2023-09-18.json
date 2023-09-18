@@ -1006,5 +1006,13 @@
     "username": "heavypeacock597",
     "password": "dabomb",
     "invokedAt": "2023-09-18T19:08:49.209Z"
+  },
+  {
+    "firstName": "Micheal",
+    "lastName": "Watson",
+    "email": "micheal.watson@example.com",
+    "username": "blueelephant405",
+    "password": "string",
+    "invokedAt": "2023-09-18T19:15:58.265Z"
   }
 ]
