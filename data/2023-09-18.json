@@ -1014,5 +1014,13 @@
     "username": "blueelephant405",
     "password": "string",
     "invokedAt": "2023-09-18T19:15:58.265Z"
+  },
+  {
+    "firstName": "Marlene",
+    "lastName": "Weitz",
+    "email": "marlene.weitz@example.com",
+    "username": "bigbutterfly587",
+    "password": "whatsup",
+    "invokedAt": "2023-09-18T19:21:48.503Z"
   }
 ]
