@@ -254,5 +254,13 @@
     "username": "beautifulduck888",
     "password": "playball",
     "invokedAt": "2023-09-19T05:57:31.560Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Stanojević",
+    "email": "maria.stanojevic@example.com",
+    "username": "redpanda550",
+    "password": "bricks",
+    "invokedAt": "2023-09-19T06:13:03.898Z"
   }
 ]
