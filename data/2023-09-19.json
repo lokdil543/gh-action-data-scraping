@@ -814,5 +814,13 @@
     "username": "silverwolf123",
     "password": "rebelz",
     "invokedAt": "2023-09-19T15:46:21.564Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Gil",
+    "email": "pedro.gil@example.com",
+    "username": "whitebird802",
+    "password": "blacklab",
+    "invokedAt": "2023-09-19T15:52:16.618Z"
   }
 ]
