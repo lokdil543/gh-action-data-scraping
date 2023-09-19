@@ -142,5 +142,13 @@
     "username": "organicmouse906",
     "password": "1984",
     "invokedAt": "2023-09-19T04:08:35.624Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Todorović",
+    "email": "ivan.todorovic@example.com",
+    "username": "redladybug285",
+    "password": "food",
+    "invokedAt": "2023-09-19T04:24:36.482Z"
   }
 ]
