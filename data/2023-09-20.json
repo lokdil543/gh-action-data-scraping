@@ -518,5 +518,13 @@
     "username": "greenbear584",
     "password": "toledo",
     "invokedAt": "2023-09-20T10:07:38.360Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Williams",
+    "email": "xavier.williams@example.com",
+    "username": "bigduck506",
+    "password": "caca",
+    "invokedAt": "2023-09-20T10:24:33.581Z"
   }
 ]
