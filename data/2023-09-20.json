@@ -1126,5 +1126,13 @@
     "username": "orangedog389",
     "password": "raven",
     "invokedAt": "2023-09-20T20:40:35.450Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Vrhovac",
+    "email": "bosko.vrhovac@example.com",
+    "username": "whiteduck321",
+    "password": "lake",
+    "invokedAt": "2023-09-20T20:46:29.447Z"
   }
 ]
