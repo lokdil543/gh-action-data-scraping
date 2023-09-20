@@ -1270,5 +1270,13 @@
     "username": "happyfrog204",
     "password": "kelley",
     "invokedAt": "2023-09-20T22:47:58.463Z"
+  },
+  {
+    "firstName": "Duško",
+    "lastName": "Vasić",
+    "email": "dusko.vasic@example.com",
+    "username": "lazycat990",
+    "password": "banane",
+    "invokedAt": "2023-09-20T22:53:58.461Z"
   }
 ]
