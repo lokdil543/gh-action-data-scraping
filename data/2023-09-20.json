@@ -542,5 +542,13 @@
     "username": "bluegorilla195",
     "password": "punkrock",
     "invokedAt": "2023-09-20T10:38:28.128Z"
+  },
+  {
+    "firstName": "Gabor",
+    "lastName": "Ganz",
+    "email": "gabor.ganz@example.com",
+    "username": "beautifulfish417",
+    "password": "pippin",
+    "invokedAt": "2023-09-20T10:44:26.270Z"
   }
 ]
