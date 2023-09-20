@@ -774,5 +774,13 @@
     "username": "tinywolf100",
     "password": "italian",
     "invokedAt": "2023-09-20T14:55:27.709Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Patterson",
+    "email": "frank.patterson@example.com",
+    "username": "goldensnake700",
+    "password": "alpha1",
+    "invokedAt": "2023-09-20T15:06:11.580Z"
   }
 ]
