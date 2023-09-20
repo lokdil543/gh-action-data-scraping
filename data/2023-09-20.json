@@ -1182,5 +1182,13 @@
     "username": "lazyfish283",
     "password": "sable",
     "invokedAt": "2023-09-20T21:29:30.384Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Stephens",
+    "email": "alex.stephens@example.com",
+    "username": "heavyfrog300",
+    "password": "blowfish",
+    "invokedAt": "2023-09-20T21:35:42.113Z"
   }
 ]
