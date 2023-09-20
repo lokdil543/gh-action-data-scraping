@@ -390,5 +390,13 @@
     "username": "tinyostrich990",
     "password": "yankees",
     "invokedAt": "2023-09-20T07:55:12.425Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "White",
+    "email": "harry.white@example.com",
+    "username": "lazybutterfly238",
+    "password": "cwoui",
+    "invokedAt": "2023-09-20T08:07:56.243Z"
   }
 ]
