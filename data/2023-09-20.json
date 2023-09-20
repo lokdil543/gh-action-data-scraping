@@ -454,5 +454,13 @@
     "username": "heavylion790",
     "password": "2001",
     "invokedAt": "2023-09-20T09:07:27.311Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Novak",
+    "email": "tristan.novak@example.com",
+    "username": "whitemeercat590",
+    "password": "temppass",
+    "invokedAt": "2023-09-20T09:20:19.397Z"
   }
 ]
