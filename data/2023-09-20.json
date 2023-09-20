@@ -918,5 +918,13 @@
     "username": "sadfish862",
     "password": "showing",
     "invokedAt": "2023-09-20T17:30:54.497Z"
+  },
+  {
+    "firstName": "Venâncio",
+    "lastName": "Pereira",
+    "email": "venancio.pereira@example.com",
+    "username": "goldenfish525",
+    "password": "newpass",
+    "invokedAt": "2023-09-20T17:36:47.149Z"
   }
 ]
