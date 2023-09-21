@@ -526,5 +526,13 @@
     "username": "smallbear787",
     "password": "dallas",
     "invokedAt": "2023-09-21T10:25:02.133Z"
+  },
+  {
+    "firstName": "Ljubiša",
+    "lastName": "Rodić",
+    "email": "ljubisa.rodic@example.com",
+    "username": "heavydog946",
+    "password": "football",
+    "invokedAt": "2023-09-21T10:32:32.338Z"
   }
 ]
