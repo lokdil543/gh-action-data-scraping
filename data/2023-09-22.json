@@ -166,5 +166,13 @@
     "username": "happyfish734",
     "password": "cosworth",
     "invokedAt": "2023-09-22T04:32:47.773Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Reed",
+    "email": "billy.reed@example.com",
+    "username": "whiteelephant388",
+    "password": "trash",
+    "invokedAt": "2023-09-22T04:38:53.565Z"
   }
 ]
