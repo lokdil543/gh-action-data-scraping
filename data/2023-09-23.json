@@ -1398,5 +1398,13 @@
     "username": "silverfrog426",
     "password": "band",
     "invokedAt": "2023-09-23T23:17:39.877Z"
+  },
+  {
+    "firstName": "Artur",
+    "lastName": "Martinez",
+    "email": "artur.martinez@example.com",
+    "username": "bluesnake120",
+    "password": "456123",
+    "invokedAt": "2023-09-23T23:23:36.343Z"
   }
 ]
