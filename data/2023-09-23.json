@@ -254,5 +254,13 @@
     "username": "heavyelephant363",
     "password": "walmart",
     "invokedAt": "2023-09-23T05:40:46.388Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Newman",
+    "email": "molly.newman@example.com",
+    "username": "heavykoala238",
+    "password": "triton",
+    "invokedAt": "2023-09-23T05:46:44.271Z"
   }
 ]
