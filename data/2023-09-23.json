@@ -862,5 +862,13 @@
     "username": "brownbird486",
     "password": "weather",
     "invokedAt": "2023-09-23T15:20:15.099Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Lopez",
+    "email": "ruby.lopez@example.com",
+    "username": "bluetiger655",
+    "password": "retired",
+    "invokedAt": "2023-09-23T15:26:01.399Z"
   }
 ]
