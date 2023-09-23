@@ -494,5 +494,13 @@
     "username": "whitepanda297",
     "password": "reserve",
     "invokedAt": "2023-09-23T09:23:55.296Z"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Thompson",
+    "email": "gary.thompson@example.com",
+    "username": "lazycat445",
+    "password": "garden",
+    "invokedAt": "2023-09-23T09:29:40.882Z"
   }
 ]
