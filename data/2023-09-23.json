@@ -558,5 +558,13 @@
     "username": "bigmouse132",
     "password": "maxell",
     "invokedAt": "2023-09-23T10:24:25.837Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Maksimović",
+    "email": "dusan.maksimovic@example.com",
+    "username": "smallcat348",
+    "password": "perry",
+    "invokedAt": "2023-09-23T10:30:20.627Z"
   }
 ]
