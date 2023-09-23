@@ -854,5 +854,13 @@
     "username": "orangeswan988",
     "password": "capricor",
     "invokedAt": "2023-09-23T15:11:57.789Z"
+  },
+  {
+    "firstName": "Albane",
+    "lastName": "Gautier",
+    "email": "albane.gautier@example.com",
+    "username": "brownbird486",
+    "password": "weather",
+    "invokedAt": "2023-09-23T15:20:15.099Z"
   }
 ]
