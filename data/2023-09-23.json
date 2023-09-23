@@ -1422,5 +1422,13 @@
     "username": "goldenostrich403",
     "password": "20012001",
     "invokedAt": "2023-09-23T23:35:17.013Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Kumar",
+    "email": "oliver.kumar@example.com",
+    "username": "blackfrog690",
+    "password": "shell",
+    "invokedAt": "2023-09-23T23:41:10.344Z"
   }
 ]
