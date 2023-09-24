@@ -486,5 +486,13 @@
     "username": "silverdog243",
     "password": "rebel",
     "invokedAt": "2023-09-24T09:30:39.184Z"
+  },
+  {
+    "firstName": "Phoenix",
+    "lastName": "Green",
+    "email": "phoenix.green@example.com",
+    "username": "organiccat346",
+    "password": "pelican",
+    "invokedAt": "2023-09-24T09:36:31.972Z"
   }
 ]
