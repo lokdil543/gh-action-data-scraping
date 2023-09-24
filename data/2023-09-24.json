@@ -750,5 +750,13 @@
     "username": "lazyduck285",
     "password": "hungry",
     "invokedAt": "2023-09-24T13:51:15.224Z"
+  },
+  {
+    "firstName": "Jorge Luis",
+    "lastName": "de la Fuente",
+    "email": "jorgeluis.delafuente@example.com",
+    "username": "tinybear427",
+    "password": "manager",
+    "invokedAt": "2023-09-24T13:57:01.400Z"
   }
 ]
