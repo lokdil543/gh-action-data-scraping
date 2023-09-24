@@ -478,5 +478,13 @@
     "username": "orangefish582",
     "password": "emma",
     "invokedAt": "2023-09-24T09:24:46.126Z"
+  },
+  {
+    "firstName": "Deepika",
+    "lastName": "Pai",
+    "email": "deepika.pai@example.com",
+    "username": "silverdog243",
+    "password": "rebel",
+    "invokedAt": "2023-09-24T09:30:39.184Z"
   }
 ]
