@@ -734,5 +734,13 @@
     "username": "greenswan406",
     "password": "reilly",
     "invokedAt": "2023-09-25T14:37:21.612Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Molina",
+    "email": "jose.molina@example.com",
+    "username": "blackzebra124",
+    "password": "flyer",
+    "invokedAt": "2023-09-25T14:43:13.173Z"
   }
 ]
