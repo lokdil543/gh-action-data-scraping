@@ -862,5 +862,13 @@
     "username": "greenbird125",
     "password": "five",
     "invokedAt": "2023-09-25T16:49:19.506Z"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Rhodes",
+    "email": "brittany.rhodes@example.com",
+    "username": "organicbird149",
+    "password": "kamikaze",
+    "invokedAt": "2023-09-25T16:55:17.997Z"
   }
 ]
