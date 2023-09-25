@@ -758,5 +758,13 @@
     "username": "heavyduck402",
     "password": "neville",
     "invokedAt": "2023-09-25T14:54:49.167Z"
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Jean",
+    "email": "sandra.jean@example.com",
+    "username": "brownleopard604",
+    "password": "rumble",
+    "invokedAt": "2023-09-25T15:01:34.304Z"
   }
 ]
