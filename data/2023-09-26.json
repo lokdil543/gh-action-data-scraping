@@ -1310,5 +1310,13 @@
     "username": "happydog514",
     "password": "track",
     "invokedAt": "2023-09-26T23:38:45.255Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Halko",
+    "email": "vaino.halko@example.com",
+    "username": "whitebear449",
+    "password": "bcfields",
+    "invokedAt": "2023-09-26T23:44:38.468Z"
   }
 ]
