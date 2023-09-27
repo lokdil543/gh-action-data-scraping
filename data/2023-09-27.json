@@ -838,5 +838,13 @@
     "username": "happytiger681",
     "password": "plane",
     "invokedAt": "2023-09-27T15:59:58.787Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Rasmussen",
+    "email": "noah.rasmussen@example.com",
+    "username": "silvermeercat202",
+    "password": "oxygen",
+    "invokedAt": "2023-09-27T16:17:59.624Z"
   }
 ]
