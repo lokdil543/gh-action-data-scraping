@@ -174,5 +174,13 @@
     "username": "greendog223",
     "password": "1024",
     "invokedAt": "2023-09-27T04:41:38.538Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Porto",
+    "email": "ivan.porto@example.com",
+    "username": "lazywolf929",
+    "password": "stories",
+    "invokedAt": "2023-09-27T04:47:45.004Z"
   }
 ]
