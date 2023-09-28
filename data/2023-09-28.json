@@ -598,5 +598,13 @@
     "username": "silvergorilla888",
     "password": "throat",
     "invokedAt": "2023-09-28T11:30:47.883Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Robertson",
+    "email": "steve.robertson@example.com",
+    "username": "silverpeacock342",
+    "password": "martha",
+    "invokedAt": "2023-09-28T11:36:46.176Z"
   }
 ]
