@@ -1062,5 +1062,13 @@
     "username": "yellowfrog289",
     "password": "myrtle",
     "invokedAt": "2023-09-28T19:51:29.440Z"
+  },
+  {
+    "firstName": "Jill",
+    "lastName": "Van de Wiel",
+    "email": "jill.vandewiel@example.com",
+    "username": "blackmeercat828",
+    "password": "blunts",
+    "invokedAt": "2023-09-28T19:56:58.618Z"
   }
 ]
