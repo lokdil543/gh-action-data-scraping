@@ -390,5 +390,13 @@
     "username": "smallfish381",
     "password": "footjob",
     "invokedAt": "2023-09-28T08:09:17.128Z"
+  },
+  {
+    "firstName": "René",
+    "lastName": "Mair",
+    "email": "rene.mair@example.com",
+    "username": "bigpanda784",
+    "password": "sidney",
+    "invokedAt": "2023-09-28T08:25:31.689Z"
   }
 ]
