@@ -726,5 +726,13 @@
     "username": "blackkoala197",
     "password": "lance",
     "invokedAt": "2023-09-28T14:17:43.487Z"
+  },
+  {
+    "firstName": "Djoko",
+    "lastName": "Dinčić",
+    "email": "djoko.dincic@example.com",
+    "username": "redfrog675",
+    "password": "shou",
+    "invokedAt": "2023-09-28T14:28:41.754Z"
   }
 ]
