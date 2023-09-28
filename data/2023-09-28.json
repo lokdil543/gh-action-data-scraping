@@ -446,5 +446,13 @@
     "username": "bluelion611",
     "password": "ihateyou",
     "invokedAt": "2023-09-28T09:08:07.074Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Hughes",
+    "email": "bill.hughes@example.com",
+    "username": "brownmeercat341",
+    "password": "model",
+    "invokedAt": "2023-09-28T09:20:00.425Z"
   }
 ]
