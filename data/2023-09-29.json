@@ -270,5 +270,13 @@
     "username": "greenbear192",
     "password": "topdog",
     "invokedAt": "2023-09-29T06:13:34.316Z"
+  },
+  {
+    "firstName": "Blanca",
+    "lastName": "Mora",
+    "email": "blanca.mora@example.com",
+    "username": "orangebear241",
+    "password": "niceguy",
+    "invokedAt": "2023-09-29T06:28:45.305Z"
   }
 ]
