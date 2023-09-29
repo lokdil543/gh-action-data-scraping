@@ -886,5 +886,13 @@
     "username": "silverpeacock223",
     "password": "condor",
     "invokedAt": "2023-09-29T16:50:05.929Z"
+  },
+  {
+    "firstName": "Archie",
+    "lastName": "Patel",
+    "email": "archie.patel@example.com",
+    "username": "happykoala682",
+    "password": "swimmer",
+    "invokedAt": "2023-09-29T16:55:58.970Z"
   }
 ]
