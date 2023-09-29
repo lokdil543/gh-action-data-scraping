@@ -702,5 +702,13 @@
     "username": "crazyleopard838",
     "password": "1221",
     "invokedAt": "2023-09-29T13:42:08.092Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Fleming",
+    "email": "peter.fleming@example.com",
+    "username": "blackelephant405",
+    "password": "delta",
+    "invokedAt": "2023-09-29T13:48:01.930Z"
   }
 ]
