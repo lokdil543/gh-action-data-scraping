@@ -318,5 +318,13 @@
     "username": "smallmeercat535",
     "password": "seneca",
     "invokedAt": "2023-09-29T06:59:00.284Z"
+  },
+  {
+    "firstName": "Amador",
+    "lastName": "Santillán",
+    "email": "amador.santillan@example.com",
+    "username": "crazytiger259",
+    "password": "test",
+    "invokedAt": "2023-09-29T07:10:50.537Z"
   }
 ]
