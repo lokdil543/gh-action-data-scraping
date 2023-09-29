@@ -1334,5 +1334,13 @@
     "username": "whiteduck719",
     "password": "admin1",
     "invokedAt": "2023-09-29T23:44:42.291Z"
+  },
+  {
+    "firstName": "Danilson",
+    "lastName": "Van der Meijden",
+    "email": "danilson.vandermeijden@example.com",
+    "username": "goldenbird303",
+    "password": "oilers",
+    "invokedAt": "2023-09-29T23:50:34.468Z"
   }
 ]
