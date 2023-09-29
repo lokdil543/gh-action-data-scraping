@@ -414,5 +414,13 @@
     "username": "yellowbear713",
     "password": "marathon",
     "invokedAt": "2023-09-29T08:34:41.733Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Tuomi",
+    "email": "amanda.tuomi@example.com",
+    "username": "happytiger571",
+    "password": "gotcha",
+    "invokedAt": "2023-09-29T08:40:38.283Z"
   }
 ]
