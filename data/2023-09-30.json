@@ -406,5 +406,13 @@
     "username": "goldenmouse512",
     "password": "chevy",
     "invokedAt": "2023-09-30T08:09:55.316Z"
+  },
+  {
+    "firstName": "Julián",
+    "lastName": "Torres",
+    "email": "julian.torres@example.com",
+    "username": "yellowzebra728",
+    "password": "entropy",
+    "invokedAt": "2023-09-30T08:22:58.517Z"
   }
 ]
