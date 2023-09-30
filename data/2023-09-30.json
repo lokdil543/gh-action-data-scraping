@@ -262,5 +262,13 @@
     "username": "smallbutterfly108",
     "password": "lightnin",
     "invokedAt": "2023-09-30T05:53:01.230Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Jenkins",
+    "email": "bill.jenkins@example.com",
+    "username": "silvercat952",
+    "password": "adam",
+    "invokedAt": "2023-09-30T05:58:47.961Z"
   }
 ]
