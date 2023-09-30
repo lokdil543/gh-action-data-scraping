@@ -870,5 +870,13 @@
     "username": "tinyostrich100",
     "password": "dealer",
     "invokedAt": "2023-09-30T15:32:46.058Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Johnson",
+    "email": "max.johnson@example.com",
+    "username": "ticklishbutterfly135",
+    "password": "keywest",
+    "invokedAt": "2023-09-30T15:38:42.494Z"
   }
 ]
