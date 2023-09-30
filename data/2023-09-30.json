@@ -342,5 +342,13 @@
     "username": "goldenostrich210",
     "password": "passwd",
     "invokedAt": "2023-09-30T07:15:54.179Z"
+  },
+  {
+    "firstName": "Maëlys",
+    "lastName": "Fournier",
+    "email": "maelys.fournier@example.com",
+    "username": "ticklishfrog539",
+    "password": "original",
+    "invokedAt": "2023-09-30T07:21:44.473Z"
   }
 ]
