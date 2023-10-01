@@ -470,5 +470,13 @@
     "username": "sadfish738",
     "password": "marlin",
     "invokedAt": "2023-10-01T09:32:34.897Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Lee",
+    "email": "mary.lee@example.com",
+    "username": "sadmeercat994",
+    "password": "benjamin",
+    "invokedAt": "2023-10-01T09:38:36.485Z"
   }
 ]
