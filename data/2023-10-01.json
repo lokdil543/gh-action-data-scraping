@@ -182,5 +182,13 @@
     "username": "angrymouse992",
     "password": "memorex",
     "invokedAt": "2023-10-01T04:58:43.978Z"
+  },
+  {
+    "firstName": "Noémie",
+    "lastName": "Faure",
+    "email": "noemie.faure@example.com",
+    "username": "crazycat108",
+    "password": "1234abcd",
+    "invokedAt": "2023-10-01T05:10:13.162Z"
   }
 ]
