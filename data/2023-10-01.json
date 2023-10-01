@@ -1166,5 +1166,13 @@
     "username": "blackduck620",
     "password": "blazer",
     "invokedAt": "2023-10-01T20:36:58.176Z"
+  },
+  {
+    "firstName": "Ahmet",
+    "lastName": "Türkyılmaz",
+    "email": "ahmet.turkyilmaz@example.com",
+    "username": "silvercat107",
+    "password": "hockey",
+    "invokedAt": "2023-10-01T20:42:53.499Z"
   }
 ]
