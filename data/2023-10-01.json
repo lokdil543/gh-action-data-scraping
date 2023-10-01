@@ -654,5 +654,13 @@
     "username": "orangebird167",
     "password": "australi",
     "invokedAt": "2023-10-01T12:38:32.810Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Leclercq",
+    "email": "emil.leclercq@example.com",
+    "username": "angrysnake496",
+    "password": "columbus",
+    "invokedAt": "2023-10-01T12:52:34.107Z"
   }
 ]
