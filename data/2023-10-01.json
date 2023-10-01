@@ -1086,5 +1086,13 @@
     "username": "greencat604",
     "password": "flyer",
     "invokedAt": "2023-10-01T19:27:20.830Z"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Barnaby",
+    "email": "logan.barnaby@example.com",
+    "username": "orangeelephant391",
+    "password": "moses",
+    "invokedAt": "2023-10-01T19:33:24.072Z"
   }
 ]
