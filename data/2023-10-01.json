@@ -1078,5 +1078,13 @@
     "username": "heavypeacock890",
     "password": "blue11",
     "invokedAt": "2023-10-01T19:21:34.156Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "García",
+    "email": "fernando.garcia@example.com",
+    "username": "greencat604",
+    "password": "flyer",
+    "invokedAt": "2023-10-01T19:27:20.830Z"
   }
 ]
