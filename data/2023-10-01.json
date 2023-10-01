@@ -454,5 +454,13 @@
     "username": "happyleopard632",
     "password": "aztnm",
     "invokedAt": "2023-10-01T09:20:29.632Z"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Jenkins",
+    "email": "gavin.jenkins@example.com",
+    "username": "blackwolf304",
+    "password": "hero",
+    "invokedAt": "2023-10-01T09:26:24.363Z"
   }
 ]
