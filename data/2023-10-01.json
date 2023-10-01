@@ -478,5 +478,13 @@
     "username": "sadmeercat994",
     "password": "benjamin",
     "invokedAt": "2023-10-01T09:38:36.485Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Armstrong",
+    "email": "howard.armstrong@example.com",
+    "username": "redbird178",
+    "password": "55bgates",
+    "invokedAt": "2023-10-01T09:44:26.250Z"
   }
 ]
