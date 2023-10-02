@@ -182,5 +182,13 @@
     "username": "brownleopard122",
     "password": "salesman",
     "invokedAt": "2023-10-02T04:51:21.657Z"
+  },
+  {
+    "firstName": "Mélanie",
+    "lastName": "Picard",
+    "email": "melanie.picard@example.com",
+    "username": "heavybear463",
+    "password": "media",
+    "invokedAt": "2023-10-02T04:57:15.689Z"
   }
 ]
