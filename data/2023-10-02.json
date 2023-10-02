@@ -358,5 +358,13 @@
     "username": "blackcat134",
     "password": "boots",
     "invokedAt": "2023-10-02T07:44:16.479Z"
+  },
+  {
+    "firstName": "Atanásio",
+    "lastName": "da Costa",
+    "email": "atanasio.dacosta@example.com",
+    "username": "blackfish700",
+    "password": "hunter",
+    "invokedAt": "2023-10-02T07:50:19.968Z"
   }
 ]
