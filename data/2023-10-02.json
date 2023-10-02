@@ -1126,5 +1126,13 @@
     "username": "happyrabbit998",
     "password": "trustme",
     "invokedAt": "2023-10-02T20:52:29.969Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Olsen",
+    "email": "maja.olsen@example.com",
+    "username": "silverduck190",
+    "password": "shazam",
+    "invokedAt": "2023-10-02T20:58:13.986Z"
   }
 ]
