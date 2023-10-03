@@ -638,5 +638,13 @@
     "username": "purplebear365",
     "password": "testing1",
     "invokedAt": "2023-10-03T12:47:34.812Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Muñoz",
+    "email": "jorge.munoz@example.com",
+    "username": "whiteladybug985",
+    "password": "ernesto",
+    "invokedAt": "2023-10-03T13:01:04.761Z"
   }
 ]
