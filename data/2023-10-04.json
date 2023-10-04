@@ -846,5 +846,13 @@
     "username": "happyduck378",
     "password": "wookie",
     "invokedAt": "2023-10-04T16:39:38.431Z"
+  },
+  {
+    "firstName": "Tiago",
+    "lastName": "Dufour",
+    "email": "tiago.dufour@example.com",
+    "username": "yellowduck539",
+    "password": "parker",
+    "invokedAt": "2023-10-04T16:45:37.995Z"
   }
 ]
