@@ -318,5 +318,13 @@
     "username": "silverbird961",
     "password": "98765432",
     "invokedAt": "2023-10-04T07:11:44.435Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "White",
+    "email": "sophie.white@example.com",
+    "username": "whiteelephant456",
+    "password": "lakewood",
+    "invokedAt": "2023-10-04T07:20:15.282Z"
   }
 ]
