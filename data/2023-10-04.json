@@ -702,5 +702,13 @@
     "username": "beautifultiger203",
     "password": "11111",
     "invokedAt": "2023-10-04T14:00:46.079Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Johansen",
+    "email": "frida.johansen@example.com",
+    "username": "crazyduck634",
+    "password": "tonight",
+    "invokedAt": "2023-10-04T14:14:45.069Z"
   }
 ]
