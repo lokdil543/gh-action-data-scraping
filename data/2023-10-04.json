@@ -830,5 +830,13 @@
     "username": "angryzebra584",
     "password": "q1w2e3",
     "invokedAt": "2023-10-04T16:16:09.171Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Hoffman",
+    "email": "maria.hoffman@example.com",
+    "username": "orangecat562",
+    "password": "cerberus",
+    "invokedAt": "2023-10-04T16:30:55.066Z"
   }
 ]
