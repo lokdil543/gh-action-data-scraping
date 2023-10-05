@@ -438,5 +438,13 @@
     "username": "bluekoala887",
     "password": "basketball",
     "invokedAt": "2023-10-05T09:09:46.934Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Madsen",
+    "email": "storm.madsen@example.com",
+    "username": "blackleopard825",
+    "password": "womam",
+    "invokedAt": "2023-10-05T09:21:31.123Z"
   }
 ]
