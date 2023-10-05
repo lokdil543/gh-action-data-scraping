@@ -214,5 +214,13 @@
     "username": "bluedog453",
     "password": "cosmos",
     "invokedAt": "2023-10-05T05:28:30.344Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Haapala",
+    "email": "juho.haapala@example.com",
+    "username": "sadmouse542",
+    "password": "rockstar",
+    "invokedAt": "2023-10-05T05:34:51.304Z"
   }
 ]
