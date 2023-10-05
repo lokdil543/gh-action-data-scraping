@@ -278,5 +278,13 @@
     "username": "brownbird235",
     "password": "818181",
     "invokedAt": "2023-10-05T06:36:21.265Z"
+  },
+  {
+    "firstName": "Jacek",
+    "lastName": "Bachmeier",
+    "email": "jacek.bachmeier@example.com",
+    "username": "organicdog678",
+    "password": "rugger",
+    "invokedAt": "2023-10-05T06:42:17.367Z"
   }
 ]
