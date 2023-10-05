@@ -454,5 +454,13 @@
     "username": "bigbutterfly590",
     "password": "beng",
     "invokedAt": "2023-10-05T09:27:08.957Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Brewer",
+    "email": "amy.brewer@example.com",
+    "username": "sadrabbit100",
+    "password": "pacers",
+    "invokedAt": "2023-10-05T09:33:39.653Z"
   }
 ]
