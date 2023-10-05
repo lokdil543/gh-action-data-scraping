@@ -358,5 +358,13 @@
     "username": "bluewolf536",
     "password": "mang",
     "invokedAt": "2023-10-05T07:43:57.965Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Van Hardeveld",
+    "email": "eric.vanhardeveld@example.com",
+    "username": "orangecat380",
+    "password": "thedude",
+    "invokedAt": "2023-10-05T07:49:46.978Z"
   }
 ]
