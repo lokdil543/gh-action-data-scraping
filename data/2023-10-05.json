@@ -1142,5 +1142,13 @@
     "username": "bigpanda653",
     "password": "sixpack",
     "invokedAt": "2023-10-05T21:24:54.334Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Cooper",
+    "email": "harry.cooper@example.com",
+    "username": "angryduck813",
+    "password": "ramrod",
+    "invokedAt": "2023-10-05T21:30:43.066Z"
   }
 ]
