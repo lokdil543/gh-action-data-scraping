@@ -558,5 +558,13 @@
     "username": "tinybear675",
     "password": "coventry",
     "invokedAt": "2023-10-05T11:10:32.284Z"
+  },
+  {
+    "firstName": "Fridolin",
+    "lastName": "Schwind",
+    "email": "fridolin.schwind@example.com",
+    "username": "greenbird353",
+    "password": "pickle",
+    "invokedAt": "2023-10-05T11:18:24.799Z"
   }
 ]
