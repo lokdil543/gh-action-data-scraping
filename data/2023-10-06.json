@@ -518,5 +518,13 @@
     "username": "happysnake116",
     "password": "micro",
     "invokedAt": "2023-10-06T10:15:31.589Z"
+  },
+  {
+    "firstName": "Cristiaan",
+    "lastName": "Dijksman",
+    "email": "cristiaan.dijksman@example.com",
+    "username": "lazyswan586",
+    "password": "franklin",
+    "invokedAt": "2023-10-06T10:29:14.925Z"
   }
 ]
