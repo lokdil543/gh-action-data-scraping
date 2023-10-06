@@ -638,5 +638,13 @@
     "username": "blackgoose210",
     "password": "pilot",
     "invokedAt": "2023-10-06T11:59:57.653Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Collins",
+    "email": "bruce.collins@example.com",
+    "username": "purplepeacock539",
+    "password": "1977",
+    "invokedAt": "2023-10-06T12:27:06.294Z"
   }
 ]
