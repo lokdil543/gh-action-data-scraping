@@ -382,5 +382,13 @@
     "username": "orangemeercat140",
     "password": "twenty",
     "invokedAt": "2023-10-06T07:55:01.358Z"
+  },
+  {
+    "firstName": "Jean-Claude",
+    "lastName": "Moulin",
+    "email": "jean-claude.moulin@example.com",
+    "username": "crazykoala234",
+    "password": "mittens",
+    "invokedAt": "2023-10-06T08:07:32.450Z"
   }
 ]
