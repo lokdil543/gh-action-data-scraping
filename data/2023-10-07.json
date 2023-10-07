@@ -262,5 +262,13 @@
     "username": "whiteladybug330",
     "password": "1218",
     "invokedAt": "2023-10-07T05:52:26.735Z"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Bakken",
+    "email": "julian.bakken@example.com",
+    "username": "blackladybug622",
+    "password": "great1",
+    "invokedAt": "2023-10-07T05:58:15.068Z"
   }
 ]
