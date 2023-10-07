@@ -510,5 +510,13 @@
     "username": "greenbird344",
     "password": "tower",
     "invokedAt": "2023-10-07T09:42:32.669Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Williams",
+    "email": "sara.williams@example.com",
+    "username": "crazyfrog977",
+    "password": "hokies",
+    "invokedAt": "2023-10-07T09:48:28.225Z"
   }
 ]
