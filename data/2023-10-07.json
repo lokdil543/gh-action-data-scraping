@@ -438,5 +438,13 @@
     "username": "blueostrich219",
     "password": "thirty",
     "invokedAt": "2023-10-07T08:42:00.103Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Helgerud",
+    "email": "emily.helgerud@example.com",
+    "username": "smalltiger475",
+    "password": "postman",
+    "invokedAt": "2023-10-07T08:48:02.895Z"
   }
 ]
