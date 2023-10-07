@@ -430,5 +430,13 @@
     "username": "ticklishduck735",
     "password": "piano",
     "invokedAt": "2023-10-07T08:36:12.085Z"
+  },
+  {
+    "firstName": "Eugene",
+    "lastName": "Murray",
+    "email": "eugene.murray@example.com",
+    "username": "blueostrich219",
+    "password": "thirty",
+    "invokedAt": "2023-10-07T08:42:00.103Z"
   }
 ]
