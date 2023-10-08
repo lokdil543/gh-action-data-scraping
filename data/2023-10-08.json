@@ -846,5 +846,13 @@
     "username": "smallostrich728",
     "password": "destiny",
     "invokedAt": "2023-10-08T15:24:19.317Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Snyder",
+    "email": "david.snyder@example.com",
+    "username": "crazybird564",
+    "password": "pebbles",
+    "invokedAt": "2023-10-08T15:30:07.432Z"
   }
 ]
