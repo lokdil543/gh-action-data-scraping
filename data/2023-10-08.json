@@ -1158,5 +1158,13 @@
     "username": "heavybear231",
     "password": "integra",
     "invokedAt": "2023-10-08T20:07:47.104Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Lorentsen",
+    "email": "mary.lorentsen@example.com",
+    "username": "blackwolf584",
+    "password": "emperor",
+    "invokedAt": "2023-10-08T20:19:05.053Z"
   }
 ]
