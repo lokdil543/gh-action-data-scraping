@@ -30,5 +30,13 @@
     "username": "sadzebra875",
     "password": "handball",
     "invokedAt": "2023-10-09T02:24:18.278Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Poulsen",
+    "email": "simon.poulsen@example.com",
+    "username": "yellowbutterfly700",
+    "password": "sooners",
+    "invokedAt": "2023-10-09T02:31:34.463Z"
   }
 ]
