@@ -438,5 +438,13 @@
     "username": "redpanda188",
     "password": "leonard",
     "invokedAt": "2023-10-09T09:08:19.655Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Trujillo",
+    "email": "diego.trujillo@example.com",
+    "username": "beautifulkoala788",
+    "password": "98765432",
+    "invokedAt": "2023-10-09T09:22:02.899Z"
   }
 ]
