@@ -614,5 +614,13 @@
     "username": "ticklishfish180",
     "password": "seadoo",
     "invokedAt": "2023-10-09T11:57:33.451Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Mihajlović",
+    "email": "petko.mihajlovic@example.com",
+    "username": "yellowpanda791",
+    "password": "4ever",
+    "invokedAt": "2023-10-09T12:20:00.222Z"
   }
 ]
