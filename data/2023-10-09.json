@@ -174,5 +174,13 @@
     "username": "whiteduck599",
     "password": "plastic",
     "invokedAt": "2023-10-09T04:42:01.003Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Gonzalez",
+    "email": "henry.gonzalez@example.com",
+    "username": "bluepanda939",
+    "password": "mantle",
+    "invokedAt": "2023-10-09T04:48:06.871Z"
   }
 ]
