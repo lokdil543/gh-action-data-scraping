@@ -630,5 +630,13 @@
     "username": "lazyostrich854",
     "password": "supra",
     "invokedAt": "2023-10-09T12:47:35.055Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Preković",
+    "email": "aleksa.prekovic@example.com",
+    "username": "heavyostrich166",
+    "password": "alice1",
+    "invokedAt": "2023-10-09T13:02:40.501Z"
   }
 ]
