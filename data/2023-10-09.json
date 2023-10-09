@@ -86,5 +86,13 @@
     "username": "happydog300",
     "password": "redbull",
     "invokedAt": "2023-10-09T03:18:31.799Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Campbell",
+    "email": "louis.campbell@example.com",
+    "username": "bluewolf778",
+    "password": "mercer",
+    "invokedAt": "2023-10-09T03:24:31.217Z"
   }
 ]
