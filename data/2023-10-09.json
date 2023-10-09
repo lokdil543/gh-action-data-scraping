@@ -62,5 +62,13 @@
     "username": "tinypeacock567",
     "password": "cabbage",
     "invokedAt": "2023-10-09T02:49:14.109Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Snyder",
+    "email": "dennis.snyder@example.com",
+    "username": "purpletiger485",
+    "password": "robert",
+    "invokedAt": "2023-10-09T02:55:01.241Z"
   }
 ]
