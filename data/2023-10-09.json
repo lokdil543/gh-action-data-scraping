@@ -766,5 +766,13 @@
     "username": "greendog397",
     "password": "liverpoo",
     "invokedAt": "2023-10-09T15:24:25.933Z"
+  },
+  {
+    "firstName": "Toby",
+    "lastName": "Hughes",
+    "email": "toby.hughes@example.com",
+    "username": "yellowcat168",
+    "password": "techniques",
+    "invokedAt": "2023-10-09T15:30:26.422Z"
   }
 ]
