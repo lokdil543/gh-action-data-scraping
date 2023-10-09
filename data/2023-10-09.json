@@ -430,5 +430,13 @@
     "username": "yellowcat563",
     "password": "smokey",
     "invokedAt": "2023-10-09T08:56:09.190Z"
+  },
+  {
+    "firstName": "Momčilo",
+    "lastName": "Tadić",
+    "email": "momcilo.tadic@example.com",
+    "username": "redpanda188",
+    "password": "leonard",
+    "invokedAt": "2023-10-09T09:08:19.655Z"
   }
 ]
