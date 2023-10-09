@@ -166,5 +166,13 @@
     "username": "whitefrog932",
     "password": "4runner",
     "invokedAt": "2023-10-09T04:36:14.531Z"
+  },
+  {
+    "firstName": "Guy",
+    "lastName": "Simpson",
+    "email": "guy.simpson@example.com",
+    "username": "whiteduck599",
+    "password": "plastic",
+    "invokedAt": "2023-10-09T04:42:01.003Z"
   }
 ]
