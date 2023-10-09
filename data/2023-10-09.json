@@ -782,5 +782,13 @@
     "username": "yellowgorilla954",
     "password": "lockerroom",
     "invokedAt": "2023-10-09T15:36:32.231Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Roberts",
+    "email": "jacob.roberts@example.com",
+    "username": "lazycat261",
+    "password": "shuttle",
+    "invokedAt": "2023-10-09T15:42:24.171Z"
   }
 ]
