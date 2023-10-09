@@ -1150,5 +1150,13 @@
     "username": "bigpanda298",
     "password": "8inches",
     "invokedAt": "2023-10-09T21:27:07.217Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Davis",
+    "email": "ralph.davis@example.com",
+    "username": "orangecat102",
+    "password": "crimson",
+    "invokedAt": "2023-10-09T21:33:29.823Z"
   }
 ]
