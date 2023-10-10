@@ -342,5 +342,13 @@
     "username": "purpletiger658",
     "password": "painter",
     "invokedAt": "2023-10-10T07:28:40.331Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Chu",
+    "email": "amy.chu@example.com",
+    "username": "heavyduck553",
+    "password": "tweety",
+    "invokedAt": "2023-10-10T07:34:49.101Z"
   }
 ]
