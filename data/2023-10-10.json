@@ -694,5 +694,13 @@
     "username": "ticklishcat221",
     "password": "hello123",
     "invokedAt": "2023-10-10T13:45:50.941Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Aşıkoğlu",
+    "email": "onur.asikoglu@example.com",
+    "username": "yellowpanda296",
+    "password": "aurora",
+    "invokedAt": "2023-10-10T13:51:44.642Z"
   }
 ]
