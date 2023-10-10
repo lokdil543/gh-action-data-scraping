@@ -718,5 +718,13 @@
     "username": "angrygoose431",
     "password": "helmet",
     "invokedAt": "2023-10-10T14:09:16.622Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Tuominen",
+    "email": "siiri.tuominen@example.com",
+    "username": "whitepanda312",
+    "password": "predator",
+    "invokedAt": "2023-10-10T14:24:21.512Z"
   }
 ]
