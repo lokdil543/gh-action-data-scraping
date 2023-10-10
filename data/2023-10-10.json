@@ -598,5 +598,13 @@
     "username": "beautifulelephant814",
     "password": "puck",
     "invokedAt": "2023-10-10T11:35:35.609Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Barnes",
+    "email": "sam.barnes@example.com",
+    "username": "lazyleopard494",
+    "password": "memorex",
+    "invokedAt": "2023-10-10T11:41:35.696Z"
   }
 ]
