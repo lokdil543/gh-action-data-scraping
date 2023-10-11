@@ -886,5 +886,13 @@
     "username": "orangeleopard861",
     "password": "tickle",
     "invokedAt": "2023-10-11T17:08:39.558Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Myers",
+    "email": "arnold.myers@example.com",
+    "username": "tinygoose597",
+    "password": "bounce",
+    "invokedAt": "2023-10-11T17:22:28.154Z"
   }
 ]
