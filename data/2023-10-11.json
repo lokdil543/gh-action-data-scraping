@@ -310,5 +310,13 @@
     "username": "yellowlion882",
     "password": "plum",
     "invokedAt": "2023-10-11T06:56:40.196Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Skomedal",
+    "email": "tobias.skomedal@example.com",
+    "username": "yellowfish885",
+    "password": "qing",
+    "invokedAt": "2023-10-11T07:08:08.114Z"
   }
 ]
