@@ -334,5 +334,13 @@
     "username": "goldenzebra909",
     "password": "piano",
     "invokedAt": "2023-10-11T07:24:19.983Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Ouellet",
+    "email": "arnaud.ouellet@example.com",
+    "username": "yellowelephant629",
+    "password": "remote",
+    "invokedAt": "2023-10-11T07:30:17.914Z"
   }
 ]
