@@ -638,5 +638,13 @@
     "username": "silvermeercat902",
     "password": "maximus",
     "invokedAt": "2023-10-12T12:22:00.180Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Larson",
+    "email": "ryan.larson@example.com",
+    "username": "yellowgoose189",
+    "password": "scooter",
+    "invokedAt": "2023-10-12T12:46:45.650Z"
   }
 ]
