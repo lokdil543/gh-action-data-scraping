@@ -534,5 +534,13 @@
     "username": "purpleelephant592",
     "password": "avalon",
     "invokedAt": "2023-10-12T10:39:33.121Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Edwards",
+    "email": "louis.edwards@example.com",
+    "username": "purpleostrich252",
+    "password": "vector",
+    "invokedAt": "2023-10-12T10:45:31.348Z"
   }
 ]
