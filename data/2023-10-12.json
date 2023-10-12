@@ -590,5 +590,13 @@
     "username": "smalldog153",
     "password": "video",
     "invokedAt": "2023-10-12T11:29:12.047Z"
+  },
+  {
+    "firstName": "Dawn",
+    "lastName": "Brooks",
+    "email": "dawn.brooks@example.com",
+    "username": "lazymouse879",
+    "password": "bowser",
+    "invokedAt": "2023-10-12T11:35:19.159Z"
   }
 ]
