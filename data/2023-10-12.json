@@ -630,5 +630,13 @@
     "username": "sadbutterfly679",
     "password": "terrapin",
     "invokedAt": "2023-10-12T11:58:37.958Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Hudson",
+    "email": "sam.hudson@example.com",
+    "username": "silvermeercat902",
+    "password": "maximus",
+    "invokedAt": "2023-10-12T12:22:00.180Z"
   }
 ]
