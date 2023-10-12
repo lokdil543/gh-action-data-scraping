@@ -918,5 +918,13 @@
     "username": "smallgoose218",
     "password": "director",
     "invokedAt": "2023-10-12T17:42:07.432Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Côté",
+    "email": "sarah.cote@example.com",
+    "username": "beautifulelephant653",
+    "password": "chrono",
+    "invokedAt": "2023-10-12T17:48:02.575Z"
   }
 ]
