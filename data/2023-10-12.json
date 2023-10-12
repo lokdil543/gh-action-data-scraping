@@ -110,5 +110,13 @@
     "username": "purpleleopard837",
     "password": "rugger",
     "invokedAt": "2023-10-12T03:34:26.455Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Davis",
+    "email": "roy.davis@example.com",
+    "username": "yellowleopard813",
+    "password": "wrestling",
+    "invokedAt": "2023-10-12T03:40:14.100Z"
   }
 ]
