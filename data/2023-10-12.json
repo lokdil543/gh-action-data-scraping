@@ -1294,5 +1294,13 @@
     "username": "greengoose653",
     "password": "anne",
     "invokedAt": "2023-10-12T23:31:38.509Z"
+  },
+  {
+    "firstName": "Nurdan",
+    "lastName": "Koyuncu",
+    "email": "nurdan.koyuncu@example.com",
+    "username": "bigkoala145",
+    "password": "futbol",
+    "invokedAt": "2023-10-12T23:37:26.046Z"
   }
 ]
