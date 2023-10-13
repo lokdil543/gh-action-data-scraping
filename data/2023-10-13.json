@@ -510,5 +510,13 @@
     "username": "whitedog867",
     "password": "garbage",
     "invokedAt": "2023-10-13T10:34:33.695Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Smith",
+    "email": "maxime.smith@example.com",
+    "username": "crazytiger679",
+    "password": "ilikeit",
+    "invokedAt": "2023-10-13T10:40:31.434Z"
   }
 ]
