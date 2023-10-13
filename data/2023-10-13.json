@@ -630,5 +630,13 @@
     "username": "browndog272",
     "password": "adam",
     "invokedAt": "2023-10-13T12:46:35.143Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Liu",
+    "email": "xavier.liu@example.com",
+    "username": "smallcat931",
+    "password": "port",
+    "invokedAt": "2023-10-13T13:00:28.418Z"
   }
 ]
