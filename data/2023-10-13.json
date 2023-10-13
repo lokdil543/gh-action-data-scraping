@@ -190,5 +190,13 @@
     "username": "happyswan594",
     "password": "booster",
     "invokedAt": "2023-10-13T05:10:11.816Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Kumar",
+    "email": "leo.kumar@example.com",
+    "username": "bigtiger803",
+    "password": "trek",
+    "invokedAt": "2023-10-13T05:24:03.183Z"
   }
 ]
