@@ -662,5 +662,13 @@
     "username": "crazysnake890",
     "password": "aviation",
     "invokedAt": "2023-10-13T13:35:43.404Z"
+  },
+  {
+    "firstName": "Oswald",
+    "lastName": "Steinmetz",
+    "email": "oswald.steinmetz@example.com",
+    "username": "crazycat430",
+    "password": "supernov",
+    "invokedAt": "2023-10-13T13:41:40.190Z"
   }
 ]
