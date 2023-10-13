@@ -1022,5 +1022,13 @@
     "username": "greendog653",
     "password": "dominion",
     "invokedAt": "2023-10-13T19:30:18.622Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Nelson",
+    "email": "carol.nelson@example.com",
+    "username": "brownbutterfly274",
+    "password": "stella",
+    "invokedAt": "2023-10-13T19:36:10.802Z"
   }
 ]
