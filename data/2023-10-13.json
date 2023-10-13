@@ -502,5 +502,13 @@
     "username": "blueleopard692",
     "password": "veritas",
     "invokedAt": "2023-10-13T10:27:36.093Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Stojković",
+    "email": "ana.stojkovic@example.com",
+    "username": "whitedog867",
+    "password": "garbage",
+    "invokedAt": "2023-10-13T10:34:33.695Z"
   }
 ]
