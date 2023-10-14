@@ -198,5 +198,13 @@
     "username": "orangebutterfly546",
     "password": "thing",
     "invokedAt": "2023-10-14T04:48:05.326Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Douglas",
+    "email": "joe.douglas@example.com",
+    "username": "tinytiger867",
+    "password": "megatron",
+    "invokedAt": "2023-10-14T04:53:55.982Z"
   }
 ]
