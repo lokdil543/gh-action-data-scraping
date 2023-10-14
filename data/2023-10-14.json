@@ -294,5 +294,13 @@
     "username": "happyrabbit946",
     "password": "skip",
     "invokedAt": "2023-10-14T06:27:25.897Z"
+  },
+  {
+    "firstName": "Miomir",
+    "lastName": "Radivojević",
+    "email": "miomir.radivojevic@example.com",
+    "username": "happyzebra333",
+    "password": "654321",
+    "invokedAt": "2023-10-14T06:33:52.169Z"
   }
 ]
