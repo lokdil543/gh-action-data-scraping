@@ -246,5 +246,13 @@
     "username": "whitegoose651",
     "password": "ncc1701d",
     "invokedAt": "2023-10-14T05:35:27.740Z"
+  },
+  {
+    "firstName": "Josep",
+    "lastName": "Bravo",
+    "email": "josep.bravo@example.com",
+    "username": "happyfrog600",
+    "password": "panic",
+    "invokedAt": "2023-10-14T05:41:23.086Z"
   }
 ]
