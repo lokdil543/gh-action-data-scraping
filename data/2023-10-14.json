@@ -718,5 +718,13 @@
     "username": "greenostrich250",
     "password": "united",
     "invokedAt": "2023-10-14T13:14:24.731Z"
+  },
+  {
+    "firstName": "Novak",
+    "lastName": "Radivojević",
+    "email": "novak.radivojevic@example.com",
+    "username": "ticklishbear958",
+    "password": "coolguy",
+    "invokedAt": "2023-10-14T13:22:18.849Z"
   }
 ]
