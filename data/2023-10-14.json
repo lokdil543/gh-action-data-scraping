@@ -358,5 +358,13 @@
     "username": "orangewolf479",
     "password": "pixies",
     "invokedAt": "2023-10-14T07:22:18.682Z"
+  },
+  {
+    "firstName": "Julien",
+    "lastName": "Morin",
+    "email": "julien.morin@example.com",
+    "username": "crazygorilla580",
+    "password": "backdoor",
+    "invokedAt": "2023-10-14T07:28:05.535Z"
   }
 ]
