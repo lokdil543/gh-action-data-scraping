@@ -814,5 +814,13 @@
     "username": "goldenfrog290",
     "password": "fredrick",
     "invokedAt": "2023-10-15T15:05:22.260Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Salonen",
+    "email": "arttu.salonen@example.com",
+    "username": "goldenlion314",
+    "password": "maximum",
+    "invokedAt": "2023-10-15T15:17:25.973Z"
   }
 ]
