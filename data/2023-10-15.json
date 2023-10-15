@@ -1070,5 +1070,13 @@
     "username": "bigelephant373",
     "password": "2003",
     "invokedAt": "2023-10-15T19:13:02.675Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Olsen",
+    "email": "alexander.olsen@example.com",
+    "username": "redbutterfly120",
+    "password": "socks",
+    "invokedAt": "2023-10-15T19:18:58.292Z"
   }
 ]
