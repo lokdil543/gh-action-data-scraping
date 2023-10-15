@@ -494,5 +494,13 @@
     "username": "sadlion380",
     "password": "golfing",
     "invokedAt": "2023-10-15T09:42:40.222Z"
+  },
+  {
+    "firstName": "Gaspar",
+    "lastName": "Moura",
+    "email": "gaspar.moura@example.com",
+    "username": "crazyduck130",
+    "password": "highway",
+    "invokedAt": "2023-10-15T09:48:37.782Z"
   }
 ]
