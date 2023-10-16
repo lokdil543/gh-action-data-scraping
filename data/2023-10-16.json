@@ -950,5 +950,13 @@
     "username": "lazypanda293",
     "password": "encore",
     "invokedAt": "2023-10-16T18:39:54.107Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Yorulmaz",
+    "email": "murat.yorulmaz@example.com",
+    "username": "brownelephant345",
+    "password": "234567",
+    "invokedAt": "2023-10-16T18:45:35.806Z"
   }
 ]
