@@ -1246,5 +1246,13 @@
     "username": "happyduck103",
     "password": "inside",
     "invokedAt": "2023-10-16T23:11:36.092Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Hokkanen",
+    "email": "anton.hokkanen@example.com",
+    "username": "happysnake319",
+    "password": "faithful",
+    "invokedAt": "2023-10-16T23:21:18.913Z"
   }
 ]
