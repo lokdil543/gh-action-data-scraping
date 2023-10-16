@@ -310,5 +310,13 @@
     "username": "silverladybug512",
     "password": "groovy",
     "invokedAt": "2023-10-16T07:06:59.498Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Lévesque",
+    "email": "david.levesque@example.com",
+    "username": "orangedog334",
+    "password": "dragonba",
+    "invokedAt": "2023-10-16T07:18:45.787Z"
   }
 ]
