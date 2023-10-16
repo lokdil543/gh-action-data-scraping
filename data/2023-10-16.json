@@ -358,5 +358,13 @@
     "username": "purplecat157",
     "password": "volcom",
     "invokedAt": "2023-10-16T07:48:21.979Z"
+  },
+  {
+    "firstName": "Rita",
+    "lastName": "Cardoso",
+    "email": "rita.cardoso@example.com",
+    "username": "lazyfrog976",
+    "password": "special",
+    "invokedAt": "2023-10-16T07:54:16.096Z"
   }
 ]
