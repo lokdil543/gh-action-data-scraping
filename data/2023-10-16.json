@@ -486,5 +486,13 @@
     "username": "sadlion875",
     "password": "nurses",
     "invokedAt": "2023-10-16T09:57:25.829Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Dunne",
+    "email": "andy.dunne@example.com",
+    "username": "smallsnake680",
+    "password": "cherokee",
+    "invokedAt": "2023-10-16T10:10:52.930Z"
   }
 ]
