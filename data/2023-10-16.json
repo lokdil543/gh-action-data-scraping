@@ -758,5 +758,13 @@
     "username": "redfish537",
     "password": "chrysler",
     "invokedAt": "2023-10-16T15:12:34.122Z"
+  },
+  {
+    "firstName": "Roope",
+    "lastName": "Hakola",
+    "email": "roope.hakola@example.com",
+    "username": "greenzebra690",
+    "password": "dominiqu",
+    "invokedAt": "2023-10-16T15:22:49.971Z"
   }
 ]
