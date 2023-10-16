@@ -638,5 +638,13 @@
     "username": "happybear404",
     "password": "mobile",
     "invokedAt": "2023-10-16T13:02:31.702Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Larsen",
+    "email": "mathilde.larsen@example.com",
+    "username": "silvergoose534",
+    "password": "anime",
+    "invokedAt": "2023-10-16T13:22:26.492Z"
   }
 ]
