@@ -782,5 +782,13 @@
     "username": "happypeacock725",
     "password": "sport",
     "invokedAt": "2023-10-17T15:27:19.789Z"
+  },
+  {
+    "firstName": "Phoenix",
+    "lastName": "Hughes",
+    "email": "phoenix.hughes@example.com",
+    "username": "angryfrog249",
+    "password": "fatman",
+    "invokedAt": "2023-10-17T15:33:59.141Z"
   }
 ]
