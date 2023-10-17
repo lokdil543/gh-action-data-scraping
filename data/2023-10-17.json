@@ -982,5 +982,13 @@
     "username": "silverpanda212",
     "password": "volcom",
     "invokedAt": "2023-10-17T18:55:04.072Z"
+  },
+  {
+    "firstName": "Iida",
+    "lastName": "Ylitalo",
+    "email": "iida.ylitalo@example.com",
+    "username": "silverkoala623",
+    "password": "visitor",
+    "invokedAt": "2023-10-17T19:02:00.745Z"
   }
 ]
