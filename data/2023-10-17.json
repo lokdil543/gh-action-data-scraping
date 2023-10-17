@@ -518,5 +518,13 @@
     "username": "yellowostrich262",
     "password": "chaos1",
     "invokedAt": "2023-10-17T10:36:31.114Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Cuellar",
+    "email": "santiago.cuellar@example.com",
+    "username": "tinykoala711",
+    "password": "beardog",
+    "invokedAt": "2023-10-17T10:42:23.327Z"
   }
 ]
