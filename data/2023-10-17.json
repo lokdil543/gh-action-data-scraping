@@ -334,5 +334,13 @@
     "username": "happyfish792",
     "password": "speedway",
     "invokedAt": "2023-10-17T07:27:10.741Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Janzen",
+    "email": "finn.janzen@example.com",
+    "username": "lazymouse531",
+    "password": "infantry",
+    "invokedAt": "2023-10-17T07:33:11.198Z"
   }
 ]
