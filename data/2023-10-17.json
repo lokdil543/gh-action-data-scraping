@@ -766,5 +766,13 @@
     "username": "blackfrog139",
     "password": "germany",
     "invokedAt": "2023-10-17T15:06:04.916Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Moilanen",
+    "email": "eevi.moilanen@example.com",
+    "username": "tinymouse542",
+    "password": "down",
+    "invokedAt": "2023-10-17T15:20:51.338Z"
   }
 ]
