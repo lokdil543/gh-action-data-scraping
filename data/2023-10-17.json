@@ -710,5 +710,13 @@
     "username": "redcat610",
     "password": "aloha",
     "invokedAt": "2023-10-17T14:10:45.023Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Özgörkey",
+    "email": "nalan.ozgorkey@example.com",
+    "username": "whiteostrich191",
+    "password": "vader1",
+    "invokedAt": "2023-10-17T14:25:07.324Z"
   }
 ]
