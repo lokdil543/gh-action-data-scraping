@@ -622,5 +622,13 @@
     "username": "crazycat115",
     "password": "house",
     "invokedAt": "2023-10-17T11:59:59.514Z"
+  },
+  {
+    "firstName": "Colleen",
+    "lastName": "Soto",
+    "email": "colleen.soto@example.com",
+    "username": "yellowpanda988",
+    "password": "bilbo",
+    "invokedAt": "2023-10-17T12:27:29.101Z"
   }
 ]
