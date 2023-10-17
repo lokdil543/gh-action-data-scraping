@@ -566,5 +566,13 @@
     "username": "greendog839",
     "password": "birgit",
     "invokedAt": "2023-10-17T11:19:03.110Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Kitić",
+    "email": "cedomir.kitic@example.com",
+    "username": "crazycat868",
+    "password": "william1",
+    "invokedAt": "2023-10-17T11:24:46.412Z"
   }
 ]
