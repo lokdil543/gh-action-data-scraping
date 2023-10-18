@@ -334,5 +334,13 @@
     "username": "angrypanda189",
     "password": "raymond",
     "invokedAt": "2023-10-18T07:25:49.337Z"
+  },
+  {
+    "firstName": "Yanis",
+    "lastName": "Schmitt",
+    "email": "yanis.schmitt@example.com",
+    "username": "happytiger556",
+    "password": "mittens",
+    "invokedAt": "2023-10-18T07:31:59.101Z"
   }
 ]
