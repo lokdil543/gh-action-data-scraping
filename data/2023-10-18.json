@@ -102,5 +102,13 @@
     "username": "bluedog774",
     "password": "sprint",
     "invokedAt": "2023-10-18T03:32:30.449Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Jensen",
+    "email": "jacob.jensen@example.com",
+    "username": "goldendog758",
+    "password": "barrett",
+    "invokedAt": "2023-10-18T03:38:33.842Z"
   }
 ]
