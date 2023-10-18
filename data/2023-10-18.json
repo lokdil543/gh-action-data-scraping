@@ -758,5 +758,13 @@
     "username": "brownostrich625",
     "password": "eyes",
     "invokedAt": "2023-10-18T14:54:18.893Z"
+  },
+  {
+    "firstName": "Malene",
+    "lastName": "Bjørkhaug",
+    "email": "malene.bjorkhaug@example.com",
+    "username": "greenduck219",
+    "password": "help",
+    "invokedAt": "2023-10-18T15:00:20.282Z"
   }
 ]
