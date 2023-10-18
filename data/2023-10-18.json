@@ -1006,5 +1006,13 @@
     "username": "bigduck351",
     "password": "phrases",
     "invokedAt": "2023-10-18T19:14:24.678Z"
+  },
+  {
+    "firstName": "Vlatka",
+    "lastName": "Topić",
+    "email": "vlatka.topic@example.com",
+    "username": "greenbird211",
+    "password": "amber1",
+    "invokedAt": "2023-10-18T19:20:21.280Z"
   }
 ]
