@@ -262,5 +262,13 @@
     "username": "tinydog470",
     "password": "trains",
     "invokedAt": "2023-10-18T06:07:52.466Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Thomsen",
+    "email": "laerke.thomsen@example.com",
+    "username": "purplefish305",
+    "password": "logger",
+    "invokedAt": "2023-10-18T06:26:51.132Z"
   }
 ]
