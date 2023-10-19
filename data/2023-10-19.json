@@ -646,5 +646,13 @@
     "username": "silvertiger181",
     "password": "egghead",
     "invokedAt": "2023-10-19T12:46:34.972Z"
+  },
+  {
+    "firstName": "Estéban",
+    "lastName": "Richard",
+    "email": "esteban.richard@example.com",
+    "username": "blackswan795",
+    "password": "abcde",
+    "invokedAt": "2023-10-19T13:00:22.839Z"
   }
 ]
