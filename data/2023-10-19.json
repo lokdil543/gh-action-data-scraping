@@ -838,5 +838,13 @@
     "username": "smallmouse546",
     "password": "meridian",
     "invokedAt": "2023-10-19T16:17:14.495Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Serrano",
+    "email": "alberto.serrano@example.com",
+    "username": "bluepanda200",
+    "password": "figaro",
+    "invokedAt": "2023-10-19T16:32:17.295Z"
   }
 ]
