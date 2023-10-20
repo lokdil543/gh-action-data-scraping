@@ -1326,5 +1326,13 @@
     "username": "silvertiger626",
     "password": "rolling",
     "invokedAt": "2023-10-20T23:36:44.052Z"
+  },
+  {
+    "firstName": "Bert",
+    "lastName": "Pingel",
+    "email": "bert.pingel@example.com",
+    "username": "crazyfish127",
+    "password": "muffin1",
+    "invokedAt": "2023-10-20T23:42:45.386Z"
   }
 ]
