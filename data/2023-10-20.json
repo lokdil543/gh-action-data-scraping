@@ -430,5 +430,13 @@
     "username": "silverdog877",
     "password": "taurus",
     "invokedAt": "2023-10-20T08:51:55.477Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Roy",
+    "email": "david.roy@example.com",
+    "username": "silverbird122",
+    "password": "202020",
+    "invokedAt": "2023-10-20T08:57:53.024Z"
   }
 ]
