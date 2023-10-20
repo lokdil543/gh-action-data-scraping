@@ -782,5 +782,13 @@
     "username": "goldenkoala835",
     "password": "memory",
     "invokedAt": "2023-10-20T15:07:06.848Z"
+  },
+  {
+    "firstName": "Staniša",
+    "lastName": "Tadić",
+    "email": "stanisa.tadic@example.com",
+    "username": "crazycat423",
+    "password": "beethove",
+    "invokedAt": "2023-10-20T15:19:16.170Z"
   }
 ]
