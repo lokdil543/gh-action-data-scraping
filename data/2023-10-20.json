@@ -1134,5 +1134,13 @@
     "username": "heavycat132",
     "password": "doctor",
     "invokedAt": "2023-10-20T20:43:14.269Z"
+  },
+  {
+    "firstName": "Oguz",
+    "lastName": "Van der Graaff",
+    "email": "oguz.vandergraaff@example.com",
+    "username": "bluebear454",
+    "password": "cheater",
+    "invokedAt": "2023-10-20T20:49:00.919Z"
   }
 ]
