@@ -1078,5 +1078,13 @@
     "username": "happyduck564",
     "password": "groups",
     "invokedAt": "2023-10-21T18:55:58.730Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Grewal",
+    "email": "alexis.grewal@example.com",
+    "username": "brownduck384",
+    "password": "alyssa",
+    "invokedAt": "2023-10-21T19:04:32.708Z"
   }
 ]
