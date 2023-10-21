@@ -1302,5 +1302,13 @@
     "username": "brownbutterfly697",
     "password": "talk",
     "invokedAt": "2023-10-21T22:09:05.518Z"
+  },
+  {
+    "firstName": "Srećko",
+    "lastName": "Glavaš",
+    "email": "srecko.glavas@example.com",
+    "username": "goldenpanda412",
+    "password": "apache",
+    "invokedAt": "2023-10-21T22:22:17.806Z"
   }
 ]
