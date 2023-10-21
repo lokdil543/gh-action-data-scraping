@@ -1310,5 +1310,13 @@
     "username": "goldenpanda412",
     "password": "apache",
     "invokedAt": "2023-10-21T22:22:17.806Z"
+  },
+  {
+    "firstName": "Sai",
+    "lastName": "Chatterjee",
+    "email": "sai.chatterjee@example.com",
+    "username": "lazyfrog400",
+    "password": "success1",
+    "invokedAt": "2023-10-21T22:28:09.415Z"
   }
 ]
