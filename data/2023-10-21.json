@@ -1238,5 +1238,13 @@
     "username": "bigduck433",
     "password": "phish",
     "invokedAt": "2023-10-21T21:17:12.195Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Mora",
+    "email": "hugo.mora@example.com",
+    "username": "heavywolf990",
+    "password": "starter",
+    "invokedAt": "2023-10-21T21:22:27.767Z"
   }
 ]
