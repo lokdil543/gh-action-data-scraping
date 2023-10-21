@@ -342,5 +342,13 @@
     "username": "beautifulduck132",
     "password": "rrrrr",
     "invokedAt": "2023-10-21T07:07:09.380Z"
+  },
+  {
+    "firstName": "Nicklas",
+    "lastName": "Nielsen",
+    "email": "nicklas.nielsen@example.com",
+    "username": "goldendog909",
+    "password": "all4one",
+    "invokedAt": "2023-10-21T07:16:33.194Z"
   }
 ]
