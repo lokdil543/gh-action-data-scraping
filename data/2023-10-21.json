@@ -534,5 +534,13 @@
     "username": "yellowwolf950",
     "password": "delphi",
     "invokedAt": "2023-10-21T09:54:45.792Z"
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Watkins",
+    "email": "lisa.watkins@example.com",
+    "username": "crazydog127",
+    "password": "bartman",
+    "invokedAt": "2023-10-21T10:00:34.240Z"
   }
 ]
