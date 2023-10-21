@@ -686,5 +686,13 @@
     "username": "purplewolf615",
     "password": "1012",
     "invokedAt": "2023-10-21T12:35:38.279Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Lewis",
+    "email": "brad.lewis@example.com",
+    "username": "brownsnake589",
+    "password": "oblivion",
+    "invokedAt": "2023-10-21T12:50:25.905Z"
   }
 ]
