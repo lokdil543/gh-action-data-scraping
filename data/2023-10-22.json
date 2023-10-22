@@ -1318,5 +1318,13 @@
     "username": "tinybear108",
     "password": "poipoi",
     "invokedAt": "2023-10-22T22:46:54.448Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Soto",
+    "email": "bruno.soto@example.com",
+    "username": "bigbutterfly481",
+    "password": "ajax",
+    "invokedAt": "2023-10-22T22:52:38.950Z"
   }
 ]
