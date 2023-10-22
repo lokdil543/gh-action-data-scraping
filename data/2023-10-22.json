@@ -390,5 +390,13 @@
     "username": "yellowfrog689",
     "password": "fullback",
     "invokedAt": "2023-10-22T08:11:05.319Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Stewart",
+    "email": "ted.stewart@example.com",
+    "username": "whitekoala411",
+    "password": "cabbage",
+    "invokedAt": "2023-10-22T08:23:50.004Z"
   }
 ]
