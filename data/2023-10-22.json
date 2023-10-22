@@ -846,5 +846,13 @@
     "username": "orangepanda510",
     "password": "cornwall",
     "invokedAt": "2023-10-22T15:35:37.452Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Lévesque",
+    "email": "alice.levesque@example.com",
+    "username": "bluewolf929",
+    "password": "stock",
+    "invokedAt": "2023-10-22T15:41:26.357Z"
   }
 ]
