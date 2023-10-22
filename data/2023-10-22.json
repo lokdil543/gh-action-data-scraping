@@ -638,5 +638,13 @@
     "username": "sadkoala471",
     "password": "delete",
     "invokedAt": "2023-10-22T11:49:14.126Z"
+  },
+  {
+    "firstName": "Lee",
+    "lastName": "Parker",
+    "email": "lee.parker@example.com",
+    "username": "yellowzebra581",
+    "password": "twisted",
+    "invokedAt": "2023-10-22T11:55:10.374Z"
   }
 ]
