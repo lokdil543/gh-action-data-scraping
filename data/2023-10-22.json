@@ -542,5 +542,13 @@
     "username": "brownwolf545",
     "password": "phillies",
     "invokedAt": "2023-10-22T10:31:49.510Z"
+  },
+  {
+    "firstName": "Célia",
+    "lastName": "Leclerc",
+    "email": "celia.leclerc@example.com",
+    "username": "smallzebra473",
+    "password": "real",
+    "invokedAt": "2023-10-22T10:37:51.357Z"
   }
 ]
