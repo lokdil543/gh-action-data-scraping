@@ -206,5 +206,13 @@
     "username": "angrybird676",
     "password": "123987",
     "invokedAt": "2023-10-22T05:24:02.687Z"
+  },
+  {
+    "firstName": "Vitorino",
+    "lastName": "da Paz",
+    "email": "vitorino.dapaz@example.com",
+    "username": "orangebird264",
+    "password": "buzzer",
+    "invokedAt": "2023-10-22T05:29:51.861Z"
   }
 ]
