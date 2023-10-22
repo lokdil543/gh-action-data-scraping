@@ -1198,5 +1198,13 @@
     "username": "brownelephant124",
     "password": "bookworm",
     "invokedAt": "2023-10-22T20:59:47.008Z"
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Olsen",
+    "email": "karla.olsen@example.com",
+    "username": "yellowpanda989",
+    "password": "internet",
+    "invokedAt": "2023-10-22T21:10:36.652Z"
   }
 ]
