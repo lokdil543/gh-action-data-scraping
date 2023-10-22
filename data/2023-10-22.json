@@ -1190,5 +1190,13 @@
     "username": "redladybug899",
     "password": "qwer",
     "invokedAt": "2023-10-22T20:53:56.286Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Ruiz",
+    "email": "martin.ruiz@example.com",
+    "username": "brownelephant124",
+    "password": "bookworm",
+    "invokedAt": "2023-10-22T20:59:47.008Z"
   }
 ]
