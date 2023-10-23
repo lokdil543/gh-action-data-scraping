@@ -358,5 +358,13 @@
     "username": "orangelion981",
     "password": "atlas",
     "invokedAt": "2023-10-23T07:46:46.298Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Walker",
+    "email": "cameron.walker@example.com",
+    "username": "lazycat243",
+    "password": "dutch",
+    "invokedAt": "2023-10-23T07:52:38.071Z"
   }
 ]
