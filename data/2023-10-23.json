@@ -294,5 +294,13 @@
     "username": "greenkoala237",
     "password": "claire",
     "invokedAt": "2023-10-23T06:49:17.398Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Petersen",
+    "email": "marie.petersen@example.com",
+    "username": "purpleladybug894",
+    "password": "helmet",
+    "invokedAt": "2023-10-23T06:55:11.379Z"
   }
 ]
