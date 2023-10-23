@@ -190,5 +190,13 @@
     "username": "lazyfish430",
     "password": "children",
     "invokedAt": "2023-10-23T04:55:55.913Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Wiersum",
+    "email": "joel.wiersum@example.com",
+    "username": "yellowfrog579",
+    "password": "blazer",
+    "invokedAt": "2023-10-23T05:06:52.712Z"
   }
 ]
