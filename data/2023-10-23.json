@@ -726,5 +726,13 @@
     "username": "redfish450",
     "password": "dog123",
     "invokedAt": "2023-10-23T14:32:37.020Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Pekkan",
+    "email": "ozkan.pekkan@example.com",
+    "username": "smalltiger360",
+    "password": "ellie",
+    "invokedAt": "2023-10-23T14:38:27.357Z"
   }
 ]
