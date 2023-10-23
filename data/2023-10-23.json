@@ -950,5 +950,13 @@
     "username": "purplebutterfly347",
     "password": "qweasd",
     "invokedAt": "2023-10-23T18:13:00.605Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Guillot",
+    "email": "mike.guillot@example.com",
+    "username": "orangebutterfly563",
+    "password": "washingt",
+    "invokedAt": "2023-10-23T18:27:16.878Z"
   }
 ]
