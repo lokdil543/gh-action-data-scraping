@@ -846,5 +846,13 @@
     "username": "redtiger659",
     "password": "scandinavian",
     "invokedAt": "2023-10-24T16:36:15.460Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Chapman",
+    "email": "todd.chapman@example.com",
+    "username": "blueduck709",
+    "password": "calgary",
+    "invokedAt": "2023-10-24T16:42:57.624Z"
   }
 ]
