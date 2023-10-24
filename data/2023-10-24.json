@@ -598,5 +598,13 @@
     "username": "redleopard140",
     "password": "lightnin",
     "invokedAt": "2023-10-24T11:40:44.205Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Madsen",
+    "email": "tobias.madsen@example.com",
+    "username": "sadduck481",
+    "password": "0123",
+    "invokedAt": "2023-10-24T11:46:30.517Z"
   }
 ]
