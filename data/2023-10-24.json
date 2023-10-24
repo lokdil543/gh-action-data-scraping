@@ -526,5 +526,13 @@
     "username": "whiteduck221",
     "password": "keller",
     "invokedAt": "2023-10-24T10:39:33.818Z"
+  },
+  {
+    "firstName": "Quintino",
+    "lastName": "Freitas",
+    "email": "quintino.freitas@example.com",
+    "username": "crazycat879",
+    "password": "fearless",
+    "invokedAt": "2023-10-24T10:45:28.070Z"
   }
 ]
