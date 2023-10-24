@@ -998,5 +998,13 @@
     "username": "whitedog359",
     "password": "meow",
     "invokedAt": "2023-10-24T19:09:06.812Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Steward",
+    "email": "taylor.steward@example.com",
+    "username": "bigleopard496",
+    "password": "cameron",
+    "invokedAt": "2023-10-24T19:16:05.994Z"
   }
 ]
