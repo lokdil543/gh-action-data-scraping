@@ -710,5 +710,13 @@
     "username": "beautifulduck260",
     "password": "newlife",
     "invokedAt": "2023-10-25T13:54:01.240Z"
+  },
+  {
+    "firstName": "Fredi",
+    "lastName": "Bender",
+    "email": "fredi.bender@example.com",
+    "username": "brownsnake801",
+    "password": "dundee",
+    "invokedAt": "2023-10-25T13:59:47.931Z"
   }
 ]
