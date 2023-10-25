@@ -326,5 +326,13 @@
     "username": "crazydog373",
     "password": "cold",
     "invokedAt": "2023-10-25T07:11:42.603Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Koyuncu",
+    "email": "coskun.koyuncu@example.com",
+    "username": "purplebear331",
+    "password": "studly",
+    "invokedAt": "2023-10-25T07:20:15.943Z"
   }
 ]
