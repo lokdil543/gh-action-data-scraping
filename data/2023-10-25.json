@@ -726,5 +726,13 @@
     "username": "blueladybug395",
     "password": "ontario",
     "invokedAt": "2023-10-25T14:12:13.847Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Brandt",
+    "email": "brian.brandt@example.com",
+    "username": "lazydog854",
+    "password": "sheridan",
+    "invokedAt": "2023-10-25T14:25:26.318Z"
   }
 ]
