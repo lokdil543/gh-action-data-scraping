@@ -774,5 +774,13 @@
     "username": "reddog640",
     "password": "1234abcd",
     "invokedAt": "2023-10-25T14:55:37.505Z"
+  },
+  {
+    "firstName": "Darío",
+    "lastName": "Rico",
+    "email": "dario.rico@example.com",
+    "username": "angrymouse322",
+    "password": "infantry",
+    "invokedAt": "2023-10-25T15:01:39.956Z"
   }
 ]
