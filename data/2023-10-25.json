@@ -358,5 +358,13 @@
     "username": "angryelephant720",
     "password": "nuclear",
     "invokedAt": "2023-10-25T07:38:08.179Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Kowalski",
+    "email": "liam.kowalski@example.com",
+    "username": "tinyfish203",
+    "password": "dannyboy",
+    "invokedAt": "2023-10-25T07:43:59.511Z"
   }
 ]
