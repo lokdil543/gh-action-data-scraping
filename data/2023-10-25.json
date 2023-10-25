@@ -766,5 +766,13 @@
     "username": "purplepanda478",
     "password": "bounce",
     "invokedAt": "2023-10-25T14:49:01.327Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Olivier",
+    "email": "remy.olivier@example.com",
+    "username": "reddog640",
+    "password": "1234abcd",
+    "invokedAt": "2023-10-25T14:55:37.505Z"
   }
 ]
