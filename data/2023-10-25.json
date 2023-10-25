@@ -910,5 +910,13 @@
     "username": "smallmeercat394",
     "password": "cheers",
     "invokedAt": "2023-10-25T17:16:57.125Z"
+  },
+  {
+    "firstName": "Milorad",
+    "lastName": "Polić",
+    "email": "milorad.polic@example.com",
+    "username": "redmeercat314",
+    "password": "ericsson",
+    "invokedAt": "2023-10-25T17:25:59.429Z"
   }
 ]
