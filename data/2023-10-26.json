@@ -478,5 +478,13 @@
     "username": "smallbear146",
     "password": "chandra",
     "invokedAt": "2023-10-26T09:33:41.085Z"
+  },
+  {
+    "firstName": "Emmi",
+    "lastName": "Rautio",
+    "email": "emmi.rautio@example.com",
+    "username": "redkoala802",
+    "password": "access",
+    "invokedAt": "2023-10-26T09:39:31.311Z"
   }
 ]
