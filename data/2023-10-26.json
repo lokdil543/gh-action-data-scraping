@@ -326,5 +326,13 @@
     "username": "happyostrich290",
     "password": "life",
     "invokedAt": "2023-10-26T07:09:34.035Z"
+  },
+  {
+    "firstName": "Siemen",
+    "lastName": "Van den Kieboom",
+    "email": "siemen.vandenkieboom@example.com",
+    "username": "heavywolf523",
+    "password": "lekker",
+    "invokedAt": "2023-10-26T07:18:52.248Z"
   }
 ]
