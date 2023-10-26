@@ -734,5 +734,13 @@
     "username": "lazypeacock747",
     "password": "eight",
     "invokedAt": "2023-10-26T14:21:38.996Z"
+  },
+  {
+    "firstName": "Milorad",
+    "lastName": "Vujić",
+    "email": "milorad.vujic@example.com",
+    "username": "whitefrog798",
+    "password": "111111",
+    "invokedAt": "2023-10-26T14:29:18.335Z"
   }
 ]
