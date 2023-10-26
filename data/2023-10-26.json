@@ -966,5 +966,13 @@
     "username": "happypanda437",
     "password": "hello1",
     "invokedAt": "2023-10-26T17:59:02.985Z"
+  },
+  {
+    "firstName": "María",
+    "lastName": "Sánchez",
+    "email": "maria.sanchez@example.com",
+    "username": "brownbear279",
+    "password": "snoop",
+    "invokedAt": "2023-10-26T18:15:21.777Z"
   }
 ]
