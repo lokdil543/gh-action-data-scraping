@@ -526,5 +526,13 @@
     "username": "happydog985",
     "password": "screamer",
     "invokedAt": "2023-10-26T10:26:34.268Z"
+  },
+  {
+    "firstName": "Oskar",
+    "lastName": "Chevalier",
+    "email": "oskar.chevalier@example.com",
+    "username": "whitedog878",
+    "password": "inferno",
+    "invokedAt": "2023-10-26T10:34:41.682Z"
   }
 ]
