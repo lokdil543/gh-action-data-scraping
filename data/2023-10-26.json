@@ -862,5 +862,13 @@
     "username": "orangegorilla828",
     "password": "dwight",
     "invokedAt": "2023-10-26T16:28:07.651Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Bélanger",
+    "email": "carter.belanger@example.com",
+    "username": "lazygorilla502",
+    "password": "musical",
+    "invokedAt": "2023-10-26T16:35:39.859Z"
   }
 ]
