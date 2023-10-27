@@ -830,5 +830,13 @@
     "username": "lazyrabbit257",
     "password": "pancake",
     "invokedAt": "2023-10-27T15:34:54.966Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Topçuoğlu",
+    "email": "babur.topcuoglu@example.com",
+    "username": "purplelion989",
+    "password": "dolemite",
+    "invokedAt": "2023-10-27T15:40:49.233Z"
   }
 ]
