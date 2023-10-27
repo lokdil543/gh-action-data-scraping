@@ -230,5 +230,13 @@
     "username": "sadcat801",
     "password": "spooky",
     "invokedAt": "2023-10-27T05:33:39.652Z"
+  },
+  {
+    "firstName": "Kristijan",
+    "lastName": "Mančić",
+    "email": "kristijan.mancic@example.com",
+    "username": "sadpanda118",
+    "password": "diehard",
+    "invokedAt": "2023-10-27T05:39:36.844Z"
   }
 ]
