@@ -622,5 +622,13 @@
     "username": "sadzebra216",
     "password": "lifehack",
     "invokedAt": "2023-10-27T11:42:16.888Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Takala",
+    "email": "elias.takala@example.com",
+    "username": "bluedog211",
+    "password": "whiskers",
+    "invokedAt": "2023-10-27T11:48:17.358Z"
   }
 ]
