@@ -494,5 +494,13 @@
     "username": "sadtiger642",
     "password": "dollars",
     "invokedAt": "2023-10-27T09:44:36.566Z"
+  },
+  {
+    "firstName": "Adrien",
+    "lastName": "Blanc",
+    "email": "adrien.blanc@example.com",
+    "username": "bigtiger948",
+    "password": "brenda",
+    "invokedAt": "2023-10-27T09:50:17.472Z"
   }
 ]
