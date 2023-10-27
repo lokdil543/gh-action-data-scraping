@@ -598,5 +598,13 @@
     "username": "smalltiger359",
     "password": "meat",
     "invokedAt": "2023-10-27T11:24:39.858Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Martínez",
+    "email": "arturo.martinez@example.com",
+    "username": "bluemouse771",
+    "password": "sailboat",
+    "invokedAt": "2023-10-27T11:30:33.829Z"
   }
 ]
