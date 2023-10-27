@@ -1358,5 +1358,13 @@
     "username": "bigbird153",
     "password": "moreno",
     "invokedAt": "2023-10-27T23:37:35.252Z"
+  },
+  {
+    "firstName": "Mira",
+    "lastName": "Ivanović",
+    "email": "mira.ivanovic@example.com",
+    "username": "redpeacock248",
+    "password": "flip",
+    "invokedAt": "2023-10-27T23:43:26.879Z"
   }
 ]
