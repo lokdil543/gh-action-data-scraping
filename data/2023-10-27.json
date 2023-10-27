@@ -1006,5 +1006,13 @@
     "username": "greenduck970",
     "password": "water",
     "invokedAt": "2023-10-27T18:33:21.629Z"
+  },
+  {
+    "firstName": "Noémie",
+    "lastName": "Gagné",
+    "email": "noemie.gagne@example.com",
+    "username": "bluecat712",
+    "password": "pauline",
+    "invokedAt": "2023-10-27T18:39:17.069Z"
   }
 ]
