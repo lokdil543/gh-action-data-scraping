@@ -710,5 +710,13 @@
     "username": "silverpeacock870",
     "password": "skin",
     "invokedAt": "2023-10-27T13:41:35.264Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "charlie.brown@example.com",
+    "username": "tinybird772",
+    "password": "cindy",
+    "invokedAt": "2023-10-27T13:47:25.042Z"
   }
 ]
