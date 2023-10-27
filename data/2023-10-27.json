@@ -142,5 +142,13 @@
     "username": "redcat777",
     "password": "michigan",
     "invokedAt": "2023-10-27T03:58:20.369Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Ford",
+    "email": "billy.ford@example.com",
+    "username": "purpleladybug637",
+    "password": "test",
+    "invokedAt": "2023-10-27T04:12:49.602Z"
   }
 ]
