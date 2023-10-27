@@ -838,5 +838,13 @@
     "username": "purplelion989",
     "password": "dolemite",
     "invokedAt": "2023-10-27T15:40:49.233Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Taylor",
+    "email": "alex.taylor@example.com",
+    "username": "biggorilla552",
+    "password": "thisisit",
+    "invokedAt": "2023-10-27T15:46:42.416Z"
   }
 ]
