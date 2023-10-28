@@ -214,5 +214,13 @@
     "username": "redelephant829",
     "password": "hockey",
     "invokedAt": "2023-10-28T05:10:12.892Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Larson",
+    "email": "marshall.larson@example.com",
+    "username": "purplebear249",
+    "password": "gofish",
+    "invokedAt": "2023-10-28T05:22:30.797Z"
   }
 ]
