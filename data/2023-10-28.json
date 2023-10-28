@@ -718,5 +718,13 @@
     "username": "bigfrog462",
     "password": "daniels",
     "invokedAt": "2023-10-28T13:21:20.080Z"
+  },
+  {
+    "firstName": "Francesco",
+    "lastName": "Kerber",
+    "email": "francesco.kerber@example.com",
+    "username": "sadrabbit935",
+    "password": "lambda",
+    "invokedAt": "2023-10-28T13:27:14.081Z"
   }
 ]
