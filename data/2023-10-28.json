@@ -1038,5 +1038,13 @@
     "username": "smallbird683",
     "password": "lock",
     "invokedAt": "2023-10-28T18:23:15.833Z"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "Sanz",
+    "email": "guillermo.sanz@example.com",
+    "username": "silverswan137",
+    "password": "vector",
+    "invokedAt": "2023-10-28T18:29:05.893Z"
   }
 ]
