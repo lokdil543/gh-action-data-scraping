@@ -870,5 +870,13 @@
     "username": "redmouse479",
     "password": "qwer1234",
     "invokedAt": "2023-10-28T15:34:40.969Z"
+  },
+  {
+    "firstName": "Kassandra",
+    "lastName": "Kotelyanskiy",
+    "email": "kassandra.kotelyanskiy@example.com",
+    "username": "bluedog317",
+    "password": "lestat",
+    "invokedAt": "2023-10-28T15:40:35.488Z"
   }
 ]
