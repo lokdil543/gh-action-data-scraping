@@ -558,5 +558,13 @@
     "username": "bluefish767",
     "password": "windows",
     "invokedAt": "2023-10-28T10:31:01.041Z"
+  },
+  {
+    "firstName": "Alfonso",
+    "lastName": "Blanco",
+    "email": "alfonso.blanco@example.com",
+    "username": "biggoose176",
+    "password": "backdoor",
+    "invokedAt": "2023-10-28T10:37:04.908Z"
   }
 ]
