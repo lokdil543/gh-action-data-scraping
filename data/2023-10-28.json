@@ -182,5 +182,13 @@
     "username": "sadswan410",
     "password": "popcorn",
     "invokedAt": "2023-10-28T04:41:13.702Z"
+  },
+  {
+    "firstName": "Emmy",
+    "lastName": "Träger",
+    "email": "emmy.trager@example.com",
+    "username": "tinydog552",
+    "password": "testtest",
+    "invokedAt": "2023-10-28T04:47:16.221Z"
   }
 ]
