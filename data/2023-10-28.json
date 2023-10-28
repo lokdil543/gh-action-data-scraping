@@ -782,5 +782,13 @@
     "username": "yellowostrich463",
     "password": "jammin",
     "invokedAt": "2023-10-28T14:18:29.166Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Munkvold",
+    "email": "ivan.munkvold@example.com",
+    "username": "angryladybug155",
+    "password": "bluesky",
+    "invokedAt": "2023-10-28T14:25:14.211Z"
   }
 ]
