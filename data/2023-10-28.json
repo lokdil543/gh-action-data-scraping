@@ -566,5 +566,13 @@
     "username": "biggoose176",
     "password": "backdoor",
     "invokedAt": "2023-10-28T10:37:04.908Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Brewer",
+    "email": "anna.brewer@example.com",
+    "username": "crazytiger436",
+    "password": "train",
+    "invokedAt": "2023-10-28T10:43:02.784Z"
   }
 ]
