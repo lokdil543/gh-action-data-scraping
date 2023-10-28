@@ -118,5 +118,13 @@
     "username": "silverlion770",
     "password": "global",
     "invokedAt": "2023-10-28T03:37:26.871Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Knight",
+    "email": "john.knight@example.com",
+    "username": "orangepeacock491",
+    "password": "micro",
+    "invokedAt": "2023-10-28T03:43:18.602Z"
   }
 ]
