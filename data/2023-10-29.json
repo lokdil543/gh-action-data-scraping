@@ -1350,5 +1350,13 @@
     "username": "blackfrog583",
     "password": "figure",
     "invokedAt": "2023-10-29T22:58:26.163Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Olsen",
+    "email": "daniel.olsen@example.com",
+    "username": "orangewolf741",
+    "password": "loki",
+    "invokedAt": "2023-10-29T23:10:09.683Z"
   }
 ]
