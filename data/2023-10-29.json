@@ -366,5 +366,13 @@
     "username": "brownrabbit660",
     "password": "java",
     "invokedAt": "2023-10-29T07:40:17.950Z"
+  },
+  {
+    "firstName": "Ingmar",
+    "lastName": "Steinert",
+    "email": "ingmar.steinert@example.com",
+    "username": "bigbird743",
+    "password": "asdfgh",
+    "invokedAt": "2023-10-29T07:46:20.760Z"
   }
 ]
