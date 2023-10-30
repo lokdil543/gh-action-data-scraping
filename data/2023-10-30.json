@@ -358,5 +358,13 @@
     "username": "heavyduck810",
     "password": "silent",
     "invokedAt": "2023-10-30T07:43:42.884Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Peltonen",
+    "email": "daniel.peltonen@example.com",
+    "username": "blackmeercat365",
+    "password": "vinnie",
+    "invokedAt": "2023-10-30T07:49:33.123Z"
   }
 ]
