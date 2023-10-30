@@ -1222,5 +1222,13 @@
     "username": "crazyfish511",
     "password": "panic",
     "invokedAt": "2023-10-30T22:21:54.366Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Roberts",
+    "email": "charles.roberts@example.com",
+    "username": "orangezebra146",
+    "password": "lagnaf",
+    "invokedAt": "2023-10-30T22:29:04.906Z"
   }
 ]
