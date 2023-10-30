@@ -822,5 +822,13 @@
     "username": "bluesnake214",
     "password": "compass",
     "invokedAt": "2023-10-30T15:51:10.241Z"
+  },
+  {
+    "firstName": "Aleksije",
+    "lastName": "Popović",
+    "email": "aleksije.popovic@example.com",
+    "username": "bigduck918",
+    "password": "11235813",
+    "invokedAt": "2023-10-30T15:57:11.708Z"
   }
 ]
