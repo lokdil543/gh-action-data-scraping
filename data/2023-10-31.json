@@ -678,5 +678,13 @@
     "username": "goldenfish895",
     "password": "tender",
     "invokedAt": "2023-10-31T13:25:04.894Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Thompson",
+    "email": "john.thompson@example.com",
+    "username": "sadbutterfly534",
+    "password": "formula",
+    "invokedAt": "2023-10-31T13:31:14.155Z"
   }
 ]
