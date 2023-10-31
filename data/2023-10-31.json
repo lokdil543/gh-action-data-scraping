@@ -262,5 +262,13 @@
     "username": "tinygorilla306",
     "password": "catfish",
     "invokedAt": "2023-10-31T06:00:19.138Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Sørensen",
+    "email": "mikkel.sorensen@example.com",
+    "username": "angryelephant595",
+    "password": "skinner",
+    "invokedAt": "2023-10-31T06:18:29.851Z"
   }
 ]
