@@ -382,5 +382,13 @@
     "username": "whitekoala342",
     "password": "switch",
     "invokedAt": "2023-10-31T07:55:38.147Z"
+  },
+  {
+    "firstName": "Frans",
+    "lastName": "Esser",
+    "email": "frans.esser@example.com",
+    "username": "redgorilla170",
+    "password": "records",
+    "invokedAt": "2023-10-31T08:08:33.374Z"
   }
 ]
