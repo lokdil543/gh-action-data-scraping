@@ -1190,5 +1190,13 @@
     "username": "tinyfish436",
     "password": "purdue",
     "invokedAt": "2023-10-31T21:35:06.192Z"
+  },
+  {
+    "firstName": "Lerke",
+    "lastName": "Størseth",
+    "email": "lerke.storseth@example.com",
+    "username": "redkoala269",
+    "password": "falcons",
+    "invokedAt": "2023-10-31T21:40:57.848Z"
   }
 ]
