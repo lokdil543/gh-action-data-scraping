@@ -1318,5 +1318,13 @@
     "username": "happydog301",
     "password": "jazzman",
     "invokedAt": "2023-10-31T23:32:23.577Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Taylor",
+    "email": "noah.taylor@example.com",
+    "username": "bluefrog695",
+    "password": "virgin",
+    "invokedAt": "2023-10-31T23:38:24.999Z"
   }
 ]
