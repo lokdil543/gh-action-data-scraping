@@ -582,5 +582,13 @@
     "username": "sadkoala356",
     "password": "jumper",
     "invokedAt": "2023-11-01T11:29:02.022Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Bishop",
+    "email": "bruce.bishop@example.com",
+    "username": "yellowbird724",
+    "password": "beau",
+    "invokedAt": "2023-11-01T11:35:05.743Z"
   }
 ]
