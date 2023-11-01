@@ -710,5 +710,13 @@
     "username": "lazymouse864",
     "password": "123qwe",
     "invokedAt": "2023-11-01T13:59:22.117Z"
+  },
+  {
+    "firstName": "Nalan",
+    "lastName": "Taşçı",
+    "email": "nalan.tasci@example.com",
+    "username": "orangeelephant801",
+    "password": "saratoga",
+    "invokedAt": "2023-11-01T14:11:22.454Z"
   }
 ]
