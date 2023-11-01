@@ -1030,5 +1030,13 @@
     "username": "beautifulbird395",
     "password": "test2",
     "invokedAt": "2023-11-01T19:22:34.341Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Mackay",
+    "email": "jade.mackay@example.com",
+    "username": "sadgoose855",
+    "password": "megapass",
+    "invokedAt": "2023-11-01T19:28:34.197Z"
   }
 ]
