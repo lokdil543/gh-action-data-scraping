@@ -430,5 +430,13 @@
     "username": "bigkoala162",
     "password": "building",
     "invokedAt": "2023-11-01T09:06:19.897Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Tuominen",
+    "email": "toivo.tuominen@example.com",
+    "username": "organicfrog389",
+    "password": "babyface",
+    "invokedAt": "2023-11-01T09:19:08.713Z"
   }
 ]
