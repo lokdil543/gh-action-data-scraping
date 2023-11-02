@@ -574,5 +574,13 @@
     "username": "sadmouse485",
     "password": "herewego",
     "invokedAt": "2023-11-02T11:16:29.630Z"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "Marín",
+    "email": "ramon.marin@example.com",
+    "username": "sadkoala923",
+    "password": "diggler",
+    "invokedAt": "2023-11-02T11:22:28.285Z"
   }
 ]
