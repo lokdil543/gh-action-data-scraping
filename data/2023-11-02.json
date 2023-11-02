@@ -374,5 +374,13 @@
     "username": "heavykoala338",
     "password": "chef",
     "invokedAt": "2023-11-02T07:53:48.283Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Thomsen",
+    "email": "rasmus.thomsen@example.com",
+    "username": "bigbear204",
+    "password": "infiniti",
+    "invokedAt": "2023-11-02T07:59:45.204Z"
   }
 ]
