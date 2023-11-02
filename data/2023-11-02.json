@@ -1062,5 +1062,13 @@
     "username": "goldenwolf321",
     "password": "90210",
     "invokedAt": "2023-11-02T19:46:12.437Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Harrison",
+    "email": "lucy.harrison@example.com",
+    "username": "goldenostrich974",
+    "password": "cabernet",
+    "invokedAt": "2023-11-02T19:52:14.607Z"
   }
 ]
