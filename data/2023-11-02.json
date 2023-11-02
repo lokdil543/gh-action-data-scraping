@@ -982,5 +982,13 @@
     "username": "smallwolf947",
     "password": "carrot",
     "invokedAt": "2023-11-02T18:41:46.450Z"
+  },
+  {
+    "firstName": "Damjan",
+    "lastName": "Urošević",
+    "email": "damjan.urosevic@example.com",
+    "username": "lazyfrog151",
+    "password": "andrea",
+    "invokedAt": "2023-11-02T18:47:36.666Z"
   }
 ]
