@@ -382,5 +382,13 @@
     "username": "bigbear204",
     "password": "infiniti",
     "invokedAt": "2023-11-02T07:59:45.204Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Rivera",
+    "email": "ralph.rivera@example.com",
+    "username": "sadpeacock458",
+    "password": "webber",
+    "invokedAt": "2023-11-02T08:15:59.160Z"
   }
 ]
