@@ -686,5 +686,13 @@
     "username": "lazymouse356",
     "password": "complete",
     "invokedAt": "2023-11-02T13:39:40.905Z"
+  },
+  {
+    "firstName": "Paula",
+    "lastName": "Giménez",
+    "email": "paula.gimenez@example.com",
+    "username": "lazypeacock194",
+    "password": "fester",
+    "invokedAt": "2023-11-02T13:45:33.905Z"
   }
 ]
