@@ -1278,5 +1278,13 @@
     "username": "heavyduck398",
     "password": "mercer",
     "invokedAt": "2023-11-02T22:58:28.852Z"
+  },
+  {
+    "firstName": "Ayaan",
+    "lastName": "Røsvik",
+    "email": "ayaan.rosvik@example.com",
+    "username": "angryfish677",
+    "password": "soccer",
+    "invokedAt": "2023-11-02T23:11:14.598Z"
   }
 ]
