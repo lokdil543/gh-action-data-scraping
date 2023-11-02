@@ -886,5 +886,13 @@
     "username": "angryostrich525",
     "password": "visa",
     "invokedAt": "2023-11-02T16:58:55.588Z"
+  },
+  {
+    "firstName": "Pozvizda",
+    "lastName": "Kurchenko",
+    "email": "pozvizda.kurchenko@example.com",
+    "username": "brownduck925",
+    "password": "terry",
+    "invokedAt": "2023-11-02T17:11:05.125Z"
   }
 ]
