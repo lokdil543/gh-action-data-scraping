@@ -94,5 +94,13 @@
     "username": "tinytiger533",
     "password": "pentium",
     "invokedAt": "2023-11-03T03:27:30.201Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Fleming",
+    "email": "tony.fleming@example.com",
+    "username": "whitefish480",
+    "password": "hilton",
+    "invokedAt": "2023-11-03T03:34:02.709Z"
   }
 ]
