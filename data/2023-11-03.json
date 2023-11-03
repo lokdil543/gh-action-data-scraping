@@ -886,5 +886,13 @@
     "username": "ticklishtiger998",
     "password": "alpine",
     "invokedAt": "2023-11-03T16:59:26.007Z"
+  },
+  {
+    "firstName": "Linus",
+    "lastName": "Muller",
+    "email": "linus.muller@example.com",
+    "username": "bluefish167",
+    "password": "rrrrr",
+    "invokedAt": "2023-11-03T17:11:25.505Z"
   }
 ]
