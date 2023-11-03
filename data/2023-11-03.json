@@ -214,5 +214,13 @@
     "username": "silverrabbit192",
     "password": "thedon",
     "invokedAt": "2023-11-03T05:28:08.456Z"
+  },
+  {
+    "firstName": "Malone",
+    "lastName": "Robert",
+    "email": "malone.robert@example.com",
+    "username": "silverostrich214",
+    "password": "gonzalez",
+    "invokedAt": "2023-11-03T05:34:10.994Z"
   }
 ]
