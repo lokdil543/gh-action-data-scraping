@@ -62,5 +62,13 @@
     "username": "silverlion425",
     "password": "universe",
     "invokedAt": "2023-11-03T02:52:22.200Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Evans",
+    "email": "johnny.evans@example.com",
+    "username": "organicmouse522",
+    "password": "bogart",
+    "invokedAt": "2023-11-03T02:58:17.461Z"
   }
 ]
