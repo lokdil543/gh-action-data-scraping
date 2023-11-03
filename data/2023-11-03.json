@@ -414,5 +414,13 @@
     "username": "smallsnake701",
     "password": "dalejr",
     "invokedAt": "2023-11-03T08:40:42.893Z"
+  },
+  {
+    "firstName": "Vladana",
+    "lastName": "Ivanišević",
+    "email": "vladana.ivanisevic@example.com",
+    "username": "purplecat834",
+    "password": "passw0rd",
+    "invokedAt": "2023-11-03T08:46:40.153Z"
   }
 ]
