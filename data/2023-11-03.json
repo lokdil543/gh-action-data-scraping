@@ -782,5 +782,13 @@
     "username": "sadpeacock326",
     "password": "gagged",
     "invokedAt": "2023-11-03T15:16:11.209Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Prieto",
+    "email": "alvaro.prieto@example.com",
+    "username": "whitebear547",
+    "password": "gopher",
+    "invokedAt": "2023-11-03T15:24:26.127Z"
   }
 ]
