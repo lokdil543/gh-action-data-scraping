@@ -518,5 +518,13 @@
     "username": "brownladybug632",
     "password": "tang",
     "invokedAt": "2023-11-03T10:26:13.460Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Blanc",
+    "email": "hugo.blanc@example.com",
+    "username": "greensnake887",
+    "password": "errors",
+    "invokedAt": "2023-11-03T10:34:02.400Z"
   }
 ]
