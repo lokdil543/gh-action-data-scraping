@@ -1038,5 +1038,13 @@
     "username": "sadlion302",
     "password": "milano",
     "invokedAt": "2023-11-04T18:36:50.948Z"
+  },
+  {
+    "firstName": "Étienne",
+    "lastName": "Fournier",
+    "email": "etienne.fournier@example.com",
+    "username": "purplekoala971",
+    "password": "screwy",
+    "invokedAt": "2023-11-04T18:42:57.410Z"
   }
 ]
