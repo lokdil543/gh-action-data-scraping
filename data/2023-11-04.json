@@ -598,5 +598,13 @@
     "username": "smallpanda998",
     "password": "boomer1",
     "invokedAt": "2023-11-04T11:15:29.066Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Christensen",
+    "email": "felix.christensen@example.com",
+    "username": "smallgorilla324",
+    "password": "maxine",
+    "invokedAt": "2023-11-04T11:21:11.754Z"
   }
 ]
