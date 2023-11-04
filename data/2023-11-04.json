@@ -1262,5 +1262,13 @@
     "username": "blackgoose967",
     "password": "integra",
     "invokedAt": "2023-11-04T21:44:50.831Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Taylor",
+    "email": "antoine.taylor@example.com",
+    "username": "orangecat884",
+    "password": "digital",
+    "invokedAt": "2023-11-04T21:50:39.685Z"
   }
 ]
