@@ -358,5 +358,13 @@
     "username": "tinyfrog213",
     "password": "puppet",
     "invokedAt": "2023-11-04T07:32:30.498Z"
+  },
+  {
+    "firstName": "Kuzma",
+    "lastName": "Nedrya",
+    "email": "kuzma.nedrya@example.com",
+    "username": "biggoose130",
+    "password": "maddog",
+    "invokedAt": "2023-11-04T07:38:22.833Z"
   }
 ]
