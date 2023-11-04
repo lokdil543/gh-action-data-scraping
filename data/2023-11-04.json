@@ -766,5 +766,13 @@
     "username": "lazyduck474",
     "password": "onion",
     "invokedAt": "2023-11-04T14:20:00.527Z"
+  },
+  {
+    "firstName": "Juergen",
+    "lastName": "Dieckmann",
+    "email": "juergen.dieckmann@example.com",
+    "username": "lazyelephant356",
+    "password": "horton",
+    "invokedAt": "2023-11-04T14:26:36.123Z"
   }
 ]
