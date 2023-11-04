@@ -526,5 +526,13 @@
     "username": "bluemouse256",
     "password": "cross",
     "invokedAt": "2023-11-04T09:59:18.989Z"
+  },
+  {
+    "firstName": "Aurélien",
+    "lastName": "Andre",
+    "email": "aurelien.andre@example.com",
+    "username": "lazytiger517",
+    "password": "joke",
+    "invokedAt": "2023-11-04T10:12:43.215Z"
   }
 ]
