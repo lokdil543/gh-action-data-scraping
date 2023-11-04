@@ -566,5 +566,13 @@
     "username": "sadfish996",
     "password": "bigred",
     "invokedAt": "2023-11-04T10:44:18.090Z"
+  },
+  {
+    "firstName": "Gordana",
+    "lastName": "Kusch",
+    "email": "gordana.kusch@example.com",
+    "username": "redfish628",
+    "password": "picard",
+    "invokedAt": "2023-11-04T10:50:13.762Z"
   }
 ]
