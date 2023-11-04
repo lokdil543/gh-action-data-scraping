@@ -366,5 +366,13 @@
     "username": "biggoose130",
     "password": "maddog",
     "invokedAt": "2023-11-04T07:38:22.833Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Fournier",
+    "email": "jade.fournier@example.com",
+    "username": "organicfrog413",
+    "password": "alpine",
+    "invokedAt": "2023-11-04T07:44:10.490Z"
   }
 ]
