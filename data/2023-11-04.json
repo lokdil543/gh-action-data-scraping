@@ -758,5 +758,13 @@
     "username": "blackelephant800",
     "password": "baylor",
     "invokedAt": "2023-11-04T14:07:44.781Z"
+  },
+  {
+    "firstName": "Isabelle",
+    "lastName": "Moore",
+    "email": "isabelle.moore@example.com",
+    "username": "lazyduck474",
+    "password": "onion",
+    "invokedAt": "2023-11-04T14:20:00.527Z"
   }
 ]
