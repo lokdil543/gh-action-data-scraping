@@ -342,5 +342,13 @@
     "username": "purplegorilla904",
     "password": "wyoming",
     "invokedAt": "2023-11-04T07:20:48.650Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Bélanger",
+    "email": "matthew.belanger@example.com",
+    "username": "lazypanda411",
+    "password": "tight",
+    "invokedAt": "2023-11-04T07:26:39.770Z"
   }
 ]
