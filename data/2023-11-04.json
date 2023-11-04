@@ -1350,5 +1350,13 @@
     "username": "happyswan140",
     "password": "blake",
     "invokedAt": "2023-11-04T23:10:45.666Z"
+  },
+  {
+    "firstName": "Raquel",
+    "lastName": "Calvo",
+    "email": "raquel.calvo@example.com",
+    "username": "angrybird111",
+    "password": "bubble",
+    "invokedAt": "2023-11-04T23:20:02.439Z"
   }
 ]
