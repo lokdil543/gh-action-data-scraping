@@ -398,5 +398,13 @@
     "username": "goldengorilla561",
     "password": "theatre",
     "invokedAt": "2023-11-04T08:08:11.852Z"
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Glavaš",
+    "email": "bogdan.glavas@example.com",
+    "username": "whitepeacock242",
+    "password": "vegas",
+    "invokedAt": "2023-11-04T08:22:51.754Z"
   }
 ]
