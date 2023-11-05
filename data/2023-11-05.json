@@ -974,5 +974,13 @@
     "username": "lazybird160",
     "password": "company",
     "invokedAt": "2023-11-05T17:42:05.873Z"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Ross",
+    "email": "malik.ross@example.com",
+    "username": "tinydog380",
+    "password": "droopy",
+    "invokedAt": "2023-11-05T17:48:07.323Z"
   }
 ]
