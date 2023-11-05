@@ -1062,5 +1062,13 @@
     "username": "beautifulelephant165",
     "password": "abc12345",
     "invokedAt": "2023-11-05T19:05:45.202Z"
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Schultz",
+    "email": "sigrid.schultz@example.com",
+    "username": "smalllion195",
+    "password": "chips",
+    "invokedAt": "2023-11-05T19:14:43.795Z"
   }
 ]
