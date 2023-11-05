@@ -478,5 +478,13 @@
     "username": "greenfrog494",
     "password": "spiderma",
     "invokedAt": "2023-11-05T09:35:20.112Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Roy",
+    "email": "arthur.roy@example.com",
+    "username": "lazycat287",
+    "password": "gizmodo",
+    "invokedAt": "2023-11-05T09:41:20.295Z"
   }
 ]
