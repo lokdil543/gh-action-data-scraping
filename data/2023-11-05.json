@@ -702,5 +702,13 @@
     "username": "silvercat595",
     "password": "corvette",
     "invokedAt": "2023-11-05T13:29:21.977Z"
+  },
+  {
+    "firstName": "Villads",
+    "lastName": "Andersen",
+    "email": "villads.andersen@example.com",
+    "username": "silverdog536",
+    "password": "marine",
+    "invokedAt": "2023-11-05T13:35:11.978Z"
   }
 ]
