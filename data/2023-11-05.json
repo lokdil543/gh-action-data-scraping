@@ -1270,5 +1270,13 @@
     "username": "bluebutterfly815",
     "password": "munich",
     "invokedAt": "2023-11-05T22:01:54.065Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Martin",
+    "email": "felix.martin@example.com",
+    "username": "greenkoala258",
+    "password": "force",
+    "invokedAt": "2023-11-05T22:15:04.953Z"
   }
 ]
