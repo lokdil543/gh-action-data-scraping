@@ -998,5 +998,13 @@
     "username": "blackbear436",
     "password": "iloveyou2",
     "invokedAt": "2023-11-05T17:59:44.518Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Petersen",
+    "email": "jonathan.petersen@example.com",
+    "username": "purplesnake162",
+    "password": "million",
+    "invokedAt": "2023-11-05T18:15:42.177Z"
   }
 ]
