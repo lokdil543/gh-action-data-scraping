@@ -614,5 +614,13 @@
     "username": "bigduck402",
     "password": "walnut",
     "invokedAt": "2023-11-05T11:34:52.474Z"
+  },
+  {
+    "firstName": "Nadja",
+    "lastName": "Blažić",
+    "email": "nadja.blazic@example.com",
+    "username": "smallswan668",
+    "password": "stretch",
+    "invokedAt": "2023-11-05T11:40:40.444Z"
   }
 ]
