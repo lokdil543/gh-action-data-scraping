@@ -486,5 +486,13 @@
     "username": "bigfish988",
     "password": "chicago1",
     "invokedAt": "2023-11-06T10:14:07.744Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Walker",
+    "email": "hudson.walker@example.com",
+    "username": "organicdog371",
+    "password": "paper",
+    "invokedAt": "2023-11-06T10:30:24.186Z"
   }
 ]
