@@ -494,5 +494,13 @@
     "username": "organicdog371",
     "password": "paper",
     "invokedAt": "2023-11-06T10:30:24.186Z"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Allen",
+    "email": "eric.allen@example.com",
+    "username": "crazyladybug375",
+    "password": "ping",
+    "invokedAt": "2023-11-06T10:38:31.762Z"
   }
 ]
