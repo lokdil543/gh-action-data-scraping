@@ -1126,5 +1126,13 @@
     "username": "smallfrog260",
     "password": "bertha",
     "invokedAt": "2023-11-06T21:35:58.261Z"
+  },
+  {
+    "firstName": "Davut",
+    "lastName": "Körmükçü",
+    "email": "davut.kormukcu@example.com",
+    "username": "bluebear324",
+    "password": "blonde",
+    "invokedAt": "2023-11-06T21:41:52.539Z"
   }
 ]
