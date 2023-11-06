@@ -326,5 +326,13 @@
     "username": "happyfrog967",
     "password": "lebowski",
     "invokedAt": "2023-11-06T07:31:58.158Z"
+  },
+  {
+    "firstName": "Erin",
+    "lastName": "Daniels",
+    "email": "erin.daniels@example.com",
+    "username": "tinywolf682",
+    "password": "morpheus",
+    "invokedAt": "2023-11-06T07:37:54.542Z"
   }
 ]
