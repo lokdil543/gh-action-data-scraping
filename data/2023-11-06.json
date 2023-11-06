@@ -638,5 +638,13 @@
     "username": "blackpeacock400",
     "password": "dodgers",
     "invokedAt": "2023-11-06T13:29:46.993Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Bowman",
+    "email": "patrick.bowman@example.com",
+    "username": "yellowswan291",
+    "password": "atlas",
+    "invokedAt": "2023-11-06T13:35:41.316Z"
   }
 ]
