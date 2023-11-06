@@ -470,5 +470,13 @@
     "username": "crazycat490",
     "password": "zaphod",
     "invokedAt": "2023-11-06T09:53:20.067Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Madsen",
+    "email": "noah.madsen@example.com",
+    "username": "blackmouse430",
+    "password": "alliance",
+    "invokedAt": "2023-11-06T09:59:12.554Z"
   }
 ]
