@@ -310,5 +310,13 @@
     "username": "bluedog776",
     "password": "redone",
     "invokedAt": "2023-11-06T07:20:08.591Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Deschamps",
+    "email": "nael.deschamps@example.com",
+    "username": "angrywolf365",
+    "password": "hillary",
+    "invokedAt": "2023-11-06T07:26:05.018Z"
   }
 ]
