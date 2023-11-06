@@ -1166,5 +1166,13 @@
     "username": "goldenrabbit412",
     "password": "surgery",
     "invokedAt": "2023-11-06T22:11:51.127Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Christensen",
+    "email": "maja.christensen@example.com",
+    "username": "orangepanda269",
+    "password": "poetry",
+    "invokedAt": "2023-11-06T22:25:27.207Z"
   }
 ]
