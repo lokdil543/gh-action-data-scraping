@@ -782,5 +782,13 @@
     "username": "silverpanda191",
     "password": "11112222",
     "invokedAt": "2023-11-06T15:49:33.321Z"
+  },
+  {
+    "firstName": "Randi",
+    "lastName": "Rijswijk",
+    "email": "randi.rijswijk@example.com",
+    "username": "smallduck626",
+    "password": "calico",
+    "invokedAt": "2023-11-06T15:55:14.731Z"
   }
 ]
