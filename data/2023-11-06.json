@@ -566,5 +566,13 @@
     "username": "brownkoala526",
     "password": "yzerman",
     "invokedAt": "2023-11-06T11:35:20.094Z"
+  },
+  {
+    "firstName": "Jill",
+    "lastName": "Walker",
+    "email": "jill.walker@example.com",
+    "username": "angryelephant689",
+    "password": "flyer",
+    "invokedAt": "2023-11-06T11:41:07.976Z"
   }
 ]
