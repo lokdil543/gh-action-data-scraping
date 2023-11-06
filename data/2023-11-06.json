@@ -646,5 +646,13 @@
     "username": "yellowswan291",
     "password": "atlas",
     "invokedAt": "2023-11-06T13:35:41.316Z"
+  },
+  {
+    "firstName": "Kristijan",
+    "lastName": "Srećković",
+    "email": "kristijan.sreckovic@example.com",
+    "username": "blackswan807",
+    "password": "cthulhu",
+    "invokedAt": "2023-11-06T13:41:36.140Z"
   }
 ]
