@@ -246,5 +246,13 @@
     "username": "orangemouse321",
     "password": "australi",
     "invokedAt": "2023-11-06T06:07:35.060Z"
+  },
+  {
+    "firstName": "Laly",
+    "lastName": "Dupont",
+    "email": "laly.dupont@example.com",
+    "username": "redcat462",
+    "password": "fatman",
+    "invokedAt": "2023-11-06T06:26:46.292Z"
   }
 ]
