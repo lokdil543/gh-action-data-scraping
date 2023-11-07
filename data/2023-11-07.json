@@ -1158,5 +1158,13 @@
     "username": "orangetiger245",
     "password": "gateway",
     "invokedAt": "2023-11-07T21:24:01.180Z"
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Gausdal",
+    "email": "jan.gausdal@example.com",
+    "username": "smallfish105",
+    "password": "blue123",
+    "invokedAt": "2023-11-07T21:29:58.979Z"
   }
 ]
