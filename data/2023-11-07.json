@@ -702,5 +702,13 @@
     "username": "brownostrich884",
     "password": "phillies",
     "invokedAt": "2023-11-07T13:54:10.174Z"
+  },
+  {
+    "firstName": "Héctor",
+    "lastName": "Cortes",
+    "email": "hector.cortes@example.com",
+    "username": "brownlion124",
+    "password": "caveman",
+    "invokedAt": "2023-11-07T13:59:55.565Z"
   }
 ]
