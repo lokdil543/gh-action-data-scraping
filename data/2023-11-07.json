@@ -1150,5 +1150,13 @@
     "username": "brownzebra529",
     "password": "xing",
     "invokedAt": "2023-11-07T21:18:05.790Z"
+  },
+  {
+    "firstName": "Mats",
+    "lastName": "Garshol",
+    "email": "mats.garshol@example.com",
+    "username": "orangetiger245",
+    "password": "gateway",
+    "invokedAt": "2023-11-07T21:24:01.180Z"
   }
 ]
