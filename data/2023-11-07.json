@@ -1206,5 +1206,13 @@
     "username": "greenmouse818",
     "password": "london",
     "invokedAt": "2023-11-07T21:59:21.710Z"
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Oliveira",
+    "email": "aron.oliveira@example.com",
+    "username": "lazypanda180",
+    "password": "unique",
+    "invokedAt": "2023-11-07T22:11:25.774Z"
   }
 ]
