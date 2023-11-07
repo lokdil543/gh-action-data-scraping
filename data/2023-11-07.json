@@ -542,5 +542,13 @@
     "username": "bluebutterfly572",
     "password": "train",
     "invokedAt": "2023-11-07T10:51:34.500Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Garcia",
+    "email": "clement.garcia@example.com",
+    "username": "crazybird280",
+    "password": "honor",
+    "invokedAt": "2023-11-07T10:57:25.430Z"
   }
 ]
