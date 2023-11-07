@@ -550,5 +550,13 @@
     "username": "crazybird280",
     "password": "honor",
     "invokedAt": "2023-11-07T10:57:25.430Z"
+  },
+  {
+    "firstName": "Davor",
+    "lastName": "Spasojević",
+    "email": "davor.spasojevic@example.com",
+    "username": "crazypanda969",
+    "password": "pepper1",
+    "invokedAt": "2023-11-07T11:07:49.397Z"
   }
 ]
