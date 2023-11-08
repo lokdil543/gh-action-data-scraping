@@ -246,5 +246,13 @@
     "username": "organicbutterfly674",
     "password": "12345678",
     "invokedAt": "2023-11-08T05:54:56.625Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Palmer",
+    "email": "diana.palmer@example.com",
+    "username": "silverdog329",
+    "password": "bathing",
+    "invokedAt": "2023-11-08T06:07:39.841Z"
   }
 ]
