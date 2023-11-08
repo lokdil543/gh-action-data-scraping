@@ -1150,5 +1150,13 @@
     "username": "tinyelephant723",
     "password": "napster",
     "invokedAt": "2023-11-08T21:18:23.929Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Kujala",
+    "email": "aleksi.kujala@example.com",
+    "username": "crazylion142",
+    "password": "duck",
+    "invokedAt": "2023-11-08T21:24:06.494Z"
   }
 ]
