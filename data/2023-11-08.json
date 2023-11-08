@@ -206,5 +206,13 @@
     "username": "crazyduck656",
     "password": "rated",
     "invokedAt": "2023-11-08T05:25:35.999Z"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Wirkkala",
+    "email": "julius.wirkkala@example.com",
+    "username": "angryswan870",
+    "password": "message",
+    "invokedAt": "2023-11-08T05:31:35.197Z"
   }
 ]
