@@ -126,5 +126,13 @@
     "username": "tinyzebra492",
     "password": "mazda",
     "invokedAt": "2023-11-08T03:55:56.659Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Petersen",
+    "email": "emil.petersen@example.com",
+    "username": "crazyswan582",
+    "password": "test2",
+    "invokedAt": "2023-11-08T04:08:41.385Z"
   }
 ]
