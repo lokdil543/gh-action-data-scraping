@@ -630,5 +630,13 @@
     "username": "brownduck215",
     "password": "taco",
     "invokedAt": "2023-11-08T12:21:00.011Z"
+  },
+  {
+    "firstName": "Anni",
+    "lastName": "Korhonen",
+    "email": "anni.korhonen@example.com",
+    "username": "tinygorilla317",
+    "password": "reaper",
+    "invokedAt": "2023-11-08T12:44:50.060Z"
   }
 ]
