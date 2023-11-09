@@ -518,5 +518,13 @@
     "username": "blackkoala762",
     "password": "deacon",
     "invokedAt": "2023-11-09T10:33:44.553Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Nielsen",
+    "email": "malou.nielsen@example.com",
+    "username": "silvergoose303",
+    "password": "camero",
+    "invokedAt": "2023-11-09T10:39:21.182Z"
   }
 ]
