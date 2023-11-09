@@ -630,5 +630,13 @@
     "username": "brownleopard573",
     "password": "stevens",
     "invokedAt": "2023-11-09T12:19:28.570Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Zhang",
+    "email": "liam.zhang@example.com",
+    "username": "yellowleopard488",
+    "password": "sunny1",
+    "invokedAt": "2023-11-09T12:43:59.750Z"
   }
 ]
