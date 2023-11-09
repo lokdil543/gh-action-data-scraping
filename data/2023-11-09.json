@@ -502,5 +502,13 @@
     "username": "bigpanda762",
     "password": "break",
     "invokedAt": "2023-11-09T10:09:13.620Z"
+  },
+  {
+    "firstName": "Aćim",
+    "lastName": "Milovanović",
+    "email": "acim.milovanovic@example.com",
+    "username": "purplebird152",
+    "password": "nope",
+    "invokedAt": "2023-11-09T10:26:02.853Z"
   }
 ]
