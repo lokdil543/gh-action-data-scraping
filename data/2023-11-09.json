@@ -1206,5 +1206,13 @@
     "username": "bigduck506",
     "password": "scrapper",
     "invokedAt": "2023-11-09T21:59:28.970Z"
+  },
+  {
+    "firstName": "Samu",
+    "lastName": "Koskinen",
+    "email": "samu.koskinen@example.com",
+    "username": "orangepanda784",
+    "password": "1968",
+    "invokedAt": "2023-11-09T22:12:12.678Z"
   }
 ]
