@@ -1078,5 +1078,13 @@
     "username": "beautifulpeacock299",
     "password": "passthie",
     "invokedAt": "2023-11-09T20:10:12.900Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Halleraker",
+    "email": "adam.halleraker@example.com",
+    "username": "bigelephant450",
+    "password": "secure",
+    "invokedAt": "2023-11-09T20:22:09.040Z"
   }
 ]
