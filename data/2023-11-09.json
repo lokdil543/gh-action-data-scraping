@@ -1102,5 +1102,13 @@
     "username": "brownzebra890",
     "password": "pointer",
     "invokedAt": "2023-11-09T20:34:34.081Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Moore",
+    "email": "matilda.moore@example.com",
+    "username": "happyfrog224",
+    "password": "fishman",
+    "invokedAt": "2023-11-09T20:40:17.498Z"
   }
 ]
