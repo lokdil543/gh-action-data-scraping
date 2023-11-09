@@ -1222,5 +1222,13 @@
     "username": "whitecat112",
     "password": "panhead",
     "invokedAt": "2023-11-09T22:25:10.194Z"
+  },
+  {
+    "firstName": "Yves",
+    "lastName": "Van Baardwijk",
+    "email": "yves.vanbaardwijk@example.com",
+    "username": "yellowbird400",
+    "password": "mobile",
+    "invokedAt": "2023-11-09T22:31:05.586Z"
   }
 ]
