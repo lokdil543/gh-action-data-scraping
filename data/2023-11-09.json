@@ -366,5 +366,13 @@
     "username": "redzebra303",
     "password": "trooper",
     "invokedAt": "2023-11-09T07:54:33.420Z"
+  },
+  {
+    "firstName": "Lubomir",
+    "lastName": "Zekić",
+    "email": "lubomir.zekic@example.com",
+    "username": "sadgorilla987",
+    "password": "hurricane",
+    "invokedAt": "2023-11-09T08:00:25.063Z"
   }
 ]
