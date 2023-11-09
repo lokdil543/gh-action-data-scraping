@@ -446,5 +446,13 @@
     "username": "crazysnake672",
     "password": "wolfpac",
     "invokedAt": "2023-11-09T09:21:14.126Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Blanc",
+    "email": "william.blanc@example.com",
+    "username": "happybear857",
+    "password": "secret",
+    "invokedAt": "2023-11-09T09:27:13.309Z"
   }
 ]
