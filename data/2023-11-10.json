@@ -166,5 +166,13 @@
     "username": "ticklishgoose508",
     "password": "spring",
     "invokedAt": "2023-11-10T04:42:33.760Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Margaret",
+    "email": "rose.margaret@example.com",
+    "username": "purplegoose661",
+    "password": "admin1",
+    "invokedAt": "2023-11-10T04:48:27.115Z"
   }
 ]
