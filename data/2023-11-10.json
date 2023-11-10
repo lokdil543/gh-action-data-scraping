@@ -678,5 +678,13 @@
     "username": "happyzebra520",
     "password": "absolutely",
     "invokedAt": "2023-11-10T13:36:35.041Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Aybar",
+    "email": "kadir.aybar@example.com",
+    "username": "browngorilla742",
+    "password": "trigger",
+    "invokedAt": "2023-11-10T13:42:27.174Z"
   }
 ]
