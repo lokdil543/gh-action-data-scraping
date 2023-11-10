@@ -270,5 +270,13 @@
     "username": "orangebird644",
     "password": "spikey",
     "invokedAt": "2023-11-10T06:32:47.420Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "King",
+    "email": "tracy.king@example.com",
+    "username": "lazyladybug132",
+    "password": "village",
+    "invokedAt": "2023-11-10T06:39:10.671Z"
   }
 ]
