@@ -726,5 +726,13 @@
     "username": "brownbear773",
     "password": "never",
     "invokedAt": "2023-11-10T14:25:17.322Z"
+  },
+  {
+    "firstName": "Shawn",
+    "lastName": "Beck",
+    "email": "shawn.beck@example.com",
+    "username": "purplelion262",
+    "password": "poker",
+    "invokedAt": "2023-11-10T14:31:09.192Z"
   }
 ]
