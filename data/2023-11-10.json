@@ -518,5 +518,13 @@
     "username": "crazyzebra864",
     "password": "delete",
     "invokedAt": "2023-11-10T10:32:46.439Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Andersen",
+    "email": "astrid.andersen@example.com",
+    "username": "smallswan373",
+    "password": "123asd",
+    "invokedAt": "2023-11-10T10:38:44.181Z"
   }
 ]
