@@ -462,5 +462,13 @@
     "username": "angryswan358",
     "password": "speedo",
     "invokedAt": "2023-11-10T09:32:50.242Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Møller",
+    "email": "maria.moller@example.com",
+    "username": "purplebutterfly540",
+    "password": "band",
+    "invokedAt": "2023-11-10T09:38:49.042Z"
   }
 ]
