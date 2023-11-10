@@ -1062,5 +1062,13 @@
     "username": "crazyleopard141",
     "password": "newton",
     "invokedAt": "2023-11-10T19:46:28.035Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Tomović",
+    "email": "cedomir.tomovic@example.com",
+    "username": "lazylion104",
+    "password": "shutup",
+    "invokedAt": "2023-11-10T19:52:40.820Z"
   }
 ]
