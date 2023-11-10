@@ -510,5 +510,13 @@
     "username": "bluefrog512",
     "password": "skunk",
     "invokedAt": "2023-11-10T10:25:12.349Z"
+  },
+  {
+    "firstName": "Melanie",
+    "lastName": "Morgan",
+    "email": "melanie.morgan@example.com",
+    "username": "crazyzebra864",
+    "password": "delete",
+    "invokedAt": "2023-11-10T10:32:46.439Z"
   }
 ]
