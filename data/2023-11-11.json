@@ -886,5 +886,13 @@
     "username": "purplefrog331",
     "password": "records",
     "invokedAt": "2023-11-11T17:27:23.748Z"
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "May",
+    "email": "diane.may@example.com",
+    "username": "angrywolf117",
+    "password": "daisy",
+    "invokedAt": "2023-11-11T17:33:38.643Z"
   }
 ]
