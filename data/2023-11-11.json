@@ -846,5 +846,13 @@
     "username": "lazygoose356",
     "password": "vantage",
     "invokedAt": "2023-11-11T16:41:46.301Z"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Perišić",
+    "email": "nikola.perisic@example.com",
+    "username": "beautifuldog304",
+    "password": "attack",
+    "invokedAt": "2023-11-11T16:53:36.592Z"
   }
 ]
