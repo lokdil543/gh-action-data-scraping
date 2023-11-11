@@ -118,5 +118,13 @@
     "username": "biggoose577",
     "password": "budweise",
     "invokedAt": "2023-11-11T04:36:10.732Z"
+  },
+  {
+    "firstName": "Alain",
+    "lastName": "Meyer",
+    "email": "alain.meyer@example.com",
+    "username": "greenwolf456",
+    "password": "orange",
+    "invokedAt": "2023-11-11T04:42:09.444Z"
   }
 ]
