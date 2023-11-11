@@ -310,5 +310,13 @@
     "username": "bigbird835",
     "password": "gypsy",
     "invokedAt": "2023-11-11T07:34:17.832Z"
+  },
+  {
+    "firstName": "Emmi",
+    "lastName": "Oja",
+    "email": "emmi.oja@example.com",
+    "username": "bigpanda528",
+    "password": "trick",
+    "invokedAt": "2023-11-11T07:40:01.592Z"
   }
 ]
