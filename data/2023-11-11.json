@@ -198,5 +198,13 @@
     "username": "purpledog121",
     "password": "wrestling",
     "invokedAt": "2023-11-11T05:46:44.748Z"
+  },
+  {
+    "firstName": "Zlata",
+    "lastName": "Tešić",
+    "email": "zlata.tesic@example.com",
+    "username": "lazyzebra356",
+    "password": "asd123",
+    "invokedAt": "2023-11-11T05:52:37.903Z"
   }
 ]
