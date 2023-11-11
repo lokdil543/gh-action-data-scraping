@@ -606,5 +606,13 @@
     "username": "lazyostrich870",
     "password": "dogface",
     "invokedAt": "2023-11-11T11:57:02.554Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Hughes",
+    "email": "felix.hughes@example.com",
+    "username": "whitebutterfly511",
+    "password": "head",
+    "invokedAt": "2023-11-11T12:14:49.490Z"
   }
 ]
