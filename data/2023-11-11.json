@@ -438,5 +438,13 @@
     "username": "blackduck171",
     "password": "break",
     "invokedAt": "2023-11-11T09:31:41.508Z"
+  },
+  {
+    "firstName": "Dieter",
+    "lastName": "Wirth",
+    "email": "dieter.wirth@example.com",
+    "username": "whiterabbit455",
+    "password": "jakejake",
+    "invokedAt": "2023-11-11T09:37:31.670Z"
   }
 ]
