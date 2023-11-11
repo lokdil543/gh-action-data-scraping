@@ -1126,5 +1126,13 @@
     "username": "bigdog381",
     "password": "dragonfl",
     "invokedAt": "2023-11-11T20:55:12.815Z"
+  },
+  {
+    "firstName": "Wade",
+    "lastName": "Gilbert",
+    "email": "wade.gilbert@example.com",
+    "username": "lazylion905",
+    "password": "qaz123",
+    "invokedAt": "2023-11-11T21:03:03.512Z"
   }
 ]
