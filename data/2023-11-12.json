@@ -942,5 +942,13 @@
     "username": "yellowcat836",
     "password": "flanker",
     "invokedAt": "2023-11-12T17:38:29.590Z"
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Ward",
+    "email": "diane.ward@example.com",
+    "username": "bluetiger137",
+    "password": "wibble",
+    "invokedAt": "2023-11-12T17:44:18.631Z"
   }
 ]
