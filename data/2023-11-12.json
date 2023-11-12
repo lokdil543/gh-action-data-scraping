@@ -494,5 +494,13 @@
     "username": "lazyfish283",
     "password": "romeo",
     "invokedAt": "2023-11-12T09:52:45.267Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Nalbantoğlu",
+    "email": "vedat.nalbantoglu@example.com",
+    "username": "purpletiger743",
+    "password": "boeing",
+    "invokedAt": "2023-11-12T09:58:54.750Z"
   }
 ]
