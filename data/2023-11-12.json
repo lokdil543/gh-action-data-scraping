@@ -782,5 +782,13 @@
     "username": "silverdog511",
     "password": "magical",
     "invokedAt": "2023-11-12T15:03:42.421Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Reid",
+    "email": "sean.reid@example.com",
+    "username": "angrybird589",
+    "password": "bunker",
+    "invokedAt": "2023-11-12T15:16:58.731Z"
   }
 ]
