@@ -1046,5 +1046,13 @@
     "username": "organicostrich990",
     "password": "hjkl",
     "invokedAt": "2023-11-12T19:15:16.554Z"
+  },
+  {
+    "firstName": "Darren",
+    "lastName": "Nguyen",
+    "email": "darren.nguyen@example.com",
+    "username": "goldencat903",
+    "password": "jerry1",
+    "invokedAt": "2023-11-12T19:21:07.854Z"
   }
 ]
