@@ -870,5 +870,13 @@
     "username": "lazyfrog890",
     "password": "listen",
     "invokedAt": "2023-11-13T17:11:54.594Z"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Nguyen",
+    "email": "damien.nguyen@example.com",
+    "username": "orangefish579",
+    "password": "scott",
+    "invokedAt": "2023-11-13T17:23:57.179Z"
   }
 ]
