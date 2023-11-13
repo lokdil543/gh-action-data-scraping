@@ -110,5 +110,13 @@
     "username": "crazylion486",
     "password": "testing",
     "invokedAt": "2023-11-13T03:46:49.661Z"
+  },
+  {
+    "firstName": "Esparta",
+    "lastName": "Valencia",
+    "email": "esparta.valencia@example.com",
+    "username": "smalllion624",
+    "password": "place",
+    "invokedAt": "2023-11-13T03:52:40.331Z"
   }
 ]
