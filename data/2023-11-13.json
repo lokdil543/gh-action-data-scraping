@@ -702,5 +702,13 @@
     "username": "redwolf360",
     "password": "motorola",
     "invokedAt": "2023-11-13T14:23:06.348Z"
+  },
+  {
+    "firstName": "Levi",
+    "lastName": "Green",
+    "email": "levi.green@example.com",
+    "username": "bluebird564",
+    "password": "redred",
+    "invokedAt": "2023-11-13T14:30:35.872Z"
   }
 ]
