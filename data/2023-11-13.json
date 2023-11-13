@@ -534,5 +534,13 @@
     "username": "whitetiger115",
     "password": "444444",
     "invokedAt": "2023-11-13T10:56:08.543Z"
+  },
+  {
+    "firstName": "Peer",
+    "lastName": "Bohl",
+    "email": "peer.bohl@example.com",
+    "username": "orangeladybug469",
+    "password": "picard",
+    "invokedAt": "2023-11-13T11:06:45.664Z"
   }
 ]
