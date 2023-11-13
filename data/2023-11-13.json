@@ -86,5 +86,13 @@
     "username": "redelephant773",
     "password": "smith",
     "invokedAt": "2023-11-13T03:28:27.342Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Hansen",
+    "email": "ida.hansen@example.com",
+    "username": "redelephant832",
+    "password": "bigones",
+    "invokedAt": "2023-11-13T03:35:12.379Z"
   }
 ]
