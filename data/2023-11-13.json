@@ -1198,5 +1198,13 @@
     "username": "yellowrabbit632",
     "password": "divx1",
     "invokedAt": "2023-11-13T22:12:04.744Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Simpson",
+    "email": "harper.simpson@example.com",
+    "username": "orangezebra634",
+    "password": "harry",
+    "invokedAt": "2023-11-13T22:25:54.722Z"
   }
 ]
