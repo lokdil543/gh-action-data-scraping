@@ -542,5 +542,13 @@
     "username": "bigcat798",
     "password": "ariana",
     "invokedAt": "2023-11-14T10:54:46.521Z"
+  },
+  {
+    "firstName": "Miriam",
+    "lastName": "Cortes",
+    "email": "miriam.cortes@example.com",
+    "username": "bigkoala203",
+    "password": "indy",
+    "invokedAt": "2023-11-14T11:00:55.964Z"
   }
 ]
