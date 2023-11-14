@@ -54,5 +54,13 @@
     "username": "redgorilla108",
     "password": "pipeline",
     "invokedAt": "2023-11-14T02:49:36.821Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Brar",
+    "email": "alice.brar@example.com",
+    "username": "happyelephant816",
+    "password": "skiing",
+    "invokedAt": "2023-11-14T02:55:47.992Z"
   }
 ]
