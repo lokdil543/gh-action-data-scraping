@@ -1270,5 +1270,13 @@
     "username": "heavybear379",
     "password": "flames",
     "invokedAt": "2023-11-14T22:48:55.606Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Andersen",
+    "email": "anna.andersen@example.com",
+    "username": "brownwolf212",
+    "password": "midnight",
+    "invokedAt": "2023-11-14T22:54:41.397Z"
   }
 ]
