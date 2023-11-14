@@ -894,5 +894,13 @@
     "username": "goldenrabbit180",
     "password": "4121",
     "invokedAt": "2023-11-14T17:10:54.035Z"
+  },
+  {
+    "firstName": "Jeronimus",
+    "lastName": "Van de Giessen",
+    "email": "jeronimus.vandegiessen@example.com",
+    "username": "greenrabbit580",
+    "password": "city",
+    "invokedAt": "2023-11-14T17:20:41.746Z"
   }
 ]
