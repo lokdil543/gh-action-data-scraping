@@ -486,5 +486,13 @@
     "username": "bigrabbit874",
     "password": "rider",
     "invokedAt": "2023-11-14T09:52:34.587Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Anderson",
+    "email": "alexander.anderson@example.com",
+    "username": "sadbutterfly344",
+    "password": "outside",
+    "invokedAt": "2023-11-14T09:58:20.644Z"
   }
 ]
