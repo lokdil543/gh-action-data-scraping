@@ -902,5 +902,13 @@
     "username": "greenrabbit580",
     "password": "city",
     "invokedAt": "2023-11-14T17:20:41.746Z"
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "Berry",
+    "email": "mitchell.berry@example.com",
+    "username": "silverdog207",
+    "password": "nitro",
+    "invokedAt": "2023-11-14T17:26:29.965Z"
   }
 ]
