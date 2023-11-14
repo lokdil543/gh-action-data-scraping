@@ -926,5 +926,13 @@
     "username": "tinyzebra644",
     "password": "harvard",
     "invokedAt": "2023-11-14T17:38:26.489Z"
+  },
+  {
+    "firstName": "Gonzalo",
+    "lastName": "González",
+    "email": "gonzalo.gonzalez@example.com",
+    "username": "bigzebra110",
+    "password": "carl",
+    "invokedAt": "2023-11-14T17:44:19.808Z"
   }
 ]
