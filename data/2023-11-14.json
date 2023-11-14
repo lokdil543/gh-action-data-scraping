@@ -846,5 +846,13 @@
     "username": "yellowlion321",
     "password": "asdfasdf",
     "invokedAt": "2023-11-14T16:30:50.514Z"
+  },
+  {
+    "firstName": "Tomislav",
+    "lastName": "Bakić",
+    "email": "tomislav.bakic@example.com",
+    "username": "bigswan199",
+    "password": "older",
+    "invokedAt": "2023-11-14T16:36:41.641Z"
   }
 ]
