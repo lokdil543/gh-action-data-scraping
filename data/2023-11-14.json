@@ -726,5 +726,13 @@
     "username": "bigrabbit222",
     "password": "flying",
     "invokedAt": "2023-11-14T14:33:32.458Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Burke",
+    "email": "kirk.burke@example.com",
+    "username": "smallmeercat146",
+    "password": "nnnnnnn",
+    "invokedAt": "2023-11-14T14:39:32.319Z"
   }
 ]
