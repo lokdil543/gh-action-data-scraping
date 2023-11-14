@@ -558,5 +558,13 @@
     "username": "heavyostrich431",
     "password": "seng",
     "invokedAt": "2023-11-14T11:12:36.985Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Kangas",
+    "email": "juho.kangas@example.com",
+    "username": "whiteladybug509",
+    "password": "radar",
+    "invokedAt": "2023-11-14T11:19:48.397Z"
   }
 ]
