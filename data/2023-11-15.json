@@ -558,5 +558,13 @@
     "username": "bluegorilla894",
     "password": "century",
     "invokedAt": "2023-11-15T11:29:50.253Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "King",
+    "email": "hunter.king@example.com",
+    "username": "whitedog744",
+    "password": "mamas",
+    "invokedAt": "2023-11-15T11:35:53.648Z"
   }
 ]
