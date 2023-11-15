@@ -982,5 +982,13 @@
     "username": "lazyduck146",
     "password": "kitty1",
     "invokedAt": "2023-11-15T19:22:07.665Z"
+  },
+  {
+    "firstName": "Avram",
+    "lastName": "Preković",
+    "email": "avram.prekovic@example.com",
+    "username": "bigswan684",
+    "password": "daemon",
+    "invokedAt": "2023-11-15T19:28:04.465Z"
   }
 ]
