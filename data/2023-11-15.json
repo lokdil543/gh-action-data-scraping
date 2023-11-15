@@ -638,5 +638,13 @@
     "username": "bluefish822",
     "password": "citadel",
     "invokedAt": "2023-11-15T13:29:07.847Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Crawford",
+    "email": "daniel.crawford@example.com",
+    "username": "yellowtiger811",
+    "password": "diver1",
+    "invokedAt": "2023-11-15T13:35:04.659Z"
   }
 ]
