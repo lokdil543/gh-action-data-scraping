@@ -846,5 +846,13 @@
     "username": "orangezebra436",
     "password": "island",
     "invokedAt": "2023-11-15T17:04:23.633Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Montgomery",
+    "email": "liam.montgomery@example.com",
+    "username": "blackkoala121",
+    "password": "picks",
+    "invokedAt": "2023-11-15T17:18:58.812Z"
   }
 ]
