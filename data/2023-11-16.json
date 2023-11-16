@@ -1174,5 +1174,13 @@
     "username": "purplelion198",
     "password": "dnsadm",
     "invokedAt": "2023-11-16T22:30:25.566Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Rasmussen",
+    "email": "william.rasmussen@example.com",
+    "username": "greendog310",
+    "password": "californ",
+    "invokedAt": "2023-11-16T22:36:18.692Z"
   }
 ]
