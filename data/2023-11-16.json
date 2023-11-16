@@ -342,5 +342,13 @@
     "username": "sadbear502",
     "password": "lambda",
     "invokedAt": "2023-11-16T07:50:36.752Z"
+  },
+  {
+    "firstName": "Joy",
+    "lastName": "Medina",
+    "email": "joy.medina@example.com",
+    "username": "heavyfish471",
+    "password": "punkin",
+    "invokedAt": "2023-11-16T07:56:22.638Z"
   }
 ]
