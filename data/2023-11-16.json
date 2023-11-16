@@ -574,5 +574,13 @@
     "username": "crazyzebra141",
     "password": "killbill",
     "invokedAt": "2023-11-16T11:46:57.934Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Jørgensen",
+    "email": "tristan.jorgensen@example.com",
+    "username": "silverpanda126",
+    "password": "kitten",
+    "invokedAt": "2023-11-16T11:53:01.679Z"
   }
 ]
