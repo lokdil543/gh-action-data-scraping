@@ -1014,5 +1014,13 @@
     "username": "happyzebra379",
     "password": "pocket",
     "invokedAt": "2023-11-17T19:42:47.863Z"
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Nikolić",
+    "email": "bogdan.nikolic@example.com",
+    "username": "silverzebra463",
+    "password": "force",
+    "invokedAt": "2023-11-17T19:48:32.456Z"
   }
 ]
