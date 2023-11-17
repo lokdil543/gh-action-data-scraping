@@ -470,5 +470,13 @@
     "username": "happyduck585",
     "password": "chris",
     "invokedAt": "2023-11-17T09:53:47.541Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Çevik",
+    "email": "mustafa.cevik@example.com",
+    "username": "whitecat705",
+    "password": "integra",
+    "invokedAt": "2023-11-17T09:59:34.570Z"
   }
 ]
