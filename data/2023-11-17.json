@@ -462,5 +462,13 @@
     "username": "heavygorilla949",
     "password": "redline",
     "invokedAt": "2023-11-17T09:47:52.643Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Scott",
+    "email": "james.scott@example.com",
+    "username": "happyduck585",
+    "password": "chris",
+    "invokedAt": "2023-11-17T09:53:47.541Z"
   }
 ]
