@@ -1102,5 +1102,13 @@
     "username": "heavyelephant906",
     "password": "yamaha",
     "invokedAt": "2023-11-17T21:00:52.565Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Pfau",
+    "email": "susan.pfau@example.com",
+    "username": "yellowdog432",
+    "password": "lily",
+    "invokedAt": "2023-11-17T21:13:24.539Z"
   }
 ]
