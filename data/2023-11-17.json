@@ -926,5 +926,13 @@
     "username": "blackostrich432",
     "password": "merlot",
     "invokedAt": "2023-11-17T18:29:47.549Z"
+  },
+  {
+    "firstName": "Kamil",
+    "lastName": "Block",
+    "email": "kamil.block@example.com",
+    "username": "redgorilla862",
+    "password": "spyder",
+    "invokedAt": "2023-11-17T18:37:15.076Z"
   }
 ]
