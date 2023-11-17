@@ -982,5 +982,13 @@
     "username": "bigrabbit395",
     "password": "costello",
     "invokedAt": "2023-11-17T19:19:15.210Z"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Lehtola",
+    "email": "julius.lehtola@example.com",
+    "username": "greencat901",
+    "password": "jonathon",
+    "invokedAt": "2023-11-17T19:25:03.077Z"
   }
 ]
