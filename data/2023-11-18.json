@@ -574,5 +574,13 @@
     "username": "whitefrog283",
     "password": "journey",
     "invokedAt": "2023-11-18T11:14:36.050Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Duval",
+    "email": "pablo.duval@example.com",
+    "username": "whitegorilla598",
+    "password": "carman",
+    "invokedAt": "2023-11-18T11:20:42.775Z"
   }
 ]
