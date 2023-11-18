@@ -198,5 +198,13 @@
     "username": "organicbear994",
     "password": "nicholas",
     "invokedAt": "2023-11-18T05:24:00.930Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Petersen",
+    "email": "mikkel.petersen@example.com",
+    "username": "whitelion122",
+    "password": "onions",
+    "invokedAt": "2023-11-18T05:30:00.998Z"
   }
 ]
