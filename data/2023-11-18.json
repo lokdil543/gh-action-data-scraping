@@ -606,5 +606,13 @@
     "username": "silverbear567",
     "password": "fighting",
     "invokedAt": "2023-11-18T11:38:44.736Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Ekşioğlu",
+    "email": "ali.eksioglu@example.com",
+    "username": "yellowzebra780",
+    "password": "456456",
+    "invokedAt": "2023-11-18T11:44:31.770Z"
   }
 ]
