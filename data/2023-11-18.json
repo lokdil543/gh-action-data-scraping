@@ -270,5 +270,13 @@
     "username": "whitewolf785",
     "password": "lasvegas",
     "invokedAt": "2023-11-18T06:35:04.222Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Noel",
+    "email": "evan.noel@example.com",
+    "username": "reddog849",
+    "password": "magpies",
+    "invokedAt": "2023-11-18T06:40:52.527Z"
   }
 ]
