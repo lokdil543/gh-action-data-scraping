@@ -238,5 +238,13 @@
     "username": "bigcat330",
     "password": "onetwo",
     "invokedAt": "2023-11-18T05:54:06.566Z"
+  },
+  {
+    "firstName": "Maxwell",
+    "lastName": "Woods",
+    "email": "maxwell.woods@example.com",
+    "username": "sadcat503",
+    "password": "987654",
+    "invokedAt": "2023-11-18T05:59:43.770Z"
   }
 ]
