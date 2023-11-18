@@ -990,5 +990,13 @@
     "username": "heavybutterfly398",
     "password": "gasman",
     "invokedAt": "2023-11-18T18:24:47.234Z"
+  },
+  {
+    "firstName": "Darío",
+    "lastName": "Mesa",
+    "email": "dario.mesa@example.com",
+    "username": "heavybear654",
+    "password": "angie",
+    "invokedAt": "2023-11-18T18:30:43.437Z"
   }
 ]
