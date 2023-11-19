@@ -678,5 +678,13 @@
     "username": "organicbear100",
     "password": "daniela",
     "invokedAt": "2023-11-19T13:30:48.121Z"
+  },
+  {
+    "firstName": "Astri",
+    "lastName": "Lundgård",
+    "email": "astri.lundgard@example.com",
+    "username": "bluewolf163",
+    "password": "network",
+    "invokedAt": "2023-11-19T13:36:35.673Z"
   }
 ]
