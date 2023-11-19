@@ -1174,5 +1174,13 @@
     "username": "crazyfrog788",
     "password": "brains",
     "invokedAt": "2023-11-19T21:16:17.690Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Murto",
+    "email": "kasper.murto@example.com",
+    "username": "bluegorilla894",
+    "password": "postman",
+    "invokedAt": "2023-11-19T21:22:15.689Z"
   }
 ]
