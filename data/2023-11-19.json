@@ -566,5 +566,13 @@
     "username": "blackkoala511",
     "password": "stallion",
     "invokedAt": "2023-11-19T11:15:48.683Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Holst",
+    "email": "tom.holst@example.com",
+    "username": "orangeelephant960",
+    "password": "peace",
+    "invokedAt": "2023-11-19T11:21:44.940Z"
   }
 ]
