@@ -366,5 +366,13 @@
     "username": "smallfish847",
     "password": "alberta",
     "invokedAt": "2023-11-19T07:59:49.782Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Pérez",
+    "email": "alvaro.perez@example.com",
+    "username": "brownbear336",
+    "password": "darkness",
+    "invokedAt": "2023-11-19T08:16:08.559Z"
   }
 ]
