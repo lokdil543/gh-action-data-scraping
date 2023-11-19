@@ -1166,5 +1166,13 @@
     "username": "redgorilla607",
     "password": "boxing",
     "invokedAt": "2023-11-19T21:05:45.140Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Mortensen",
+    "email": "sebastian.mortensen@example.com",
+    "username": "crazyfrog788",
+    "password": "brains",
+    "invokedAt": "2023-11-19T21:16:17.690Z"
   }
 ]
