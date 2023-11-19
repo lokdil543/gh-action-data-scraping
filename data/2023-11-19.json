@@ -518,5 +518,13 @@
     "username": "happymeercat923",
     "password": "burner",
     "invokedAt": "2023-11-19T10:33:39.646Z"
+  },
+  {
+    "firstName": "Viggo",
+    "lastName": "Brakstad",
+    "email": "viggo.brakstad@example.com",
+    "username": "goldenbird603",
+    "password": "calvin",
+    "invokedAt": "2023-11-19T10:39:37.318Z"
   }
 ]
