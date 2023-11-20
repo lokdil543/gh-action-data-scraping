@@ -622,5 +622,13 @@
     "username": "bluefrog214",
     "password": "barton",
     "invokedAt": "2023-11-20T13:32:14.010Z"
+  },
+  {
+    "firstName": "Arsenije",
+    "lastName": "Stojanović",
+    "email": "arsenije.stojanovic@example.com",
+    "username": "angrymeercat516",
+    "password": "striper",
+    "invokedAt": "2023-11-20T13:38:00.936Z"
   }
 ]
