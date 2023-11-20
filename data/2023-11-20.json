@@ -998,5 +998,13 @@
     "username": "whitemouse794",
     "password": "magic",
     "invokedAt": "2023-11-20T19:45:24.880Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Gabriel",
+    "email": "ivan.gabriel@example.com",
+    "username": "ticklishmouse419",
+    "password": "focus",
+    "invokedAt": "2023-11-20T19:51:15.552Z"
   }
 ]
