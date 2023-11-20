@@ -1142,5 +1142,13 @@
     "username": "bigcat321",
     "password": "films",
     "invokedAt": "2023-11-20T21:55:04.584Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Torres",
+    "email": "anna.torres@example.com",
+    "username": "redlion859",
+    "password": "soccer12",
+    "invokedAt": "2023-11-20T22:04:17.631Z"
   }
 ]
