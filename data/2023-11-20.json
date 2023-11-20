@@ -718,5 +718,13 @@
     "username": "orangegoose612",
     "password": "transit",
     "invokedAt": "2023-11-20T15:07:27.956Z"
+  },
+  {
+    "firstName": "Darren",
+    "lastName": "Lawson",
+    "email": "darren.lawson@example.com",
+    "username": "beautifulelephant134",
+    "password": "smoothie",
+    "invokedAt": "2023-11-20T15:22:54.368Z"
   }
 ]
