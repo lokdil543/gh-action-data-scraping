@@ -686,5 +686,13 @@
     "username": "redkoala914",
     "password": "gesperrt",
     "invokedAt": "2023-11-20T14:38:06.785Z"
+  },
+  {
+    "firstName": "Viktor",
+    "lastName": "Sperl",
+    "email": "viktor.sperl@example.com",
+    "username": "sadfish394",
+    "password": "ratman",
+    "invokedAt": "2023-11-20T14:44:00.012Z"
   }
 ]
