@@ -574,5 +574,13 @@
     "username": "heavyfrog136",
     "password": "zander",
     "invokedAt": "2023-11-20T11:53:51.806Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Toraman",
+    "email": "ali.toraman@example.com",
+    "username": "crazycat409",
+    "password": "bounce",
+    "invokedAt": "2023-11-20T11:59:45.854Z"
   }
 ]
