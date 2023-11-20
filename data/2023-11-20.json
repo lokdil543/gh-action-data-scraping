@@ -270,5 +270,13 @@
     "username": "greenbear919",
     "password": "sawyer",
     "invokedAt": "2023-11-20T06:49:59.628Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Roberts",
+    "email": "roger.roberts@example.com",
+    "username": "organicladybug111",
+    "password": "artist",
+    "invokedAt": "2023-11-20T06:55:56.748Z"
   }
 ]
