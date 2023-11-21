@@ -526,5 +526,13 @@
     "username": "silverduck139",
     "password": "hello2",
     "invokedAt": "2023-11-21T11:23:47.684Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Rose",
+    "email": "brian.rose@example.com",
+    "username": "organicbear384",
+    "password": "marilyn",
+    "invokedAt": "2023-11-21T11:29:43.199Z"
   }
 ]
