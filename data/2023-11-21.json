@@ -630,5 +630,13 @@
     "username": "lazykoala642",
     "password": "astra",
     "invokedAt": "2023-11-21T13:42:07.762Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Simmmons",
+    "email": "ken.simmmons@example.com",
+    "username": "lazybird169",
+    "password": "brain",
+    "invokedAt": "2023-11-21T13:47:58.514Z"
   }
 ]
