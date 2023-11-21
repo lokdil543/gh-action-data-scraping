@@ -998,5 +998,13 @@
     "username": "organicleopard248",
     "password": "1215",
     "invokedAt": "2023-11-21T20:12:45.973Z"
+  },
+  {
+    "firstName": "Božo",
+    "lastName": "Stevanović",
+    "email": "bozo.stevanovic@example.com",
+    "username": "smallbird937",
+    "password": "jester",
+    "invokedAt": "2023-11-21T20:23:14.048Z"
   }
 ]
