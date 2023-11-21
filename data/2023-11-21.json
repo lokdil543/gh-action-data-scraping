@@ -398,5 +398,13 @@
     "username": "whitegorilla558",
     "password": "central",
     "invokedAt": "2023-11-21T08:55:09.545Z"
+  },
+  {
+    "firstName": "Arman",
+    "lastName": "Moberg",
+    "email": "arman.moberg@example.com",
+    "username": "lazycat801",
+    "password": "handyman",
+    "invokedAt": "2023-11-21T09:06:24.729Z"
   }
 ]
