@@ -830,5 +830,13 @@
     "username": "greengorilla890",
     "password": "shaggy",
     "invokedAt": "2023-11-21T17:30:04.780Z"
+  },
+  {
+    "firstName": "Časlav",
+    "lastName": "Stojković",
+    "email": "caslav.stojkovic@example.com",
+    "username": "happyswan863",
+    "password": "timeout",
+    "invokedAt": "2023-11-21T17:37:27.542Z"
   }
 ]
