@@ -326,5 +326,13 @@
     "username": "bluezebra585",
     "password": "alberta",
     "invokedAt": "2023-11-21T07:41:10.834Z"
+  },
+  {
+    "firstName": "Keith",
+    "lastName": "Ward",
+    "email": "keith.ward@example.com",
+    "username": "whitefish931",
+    "password": "kitty",
+    "invokedAt": "2023-11-21T07:47:06.038Z"
   }
 ]
