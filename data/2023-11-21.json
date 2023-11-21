@@ -166,5 +166,13 @@
     "username": "redgoose237",
     "password": "passme",
     "invokedAt": "2023-11-21T04:53:50.625Z"
+  },
+  {
+    "firstName": "Necati",
+    "lastName": "Koç",
+    "email": "necati.koc@example.com",
+    "username": "angrylion759",
+    "password": "dupont",
+    "invokedAt": "2023-11-21T04:59:44.752Z"
   }
 ]
