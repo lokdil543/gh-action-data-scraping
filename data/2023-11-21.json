@@ -1014,5 +1014,13 @@
     "username": "angrybutterfly265",
     "password": "charity",
     "invokedAt": "2023-11-21T20:29:19.422Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Martin",
+    "email": "jamie.martin@example.com",
+    "username": "sadkoala273",
+    "password": "blanked",
+    "invokedAt": "2023-11-21T20:35:00.880Z"
   }
 ]
