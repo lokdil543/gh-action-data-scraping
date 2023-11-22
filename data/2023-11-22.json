@@ -222,5 +222,13 @@
     "username": "yellowpeacock170",
     "password": "spring",
     "invokedAt": "2023-11-22T05:51:25.750Z"
+  },
+  {
+    "firstName": "Aiden",
+    "lastName": "Sullivan",
+    "email": "aiden.sullivan@example.com",
+    "username": "greengorilla343",
+    "password": "soccer10",
+    "invokedAt": "2023-11-22T05:57:13.892Z"
   }
 ]
