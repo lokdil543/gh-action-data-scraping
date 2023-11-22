@@ -598,5 +598,13 @@
     "username": "silvercat632",
     "password": "roman",
     "invokedAt": "2023-11-22T12:48:50.783Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Kutlay",
+    "email": "coskun.kutlay@example.com",
+    "username": "brownostrich104",
+    "password": "terrapin",
+    "invokedAt": "2023-11-22T13:01:52.880Z"
   }
 ]
