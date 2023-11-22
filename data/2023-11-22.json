@@ -294,5 +294,13 @@
     "username": "crazyrabbit542",
     "password": "christine",
     "invokedAt": "2023-11-22T07:17:50.777Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Fowler",
+    "email": "grace.fowler@example.com",
+    "username": "crazyrabbit372",
+    "password": "falcon",
+    "invokedAt": "2023-11-22T07:23:42.982Z"
   }
 ]
