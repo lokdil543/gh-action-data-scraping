@@ -406,5 +406,13 @@
     "username": "ticklishbutterfly301",
     "password": "access1",
     "invokedAt": "2023-11-22T09:04:50.746Z"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Barnes",
+    "email": "karen.barnes@example.com",
+    "username": "angrybutterfly419",
+    "password": "seagull",
+    "invokedAt": "2023-11-22T09:20:02.163Z"
   }
 ]
