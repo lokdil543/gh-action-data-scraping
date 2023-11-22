@@ -270,5 +270,13 @@
     "username": "crazybear886",
     "password": "starter",
     "invokedAt": "2023-11-22T06:49:24.673Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Koç",
+    "email": "babur.koc@example.com",
+    "username": "ticklishbear697",
+    "password": "789789",
+    "invokedAt": "2023-11-22T06:55:22.097Z"
   }
 ]
