@@ -1022,5 +1022,13 @@
     "username": "greenelephant263",
     "password": "nopass",
     "invokedAt": "2023-11-22T20:12:06.722Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Carpenter",
+    "email": "kathy.carpenter@example.com",
+    "username": "smallelephant588",
+    "password": "mankind",
+    "invokedAt": "2023-11-22T20:23:29.636Z"
   }
 ]
