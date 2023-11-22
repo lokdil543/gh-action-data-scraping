@@ -486,5 +486,13 @@
     "username": "bluezebra584",
     "password": "terror",
     "invokedAt": "2023-11-22T10:39:00.662Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Clark",
+    "email": "liam.clark@example.com",
+    "username": "redpanda370",
+    "password": "storage",
+    "invokedAt": "2023-11-22T10:44:49.803Z"
   }
 ]
