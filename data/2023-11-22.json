@@ -510,5 +510,13 @@
     "username": "purplelion257",
     "password": "demo",
     "invokedAt": "2023-11-22T10:56:39.574Z"
+  },
+  {
+    "firstName": "Alejandro",
+    "lastName": "Castro",
+    "email": "alejandro.castro@example.com",
+    "username": "goldenrabbit632",
+    "password": "astra",
+    "invokedAt": "2023-11-22T11:07:13.803Z"
   }
 ]
