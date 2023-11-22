@@ -558,5 +558,13 @@
     "username": "tinytiger398",
     "password": "twelve",
     "invokedAt": "2023-11-22T11:41:44.564Z"
+  },
+  {
+    "firstName": "Imran",
+    "lastName": "Haver",
+    "email": "imran.haver@example.com",
+    "username": "angrywolf275",
+    "password": "contains",
+    "invokedAt": "2023-11-22T11:47:32.515Z"
   }
 ]
