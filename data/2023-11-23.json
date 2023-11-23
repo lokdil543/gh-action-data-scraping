@@ -1142,5 +1142,13 @@
     "username": "happybird670",
     "password": "recon",
     "invokedAt": "2023-11-23T21:29:46.901Z"
+  },
+  {
+    "firstName": "Dino",
+    "lastName": "Stürmer",
+    "email": "dino.sturmer@example.com",
+    "username": "whitecat700",
+    "password": "storm1",
+    "invokedAt": "2023-11-23T21:35:50.874Z"
   }
 ]
