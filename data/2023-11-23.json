@@ -126,5 +126,13 @@
     "username": "redfrog901",
     "password": "money1",
     "invokedAt": "2023-11-23T03:59:31.507Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Lampi",
+    "email": "toivo.lampi@example.com",
+    "username": "bluesnake247",
+    "password": "mango",
+    "invokedAt": "2023-11-23T04:16:20.622Z"
   }
 ]
