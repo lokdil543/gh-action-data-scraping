@@ -1006,5 +1006,13 @@
     "username": "bigkoala267",
     "password": "priest",
     "invokedAt": "2023-11-23T19:28:12.707Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Anderson",
+    "email": "antoine.anderson@example.com",
+    "username": "happycat908",
+    "password": "tatiana",
+    "invokedAt": "2023-11-23T19:34:22.318Z"
   }
 ]
