@@ -782,5 +782,13 @@
     "username": "yellowmouse615",
     "password": "crazy",
     "invokedAt": "2023-11-23T15:42:29.021Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Christiansen",
+    "email": "rasmus.christiansen@example.com",
+    "username": "heavyswan698",
+    "password": "456654",
+    "invokedAt": "2023-11-23T15:48:32.856Z"
   }
 ]
