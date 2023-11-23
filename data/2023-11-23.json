@@ -1206,5 +1206,13 @@
     "username": "redbird795",
     "password": "1020",
     "invokedAt": "2023-11-23T22:31:50.639Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Thompson",
+    "email": "jim.thompson@example.com",
+    "username": "silverfrog287",
+    "password": "reaper",
+    "invokedAt": "2023-11-23T22:37:50.662Z"
   }
 ]
