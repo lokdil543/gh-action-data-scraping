@@ -390,5 +390,13 @@
     "username": "purpletiger381",
     "password": "putter",
     "invokedAt": "2023-11-23T08:39:20.615Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Matthews",
+    "email": "bob.matthews@example.com",
+    "username": "tinypanda161",
+    "password": "wilbur",
+    "invokedAt": "2023-11-23T08:45:07.634Z"
   }
 ]
