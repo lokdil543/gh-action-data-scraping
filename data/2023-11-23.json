@@ -1054,5 +1054,13 @@
     "username": "sadtiger639",
     "password": "bongo",
     "invokedAt": "2023-11-23T20:10:47.688Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Rivas",
+    "email": "roberto.rivas@example.com",
+    "username": "brownduck456",
+    "password": "morpheus",
+    "invokedAt": "2023-11-23T20:22:08.614Z"
   }
 ]
