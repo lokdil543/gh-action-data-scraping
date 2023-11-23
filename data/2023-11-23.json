@@ -870,5 +870,13 @@
     "username": "angrypanda676",
     "password": "barefoot",
     "invokedAt": "2023-11-23T17:24:12.471Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Eskola",
+    "email": "oliver.eskola@example.com",
+    "username": "beautifulfrog221",
+    "password": "topper",
+    "invokedAt": "2023-11-23T17:30:14.711Z"
   }
 ]
