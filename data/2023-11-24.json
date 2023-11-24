@@ -622,5 +622,13 @@
     "username": "angrygoose348",
     "password": "magician",
     "invokedAt": "2023-11-24T12:43:40.672Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Taylor",
+    "email": "amy.taylor@example.com",
+    "username": "blackswan518",
+    "password": "hyperion",
+    "invokedAt": "2023-11-24T12:57:25.643Z"
   }
 ]
