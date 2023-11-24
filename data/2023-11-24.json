@@ -446,5 +446,13 @@
     "username": "beautifulmeercat126",
     "password": "chef",
     "invokedAt": "2023-11-24T09:28:48.587Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Niskanen",
+    "email": "juho.niskanen@example.com",
+    "username": "angrycat258",
+    "password": "sport",
+    "invokedAt": "2023-11-24T09:35:29.388Z"
   }
 ]
