@@ -286,5 +286,13 @@
     "username": "heavyfrog381",
     "password": "january",
     "invokedAt": "2023-11-24T06:50:12.122Z"
+  },
+  {
+    "firstName": "Bently",
+    "lastName": "Abraham",
+    "email": "bently.abraham@example.com",
+    "username": "bigtiger983",
+    "password": "abcd1234",
+    "invokedAt": "2023-11-24T06:56:00.748Z"
   }
 ]
