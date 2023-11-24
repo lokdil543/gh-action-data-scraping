@@ -782,5 +782,13 @@
     "username": "tinylion940",
     "password": "mnbv",
     "invokedAt": "2023-11-24T15:34:33.167Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Sørensen",
+    "email": "marius.sorensen@example.com",
+    "username": "orangeduck178",
+    "password": "funk",
+    "invokedAt": "2023-11-24T15:40:25.832Z"
   }
 ]
