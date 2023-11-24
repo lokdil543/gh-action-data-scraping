@@ -1014,5 +1014,13 @@
     "username": "bluebird882",
     "password": "camera",
     "invokedAt": "2023-11-24T19:27:20.221Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Sullivan",
+    "email": "dan.sullivan@example.com",
+    "username": "blueostrich599",
+    "password": "eldorado",
+    "invokedAt": "2023-11-24T19:33:25.685Z"
   }
 ]
