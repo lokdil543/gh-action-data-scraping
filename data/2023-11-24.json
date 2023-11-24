@@ -990,5 +990,13 @@
     "username": "greenduck243",
     "password": "wednesda",
     "invokedAt": "2023-11-24T19:06:26.991Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Morgan",
+    "email": "brian.morgan@example.com",
+    "username": "ticklishsnake999",
+    "password": "borders",
+    "invokedAt": "2023-11-24T19:15:27.760Z"
   }
 ]
