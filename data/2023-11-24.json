@@ -478,5 +478,13 @@
     "username": "greenbird925",
     "password": "america",
     "invokedAt": "2023-11-24T09:53:14.695Z"
+  },
+  {
+    "firstName": "Hallvard",
+    "lastName": "Emblem",
+    "email": "hallvard.emblem@example.com",
+    "username": "heavybird186",
+    "password": "store",
+    "invokedAt": "2023-11-24T09:59:14.548Z"
   }
 ]
