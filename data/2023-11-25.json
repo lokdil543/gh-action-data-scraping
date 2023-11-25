@@ -1054,5 +1054,13 @@
     "username": "yellowduck202",
     "password": "sony",
     "invokedAt": "2023-11-25T19:03:57.716Z"
+  },
+  {
+    "firstName": "Gilbert",
+    "lastName": "Obrien",
+    "email": "gilbert.obrien@example.com",
+    "username": "crazymeercat628",
+    "password": "food",
+    "invokedAt": "2023-11-25T19:13:58.543Z"
   }
 ]
