@@ -286,5 +286,13 @@
     "username": "bluebird542",
     "password": "strife",
     "invokedAt": "2023-11-25T06:39:52.444Z"
+  },
+  {
+    "firstName": "Cid",
+    "lastName": "da Rocha",
+    "email": "cid.darocha@example.com",
+    "username": "angrytiger938",
+    "password": "gopher",
+    "invokedAt": "2023-11-25T06:45:42.289Z"
   }
 ]
