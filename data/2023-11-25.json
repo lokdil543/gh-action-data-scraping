@@ -1214,5 +1214,13 @@
     "username": "lazyzebra557",
     "password": "people",
     "invokedAt": "2023-11-25T21:24:59.582Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Schmidt",
+    "email": "lucy.schmidt@example.com",
+    "username": "beautifuldog340",
+    "password": "tintin",
+    "invokedAt": "2023-11-25T21:30:53.213Z"
   }
 ]
