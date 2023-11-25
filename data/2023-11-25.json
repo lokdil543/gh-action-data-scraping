@@ -726,5 +726,13 @@
     "username": "sadbird333",
     "password": "starwars",
     "invokedAt": "2023-11-25T13:49:56.258Z"
+  },
+  {
+    "firstName": "Aila",
+    "lastName": "Nøttveit",
+    "email": "aila.nottveit@example.com",
+    "username": "sadswan133",
+    "password": "dutchess",
+    "invokedAt": "2023-11-25T13:55:58.774Z"
   }
 ]
