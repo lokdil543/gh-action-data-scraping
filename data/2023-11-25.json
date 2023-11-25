@@ -958,5 +958,13 @@
     "username": "orangefrog616",
     "password": "devildog",
     "invokedAt": "2023-11-25T17:35:12.701Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Robertson",
+    "email": "carl.robertson@example.com",
+    "username": "angryrabbit402",
+    "password": "charter",
+    "invokedAt": "2023-11-25T17:41:00.170Z"
   }
 ]
