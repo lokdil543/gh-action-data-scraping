@@ -598,5 +598,13 @@
     "username": "goldensnake586",
     "password": "keystone",
     "invokedAt": "2023-11-25T11:23:49.150Z"
+  },
+  {
+    "firstName": "Amândio",
+    "lastName": "Lopes",
+    "email": "amandio.lopes@example.com",
+    "username": "blackfrog452",
+    "password": "plane",
+    "invokedAt": "2023-11-25T11:29:34.460Z"
   }
 ]
