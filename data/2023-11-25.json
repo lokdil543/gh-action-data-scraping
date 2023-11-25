@@ -886,5 +886,13 @@
     "username": "brownmeercat217",
     "password": "peach",
     "invokedAt": "2023-11-25T16:29:12.785Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Rašić",
+    "email": "adam.rasic@example.com",
+    "username": "lazyleopard390",
+    "password": "looking",
+    "invokedAt": "2023-11-25T16:36:32.705Z"
   }
 ]
