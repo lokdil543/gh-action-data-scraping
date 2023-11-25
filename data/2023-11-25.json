@@ -1382,5 +1382,13 @@
     "username": "orangegoose538",
     "password": "airborne",
     "invokedAt": "2023-11-25T23:51:55.574Z"
+  },
+  {
+    "firstName": "Hartmut",
+    "lastName": "Reindl",
+    "email": "hartmut.reindl@example.com",
+    "username": "heavyduck258",
+    "password": "reebok",
+    "invokedAt": "2023-11-25T23:57:50.868Z"
   }
 ]
