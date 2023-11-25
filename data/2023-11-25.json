@@ -574,5 +574,13 @@
     "username": "organicelephant890",
     "password": "salmon",
     "invokedAt": "2023-11-25T11:00:11.694Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Pierce",
+    "email": "cassandra.pierce@example.com",
+    "username": "organicfish872",
+    "password": "justin",
+    "invokedAt": "2023-11-25T11:10:55.634Z"
   }
 ]
