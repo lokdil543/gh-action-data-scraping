@@ -510,5 +510,13 @@
     "username": "angrybear609",
     "password": "kitchen",
     "invokedAt": "2023-11-25T09:57:46.320Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Chan",
+    "email": "amelia.chan@example.com",
+    "username": "redbird842",
+    "password": "route66",
+    "invokedAt": "2023-11-25T10:09:32.149Z"
   }
 ]
