@@ -550,5 +550,13 @@
     "username": "beautifultiger416",
     "password": "jamesbond",
     "invokedAt": "2023-11-26T10:51:34.840Z"
+  },
+  {
+    "firstName": "Romane",
+    "lastName": "Meunier",
+    "email": "romane.meunier@example.com",
+    "username": "bigtiger512",
+    "password": "timeout",
+    "invokedAt": "2023-11-26T10:57:35.919Z"
   }
 ]
