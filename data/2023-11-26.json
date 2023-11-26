@@ -1126,5 +1126,13 @@
     "username": "happyrabbit999",
     "password": "kingpin",
     "invokedAt": "2023-11-26T20:22:04.788Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Karvonen",
+    "email": "aleksi.karvonen@example.com",
+    "username": "greenwolf384",
+    "password": "ferrari",
+    "invokedAt": "2023-11-26T20:28:02.551Z"
   }
 ]
