@@ -958,5 +958,13 @@
     "username": "sadbutterfly256",
     "password": "hard",
     "invokedAt": "2023-11-26T17:46:14.922Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Cook",
+    "email": "calvin.cook@example.com",
+    "username": "silvergoose977",
+    "password": "mooney",
+    "invokedAt": "2023-11-26T17:52:00.642Z"
   }
 ]
