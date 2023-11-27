@@ -1254,5 +1254,13 @@
     "username": "reddog538",
     "password": "aztnm",
     "invokedAt": "2023-11-27T23:34:15.904Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Brown",
+    "email": "vincent.brown@example.com",
+    "username": "goldenfish166",
+    "password": "sting",
+    "invokedAt": "2023-11-27T23:40:03.781Z"
   }
 ]
