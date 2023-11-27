@@ -846,5 +846,13 @@
     "username": "yellowmouse544",
     "password": "physics",
     "invokedAt": "2023-11-27T17:00:06.933Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Hoch",
+    "email": "ian.hoch@example.com",
+    "username": "smallfrog244",
+    "password": "fright",
+    "invokedAt": "2023-11-27T17:13:01.698Z"
   }
 ]
