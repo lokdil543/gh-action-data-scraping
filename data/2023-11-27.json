@@ -390,5 +390,13 @@
     "username": "redcat322",
     "password": "marlon",
     "invokedAt": "2023-11-27T08:42:49.619Z"
+  },
+  {
+    "firstName": "Tillmann",
+    "lastName": "Gellert",
+    "email": "tillmann.gellert@example.com",
+    "username": "silvermeercat475",
+    "password": "dodge",
+    "invokedAt": "2023-11-27T08:48:55.474Z"
   }
 ]
