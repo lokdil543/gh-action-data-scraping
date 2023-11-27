@@ -694,5 +694,13 @@
     "username": "angrysnake420",
     "password": "hunter1",
     "invokedAt": "2023-11-27T14:27:12.759Z"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Gardner",
+    "email": "dana.gardner@example.com",
+    "username": "orangefish922",
+    "password": "diehard",
+    "invokedAt": "2023-11-27T14:34:27.951Z"
   }
 ]
