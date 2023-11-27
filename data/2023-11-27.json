@@ -990,5 +990,13 @@
     "username": "lazyrabbit738",
     "password": "123456789",
     "invokedAt": "2023-11-27T19:27:34.026Z"
+  },
+  {
+    "firstName": "Dmitro",
+    "lastName": "Medvedenko",
+    "email": "dmitro.medvedenko@example.com",
+    "username": "blueleopard406",
+    "password": "blunt",
+    "invokedAt": "2023-11-27T19:33:50.380Z"
   }
 ]
