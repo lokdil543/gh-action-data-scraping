@@ -702,5 +702,13 @@
     "username": "orangefish922",
     "password": "diehard",
     "invokedAt": "2023-11-27T14:34:27.951Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Kulaksızoğlu",
+    "email": "gokhan.kulaksizoglu@example.com",
+    "username": "browntiger314",
+    "password": "bouncer",
+    "invokedAt": "2023-11-27T14:40:17.786Z"
   }
 ]
