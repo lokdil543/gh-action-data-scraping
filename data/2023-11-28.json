@@ -486,5 +486,13 @@
     "username": "lazywolf900",
     "password": "limited",
     "invokedAt": "2023-11-28T10:29:52.646Z"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Taylor",
+    "email": "bobby.taylor@example.com",
+    "username": "ticklishbird952",
+    "password": "canon",
+    "invokedAt": "2023-11-28T10:37:46.116Z"
   }
 ]
