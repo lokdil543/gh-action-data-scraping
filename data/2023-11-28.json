@@ -478,5 +478,13 @@
     "username": "redmouse545",
     "password": "stock",
     "invokedAt": "2023-11-28T10:12:51.914Z"
+  },
+  {
+    "firstName": "Shchastislav",
+    "lastName": "Gorobec",
+    "email": "shchastislav.gorobec@example.com",
+    "username": "lazywolf900",
+    "password": "limited",
+    "invokedAt": "2023-11-28T10:29:52.646Z"
   }
 ]
