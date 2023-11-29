@@ -470,5 +470,13 @@
     "username": "purplefrog580",
     "password": "asdf123",
     "invokedAt": "2023-11-29T09:56:29.071Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Lampinen",
+    "email": "samuel.lampinen@example.com",
+    "username": "crazydog882",
+    "password": "trustme",
+    "invokedAt": "2023-11-29T10:08:54.699Z"
   }
 ]
