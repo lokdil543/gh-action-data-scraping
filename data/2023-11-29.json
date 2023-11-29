@@ -822,5 +822,13 @@
     "username": "heavydog928",
     "password": "django",
     "invokedAt": "2023-11-29T16:43:59.911Z"
+  },
+  {
+    "firstName": "Carter",
+    "lastName": "Morris",
+    "email": "carter.morris@example.com",
+    "username": "silverkoala496",
+    "password": "blackie",
+    "invokedAt": "2023-11-29T16:49:47.866Z"
   }
 ]
