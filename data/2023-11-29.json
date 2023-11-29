@@ -126,5 +126,13 @@
     "username": "lazycat153",
     "password": "wheeler",
     "invokedAt": "2023-11-29T04:08:46.924Z"
+  },
+  {
+    "firstName": "Piper",
+    "lastName": "Jones",
+    "email": "piper.jones@example.com",
+    "username": "bigbear309",
+    "password": "treetop",
+    "invokedAt": "2023-11-29T04:25:04.719Z"
   }
 ]
