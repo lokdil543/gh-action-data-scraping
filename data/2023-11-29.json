@@ -598,5 +598,13 @@
     "username": "happybutterfly345",
     "password": "maximum",
     "invokedAt": "2023-11-29T12:10:35.585Z"
+  },
+  {
+    "firstName": "Silje",
+    "lastName": "Hansen",
+    "email": "silje.hansen@example.com",
+    "username": "purpleleopard862",
+    "password": "buzzer",
+    "invokedAt": "2023-11-29T12:40:47.021Z"
   }
 ]
