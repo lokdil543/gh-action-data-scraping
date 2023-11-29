@@ -998,5 +998,13 @@
     "username": "smallsnake576",
     "password": "world",
     "invokedAt": "2023-11-29T19:35:01.136Z"
+  },
+  {
+    "firstName": "Freyja",
+    "lastName": "Røyset",
+    "email": "freyja.royset@example.com",
+    "username": "greenladybug282",
+    "password": "hedgehog",
+    "invokedAt": "2023-11-29T19:40:45.438Z"
   }
 ]
