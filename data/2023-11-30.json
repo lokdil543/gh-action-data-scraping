@@ -1046,5 +1046,13 @@
     "username": "greenmouse825",
     "password": "skyline",
     "invokedAt": "2023-11-30T20:29:05.052Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Pires",
+    "email": "bruce.pires@example.com",
+    "username": "sadswan401",
+    "password": "awful",
+    "invokedAt": "2023-11-30T20:35:35.611Z"
   }
 ]
