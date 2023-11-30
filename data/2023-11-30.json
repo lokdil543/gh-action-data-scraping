@@ -1078,5 +1078,13 @@
     "username": "heavyfish211",
     "password": "nicholas",
     "invokedAt": "2023-11-30T20:53:19.725Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Smith",
+    "email": "david.smith@example.com",
+    "username": "greenfrog734",
+    "password": "soulmate",
+    "invokedAt": "2023-11-30T20:59:04.676Z"
   }
 ]
