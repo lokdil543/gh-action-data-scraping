@@ -38,5 +38,13 @@
     "username": "blackmouse311",
     "password": "load",
     "invokedAt": "2023-11-30T02:44:33.752Z"
+  },
+  {
+    "firstName": "Vedran",
+    "lastName": "Borgman",
+    "email": "vedran.borgman@example.com",
+    "username": "redwolf468",
+    "password": "robotics",
+    "invokedAt": "2023-11-30T02:50:28.986Z"
   }
 ]
