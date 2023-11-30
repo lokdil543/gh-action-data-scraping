@@ -638,5 +638,13 @@
     "username": "sadcat972",
     "password": "stormy",
     "invokedAt": "2023-11-30T13:36:18.741Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Larsen",
+    "email": "astrid.larsen@example.com",
+    "username": "greenswan990",
+    "password": "justme",
+    "invokedAt": "2023-11-30T13:42:25.348Z"
   }
 ]
