@@ -686,5 +686,13 @@
     "username": "goldengoose658",
     "password": "spam",
     "invokedAt": "2023-11-30T14:27:05.363Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Akyüz",
+    "email": "meral.akyuz@example.com",
+    "username": "crazykoala262",
+    "password": "figaro",
+    "invokedAt": "2023-11-30T14:34:22.201Z"
   }
 ]
