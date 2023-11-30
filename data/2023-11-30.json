@@ -158,5 +158,13 @@
     "username": "lazyzebra288",
     "password": "ggggg",
     "invokedAt": "2023-11-30T04:47:35.701Z"
+  },
+  {
+    "firstName": "Håvard",
+    "lastName": "Bråthen",
+    "email": "havard.brathen@example.com",
+    "username": "ticklishladybug512",
+    "password": "dummy",
+    "invokedAt": "2023-11-30T04:53:37.125Z"
   }
 ]
