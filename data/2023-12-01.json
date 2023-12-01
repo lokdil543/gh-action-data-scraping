@@ -342,5 +342,13 @@
     "username": "greenostrich319",
     "password": "bbbb",
     "invokedAt": "2023-12-01T07:59:04.104Z"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Brun",
+    "email": "morgan.brun@example.com",
+    "username": "bigleopard381",
+    "password": "golfer",
+    "invokedAt": "2023-12-01T08:16:15.053Z"
   }
 ]
