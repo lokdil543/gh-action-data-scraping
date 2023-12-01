@@ -942,5 +942,13 @@
     "username": "whiterabbit310",
     "password": "calimero",
     "invokedAt": "2023-12-01T18:54:17.880Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Lehtonen",
+    "email": "vaino.lehtonen@example.com",
+    "username": "yellowrabbit245",
+    "password": "impala",
+    "invokedAt": "2023-12-01T19:00:18.065Z"
   }
 ]
