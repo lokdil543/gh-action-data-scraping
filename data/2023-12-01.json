@@ -710,5 +710,13 @@
     "username": "whiteleopard250",
     "password": "westham",
     "invokedAt": "2023-12-01T14:49:07.844Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Willis",
+    "email": "sebastian.willis@example.com",
+    "username": "bluefish893",
+    "password": "install",
+    "invokedAt": "2023-12-01T14:55:00.492Z"
   }
 ]
