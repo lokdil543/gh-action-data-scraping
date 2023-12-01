@@ -1062,5 +1062,13 @@
     "username": "greenostrich614",
     "password": "season",
     "invokedAt": "2023-12-01T20:42:07.546Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Cooper",
+    "email": "zoe.cooper@example.com",
+    "username": "bluegorilla927",
+    "password": "1234abcd",
+    "invokedAt": "2023-12-01T20:48:00.635Z"
   }
 ]
