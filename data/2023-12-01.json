@@ -950,5 +950,13 @@
     "username": "yellowrabbit245",
     "password": "impala",
     "invokedAt": "2023-12-01T19:00:18.065Z"
+  },
+  {
+    "firstName": "Celine",
+    "lastName": "Frøiland",
+    "email": "celine.froiland@example.com",
+    "username": "brownpanda190",
+    "password": "987654321",
+    "invokedAt": "2023-12-01T19:11:38.235Z"
   }
 ]
