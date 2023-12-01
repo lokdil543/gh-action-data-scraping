@@ -158,5 +158,13 @@
     "username": "happypeacock827",
     "password": "kaitlyn",
     "invokedAt": "2023-12-01T04:54:41.146Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Simmons",
+    "email": "sam.simmons@example.com",
+    "username": "heavypeacock366",
+    "password": "maximum",
+    "invokedAt": "2023-12-01T05:01:33.902Z"
   }
 ]
