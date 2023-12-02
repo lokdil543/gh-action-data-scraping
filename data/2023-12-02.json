@@ -222,5 +222,13 @@
     "username": "bluedog509",
     "password": "qwertyui",
     "invokedAt": "2023-12-02T05:37:13.418Z"
+  },
+  {
+    "firstName": "Reimar",
+    "lastName": "Strasser",
+    "email": "reimar.strasser@example.com",
+    "username": "happyzebra546",
+    "password": "mama",
+    "invokedAt": "2023-12-02T05:42:55.847Z"
   }
 ]
