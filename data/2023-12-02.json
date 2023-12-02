@@ -758,5 +758,13 @@
     "username": "heavyduck114",
     "password": "bicycle",
     "invokedAt": "2023-12-02T14:27:05.841Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Matthews",
+    "email": "kathy.matthews@example.com",
+    "username": "happylion227",
+    "password": "faster",
+    "invokedAt": "2023-12-02T14:33:27.923Z"
   }
 ]
