@@ -838,5 +838,13 @@
     "username": "crazybird605",
     "password": "finger",
     "invokedAt": "2023-12-02T15:37:26.508Z"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Dupuis",
+    "email": "milan.dupuis@example.com",
+    "username": "angrywolf806",
+    "password": "piano",
+    "invokedAt": "2023-12-02T15:43:21.461Z"
   }
 ]
