@@ -422,5 +422,13 @@
     "username": "sadzebra850",
     "password": "poison",
     "invokedAt": "2023-12-02T08:44:00.040Z"
+  },
+  {
+    "firstName": "María",
+    "lastName": "Lucero",
+    "email": "maria.lucero@example.com",
+    "username": "goldengorilla216",
+    "password": "enterme",
+    "invokedAt": "2023-12-02T08:50:01.938Z"
   }
 ]
