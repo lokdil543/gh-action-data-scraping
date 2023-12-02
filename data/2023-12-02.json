@@ -974,5 +974,13 @@
     "username": "heavymouse124",
     "password": "missy1",
     "invokedAt": "2023-12-02T17:51:55.971Z"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Koç",
+    "email": "ali.koc@example.com",
+    "username": "blueelephant820",
+    "password": "surprise",
+    "invokedAt": "2023-12-02T17:57:47.791Z"
   }
 ]
