@@ -62,5 +62,13 @@
     "username": "smallzebra352",
     "password": "max123",
     "invokedAt": "2023-12-02T02:55:31.961Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Halko",
+    "email": "luukas.halko@example.com",
+    "username": "brownduck823",
+    "password": "terminal",
+    "invokedAt": "2023-12-02T03:06:54.240Z"
   }
 ]
