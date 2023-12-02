@@ -582,5 +582,13 @@
     "username": "brownswan500",
     "password": "sinister",
     "invokedAt": "2023-12-02T11:15:35.187Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Koistinen",
+    "email": "leo.koistinen@example.com",
+    "username": "beautifulswan136",
+    "password": "987654",
+    "invokedAt": "2023-12-02T11:21:17.398Z"
   }
 ]
