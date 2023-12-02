@@ -1278,5 +1278,13 @@
     "username": "sadfrog591",
     "password": "peyton",
     "invokedAt": "2023-12-02T22:29:19.276Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "De Buck",
+    "email": "jane.debuck@example.com",
+    "username": "sadtiger979",
+    "password": "paloma",
+    "invokedAt": "2023-12-02T22:35:24.803Z"
   }
 ]
