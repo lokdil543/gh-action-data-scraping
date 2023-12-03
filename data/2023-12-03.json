@@ -102,5 +102,13 @@
     "username": "happybear603",
     "password": "water1",
     "invokedAt": "2023-12-03T03:42:09.620Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Møller",
+    "email": "albert.moller@example.com",
+    "username": "whitepanda644",
+    "password": "hockey",
+    "invokedAt": "2023-12-03T03:48:03.789Z"
   }
 ]
