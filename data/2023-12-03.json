@@ -486,5 +486,13 @@
     "username": "heavydog177",
     "password": "andres",
     "invokedAt": "2023-12-03T09:47:24.784Z"
+  },
+  {
+    "firstName": "Momčilo",
+    "lastName": "Smiljanić",
+    "email": "momcilo.smiljanic@example.com",
+    "username": "blackbird507",
+    "password": "christin",
+    "invokedAt": "2023-12-03T09:53:23.786Z"
   }
 ]
