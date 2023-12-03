@@ -366,5 +366,13 @@
     "username": "goldenostrich604",
     "password": "brooke",
     "invokedAt": "2023-12-03T07:53:11.834Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Santrač",
+    "email": "milos.santrac@example.com",
+    "username": "happyfish911",
+    "password": "wordup",
+    "invokedAt": "2023-12-03T07:59:05.801Z"
   }
 ]
