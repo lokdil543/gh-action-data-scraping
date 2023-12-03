@@ -582,5 +582,13 @@
     "username": "lazypanda374",
     "password": "barley",
     "invokedAt": "2023-12-03T11:21:16.830Z"
+  },
+  {
+    "firstName": "Özkan",
+    "lastName": "Aclan",
+    "email": "ozkan.aclan@example.com",
+    "username": "blackfish304",
+    "password": "2004",
+    "invokedAt": "2023-12-03T11:27:04.652Z"
   }
 ]
