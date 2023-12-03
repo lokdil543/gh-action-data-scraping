@@ -278,5 +278,13 @@
     "username": "brownzebra750",
     "password": "trustno1",
     "invokedAt": "2023-12-03T06:39:17.886Z"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Haas",
+    "email": "richard.haas@example.com",
+    "username": "bluecat689",
+    "password": "qiao",
+    "invokedAt": "2023-12-03T06:45:03.047Z"
   }
 ]
