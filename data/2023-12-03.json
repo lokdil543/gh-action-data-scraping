@@ -774,5 +774,13 @@
     "username": "lazypanda199",
     "password": "christmas",
     "invokedAt": "2023-12-03T14:47:55.169Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Newman",
+    "email": "kate.newman@example.com",
+    "username": "bluebird266",
+    "password": "hate",
+    "invokedAt": "2023-12-03T14:53:41.052Z"
   }
 ]
