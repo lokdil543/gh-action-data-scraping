@@ -1094,5 +1094,13 @@
     "username": "yellowrabbit288",
     "password": "freeuser",
     "invokedAt": "2023-12-03T19:47:59.660Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Jones",
+    "email": "max.jones@example.com",
+    "username": "crazyrabbit807",
+    "password": "idefix",
+    "invokedAt": "2023-12-03T19:53:47.990Z"
   }
 ]
