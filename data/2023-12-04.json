@@ -358,5 +358,13 @@
     "username": "tinylion152",
     "password": "wave",
     "invokedAt": "2023-12-04T08:16:58.782Z"
+  },
+  {
+    "firstName": "Roland",
+    "lastName": "Clark",
+    "email": "roland.clark@example.com",
+    "username": "crazyrabbit520",
+    "password": "rebel",
+    "invokedAt": "2023-12-04T08:30:26.635Z"
   }
 ]
