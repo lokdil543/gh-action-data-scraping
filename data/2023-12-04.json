@@ -366,5 +366,13 @@
     "username": "crazyrabbit520",
     "password": "rebel",
     "invokedAt": "2023-12-04T08:30:26.635Z"
+  },
+  {
+    "firstName": "Danilo",
+    "lastName": "Jelačić",
+    "email": "danilo.jelacic@example.com",
+    "username": "greenwolf555",
+    "password": "cigars",
+    "invokedAt": "2023-12-04T08:38:02.671Z"
   }
 ]
