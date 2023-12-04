@@ -646,5 +646,13 @@
     "username": "silverladybug445",
     "password": "bruno",
     "invokedAt": "2023-12-04T13:47:03.473Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Walker",
+    "email": "james.walker@example.com",
+    "username": "beautifulwolf141",
+    "password": "beer",
+    "invokedAt": "2023-12-04T13:52:57.470Z"
   }
 ]
