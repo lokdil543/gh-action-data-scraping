@@ -926,5 +926,13 @@
     "username": "redbird247",
     "password": "longhorn",
     "invokedAt": "2023-12-04T18:46:49.829Z"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Cooper",
+    "email": "elijah.cooper@example.com",
+    "username": "heavyfish189",
+    "password": "wolfman",
+    "invokedAt": "2023-12-04T18:52:49.325Z"
   }
 ]
