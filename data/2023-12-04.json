@@ -766,5 +766,13 @@
     "username": "sadpanda456",
     "password": "90210",
     "invokedAt": "2023-12-04T15:48:44.009Z"
+  },
+  {
+    "firstName": "Izaak",
+    "lastName": "Van 't Klooster",
+    "email": "izaak.van'tklooster@example.com",
+    "username": "beautifulpanda541",
+    "password": "1221",
+    "invokedAt": "2023-12-04T15:54:33.732Z"
   }
 ]
