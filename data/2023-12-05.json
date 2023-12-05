@@ -710,5 +710,13 @@
     "username": "heavyostrich377",
     "password": "testerer",
     "invokedAt": "2023-12-05T14:46:07.337Z"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Mo",
+    "email": "stella.mo@example.com",
+    "username": "greenduck655",
+    "password": "dungeon",
+    "invokedAt": "2023-12-05T14:51:53.211Z"
   }
 ]
