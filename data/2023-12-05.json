@@ -966,5 +966,13 @@
     "username": "crazybear990",
     "password": "dipper",
     "invokedAt": "2023-12-05T19:16:23.283Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Clark",
+    "email": "matthew.clark@example.com",
+    "username": "ticklishfish290",
+    "password": "alleycat",
+    "invokedAt": "2023-12-05T19:22:03.308Z"
   }
 ]
