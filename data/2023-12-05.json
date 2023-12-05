@@ -926,5 +926,13 @@
     "username": "greendog559",
     "password": "trouble1",
     "invokedAt": "2023-12-05T18:42:25.835Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Sørensen",
+    "email": "victor.sorensen@example.com",
+    "username": "happykoala167",
+    "password": "imation",
+    "invokedAt": "2023-12-05T18:48:14.672Z"
   }
 ]
