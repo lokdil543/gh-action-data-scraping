@@ -534,5 +534,13 @@
     "username": "brownfish687",
     "password": "movie",
     "invokedAt": "2023-12-05T11:17:04.813Z"
+  },
+  {
+    "firstName": "Misty",
+    "lastName": "Howard",
+    "email": "misty.howard@example.com",
+    "username": "browngoose257",
+    "password": "gofast",
+    "invokedAt": "2023-12-05T11:22:54.279Z"
   }
 ]
