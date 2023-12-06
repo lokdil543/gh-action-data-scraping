@@ -726,5 +726,13 @@
     "username": "bigpanda822",
     "password": "jefferso",
     "invokedAt": "2023-12-06T15:00:30.685Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Ekşioğlu",
+    "email": "babur.eksioglu@example.com",
+    "username": "whitefish343",
+    "password": "fatcat",
+    "invokedAt": "2023-12-06T15:16:13.650Z"
   }
 ]
