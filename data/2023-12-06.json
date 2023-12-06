@@ -286,5 +286,13 @@
     "username": "happymeercat604",
     "password": "grizzly",
     "invokedAt": "2023-12-06T07:07:16.752Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Çapanoğlu",
+    "email": "adem.capanoglu@example.com",
+    "username": "redcat392",
+    "password": "enrique",
+    "invokedAt": "2023-12-06T07:18:38.833Z"
   }
 ]
