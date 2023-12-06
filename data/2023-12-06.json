@@ -774,5 +774,13 @@
     "username": "sadbird199",
     "password": "ladder",
     "invokedAt": "2023-12-06T15:50:55.627Z"
+  },
+  {
+    "firstName": "Dino",
+    "lastName": "Kurtz",
+    "email": "dino.kurtz@example.com",
+    "username": "blackpanda406",
+    "password": "cheng",
+    "invokedAt": "2023-12-06T15:56:57.667Z"
   }
 ]
