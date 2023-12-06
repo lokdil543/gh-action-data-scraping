@@ -398,5 +398,13 @@
     "username": "whitefrog315",
     "password": "hotone",
     "invokedAt": "2023-12-06T08:55:04.770Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Peña",
+    "email": "hugo.pena@example.com",
+    "username": "silverfrog736",
+    "password": "ralph",
+    "invokedAt": "2023-12-06T09:05:36.880Z"
   }
 ]
