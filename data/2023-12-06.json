@@ -262,5 +262,13 @@
     "username": "redgorilla430",
     "password": "state",
     "invokedAt": "2023-12-06T06:44:21.693Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Simpson",
+    "email": "roy.simpson@example.com",
+    "username": "whitewolf270",
+    "password": "wolves",
+    "invokedAt": "2023-12-06T06:50:09.742Z"
   }
 ]
