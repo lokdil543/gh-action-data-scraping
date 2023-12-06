@@ -734,5 +734,13 @@
     "username": "whitefish343",
     "password": "fatcat",
     "invokedAt": "2023-12-06T15:16:13.650Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Møller",
+    "email": "rasmus.moller@example.com",
+    "username": "angrymouse991",
+    "password": "dynamite",
+    "invokedAt": "2023-12-06T15:26:53.381Z"
   }
 ]
