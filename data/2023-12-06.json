@@ -526,5 +526,13 @@
     "username": "tinymouse204",
     "password": "roland",
     "invokedAt": "2023-12-06T11:11:58.803Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Fernández",
+    "email": "santiago.fernandez@example.com",
+    "username": "organicdog899",
+    "password": "242424",
+    "invokedAt": "2023-12-06T11:19:45.556Z"
   }
 ]
