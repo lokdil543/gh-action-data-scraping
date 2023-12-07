@@ -238,5 +238,13 @@
     "username": "purplefrog801",
     "password": "squeeze",
     "invokedAt": "2023-12-07T05:59:08.745Z"
+  },
+  {
+    "firstName": "Pål",
+    "lastName": "Pettersen",
+    "email": "pal.pettersen@example.com",
+    "username": "beautifulkoala890",
+    "password": "visitor",
+    "invokedAt": "2023-12-07T06:17:04.943Z"
   }
 ]
