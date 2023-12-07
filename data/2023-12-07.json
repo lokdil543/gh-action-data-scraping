@@ -342,5 +342,13 @@
     "username": "lazykoala455",
     "password": "love",
     "invokedAt": "2023-12-07T07:47:44.431Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Schmelzer",
+    "email": "john.schmelzer@example.com",
+    "username": "heavygorilla153",
+    "password": "24680",
+    "invokedAt": "2023-12-07T07:53:36.730Z"
   }
 ]
