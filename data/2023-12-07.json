@@ -278,5 +278,13 @@
     "username": "orangepeacock100",
     "password": "sandy",
     "invokedAt": "2023-12-07T06:49:45.669Z"
+  },
+  {
+    "firstName": "Diogo",
+    "lastName": "Van Heijst",
+    "email": "diogo.vanheijst@example.com",
+    "username": "brownfish495",
+    "password": "encore",
+    "invokedAt": "2023-12-07T06:55:40.135Z"
   }
 ]
