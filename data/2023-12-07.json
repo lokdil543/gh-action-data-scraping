@@ -390,5 +390,13 @@
     "username": "purplekoala109",
     "password": "butcher",
     "invokedAt": "2023-12-07T08:42:59.954Z"
+  },
+  {
+    "firstName": "Gavrilo",
+    "lastName": "Radanović",
+    "email": "gavrilo.radanovic@example.com",
+    "username": "blueswan506",
+    "password": "lekker",
+    "invokedAt": "2023-12-07T08:48:41.599Z"
   }
 ]
