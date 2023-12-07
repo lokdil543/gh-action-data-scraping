@@ -862,5 +862,13 @@
     "username": "crazymouse988",
     "password": "hemlock",
     "invokedAt": "2023-12-07T17:32:25.095Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "James",
+    "email": "morris.james@example.com",
+    "username": "bigfrog217",
+    "password": "deaths",
+    "invokedAt": "2023-12-07T17:38:12.628Z"
   }
 ]
