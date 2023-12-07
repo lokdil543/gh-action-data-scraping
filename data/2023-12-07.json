@@ -254,5 +254,13 @@
     "username": "orangegorilla602",
     "password": "foobar",
     "invokedAt": "2023-12-07T06:30:18.499Z"
+  },
+  {
+    "firstName": "Mariusz",
+    "lastName": "Schroeder",
+    "email": "mariusz.schroeder@example.com",
+    "username": "redduck985",
+    "password": "shua",
+    "invokedAt": "2023-12-07T06:38:24.632Z"
   }
 ]
