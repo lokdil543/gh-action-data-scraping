@@ -1022,5 +1022,13 @@
     "username": "silverkoala716",
     "password": "flight",
     "invokedAt": "2023-12-07T19:59:00.234Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Patel",
+    "email": "louis.patel@example.com",
+    "username": "ticklishelephant652",
+    "password": "gofast",
+    "invokedAt": "2023-12-07T20:13:30.523Z"
   }
 ]
