@@ -478,5 +478,13 @@
     "username": "goldenfish404",
     "password": "sailing",
     "invokedAt": "2023-12-07T10:00:05.186Z"
+  },
+  {
+    "firstName": "Héctor",
+    "lastName": "Alonso",
+    "email": "hector.alonso@example.com",
+    "username": "yellowmeercat234",
+    "password": "ursula",
+    "invokedAt": "2023-12-07T10:15:32.205Z"
   }
 ]
