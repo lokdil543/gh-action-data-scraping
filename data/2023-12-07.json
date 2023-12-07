@@ -246,5 +246,13 @@
     "username": "beautifulkoala890",
     "password": "visitor",
     "invokedAt": "2023-12-07T06:17:04.943Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Robertson",
+    "email": "kelly.robertson@example.com",
+    "username": "orangegorilla602",
+    "password": "foobar",
+    "invokedAt": "2023-12-07T06:30:18.499Z"
   }
 ]
