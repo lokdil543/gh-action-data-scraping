@@ -870,5 +870,13 @@
     "username": "bigfrog217",
     "password": "deaths",
     "invokedAt": "2023-12-07T17:38:12.628Z"
+  },
+  {
+    "firstName": "Sebastián",
+    "lastName": "García",
+    "email": "sebastian.garcia@example.com",
+    "username": "orangecat747",
+    "password": "aaaaa",
+    "invokedAt": "2023-12-07T17:44:08.634Z"
   }
 ]
