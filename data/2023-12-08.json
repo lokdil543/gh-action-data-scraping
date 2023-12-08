@@ -182,5 +182,13 @@
     "username": "smallfrog426",
     "password": "waffle",
     "invokedAt": "2023-12-08T05:12:54.780Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Berry",
+    "email": "sara.berry@example.com",
+    "username": "beautifulsnake795",
+    "password": "weiner",
+    "invokedAt": "2023-12-08T05:26:25.754Z"
   }
 ]
