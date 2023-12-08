@@ -1086,5 +1086,13 @@
     "username": "purplerabbit517",
     "password": "bearcat",
     "invokedAt": "2023-12-08T20:51:36.625Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Anderson",
+    "email": "jenny.anderson@example.com",
+    "username": "lazyrabbit733",
+    "password": "nobody",
+    "invokedAt": "2023-12-08T20:57:25.835Z"
   }
 ]
