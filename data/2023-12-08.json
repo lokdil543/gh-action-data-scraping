@@ -1190,5 +1190,13 @@
     "username": "greenpanda557",
     "password": "tiger",
     "invokedAt": "2023-12-08T22:32:36.920Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Pulkkinen",
+    "email": "arttu.pulkkinen@example.com",
+    "username": "beautifulrabbit824",
+    "password": "broken",
+    "invokedAt": "2023-12-08T22:38:23.587Z"
   }
 ]
