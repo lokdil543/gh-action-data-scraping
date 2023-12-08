@@ -1006,5 +1006,13 @@
     "username": "happykoala486",
     "password": "brother",
     "invokedAt": "2023-12-08T19:37:51.880Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Poulsen",
+    "email": "daniel.poulsen@example.com",
+    "username": "smallcat803",
+    "password": "butch",
+    "invokedAt": "2023-12-08T19:43:40.413Z"
   }
 ]
