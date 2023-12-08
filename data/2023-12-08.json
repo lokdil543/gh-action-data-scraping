@@ -310,5 +310,13 @@
     "username": "brownostrich323",
     "password": "calimero",
     "invokedAt": "2023-12-08T07:26:34.536Z"
+  },
+  {
+    "firstName": "Suzana",
+    "lastName": "Lazović",
+    "email": "suzana.lazovic@example.com",
+    "username": "blackcat734",
+    "password": "second",
+    "invokedAt": "2023-12-08T07:32:38.687Z"
   }
 ]
