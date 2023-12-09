@@ -822,5 +822,13 @@
     "username": "redfrog311",
     "password": "body",
     "invokedAt": "2023-12-09T15:32:18.113Z"
+  },
+  {
+    "firstName": "Madison",
+    "lastName": "Gagnon",
+    "email": "madison.gagnon@example.com",
+    "username": "redpanda380",
+    "password": "firefly",
+    "invokedAt": "2023-12-09T15:38:15.546Z"
   }
 ]
