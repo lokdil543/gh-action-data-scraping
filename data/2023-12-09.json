@@ -1302,5 +1302,13 @@
     "username": "purplebird869",
     "password": "flower1",
     "invokedAt": "2023-12-09T22:52:45.958Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Lorenzo",
+    "email": "gustavo.lorenzo@example.com",
+    "username": "bigbird454",
+    "password": "load",
+    "invokedAt": "2023-12-09T22:58:42.048Z"
   }
 ]
