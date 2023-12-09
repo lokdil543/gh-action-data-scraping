@@ -462,5 +462,13 @@
     "username": "happywolf807",
     "password": "warlock",
     "invokedAt": "2023-12-09T09:30:10.825Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Porter",
+    "email": "bob.porter@example.com",
+    "username": "redswan859",
+    "password": "wildfire",
+    "invokedAt": "2023-12-09T09:36:19.166Z"
   }
 ]
