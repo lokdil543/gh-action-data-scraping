@@ -526,5 +526,13 @@
     "username": "blacktiger773",
     "password": "double",
     "invokedAt": "2023-12-09T10:32:57.960Z"
+  },
+  {
+    "firstName": "Milenko",
+    "lastName": "Šerbedžija",
+    "email": "milenko.serbedzija@example.com",
+    "username": "bigfrog183",
+    "password": "chan",
+    "invokedAt": "2023-12-09T10:38:59.236Z"
   }
 ]
