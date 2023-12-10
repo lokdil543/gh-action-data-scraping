@@ -254,5 +254,13 @@
     "username": "redfrog104",
     "password": "secret1",
     "invokedAt": "2023-12-10T06:27:23.813Z"
+  },
+  {
+    "firstName": "Silvano",
+    "lastName": "Guzmán",
+    "email": "silvano.guzman@example.com",
+    "username": "organicostrich305",
+    "password": "burger",
+    "invokedAt": "2023-12-10T06:34:06.426Z"
   }
 ]
