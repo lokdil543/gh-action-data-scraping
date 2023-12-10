@@ -766,5 +766,13 @@
     "username": "bigfish174",
     "password": "working",
     "invokedAt": "2023-12-10T14:46:47.007Z"
+  },
+  {
+    "firstName": "Frederikke",
+    "lastName": "Jørgensen",
+    "email": "frederikke.jorgensen@example.com",
+    "username": "greenfish210",
+    "password": "alejandr",
+    "invokedAt": "2023-12-10T14:52:46.892Z"
   }
 ]
