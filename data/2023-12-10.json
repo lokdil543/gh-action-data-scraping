@@ -662,5 +662,13 @@
     "username": "crazylion600",
     "password": "swinging",
     "invokedAt": "2023-12-10T13:16:05.048Z"
+  },
+  {
+    "firstName": "Auguste",
+    "lastName": "Lopez",
+    "email": "auguste.lopez@example.com",
+    "username": "angrygoose653",
+    "password": "mail",
+    "invokedAt": "2023-12-10T13:24:01.267Z"
   }
 ]
