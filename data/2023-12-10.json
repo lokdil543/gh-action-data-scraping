@@ -1238,5 +1238,13 @@
     "username": "silverbird290",
     "password": "romans",
     "invokedAt": "2023-12-10T22:07:29.785Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Johansen",
+    "email": "emil.johansen@example.com",
+    "username": "greenladybug808",
+    "password": "pyon",
+    "invokedAt": "2023-12-10T22:21:46.047Z"
   }
 ]
