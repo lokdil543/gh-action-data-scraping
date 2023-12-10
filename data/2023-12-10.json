@@ -1022,5 +1022,13 @@
     "username": "brownostrich116",
     "password": "starcraf",
     "invokedAt": "2023-12-10T18:55:50.223Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Đokić",
+    "email": "ana.dokic@example.com",
+    "username": "sadostrich626",
+    "password": "ollie",
+    "invokedAt": "2023-12-10T19:04:20.403Z"
   }
 ]
