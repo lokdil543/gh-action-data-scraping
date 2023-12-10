@@ -294,5 +294,13 @@
     "username": "organicrabbit641",
     "password": "87654321",
     "invokedAt": "2023-12-10T06:57:34.921Z"
+  },
+  {
+    "firstName": "Veljko",
+    "lastName": "Subašić",
+    "email": "veljko.subasic@example.com",
+    "username": "bluedog807",
+    "password": "hookem",
+    "invokedAt": "2023-12-10T07:08:53.543Z"
   }
 ]
