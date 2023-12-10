@@ -1222,5 +1222,13 @@
     "username": "goldenfish481",
     "password": "piglet",
     "invokedAt": "2023-12-10T21:50:55.737Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Aasen",
+    "email": "christian.aasen@example.com",
+    "username": "lazypeacock643",
+    "password": "blaster",
+    "invokedAt": "2023-12-10T21:56:44.739Z"
   }
 ]
