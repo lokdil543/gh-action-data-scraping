@@ -758,5 +758,13 @@
     "username": "bigcat707",
     "password": "qwer",
     "invokedAt": "2023-12-10T14:40:55.885Z"
+  },
+  {
+    "firstName": "Keira",
+    "lastName": "Evans",
+    "email": "keira.evans@example.com",
+    "username": "bigfish174",
+    "password": "working",
+    "invokedAt": "2023-12-10T14:46:47.007Z"
   }
 ]
