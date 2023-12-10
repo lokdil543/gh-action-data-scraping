@@ -1318,5 +1318,13 @@
     "username": "happyfish564",
     "password": "fashion",
     "invokedAt": "2023-12-10T23:26:52.071Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Poulsen",
+    "email": "valdemar.poulsen@example.com",
+    "username": "silverbird235",
+    "password": "qwert1",
+    "invokedAt": "2023-12-10T23:33:02.577Z"
   }
 ]
