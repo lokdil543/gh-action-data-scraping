@@ -902,5 +902,13 @@
     "username": "heavyfish895",
     "password": "miller1",
     "invokedAt": "2023-12-10T16:59:33.449Z"
+  },
+  {
+    "firstName": "Frederikke",
+    "lastName": "Pedersen",
+    "email": "frederikke.pedersen@example.com",
+    "username": "orangeladybug964",
+    "password": "frosch",
+    "invokedAt": "2023-12-10T17:10:51.999Z"
   }
 ]
