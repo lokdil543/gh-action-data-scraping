@@ -446,5 +446,13 @@
     "username": "tinyfish780",
     "password": "alfa",
     "invokedAt": "2023-12-10T09:24:34.042Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Hall",
+    "email": "harry.hall@example.com",
+    "username": "happytiger370",
+    "password": "1965",
+    "invokedAt": "2023-12-10T09:30:22.569Z"
   }
 ]
