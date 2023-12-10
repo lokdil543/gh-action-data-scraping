@@ -246,5 +246,13 @@
     "username": "blueostrich452",
     "password": "trustme",
     "invokedAt": "2023-12-10T06:14:14.379Z"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Ramo",
+    "email": "julius.ramo@example.com",
+    "username": "redfrog104",
+    "password": "secret1",
+    "invokedAt": "2023-12-10T06:27:23.813Z"
   }
 ]
