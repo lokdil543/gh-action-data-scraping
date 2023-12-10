@@ -638,5 +638,13 @@
     "username": "browncat157",
     "password": "andres",
     "invokedAt": "2023-12-10T12:40:27.536Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Taylor",
+    "email": "dave.taylor@example.com",
+    "username": "bigtiger692",
+    "password": "plato",
+    "invokedAt": "2023-12-10T12:53:38.714Z"
   }
 ]
