@@ -726,5 +726,13 @@
     "username": "sadfrog970",
     "password": "hardone",
     "invokedAt": "2023-12-10T14:10:33.073Z"
+  },
+  {
+    "firstName": "Fredo",
+    "lastName": "Meiners",
+    "email": "fredo.meiners@example.com",
+    "username": "ticklishbird251",
+    "password": "chucky",
+    "invokedAt": "2023-12-10T14:23:06.650Z"
   }
 ]
