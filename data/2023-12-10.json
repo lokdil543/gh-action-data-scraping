@@ -422,5 +422,13 @@
     "username": "silvergoose592",
     "password": "south",
     "invokedAt": "2023-12-10T08:57:04.165Z"
+  },
+  {
+    "firstName": "Tijana",
+    "lastName": "Adamović",
+    "email": "tijana.adamovic@example.com",
+    "username": "redpanda624",
+    "password": "pathfind",
+    "invokedAt": "2023-12-10T09:08:18.833Z"
   }
 ]
