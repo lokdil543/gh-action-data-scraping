@@ -454,5 +454,13 @@
     "username": "happytiger370",
     "password": "1965",
     "invokedAt": "2023-12-10T09:30:22.569Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Young",
+    "email": "david.young@example.com",
+    "username": "blueleopard398",
+    "password": "1016",
+    "invokedAt": "2023-12-10T09:36:29.755Z"
   }
 ]
