@@ -846,5 +846,13 @@
     "username": "goldenduck992",
     "password": "active",
     "invokedAt": "2023-12-10T15:57:08.780Z"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Tošić",
+    "email": "marija.tosic@example.com",
+    "username": "happypeacock284",
+    "password": "gandalf",
+    "invokedAt": "2023-12-10T16:10:38.200Z"
   }
 ]
