@@ -702,5 +702,13 @@
     "username": "yellowfish584",
     "password": "123456",
     "invokedAt": "2023-12-11T14:52:56.000Z"
+  },
+  {
+    "firstName": "Waldemar",
+    "lastName": "Arendt",
+    "email": "waldemar.arendt@example.com",
+    "username": "sadsnake965",
+    "password": "rhubarb",
+    "invokedAt": "2023-12-11T14:58:49.588Z"
   }
 ]
