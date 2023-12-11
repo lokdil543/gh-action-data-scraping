@@ -782,5 +782,13 @@
     "username": "redlion183",
     "password": "times",
     "invokedAt": "2023-12-11T16:20:28.102Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Matthews",
+    "email": "larry.matthews@example.com",
+    "username": "purpleleopard289",
+    "password": "delete",
+    "invokedAt": "2023-12-11T16:36:59.621Z"
   }
 ]
