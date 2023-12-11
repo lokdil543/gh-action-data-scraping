@@ -950,5 +950,13 @@
     "username": "bluezebra998",
     "password": "close-up",
     "invokedAt": "2023-12-11T19:22:08.303Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Vasić",
+    "email": "adam.vasic@example.com",
+    "username": "heavycat379",
+    "password": "brenda",
+    "invokedAt": "2023-12-11T19:28:08.040Z"
   }
 ]
