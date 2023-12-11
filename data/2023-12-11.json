@@ -582,5 +582,13 @@
     "username": "browntiger513",
     "password": "paulie",
     "invokedAt": "2023-12-11T12:10:53.407Z"
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Østberg",
+    "email": "iris.ostberg@example.com",
+    "username": "goldenfish712",
+    "password": "watch",
+    "invokedAt": "2023-12-11T12:41:47.945Z"
   }
 ]
