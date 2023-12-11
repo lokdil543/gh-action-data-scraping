@@ -798,5 +798,13 @@
     "username": "angryduck718",
     "password": "jamesbon",
     "invokedAt": "2023-12-11T16:45:09.392Z"
+  },
+  {
+    "firstName": "Dušan",
+    "lastName": "Anđelković",
+    "email": "dusan.andelkovic@example.com",
+    "username": "redelephant152",
+    "password": "dynamo",
+    "invokedAt": "2023-12-11T16:51:00.412Z"
   }
 ]
