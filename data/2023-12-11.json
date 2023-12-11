@@ -1182,5 +1182,13 @@
     "username": "smallelephant306",
     "password": "123457",
     "invokedAt": "2023-12-11T22:54:35.657Z"
+  },
+  {
+    "firstName": "Helmut",
+    "lastName": "Schier",
+    "email": "helmut.schier@example.com",
+    "username": "purplecat339",
+    "password": "eldorado",
+    "invokedAt": "2023-12-11T23:00:28.850Z"
   }
 ]
