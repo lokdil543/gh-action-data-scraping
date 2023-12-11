@@ -270,5 +270,13 @@
     "username": "lazywolf598",
     "password": "test",
     "invokedAt": "2023-12-11T06:49:03.885Z"
+  },
+  {
+    "firstName": "Gligorije",
+    "lastName": "Filipović",
+    "email": "gligorije.filipovic@example.com",
+    "username": "bluebird900",
+    "password": "semperfi",
+    "invokedAt": "2023-12-11T06:54:55.158Z"
   }
 ]
