@@ -686,5 +686,13 @@
     "username": "smallcat700",
     "password": "team",
     "invokedAt": "2023-12-12T14:22:02.000Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Vollen",
+    "email": "sofia.vollen@example.com",
+    "username": "smallleopard168",
+    "password": "rodman",
+    "invokedAt": "2023-12-12T14:30:41.939Z"
   }
 ]
