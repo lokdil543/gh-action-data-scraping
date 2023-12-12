@@ -598,5 +598,13 @@
     "username": "goldenelephant175",
     "password": "cohiba",
     "invokedAt": "2023-12-12T12:12:15.992Z"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Jiménez",
+    "email": "tomas.jimenez@example.com",
+    "username": "purpledog489",
+    "password": "andrew",
+    "invokedAt": "2023-12-12T12:41:51.586Z"
   }
 ]
