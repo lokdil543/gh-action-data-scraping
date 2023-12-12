@@ -462,5 +462,13 @@
     "username": "redbutterfly137",
     "password": "marc",
     "invokedAt": "2023-12-12T09:50:46.203Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Campos",
+    "email": "miguel.campos@example.com",
+    "username": "organicbutterfly220",
+    "password": "buzz",
+    "invokedAt": "2023-12-12T09:56:31.825Z"
   }
 ]
