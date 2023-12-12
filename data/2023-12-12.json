@@ -294,5 +294,13 @@
     "username": "yellowpeacock511",
     "password": "freddy",
     "invokedAt": "2023-12-12T07:07:58.065Z"
+  },
+  {
+    "firstName": "Hans Georg",
+    "lastName": "Staiger",
+    "email": "hansgeorg.staiger@example.com",
+    "username": "silvergoose238",
+    "password": "pian",
+    "invokedAt": "2023-12-12T07:19:00.106Z"
   }
 ]
