@@ -190,5 +190,13 @@
     "username": "happykoala324",
     "password": "theatre",
     "invokedAt": "2023-12-12T05:23:41.754Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Martin",
+    "email": "emile.martin@example.com",
+    "username": "happybird985",
+    "password": "newport",
+    "invokedAt": "2023-12-12T05:30:15.575Z"
   }
 ]
