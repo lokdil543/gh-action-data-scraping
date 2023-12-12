@@ -358,5 +358,13 @@
     "username": "silverwolf882",
     "password": "barbados",
     "invokedAt": "2023-12-12T08:00:02.355Z"
+  },
+  {
+    "firstName": "Corentin",
+    "lastName": "Duval",
+    "email": "corentin.duval@example.com",
+    "username": "heavyzebra201",
+    "password": "knickers",
+    "invokedAt": "2023-12-12T08:18:47.189Z"
   }
 ]
