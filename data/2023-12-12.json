@@ -582,5 +582,13 @@
     "username": "yellowfrog438",
     "password": "pepsi1",
     "invokedAt": "2023-12-12T11:49:39.813Z"
+  },
+  {
+    "firstName": "Asher",
+    "lastName": "Walker",
+    "email": "asher.walker@example.com",
+    "username": "purplerabbit772",
+    "password": "nyjets",
+    "invokedAt": "2023-12-12T11:55:32.950Z"
   }
 ]
