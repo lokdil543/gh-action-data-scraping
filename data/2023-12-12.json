@@ -302,5 +302,13 @@
     "username": "silvergoose238",
     "password": "pian",
     "invokedAt": "2023-12-12T07:19:00.106Z"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Radovanović",
+    "email": "nemanja.radovanovic@example.com",
+    "username": "redfrog875",
+    "password": "lickit",
+    "invokedAt": "2023-12-12T07:24:46.737Z"
   }
 ]
