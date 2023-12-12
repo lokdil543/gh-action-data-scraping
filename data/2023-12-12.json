@@ -254,5 +254,13 @@
     "username": "orangefrog556",
     "password": "rider",
     "invokedAt": "2023-12-12T06:31:26.244Z"
+  },
+  {
+    "firstName": "Clément",
+    "lastName": "Lefevre",
+    "email": "clement.lefevre@example.com",
+    "username": "whitezebra880",
+    "password": "spider1",
+    "invokedAt": "2023-12-12T06:39:12.012Z"
   }
 ]
