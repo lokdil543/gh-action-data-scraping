@@ -1038,5 +1038,13 @@
     "username": "goldenduck107",
     "password": "password9",
     "invokedAt": "2023-12-12T20:13:39.797Z"
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Jevremović",
+    "email": "natalia.jevremovic@example.com",
+    "username": "redpanda311",
+    "password": "mack",
+    "invokedAt": "2023-12-12T20:24:41.234Z"
   }
 ]
