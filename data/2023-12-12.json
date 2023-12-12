@@ -718,5 +718,13 @@
     "username": "happypanda141",
     "password": "engine",
     "invokedAt": "2023-12-12T14:48:44.401Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Wirtanen",
+    "email": "akseli.wirtanen@example.com",
+    "username": "sadfrog151",
+    "password": "lola",
+    "invokedAt": "2023-12-12T14:54:36.420Z"
   }
 ]
