@@ -734,5 +734,13 @@
     "username": "redfish765",
     "password": "killian",
     "invokedAt": "2023-12-12T15:00:23.048Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Ward",
+    "email": "fernando.ward@example.com",
+    "username": "lazywolf997",
+    "password": "swords",
+    "invokedAt": "2023-12-12T15:15:25.079Z"
   }
 ]
