@@ -702,5 +702,13 @@
     "username": "happybird163",
     "password": "music",
     "invokedAt": "2023-12-12T14:36:58.661Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Kinnunen",
+    "email": "julia.kinnunen@example.com",
+    "username": "crazybear407",
+    "password": "jamess",
+    "invokedAt": "2023-12-12T14:42:55.484Z"
   }
 ]
