@@ -638,5 +638,13 @@
     "username": "heavycat823",
     "password": "eraser",
     "invokedAt": "2023-12-12T13:31:56.570Z"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Carlson",
+    "email": "toni.carlson@example.com",
+    "username": "lazyfish662",
+    "password": "toejam",
+    "invokedAt": "2023-12-12T13:37:56.375Z"
   }
 ]
