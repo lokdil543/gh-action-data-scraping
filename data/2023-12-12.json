@@ -486,5 +486,13 @@
     "username": "happyfish189",
     "password": "brent",
     "invokedAt": "2023-12-12T10:27:43.041Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Fuentes",
+    "email": "marc.fuentes@example.com",
+    "username": "crazyleopard467",
+    "password": "volcano",
+    "invokedAt": "2023-12-12T10:36:34.332Z"
   }
 ]
