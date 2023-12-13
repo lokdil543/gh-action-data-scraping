@@ -374,5 +374,13 @@
     "username": "tinyostrich102",
     "password": "theend",
     "invokedAt": "2023-12-13T08:35:17.017Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Heinonen",
+    "email": "akseli.heinonen@example.com",
+    "username": "bigostrich522",
+    "password": "moondog",
+    "invokedAt": "2023-12-13T08:41:16.865Z"
   }
 ]
