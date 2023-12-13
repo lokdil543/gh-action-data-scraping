@@ -1102,5 +1102,13 @@
     "username": "happygorilla522",
     "password": "junior",
     "invokedAt": "2023-12-13T21:19:44.984Z"
+  },
+  {
+    "firstName": "Cory",
+    "lastName": "Thompson",
+    "email": "cory.thompson@example.com",
+    "username": "sadfrog224",
+    "password": "concord",
+    "invokedAt": "2023-12-13T21:25:43.813Z"
   }
 ]
