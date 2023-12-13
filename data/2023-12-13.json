@@ -1150,5 +1150,13 @@
     "username": "bigbird463",
     "password": "smith1",
     "invokedAt": "2023-12-13T21:55:21.869Z"
+  },
+  {
+    "firstName": "Gisèle",
+    "lastName": "Leclercq",
+    "email": "gisele.leclercq@example.com",
+    "username": "brownzebra352",
+    "password": "jersey",
+    "invokedAt": "2023-12-13T22:05:21.972Z"
   }
 ]
