@@ -1070,5 +1070,13 @@
     "username": "brownpeacock606",
     "password": "case",
     "invokedAt": "2023-12-14T20:41:51.846Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Andersen",
+    "email": "anna.andersen@example.com",
+    "username": "crazydog495",
+    "password": "supra",
+    "invokedAt": "2023-12-14T20:47:45.053Z"
   }
 ]
