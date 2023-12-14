@@ -606,5 +606,13 @@
     "username": "redcat749",
     "password": "excite",
     "invokedAt": "2023-12-14T12:23:33.257Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Gibson",
+    "email": "jerry.gibson@example.com",
+    "username": "purplelion927",
+    "password": "smith",
+    "invokedAt": "2023-12-14T12:46:42.239Z"
   }
 ]
