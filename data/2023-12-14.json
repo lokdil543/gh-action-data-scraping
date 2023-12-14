@@ -342,5 +342,13 @@
     "username": "whitebear283",
     "password": "delphi",
     "invokedAt": "2023-12-14T07:48:18.020Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Rasmussen",
+    "email": "oliver.rasmussen@example.com",
+    "username": "blackpanda528",
+    "password": "dragon",
+    "invokedAt": "2023-12-14T07:54:10.098Z"
   }
 ]
