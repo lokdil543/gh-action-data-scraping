@@ -1006,5 +1006,13 @@
     "username": "whitefish234",
     "password": "ride",
     "invokedAt": "2023-12-14T19:40:24.064Z"
+  },
+  {
+    "firstName": "Melina",
+    "lastName": "Vujić",
+    "email": "melina.vujic@example.com",
+    "username": "yellowfish936",
+    "password": "scrapper",
+    "invokedAt": "2023-12-14T19:46:08.903Z"
   }
 ]
