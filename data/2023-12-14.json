@@ -726,5 +726,13 @@
     "username": "orangedog107",
     "password": "method",
     "invokedAt": "2023-12-14T14:55:00.344Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Johnson",
+    "email": "beau.johnson@example.com",
+    "username": "purplesnake468",
+    "password": "roberto",
+    "invokedAt": "2023-12-14T15:04:15.437Z"
   }
 ]
