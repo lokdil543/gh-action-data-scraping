@@ -422,5 +422,13 @@
     "username": "happyfrog409",
     "password": "traveler",
     "invokedAt": "2023-12-14T09:17:49.097Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Ramirez",
+    "email": "steve.ramirez@example.com",
+    "username": "ticklishlion268",
+    "password": "chair",
+    "invokedAt": "2023-12-14T09:24:51.912Z"
   }
 ]
