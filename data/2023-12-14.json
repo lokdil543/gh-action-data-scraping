@@ -470,5 +470,13 @@
     "username": "blueelephant304",
     "password": "456789",
     "invokedAt": "2023-12-14T09:54:23.084Z"
+  },
+  {
+    "firstName": "Erle",
+    "lastName": "Jahnsen",
+    "email": "erle.jahnsen@example.com",
+    "username": "redfrog482",
+    "password": "border",
+    "invokedAt": "2023-12-14T10:00:26.097Z"
   }
 ]
