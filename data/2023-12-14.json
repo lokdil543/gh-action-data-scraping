@@ -358,5 +358,13 @@
     "username": "organicgorilla137",
     "password": "teen",
     "invokedAt": "2023-12-14T08:00:06.426Z"
+  },
+  {
+    "firstName": "Artur",
+    "lastName": "Aubert",
+    "email": "artur.aubert@example.com",
+    "username": "bigdog850",
+    "password": "phish1",
+    "invokedAt": "2023-12-14T08:18:15.962Z"
   }
 ]
