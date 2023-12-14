@@ -998,5 +998,13 @@
     "username": "whiteladybug987",
     "password": "barfly",
     "invokedAt": "2023-12-14T19:34:33.990Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Arnold",
+    "email": "david.arnold@example.com",
+    "username": "whitefish234",
+    "password": "ride",
+    "invokedAt": "2023-12-14T19:40:24.064Z"
   }
 ]
