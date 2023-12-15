@@ -886,5 +886,13 @@
     "username": "happymouse504",
     "password": "playmate",
     "invokedAt": "2023-12-15T17:42:45.735Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "French",
+    "email": "emma.french@example.com",
+    "username": "purplewolf561",
+    "password": "opus",
+    "invokedAt": "2023-12-15T17:48:34.834Z"
   }
 ]
