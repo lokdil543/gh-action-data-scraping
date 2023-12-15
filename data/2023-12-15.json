@@ -294,5 +294,13 @@
     "username": "sadelephant644",
     "password": "guitar",
     "invokedAt": "2023-12-15T07:12:09.032Z"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Oliver",
+    "email": "todd.oliver@example.com",
+    "username": "smallrabbit981",
+    "password": "redleg",
+    "invokedAt": "2023-12-15T07:20:57.902Z"
   }
 ]
