@@ -878,5 +878,13 @@
     "username": "purplemeercat206",
     "password": "bellaco",
     "invokedAt": "2023-12-15T17:36:51.689Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Van der Windt",
+    "email": "robert.vanderwindt@example.com",
+    "username": "happymouse504",
+    "password": "playmate",
+    "invokedAt": "2023-12-15T17:42:45.735Z"
   }
 ]
