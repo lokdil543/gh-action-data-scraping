@@ -358,5 +358,13 @@
     "username": "smallbear836",
     "password": "mustangs",
     "invokedAt": "2023-12-15T08:10:58.936Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Hunter",
+    "email": "jon.hunter@example.com",
+    "username": "blackwolf270",
+    "password": "pokemon",
+    "invokedAt": "2023-12-15T08:27:13.928Z"
   }
 ]
