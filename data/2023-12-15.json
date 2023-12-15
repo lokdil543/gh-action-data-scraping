@@ -1238,5 +1238,13 @@
     "username": "browndog874",
     "password": "chicago1",
     "invokedAt": "2023-12-15T23:23:30.004Z"
+  },
+  {
+    "firstName": "Thilde",
+    "lastName": "Vik",
+    "email": "thilde.vik@example.com",
+    "username": "whiteswan543",
+    "password": "phialpha",
+    "invokedAt": "2023-12-15T23:29:24.035Z"
   }
 ]
