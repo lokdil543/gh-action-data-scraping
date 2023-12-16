@@ -342,5 +342,13 @@
     "username": "redrabbit465",
     "password": "kimball",
     "invokedAt": "2023-12-16T07:35:50.204Z"
+  },
+  {
+    "firstName": "Vukašin",
+    "lastName": "Tišma",
+    "email": "vukasin.tisma@example.com",
+    "username": "whitedog476",
+    "password": "woofwoof",
+    "invokedAt": "2023-12-16T07:41:43.082Z"
   }
 ]
