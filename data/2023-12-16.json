@@ -398,5 +398,13 @@
     "username": "purpleduck341",
     "password": "1960",
     "invokedAt": "2023-12-16T08:32:32.956Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Tošić",
+    "email": "adam.tosic@example.com",
+    "username": "angryfish858",
+    "password": "columbia",
+    "invokedAt": "2023-12-16T08:38:41.721Z"
   }
 ]
