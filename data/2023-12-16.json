@@ -302,5 +302,13 @@
     "username": "greenfrog500",
     "password": "red123",
     "invokedAt": "2023-12-16T06:57:39.596Z"
+  },
+  {
+    "firstName": "Alexandre",
+    "lastName": "Lambert",
+    "email": "alexandre.lambert@example.com",
+    "username": "bigpeacock846",
+    "password": "marathon",
+    "invokedAt": "2023-12-16T07:08:42.904Z"
   }
 ]
