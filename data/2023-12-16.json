@@ -662,5 +662,13 @@
     "username": "bluetiger104",
     "password": "lemon",
     "invokedAt": "2023-12-16T13:00:50.001Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Graves",
+    "email": "dick.graves@example.com",
+    "username": "lazybutterfly345",
+    "password": "squerting",
+    "invokedAt": "2023-12-16T13:16:31.886Z"
   }
 ]
