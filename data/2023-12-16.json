@@ -1270,5 +1270,13 @@
     "username": "lazylion453",
     "password": "philly",
     "invokedAt": "2023-12-16T22:35:38.390Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Meyer",
+    "email": "dylan.meyer@example.com",
+    "username": "greentiger678",
+    "password": "doit",
+    "invokedAt": "2023-12-16T22:41:29.464Z"
   }
 ]
