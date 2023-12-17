@@ -190,5 +190,13 @@
     "username": "crazydog217",
     "password": "ministry",
     "invokedAt": "2023-12-17T05:23:33.666Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Poulsen",
+    "email": "mikkel.poulsen@example.com",
+    "username": "lazyladybug702",
+    "password": "buddah",
+    "invokedAt": "2023-12-17T05:29:25.992Z"
   }
 ]
