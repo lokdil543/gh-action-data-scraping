@@ -1254,5 +1254,13 @@
     "username": "angrykoala815",
     "password": "twist",
     "invokedAt": "2023-12-17T22:36:04.735Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Jørgensen",
+    "email": "jacob.jorgensen@example.com",
+    "username": "blueswan773",
+    "password": "homemade",
+    "invokedAt": "2023-12-17T22:42:02.144Z"
   }
 ]
