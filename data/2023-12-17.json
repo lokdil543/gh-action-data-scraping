@@ -1006,5 +1006,13 @@
     "username": "goldenzebra585",
     "password": "carrie",
     "invokedAt": "2023-12-17T18:51:13.692Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Gagné",
+    "email": "blake.gagne@example.com",
+    "username": "brownostrich798",
+    "password": "bourbon",
+    "invokedAt": "2023-12-17T18:57:11.932Z"
   }
 ]
