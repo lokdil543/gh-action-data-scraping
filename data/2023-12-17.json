@@ -270,5 +270,13 @@
     "username": "bigwolf221",
     "password": "dinner",
     "invokedAt": "2023-12-17T06:39:50.088Z"
+  },
+  {
+    "firstName": "Filippa",
+    "lastName": "Andersen",
+    "email": "filippa.andersen@example.com",
+    "username": "crazywolf163",
+    "password": "caught",
+    "invokedAt": "2023-12-17T06:45:34.986Z"
   }
 ]
