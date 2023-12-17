@@ -710,5 +710,13 @@
     "username": "tinyduck542",
     "password": "fairlane",
     "invokedAt": "2023-12-17T13:55:50.883Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Edwards",
+    "email": "anna.edwards@example.com",
+    "username": "bluesnake345",
+    "password": "123456",
+    "invokedAt": "2023-12-17T14:05:55.990Z"
   }
 ]
