@@ -246,5 +246,13 @@
     "username": "greendog396",
     "password": "sales",
     "invokedAt": "2023-12-17T06:14:50.924Z"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "Peterson",
+    "email": "logan.peterson@example.com",
+    "username": "bigbird689",
+    "password": "testing1",
+    "invokedAt": "2023-12-17T06:27:27.858Z"
   }
 ]
