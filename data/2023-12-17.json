@@ -622,5 +622,13 @@
     "username": "redcat733",
     "password": "space",
     "invokedAt": "2023-12-17T11:58:34.096Z"
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Rhodes",
+    "email": "sally.rhodes@example.com",
+    "username": "yellowzebra881",
+    "password": "gofish",
+    "invokedAt": "2023-12-17T12:20:13.134Z"
   }
 ]
