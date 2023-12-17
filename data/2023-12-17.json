@@ -638,5 +638,13 @@
     "username": "brownfish461",
     "password": "motorola",
     "invokedAt": "2023-12-17T12:42:14.258Z"
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Wood",
+    "email": "allan.wood@example.com",
+    "username": "sadpanda587",
+    "password": "abacab",
+    "invokedAt": "2023-12-17T12:54:46.832Z"
   }
 ]
