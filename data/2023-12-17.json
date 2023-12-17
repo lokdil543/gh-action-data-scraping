@@ -582,5 +582,13 @@
     "username": "silverostrich778",
     "password": "paper",
     "invokedAt": "2023-12-17T11:28:50.024Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Miller",
+    "email": "noah.miller@example.com",
+    "username": "angryfish606",
+    "password": "pulsar",
+    "invokedAt": "2023-12-17T11:34:57.068Z"
   }
 ]
