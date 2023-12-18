@@ -766,5 +766,13 @@
     "username": "redleopard900",
     "password": "cupoi",
     "invokedAt": "2023-12-18T15:48:54.113Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Chu",
+    "email": "adam.chu@example.com",
+    "username": "goldenbird382",
+    "password": "pinhead",
+    "invokedAt": "2023-12-18T15:54:49.210Z"
   }
 ]
