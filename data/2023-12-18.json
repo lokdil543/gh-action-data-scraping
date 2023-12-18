@@ -478,5 +478,13 @@
     "username": "whitetiger185",
     "password": "555666",
     "invokedAt": "2023-12-18T10:32:28.197Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Adams",
+    "email": "rose.adams@example.com",
+    "username": "greenrabbit852",
+    "password": "orion",
+    "invokedAt": "2023-12-18T10:40:27.685Z"
   }
 ]
