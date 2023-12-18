@@ -350,5 +350,13 @@
     "username": "happypeacock888",
     "password": "roses",
     "invokedAt": "2023-12-18T08:09:30.014Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Lehtinen",
+    "email": "milja.lehtinen@example.com",
+    "username": "tinyfrog157",
+    "password": "spiral",
+    "invokedAt": "2023-12-18T08:27:26.018Z"
   }
 ]
