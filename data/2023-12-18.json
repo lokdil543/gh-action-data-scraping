@@ -278,5 +278,13 @@
     "username": "redduck284",
     "password": "pony",
     "invokedAt": "2023-12-18T06:57:07.441Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Olsen",
+    "email": "anna.olsen@example.com",
+    "username": "blacklion375",
+    "password": "zeng",
+    "invokedAt": "2023-12-18T07:08:58.179Z"
   }
 ]
