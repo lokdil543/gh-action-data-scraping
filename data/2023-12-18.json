@@ -814,5 +814,13 @@
     "username": "ticklishpanda940",
     "password": "secret",
     "invokedAt": "2023-12-18T16:50:14.106Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Peković",
+    "email": "gojko.pekovic@example.com",
+    "username": "purplepeacock242",
+    "password": "pierre",
+    "invokedAt": "2023-12-18T16:56:11.968Z"
   }
 ]
