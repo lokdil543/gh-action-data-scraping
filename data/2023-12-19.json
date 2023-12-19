@@ -414,5 +414,13 @@
     "username": "orangecat682",
     "password": "bigcat",
     "invokedAt": "2023-12-19T08:59:41.843Z"
+  },
+  {
+    "firstName": "Anand",
+    "lastName": "Ramesh",
+    "email": "anand.ramesh@example.com",
+    "username": "happytiger341",
+    "password": "zerocool",
+    "invokedAt": "2023-12-19T09:13:43.938Z"
   }
 ]
