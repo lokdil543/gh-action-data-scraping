@@ -1126,5 +1126,13 @@
     "username": "organicwolf146",
     "password": "bruno",
     "invokedAt": "2023-12-19T20:45:02.979Z"
+  },
+  {
+    "firstName": "Fenno",
+    "lastName": "Haarsma",
+    "email": "fenno.haarsma@example.com",
+    "username": "orangefish800",
+    "password": "fishhead",
+    "invokedAt": "2023-12-19T20:51:00.261Z"
   }
 ]
