@@ -782,5 +782,13 @@
     "username": "silverzebra372",
     "password": "burly",
     "invokedAt": "2023-12-19T15:42:22.074Z"
+  },
+  {
+    "firstName": "Gilles",
+    "lastName": "Boyer",
+    "email": "gilles.boyer@example.com",
+    "username": "orangesnake627",
+    "password": "gizmo",
+    "invokedAt": "2023-12-19T15:48:12.002Z"
   }
 ]
