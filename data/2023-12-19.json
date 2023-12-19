@@ -726,5 +726,13 @@
     "username": "sadostrich148",
     "password": "abcd1234",
     "invokedAt": "2023-12-19T14:48:01.296Z"
+  },
+  {
+    "firstName": "Nonna",
+    "lastName": "Avramenko",
+    "email": "nonna.avramenko@example.com",
+    "username": "ticklishmouse224",
+    "password": "soleil",
+    "invokedAt": "2023-12-19T14:54:00.023Z"
   }
 ]
