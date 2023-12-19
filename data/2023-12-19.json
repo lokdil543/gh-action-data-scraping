@@ -310,5 +310,13 @@
     "username": "redbear201",
     "password": "blast",
     "invokedAt": "2023-12-19T07:23:34.352Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Nelson",
+    "email": "sara.nelson@example.com",
+    "username": "blackbear220",
+    "password": "latina",
+    "invokedAt": "2023-12-19T07:29:17.628Z"
   }
 ]
