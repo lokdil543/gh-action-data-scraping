@@ -886,5 +886,13 @@
     "username": "blacksnake662",
     "password": "beretta",
     "invokedAt": "2023-12-19T17:23:15.242Z"
+  },
+  {
+    "firstName": "Alejandro",
+    "lastName": "Fernandez",
+    "email": "alejandro.fernandez@example.com",
+    "username": "sadcat874",
+    "password": "player",
+    "invokedAt": "2023-12-19T17:29:11.720Z"
   }
 ]
