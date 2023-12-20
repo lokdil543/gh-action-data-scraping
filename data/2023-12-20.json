@@ -374,5 +374,13 @@
     "username": "redtiger528",
     "password": "krishna",
     "invokedAt": "2023-12-20T07:07:08.042Z"
+  },
+  {
+    "firstName": "Brigitte",
+    "lastName": "Leclerc",
+    "email": "brigitte.leclerc@example.com",
+    "username": "redpanda303",
+    "password": "wrestling",
+    "invokedAt": "2023-12-20T07:15:18.402Z"
   }
 ]
