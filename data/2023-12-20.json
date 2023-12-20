@@ -926,5 +926,13 @@
     "username": "sadmouse541",
     "password": "married",
     "invokedAt": "2023-12-20T15:34:53.985Z"
+  },
+  {
+    "firstName": "Lada",
+    "lastName": "Jakšić",
+    "email": "lada.jaksic@example.com",
+    "username": "heavymouse275",
+    "password": "manuel",
+    "invokedAt": "2023-12-20T15:40:40.421Z"
   }
 ]
