@@ -638,5 +638,13 @@
     "username": "whitefrog394",
     "password": "nicola",
     "invokedAt": "2023-12-20T10:56:36.688Z"
+  },
+  {
+    "firstName": "Vojislav",
+    "lastName": "Radanović",
+    "email": "vojislav.radanovic@example.com",
+    "username": "blackfrog641",
+    "password": "arsenal",
+    "invokedAt": "2023-12-20T11:06:06.685Z"
   }
 ]
