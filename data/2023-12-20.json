@@ -822,5 +822,13 @@
     "username": "whitezebra336",
     "password": "rubble",
     "invokedAt": "2023-12-20T14:01:03.532Z"
+  },
+  {
+    "firstName": "Zoé",
+    "lastName": "Dumont",
+    "email": "zoe.dumont@example.com",
+    "username": "happygorilla285",
+    "password": "wildcard",
+    "invokedAt": "2023-12-20T14:11:29.986Z"
   }
 ]
