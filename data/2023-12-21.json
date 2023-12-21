@@ -638,5 +638,13 @@
     "username": "silvermouse217",
     "password": "hyperion",
     "invokedAt": "2023-12-21T13:13:31.917Z"
+  },
+  {
+    "firstName": "Dominic",
+    "lastName": "Leroux",
+    "email": "dominic.leroux@example.com",
+    "username": "yellowfrog889",
+    "password": "system",
+    "invokedAt": "2023-12-21T13:29:24.307Z"
   }
 ]
