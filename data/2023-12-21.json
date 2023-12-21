@@ -542,5 +542,13 @@
     "username": "bigmouse807",
     "password": "lightnin",
     "invokedAt": "2023-12-21T11:09:05.932Z"
+  },
+  {
+    "firstName": "Chloé",
+    "lastName": "Dumas",
+    "email": "chloe.dumas@example.com",
+    "username": "bigrabbit990",
+    "password": "bulldog1",
+    "invokedAt": "2023-12-21T11:18:00.690Z"
   }
 ]
