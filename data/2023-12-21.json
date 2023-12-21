@@ -622,5 +622,13 @@
     "username": "redgoose984",
     "password": "airforce",
     "invokedAt": "2023-12-21T12:45:34.074Z"
+  },
+  {
+    "firstName": "Slavica",
+    "lastName": "Babić",
+    "email": "slavica.babic@example.com",
+    "username": "purplecat918",
+    "password": "martha",
+    "invokedAt": "2023-12-21T12:58:15.866Z"
   }
 ]
