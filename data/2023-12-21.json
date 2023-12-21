@@ -990,5 +990,13 @@
     "username": "sadgoose546",
     "password": "homemade",
     "invokedAt": "2023-12-21T19:08:46.095Z"
+  },
+  {
+    "firstName": "Laurits",
+    "lastName": "Vågenes",
+    "email": "laurits.vagenes@example.com",
+    "username": "orangebutterfly131",
+    "password": "computer",
+    "invokedAt": "2023-12-21T19:15:18.636Z"
   }
 ]
