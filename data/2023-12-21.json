@@ -734,5 +734,13 @@
     "username": "purplerabbit935",
     "password": "pass",
     "invokedAt": "2023-12-21T14:48:32.821Z"
+  },
+  {
+    "firstName": "Josep",
+    "lastName": "Hidalgo",
+    "email": "josep.hidalgo@example.com",
+    "username": "purplekoala491",
+    "password": "fluffy",
+    "invokedAt": "2023-12-21T14:54:29.546Z"
   }
 ]
