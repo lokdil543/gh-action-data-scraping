@@ -278,5 +278,13 @@
     "username": "crazyleopard629",
     "password": "tintin",
     "invokedAt": "2023-12-21T06:47:16.312Z"
+  },
+  {
+    "firstName": "Matthias",
+    "lastName": "Schlüter",
+    "email": "matthias.schluter@example.com",
+    "username": "bluedog487",
+    "password": "digital1",
+    "invokedAt": "2023-12-21T06:53:18.435Z"
   }
 ]
