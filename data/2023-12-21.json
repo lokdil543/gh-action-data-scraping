@@ -846,5 +846,13 @@
     "username": "greenfish449",
     "password": "arizona",
     "invokedAt": "2023-12-21T16:47:23.358Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Camarillo",
+    "email": "daniel.camarillo@example.com",
+    "username": "brownelephant198",
+    "password": "swim",
+    "invokedAt": "2023-12-21T16:53:09.682Z"
   }
 ]
