@@ -1222,5 +1222,13 @@
     "username": "sadbird197",
     "password": "dome",
     "invokedAt": "2023-12-21T22:41:24.350Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Fabre",
+    "email": "leon.fabre@example.com",
+    "username": "smallfish464",
+    "password": "funstuff",
+    "invokedAt": "2023-12-21T22:47:21.905Z"
   }
 ]
