@@ -158,5 +158,13 @@
     "username": "orangeduck584",
     "password": "capecod",
     "invokedAt": "2023-12-21T04:42:49.181Z"
+  },
+  {
+    "firstName": "Abby",
+    "lastName": "Harvey",
+    "email": "abby.harvey@example.com",
+    "username": "bluewolf573",
+    "password": "internal",
+    "invokedAt": "2023-12-21T04:48:44.060Z"
   }
 ]
