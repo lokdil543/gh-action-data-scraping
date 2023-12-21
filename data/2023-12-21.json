@@ -390,5 +390,13 @@
     "username": "silverladybug775",
     "password": "diesel",
     "invokedAt": "2023-12-21T08:39:33.865Z"
+  },
+  {
+    "firstName": "Karan",
+    "lastName": "Gupta",
+    "email": "karan.gupta@example.com",
+    "username": "bigdog673",
+    "password": "dogbone",
+    "invokedAt": "2023-12-21T08:45:17.571Z"
   }
 ]
