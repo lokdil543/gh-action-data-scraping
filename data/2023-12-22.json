@@ -886,5 +886,13 @@
     "username": "goldenelephant321",
     "password": "morrison",
     "invokedAt": "2023-12-22T17:20:00.851Z"
+  },
+  {
+    "firstName": "Anouck",
+    "lastName": "Van Limpt",
+    "email": "anouck.vanlimpt@example.com",
+    "username": "smalltiger708",
+    "password": "chef",
+    "invokedAt": "2023-12-22T17:27:20.191Z"
   }
 ]
