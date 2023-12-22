@@ -342,5 +342,13 @@
     "username": "smallladybug303",
     "password": "trains",
     "invokedAt": "2023-12-22T07:44:42.016Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Hopkins",
+    "email": "suzy.hopkins@example.com",
+    "username": "silverladybug545",
+    "password": "tyler",
+    "invokedAt": "2023-12-22T07:50:33.776Z"
   }
 ]
