@@ -558,5 +558,13 @@
     "username": "redduck721",
     "password": "nikki1",
     "invokedAt": "2023-12-22T11:22:30.927Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Mortensen",
+    "email": "gustav.mortensen@example.com",
+    "username": "blackrabbit814",
+    "password": "pathfind",
+    "invokedAt": "2023-12-22T11:28:46.569Z"
   }
 ]
