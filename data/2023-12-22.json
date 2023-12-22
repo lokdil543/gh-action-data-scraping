@@ -542,5 +542,13 @@
     "username": "orangeelephant460",
     "password": "helium",
     "invokedAt": "2023-12-22T11:06:04.776Z"
+  },
+  {
+    "firstName": "Liva",
+    "lastName": "Pedersen",
+    "email": "liva.pedersen@example.com",
+    "username": "greenelephant238",
+    "password": "winter",
+    "invokedAt": "2023-12-22T11:16:47.688Z"
   }
 ]
