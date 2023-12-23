@@ -718,5 +718,13 @@
     "username": "tinykoala604",
     "password": "delphi",
     "invokedAt": "2023-12-23T13:40:59.955Z"
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Wagner",
+    "email": "barry.wagner@example.com",
+    "username": "bigfish922",
+    "password": "tardis",
+    "invokedAt": "2023-12-23T13:46:51.995Z"
   }
 ]
