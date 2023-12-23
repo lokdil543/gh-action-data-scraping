@@ -422,5 +422,13 @@
     "username": "happyzebra638",
     "password": "manchester",
     "invokedAt": "2023-12-23T08:40:28.151Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Lefevre",
+    "email": "elliot.lefevre@example.com",
+    "username": "bluecat575",
+    "password": "smackdow",
+    "invokedAt": "2023-12-23T08:46:20.827Z"
   }
 ]
