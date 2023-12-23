@@ -62,5 +62,13 @@
     "username": "browndog728",
     "password": "sinatra",
     "invokedAt": "2023-12-23T02:48:14.982Z"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Durand",
+    "email": "tomas.durand@example.com",
+    "username": "brownlion770",
+    "password": "biit",
+    "invokedAt": "2023-12-23T02:54:03.046Z"
   }
 ]
