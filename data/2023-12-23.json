@@ -990,5 +990,13 @@
     "username": "ticklishduck204",
     "password": "terminat",
     "invokedAt": "2023-12-23T17:59:20.047Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Møller",
+    "email": "adam.moller@example.com",
+    "username": "sadswan243",
+    "password": "gramma",
+    "invokedAt": "2023-12-23T18:15:22.393Z"
   }
 ]
