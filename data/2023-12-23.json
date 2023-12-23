@@ -414,5 +414,13 @@
     "username": "redgoose235",
     "password": "attitude",
     "invokedAt": "2023-12-23T08:34:24.125Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Dupont",
+    "email": "leonard.dupont@example.com",
+    "username": "happyzebra638",
+    "password": "manchester",
+    "invokedAt": "2023-12-23T08:40:28.151Z"
   }
 ]
