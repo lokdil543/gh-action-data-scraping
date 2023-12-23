@@ -526,5 +526,13 @@
     "username": "purpletiger365",
     "password": "misty1",
     "invokedAt": "2023-12-23T10:13:51.575Z"
+  },
+  {
+    "firstName": "Tiril",
+    "lastName": "Kjelsberg",
+    "email": "tiril.kjelsberg@example.com",
+    "username": "tinydog526",
+    "password": "magic1",
+    "invokedAt": "2023-12-23T10:27:55.075Z"
   }
 ]
