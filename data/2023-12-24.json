@@ -654,5 +654,13 @@
     "username": "browngoose402",
     "password": "keepout",
     "invokedAt": "2023-12-24T12:52:52.052Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "French",
+    "email": "charlotte.french@example.com",
+    "username": "whitebutterfly148",
+    "password": "pulsar",
+    "invokedAt": "2023-12-24T13:00:00.891Z"
   }
 ]
