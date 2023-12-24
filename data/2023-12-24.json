@@ -494,5 +494,13 @@
     "username": "goldenpeacock238",
     "password": "hello1",
     "invokedAt": "2023-12-24T09:54:37.882Z"
+  },
+  {
+    "firstName": "Toralf",
+    "lastName": "Hennecke",
+    "email": "toralf.hennecke@example.com",
+    "username": "goldensnake567",
+    "password": "pacers",
+    "invokedAt": "2023-12-24T10:00:28.023Z"
   }
 ]
