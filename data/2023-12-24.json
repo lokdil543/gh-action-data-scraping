@@ -966,5 +966,13 @@
     "username": "bluefish732",
     "password": "titanic",
     "invokedAt": "2023-12-24T17:52:08.668Z"
+  },
+  {
+    "firstName": "Amber",
+    "lastName": "Beck",
+    "email": "amber.beck@example.com",
+    "username": "bluedog529",
+    "password": "guitars",
+    "invokedAt": "2023-12-24T17:58:02.195Z"
   }
 ]
