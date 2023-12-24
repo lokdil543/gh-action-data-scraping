@@ -478,5 +478,13 @@
     "username": "browngorilla101",
     "password": "indian",
     "invokedAt": "2023-12-24T09:43:04.153Z"
+  },
+  {
+    "firstName": "Vukašin",
+    "lastName": "Bakić",
+    "email": "vukasin.bakic@example.com",
+    "username": "redbear724",
+    "password": "surfer",
+    "invokedAt": "2023-12-24T09:48:53.349Z"
   }
 ]
