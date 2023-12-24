@@ -958,5 +958,13 @@
     "username": "happypeacock778",
     "password": "2004",
     "invokedAt": "2023-12-24T17:46:09.007Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Moreno",
+    "email": "sara.moreno@example.com",
+    "username": "bluefish732",
+    "password": "titanic",
+    "invokedAt": "2023-12-24T17:52:08.668Z"
   }
 ]
