@@ -374,5 +374,13 @@
     "username": "redfish364",
     "password": "striper",
     "invokedAt": "2023-12-24T07:59:24.182Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Pedersen",
+    "email": "christoffer.pedersen@example.com",
+    "username": "bigostrich532",
+    "password": "88888",
+    "invokedAt": "2023-12-24T08:15:18.183Z"
   }
 ]
