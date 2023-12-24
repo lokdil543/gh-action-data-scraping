@@ -718,5 +718,13 @@
     "username": "brownrabbit530",
     "password": "chocolate",
     "invokedAt": "2023-12-24T13:52:59.939Z"
+  },
+  {
+    "firstName": "Enzo",
+    "lastName": "Francois",
+    "email": "enzo.francois@example.com",
+    "username": "whitebutterfly754",
+    "password": "flying",
+    "invokedAt": "2023-12-24T13:58:56.149Z"
   }
 ]
