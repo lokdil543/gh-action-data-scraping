@@ -734,5 +734,13 @@
     "username": "angryfish155",
     "password": "tupac",
     "invokedAt": "2023-12-24T14:10:19.666Z"
+  },
+  {
+    "firstName": "Ellie",
+    "lastName": "Little",
+    "email": "ellie.little@example.com",
+    "username": "yellowpeacock312",
+    "password": "redd",
+    "invokedAt": "2023-12-24T14:22:31.587Z"
   }
 ]
