@@ -326,5 +326,13 @@
     "username": "organicpanda353",
     "password": "paco",
     "invokedAt": "2023-12-24T07:24:23.838Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Chen",
+    "email": "ryan.chen@example.com",
+    "username": "angrymouse622",
+    "password": "none",
+    "invokedAt": "2023-12-24T07:30:10.029Z"
   }
 ]
