@@ -1054,5 +1054,13 @@
     "username": "happykoala167",
     "password": "piazza",
     "invokedAt": "2023-12-24T19:18:24.970Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Taylor",
+    "email": "charlie.taylor@example.com",
+    "username": "lazyduck277",
+    "password": "morpheus",
+    "invokedAt": "2023-12-24T19:24:21.043Z"
   }
 ]
