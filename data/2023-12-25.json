@@ -254,5 +254,13 @@
     "username": "orangeduck800",
     "password": "stargate",
     "invokedAt": "2023-12-25T06:28:19.015Z"
+  },
+  {
+    "firstName": "Rusana",
+    "lastName": "Grabar",
+    "email": "rusana.grabar@example.com",
+    "username": "happyfrog245",
+    "password": "100000",
+    "invokedAt": "2023-12-25T06:36:06.755Z"
   }
 ]
