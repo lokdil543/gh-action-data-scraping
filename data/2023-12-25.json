@@ -246,5 +246,13 @@
     "username": "happyduck456",
     "password": "pitbull",
     "invokedAt": "2023-12-25T06:12:21.026Z"
+  },
+  {
+    "firstName": "Vasilina",
+    "lastName": "Grinchishin",
+    "email": "vasilina.grinchishin@example.com",
+    "username": "orangeduck800",
+    "password": "stargate",
+    "invokedAt": "2023-12-25T06:28:19.015Z"
   }
 ]
