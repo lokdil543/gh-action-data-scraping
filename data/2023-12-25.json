@@ -566,5 +566,13 @@
     "username": "happybird100",
     "password": "gravity",
     "invokedAt": "2023-12-25T11:29:28.246Z"
+  },
+  {
+    "firstName": "Dario",
+    "lastName": "Mercier",
+    "email": "dario.mercier@example.com",
+    "username": "tinyfish534",
+    "password": "bumble",
+    "invokedAt": "2023-12-25T11:35:23.410Z"
   }
 ]
