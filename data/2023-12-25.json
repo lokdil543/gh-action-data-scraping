@@ -1022,5 +1022,13 @@
     "username": "heavygoose641",
     "password": "bill",
     "invokedAt": "2023-12-25T19:26:01.748Z"
+  },
+  {
+    "firstName": "Onur",
+    "lastName": "Candan",
+    "email": "onur.candan@example.com",
+    "username": "blueswan240",
+    "password": "deadspin",
+    "invokedAt": "2023-12-25T19:32:03.475Z"
   }
 ]
