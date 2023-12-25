@@ -366,5 +366,13 @@
     "username": "sadbird469",
     "password": "city",
     "invokedAt": "2023-12-25T08:12:04.935Z"
+  },
+  {
+    "firstName": "Alexa",
+    "lastName": "Nijsink",
+    "email": "alexa.nijsink@example.com",
+    "username": "redbird659",
+    "password": "grandma",
+    "invokedAt": "2023-12-25T08:27:00.929Z"
   }
 ]
