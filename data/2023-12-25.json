@@ -1166,5 +1166,13 @@
     "username": "orangedog317",
     "password": "allsop",
     "invokedAt": "2023-12-25T21:35:03.765Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Pedersen",
+    "email": "rasmus.pedersen@example.com",
+    "username": "beautifuldog170",
+    "password": "buffy",
+    "invokedAt": "2023-12-25T21:40:56.931Z"
   }
 ]
