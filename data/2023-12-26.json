@@ -710,5 +710,13 @@
     "username": "bluepanda432",
     "password": "father",
     "invokedAt": "2023-12-26T14:08:40.391Z"
+  },
+  {
+    "firstName": "Mariano",
+    "lastName": "Cedillo",
+    "email": "mariano.cedillo@example.com",
+    "username": "sadfish342",
+    "password": "wiseguy",
+    "invokedAt": "2023-12-26T14:22:10.640Z"
   }
 ]
