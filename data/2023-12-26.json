@@ -550,5 +550,13 @@
     "username": "lazywolf283",
     "password": "tardis",
     "invokedAt": "2023-12-26T11:06:30.105Z"
+  },
+  {
+    "firstName": "Niva",
+    "lastName": "Kouser",
+    "email": "niva.kouser@example.com",
+    "username": "reddog131",
+    "password": "matty",
+    "invokedAt": "2023-12-26T11:16:26.277Z"
   }
 ]
