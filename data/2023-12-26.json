@@ -230,5 +230,13 @@
     "username": "whitebear538",
     "password": "guess",
     "invokedAt": "2023-12-26T05:49:38.960Z"
+  },
+  {
+    "firstName": "Travis",
+    "lastName": "Austin",
+    "email": "travis.austin@example.com",
+    "username": "blackfish399",
+    "password": "alexa",
+    "invokedAt": "2023-12-26T05:55:32.954Z"
   }
 ]
