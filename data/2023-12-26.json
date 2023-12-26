@@ -702,5 +702,13 @@
     "username": "goldencat997",
     "password": "mission",
     "invokedAt": "2023-12-26T13:57:28.468Z"
+  },
+  {
+    "firstName": "Oskari",
+    "lastName": "Niskanen",
+    "email": "oskari.niskanen@example.com",
+    "username": "bluepanda432",
+    "password": "father",
+    "invokedAt": "2023-12-26T14:08:40.391Z"
   }
 ]
