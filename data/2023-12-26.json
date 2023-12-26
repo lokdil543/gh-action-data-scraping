@@ -622,5 +622,13 @@
     "username": "organictiger919",
     "password": "luke",
     "invokedAt": "2023-12-26T12:20:09.960Z"
+  },
+  {
+    "firstName": "Brendan",
+    "lastName": "Henry",
+    "email": "brendan.henry@example.com",
+    "username": "bluefish552",
+    "password": "husband",
+    "invokedAt": "2023-12-26T12:42:35.555Z"
   }
 ]
