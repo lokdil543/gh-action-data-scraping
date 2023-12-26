@@ -1190,5 +1190,13 @@
     "username": "bigduck359",
     "password": "deeper",
     "invokedAt": "2023-12-26T21:47:01.212Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Brown",
+    "email": "amy.brown@example.com",
+    "username": "heavyduck756",
+    "password": "wapapapa",
+    "invokedAt": "2023-12-26T21:52:53.099Z"
   }
 ]
