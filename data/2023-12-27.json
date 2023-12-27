@@ -798,5 +798,13 @@
     "username": "lazylion237",
     "password": "review",
     "invokedAt": "2023-12-27T15:34:18.997Z"
+  },
+  {
+    "firstName": "Zara",
+    "lastName": "Turner",
+    "email": "zara.turner@example.com",
+    "username": "greengorilla209",
+    "password": "jasmine",
+    "invokedAt": "2023-12-27T15:40:09.193Z"
   }
 ]
