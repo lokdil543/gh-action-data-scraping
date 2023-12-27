@@ -214,5 +214,13 @@
     "username": "sadbutterfly501",
     "password": "puppies",
     "invokedAt": "2023-12-27T05:35:55.292Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Clark",
+    "email": "phil.clark@example.com",
+    "username": "lazyleopard129",
+    "password": "2004",
+    "invokedAt": "2023-12-27T05:41:53.960Z"
   }
 ]
