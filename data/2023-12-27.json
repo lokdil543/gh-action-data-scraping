@@ -518,5 +518,13 @@
     "username": "organiccat170",
     "password": "deadly",
     "invokedAt": "2023-12-27T10:38:12.339Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Wheeler",
+    "email": "joe.wheeler@example.com",
+    "username": "bluefish750",
+    "password": "tight",
+    "invokedAt": "2023-12-27T10:44:03.213Z"
   }
 ]
