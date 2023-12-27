@@ -262,5 +262,13 @@
     "username": "tinyfish374",
     "password": "sheriff",
     "invokedAt": "2023-12-27T06:30:17.072Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Manninen",
+    "email": "anton.manninen@example.com",
+    "username": "lazyleopard311",
+    "password": "building",
+    "invokedAt": "2023-12-27T06:37:42.938Z"
   }
 ]
