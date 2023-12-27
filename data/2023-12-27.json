@@ -1062,5 +1062,13 @@
     "username": "bluebird997",
     "password": "amazon",
     "invokedAt": "2023-12-27T19:51:31.966Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Hansen",
+    "email": "jonathan.hansen@example.com",
+    "username": "blackswan670",
+    "password": "112233",
+    "invokedAt": "2023-12-27T19:57:27.503Z"
   }
 ]
