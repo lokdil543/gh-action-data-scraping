@@ -1254,5 +1254,13 @@
     "username": "browndog355",
     "password": "49ers",
     "invokedAt": "2023-12-27T22:49:10.826Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Johansen",
+    "email": "sofia.johansen@example.com",
+    "username": "smalllion317",
+    "password": "lister",
+    "invokedAt": "2023-12-27T22:55:02.258Z"
   }
 ]
