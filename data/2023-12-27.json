@@ -1126,5 +1126,13 @@
     "username": "bigmeercat562",
     "password": "antares",
     "invokedAt": "2023-12-27T20:51:23.893Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Smith",
+    "email": "hunter.smith@example.com",
+    "username": "blacktiger678",
+    "password": "native",
+    "invokedAt": "2023-12-27T20:57:15.164Z"
   }
 ]
