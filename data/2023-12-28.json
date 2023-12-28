@@ -614,5 +614,13 @@
     "username": "purpleduck962",
     "password": "caught",
     "invokedAt": "2023-12-28T11:57:42.010Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Grant",
+    "email": "zachary.grant@example.com",
+    "username": "brownkoala836",
+    "password": "fright",
+    "invokedAt": "2023-12-28T12:18:22.034Z"
   }
 ]
