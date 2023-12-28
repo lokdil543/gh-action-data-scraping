@@ -862,5 +862,13 @@
     "username": "smallmeercat569",
     "password": "asdf1234",
     "invokedAt": "2023-12-28T16:51:10.517Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Pektemek",
+    "email": "koray.pektemek@example.com",
+    "username": "bluetiger488",
+    "password": "native",
+    "invokedAt": "2023-12-28T16:56:55.900Z"
   }
 ]
