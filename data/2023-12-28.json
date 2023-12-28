@@ -1062,5 +1062,13 @@
     "username": "lazykoala470",
     "password": "garage",
     "invokedAt": "2023-12-28T20:36:52.823Z"
+  },
+  {
+    "firstName": "Víctor",
+    "lastName": "Herrera",
+    "email": "victor.herrera@example.com",
+    "username": "biglion700",
+    "password": "fishon",
+    "invokedAt": "2023-12-28T20:42:48.042Z"
   }
 ]
