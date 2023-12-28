@@ -798,5 +798,13 @@
     "username": "goldensnake121",
     "password": "back",
     "invokedAt": "2023-12-28T15:40:24.841Z"
+  },
+  {
+    "firstName": "Timian",
+    "lastName": "Wiklund",
+    "email": "timian.wiklund@example.com",
+    "username": "brownsnake143",
+    "password": "12344321",
+    "invokedAt": "2023-12-28T15:46:10.564Z"
   }
 ]
