@@ -934,5 +934,13 @@
     "username": "orangedog234",
     "password": "rugby1",
     "invokedAt": "2023-12-28T18:26:53.617Z"
+  },
+  {
+    "firstName": "Kayla",
+    "lastName": "Butler",
+    "email": "kayla.butler@example.com",
+    "username": "redkoala414",
+    "password": "five",
+    "invokedAt": "2023-12-28T18:33:33.717Z"
   }
 ]
