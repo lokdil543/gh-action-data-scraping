@@ -78,5 +78,13 @@
     "username": "orangetiger672",
     "password": "mission",
     "invokedAt": "2023-12-28T03:21:00.357Z"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Van den Burg",
+    "email": "lauren.vandenburg@example.com",
+    "username": "redtiger351",
+    "password": "pain",
+    "invokedAt": "2023-12-28T03:26:55.170Z"
   }
 ]
