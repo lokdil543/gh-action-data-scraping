@@ -526,5 +526,13 @@
     "username": "goldengoose514",
     "password": "base",
     "invokedAt": "2023-12-28T10:44:06.919Z"
+  },
+  {
+    "firstName": "Joaquín",
+    "lastName": "Rocha",
+    "email": "joaquin.rocha@example.com",
+    "username": "heavygoose553",
+    "password": "hopkins",
+    "invokedAt": "2023-12-28T10:50:01.617Z"
   }
 ]
