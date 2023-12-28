@@ -758,5 +758,13 @@
     "username": "angrysnake871",
     "password": "brains",
     "invokedAt": "2023-12-28T14:58:07.908Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Sørensen",
+    "email": "emma.sorensen@example.com",
+    "username": "yellowduck893",
+    "password": "ratman",
+    "invokedAt": "2023-12-28T15:11:01.948Z"
   }
 ]
