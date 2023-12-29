@@ -566,5 +566,13 @@
     "username": "redostrich285",
     "password": "country",
     "invokedAt": "2023-12-29T11:29:48.260Z"
+  },
+  {
+    "firstName": "Harold",
+    "lastName": "Weaver",
+    "email": "harold.weaver@example.com",
+    "username": "greensnake970",
+    "password": "cheech",
+    "invokedAt": "2023-12-29T11:35:39.209Z"
   }
 ]
