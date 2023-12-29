@@ -246,5 +246,13 @@
     "username": "angrywolf938",
     "password": "shorty",
     "invokedAt": "2023-12-29T06:18:41.788Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Møller",
+    "email": "carl.moller@example.com",
+    "username": "greenmeercat227",
+    "password": "dwight",
+    "invokedAt": "2023-12-29T06:30:45.796Z"
   }
 ]
