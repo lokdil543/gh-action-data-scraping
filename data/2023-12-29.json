@@ -950,5 +950,13 @@
     "username": "greentiger683",
     "password": "joe123",
     "invokedAt": "2023-12-29T18:31:08.597Z"
+  },
+  {
+    "firstName": "Ceylan",
+    "lastName": "Demirbaş",
+    "email": "ceylan.demirbas@example.com",
+    "username": "crazyladybug544",
+    "password": "tweety",
+    "invokedAt": "2023-12-29T18:36:51.367Z"
   }
 ]
