@@ -918,5 +918,13 @@
     "username": "angrypanda944",
     "password": "groovy",
     "invokedAt": "2023-12-29T17:50:03.278Z"
+  },
+  {
+    "firstName": "Cecil",
+    "lastName": "Boyd",
+    "email": "cecil.boyd@example.com",
+    "username": "heavyfish160",
+    "password": "hamlet",
+    "invokedAt": "2023-12-29T17:55:51.149Z"
   }
 ]
