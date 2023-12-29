@@ -686,5 +686,13 @@
     "username": "redrabbit967",
     "password": "street",
     "invokedAt": "2023-12-29T13:52:30.266Z"
+  },
+  {
+    "firstName": "Ella",
+    "lastName": "Jørgensen",
+    "email": "ella.jorgensen@example.com",
+    "username": "orangemouse652",
+    "password": "f**k",
+    "invokedAt": "2023-12-29T13:58:18.341Z"
   }
 ]
