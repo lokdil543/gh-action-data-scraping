@@ -278,5 +278,13 @@
     "username": "blackduck476",
     "password": "weasel",
     "invokedAt": "2023-12-29T06:49:36.186Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Rodriguez",
+    "email": "sarah.rodriguez@example.com",
+    "username": "bigbutterfly157",
+    "password": "cheese1",
+    "invokedAt": "2023-12-29T06:55:26.105Z"
   }
 ]
