@@ -478,5 +478,13 @@
     "username": "happysnake197",
     "password": "peeper",
     "invokedAt": "2023-12-29T09:56:14.880Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Armstrong",
+    "email": "amy.armstrong@example.com",
+    "username": "browndog855",
+    "password": "jubilee",
+    "invokedAt": "2023-12-29T10:08:39.034Z"
   }
 ]
