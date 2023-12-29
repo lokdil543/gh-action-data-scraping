@@ -798,5 +798,13 @@
     "username": "lazybutterfly600",
     "password": "verona",
     "invokedAt": "2023-12-29T15:41:55.433Z"
+  },
+  {
+    "firstName": "Izzie",
+    "lastName": "Warren",
+    "email": "izzie.warren@example.com",
+    "username": "biggoose314",
+    "password": "young",
+    "invokedAt": "2023-12-29T15:47:40.100Z"
   }
 ]
