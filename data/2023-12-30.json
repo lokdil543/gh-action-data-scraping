@@ -574,5 +574,13 @@
     "username": "bigdog839",
     "password": "canuck",
     "invokedAt": "2023-12-30T11:15:53.543Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Reutter",
+    "email": "fred.reutter@example.com",
+    "username": "whitezebra634",
+    "password": "magpie",
+    "invokedAt": "2023-12-30T11:21:43.764Z"
   }
 ]
