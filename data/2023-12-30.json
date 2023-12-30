@@ -214,5 +214,13 @@
     "username": "silverfish644",
     "password": "2000",
     "invokedAt": "2023-12-30T05:35:34.302Z"
+  },
+  {
+    "firstName": "Ege",
+    "lastName": "Demirbaş",
+    "email": "ege.demirbas@example.com",
+    "username": "bigbear357",
+    "password": "werdna",
+    "invokedAt": "2023-12-30T05:41:31.924Z"
   }
 ]
