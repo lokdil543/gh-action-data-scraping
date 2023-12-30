@@ -702,5 +702,13 @@
     "username": "brownbird396",
     "password": "grand",
     "invokedAt": "2023-12-30T13:41:15.071Z"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Lee",
+    "email": "jennifer.lee@example.com",
+    "username": "bluesnake612",
+    "password": "rasta",
+    "invokedAt": "2023-12-30T13:47:05.964Z"
   }
 ]
