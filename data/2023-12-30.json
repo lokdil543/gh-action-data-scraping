@@ -406,5 +406,13 @@
     "username": "happyduck514",
     "password": "xiang",
     "invokedAt": "2023-12-30T08:38:35.463Z"
+  },
+  {
+    "firstName": "Luciën",
+    "lastName": "Van Lit",
+    "email": "lucien.vanlit@example.com",
+    "username": "smallfrog947",
+    "password": "dodger",
+    "invokedAt": "2023-12-30T08:44:23.841Z"
   }
 ]
