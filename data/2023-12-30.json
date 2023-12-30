@@ -470,5 +470,13 @@
     "username": "goldenfrog536",
     "password": "buckshot",
     "invokedAt": "2023-12-30T09:36:10.830Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Hansen",
+    "email": "victor.hansen@example.com",
+    "username": "redgoose553",
+    "password": "engineer",
+    "invokedAt": "2023-12-30T09:41:58.933Z"
   }
 ]
