@@ -286,5 +286,13 @@
     "username": "crazysnake528",
     "password": "silly",
     "invokedAt": "2023-12-30T06:45:28.932Z"
+  },
+  {
+    "firstName": "Lawrence",
+    "lastName": "Elliott",
+    "email": "lawrence.elliott@example.com",
+    "username": "bluefrog943",
+    "password": "tbone",
+    "invokedAt": "2023-12-30T06:51:20.926Z"
   }
 ]
