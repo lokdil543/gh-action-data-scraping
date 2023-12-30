@@ -1190,5 +1190,13 @@
     "username": "browncat112",
     "password": "bridge",
     "invokedAt": "2023-12-30T21:21:24.374Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Perrin",
+    "email": "ryan.perrin@example.com",
+    "username": "happymouse310",
+    "password": "james",
+    "invokedAt": "2023-12-30T21:27:12.306Z"
   }
 ]
