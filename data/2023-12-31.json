@@ -1030,5 +1030,13 @@
     "username": "blackdog622",
     "password": "tabasco",
     "invokedAt": "2023-12-31T19:03:00.475Z"
+  },
+  {
+    "firstName": "Plácido",
+    "lastName": "Jesus",
+    "email": "placido.jesus@example.com",
+    "username": "lazycat122",
+    "password": "monster1",
+    "invokedAt": "2023-12-31T19:14:06.737Z"
   }
 ]
