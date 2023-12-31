@@ -830,5 +830,13 @@
     "username": "bigrabbit720",
     "password": "freepass",
     "invokedAt": "2023-12-31T15:43:41.385Z"
+  },
+  {
+    "firstName": "Adrijana",
+    "lastName": "Teodosić",
+    "email": "adrijana.teodosic@example.com",
+    "username": "orangetiger182",
+    "password": "dorothy",
+    "invokedAt": "2023-12-31T15:49:29.285Z"
   }
 ]
