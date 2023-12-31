@@ -582,5 +582,13 @@
     "username": "brownlion276",
     "password": "mailman",
     "invokedAt": "2023-12-31T11:27:32.372Z"
+  },
+  {
+    "firstName": "Clemens",
+    "lastName": "Renard",
+    "email": "clemens.renard@example.com",
+    "username": "purplegorilla723",
+    "password": "88888",
+    "invokedAt": "2023-12-31T11:33:26.203Z"
   }
 ]
