@@ -798,5 +798,13 @@
     "username": "orangedog526",
     "password": "sammie",
     "invokedAt": "2023-12-31T15:20:01.453Z"
+  },
+  {
+    "firstName": "Alberto",
+    "lastName": "Gallegos",
+    "email": "alberto.gallegos@example.com",
+    "username": "happydog933",
+    "password": "roland",
+    "invokedAt": "2023-12-31T15:25:58.040Z"
   }
 ]
