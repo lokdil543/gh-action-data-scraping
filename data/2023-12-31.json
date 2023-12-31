@@ -390,5 +390,13 @@
     "username": "beautifulmouse435",
     "password": "electra",
     "invokedAt": "2023-12-31T08:32:23.946Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Grewal",
+    "email": "charles.grewal@example.com",
+    "username": "blackostrich319",
+    "password": "ping",
+    "invokedAt": "2023-12-31T08:38:35.381Z"
   }
 ]
