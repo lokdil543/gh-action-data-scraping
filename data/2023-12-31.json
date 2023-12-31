@@ -862,5 +862,13 @@
     "username": "heavyswan750",
     "password": "scuba1",
     "invokedAt": "2023-12-31T16:25:10.344Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Aalto",
+    "email": "eevi.aalto@example.com",
+    "username": "angrybird128",
+    "password": "susie",
+    "invokedAt": "2023-12-31T16:33:42.620Z"
   }
 ]
