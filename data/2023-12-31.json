@@ -214,5 +214,13 @@
     "username": "goldenfish471",
     "password": "makaveli",
     "invokedAt": "2023-12-31T05:39:58.748Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Kemppainen",
+    "email": "viljami.kemppainen@example.com",
+    "username": "brownwolf787",
+    "password": "otto",
+    "invokedAt": "2023-12-31T05:45:57.916Z"
   }
 ]
