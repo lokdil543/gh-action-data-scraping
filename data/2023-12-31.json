@@ -262,5 +262,13 @@
     "username": "happybird752",
     "password": "mooney",
     "invokedAt": "2023-12-31T06:32:29.007Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Martinez",
+    "email": "kim.martinez@example.com",
+    "username": "happybear940",
+    "password": "cyclops",
+    "invokedAt": "2023-12-31T06:38:40.057Z"
   }
 ]
