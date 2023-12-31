@@ -486,5 +486,13 @@
     "username": "orangelion258",
     "password": "avenger",
     "invokedAt": "2023-12-31T09:53:29.381Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Jensen",
+    "email": "marie.jensen@example.com",
+    "username": "sadlion586",
+    "password": "briana",
+    "invokedAt": "2023-12-31T09:59:25.119Z"
   }
 ]
