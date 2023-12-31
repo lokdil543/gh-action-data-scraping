@@ -1326,5 +1326,13 @@
     "username": "goldenostrich276",
     "password": "chronic",
     "invokedAt": "2023-12-31T23:34:04.122Z"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Lopez",
+    "email": "gavin.lopez@example.com",
+    "username": "bigostrich173",
+    "password": "deeznutz",
+    "invokedAt": "2023-12-31T23:39:58.531Z"
   }
 ]
