@@ -838,5 +838,13 @@
     "username": "orangetiger182",
     "password": "dorothy",
     "invokedAt": "2023-12-31T15:49:29.285Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Montero",
+    "email": "clara.montero@example.com",
+    "username": "happyfish280",
+    "password": "dawgs",
+    "invokedAt": "2023-12-31T15:55:26.698Z"
   }
 ]
