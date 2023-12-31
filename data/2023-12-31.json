@@ -246,5 +246,13 @@
     "username": "whitegoose350",
     "password": "install",
     "invokedAt": "2023-12-31T06:12:38.051Z"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Knight",
+    "email": "brad.knight@example.com",
+    "username": "orangebird747",
+    "password": "roxy",
+    "invokedAt": "2023-12-31T06:26:35.780Z"
   }
 ]
