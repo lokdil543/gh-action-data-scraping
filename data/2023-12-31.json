@@ -254,5 +254,13 @@
     "username": "orangebird747",
     "password": "roxy",
     "invokedAt": "2023-12-31T06:26:35.780Z"
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "de Jesús",
+    "email": "helena.dejesus@example.com",
+    "username": "happybird752",
+    "password": "mooney",
+    "invokedAt": "2023-12-31T06:32:29.007Z"
   }
 ]
