@@ -598,5 +598,13 @@
     "username": "bigpanda366",
     "password": "breaker",
     "invokedAt": "2024-01-01T12:45:58.982Z"
+  },
+  {
+    "firstName": "Gert-Jan",
+    "lastName": "Loo",
+    "email": "gert-jan.loo@example.com",
+    "username": "redmeercat199",
+    "password": "java",
+    "invokedAt": "2024-01-01T12:57:25.691Z"
   }
 ]
