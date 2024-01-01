@@ -478,5 +478,13 @@
     "username": "bluelion551",
     "password": "morton",
     "invokedAt": "2024-01-01T10:36:00.602Z"
+  },
+  {
+    "firstName": "Gabe",
+    "lastName": "White",
+    "email": "gabe.white@example.com",
+    "username": "whiteostrich964",
+    "password": "hedgehog",
+    "invokedAt": "2024-01-01T10:41:46.577Z"
   }
 ]
