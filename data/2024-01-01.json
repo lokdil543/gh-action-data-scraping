@@ -998,5 +998,13 @@
     "username": "ticklishrabbit991",
     "password": "django",
     "invokedAt": "2024-01-01T19:29:29.180Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Wallace",
+    "email": "isaac.wallace@example.com",
+    "username": "happyfish536",
+    "password": "othello",
+    "invokedAt": "2024-01-01T19:35:30.604Z"
   }
 ]
