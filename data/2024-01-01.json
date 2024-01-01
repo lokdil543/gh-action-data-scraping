@@ -1222,5 +1222,13 @@
     "username": "blackfrog585",
     "password": "jamie",
     "invokedAt": "2024-01-01T22:50:27.702Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Colin",
+    "email": "charlie.colin@example.com",
+    "username": "greenfrog931",
+    "password": "bluefish",
+    "invokedAt": "2024-01-01T22:56:18.827Z"
   }
 ]
