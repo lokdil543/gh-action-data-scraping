@@ -702,5 +702,13 @@
     "username": "ticklishgorilla111",
     "password": "outside",
     "invokedAt": "2024-01-02T14:12:01.261Z"
+  },
+  {
+    "firstName": "Aitor",
+    "lastName": "Hernández",
+    "email": "aitor.hernandez@example.com",
+    "username": "heavyduck984",
+    "password": "kahlua",
+    "invokedAt": "2024-01-02T14:25:36.470Z"
   }
 ]
