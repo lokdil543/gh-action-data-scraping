@@ -366,5 +366,13 @@
     "username": "redduck227",
     "password": "abcdefg",
     "invokedAt": "2024-01-02T08:10:52.567Z"
+  },
+  {
+    "firstName": "Pål",
+    "lastName": "Wibe",
+    "email": "pal.wibe@example.com",
+    "username": "whitefrog788",
+    "password": "ranger",
+    "invokedAt": "2024-01-02T08:26:11.095Z"
   }
 ]
