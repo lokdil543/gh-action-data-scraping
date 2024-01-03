@@ -454,5 +454,13 @@
     "username": "brownmouse375",
     "password": "tintin",
     "invokedAt": "2024-01-03T09:41:19.484Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Lehtonen",
+    "email": "akseli.lehtonen@example.com",
+    "username": "redmouse428",
+    "password": "route66",
+    "invokedAt": "2024-01-03T09:47:07.576Z"
   }
 ]
