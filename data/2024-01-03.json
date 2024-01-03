@@ -446,5 +446,13 @@
     "username": "bigelephant283",
     "password": "concrete",
     "invokedAt": "2024-01-03T09:35:27.306Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Bishop",
+    "email": "jerry.bishop@example.com",
+    "username": "brownmouse375",
+    "password": "tintin",
+    "invokedAt": "2024-01-03T09:41:19.484Z"
   }
 ]
