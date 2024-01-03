@@ -558,5 +558,13 @@
     "username": "sadostrich865",
     "password": "jason1",
     "invokedAt": "2024-01-03T11:25:04.866Z"
+  },
+  {
+    "firstName": "Tijana",
+    "lastName": "Vujčić",
+    "email": "tijana.vujcic@example.com",
+    "username": "bluecat635",
+    "password": "test2",
+    "invokedAt": "2024-01-03T11:31:01.266Z"
   }
 ]
