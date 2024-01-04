@@ -1110,5 +1110,13 @@
     "username": "angryrabbit538",
     "password": "515151",
     "invokedAt": "2024-01-04T21:13:08.602Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Graves",
+    "email": "steven.graves@example.com",
+    "username": "angrybear427",
+    "password": "bumble",
+    "invokedAt": "2024-01-04T21:21:11.090Z"
   }
 ]
