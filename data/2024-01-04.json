@@ -342,5 +342,13 @@
     "username": "silvercat489",
     "password": "country",
     "invokedAt": "2024-01-04T07:47:22.123Z"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Jackson",
+    "email": "jose.jackson@example.com",
+    "username": "browncat729",
+    "password": "holly",
+    "invokedAt": "2024-01-04T07:53:10.228Z"
   }
 ]
