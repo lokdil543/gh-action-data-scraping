@@ -558,5 +558,13 @@
     "username": "bluegoose713",
     "password": "foobar",
     "invokedAt": "2024-01-04T11:26:10.754Z"
+  },
+  {
+    "firstName": "Alejandro",
+    "lastName": "Rosado",
+    "email": "alejandro.rosado@example.com",
+    "username": "whitebear646",
+    "password": "5555",
+    "invokedAt": "2024-01-04T11:32:14.620Z"
   }
 ]
