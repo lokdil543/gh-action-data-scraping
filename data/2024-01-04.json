@@ -406,5 +406,13 @@
     "username": "greenladybug124",
     "password": "guardian",
     "invokedAt": "2024-01-04T08:53:12.442Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Møller",
+    "email": "clara.moller@example.com",
+    "username": "heavywolf306",
+    "password": "itsme",
+    "invokedAt": "2024-01-04T08:59:12.245Z"
   }
 ]
