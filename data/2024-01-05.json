@@ -318,5 +318,13 @@
     "username": "bigtiger201",
     "password": "woowoo",
     "invokedAt": "2024-01-05T07:30:06.755Z"
+  },
+  {
+    "firstName": "Miguel Ángel",
+    "lastName": "Carrera",
+    "email": "miguelangel.carrera@example.com",
+    "username": "tinyostrich744",
+    "password": "samsam",
+    "invokedAt": "2024-01-05T07:35:55.709Z"
   }
 ]
