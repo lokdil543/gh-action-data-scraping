@@ -790,5 +790,13 @@
     "username": "tinypanda300",
     "password": "shotgun",
     "invokedAt": "2024-01-05T15:42:17.519Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Rasmussen",
+    "email": "daniel.rasmussen@example.com",
+    "username": "greenbutterfly598",
+    "password": "thewho",
+    "invokedAt": "2024-01-05T15:48:05.901Z"
   }
 ]
