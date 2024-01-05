@@ -830,5 +830,13 @@
     "username": "whitecat121",
     "password": "quest1",
     "invokedAt": "2024-01-05T16:31:01.890Z"
+  },
+  {
+    "firstName": "Oswald",
+    "lastName": "Francois",
+    "email": "oswald.francois@example.com",
+    "username": "whitecat942",
+    "password": "stanley",
+    "invokedAt": "2024-01-05T16:40:05.908Z"
   }
 ]
