@@ -614,5 +614,13 @@
     "username": "angryduck471",
     "password": "pa55w0rd",
     "invokedAt": "2024-01-07T12:17:05.431Z"
+  },
+  {
+    "firstName": "Mladen",
+    "lastName": "Lazić",
+    "email": "mladen.lazic@example.com",
+    "username": "lazytiger128",
+    "password": "bambi",
+    "invokedAt": "2024-01-07T12:41:36.427Z"
   }
 ]
