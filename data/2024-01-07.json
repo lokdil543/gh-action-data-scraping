@@ -526,5 +526,13 @@
     "username": "smallostrich345",
     "password": "express",
     "invokedAt": "2024-01-07T10:50:20.880Z"
+  },
+  {
+    "firstName": "Liliana",
+    "lastName": "Treviño",
+    "email": "liliana.trevino@example.com",
+    "username": "greendog244",
+    "password": "peyton",
+    "invokedAt": "2024-01-07T10:56:13.384Z"
   }
 ]
