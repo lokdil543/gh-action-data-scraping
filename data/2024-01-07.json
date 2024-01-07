@@ -542,5 +542,13 @@
     "username": "brownwolf101",
     "password": "trigger",
     "invokedAt": "2024-01-07T11:06:08.913Z"
+  },
+  {
+    "firstName": "Lenny",
+    "lastName": "Leroy",
+    "email": "lenny.leroy@example.com",
+    "username": "smallpanda807",
+    "password": "ludwig",
+    "invokedAt": "2024-01-07T11:16:22.764Z"
   }
 ]
