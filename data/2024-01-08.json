@@ -102,5 +102,13 @@
     "username": "happywolf236",
     "password": "shopping",
     "invokedAt": "2024-01-08T03:46:54.227Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Tremblay",
+    "email": "noah.tremblay@example.com",
+    "username": "redduck306",
+    "password": "oldone",
+    "invokedAt": "2024-01-08T03:52:50.174Z"
   }
 ]
