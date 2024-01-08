@@ -910,5 +910,13 @@
     "username": "heavybird329",
     "password": "addict",
     "invokedAt": "2024-01-08T18:34:39.489Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "King",
+    "email": "frank.king@example.com",
+    "username": "biggorilla164",
+    "password": "macman",
+    "invokedAt": "2024-01-08T18:40:45.237Z"
   }
 ]
