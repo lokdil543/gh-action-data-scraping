@@ -182,5 +182,13 @@
     "username": "bigleopard581",
     "password": "weather",
     "invokedAt": "2024-01-08T05:14:47.731Z"
+  },
+  {
+    "firstName": "Hudson",
+    "lastName": "Andersen",
+    "email": "hudson.andersen@example.com",
+    "username": "yellowbird979",
+    "password": "billyboy",
+    "invokedAt": "2024-01-08T05:27:25.461Z"
   }
 ]
