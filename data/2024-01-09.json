@@ -926,5 +926,13 @@
     "username": "redelephant130",
     "password": "daddy",
     "invokedAt": "2024-01-09T19:16:30.022Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Arendt",
+    "email": "mary.arendt@example.com",
+    "username": "crazyfish861",
+    "password": "hookem",
+    "invokedAt": "2024-01-09T19:22:33.219Z"
   }
 ]
