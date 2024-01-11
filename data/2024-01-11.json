@@ -294,5 +294,13 @@
     "username": "smallsnake400",
     "password": "harley",
     "invokedAt": "2024-01-11T07:17:33.254Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Carmona",
+    "email": "santiago.carmona@example.com",
+    "username": "greendog429",
+    "password": "dudley",
+    "invokedAt": "2024-01-11T07:23:18.896Z"
   }
 ]
