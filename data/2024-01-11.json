@@ -774,5 +774,13 @@
     "username": "sadcat112",
     "password": "doctor",
     "invokedAt": "2024-01-11T15:47:16.516Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Jones",
+    "email": "felix.jones@example.com",
+    "username": "redswan439",
+    "password": "sheba",
+    "invokedAt": "2024-01-11T15:52:52.486Z"
   }
 ]
