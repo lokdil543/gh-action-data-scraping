@@ -246,5 +246,13 @@
     "username": "goldenwolf608",
     "password": "pandora",
     "invokedAt": "2024-01-12T06:31:58.223Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Nielsen",
+    "email": "emma.nielsen@example.com",
+    "username": "bigfish216",
+    "password": "aaaa",
+    "invokedAt": "2024-01-12T06:40:00.660Z"
   }
 ]
