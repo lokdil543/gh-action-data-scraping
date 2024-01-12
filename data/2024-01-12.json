@@ -406,5 +406,13 @@
     "username": "lazybird838",
     "password": "blam",
     "invokedAt": "2024-01-12T09:12:03.098Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Olsen",
+    "email": "anna.olsen@example.com",
+    "username": "beautifulbird699",
+    "password": "classics",
+    "invokedAt": "2024-01-12T09:23:30.041Z"
   }
 ]
