@@ -790,5 +790,13 @@
     "username": "angrygoose285",
     "password": "project",
     "invokedAt": "2024-01-12T16:00:42.233Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Larsen",
+    "email": "emma.larsen@example.com",
+    "username": "orangekoala714",
+    "password": "ninja1",
+    "invokedAt": "2024-01-12T16:20:19.036Z"
   }
 ]
