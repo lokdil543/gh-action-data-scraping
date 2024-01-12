@@ -254,5 +254,13 @@
     "username": "bigfish216",
     "password": "aaaa",
     "invokedAt": "2024-01-12T06:40:00.660Z"
+  },
+  {
+    "firstName": "Bernabé",
+    "lastName": "Escalante",
+    "email": "bernabe.escalante@example.com",
+    "username": "happycat893",
+    "password": "foxtrot",
+    "invokedAt": "2024-01-12T06:45:54.845Z"
   }
 ]
