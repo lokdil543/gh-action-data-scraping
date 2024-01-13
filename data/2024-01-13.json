@@ -310,5 +310,13 @@
     "username": "silverdog442",
     "password": "skydive",
     "invokedAt": "2024-01-13T07:20:19.173Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Hansen",
+    "email": "norman.hansen@example.com",
+    "username": "angryduck588",
+    "password": "duane",
+    "invokedAt": "2024-01-13T07:26:15.014Z"
   }
 ]
