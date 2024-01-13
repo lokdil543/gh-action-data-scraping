@@ -566,5 +566,13 @@
     "username": "bigfish561",
     "password": "lori",
     "invokedAt": "2024-01-13T11:22:16.000Z"
+  },
+  {
+    "firstName": "Toby",
+    "lastName": "Li",
+    "email": "toby.li@example.com",
+    "username": "redpanda966",
+    "password": "toolbox",
+    "invokedAt": "2024-01-13T11:28:06.613Z"
   }
 ]
