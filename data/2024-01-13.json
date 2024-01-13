@@ -830,5 +830,13 @@
     "username": "orangemeercat812",
     "password": "theatre",
     "invokedAt": "2024-01-13T15:57:36.131Z"
+  },
+  {
+    "firstName": "Maxence",
+    "lastName": "Renard",
+    "email": "maxence.renard@example.com",
+    "username": "silverwolf456",
+    "password": "abc123",
+    "invokedAt": "2024-01-13T16:11:38.544Z"
   }
 ]
