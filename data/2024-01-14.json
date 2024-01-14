@@ -478,5 +478,13 @@
     "username": "browndog990",
     "password": "larry1",
     "invokedAt": "2024-01-14T09:58:52.790Z"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Kennedy",
+    "email": "bryan.kennedy@example.com",
+    "username": "crazyfish607",
+    "password": "scratch",
+    "invokedAt": "2024-01-14T10:12:13.259Z"
   }
 ]
