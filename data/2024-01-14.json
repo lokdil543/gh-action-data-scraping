@@ -206,5 +206,13 @@
     "username": "sadmeercat668",
     "password": "iscool",
     "invokedAt": "2024-01-14T05:41:50.298Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Burton",
+    "email": "bernard.burton@example.com",
+    "username": "ticklishgorilla644",
+    "password": "django",
+    "invokedAt": "2024-01-14T05:47:45.557Z"
   }
 ]
