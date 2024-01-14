@@ -638,5 +638,13 @@
     "username": "smallswan193",
     "password": "stoppedby",
     "invokedAt": "2024-01-14T13:06:15.290Z"
+  },
+  {
+    "firstName": "Myriam",
+    "lastName": "Lambert",
+    "email": "myriam.lambert@example.com",
+    "username": "organicfish164",
+    "password": "django",
+    "invokedAt": "2024-01-14T13:22:02.734Z"
   }
 ]
