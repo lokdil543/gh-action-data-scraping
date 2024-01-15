@@ -638,5 +638,13 @@
     "username": "heavyfrog295",
     "password": "henry",
     "invokedAt": "2024-01-15T13:58:57.998Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Waara",
+    "email": "vaino.waara@example.com",
+    "username": "smallzebra975",
+    "password": "zone",
+    "invokedAt": "2024-01-15T14:12:13.210Z"
   }
 ]
