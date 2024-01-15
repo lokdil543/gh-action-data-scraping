@@ -702,5 +702,13 @@
     "username": "ticklishbear212",
     "password": "thedude",
     "invokedAt": "2024-01-15T15:11:20.408Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Wong",
+    "email": "oliver.wong@example.com",
+    "username": "ticklishfrog775",
+    "password": "hendrix",
+    "invokedAt": "2024-01-15T15:23:42.274Z"
   }
 ]
