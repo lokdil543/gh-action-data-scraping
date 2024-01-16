@@ -702,5 +702,13 @@
     "username": "brownduck291",
     "password": "truck",
     "invokedAt": "2024-01-16T14:42:58.313Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Brown",
+    "email": "jade.brown@example.com",
+    "username": "bigsnake721",
+    "password": "spam",
+    "invokedAt": "2024-01-16T14:48:42.113Z"
   }
 ]
