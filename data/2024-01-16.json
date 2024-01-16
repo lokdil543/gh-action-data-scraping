@@ -366,5 +366,13 @@
     "username": "goldenzebra191",
     "password": "body",
     "invokedAt": "2024-01-16T08:30:24.935Z"
+  },
+  {
+    "firstName": "Betty",
+    "lastName": "Kramp",
+    "email": "betty.kramp@example.com",
+    "username": "greencat262",
+    "password": "friend",
+    "invokedAt": "2024-01-16T08:38:02.446Z"
   }
 ]
