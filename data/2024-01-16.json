@@ -246,5 +246,13 @@
     "username": "angrybear360",
     "password": "coach",
     "invokedAt": "2024-01-16T06:29:55.110Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Armstrong",
+    "email": "jane.armstrong@example.com",
+    "username": "bluedog526",
+    "password": "peace",
+    "invokedAt": "2024-01-16T06:38:02.232Z"
   }
 ]
