@@ -238,5 +238,13 @@
     "username": "tinybear678",
     "password": "picks",
     "invokedAt": "2024-01-16T06:14:53.034Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Arguello",
+    "email": "pablo.arguello@example.com",
+    "username": "angrybear360",
+    "password": "coach",
+    "invokedAt": "2024-01-16T06:29:55.110Z"
   }
 ]
