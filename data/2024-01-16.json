@@ -726,5 +726,13 @@
     "username": "crazyfish242",
     "password": "core",
     "invokedAt": "2024-01-16T15:00:15.995Z"
+  },
+  {
+    "firstName": "Indie",
+    "lastName": "Moore",
+    "email": "indie.moore@example.com",
+    "username": "tinycat437",
+    "password": "lamont",
+    "invokedAt": "2024-01-16T15:15:19.563Z"
   }
 ]
