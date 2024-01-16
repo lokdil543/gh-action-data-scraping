@@ -1166,5 +1166,13 @@
     "username": "happycat705",
     "password": "coors",
     "invokedAt": "2024-01-16T22:31:54.406Z"
+  },
+  {
+    "firstName": "Grete",
+    "lastName": "Liebmann",
+    "email": "grete.liebmann@example.com",
+    "username": "yellowbear110",
+    "password": "starwars",
+    "invokedAt": "2024-01-16T22:37:46.017Z"
   }
 ]
