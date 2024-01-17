@@ -222,5 +222,13 @@
     "username": "redcat467",
     "password": "codered",
     "invokedAt": "2024-01-17T05:54:00.234Z"
+  },
+  {
+    "firstName": "Marcel",
+    "lastName": "Olsson",
+    "email": "marcel.olsson@example.com",
+    "username": "blackpanda197",
+    "password": "clovis",
+    "invokedAt": "2024-01-17T05:59:48.953Z"
   }
 ]
