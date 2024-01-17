@@ -286,5 +286,13 @@
     "username": "crazyrabbit236",
     "password": "meow",
     "invokedAt": "2024-01-17T07:08:16.387Z"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Martin",
+    "email": "derrick.martin@example.com",
+    "username": "redsnake800",
+    "password": "clay",
+    "invokedAt": "2024-01-17T07:19:55.773Z"
   }
 ]
