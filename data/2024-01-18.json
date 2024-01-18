@@ -1214,5 +1214,13 @@
     "username": "whiteladybug256",
     "password": "longer",
     "invokedAt": "2024-01-18T23:21:02.307Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Wood",
+    "email": "dan.wood@example.com",
+    "username": "happymeercat405",
+    "password": "doggy",
+    "invokedAt": "2024-01-18T23:26:53.450Z"
   }
 ]
