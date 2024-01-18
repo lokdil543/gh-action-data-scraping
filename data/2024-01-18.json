@@ -302,5 +302,13 @@
     "username": "browntiger412",
     "password": "normal",
     "invokedAt": "2024-01-18T07:25:27.244Z"
+  },
+  {
+    "firstName": "Tanja",
+    "lastName": "Tomašević",
+    "email": "tanja.tomasevic@example.com",
+    "username": "yellowfrog814",
+    "password": "bananas",
+    "invokedAt": "2024-01-18T07:31:38.107Z"
   }
 ]
