@@ -750,5 +750,13 @@
     "username": "sadtiger945",
     "password": "california",
     "invokedAt": "2024-01-18T15:35:09.759Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Arias",
+    "email": "martin.arias@example.com",
+    "username": "brownzebra989",
+    "password": "scotty",
+    "invokedAt": "2024-01-18T15:40:56.903Z"
   }
 ]
