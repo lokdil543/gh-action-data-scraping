@@ -1022,5 +1022,13 @@
     "username": "purplelion924",
     "password": "compaq",
     "invokedAt": "2024-01-19T20:11:00.906Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Vrhovac",
+    "email": "gojko.vrhovac@example.com",
+    "username": "sadgorilla158",
+    "password": "paris",
+    "invokedAt": "2024-01-19T20:23:30.183Z"
   }
 ]
