@@ -374,5 +374,13 @@
     "username": "bigwolf237",
     "password": "hottest",
     "invokedAt": "2024-01-19T08:40:39.110Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Watson",
+    "email": "fred.watson@example.com",
+    "username": "blackleopard357",
+    "password": "celeb",
+    "invokedAt": "2024-01-19T08:46:37.441Z"
   }
 ]
