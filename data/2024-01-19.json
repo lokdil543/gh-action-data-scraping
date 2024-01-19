@@ -510,5 +510,13 @@
     "username": "heavybird818",
     "password": "353535",
     "invokedAt": "2024-01-19T10:55:50.183Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Lehtola",
+    "email": "daniel.lehtola@example.com",
+    "username": "tinysnake990",
+    "password": "picasso",
+    "invokedAt": "2024-01-19T11:06:04.576Z"
   }
 ]
