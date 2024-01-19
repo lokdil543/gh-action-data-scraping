@@ -630,5 +630,13 @@
     "username": "reddog581",
     "password": "fish",
     "invokedAt": "2024-01-19T13:33:35.524Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Annala",
+    "email": "vaino.annala@example.com",
+    "username": "tinymeercat397",
+    "password": "escape",
+    "invokedAt": "2024-01-19T13:39:26.722Z"
   }
 ]
