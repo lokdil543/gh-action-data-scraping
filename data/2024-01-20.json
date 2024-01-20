@@ -1254,5 +1254,13 @@
     "username": "brownlion714",
     "password": "fields",
     "invokedAt": "2024-01-20T22:50:00.489Z"
+  },
+  {
+    "firstName": "Edgar",
+    "lastName": "Aaslund",
+    "email": "edgar.aaslund@example.com",
+    "username": "happykoala111",
+    "password": "bowtie",
+    "invokedAt": "2024-01-20T22:56:04.410Z"
   }
 ]
