@@ -1262,5 +1262,13 @@
     "username": "happykoala111",
     "password": "bowtie",
     "invokedAt": "2024-01-20T22:56:04.410Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Larsen",
+    "email": "silas.larsen@example.com",
+    "username": "sadkoala768",
+    "password": "luck",
+    "invokedAt": "2024-01-20T23:08:21.734Z"
   }
 ]
