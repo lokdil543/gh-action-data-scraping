@@ -998,5 +998,13 @@
     "username": "crazycat234",
     "password": "footjob",
     "invokedAt": "2024-01-21T19:28:29.998Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Evans",
+    "email": "ruby.evans@example.com",
+    "username": "happyleopard345",
+    "password": "helene",
+    "invokedAt": "2024-01-21T19:34:36.057Z"
   }
 ]
