@@ -1190,5 +1190,13 @@
     "username": "browndog583",
     "password": "shock",
     "invokedAt": "2024-01-21T22:30:27.725Z"
+  },
+  {
+    "firstName": "Otmar",
+    "lastName": "Kober",
+    "email": "otmar.kober@example.com",
+    "username": "purpleostrich522",
+    "password": "secure",
+    "invokedAt": "2024-01-21T22:36:27.428Z"
   }
 ]
