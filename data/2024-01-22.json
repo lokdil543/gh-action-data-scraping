@@ -990,5 +990,13 @@
     "username": "purplecat665",
     "password": "doghouse",
     "invokedAt": "2024-01-22T20:25:26.219Z"
+  },
+  {
+    "firstName": "Bently",
+    "lastName": "Kowalski",
+    "email": "bently.kowalski@example.com",
+    "username": "lazygorilla204",
+    "password": "parrot",
+    "invokedAt": "2024-01-22T20:31:37.088Z"
   }
 ]
