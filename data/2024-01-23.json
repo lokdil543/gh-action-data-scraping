@@ -382,5 +382,13 @@
     "username": "smalltiger201",
     "password": "unique",
     "invokedAt": "2024-01-23T08:49:50.869Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Salmi",
+    "email": "joona.salmi@example.com",
+    "username": "beautifulsnake737",
+    "password": "nothing",
+    "invokedAt": "2024-01-23T08:55:40.860Z"
   }
 ]
