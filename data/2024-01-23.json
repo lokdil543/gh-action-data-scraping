@@ -374,5 +374,13 @@
     "username": "purplezebra988",
     "password": "ying",
     "invokedAt": "2024-01-23T08:43:55.285Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Blanco",
+    "email": "alvaro.blanco@example.com",
+    "username": "smalltiger201",
+    "password": "unique",
+    "invokedAt": "2024-01-23T08:49:50.869Z"
   }
 ]
