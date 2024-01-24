@@ -718,5 +718,13 @@
     "username": "goldenfrog609",
     "password": "masters",
     "invokedAt": "2024-01-24T15:13:39.680Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Sørensen",
+    "email": "tobias.sorensen@example.com",
+    "username": "tinydog181",
+    "password": "optimus",
+    "invokedAt": "2024-01-24T15:25:47.306Z"
   }
 ]
