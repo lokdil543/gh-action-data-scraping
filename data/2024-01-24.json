@@ -590,5 +590,13 @@
     "username": "purpleduck276",
     "password": "1227",
     "invokedAt": "2024-01-24T12:47:39.723Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Møller",
+    "email": "felix.moller@example.com",
+    "username": "silverostrich480",
+    "password": "ducks",
+    "invokedAt": "2024-01-24T13:01:05.661Z"
   }
 ]
