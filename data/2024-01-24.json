@@ -406,5 +406,13 @@
     "username": "goldenmouse856",
     "password": "highbury",
     "invokedAt": "2024-01-24T09:21:50.395Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Andersen",
+    "email": "jonas.andersen@example.com",
+    "username": "lazycat730",
+    "password": "gizmo1",
+    "invokedAt": "2024-01-24T09:27:48.440Z"
   }
 ]
