@@ -1278,5 +1278,13 @@
     "username": "purplegorilla585",
     "password": "django",
     "invokedAt": "2024-01-26T22:49:24.401Z"
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Alemán",
+    "email": "patricia.aleman@example.com",
+    "username": "ticklishpanda443",
+    "password": "warning",
+    "invokedAt": "2024-01-26T22:55:26.543Z"
   }
 ]
