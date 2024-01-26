@@ -1014,5 +1014,13 @@
     "username": "blueostrich888",
     "password": "office",
     "invokedAt": "2024-01-26T18:50:43.246Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Miller",
+    "email": "alice.miller@example.com",
+    "username": "crazygoose723",
+    "password": "fletcher",
+    "invokedAt": "2024-01-26T18:56:34.107Z"
   }
 ]
