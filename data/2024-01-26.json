@@ -1150,5 +1150,13 @@
     "username": "bluegoose459",
     "password": "kenworth",
     "invokedAt": "2024-01-26T20:50:22.665Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Fisher",
+    "email": "david.fisher@example.com",
+    "username": "yellowgorilla824",
+    "password": "iron",
+    "invokedAt": "2024-01-26T20:56:18.507Z"
   }
 ]
