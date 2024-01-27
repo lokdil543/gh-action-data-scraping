@@ -606,5 +606,13 @@
     "username": "bigtiger235",
     "password": "advance",
     "invokedAt": "2024-01-27T11:15:03.184Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Poulsen",
+    "email": "tristan.poulsen@example.com",
+    "username": "purplepanda697",
+    "password": "terminal",
+    "invokedAt": "2024-01-27T11:20:57.725Z"
   }
 ]
