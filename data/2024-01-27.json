@@ -1302,5 +1302,13 @@
     "username": "bluerabbit183",
     "password": "magic",
     "invokedAt": "2024-01-27T22:09:09.658Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Ramesh",
+    "email": "ryan.ramesh@example.com",
+    "username": "happyswan835",
+    "password": "wolfman",
+    "invokedAt": "2024-01-27T22:22:12.644Z"
   }
 ]
