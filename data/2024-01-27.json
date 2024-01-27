@@ -326,5 +326,13 @@
     "username": "silverbear188",
     "password": "zodiac",
     "invokedAt": "2024-01-27T06:55:17.212Z"
+  },
+  {
+    "firstName": "Thorbjørn",
+    "lastName": "Hellerud",
+    "email": "thorbjorn.hellerud@example.com",
+    "username": "brownswan732",
+    "password": "forever",
+    "invokedAt": "2024-01-27T07:05:25.672Z"
   }
 ]
