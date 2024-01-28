@@ -342,5 +342,13 @@
     "username": "blackbird104",
     "password": "reload",
     "invokedAt": "2024-01-28T07:22:46.333Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Wagner",
+    "email": "ian.wagner@example.com",
+    "username": "crazybutterfly502",
+    "password": "butter",
+    "invokedAt": "2024-01-28T07:28:46.824Z"
   }
 ]
