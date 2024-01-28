@@ -78,5 +78,13 @@
     "username": "silverpeacock125",
     "password": "656565",
     "invokedAt": "2024-01-28T03:06:41.601Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Walker",
+    "email": "hunter.walker@example.com",
+    "username": "blackbird767",
+    "password": "django",
+    "invokedAt": "2024-01-28T03:18:52.370Z"
   }
 ]
