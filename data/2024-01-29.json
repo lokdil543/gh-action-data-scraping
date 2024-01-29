@@ -766,5 +766,13 @@
     "username": "purpleswan251",
     "password": "allan",
     "invokedAt": "2024-01-29T14:36:33.594Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Le Gall",
+    "email": "martin.legall@example.com",
+    "username": "crazybird474",
+    "password": "swordfish",
+    "invokedAt": "2024-01-29T14:42:21.027Z"
   }
 ]
