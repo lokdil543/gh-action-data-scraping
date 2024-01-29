@@ -742,5 +742,13 @@
     "username": "redduck451",
     "password": "legacy",
     "invokedAt": "2024-01-29T14:12:39.262Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Moilanen",
+    "email": "joona.moilanen@example.com",
+    "username": "blackkoala139",
+    "password": "reckless",
+    "invokedAt": "2024-01-29T14:24:43.348Z"
   }
 ]
