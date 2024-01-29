@@ -550,5 +550,13 @@
     "username": "bigcat255",
     "password": "artist",
     "invokedAt": "2024-01-29T10:43:40.992Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Pierce",
+    "email": "dean.pierce@example.com",
+    "username": "crazytiger237",
+    "password": "sheba",
+    "invokedAt": "2024-01-29T10:49:48.418Z"
   }
 ]
