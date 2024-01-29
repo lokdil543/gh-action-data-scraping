@@ -982,5 +982,13 @@
     "username": "whiteswan286",
     "password": "plasma",
     "invokedAt": "2024-01-29T18:07:35.650Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Williams",
+    "email": "sam.williams@example.com",
+    "username": "greenelephant316",
+    "password": "anakin",
+    "invokedAt": "2024-01-29T18:23:58.066Z"
   }
 ]
