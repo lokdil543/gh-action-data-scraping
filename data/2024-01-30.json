@@ -438,5 +438,13 @@
     "username": "smallswan187",
     "password": "ericsson",
     "invokedAt": "2024-01-30T08:53:18.360Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Green",
+    "email": "max.green@example.com",
+    "username": "redzebra690",
+    "password": "filter",
+    "invokedAt": "2024-01-30T08:59:04.243Z"
   }
 ]
