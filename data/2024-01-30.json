@@ -590,5 +590,13 @@
     "username": "yellowswan495",
     "password": "secret",
     "invokedAt": "2024-01-30T11:23:18.527Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Chen",
+    "email": "nathan.chen@example.com",
+    "username": "goldengorilla577",
+    "password": "lamer",
+    "invokedAt": "2024-01-30T11:29:04.461Z"
   }
 ]
