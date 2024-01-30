@@ -190,5 +190,13 @@
     "username": "redmouse120",
     "password": "mary",
     "invokedAt": "2024-01-30T04:49:27.220Z"
+  },
+  {
+    "firstName": "Bobbie",
+    "lastName": "Day",
+    "email": "bobbie.day@example.com",
+    "username": "smallgoose739",
+    "password": "wrestling",
+    "invokedAt": "2024-01-30T04:55:34.284Z"
   }
 ]
