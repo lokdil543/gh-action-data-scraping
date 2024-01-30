@@ -390,5 +390,13 @@
     "username": "crazyduck787",
     "password": "chemical",
     "invokedAt": "2024-01-30T08:08:50.472Z"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Freeman",
+    "email": "patrick.freeman@example.com",
+    "username": "browndog396",
+    "password": "menace",
+    "invokedAt": "2024-01-30T08:23:34.987Z"
   }
 ]
