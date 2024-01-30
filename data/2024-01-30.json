@@ -1198,5 +1198,13 @@
     "username": "happydog384",
     "password": "abstr",
     "invokedAt": "2024-01-30T21:29:09.430Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Turner",
+    "email": "daniel.turner@example.com",
+    "username": "lazywolf309",
+    "password": "jose",
+    "invokedAt": "2024-01-30T21:35:15.218Z"
   }
 ]
