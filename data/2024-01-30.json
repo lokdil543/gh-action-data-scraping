@@ -286,5 +286,13 @@
     "username": "angrytiger472",
     "password": "hola",
     "invokedAt": "2024-01-30T06:34:17.807Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Reid",
+    "email": "philip.reid@example.com",
+    "username": "purpletiger215",
+    "password": "kittycat",
+    "invokedAt": "2024-01-30T06:40:06.668Z"
   }
 ]
