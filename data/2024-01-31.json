@@ -1006,5 +1006,13 @@
     "username": "blueleopard129",
     "password": "frogman",
     "invokedAt": "2024-01-31T18:11:25.437Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Guillaume",
+    "email": "david.guillaume@example.com",
+    "username": "redmouse118",
+    "password": "lord",
+    "invokedAt": "2024-01-31T18:20:55.295Z"
   }
 ]
