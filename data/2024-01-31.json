@@ -366,5 +366,13 @@
     "username": "bigbird491",
     "password": "brother",
     "invokedAt": "2024-01-31T07:41:29.800Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Watkins",
+    "email": "andy.watkins@example.com",
+    "username": "bigbird935",
+    "password": "tabitha",
+    "invokedAt": "2024-01-31T07:47:37.563Z"
   }
 ]
