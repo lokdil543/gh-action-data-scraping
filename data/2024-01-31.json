@@ -638,5 +638,13 @@
     "username": "purplemouse444",
     "password": "guido",
     "invokedAt": "2024-01-31T11:52:04.205Z"
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Montgomery",
+    "email": "jamie.montgomery@example.com",
+    "username": "saddog113",
+    "password": "joke",
+    "invokedAt": "2024-01-31T11:58:08.085Z"
   }
 ]
