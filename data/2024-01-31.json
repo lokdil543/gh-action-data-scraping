@@ -142,5 +142,13 @@
     "username": "browndog214",
     "password": "christine",
     "invokedAt": "2024-01-31T03:56:58.989Z"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Harper",
+    "email": "dana.harper@example.com",
+    "username": "angryfrog872",
+    "password": "remote",
+    "invokedAt": "2024-01-31T04:10:51.710Z"
   }
 ]
