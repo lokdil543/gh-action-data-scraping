@@ -486,5 +486,13 @@
     "username": "sadgoose406",
     "password": "torpedo",
     "invokedAt": "2024-02-01T09:55:27.368Z"
+  },
+  {
+    "firstName": "Glen",
+    "lastName": "Steward",
+    "email": "glen.steward@example.com",
+    "username": "crazybear174",
+    "password": "doofus",
+    "invokedAt": "2024-02-01T10:06:52.303Z"
   }
 ]
