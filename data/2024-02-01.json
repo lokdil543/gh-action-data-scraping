@@ -630,5 +630,13 @@
     "username": "lazygorilla121",
     "password": "free",
     "invokedAt": "2024-02-01T12:37:51.453Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Leclercq",
+    "email": "maxime.leclercq@example.com",
+    "username": "greensnake987",
+    "password": "clapton",
+    "invokedAt": "2024-02-01T12:51:27.893Z"
   }
 ]
