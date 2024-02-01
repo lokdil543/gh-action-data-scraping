@@ -342,5 +342,13 @@
     "username": "purplemouse915",
     "password": "spring",
     "invokedAt": "2024-02-01T07:39:01.718Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Faure",
+    "email": "michael.faure@example.com",
+    "username": "blackswan128",
+    "password": "larkin",
+    "invokedAt": "2024-02-01T07:45:06.143Z"
   }
 ]
