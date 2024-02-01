@@ -238,5 +238,13 @@
     "username": "redbear165",
     "password": "kenobi",
     "invokedAt": "2024-02-01T05:54:33.128Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Garrido",
+    "email": "mario.garrido@example.com",
+    "username": "yellowfish103",
+    "password": "promise",
+    "invokedAt": "2024-02-01T06:00:22.184Z"
   }
 ]
