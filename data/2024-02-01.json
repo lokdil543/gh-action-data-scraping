@@ -646,5 +646,13 @@
     "username": "silvermeercat643",
     "password": "metallica",
     "invokedAt": "2024-02-01T12:59:05.004Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Little",
+    "email": "charlie.little@example.com",
+    "username": "greentiger726",
+    "password": "tongue",
+    "invokedAt": "2024-02-01T13:13:01.888Z"
   }
 ]
