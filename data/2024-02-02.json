@@ -86,5 +86,13 @@
     "username": "goldenpeacock239",
     "password": "better",
     "invokedAt": "2024-02-02T03:15:05.301Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "Harper",
+    "email": "gene.harper@example.com",
+    "username": "whiteduck201",
+    "password": "polopolo",
+    "invokedAt": "2024-02-02T03:23:16.362Z"
   }
 ]
