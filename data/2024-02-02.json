@@ -1070,5 +1070,13 @@
     "username": "happyelephant262",
     "password": "dome",
     "invokedAt": "2024-02-02T19:29:59.724Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Gagnon",
+    "email": "simon.gagnon@example.com",
+    "username": "silverswan560",
+    "password": "answer",
+    "invokedAt": "2024-02-02T19:35:50.689Z"
   }
 ]
