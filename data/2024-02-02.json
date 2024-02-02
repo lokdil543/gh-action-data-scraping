@@ -806,5 +806,13 @@
     "username": "greentiger786",
     "password": "pingpong",
     "invokedAt": "2024-02-02T15:12:30.194Z"
+  },
+  {
+    "firstName": "Tanveer",
+    "lastName": "Shenoy",
+    "email": "tanveer.shenoy@example.com",
+    "username": "ticklishbear567",
+    "password": "hopper",
+    "invokedAt": "2024-02-02T15:22:05.340Z"
   }
 ]
