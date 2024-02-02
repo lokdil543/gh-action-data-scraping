@@ -526,5 +526,13 @@
     "username": "bigkoala103",
     "password": "nissan",
     "invokedAt": "2024-02-02T10:26:51.633Z"
+  },
+  {
+    "firstName": "Atanas",
+    "lastName": "Podolyak",
+    "email": "atanas.podolyak@example.com",
+    "username": "bluetiger405",
+    "password": "pharmacy",
+    "invokedAt": "2024-02-02T10:32:54.979Z"
   }
 ]
