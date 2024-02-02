@@ -662,5 +662,13 @@
     "username": "happypanda350",
     "password": "dima",
     "invokedAt": "2024-02-02T12:52:15.252Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Morin",
+    "email": "guillaume.morin@example.com",
+    "username": "happywolf614",
+    "password": "nitro",
+    "invokedAt": "2024-02-02T12:58:41.609Z"
   }
 ]
