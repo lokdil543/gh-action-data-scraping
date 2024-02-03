@@ -158,5 +158,13 @@
     "username": "bluebutterfly795",
     "password": "native",
     "invokedAt": "2024-02-03T04:24:55.132Z"
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "Perez",
+    "email": "mitchell.perez@example.com",
+    "username": "bigmouse394",
+    "password": "super",
+    "invokedAt": "2024-02-03T04:30:46.562Z"
   }
 ]
