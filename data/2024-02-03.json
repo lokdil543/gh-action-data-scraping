@@ -822,5 +822,13 @@
     "username": "lazytiger453",
     "password": "django",
     "invokedAt": "2024-02-03T14:56:01.422Z"
+  },
+  {
+    "firstName": "Ljubiša",
+    "lastName": "Karanović",
+    "email": "ljubisa.karanovic@example.com",
+    "username": "lazykoala913",
+    "password": "martinez",
+    "invokedAt": "2024-02-03T15:06:40.878Z"
   }
 ]
