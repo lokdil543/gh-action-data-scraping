@@ -814,5 +814,13 @@
     "username": "orangekoala973",
     "password": "valdepen",
     "invokedAt": "2024-02-03T14:50:01.219Z"
+  },
+  {
+    "firstName": "Craig",
+    "lastName": "Griffin",
+    "email": "craig.griffin@example.com",
+    "username": "lazytiger453",
+    "password": "django",
+    "invokedAt": "2024-02-03T14:56:01.422Z"
   }
 ]
