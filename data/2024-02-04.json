@@ -198,5 +198,13 @@
     "username": "happymouse154",
     "password": "change",
     "invokedAt": "2024-02-04T05:07:27.144Z"
+  },
+  {
+    "firstName": "Zara",
+    "lastName": "Warholm",
+    "email": "zara.warholm@example.com",
+    "username": "brownswan893",
+    "password": "temp123",
+    "invokedAt": "2024-02-04T05:21:44.030Z"
   }
 ]
