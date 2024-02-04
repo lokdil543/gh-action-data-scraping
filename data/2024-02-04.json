@@ -750,5 +750,13 @@
     "username": "brownbird891",
     "password": "1961",
     "invokedAt": "2024-02-04T14:05:55.497Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Lee",
+    "email": "adam.lee@example.com",
+    "username": "goldenbear559",
+    "password": "sapphire",
+    "invokedAt": "2024-02-04T14:18:03.518Z"
   }
 ]
