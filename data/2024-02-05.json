@@ -782,5 +782,13 @@
     "username": "orangegorilla395",
     "password": "amanda",
     "invokedAt": "2024-02-05T15:12:05.181Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Larsen",
+    "email": "anton.larsen@example.com",
+    "username": "purplecat535",
+    "password": "alive",
+    "invokedAt": "2024-02-05T15:21:44.727Z"
   }
 ]
