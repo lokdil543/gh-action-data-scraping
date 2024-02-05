@@ -654,5 +654,13 @@
     "username": "browndog151",
     "password": "qwert",
     "invokedAt": "2024-02-05T13:14:45.976Z"
+  },
+  {
+    "firstName": "Koray",
+    "lastName": "Atakol",
+    "email": "koray.atakol@example.com",
+    "username": "angrysnake272",
+    "password": "12341234",
+    "invokedAt": "2024-02-05T13:23:19.222Z"
   }
 ]
