@@ -1174,5 +1174,13 @@
     "username": "greenleopard461",
     "password": "toto",
     "invokedAt": "2024-02-06T20:51:50.073Z"
+  },
+  {
+    "firstName": "Pranit",
+    "lastName": "Kumar",
+    "email": "pranit.kumar@example.com",
+    "username": "lazyfrog431",
+    "password": "gateway",
+    "invokedAt": "2024-02-06T20:57:39.716Z"
   }
 ]
