@@ -990,5 +990,13 @@
     "username": "browntiger311",
     "password": "1235",
     "invokedAt": "2024-02-06T18:12:38.118Z"
+  },
+  {
+    "firstName": "Spike",
+    "lastName": "Van de Kant",
+    "email": "spike.vandekant@example.com",
+    "username": "angryrabbit482",
+    "password": "skibum",
+    "invokedAt": "2024-02-06T18:24:01.742Z"
   }
 ]
