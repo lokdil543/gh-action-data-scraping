@@ -638,5 +638,13 @@
     "username": "goldenfish910",
     "password": "dolly",
     "invokedAt": "2024-02-07T11:56:48.953Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Gardner",
+    "email": "matt.gardner@example.com",
+    "username": "smallrabbit514",
+    "password": "wrestler",
+    "invokedAt": "2024-02-07T12:14:49.706Z"
   }
 ]
