@@ -270,5 +270,13 @@
     "username": "whitebear543",
     "password": "hello2",
     "invokedAt": "2024-02-07T06:15:33.705Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Topaloğlu",
+    "email": "mustafa.topaloglu@example.com",
+    "username": "orangemeercat669",
+    "password": "james007",
+    "invokedAt": "2024-02-07T06:27:13.055Z"
   }
 ]
