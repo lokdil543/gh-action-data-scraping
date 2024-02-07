@@ -598,5 +598,13 @@
     "username": "orangepanda158",
     "password": "farm",
     "invokedAt": "2024-02-07T11:27:05.973Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Nielsen",
+    "email": "anton.nielsen@example.com",
+    "username": "happytiger972",
+    "password": "transam",
+    "invokedAt": "2024-02-07T11:32:58.195Z"
   }
 ]
