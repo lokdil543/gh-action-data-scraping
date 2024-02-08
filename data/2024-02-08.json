@@ -846,5 +846,13 @@
     "username": "goldenkoala886",
     "password": "passw0rd",
     "invokedAt": "2024-02-08T15:53:46.744Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Giraud",
+    "email": "valentin.giraud@example.com",
+    "username": "redpanda150",
+    "password": "pheonix",
+    "invokedAt": "2024-02-08T15:59:20.107Z"
   }
 ]
