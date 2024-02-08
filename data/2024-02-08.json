@@ -342,5 +342,13 @@
     "username": "brownfish321",
     "password": "1qwerty",
     "invokedAt": "2024-02-08T07:31:15.942Z"
+  },
+  {
+    "firstName": "Gabriele",
+    "lastName": "Veiby",
+    "email": "gabriele.veiby@example.com",
+    "username": "happyelephant217",
+    "password": "static",
+    "invokedAt": "2024-02-08T07:37:12.010Z"
   }
 ]
