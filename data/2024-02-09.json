@@ -718,5 +718,13 @@
     "username": "happyostrich342",
     "password": "sutton",
     "invokedAt": "2024-02-09T13:40:37.797Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Miller",
+    "email": "arnaud.miller@example.com",
+    "username": "blackduck812",
+    "password": "southpark",
+    "invokedAt": "2024-02-09T13:46:41.232Z"
   }
 ]
