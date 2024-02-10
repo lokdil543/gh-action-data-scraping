@@ -798,5 +798,13 @@
     "username": "greenzebra401",
     "password": "undertak",
     "invokedAt": "2024-02-10T14:38:32.900Z"
+  },
+  {
+    "firstName": "Izzie",
+    "lastName": "Carr",
+    "email": "izzie.carr@example.com",
+    "username": "goldendog361",
+    "password": "travis",
+    "invokedAt": "2024-02-10T14:44:25.276Z"
   }
 ]
