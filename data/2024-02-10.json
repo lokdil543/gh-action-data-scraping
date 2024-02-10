@@ -550,5 +550,13 @@
     "username": "silverfish630",
     "password": "battle",
     "invokedAt": "2024-02-10T10:28:16.988Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Lehtonen",
+    "email": "sara.lehtonen@example.com",
+    "username": "orangetiger729",
+    "password": "faster",
+    "invokedAt": "2024-02-10T10:34:31.571Z"
   }
 ]
