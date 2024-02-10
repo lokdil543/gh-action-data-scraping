@@ -1342,5 +1342,13 @@
     "username": "brownfish869",
     "password": "tsunami",
     "invokedAt": "2024-02-10T22:52:53.855Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Stephens",
+    "email": "dora.stephens@example.com",
+    "username": "redfrog456",
+    "password": "claude",
+    "invokedAt": "2024-02-10T22:58:41.244Z"
   }
 ]
