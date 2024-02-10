@@ -686,5 +686,13 @@
     "username": "goldenduck650",
     "password": "jiggaman",
     "invokedAt": "2024-02-10T12:48:59.637Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Meunier",
+    "email": "jane.meunier@example.com",
+    "username": "tinybird810",
+    "password": "remote",
+    "invokedAt": "2024-02-10T12:55:34.475Z"
   }
 ]
