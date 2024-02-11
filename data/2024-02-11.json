@@ -646,5 +646,13 @@
     "username": "sadelephant504",
     "password": "andrea1",
     "invokedAt": "2024-02-11T11:59:13.544Z"
+  },
+  {
+    "firstName": "Perica",
+    "lastName": "Ognjanović",
+    "email": "perica.ognjanovic@example.com",
+    "username": "lazyfish504",
+    "password": "info",
+    "invokedAt": "2024-02-11T12:20:26.221Z"
   }
 ]
