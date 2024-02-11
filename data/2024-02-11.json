@@ -286,5 +286,13 @@
     "username": "angrydog958",
     "password": "1957",
     "invokedAt": "2024-02-11T06:37:20.523Z"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Walters",
+    "email": "ian.walters@example.com",
+    "username": "happyelephant411",
+    "password": "armada",
+    "invokedAt": "2024-02-11T06:43:10.253Z"
   }
 ]
