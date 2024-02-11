@@ -1190,5 +1190,13 @@
     "username": "smalllion798",
     "password": "test1234",
     "invokedAt": "2024-02-11T20:59:21.244Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Nielsen",
+    "email": "astrid.nielsen@example.com",
+    "username": "whiteostrich932",
+    "password": "project",
+    "invokedAt": "2024-02-11T21:11:32.835Z"
   }
 ]
