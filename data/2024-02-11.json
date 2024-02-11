@@ -430,5 +430,13 @@
     "username": "silverdog365",
     "password": "ibanez",
     "invokedAt": "2024-02-11T08:48:25.733Z"
+  },
+  {
+    "firstName": "Mohamed",
+    "lastName": "Pérez",
+    "email": "mohamed.perez@example.com",
+    "username": "redostrich348",
+    "password": "gator",
+    "invokedAt": "2024-02-11T08:54:30.007Z"
   }
 ]
