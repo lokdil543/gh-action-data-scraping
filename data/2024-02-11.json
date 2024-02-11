@@ -478,5 +478,13 @@
     "username": "smallbird679",
     "password": "spectrum",
     "invokedAt": "2024-02-11T09:31:50.657Z"
+  },
+  {
+    "firstName": "Lutz",
+    "lastName": "Helmer",
+    "email": "lutz.helmer@example.com",
+    "username": "greenwolf100",
+    "password": "budlight",
+    "invokedAt": "2024-02-11T09:37:44.524Z"
   }
 ]
