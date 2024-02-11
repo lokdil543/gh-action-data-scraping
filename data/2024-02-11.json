@@ -142,5 +142,13 @@
     "username": "silverlion360",
     "password": "rotten",
     "invokedAt": "2024-02-11T04:11:42.905Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Griffin",
+    "email": "connor.griffin@example.com",
+    "username": "bluebird198",
+    "password": "virus",
+    "invokedAt": "2024-02-11T04:25:06.012Z"
   }
 ]
