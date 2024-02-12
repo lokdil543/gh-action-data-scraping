@@ -142,5 +142,13 @@
     "username": "bigpanda123",
     "password": "alice",
     "invokedAt": "2024-02-12T04:10:42.725Z"
+  },
+  {
+    "firstName": "Milla",
+    "lastName": "Waisanen",
+    "email": "milla.waisanen@example.com",
+    "username": "yellowrabbit644",
+    "password": "robot",
+    "invokedAt": "2024-02-12T04:24:52.846Z"
   }
 ]
