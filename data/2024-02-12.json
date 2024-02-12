@@ -134,5 +134,13 @@
     "username": "yellowfish177",
     "password": "redfox",
     "invokedAt": "2024-02-12T03:56:47.415Z"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Ramirez",
+    "email": "andrew.ramirez@example.com",
+    "username": "bigpanda123",
+    "password": "alice",
+    "invokedAt": "2024-02-12T04:10:42.725Z"
   }
 ]
