@@ -510,5 +510,13 @@
     "username": "bigfish217",
     "password": "gretzky",
     "invokedAt": "2024-02-12T10:15:09.858Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Christiansen",
+    "email": "sebastian.christiansen@example.com",
+    "username": "organicbutterfly684",
+    "password": "bruce",
+    "invokedAt": "2024-02-12T10:29:52.000Z"
   }
 ]
