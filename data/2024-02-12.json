@@ -422,5 +422,13 @@
     "username": "purplecat709",
     "password": "friendly",
     "invokedAt": "2024-02-12T08:46:03.081Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Côté",
+    "email": "william.cote@example.com",
+    "username": "bigrabbit138",
+    "password": "surfer",
+    "invokedAt": "2024-02-12T08:51:42.099Z"
   }
 ]
