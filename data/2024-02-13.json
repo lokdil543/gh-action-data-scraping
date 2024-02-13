@@ -486,5 +486,13 @@
     "username": "smalldog923",
     "password": "1991",
     "invokedAt": "2024-02-13T09:41:06.878Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Sørensen",
+    "email": "lea.sorensen@example.com",
+    "username": "heavydog921",
+    "password": "hate",
+    "invokedAt": "2024-02-13T09:47:03.877Z"
   }
 ]
