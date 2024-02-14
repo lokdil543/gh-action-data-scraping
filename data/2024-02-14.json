@@ -214,5 +214,13 @@
     "username": "purplelion332",
     "password": "primus",
     "invokedAt": "2024-02-14T05:25:30.586Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Núñez",
+    "email": "jose.nunez@example.com",
+    "username": "happywolf876",
+    "password": "django",
+    "invokedAt": "2024-02-14T05:31:38.662Z"
   }
 ]
