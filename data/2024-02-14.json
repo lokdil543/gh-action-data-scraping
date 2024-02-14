@@ -638,5 +638,13 @@
     "username": "silverfish894",
     "password": "242424",
     "invokedAt": "2024-02-14T12:36:30.662Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Mcguinness",
+    "email": "dean.mcguinness@example.com",
+    "username": "whitekoala881",
+    "password": "jingle",
+    "invokedAt": "2024-02-14T12:50:25.125Z"
   }
 ]
