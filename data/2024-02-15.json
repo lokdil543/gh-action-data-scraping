@@ -614,5 +614,13 @@
     "username": "goldendog523",
     "password": "anthony",
     "invokedAt": "2024-02-15T11:53:22.460Z"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Gómez",
+    "email": "joan.gomez@example.com",
+    "username": "bigtiger642",
+    "password": "forward",
+    "invokedAt": "2024-02-15T11:59:15.744Z"
   }
 ]
