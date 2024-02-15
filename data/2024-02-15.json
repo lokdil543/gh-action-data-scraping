@@ -1230,5 +1230,13 @@
     "username": "happydog392",
     "password": "rampage",
     "invokedAt": "2024-02-15T22:00:07.512Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Andersen",
+    "email": "anton.andersen@example.com",
+    "username": "organicpanda684",
+    "password": "2580",
+    "invokedAt": "2024-02-15T22:12:46.266Z"
   }
 ]
