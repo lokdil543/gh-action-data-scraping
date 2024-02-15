@@ -582,5 +582,13 @@
     "username": "blackgorilla538",
     "password": "181818",
     "invokedAt": "2024-02-15T11:29:23.368Z"
+  },
+  {
+    "firstName": "Yoram",
+    "lastName": "Van der Vegt",
+    "email": "yoram.vandervegt@example.com",
+    "username": "lazytiger725",
+    "password": "goalie",
+    "invokedAt": "2024-02-15T11:35:27.418Z"
   }
 ]
