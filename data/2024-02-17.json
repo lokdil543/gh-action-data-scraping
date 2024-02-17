@@ -1070,5 +1070,13 @@
     "username": "angrybird127",
     "password": "garage",
     "invokedAt": "2024-02-17T18:59:14.147Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Petersen",
+    "email": "simon.petersen@example.com",
+    "username": "ticklishbear206",
+    "password": "reds",
+    "invokedAt": "2024-02-17T19:09:57.641Z"
   }
 ]
