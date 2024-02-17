@@ -606,5 +606,13 @@
     "username": "bluekoala761",
     "password": "london",
     "invokedAt": "2024-02-17T11:21:29.847Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Pedersen",
+    "email": "gustav.pedersen@example.com",
+    "username": "browngorilla590",
+    "password": "vivid",
+    "invokedAt": "2024-02-17T11:27:15.360Z"
   }
 ]
