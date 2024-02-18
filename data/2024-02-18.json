@@ -526,5 +526,13 @@
     "username": "redfish393",
     "password": "cecile",
     "invokedAt": "2024-02-18T10:31:27.084Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Olsen",
+    "email": "sara.olsen@example.com",
+    "username": "goldensnake926",
+    "password": "4040",
+    "invokedAt": "2024-02-18T10:37:16.213Z"
   }
 ]
