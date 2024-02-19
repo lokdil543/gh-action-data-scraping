@@ -918,5 +918,13 @@
     "username": "tinybird282",
     "password": "packer",
     "invokedAt": "2024-02-19T17:37:58.355Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Kalinić",
+    "email": "maria.kalinic@example.com",
+    "username": "yellowdog192",
+    "password": "karate",
+    "invokedAt": "2024-02-19T17:43:56.993Z"
   }
 ]
