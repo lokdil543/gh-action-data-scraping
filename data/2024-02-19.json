@@ -118,5 +118,13 @@
     "username": "bluesnake194",
     "password": "someone",
     "invokedAt": "2024-02-19T03:46:25.087Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Wang",
+    "email": "caleb.wang@example.com",
+    "username": "brownwolf565",
+    "password": "testpass",
+    "invokedAt": "2024-02-19T03:52:27.541Z"
   }
 ]
