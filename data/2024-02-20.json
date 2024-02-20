@@ -726,5 +726,13 @@
     "username": "happyfrog938",
     "password": "1998",
     "invokedAt": "2024-02-20T14:11:53.819Z"
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Morel",
+    "email": "lukas.morel@example.com",
+    "username": "organicelephant888",
+    "password": "backbone",
+    "invokedAt": "2024-02-20T14:24:59.235Z"
   }
 ]
