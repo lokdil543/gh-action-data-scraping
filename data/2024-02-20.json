@@ -358,5 +358,13 @@
     "username": "angryduck270",
     "password": "pizza",
     "invokedAt": "2024-02-20T07:49:36.451Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Evans",
+    "email": "taylor.evans@example.com",
+    "username": "happygorilla412",
+    "password": "tarpon",
+    "invokedAt": "2024-02-20T07:55:38.642Z"
   }
 ]
