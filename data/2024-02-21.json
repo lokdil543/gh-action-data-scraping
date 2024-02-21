@@ -918,5 +918,13 @@
     "username": "heavyleopard708",
     "password": "dirtbike",
     "invokedAt": "2024-02-21T17:11:36.149Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Wang",
+    "email": "john.wang@example.com",
+    "username": "bigfish831",
+    "password": "cooler",
+    "invokedAt": "2024-02-21T17:26:59.987Z"
   }
 ]
