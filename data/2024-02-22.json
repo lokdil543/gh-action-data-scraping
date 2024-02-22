@@ -550,5 +550,13 @@
     "username": "happygoose355",
     "password": "darkstar",
     "invokedAt": "2024-02-22T10:45:01.296Z"
+  },
+  {
+    "firstName": "Olaf",
+    "lastName": "Sæterbø",
+    "email": "olaf.saeterbo@example.com",
+    "username": "brownduck943",
+    "password": "dotcom",
+    "invokedAt": "2024-02-22T10:50:45.023Z"
   }
 ]
