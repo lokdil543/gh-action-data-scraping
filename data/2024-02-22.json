@@ -1174,5 +1174,13 @@
     "username": "sadladybug710",
     "password": "scott",
     "invokedAt": "2024-02-22T21:07:58.616Z"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Clarke",
+    "email": "matt.clarke@example.com",
+    "username": "redwolf598",
+    "password": "auto",
+    "invokedAt": "2024-02-22T21:17:46.837Z"
   }
 ]
