@@ -742,5 +742,13 @@
     "username": "lazyzebra975",
     "password": "garage",
     "invokedAt": "2024-02-22T14:14:23.368Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "David",
+    "email": "adam.david@example.com",
+    "username": "heavytiger441",
+    "password": "phrases",
+    "invokedAt": "2024-02-22T14:27:41.944Z"
   }
 ]
