@@ -838,5 +838,13 @@
     "username": "tinypeacock351",
     "password": "12345a",
     "invokedAt": "2024-02-22T15:45:30.142Z"
+  },
+  {
+    "firstName": "Ricardo",
+    "lastName": "Luna",
+    "email": "ricardo.luna@example.com",
+    "username": "blueostrich531",
+    "password": "bigone",
+    "invokedAt": "2024-02-22T15:51:21.228Z"
   }
 ]
