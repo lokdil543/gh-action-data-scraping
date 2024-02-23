@@ -910,5 +910,13 @@
     "username": "angrypanda234",
     "password": "earth",
     "invokedAt": "2024-02-23T17:09:59.335Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Gunnarsen",
+    "email": "lucas.gunnarsen@example.com",
+    "username": "yellowwolf862",
+    "password": "farm",
+    "invokedAt": "2024-02-23T17:24:22.419Z"
   }
 ]
