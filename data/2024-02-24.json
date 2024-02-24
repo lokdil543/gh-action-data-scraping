@@ -590,5 +590,13 @@
     "username": "sadrabbit232",
     "password": "imperial",
     "invokedAt": "2024-02-24T11:21:53.899Z"
+  },
+  {
+    "firstName": "Gerónimo",
+    "lastName": "Monroy",
+    "email": "geronimo.monroy@example.com",
+    "username": "yellowzebra265",
+    "password": "testpass",
+    "invokedAt": "2024-02-24T11:27:48.230Z"
   }
 ]
