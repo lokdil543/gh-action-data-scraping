@@ -1238,5 +1238,13 @@
     "username": "blackcat231",
     "password": "three",
     "invokedAt": "2024-02-24T21:43:45.474Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Niskanen",
+    "email": "minttu.niskanen@example.com",
+    "username": "silvercat109",
+    "password": "gopher",
+    "invokedAt": "2024-02-24T21:49:37.069Z"
   }
 ]
