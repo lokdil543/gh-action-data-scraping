@@ -166,5 +166,13 @@
     "username": "smallpanda872",
     "password": "lkjhgfds",
     "invokedAt": "2024-02-24T04:26:31.080Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Selle",
+    "email": "diego.selle@example.com",
+    "username": "blackrabbit609",
+    "password": "nopass",
+    "invokedAt": "2024-02-24T04:32:47.325Z"
   }
 ]
