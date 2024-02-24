@@ -1150,5 +1150,13 @@
     "username": "blackkoala819",
     "password": "walmart",
     "invokedAt": "2024-02-24T20:31:07.302Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Johnson",
+    "email": "andy.johnson@example.com",
+    "username": "greenfrog289",
+    "password": "windows1",
+    "invokedAt": "2024-02-24T20:37:16.504Z"
   }
 ]
