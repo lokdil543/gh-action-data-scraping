@@ -1262,5 +1262,13 @@
     "username": "silverfish613",
     "password": "bicycle",
     "invokedAt": "2024-02-24T22:06:30.632Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Gagnon",
+    "email": "hunter.gagnon@example.com",
+    "username": "tinyfrog707",
+    "password": "katrina",
+    "invokedAt": "2024-02-24T22:20:20.343Z"
   }
 ]
