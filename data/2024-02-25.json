@@ -646,5 +646,13 @@
     "username": "sadfish399",
     "password": "bigone",
     "invokedAt": "2024-02-25T12:22:35.360Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Laine",
+    "email": "vaino.laine@example.com",
+    "username": "silverpeacock346",
+    "password": "carbon",
+    "invokedAt": "2024-02-25T12:40:04.350Z"
   }
 ]
