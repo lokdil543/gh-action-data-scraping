@@ -486,5 +486,13 @@
     "username": "happymouse401",
     "password": "hidden",
     "invokedAt": "2024-02-25T09:47:26.706Z"
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Jevtić",
+    "email": "vera.jevtic@example.com",
+    "username": "angrymouse357",
+    "password": "snuffy",
+    "invokedAt": "2024-02-25T09:53:23.652Z"
   }
 ]
