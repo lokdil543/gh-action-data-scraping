@@ -1030,5 +1030,13 @@
     "username": "bluelion260",
     "password": "fish",
     "invokedAt": "2024-02-25T18:44:41.277Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Seppala",
+    "email": "joona.seppala@example.com",
+    "username": "sadpanda213",
+    "password": "manila",
+    "invokedAt": "2024-02-25T18:50:42.674Z"
   }
 ]
