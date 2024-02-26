@@ -286,5 +286,13 @@
     "username": "brownfish146",
     "password": "jeep",
     "invokedAt": "2024-02-26T06:45:31.257Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Mortensen",
+    "email": "adam.mortensen@example.com",
+    "username": "greenbear956",
+    "password": "bowser",
+    "invokedAt": "2024-02-26T06:51:23.513Z"
   }
 ]
