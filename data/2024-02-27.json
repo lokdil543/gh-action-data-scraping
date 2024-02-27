@@ -414,5 +414,13 @@
     "username": "smallpanda878",
     "password": "2345",
     "invokedAt": "2024-02-27T08:36:49.635Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Peña",
+    "email": "jose.pena@example.com",
+    "username": "goldenelephant113",
+    "password": "soleil",
+    "invokedAt": "2024-02-27T08:42:40.407Z"
   }
 ]
