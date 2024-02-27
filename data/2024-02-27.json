@@ -286,5 +286,13 @@
     "username": "angryfrog399",
     "password": "caravan",
     "invokedAt": "2024-02-27T06:33:19.883Z"
+  },
+  {
+    "firstName": "Janko",
+    "lastName": "Blažić",
+    "email": "janko.blazic@example.com",
+    "username": "smallfrog887",
+    "password": "stang",
+    "invokedAt": "2024-02-27T06:39:26.122Z"
   }
 ]
