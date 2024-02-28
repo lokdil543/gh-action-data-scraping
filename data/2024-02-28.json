@@ -326,5 +326,13 @@
     "username": "tinyfish268",
     "password": "barley",
     "invokedAt": "2024-02-28T07:11:44.069Z"
+  },
+  {
+    "firstName": "Filippa",
+    "lastName": "Pedersen",
+    "email": "filippa.pedersen@example.com",
+    "username": "bluefrog867",
+    "password": "snowboard",
+    "invokedAt": "2024-02-28T07:19:09.423Z"
   }
 ]
