@@ -1326,5 +1326,13 @@
     "username": "bigduck107",
     "password": "turnip",
     "invokedAt": "2024-02-28T23:39:33.787Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Mason",
+    "email": "zachary.mason@example.com",
+    "username": "goldensnake221",
+    "password": "metallic",
+    "invokedAt": "2024-02-28T23:45:16.735Z"
   }
 ]
