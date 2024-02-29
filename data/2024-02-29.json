@@ -398,5 +398,13 @@
     "username": "smallrabbit805",
     "password": "america1",
     "invokedAt": "2024-02-29T08:29:32.305Z"
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Anderson",
+    "email": "douglas.anderson@example.com",
+    "username": "heavyrabbit753",
+    "password": "chat",
+    "invokedAt": "2024-02-29T08:35:28.634Z"
   }
 ]
