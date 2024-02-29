@@ -814,5 +814,13 @@
     "username": "bigbird257",
     "password": "amelia",
     "invokedAt": "2024-02-29T15:50:02.524Z"
+  },
+  {
+    "firstName": "Roland",
+    "lastName": "Wood",
+    "email": "roland.wood@example.com",
+    "username": "sadlion694",
+    "password": "bing",
+    "invokedAt": "2024-02-29T15:55:59.762Z"
   }
 ]
