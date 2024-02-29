@@ -486,5 +486,13 @@
     "username": "greenlion468",
     "password": "february",
     "invokedAt": "2024-02-29T09:46:32.422Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Olsen",
+    "email": "jonas.olsen@example.com",
+    "username": "bigzebra626",
+    "password": "wrestling",
+    "invokedAt": "2024-02-29T09:52:23.291Z"
   }
 ]
