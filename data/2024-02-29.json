@@ -70,5 +70,13 @@
     "username": "bigdog828",
     "password": "mexico",
     "invokedAt": "2024-02-29T02:53:44.760Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Martin",
+    "email": "luis.martin@example.com",
+    "username": "greendog643",
+    "password": "blazer",
+    "invokedAt": "2024-02-29T02:59:33.081Z"
   }
 ]
