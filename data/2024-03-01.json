@@ -950,5 +950,13 @@
     "username": "organicbird475",
     "password": "monte",
     "invokedAt": "2024-03-01T18:30:36.419Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Spencer",
+    "email": "tony.spencer@example.com",
+    "username": "angryfish275",
+    "password": "fergus",
+    "invokedAt": "2024-03-01T18:36:39.766Z"
   }
 ]
