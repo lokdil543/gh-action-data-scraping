@@ -366,5 +366,13 @@
     "username": "sadostrich238",
     "password": "wildcard",
     "invokedAt": "2024-03-01T08:16:10.858Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Saarinen",
+    "email": "peppi.saarinen@example.com",
+    "username": "yellowlion415",
+    "password": "bessie",
+    "invokedAt": "2024-03-01T08:27:15.330Z"
   }
 ]
