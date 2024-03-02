@@ -998,5 +998,13 @@
     "username": "crazylion495",
     "password": "0123456",
     "invokedAt": "2024-03-02T17:47:35.648Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Barrett",
+    "email": "leo.barrett@example.com",
+    "username": "purpleladybug173",
+    "password": "test1234",
+    "invokedAt": "2024-03-02T17:53:39.171Z"
   }
 ]
