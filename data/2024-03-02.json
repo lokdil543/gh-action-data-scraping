@@ -798,5 +798,13 @@
     "username": "angrydog147",
     "password": "vedder",
     "invokedAt": "2024-03-02T14:38:38.727Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Fox",
+    "email": "bob.fox@example.com",
+    "username": "tinypanda702",
+    "password": "citadel",
+    "invokedAt": "2024-03-02T14:44:42.032Z"
   }
 ]
