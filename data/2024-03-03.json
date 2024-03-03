@@ -158,5 +158,13 @@
     "username": "purplesnake410",
     "password": "420000",
     "invokedAt": "2024-03-03T04:31:10.255Z"
+  },
+  {
+    "firstName": "Natascha",
+    "lastName": "Faber",
+    "email": "natascha.faber@example.com",
+    "username": "yellowsnake104",
+    "password": "tennis",
+    "invokedAt": "2024-03-03T04:37:29.231Z"
   }
 ]
