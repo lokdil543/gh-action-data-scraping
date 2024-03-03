@@ -470,5 +470,13 @@
     "username": "yellowswan137",
     "password": "parola",
     "invokedAt": "2024-03-03T09:30:29.707Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Girard",
+    "email": "antoine.girard@example.com",
+    "username": "brownbear357",
+    "password": "puppies",
+    "invokedAt": "2024-03-03T09:37:39.458Z"
   }
 ]
