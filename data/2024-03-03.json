@@ -430,5 +430,13 @@
     "username": "orangeostrich626",
     "password": "abcde",
     "invokedAt": "2024-03-03T08:49:41.717Z"
+  },
+  {
+    "firstName": "Noel",
+    "lastName": "Bilstad",
+    "email": "noel.bilstad@example.com",
+    "username": "browngorilla213",
+    "password": "reader",
+    "invokedAt": "2024-03-03T08:55:30.054Z"
   }
 ]
