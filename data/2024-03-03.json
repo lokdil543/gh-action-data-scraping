@@ -678,5 +678,13 @@
     "username": "tinymeercat168",
     "password": "camden",
     "invokedAt": "2024-03-03T13:14:45.971Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Walker",
+    "email": "matthew.walker@example.com",
+    "username": "angryfish343",
+    "password": "kungfu",
+    "invokedAt": "2024-03-03T13:21:51.099Z"
   }
 ]
