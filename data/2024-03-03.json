@@ -870,5 +870,13 @@
     "username": "bigbutterfly329",
     "password": "punkrock",
     "invokedAt": "2024-03-03T16:06:59.842Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Snyder",
+    "email": "carl.snyder@example.com",
+    "username": "heavydog571",
+    "password": "pluto",
+    "invokedAt": "2024-03-03T16:23:12.211Z"
   }
 ]
