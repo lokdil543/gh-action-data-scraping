@@ -382,5 +382,13 @@
     "username": "beautifulduck434",
     "password": "intruder",
     "invokedAt": "2024-03-04T17:26:25.180Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Niemi",
+    "email": "niklas.niemi@example.com",
+    "username": "lazyfrog989",
+    "password": "damon",
+    "invokedAt": "2024-03-04T17:32:36.085Z"
   }
 ]
