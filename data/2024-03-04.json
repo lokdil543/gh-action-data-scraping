@@ -190,5 +190,13 @@
     "username": "happycat300",
     "password": "989898",
     "invokedAt": "2024-03-04T14:00:09.242Z"
+  },
+  {
+    "firstName": "Stephanie",
+    "lastName": "Thomas",
+    "email": "stephanie.thomas@example.com",
+    "username": "bigzebra887",
+    "password": "printing",
+    "invokedAt": "2024-03-04T14:12:48.667Z"
   }
 ]
