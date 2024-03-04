@@ -334,5 +334,13 @@
     "username": "silvergorilla849",
     "password": "bigfish",
     "invokedAt": "2024-03-04T16:32:29.448Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Wilson",
+    "email": "marcus.wilson@example.com",
+    "username": "redbutterfly460",
+    "password": "rrpass1",
+    "invokedAt": "2024-03-04T16:39:59.314Z"
   }
 ]
