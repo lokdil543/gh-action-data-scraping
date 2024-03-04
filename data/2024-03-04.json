@@ -486,5 +486,13 @@
     "username": "whitepeacock202",
     "password": "bobafett",
     "invokedAt": "2024-03-04T19:14:45.712Z"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Stone",
+    "email": "willie.stone@example.com",
+    "username": "blackpanda552",
+    "password": "boeing",
+    "invokedAt": "2024-03-04T19:20:43.288Z"
   }
 ]
