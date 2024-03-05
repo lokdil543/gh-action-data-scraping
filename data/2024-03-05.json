@@ -806,5 +806,13 @@
     "username": "sadcat494",
     "password": "shazam",
     "invokedAt": "2024-03-05T15:28:30.423Z"
+  },
+  {
+    "firstName": "Annabelle",
+    "lastName": "Wong",
+    "email": "annabelle.wong@example.com",
+    "username": "sadfish975",
+    "password": "jazz",
+    "invokedAt": "2024-03-05T15:35:00.555Z"
   }
 ]
