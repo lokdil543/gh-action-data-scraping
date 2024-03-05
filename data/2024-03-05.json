@@ -1222,5 +1222,13 @@
     "username": "goldenmouse865",
     "password": "shop",
     "invokedAt": "2024-03-05T21:55:26.030Z"
+  },
+  {
+    "firstName": "Enzo",
+    "lastName": "Meunier",
+    "email": "enzo.meunier@example.com",
+    "username": "brownmouse414",
+    "password": "carnival",
+    "invokedAt": "2024-03-05T22:05:04.661Z"
   }
 ]
