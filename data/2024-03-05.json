@@ -566,5 +566,13 @@
     "username": "tinyduck298",
     "password": "merlot",
     "invokedAt": "2024-03-05T11:11:12.355Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Larsen",
+    "email": "mikkel.larsen@example.com",
+    "username": "sadduck965",
+    "password": "elliott",
+    "invokedAt": "2024-03-05T11:19:24.851Z"
   }
 ]
