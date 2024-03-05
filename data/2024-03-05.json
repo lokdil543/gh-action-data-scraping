@@ -542,5 +542,13 @@
     "username": "whitefish600",
     "password": "0007",
     "invokedAt": "2024-03-05T10:46:48.769Z"
+  },
+  {
+    "firstName": "Felipe",
+    "lastName": "Soler",
+    "email": "felipe.soler@example.com",
+    "username": "goldentiger972",
+    "password": "elmo",
+    "invokedAt": "2024-03-05T10:52:39.247Z"
   }
 ]
