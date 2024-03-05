@@ -118,5 +118,13 @@
     "username": "happytiger810",
     "password": "admin",
     "invokedAt": "2024-03-05T03:42:46.012Z"
+  },
+  {
+    "firstName": "Ilan",
+    "lastName": "Picard",
+    "email": "ilan.picard@example.com",
+    "username": "blackladybug586",
+    "password": "obsidian",
+    "invokedAt": "2024-03-05T03:48:48.205Z"
   }
 ]
