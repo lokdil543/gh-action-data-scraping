@@ -726,5 +726,13 @@
     "username": "purplecat714",
     "password": "staples",
     "invokedAt": "2024-03-06T14:01:03.648Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Madsen",
+    "email": "mathias.madsen@example.com",
+    "username": "ticklishwolf500",
+    "password": "sheldon",
+    "invokedAt": "2024-03-06T14:13:31.265Z"
   }
 ]
