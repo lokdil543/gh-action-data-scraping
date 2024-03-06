@@ -478,5 +478,13 @@
     "username": "redbear881",
     "password": "linkin",
     "invokedAt": "2024-03-06T09:40:40.372Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Rousseau",
+    "email": "arnold.rousseau@example.com",
+    "username": "sadbear663",
+    "password": "sleepy",
+    "invokedAt": "2024-03-06T09:46:36.020Z"
   }
 ]
