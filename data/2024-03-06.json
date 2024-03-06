@@ -662,5 +662,13 @@
     "username": "bigelephant554",
     "password": "customer",
     "invokedAt": "2024-03-06T13:02:33.434Z"
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "López",
+    "email": "aurora.lopez@example.com",
+    "username": "smallbutterfly192",
+    "password": "help",
+    "invokedAt": "2024-03-06T13:19:02.250Z"
   }
 ]
