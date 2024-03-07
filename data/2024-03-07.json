@@ -494,5 +494,13 @@
     "username": "bluemouse206",
     "password": "killers",
     "invokedAt": "2024-03-07T08:56:15.859Z"
+  },
+  {
+    "firstName": "Leroy",
+    "lastName": "Reed",
+    "email": "leroy.reed@example.com",
+    "username": "blackzebra252",
+    "password": "flint",
+    "invokedAt": "2024-03-07T09:06:30.533Z"
   }
 ]
