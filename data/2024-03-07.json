@@ -1374,5 +1374,13 @@
     "username": "blackbear651",
     "password": "johndoe",
     "invokedAt": "2024-03-07T23:18:28.046Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Živanović",
+    "email": "marko.zivanovic@example.com",
+    "username": "redelephant681",
+    "password": "smiths",
+    "invokedAt": "2024-03-07T23:26:23.139Z"
   }
 ]
