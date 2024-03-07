@@ -422,5 +422,13 @@
     "username": "redkoala104",
     "password": "stonecol",
     "invokedAt": "2024-03-07T07:51:12.516Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Hansen",
+    "email": "jacob.hansen@example.com",
+    "username": "redkoala238",
+    "password": "camel",
+    "invokedAt": "2024-03-07T07:56:54.535Z"
   }
 ]
