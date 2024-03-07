@@ -166,5 +166,13 @@
     "username": "purplerabbit299",
     "password": "mets",
     "invokedAt": "2024-03-07T03:52:43.811Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Lewis",
+    "email": "henry.lewis@example.com",
+    "username": "yellowfish559",
+    "password": "meow",
+    "invokedAt": "2024-03-07T03:58:26.548Z"
   }
 ]
