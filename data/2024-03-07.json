@@ -478,5 +478,13 @@
     "username": "happyduck384",
     "password": "cheshire",
     "invokedAt": "2024-03-07T08:44:20.445Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Vasquez",
+    "email": "steven.vasquez@example.com",
+    "username": "crazytiger675",
+    "password": "foxy",
+    "invokedAt": "2024-03-07T08:50:23.318Z"
   }
 ]
