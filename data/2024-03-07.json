@@ -950,5 +950,13 @@
     "username": "whitefrog246",
     "password": "challeng",
     "invokedAt": "2024-03-07T16:36:20.708Z"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Grant",
+    "email": "kyle.grant@example.com",
+    "username": "blackwolf556",
+    "password": "chair",
+    "invokedAt": "2024-03-07T16:42:13.669Z"
   }
 ]
