@@ -646,5 +646,13 @@
     "username": "heavyduck778",
     "password": "jarhead",
     "invokedAt": "2024-03-07T11:18:17.623Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Larsen",
+    "email": "mads.larsen@example.com",
+    "username": "yellowleopard327",
+    "password": "douglas",
+    "invokedAt": "2024-03-07T11:24:11.331Z"
   }
 ]
