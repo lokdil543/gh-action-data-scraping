@@ -462,5 +462,13 @@
     "username": "redpanda902",
     "password": "trustme",
     "invokedAt": "2024-03-08T09:39:18.312Z"
+  },
+  {
+    "firstName": "Floyd",
+    "lastName": "Wright",
+    "email": "floyd.wright@example.com",
+    "username": "redgoose410",
+    "password": "mustard",
+    "invokedAt": "2024-03-08T09:45:20.670Z"
   }
 ]
