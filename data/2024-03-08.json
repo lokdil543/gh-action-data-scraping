@@ -526,5 +526,13 @@
     "username": "goldentiger936",
     "password": "bottle",
     "invokedAt": "2024-03-08T10:48:22.293Z"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Marshall",
+    "email": "russell.marshall@example.com",
+    "username": "crazyfish926",
+    "password": "aardvark",
+    "invokedAt": "2024-03-08T10:54:25.253Z"
   }
 ]
