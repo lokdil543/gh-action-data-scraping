@@ -870,5 +870,13 @@
     "username": "bigdog441",
     "password": "latino",
     "invokedAt": "2024-03-08T16:44:12.353Z"
+  },
+  {
+    "firstName": "Sabine",
+    "lastName": "Andre",
+    "email": "sabine.andre@example.com",
+    "username": "greendog292",
+    "password": "betsy",
+    "invokedAt": "2024-03-08T16:50:17.306Z"
   }
 ]
