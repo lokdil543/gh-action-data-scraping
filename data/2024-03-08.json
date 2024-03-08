@@ -990,5 +990,13 @@
     "username": "lazyleopard156",
     "password": "looker",
     "invokedAt": "2024-03-08T18:44:03.236Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Andersen",
+    "email": "jonathan.andersen@example.com",
+    "username": "redbird128",
+    "password": "captain",
+    "invokedAt": "2024-03-08T18:50:15.013Z"
   }
 ]
