@@ -998,5 +998,13 @@
     "username": "redbird128",
     "password": "captain",
     "invokedAt": "2024-03-08T18:50:15.013Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Mortensen",
+    "email": "jeppe.mortensen@example.com",
+    "username": "redbird689",
+    "password": "ghost",
+    "invokedAt": "2024-03-08T18:56:00.394Z"
   }
 ]
