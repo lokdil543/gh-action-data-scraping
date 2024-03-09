@@ -262,5 +262,13 @@
     "username": "sadbird640",
     "password": "jesse",
     "invokedAt": "2024-03-09T06:08:39.124Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Berger",
+    "email": "joshua.berger@example.com",
+    "username": "lazybird337",
+    "password": "dandan",
+    "invokedAt": "2024-03-09T06:26:16.320Z"
   }
 ]
