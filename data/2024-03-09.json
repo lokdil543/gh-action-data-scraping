@@ -462,5 +462,13 @@
     "username": "orangepanda709",
     "password": "dirty1",
     "invokedAt": "2024-03-09T09:27:56.697Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Clarke",
+    "email": "harry.clarke@example.com",
+    "username": "crazyzebra343",
+    "password": "jing",
+    "invokedAt": "2024-03-09T09:35:08.226Z"
   }
 ]
