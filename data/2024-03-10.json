@@ -878,5 +878,13 @@
     "username": "happybird530",
     "password": "cookie1",
     "invokedAt": "2024-03-10T16:23:37.012Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Zhang",
+    "email": "matthew.zhang@example.com",
+    "username": "lazyswan335",
+    "password": "belmont",
+    "invokedAt": "2024-03-10T16:31:38.795Z"
   }
 ]
