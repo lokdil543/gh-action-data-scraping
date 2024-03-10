@@ -174,5 +174,13 @@
     "username": "tinyfrog681",
     "password": "changeme",
     "invokedAt": "2024-03-10T04:50:11.567Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Ryan",
+    "email": "oscar.ryan@example.com",
+    "username": "happypanda262",
+    "password": "coolguy",
+    "invokedAt": "2024-03-10T04:56:12.401Z"
   }
 ]
