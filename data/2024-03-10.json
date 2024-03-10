@@ -726,5 +726,13 @@
     "username": "ticklishdog134",
     "password": "a12345",
     "invokedAt": "2024-03-10T13:53:32.359Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Young",
+    "email": "felix.young@example.com",
+    "username": "blackwolf458",
+    "password": "100000",
+    "invokedAt": "2024-03-10T13:59:11.609Z"
   }
 ]
