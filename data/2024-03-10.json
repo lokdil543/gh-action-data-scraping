@@ -198,5 +198,13 @@
     "username": "yellowdog314",
     "password": "iceberg",
     "invokedAt": "2024-03-10T05:22:26.340Z"
+  },
+  {
+    "firstName": "Ann",
+    "lastName": "Ruß",
+    "email": "ann.russ@example.com",
+    "username": "greenfrog471",
+    "password": "smokes",
+    "invokedAt": "2024-03-10T05:28:35.638Z"
   }
 ]
