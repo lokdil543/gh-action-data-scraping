@@ -110,5 +110,13 @@
     "username": "tinywolf264",
     "password": "tempest",
     "invokedAt": "2024-03-11T03:45:11.393Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Christensen",
+    "email": "sebastian.christensen@example.com",
+    "username": "browncat722",
+    "password": "pudding",
+    "invokedAt": "2024-03-11T03:50:51.057Z"
   }
 ]
