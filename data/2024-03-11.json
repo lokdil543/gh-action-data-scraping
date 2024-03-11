@@ -286,5 +286,13 @@
     "username": "smallfish264",
     "password": "yummy",
     "invokedAt": "2024-03-11T06:54:17.824Z"
+  },
+  {
+    "firstName": "Filipe",
+    "lastName": "Faure",
+    "email": "filipe.faure@example.com",
+    "username": "purplefish713",
+    "password": "bronze",
+    "invokedAt": "2024-03-11T07:00:04.690Z"
   }
 ]
