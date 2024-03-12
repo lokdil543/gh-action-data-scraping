@@ -1078,5 +1078,13 @@
     "username": "browncat343",
     "password": "pinball",
     "invokedAt": "2024-03-12T19:55:26.551Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Banks",
+    "email": "don.banks@example.com",
+    "username": "yellowduck794",
+    "password": "seadog",
+    "invokedAt": "2024-03-12T20:06:57.258Z"
   }
 ]
