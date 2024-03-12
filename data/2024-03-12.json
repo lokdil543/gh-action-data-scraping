@@ -1070,5 +1070,13 @@
     "username": "heavybear552",
     "password": "woohoo",
     "invokedAt": "2024-03-12T19:49:26.570Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Sørensen",
+    "email": "mathias.sorensen@example.com",
+    "username": "browncat343",
+    "password": "pinball",
+    "invokedAt": "2024-03-12T19:55:26.551Z"
   }
 ]
