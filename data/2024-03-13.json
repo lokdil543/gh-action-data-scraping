@@ -750,5 +750,13 @@
     "username": "brownostrich140",
     "password": "kittens",
     "invokedAt": "2024-03-13T14:46:30.441Z"
+  },
+  {
+    "firstName": "Becky",
+    "lastName": "Graves",
+    "email": "becky.graves@example.com",
+    "username": "beautifuldog335",
+    "password": "kicker",
+    "invokedAt": "2024-03-13T14:52:25.345Z"
   }
 ]
