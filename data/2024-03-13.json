@@ -918,5 +918,13 @@
     "username": "whitedog645",
     "password": "sawyer",
     "invokedAt": "2024-03-13T17:35:59.742Z"
+  },
+  {
+    "firstName": "Aatu",
+    "lastName": "Toivonen",
+    "email": "aatu.toivonen@example.com",
+    "username": "blacktiger320",
+    "password": "coldbeer",
+    "invokedAt": "2024-03-13T17:41:52.392Z"
   }
 ]
