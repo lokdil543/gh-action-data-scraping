@@ -710,5 +710,13 @@
     "username": "smalldog473",
     "password": "microsof",
     "invokedAt": "2024-03-13T14:07:40.460Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Hansen",
+    "email": "mads.hansen@example.com",
+    "username": "beautifulzebra163",
+    "password": "howdy",
+    "invokedAt": "2024-03-13T14:21:41.260Z"
   }
 ]
