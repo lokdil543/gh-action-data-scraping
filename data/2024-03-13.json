@@ -622,5 +622,13 @@
     "username": "bigfrog123",
     "password": "inside",
     "invokedAt": "2024-03-13T12:25:50.917Z"
+  },
+  {
+    "firstName": "Lumi",
+    "lastName": "Lehtonen",
+    "email": "lumi.lehtonen@example.com",
+    "username": "blacklion686",
+    "password": "colin",
+    "invokedAt": "2024-03-13T12:44:43.850Z"
   }
 ]
