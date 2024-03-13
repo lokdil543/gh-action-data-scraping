@@ -998,5 +998,13 @@
     "username": "lazyzebra639",
     "password": "pavlov",
     "invokedAt": "2024-03-13T18:51:04.982Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Miller",
+    "email": "john.miller@example.com",
+    "username": "bigostrich676",
+    "password": "peters",
+    "invokedAt": "2024-03-13T18:56:59.340Z"
   }
 ]
