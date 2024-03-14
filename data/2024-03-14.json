@@ -502,5 +502,13 @@
     "username": "greenmeercat567",
     "password": "012345",
     "invokedAt": "2024-03-14T10:07:47.865Z"
+  },
+  {
+    "firstName": "Ruby",
+    "lastName": "Walker",
+    "email": "ruby.walker@example.com",
+    "username": "happyswan957",
+    "password": "gamecube",
+    "invokedAt": "2024-03-14T10:24:09.363Z"
   }
 ]
