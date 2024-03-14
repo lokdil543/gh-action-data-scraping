@@ -1134,5 +1134,13 @@
     "username": "bigrabbit119",
     "password": "funtime",
     "invokedAt": "2024-03-14T20:59:17.474Z"
+  },
+  {
+    "firstName": "Léo",
+    "lastName": "Legrand",
+    "email": "leo.legrand@example.com",
+    "username": "smallmeercat481",
+    "password": "hidden",
+    "invokedAt": "2024-03-14T21:11:48.515Z"
   }
 ]
