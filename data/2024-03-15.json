@@ -1158,5 +1158,13 @@
     "username": "happydog325",
     "password": "airbus",
     "invokedAt": "2024-03-15T21:10:47.501Z"
+  },
+  {
+    "firstName": "Marie-Anne",
+    "lastName": "Elgersma",
+    "email": "marie-anne.elgersma@example.com",
+    "username": "bluemouse496",
+    "password": "temppass",
+    "invokedAt": "2024-03-15T21:18:26.794Z"
   }
 ]
