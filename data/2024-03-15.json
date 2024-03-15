@@ -454,5 +454,13 @@
     "username": "happypeacock400",
     "password": "spartan",
     "invokedAt": "2024-03-15T09:33:07.398Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Williams",
+    "email": "dean.williams@example.com",
+    "username": "bluedog384",
+    "password": "block",
+    "invokedAt": "2024-03-15T09:38:54.426Z"
   }
 ]
