@@ -822,5 +822,13 @@
     "username": "yellowswan350",
     "password": "asimov",
     "invokedAt": "2024-03-15T15:42:41.121Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Da Silva",
+    "email": "luis.dasilva@example.com",
+    "username": "yellowlion484",
+    "password": "123789",
+    "invokedAt": "2024-03-15T15:48:29.465Z"
   }
 ]
