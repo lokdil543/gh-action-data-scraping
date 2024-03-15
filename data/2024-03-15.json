@@ -1110,5 +1110,13 @@
     "username": "smallmouse742",
     "password": "area51",
     "invokedAt": "2024-03-15T20:30:00.410Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Andersen",
+    "email": "charlie.andersen@example.com",
+    "username": "lazyfrog967",
+    "password": "trace",
+    "invokedAt": "2024-03-15T20:35:51.919Z"
   }
 ]
