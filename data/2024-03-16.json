@@ -582,5 +582,13 @@
     "username": "happyfrog672",
     "password": "monroe",
     "invokedAt": "2024-03-16T11:06:50.799Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Smith",
+    "email": "camille.smith@example.com",
+    "username": "heavyduck316",
+    "password": "shadow",
+    "invokedAt": "2024-03-16T11:14:56.318Z"
   }
 ]
