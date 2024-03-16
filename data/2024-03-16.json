@@ -1006,5 +1006,13 @@
     "username": "angrygoose630",
     "password": "chinook",
     "invokedAt": "2024-03-16T18:13:04.596Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Johnson",
+    "email": "daniel.johnson@example.com",
+    "username": "lazypeacock778",
+    "password": "gregor",
+    "invokedAt": "2024-03-16T18:28:04.343Z"
   }
 ]
