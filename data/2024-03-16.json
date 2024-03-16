@@ -790,5 +790,13 @@
     "username": "bigdog739",
     "password": "sublime",
     "invokedAt": "2024-03-16T14:44:23.333Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Sims",
+    "email": "sam.sims@example.com",
+    "username": "smalldog236",
+    "password": "xiang",
+    "invokedAt": "2024-03-16T14:50:15.669Z"
   }
 ]
