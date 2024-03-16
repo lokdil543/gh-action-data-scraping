@@ -286,5 +286,13 @@
     "username": "sadzebra380",
     "password": "errors",
     "invokedAt": "2024-03-16T06:35:49.542Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Sørensen",
+    "email": "emil.sorensen@example.com",
+    "username": "biggoose313",
+    "password": "blues",
+    "invokedAt": "2024-03-16T06:41:38.571Z"
   }
 ]
