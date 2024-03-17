@@ -286,5 +286,13 @@
     "username": "happybear153",
     "password": "dodge",
     "invokedAt": "2024-03-17T06:39:41.892Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Rasmussen",
+    "email": "sander.rasmussen@example.com",
+    "username": "lazylion977",
+    "password": "piglet",
+    "invokedAt": "2024-03-17T06:45:18.441Z"
   }
 ]
