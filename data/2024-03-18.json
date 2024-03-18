@@ -278,5 +278,13 @@
     "username": "blueelephant206",
     "password": "hello123",
     "invokedAt": "2024-03-18T06:34:51.977Z"
+  },
+  {
+    "firstName": "Slađana",
+    "lastName": "Kitić",
+    "email": "sladana.kitic@example.com",
+    "username": "orangeduck132",
+    "password": "socks",
+    "invokedAt": "2024-03-18T06:40:36.466Z"
   }
 ]
