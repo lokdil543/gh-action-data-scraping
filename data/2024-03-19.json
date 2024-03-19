@@ -526,5 +526,13 @@
     "username": "happypeacock234",
     "password": "space",
     "invokedAt": "2024-03-19T10:30:16.796Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Hale",
+    "email": "eva.hale@example.com",
+    "username": "bigkoala776",
+    "password": "wildone",
+    "invokedAt": "2024-03-19T10:36:15.483Z"
   }
 ]
