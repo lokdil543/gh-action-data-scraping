@@ -262,5 +262,13 @@
     "username": "bluepanda665",
     "password": "lenny",
     "invokedAt": "2024-03-19T06:07:25.417Z"
+  },
+  {
+    "firstName": "Sue",
+    "lastName": "White",
+    "email": "sue.white@example.com",
+    "username": "crazygorilla375",
+    "password": "entropy",
+    "invokedAt": "2024-03-19T06:24:37.202Z"
   }
 ]
