@@ -1286,5 +1286,13 @@
     "username": "bigbutterfly666",
     "password": "joebob",
     "invokedAt": "2024-03-19T22:52:36.773Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Ross",
+    "email": "fred.ross@example.com",
+    "username": "bluebutterfly990",
+    "password": "poker",
+    "invokedAt": "2024-03-19T22:58:33.852Z"
   }
 ]
