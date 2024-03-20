@@ -966,5 +966,13 @@
     "username": "purplecat493",
     "password": "harvard",
     "invokedAt": "2024-03-20T18:27:14.272Z"
+  },
+  {
+    "firstName": "Héctor",
+    "lastName": "Blanco",
+    "email": "hector.blanco@example.com",
+    "username": "reddog485",
+    "password": "tito",
+    "invokedAt": "2024-03-20T18:34:24.921Z"
   }
 ]
