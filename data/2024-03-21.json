@@ -934,5 +934,13 @@
     "username": "happyfrog119",
     "password": "streaming",
     "invokedAt": "2024-03-21T17:50:42.508Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Mesa",
+    "email": "andres.mesa@example.com",
+    "username": "angryzebra124",
+    "password": "phrases",
+    "invokedAt": "2024-03-21T17:56:40.693Z"
   }
 ]
