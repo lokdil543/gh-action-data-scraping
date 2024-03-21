@@ -310,5 +310,13 @@
     "username": "blackbird119",
     "password": "hattrick",
     "invokedAt": "2024-03-21T07:13:04.194Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Bowman",
+    "email": "bruce.bowman@example.com",
+    "username": "purpletiger538",
+    "password": "redbaron",
+    "invokedAt": "2024-03-21T07:20:20.348Z"
   }
 ]
