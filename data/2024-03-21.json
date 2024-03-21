@@ -526,5 +526,13 @@
     "username": "redduck981",
     "password": "stop",
     "invokedAt": "2024-03-21T10:37:17.115Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Martin",
+    "email": "jean.martin@example.com",
+    "username": "redcat106",
+    "password": "slater",
+    "invokedAt": "2024-03-21T10:43:25.454Z"
   }
 ]
