@@ -926,5 +926,13 @@
     "username": "purpleduck735",
     "password": "azerty",
     "invokedAt": "2024-03-21T17:44:47.155Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wainio",
+    "email": "daniel.wainio@example.com",
+    "username": "happyfrog119",
+    "password": "streaming",
+    "invokedAt": "2024-03-21T17:50:42.508Z"
   }
 ]
