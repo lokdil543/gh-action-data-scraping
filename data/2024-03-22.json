@@ -214,5 +214,13 @@
     "username": "redelephant386",
     "password": "feet",
     "invokedAt": "2024-03-22T05:25:04.040Z"
+  },
+  {
+    "firstName": "Gene",
+    "lastName": "Burns",
+    "email": "gene.burns@example.com",
+    "username": "greensnake381",
+    "password": "spotty",
+    "invokedAt": "2024-03-22T05:32:23.066Z"
   }
 ]
