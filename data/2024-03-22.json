@@ -342,5 +342,13 @@
     "username": "goldencat319",
     "password": "studio",
     "invokedAt": "2024-03-22T07:30:00.458Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Hill",
+    "email": "sophie.hill@example.com",
+    "username": "happyfish219",
+    "password": "viper1",
+    "invokedAt": "2024-03-22T07:35:54.102Z"
   }
 ]
