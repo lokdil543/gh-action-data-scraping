@@ -542,5 +542,13 @@
     "username": "whitedog227",
     "password": "tree",
     "invokedAt": "2024-03-23T10:41:08.389Z"
+  },
+  {
+    "firstName": "Alban",
+    "lastName": "Renard",
+    "email": "alban.renard@example.com",
+    "username": "happyfish780",
+    "password": "surprise",
+    "invokedAt": "2024-03-23T10:47:07.697Z"
   }
 ]
