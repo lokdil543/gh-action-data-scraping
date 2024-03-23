@@ -790,5 +790,13 @@
     "username": "happypanda281",
     "password": "qazwsxed",
     "invokedAt": "2024-03-23T14:49:55.220Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Zhang",
+    "email": "emma.zhang@example.com",
+    "username": "goldenbear273",
+    "password": "eggman",
+    "invokedAt": "2024-03-23T14:55:53.668Z"
   }
 ]
