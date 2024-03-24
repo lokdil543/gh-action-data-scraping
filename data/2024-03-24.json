@@ -390,5 +390,13 @@
     "username": "reddog326",
     "password": "charles1",
     "invokedAt": "2024-03-24T08:25:45.157Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Pearson",
+    "email": "terry.pearson@example.com",
+    "username": "tinykoala601",
+    "password": "sigmar",
+    "invokedAt": "2024-03-24T08:31:40.482Z"
   }
 ]
