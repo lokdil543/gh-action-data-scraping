@@ -598,5 +598,13 @@
     "username": "crazycat257",
     "password": "soccer10",
     "invokedAt": "2024-03-24T11:34:28.541Z"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Hoeks",
+    "email": "nicole.hoeks@example.com",
+    "username": "bigdog554",
+    "password": "rodman",
+    "invokedAt": "2024-03-24T11:40:20.716Z"
   }
 ]
