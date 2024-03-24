@@ -734,5 +734,13 @@
     "username": "greendog391",
     "password": "usnavy",
     "invokedAt": "2024-03-24T14:11:23.693Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Olsen",
+    "email": "magnus.olsen@example.com",
+    "username": "bigsnake342",
+    "password": "killkill",
+    "invokedAt": "2024-03-24T14:22:53.763Z"
   }
 ]
