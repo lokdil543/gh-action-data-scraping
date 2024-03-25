@@ -782,5 +782,13 @@
     "username": "brownelephant193",
     "password": "trooper",
     "invokedAt": "2024-03-25T15:22:56.657Z"
+  },
+  {
+    "firstName": "Paige",
+    "lastName": "Henderson",
+    "email": "paige.henderson@example.com",
+    "username": "whiteduck250",
+    "password": "snowball",
+    "invokedAt": "2024-03-25T15:28:36.001Z"
   }
 ]
