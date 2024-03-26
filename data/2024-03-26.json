@@ -318,5 +318,13 @@
     "username": "redmeercat185",
     "password": "1968",
     "invokedAt": "2024-03-26T07:11:14.167Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Fuller",
+    "email": "john.fuller@example.com",
+    "username": "bigfrog275",
+    "password": "clutch",
+    "invokedAt": "2024-03-26T07:18:58.649Z"
   }
 ]
