@@ -254,5 +254,13 @@
     "username": "happyelephant757",
     "password": "test1",
     "invokedAt": "2024-03-26T05:55:41.908Z"
+  },
+  {
+    "firstName": "Signe",
+    "lastName": "Johansen",
+    "email": "signe.johansen@example.com",
+    "username": "happywolf271",
+    "password": "skywalke",
+    "invokedAt": "2024-03-26T06:10:00.839Z"
   }
 ]
