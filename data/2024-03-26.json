@@ -566,5 +566,13 @@
     "username": "beautifulelephant319",
     "password": "visa",
     "invokedAt": "2024-03-26T11:26:10.218Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Duncan",
+    "email": "bob.duncan@example.com",
+    "username": "heavybutterfly222",
+    "password": "wordup",
+    "invokedAt": "2024-03-26T11:32:14.561Z"
   }
 ]
