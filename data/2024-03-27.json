@@ -774,5 +774,13 @@
     "username": "redfrog373",
     "password": "poncho",
     "invokedAt": "2024-03-27T15:13:18.316Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Evans",
+    "email": "joshua.evans@example.com",
+    "username": "redcat793",
+    "password": "cigars",
+    "invokedAt": "2024-03-27T15:23:31.013Z"
   }
 ]
