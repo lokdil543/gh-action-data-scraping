@@ -582,5 +582,13 @@
     "username": "sadwolf380",
     "password": "limewire",
     "invokedAt": "2024-03-27T11:35:34.151Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Andersen",
+    "email": "adam.andersen@example.com",
+    "username": "happyfish824",
+    "password": "sixpack",
+    "invokedAt": "2024-03-27T11:40:48.948Z"
   }
 ]
