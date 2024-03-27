@@ -590,5 +590,13 @@
     "username": "happyfish824",
     "password": "sixpack",
     "invokedAt": "2024-03-27T11:40:48.948Z"
+  },
+  {
+    "firstName": "Vojin",
+    "lastName": "Ivić",
+    "email": "vojin.ivic@example.com",
+    "username": "sadcat604",
+    "password": "today",
+    "invokedAt": "2024-03-27T11:46:47.223Z"
   }
 ]
