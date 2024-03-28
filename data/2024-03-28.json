@@ -310,5 +310,13 @@
     "username": "bigwolf464",
     "password": "dentist",
     "invokedAt": "2024-03-28T07:10:15.696Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "King",
+    "email": "oscar.king@example.com",
+    "username": "angrycat318",
+    "password": "claude",
+    "invokedAt": "2024-03-28T07:18:37.914Z"
   }
 ]
