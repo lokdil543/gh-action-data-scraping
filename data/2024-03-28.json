@@ -198,5 +198,13 @@
     "username": "purplepeacock193",
     "password": "target",
     "invokedAt": "2024-03-28T05:16:11.395Z"
+  },
+  {
+    "firstName": "Toni",
+    "lastName": "Hart",
+    "email": "toni.hart@example.com",
+    "username": "heavypeacock900",
+    "password": "security",
+    "invokedAt": "2024-03-28T05:28:47.247Z"
   }
 ]
