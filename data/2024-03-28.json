@@ -54,5 +54,13 @@
     "username": "sadkoala209",
     "password": "qwerty7",
     "invokedAt": "2024-03-28T02:49:22.348Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Salminen",
+    "email": "niklas.salminen@example.com",
+    "username": "lazymeercat848",
+    "password": "contains",
+    "invokedAt": "2024-03-28T02:55:23.130Z"
   }
 ]
