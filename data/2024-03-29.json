@@ -606,5 +606,13 @@
     "username": "crazyfrog481",
     "password": "lakers",
     "invokedAt": "2024-03-29T11:43:01.504Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Hakola",
+    "email": "toivo.hakola@example.com",
+    "username": "greenfrog460",
+    "password": "1231",
+    "invokedAt": "2024-03-29T11:49:04.603Z"
   }
 ]
