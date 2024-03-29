@@ -1230,5 +1230,13 @@
     "username": "bigduck962",
     "password": "elmo",
     "invokedAt": "2024-03-29T22:04:45.272Z"
+  },
+  {
+    "firstName": "Abigail",
+    "lastName": "Macdonald",
+    "email": "abigail.macdonald@example.com",
+    "username": "orangeostrich748",
+    "password": "treefrog",
+    "invokedAt": "2024-03-29T22:19:33.088Z"
   }
 ]
