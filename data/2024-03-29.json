@@ -1206,5 +1206,13 @@
     "username": "lazytiger377",
     "password": "1994",
     "invokedAt": "2024-03-29T21:43:33.261Z"
+  },
+  {
+    "firstName": "Rick",
+    "lastName": "Brown",
+    "email": "rick.brown@example.com",
+    "username": "greenzebra200",
+    "password": "linkin",
+    "invokedAt": "2024-03-29T21:49:32.787Z"
   }
 ]
