@@ -606,5 +606,13 @@
     "username": "crazybird401",
     "password": "danni",
     "invokedAt": "2024-03-30T11:35:53.629Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Milovanović",
+    "email": "gojko.milovanovic@example.com",
+    "username": "brownfish221",
+    "password": "starcraft",
+    "invokedAt": "2024-03-30T11:41:43.555Z"
   }
 ]
