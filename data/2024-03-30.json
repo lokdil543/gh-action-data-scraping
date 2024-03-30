@@ -150,5 +150,13 @@
     "username": "greenlion318",
     "password": "rugby1",
     "invokedAt": "2024-03-30T04:22:44.548Z"
+  },
+  {
+    "firstName": "Jurn",
+    "lastName": "De Boon",
+    "email": "jurn.deboon@example.com",
+    "username": "crazyfrog183",
+    "password": "poopy",
+    "invokedAt": "2024-03-30T04:30:00.299Z"
   }
 ]
