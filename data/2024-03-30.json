@@ -990,5 +990,13 @@
     "username": "bigbear455",
     "password": "000000",
     "invokedAt": "2024-03-30T18:07:24.346Z"
+  },
+  {
+    "firstName": "Peyton",
+    "lastName": "Evans",
+    "email": "peyton.evans@example.com",
+    "username": "happywolf113",
+    "password": "force",
+    "invokedAt": "2024-03-30T18:24:28.587Z"
   }
 ]
