@@ -182,5 +182,13 @@
     "username": "whiteduck809",
     "password": "report",
     "invokedAt": "2024-03-30T04:47:33.820Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Nielsen",
+    "email": "philip.nielsen@example.com",
+    "username": "redmouse182",
+    "password": "fabian",
+    "invokedAt": "2024-03-30T04:53:44.793Z"
   }
 ]
