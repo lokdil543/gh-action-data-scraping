@@ -638,5 +638,13 @@
     "username": "silvergorilla644",
     "password": "paradigm",
     "invokedAt": "2024-03-30T11:59:22.200Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Novak",
+    "email": "thomas.novak@example.com",
+    "username": "smallduck508",
+    "password": "skiing",
+    "invokedAt": "2024-03-30T12:21:04.574Z"
   }
 ]
