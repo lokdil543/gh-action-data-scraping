@@ -142,5 +142,13 @@
     "username": "crazyfish392",
     "password": "enforcer",
     "invokedAt": "2024-03-31T04:29:12.141Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Frazier",
+    "email": "ryan.frazier@example.com",
+    "username": "bigwolf162",
+    "password": "leader",
+    "invokedAt": "2024-03-31T04:35:54.164Z"
   }
 ]
