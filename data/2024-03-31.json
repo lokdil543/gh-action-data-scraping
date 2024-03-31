@@ -758,5 +758,13 @@
     "username": "orangedog541",
     "password": "1226",
     "invokedAt": "2024-03-31T14:38:47.372Z"
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Hodakovskiy",
+    "email": "bogdan.hodakovskiy@example.com",
+    "username": "crazyduck165",
+    "password": "timeout",
+    "invokedAt": "2024-03-31T14:44:31.329Z"
   }
 ]
