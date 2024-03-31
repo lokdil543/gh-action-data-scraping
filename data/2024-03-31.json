@@ -1342,5 +1342,13 @@
     "username": "biggorilla234",
     "password": "mouse1",
     "invokedAt": "2024-03-31T23:43:00.148Z"
+  },
+  {
+    "firstName": "Same",
+    "lastName": "Armstrong",
+    "email": "same.armstrong@example.com",
+    "username": "bigfish748",
+    "password": "baltimor",
+    "invokedAt": "2024-03-31T23:48:52.394Z"
   }
 ]
