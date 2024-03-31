@@ -798,5 +798,13 @@
     "username": "happybear931",
     "password": "major",
     "invokedAt": "2024-03-31T15:19:24.940Z"
+  },
+  {
+    "firstName": "Léon",
+    "lastName": "Bernard",
+    "email": "leon.bernard@example.com",
+    "username": "smallcat292",
+    "password": "dabears",
+    "invokedAt": "2024-03-31T15:25:08.182Z"
   }
 ]
