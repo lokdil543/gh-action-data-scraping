@@ -582,5 +582,13 @@
     "username": "silverkoala520",
     "password": "jimmy",
     "invokedAt": "2024-04-01T11:54:44.287Z"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Olson",
+    "email": "seth.olson@example.com",
+    "username": "smallfish716",
+    "password": "plumber",
+    "invokedAt": "2024-04-01T12:10:38.558Z"
   }
 ]
