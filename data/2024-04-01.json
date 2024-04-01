@@ -166,5 +166,13 @@
     "username": "purpleleopard650",
     "password": "passwort",
     "invokedAt": "2024-04-01T04:52:33.482Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Lahti",
+    "email": "jimi.lahti@example.com",
+    "username": "tinydog415",
+    "password": "dinner",
+    "invokedAt": "2024-04-01T04:58:30.209Z"
   }
 ]
