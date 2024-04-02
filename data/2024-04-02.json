@@ -1070,5 +1070,13 @@
     "username": "silvergoose914",
     "password": "aaaaaaa",
     "invokedAt": "2024-04-02T20:10:00.794Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Barrett",
+    "email": "edward.barrett@example.com",
+    "username": "silverduck685",
+    "password": "armstron",
+    "invokedAt": "2024-04-02T20:20:44.877Z"
   }
 ]
