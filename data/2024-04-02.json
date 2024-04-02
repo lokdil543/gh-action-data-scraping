@@ -614,5 +614,13 @@
     "username": "bigfish987",
     "password": "monkeys",
     "invokedAt": "2024-04-02T12:26:39.030Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Menard",
+    "email": "mathieu.menard@example.com",
+    "username": "whiteleopard479",
+    "password": "photoes",
+    "invokedAt": "2024-04-02T12:46:01.971Z"
   }
 ]
