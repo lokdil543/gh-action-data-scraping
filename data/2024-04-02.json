@@ -598,5 +598,13 @@
     "username": "happydog258",
     "password": "papito",
     "invokedAt": "2024-04-02T11:54:33.607Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Ruiz",
+    "email": "martin.ruiz@example.com",
+    "username": "orangepanda242",
+    "password": "dogpound",
+    "invokedAt": "2024-04-02T12:00:10.888Z"
   }
 ]
