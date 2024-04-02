@@ -606,5 +606,13 @@
     "username": "orangepanda242",
     "password": "dogpound",
     "invokedAt": "2024-04-02T12:00:10.888Z"
+  },
+  {
+    "firstName": "Minttu",
+    "lastName": "Aro",
+    "email": "minttu.aro@example.com",
+    "username": "bigfish987",
+    "password": "monkeys",
+    "invokedAt": "2024-04-02T12:26:39.030Z"
   }
 ]
