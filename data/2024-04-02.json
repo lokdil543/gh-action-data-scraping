@@ -638,5 +638,13 @@
     "username": "smallfish911",
     "password": "wrestling",
     "invokedAt": "2024-04-02T13:08:55.533Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Fuller",
+    "email": "ana.fuller@example.com",
+    "username": "angryrabbit704",
+    "password": "rrpass1",
+    "invokedAt": "2024-04-02T13:22:00.032Z"
   }
 ]
