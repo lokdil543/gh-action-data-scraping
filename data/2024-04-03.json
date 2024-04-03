@@ -494,5 +494,13 @@
     "username": "happymeercat989",
     "password": "money",
     "invokedAt": "2024-04-03T10:00:11.760Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Taylor",
+    "email": "jack.taylor@example.com",
+    "username": "yellowkoala199",
+    "password": "classic",
+    "invokedAt": "2024-04-03T10:15:43.576Z"
   }
 ]
