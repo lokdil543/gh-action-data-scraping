@@ -622,5 +622,13 @@
     "username": "brownkoala957",
     "password": "band",
     "invokedAt": "2024-04-03T11:59:38.554Z"
+  },
+  {
+    "firstName": "Nebojša",
+    "lastName": "Milovanović",
+    "email": "nebojsa.milovanovic@example.com",
+    "username": "blackbird127",
+    "password": "chicken1",
+    "invokedAt": "2024-04-03T12:24:26.680Z"
   }
 ]
