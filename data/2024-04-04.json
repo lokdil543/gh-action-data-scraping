@@ -678,5 +678,13 @@
     "username": "greenostrich136",
     "password": "hotbox",
     "invokedAt": "2024-04-04T13:41:32.414Z"
+  },
+  {
+    "firstName": "Luukas",
+    "lastName": "Rantanen",
+    "email": "luukas.rantanen@example.com",
+    "username": "greenbear379",
+    "password": "1234abcd",
+    "invokedAt": "2024-04-04T13:48:39.059Z"
   }
 ]
