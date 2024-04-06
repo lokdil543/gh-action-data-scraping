@@ -1326,5 +1326,13 @@
     "username": "tinytiger130",
     "password": "pancake",
     "invokedAt": "2024-04-06T23:20:40.860Z"
+  },
+  {
+    "firstName": "Clinton",
+    "lastName": "Smith",
+    "email": "clinton.smith@example.com",
+    "username": "bigbear768",
+    "password": "gemini",
+    "invokedAt": "2024-04-06T23:26:41.852Z"
   }
 ]
