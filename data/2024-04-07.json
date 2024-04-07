@@ -894,5 +894,13 @@
     "username": "redpeacock238",
     "password": "vampire",
     "invokedAt": "2024-04-07T16:54:46.376Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Owens",
+    "email": "terry.owens@example.com",
+    "username": "happyfish420",
+    "password": "blanked",
+    "invokedAt": "2024-04-07T17:01:16.137Z"
   }
 ]
