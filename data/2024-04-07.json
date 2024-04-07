@@ -758,5 +758,13 @@
     "username": "purplemeercat228",
     "password": "abcdefg",
     "invokedAt": "2024-04-07T14:44:48.818Z"
+  },
+  {
+    "firstName": "Jouke",
+    "lastName": "Van den Eijnde",
+    "email": "jouke.vandeneijnde@example.com",
+    "username": "heavyostrich113",
+    "password": "horse",
+    "invokedAt": "2024-04-07T14:50:54.526Z"
   }
 ]
