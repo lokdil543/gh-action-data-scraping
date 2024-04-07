@@ -478,5 +478,13 @@
     "username": "tinyostrich588",
     "password": "enter1",
     "invokedAt": "2024-04-07T09:45:13.659Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Mortensen",
+    "email": "carl.mortensen@example.com",
+    "username": "greengoose390",
+    "password": "muscles",
+    "invokedAt": "2024-04-07T09:51:12.473Z"
   }
 ]
