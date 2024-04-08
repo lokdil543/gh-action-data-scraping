@@ -590,5 +590,13 @@
     "username": "browncat360",
     "password": "justdoit",
     "invokedAt": "2024-04-08T11:53:09.736Z"
+  },
+  {
+    "firstName": "Richie",
+    "lastName": "Adam",
+    "email": "richie.adam@example.com",
+    "username": "tinypanda123",
+    "password": "larry",
+    "invokedAt": "2024-04-08T11:58:59.388Z"
   }
 ]
