@@ -742,5 +742,13 @@
     "username": "yellowfish318",
     "password": "102030",
     "invokedAt": "2024-04-08T14:54:09.579Z"
+  },
+  {
+    "firstName": "Lyudislav",
+    "lastName": "Gorohovskiy",
+    "email": "lyudislav.gorohovskiy@example.com",
+    "username": "orangebear643",
+    "password": "figaro",
+    "invokedAt": "2024-04-08T15:00:03.720Z"
   }
 ]
