@@ -710,5 +710,13 @@
     "username": "greengoose922",
     "password": "barefoot",
     "invokedAt": "2024-04-09T14:21:39.318Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Hicks",
+    "email": "bruce.hicks@example.com",
+    "username": "happymeercat902",
+    "password": "blink",
+    "invokedAt": "2024-04-09T14:28:45.911Z"
   }
 ]
