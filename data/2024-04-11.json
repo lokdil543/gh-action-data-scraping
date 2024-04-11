@@ -710,5 +710,13 @@
     "username": "angrytiger642",
     "password": "disco",
     "invokedAt": "2024-04-11T14:26:26.286Z"
+  },
+  {
+    "firstName": "Sedef",
+    "lastName": "Küçükler",
+    "email": "sedef.kucukler@example.com",
+    "username": "bluetiger382",
+    "password": "bob123",
+    "invokedAt": "2024-04-11T14:32:34.426Z"
   }
 ]
