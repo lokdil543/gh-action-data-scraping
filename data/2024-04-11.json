@@ -1022,5 +1022,13 @@
     "username": "heavyfish228",
     "password": "fang",
     "invokedAt": "2024-04-11T19:28:58.730Z"
+  },
+  {
+    "firstName": "Corien",
+    "lastName": "Gelderman",
+    "email": "corien.gelderman@example.com",
+    "username": "brownfish258",
+    "password": "runner",
+    "invokedAt": "2024-04-11T19:35:29.688Z"
   }
 ]
