@@ -510,5 +510,13 @@
     "username": "yellowbear143",
     "password": "clancy",
     "invokedAt": "2024-04-11T10:40:29.179Z"
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Caron",
+    "email": "iris.caron@example.com",
+    "username": "silverdog666",
+    "password": "buzzer",
+    "invokedAt": "2024-04-11T10:46:18.521Z"
   }
 ]
