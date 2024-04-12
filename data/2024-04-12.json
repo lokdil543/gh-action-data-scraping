@@ -606,5 +606,13 @@
     "username": "bigfish535",
     "password": "baron",
     "invokedAt": "2024-04-12T12:41:05.231Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Schmidt",
+    "email": "ana.schmidt@example.com",
+    "username": "happycat471",
+    "password": "bayern",
+    "invokedAt": "2024-04-12T12:53:27.172Z"
   }
 ]
