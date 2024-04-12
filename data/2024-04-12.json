@@ -1174,5 +1174,13 @@
     "username": "bluetiger819",
     "password": "farmer",
     "invokedAt": "2024-04-12T21:40:26.139Z"
+  },
+  {
+    "firstName": "Aitor",
+    "lastName": "Cabrera",
+    "email": "aitor.cabrera@example.com",
+    "username": "biggoose711",
+    "password": "bogus",
+    "invokedAt": "2024-04-12T21:46:20.553Z"
   }
 ]
