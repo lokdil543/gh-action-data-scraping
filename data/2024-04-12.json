@@ -1102,5 +1102,13 @@
     "username": "bigcat192",
     "password": "aikido",
     "invokedAt": "2024-04-12T20:38:30.149Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Jones",
+    "email": "luke.jones@example.com",
+    "username": "sadleopard200",
+    "password": "snowflak",
+    "invokedAt": "2024-04-12T20:44:31.734Z"
   }
 ]
