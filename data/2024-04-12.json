@@ -782,5 +782,13 @@
     "username": "smalldog426",
     "password": "illini",
     "invokedAt": "2024-04-12T15:36:55.756Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Köllner",
+    "email": "martin.kollner@example.com",
+    "username": "blackbutterfly412",
+    "password": "hopper",
+    "invokedAt": "2024-04-12T15:42:33.467Z"
   }
 ]
