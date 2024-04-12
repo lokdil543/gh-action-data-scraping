@@ -1006,5 +1006,13 @@
     "username": "yellowwolf695",
     "password": "chiefs",
     "invokedAt": "2024-04-12T19:17:25.634Z"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Renard",
+    "email": "antonio.renard@example.com",
+    "username": "redostrich768",
+    "password": "phish",
+    "invokedAt": "2024-04-12T19:23:15.850Z"
   }
 ]
