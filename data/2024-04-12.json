@@ -406,5 +406,13 @@
     "username": "greendog533",
     "password": "compass",
     "invokedAt": "2024-04-12T09:00:11.378Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Newman",
+    "email": "robin.newman@example.com",
+    "username": "ticklishmouse771",
+    "password": "2469",
+    "invokedAt": "2024-04-12T09:15:18.079Z"
   }
 ]
