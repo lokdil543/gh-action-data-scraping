@@ -126,5 +126,13 @@
     "username": "angrysnake990",
     "password": "alexande",
     "invokedAt": "2024-04-13T03:24:03.578Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Østby",
+    "email": "benjamin.ostby@example.com",
+    "username": "blackpeacock357",
+    "password": "testing1",
+    "invokedAt": "2024-04-13T03:30:00.000Z"
   }
 ]
