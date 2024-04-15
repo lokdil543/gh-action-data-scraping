@@ -462,5 +462,13 @@
     "username": "happyfish303",
     "password": "maxine",
     "invokedAt": "2024-04-15T11:17:25.785Z"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Yilmaz",
+    "email": "leonard.yilmaz@example.com",
+    "username": "redostrich894",
+    "password": "business",
+    "invokedAt": "2024-04-15T11:23:13.439Z"
   }
 ]
