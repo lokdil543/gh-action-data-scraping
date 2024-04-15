@@ -1214,5 +1214,13 @@
     "username": "ticklishzebra391",
     "password": "store",
     "invokedAt": "2024-04-15T23:31:44.806Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Dupont",
+    "email": "henry.dupont@example.com",
+    "username": "biggoose634",
+    "password": "bearcat",
+    "invokedAt": "2024-04-15T23:37:30.743Z"
   }
 ]
