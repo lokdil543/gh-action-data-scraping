@@ -758,5 +758,13 @@
     "username": "goldenbird416",
     "password": "berger",
     "invokedAt": "2024-04-16T14:55:23.797Z"
+  },
+  {
+    "firstName": "José María",
+    "lastName": "Zarate",
+    "email": "josemaria.zarate@example.com",
+    "username": "smallmouse401",
+    "password": "vipers",
+    "invokedAt": "2024-04-16T15:06:41.848Z"
   }
 ]
