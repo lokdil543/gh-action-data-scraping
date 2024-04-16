@@ -750,5 +750,13 @@
     "username": "bigbird151",
     "password": "piglet",
     "invokedAt": "2024-04-16T14:49:34.370Z"
+  },
+  {
+    "firstName": "Ronnie",
+    "lastName": "Ray",
+    "email": "ronnie.ray@example.com",
+    "username": "goldenbird416",
+    "password": "berger",
+    "invokedAt": "2024-04-16T14:55:23.797Z"
   }
 ]
