@@ -790,5 +790,13 @@
     "username": "redmouse440",
     "password": "sailing",
     "invokedAt": "2024-04-16T15:32:27.609Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Clark",
+    "email": "sarah.clark@example.com",
+    "username": "bigtiger255",
+    "password": "trash",
+    "invokedAt": "2024-04-16T15:38:25.173Z"
   }
 ]
