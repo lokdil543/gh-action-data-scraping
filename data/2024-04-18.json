@@ -206,5 +206,13 @@
     "username": "whitebear607",
     "password": "deeper",
     "invokedAt": "2024-04-18T05:30:05.609Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Pedersen",
+    "email": "jacob.pedersen@example.com",
+    "username": "whitemouse135",
+    "password": "jameson",
+    "invokedAt": "2024-04-18T05:36:21.134Z"
   }
 ]
