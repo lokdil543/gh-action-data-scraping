@@ -782,5 +782,13 @@
     "username": "organicpeacock422",
     "password": "praise",
     "invokedAt": "2024-04-19T15:33:18.949Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Rogers",
+    "email": "tom.rogers@example.com",
+    "username": "greengoose424",
+    "password": "tail",
+    "invokedAt": "2024-04-19T15:39:19.218Z"
   }
 ]
