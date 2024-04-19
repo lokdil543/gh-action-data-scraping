@@ -790,5 +790,13 @@
     "username": "greengoose424",
     "password": "tail",
     "invokedAt": "2024-04-19T15:39:19.218Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Walters",
+    "email": "alice.walters@example.com",
+    "username": "bluefish325",
+    "password": "ranch",
+    "invokedAt": "2024-04-19T15:45:05.967Z"
   }
 ]
