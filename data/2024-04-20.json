@@ -262,5 +262,13 @@
     "username": "yellowpeacock396",
     "password": "andrew",
     "invokedAt": "2024-04-20T06:14:25.888Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Møller",
+    "email": "lucas.moller@example.com",
+    "username": "heavypeacock888",
+    "password": "2233",
+    "invokedAt": "2024-04-20T06:28:13.019Z"
   }
 ]
