@@ -270,5 +270,13 @@
     "username": "heavypeacock888",
     "password": "2233",
     "invokedAt": "2024-04-20T06:28:13.019Z"
+  },
+  {
+    "firstName": "Heldo",
+    "lastName": "Souza",
+    "email": "heldo.souza@example.com",
+    "username": "goldentiger303",
+    "password": "timeout",
+    "invokedAt": "2024-04-20T06:35:53.610Z"
   }
 ]
