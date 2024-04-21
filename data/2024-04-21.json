@@ -686,5 +686,13 @@
     "username": "purplebear980",
     "password": "password2",
     "invokedAt": "2024-04-21T13:42:12.451Z"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Martin",
+    "email": "perry.martin@example.com",
+    "username": "smallgoose586",
+    "password": "patches",
+    "invokedAt": "2024-04-21T13:48:11.942Z"
   }
 ]
