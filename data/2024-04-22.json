@@ -222,5 +222,13 @@
     "username": "tinylion521",
     "password": "mitch",
     "invokedAt": "2024-04-22T05:45:00.476Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Mccoy",
+    "email": "james.mccoy@example.com",
+    "username": "orangeswan975",
+    "password": "stinky",
+    "invokedAt": "2024-04-22T05:51:03.768Z"
   }
 ]
