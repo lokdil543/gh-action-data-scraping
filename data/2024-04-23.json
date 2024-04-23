@@ -846,5 +846,13 @@
     "username": "bigduck496",
     "password": "freepass",
     "invokedAt": "2024-04-23T16:43:31.791Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Ylitalo",
+    "email": "vaino.ylitalo@example.com",
+    "username": "orangeduck592",
+    "password": "slappy",
+    "invokedAt": "2024-04-23T16:49:44.714Z"
   }
 ]
