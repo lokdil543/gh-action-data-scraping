@@ -606,5 +606,13 @@
     "username": "crazypanda944",
     "password": "nurses",
     "invokedAt": "2024-04-23T12:24:18.668Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Pedersen",
+    "email": "jonathan.pedersen@example.com",
+    "username": "greentiger202",
+    "password": "macaroni",
+    "invokedAt": "2024-04-23T12:45:23.784Z"
   }
 ]
