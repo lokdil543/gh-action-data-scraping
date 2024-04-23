@@ -390,5 +390,13 @@
     "username": "ticklishfish893",
     "password": "union",
     "invokedAt": "2024-04-23T08:43:17.605Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Peters",
+    "email": "steve.peters@example.com",
+    "username": "orangefish929",
+    "password": "campbell",
+    "invokedAt": "2024-04-23T08:49:22.019Z"
   }
 ]
