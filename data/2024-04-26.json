@@ -870,5 +870,13 @@
     "username": "brownfish451",
     "password": "bottom",
     "invokedAt": "2024-04-26T17:10:58.789Z"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Oliver",
+    "email": "kyle.oliver@example.com",
+    "username": "greenbear747",
+    "password": "virus",
+    "invokedAt": "2024-04-26T17:25:37.731Z"
   }
 ]
