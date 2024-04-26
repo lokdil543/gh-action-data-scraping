@@ -54,5 +54,13 @@
     "username": "whitewolf541",
     "password": "test",
     "invokedAt": "2024-04-26T02:50:31.477Z"
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Rafoss",
+    "email": "lukas.rafoss@example.com",
+    "username": "redtiger213",
+    "password": "spot",
+    "invokedAt": "2024-04-26T02:56:33.995Z"
   }
 ]
