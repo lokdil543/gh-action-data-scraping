@@ -726,5 +726,13 @@
     "username": "heavywolf860",
     "password": "foobar",
     "invokedAt": "2024-04-26T14:39:30.862Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Jensen",
+    "email": "simon.jensen@example.com",
+    "username": "angryfish829",
+    "password": "jacob1",
+    "invokedAt": "2024-04-26T14:45:54.628Z"
   }
 ]
