@@ -854,5 +854,13 @@
     "username": "organicdog631",
     "password": "record",
     "invokedAt": "2024-04-27T16:08:57.800Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Evans",
+    "email": "jack.evans@example.com",
+    "username": "lazypeacock967",
+    "password": "alice1",
+    "invokedAt": "2024-04-27T16:24:14.281Z"
   }
 ]
