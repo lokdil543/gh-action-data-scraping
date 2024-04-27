@@ -862,5 +862,13 @@
     "username": "lazypeacock967",
     "password": "alice1",
     "invokedAt": "2024-04-27T16:24:14.281Z"
+  },
+  {
+    "firstName": "Lester",
+    "lastName": "Fox",
+    "email": "lester.fox@example.com",
+    "username": "whitepanda489",
+    "password": "gogo",
+    "invokedAt": "2024-04-27T16:30:47.469Z"
   }
 ]
