@@ -446,5 +446,13 @@
     "username": "yellowdog213",
     "password": "trains",
     "invokedAt": "2024-04-28T09:30:03.808Z"
+  },
+  {
+    "firstName": "Josip",
+    "lastName": "Schnabel",
+    "email": "josip.schnabel@example.com",
+    "username": "goldenbird446",
+    "password": "blake1",
+    "invokedAt": "2024-04-28T09:36:55.041Z"
   }
 ]
