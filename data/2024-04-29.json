@@ -366,5 +366,13 @@
     "username": "silverfish834",
     "password": "1974",
     "invokedAt": "2024-04-29T08:31:07.787Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Christensen",
+    "email": "johan.christensen@example.com",
+    "username": "smallbird380",
+    "password": "soldier",
+    "invokedAt": "2024-04-29T08:40:32.884Z"
   }
 ]
