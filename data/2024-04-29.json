@@ -702,5 +702,13 @@
     "username": "greenzebra542",
     "password": "simba1",
     "invokedAt": "2024-04-29T14:42:29.742Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Green",
+    "email": "dan.green@example.com",
+    "username": "blackbird592",
+    "password": "topgun",
+    "invokedAt": "2024-04-29T14:48:31.964Z"
   }
 ]
