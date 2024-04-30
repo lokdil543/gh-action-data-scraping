@@ -406,5 +406,13 @@
     "username": "happyladybug682",
     "password": "global",
     "invokedAt": "2024-04-30T08:52:56.634Z"
+  },
+  {
+    "firstName": "Silas",
+    "lastName": "Petersen",
+    "email": "silas.petersen@example.com",
+    "username": "orangeladybug118",
+    "password": "access",
+    "invokedAt": "2024-04-30T08:58:48.250Z"
   }
 ]
