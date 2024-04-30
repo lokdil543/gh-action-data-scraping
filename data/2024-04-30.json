@@ -702,5 +702,13 @@
     "username": "goldenduck100",
     "password": "mickey1",
     "invokedAt": "2024-04-30T14:24:38.378Z"
+  },
+  {
+    "firstName": "Arne",
+    "lastName": "Kårstad",
+    "email": "arne.karstad@example.com",
+    "username": "brownpeacock131",
+    "password": "harvest",
+    "invokedAt": "2024-04-30T14:30:26.893Z"
   }
 ]
