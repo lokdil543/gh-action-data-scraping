@@ -214,5 +214,13 @@
     "username": "happydog888",
     "password": "bigbird",
     "invokedAt": "2024-04-30T05:36:21.633Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Martin",
+    "email": "martin.martin@example.com",
+    "username": "redostrich986",
+    "password": "pyramid",
+    "invokedAt": "2024-04-30T05:42:06.124Z"
   }
 ]
