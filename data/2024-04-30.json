@@ -262,5 +262,13 @@
     "username": "bigbear190",
     "password": "banker",
     "invokedAt": "2024-04-30T06:31:59.374Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Pedersen",
+    "email": "rasmus.pedersen@example.com",
+    "username": "biggorilla822",
+    "password": "drizzt",
+    "invokedAt": "2024-04-30T06:39:36.561Z"
   }
 ]
