@@ -1046,5 +1046,13 @@
     "username": "orangetiger389",
     "password": "december",
     "invokedAt": "2024-04-30T19:53:58.063Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Le Gall",
+    "email": "charlie.legall@example.com",
+    "username": "goldenmouse872",
+    "password": "changeme",
+    "invokedAt": "2024-04-30T19:59:43.783Z"
   }
 ]
