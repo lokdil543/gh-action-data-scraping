@@ -886,5 +886,13 @@
     "username": "angrydog434",
     "password": "heat",
     "invokedAt": "2024-04-30T17:25:17.685Z"
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Frazier",
+    "email": "jason.frazier@example.com",
+    "username": "bigtiger329",
+    "password": "gagged",
+    "invokedAt": "2024-04-30T17:31:26.238Z"
   }
 ]
