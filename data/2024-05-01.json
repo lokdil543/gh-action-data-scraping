@@ -326,5 +326,13 @@
     "username": "smallmouse716",
     "password": "showing",
     "invokedAt": "2024-05-01T07:48:20.519Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Lévesque",
+    "email": "thomas.levesque@example.com",
+    "username": "lazytiger321",
+    "password": "concorde",
+    "invokedAt": "2024-05-01T07:54:20.887Z"
   }
 ]
