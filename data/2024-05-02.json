@@ -646,5 +646,13 @@
     "username": "bigrabbit465",
     "password": "lucas1",
     "invokedAt": "2024-05-02T13:28:16.194Z"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Watts",
+    "email": "wayne.watts@example.com",
+    "username": "lazybear321",
+    "password": "school",
+    "invokedAt": "2024-05-02T13:35:05.304Z"
   }
 ]
