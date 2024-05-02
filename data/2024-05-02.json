@@ -1006,5 +1006,13 @@
     "username": "yellowrabbit907",
     "password": "elvis",
     "invokedAt": "2024-05-02T19:29:26.960Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Clarke",
+    "email": "isaac.clarke@example.com",
+    "username": "heavylion977",
+    "password": "gateway1",
+    "invokedAt": "2024-05-02T19:35:18.140Z"
   }
 ]
