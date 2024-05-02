@@ -182,5 +182,13 @@
     "username": "heavytiger528",
     "password": "jerry",
     "invokedAt": "2024-05-02T05:00:02.680Z"
+  },
+  {
+    "firstName": "Samarth",
+    "lastName": "Nair",
+    "email": "samarth.nair@example.com",
+    "username": "lazyostrich374",
+    "password": "tweety",
+    "invokedAt": "2024-05-02T05:15:07.026Z"
   }
 ]
