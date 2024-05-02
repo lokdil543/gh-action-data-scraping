@@ -558,5 +558,13 @@
     "username": "blackbird909",
     "password": "pounding",
     "invokedAt": "2024-05-02T11:28:29.741Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Andersen",
+    "email": "clara.andersen@example.com",
+    "username": "goldenbear425",
+    "password": "0000",
+    "invokedAt": "2024-05-02T11:34:42.608Z"
   }
 ]
