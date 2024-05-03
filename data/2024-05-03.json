@@ -854,5 +854,13 @@
     "username": "whitepeacock465",
     "password": "trumpet",
     "invokedAt": "2024-05-03T17:06:34.243Z"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Sørensen",
+    "email": "frida.sorensen@example.com",
+    "username": "blackbird923",
+    "password": "porsche",
+    "invokedAt": "2024-05-03T17:20:15.655Z"
   }
 ]
