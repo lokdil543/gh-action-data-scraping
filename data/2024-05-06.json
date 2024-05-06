@@ -230,5 +230,13 @@
     "username": "orangemeercat312",
     "password": "legend",
     "invokedAt": "2024-05-06T05:58:51.063Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Hansen",
+    "email": "adam.hansen@example.com",
+    "username": "redcat790",
+    "password": "written",
+    "invokedAt": "2024-05-06T06:17:14.602Z"
   }
 ]
