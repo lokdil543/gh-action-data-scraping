@@ -1206,5 +1206,13 @@
     "username": "redpanda872",
     "password": "temp",
     "invokedAt": "2024-05-06T23:15:13.797Z"
+  },
+  {
+    "firstName": "Fatih",
+    "lastName": "Gürmen",
+    "email": "fatih.gurmen@example.com",
+    "username": "redfrog411",
+    "password": "ferrari",
+    "invokedAt": "2024-05-06T23:23:32.421Z"
   }
 ]
