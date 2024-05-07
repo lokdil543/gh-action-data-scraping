@@ -126,5 +126,13 @@
     "username": "sadgoose544",
     "password": "coming",
     "invokedAt": "2024-05-07T04:30:23.698Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Bryant",
+    "email": "bob.bryant@example.com",
+    "username": "smallcat532",
+    "password": "ultimate",
+    "invokedAt": "2024-05-07T04:36:51.684Z"
   }
 ]
