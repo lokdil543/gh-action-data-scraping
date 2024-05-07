@@ -982,5 +982,13 @@
     "username": "yellowmouse623",
     "password": "creature",
     "invokedAt": "2024-05-07T19:33:15.575Z"
+  },
+  {
+    "firstName": "Michel",
+    "lastName": "Blanchard",
+    "email": "michel.blanchard@example.com",
+    "username": "orangefrog526",
+    "password": "fish",
+    "invokedAt": "2024-05-07T19:39:08.373Z"
   }
 ]
