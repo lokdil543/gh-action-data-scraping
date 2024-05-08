@@ -750,5 +750,13 @@
     "username": "greenzebra271",
     "password": "downtown",
     "invokedAt": "2024-05-08T14:36:26.052Z"
+  },
+  {
+    "firstName": "Molly",
+    "lastName": "Burns",
+    "email": "molly.burns@example.com",
+    "username": "bluegoose616",
+    "password": "this",
+    "invokedAt": "2024-05-08T14:42:25.111Z"
   }
 ]
