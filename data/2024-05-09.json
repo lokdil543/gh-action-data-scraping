@@ -486,5 +486,13 @@
     "username": "bigdog467",
     "password": "pookey",
     "invokedAt": "2024-05-09T10:46:55.659Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Caballero",
+    "email": "jonathan.caballero@example.com",
+    "username": "happybird424",
+    "password": "apple",
+    "invokedAt": "2024-05-09T10:52:54.968Z"
   }
 ]
