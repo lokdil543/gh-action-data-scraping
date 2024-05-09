@@ -366,5 +366,13 @@
     "username": "angryrabbit189",
     "password": "tech",
     "invokedAt": "2024-05-09T08:42:56.648Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Contreras",
+    "email": "daniel.contreras@example.com",
+    "username": "angryfish135",
+    "password": "conan",
+    "invokedAt": "2024-05-09T08:48:49.069Z"
   }
 ]
