@@ -974,5 +974,13 @@
     "username": "redfish127",
     "password": "barber",
     "invokedAt": "2024-05-09T19:35:45.362Z"
+  },
+  {
+    "firstName": "Nicola",
+    "lastName": "Cardoso",
+    "email": "nicola.cardoso@example.com",
+    "username": "bluezebra360",
+    "password": "frodo",
+    "invokedAt": "2024-05-09T19:41:33.769Z"
   }
 ]
