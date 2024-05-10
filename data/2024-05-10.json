@@ -366,5 +366,13 @@
     "username": "redfrog383",
     "password": "stanley",
     "invokedAt": "2024-05-10T08:29:01.897Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Wong",
+    "email": "philippe.wong@example.com",
+    "username": "crazyduck393",
+    "password": "engine",
+    "invokedAt": "2024-05-10T08:35:26.694Z"
   }
 ]
