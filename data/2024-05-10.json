@@ -342,5 +342,13 @@
     "username": "purplefrog789",
     "password": "matilda",
     "invokedAt": "2024-05-10T07:53:33.646Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Henderson",
+    "email": "susan.henderson@example.com",
+    "username": "smallostrich726",
+    "password": "terrapin",
+    "invokedAt": "2024-05-10T07:59:24.418Z"
   }
 ]
