@@ -62,5 +62,13 @@
     "username": "whitedog559",
     "password": "shasta",
     "invokedAt": "2024-05-10T03:12:13.438Z"
+  },
+  {
+    "firstName": "Curtis",
+    "lastName": "Robertson",
+    "email": "curtis.robertson@example.com",
+    "username": "tinydog335",
+    "password": "conan",
+    "invokedAt": "2024-05-10T03:24:42.824Z"
   }
 ]
