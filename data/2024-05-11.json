@@ -1062,5 +1062,13 @@
     "username": "brownbutterfly233",
     "password": "drive",
     "invokedAt": "2024-05-11T19:50:48.330Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Rodriguez",
+    "email": "john.rodriguez@example.com",
+    "username": "browncat148",
+    "password": "thecure",
+    "invokedAt": "2024-05-11T19:56:40.912Z"
   }
 ]
