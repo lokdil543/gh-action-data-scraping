@@ -430,5 +430,13 @@
     "username": "ticklishpanda310",
     "password": "abc12345",
     "invokedAt": "2024-05-11T09:19:31.494Z"
+  },
+  {
+    "firstName": "Aashish",
+    "lastName": "Saha",
+    "email": "aashish.saha@example.com",
+    "username": "redladybug320",
+    "password": "watcher",
+    "invokedAt": "2024-05-11T09:25:16.612Z"
   }
 ]
