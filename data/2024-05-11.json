@@ -198,5 +198,13 @@
     "username": "blueduck104",
     "password": "nobody",
     "invokedAt": "2024-05-11T05:25:12.114Z"
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Dahmen",
+    "email": "ronald.dahmen@example.com",
+    "username": "purpletiger489",
+    "password": "atlantis",
+    "invokedAt": "2024-05-11T05:31:08.525Z"
   }
 ]
