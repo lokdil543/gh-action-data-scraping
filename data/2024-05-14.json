@@ -766,5 +766,13 @@
     "username": "heavyostrich857",
     "password": "doodle",
     "invokedAt": "2024-05-14T15:53:57.233Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Taylor",
+    "email": "david.taylor@example.com",
+    "username": "blueduck940",
+    "password": "anything",
+    "invokedAt": "2024-05-14T15:59:44.594Z"
   }
 ]
