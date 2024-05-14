@@ -718,5 +718,13 @@
     "username": "sadmeercat920",
     "password": "birthday1",
     "invokedAt": "2024-05-14T14:59:29.684Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Fagerås",
+    "email": "michael.fageras@example.com",
+    "username": "blackbear891",
+    "password": "lennon",
+    "invokedAt": "2024-05-14T15:15:53.913Z"
   }
 ]
