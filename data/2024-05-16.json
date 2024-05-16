@@ -766,5 +766,13 @@
     "username": "blackmouse211",
     "password": "sail",
     "invokedAt": "2024-05-16T15:15:48.006Z"
+  },
+  {
+    "firstName": "Angus",
+    "lastName": "Anderson",
+    "email": "angus.anderson@example.com",
+    "username": "sadmeercat187",
+    "password": "gray",
+    "invokedAt": "2024-05-16T15:25:29.268Z"
   }
 ]
