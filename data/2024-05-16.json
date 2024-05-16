@@ -526,5 +526,13 @@
     "username": "silverfish787",
     "password": "meridian",
     "invokedAt": "2024-05-16T10:41:55.707Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Lee",
+    "email": "connor.lee@example.com",
+    "username": "bigduck244",
+    "password": "django",
+    "invokedAt": "2024-05-16T10:48:06.864Z"
   }
 ]
