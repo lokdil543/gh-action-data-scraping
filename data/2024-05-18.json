@@ -622,5 +622,13 @@
     "username": "silverrabbit216",
     "password": "pharmacy",
     "invokedAt": "2024-05-18T12:45:30.363Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Wheeler",
+    "email": "rebecca.wheeler@example.com",
+    "username": "bigbutterfly147",
+    "password": "morpheus",
+    "invokedAt": "2024-05-18T12:56:22.999Z"
   }
 ]
