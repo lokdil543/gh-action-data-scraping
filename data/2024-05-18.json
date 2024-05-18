@@ -678,5 +678,13 @@
     "username": "orangeleopard340",
     "password": "smile",
     "invokedAt": "2024-05-18T13:45:13.628Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Howard",
+    "email": "claude.howard@example.com",
+    "username": "reddog296",
+    "password": "express",
+    "invokedAt": "2024-05-18T13:51:19.788Z"
   }
 ]
