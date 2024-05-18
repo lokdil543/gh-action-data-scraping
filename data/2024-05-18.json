@@ -710,5 +710,13 @@
     "username": "purplewolf300",
     "password": "sinatra",
     "invokedAt": "2024-05-18T14:22:47.213Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Clarke",
+    "email": "luca.clarke@example.com",
+    "username": "greensnake874",
+    "password": "112358",
+    "invokedAt": "2024-05-18T14:28:41.720Z"
   }
 ]
