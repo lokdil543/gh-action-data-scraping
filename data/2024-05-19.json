@@ -406,5 +406,13 @@
     "username": "greenbear767",
     "password": "boxcar",
     "invokedAt": "2024-05-19T08:59:52.726Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Andersen",
+    "email": "marie.andersen@example.com",
+    "username": "tinygoose609",
+    "password": "casper",
+    "invokedAt": "2024-05-19T09:15:50.345Z"
   }
 ]
