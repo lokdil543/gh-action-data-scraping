@@ -1070,5 +1070,13 @@
     "username": "heavydog908",
     "password": "cookie1",
     "invokedAt": "2024-05-22T21:24:23.001Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Gönültaş",
+    "email": "ulku.gonultas@example.com",
+    "username": "heavybear241",
+    "password": "derek",
+    "invokedAt": "2024-05-22T21:30:14.062Z"
   }
 ]
