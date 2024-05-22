@@ -182,5 +182,13 @@
     "username": "goldenkoala300",
     "password": "global",
     "invokedAt": "2024-05-22T05:29:34.917Z"
+  },
+  {
+    "firstName": "Jeppe",
+    "lastName": "Møller",
+    "email": "jeppe.moller@example.com",
+    "username": "crazyleopard216",
+    "password": "birthday1",
+    "invokedAt": "2024-05-22T05:36:33.417Z"
   }
 ]
