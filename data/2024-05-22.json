@@ -1118,5 +1118,13 @@
     "username": "happyostrich604",
     "password": "keywest",
     "invokedAt": "2024-05-22T22:00:20.770Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Thompson",
+    "email": "john.thompson@example.com",
+    "username": "angryostrich397",
+    "password": "blink182",
+    "invokedAt": "2024-05-22T22:14:04.731Z"
   }
 ]
