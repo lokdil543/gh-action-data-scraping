@@ -398,5 +398,13 @@
     "username": "lazypeacock814",
     "password": "done",
     "invokedAt": "2024-05-22T09:24:09.721Z"
+  },
+  {
+    "firstName": "Zoey",
+    "lastName": "Owens",
+    "email": "zoey.owens@example.com",
+    "username": "blackkoala773",
+    "password": "phish",
+    "invokedAt": "2024-05-22T09:29:55.921Z"
   }
 ]
