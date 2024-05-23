@@ -230,5 +230,13 @@
     "username": "bigfish444",
     "password": "skyler",
     "invokedAt": "2024-05-23T05:59:14.800Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Ray",
+    "email": "zachary.ray@example.com",
+    "username": "happyfish181",
+    "password": "cutter",
+    "invokedAt": "2024-05-23T06:19:40.717Z"
   }
 ]
