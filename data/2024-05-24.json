@@ -574,5 +574,13 @@
     "username": "happysnake234",
     "password": "blazers",
     "invokedAt": "2024-05-24T12:18:17.939Z"
+  },
+  {
+    "firstName": "Božo",
+    "lastName": "Branković",
+    "email": "bozo.brankovic@example.com",
+    "username": "blackswan789",
+    "password": "lions",
+    "invokedAt": "2024-05-24T12:44:50.183Z"
   }
 ]
