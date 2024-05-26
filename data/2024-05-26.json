@@ -246,5 +246,13 @@
     "username": "crazyduck166",
     "password": "dancer",
     "invokedAt": "2024-05-26T06:37:50.251Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Jensen",
+    "email": "nikolaj.jensen@example.com",
+    "username": "orangefrog127",
+    "password": "grumpy",
+    "invokedAt": "2024-05-26T06:43:47.619Z"
   }
 ]
