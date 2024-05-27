@@ -294,5 +294,13 @@
     "username": "whitekoala727",
     "password": "police",
     "invokedAt": "2024-05-27T07:36:46.488Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Davies",
+    "email": "luke.davies@example.com",
+    "username": "greenbird952",
+    "password": "ying",
+    "invokedAt": "2024-05-27T07:42:31.730Z"
   }
 ]
