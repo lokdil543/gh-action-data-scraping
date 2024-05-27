@@ -886,5 +886,13 @@
     "username": "saddog162",
     "password": "exchange",
     "invokedAt": "2024-05-27T18:37:36.189Z"
+  },
+  {
+    "firstName": "Borja",
+    "lastName": "Suarez",
+    "email": "borja.suarez@example.com",
+    "username": "silverostrich776",
+    "password": "joke",
+    "invokedAt": "2024-05-27T18:43:38.032Z"
   }
 ]
