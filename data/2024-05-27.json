@@ -878,5 +878,13 @@
     "username": "sadcat404",
     "password": "music1",
     "invokedAt": "2024-05-27T18:30:04.670Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Lavigne",
+    "email": "david.lavigne@example.com",
+    "username": "saddog162",
+    "password": "exchange",
+    "invokedAt": "2024-05-27T18:37:36.189Z"
   }
 ]
