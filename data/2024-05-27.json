@@ -678,5 +678,13 @@
     "username": "angryfish555",
     "password": "pharmacy",
     "invokedAt": "2024-05-27T14:47:42.728Z"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Lambert",
+    "email": "raul.lambert@example.com",
+    "username": "greenswan418",
+    "password": "1230",
+    "invokedAt": "2024-05-27T14:53:48.773Z"
   }
 ]
