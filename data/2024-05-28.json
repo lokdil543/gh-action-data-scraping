@@ -182,5 +182,13 @@
     "username": "angryfish101",
     "password": "magic",
     "invokedAt": "2024-05-28T05:36:23.813Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Lowe",
+    "email": "jenny.lowe@example.com",
+    "username": "tinydog348",
+    "password": "female",
+    "invokedAt": "2024-05-28T05:42:12.696Z"
   }
 ]
