@@ -638,5 +638,13 @@
     "username": "greenelephant538",
     "password": "swedish",
     "invokedAt": "2024-05-28T13:56:50.012Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Møller",
+    "email": "adam.moller@example.com",
+    "username": "silverbird346",
+    "password": "wasabi",
+    "invokedAt": "2024-05-28T14:08:48.807Z"
   }
 ]
