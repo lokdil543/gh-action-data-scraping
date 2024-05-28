@@ -758,5 +758,13 @@
     "username": "happydog369",
     "password": "walker",
     "invokedAt": "2024-05-28T15:56:26.549Z"
+  },
+  {
+    "firstName": "Herbert",
+    "lastName": "Moore",
+    "email": "herbert.moore@example.com",
+    "username": "blueduck389",
+    "password": "smiley",
+    "invokedAt": "2024-05-28T16:10:19.819Z"
   }
 ]
