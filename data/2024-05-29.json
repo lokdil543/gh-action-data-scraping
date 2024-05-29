@@ -726,5 +726,13 @@
     "username": "whitewolf442",
     "password": "funny",
     "invokedAt": "2024-05-29T15:44:52.469Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Lučić",
+    "email": "anton.lucic@example.com",
+    "username": "heavytiger568",
+    "password": "coolness",
+    "invokedAt": "2024-05-29T15:50:40.552Z"
   }
 ]
