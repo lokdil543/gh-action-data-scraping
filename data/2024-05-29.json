@@ -390,5 +390,13 @@
     "username": "brownfish538",
     "password": "1234abcd",
     "invokedAt": "2024-05-29T09:27:15.601Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Hansen",
+    "email": "amelia.hansen@example.com",
+    "username": "bigbutterfly724",
+    "password": "dale",
+    "invokedAt": "2024-05-29T09:33:57.731Z"
   }
 ]
