@@ -486,5 +486,13 @@
     "username": "greendog220",
     "password": "herewego",
     "invokedAt": "2024-05-30T10:55:23.230Z"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Robertson",
+    "email": "kelly.robertson@example.com",
+    "username": "angrygorilla967",
+    "password": "tbone",
+    "invokedAt": "2024-05-30T11:05:20.723Z"
   }
 ]
