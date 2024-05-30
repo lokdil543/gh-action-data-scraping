@@ -166,5 +166,13 @@
     "username": "crazybear566",
     "password": "acid",
     "invokedAt": "2024-05-30T05:15:25.461Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Grant",
+    "email": "robin.grant@example.com",
+    "username": "crazyfrog245",
+    "password": "shaker",
+    "invokedAt": "2024-05-30T05:27:48.611Z"
   }
 ]
