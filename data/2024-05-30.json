@@ -382,5 +382,13 @@
     "username": "greenfrog138",
     "password": "testtest",
     "invokedAt": "2024-05-30T09:09:34.710Z"
+  },
+  {
+    "firstName": "Angie",
+    "lastName": "Gonzalez",
+    "email": "angie.gonzalez@example.com",
+    "username": "tinymeercat403",
+    "password": "cooking",
+    "invokedAt": "2024-05-30T09:23:37.272Z"
   }
 ]
