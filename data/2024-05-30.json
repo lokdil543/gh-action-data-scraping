@@ -998,5 +998,13 @@
     "username": "orangetiger256",
     "password": "passme",
     "invokedAt": "2024-05-30T20:25:02.540Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Lam",
+    "email": "louis.lam@example.com",
+    "username": "goldenswan899",
+    "password": "poodle",
+    "invokedAt": "2024-05-30T20:30:56.721Z"
   }
 ]
