@@ -334,5 +334,13 @@
     "username": "blackrabbit267",
     "password": "southpark",
     "invokedAt": "2024-05-31T08:17:06.590Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Andersen",
+    "email": "rasmus.andersen@example.com",
+    "username": "happyelephant407",
+    "password": "sliver",
+    "invokedAt": "2024-05-31T08:30:24.609Z"
   }
 ]
