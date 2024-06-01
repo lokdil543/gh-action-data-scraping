@@ -1206,5 +1206,13 @@
     "username": "happykoala616",
     "password": "chevys",
     "invokedAt": "2024-06-01T23:28:13.353Z"
+  },
+  {
+    "firstName": "Thorbjørn",
+    "lastName": "Frafjord",
+    "email": "thorbjorn.frafjord@example.com",
+    "username": "brownbird722",
+    "password": "serena",
+    "invokedAt": "2024-06-01T23:35:51.061Z"
   }
 ]
