@@ -262,5 +262,13 @@
     "username": "yellowdog638",
     "password": "toledo",
     "invokedAt": "2024-06-01T07:08:16.934Z"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Bennett",
+    "email": "taylor.bennett@example.com",
+    "username": "purplefish605",
+    "password": "garcia",
+    "invokedAt": "2024-06-01T07:19:35.637Z"
   }
 ]
