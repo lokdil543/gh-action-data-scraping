@@ -366,5 +366,13 @@
     "username": "purpleelephant486",
     "password": "dracula",
     "invokedAt": "2024-06-01T08:50:39.388Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Stevens",
+    "email": "dave.stevens@example.com",
+    "username": "tinybear551",
+    "password": "emperor",
+    "invokedAt": "2024-06-01T08:56:25.414Z"
   }
 ]
