@@ -526,5 +526,13 @@
     "username": "greengoose418",
     "password": "chat",
     "invokedAt": "2024-06-01T11:40:59.122Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Johansen",
+    "email": "clara.johansen@example.com",
+    "username": "yellowkoala827",
+    "password": "doctor",
+    "invokedAt": "2024-06-01T11:46:54.237Z"
   }
 ]
