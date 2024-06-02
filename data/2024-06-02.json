@@ -334,5 +334,13 @@
     "username": "bigpanda309",
     "password": "element",
     "invokedAt": "2024-06-02T08:09:38.643Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Sørensen",
+    "email": "astrid.sorensen@example.com",
+    "username": "bigmouse931",
+    "password": "system",
+    "invokedAt": "2024-06-02T08:24:53.418Z"
   }
 ]
