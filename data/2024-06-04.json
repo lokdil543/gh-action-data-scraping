@@ -342,5 +342,13 @@
     "username": "whitegoose366",
     "password": "farm",
     "invokedAt": "2024-06-04T08:30:05.629Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Smith",
+    "email": "tristan.smith@example.com",
+    "username": "bigmouse583",
+    "password": "riversid",
+    "invokedAt": "2024-06-04T08:38:15.072Z"
   }
 ]
