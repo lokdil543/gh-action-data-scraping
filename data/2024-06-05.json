@@ -870,5 +870,13 @@
     "username": "smallleopard573",
     "password": "pulled",
     "invokedAt": "2024-06-05T18:40:19.187Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Leclercq",
+    "email": "jean.leclercq@example.com",
+    "username": "redbear891",
+    "password": "outside",
+    "invokedAt": "2024-06-05T18:46:05.044Z"
   }
 ]
