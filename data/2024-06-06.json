@@ -862,5 +862,13 @@
     "username": "purplebear876",
     "password": "readers",
     "invokedAt": "2024-06-06T18:28:16.579Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Perry",
+    "email": "danny.perry@example.com",
+    "username": "goldenbear304",
+    "password": "dynamo",
+    "invokedAt": "2024-06-06T18:37:07.980Z"
   }
 ]
