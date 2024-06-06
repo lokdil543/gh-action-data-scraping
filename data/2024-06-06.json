@@ -1142,5 +1142,13 @@
     "username": "orangebird608",
     "password": "miguel",
     "invokedAt": "2024-06-06T22:58:13.624Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Walker",
+    "email": "aaron.walker@example.com",
+    "username": "smalldog646",
+    "password": "nono",
+    "invokedAt": "2024-06-06T23:15:23.705Z"
   }
 ]
