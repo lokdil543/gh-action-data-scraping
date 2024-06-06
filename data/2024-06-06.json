@@ -766,5 +766,13 @@
     "username": "redgoose470",
     "password": "over",
     "invokedAt": "2024-06-06T16:38:25.168Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Álvarez",
+    "email": "gabriel.alvarez@example.com",
+    "username": "redmouse201",
+    "password": "tribe",
+    "invokedAt": "2024-06-06T16:44:17.851Z"
   }
 ]
