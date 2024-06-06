@@ -654,5 +654,13 @@
     "username": "heavyduck963",
     "password": "pharmacy",
     "invokedAt": "2024-06-06T14:35:48.043Z"
+  },
+  {
+    "firstName": "Loïs",
+    "lastName": "Masson",
+    "email": "lois.masson@example.com",
+    "username": "bigmouse887",
+    "password": "common",
+    "invokedAt": "2024-06-06T14:41:43.981Z"
   }
 ]
