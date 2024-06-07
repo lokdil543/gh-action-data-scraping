@@ -854,5 +854,13 @@
     "username": "smallkoala771",
     "password": "wordup",
     "invokedAt": "2024-06-07T18:46:46.719Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Larsen",
+    "email": "storm.larsen@example.com",
+    "username": "goldendog211",
+    "password": "bartman",
+    "invokedAt": "2024-06-07T18:52:45.604Z"
   }
 ]
