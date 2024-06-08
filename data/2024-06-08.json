@@ -262,5 +262,13 @@
     "username": "greentiger588",
     "password": "suzuki",
     "invokedAt": "2024-06-08T06:49:42.351Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Hansen",
+    "email": "lucas.hansen@example.com",
+    "username": "happybird140",
+    "password": "iceman",
+    "invokedAt": "2024-06-08T06:55:48.030Z"
   }
 ]
