@@ -886,5 +886,13 @@
     "username": "redwolf682",
     "password": "googoo",
     "invokedAt": "2024-06-09T18:12:48.404Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Macrae",
+    "email": "oscar.macrae@example.com",
+    "username": "brownleopard239",
+    "password": "bogus",
+    "invokedAt": "2024-06-09T18:28:32.350Z"
   }
 ]
