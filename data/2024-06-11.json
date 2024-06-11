@@ -926,5 +926,13 @@
     "username": "purpledog537",
     "password": "arsenal",
     "invokedAt": "2024-06-11T19:43:31.436Z"
+  },
+  {
+    "firstName": "Eddie",
+    "lastName": "Nguyen",
+    "email": "eddie.nguyen@example.com",
+    "username": "tinydog971",
+    "password": "cinema",
+    "invokedAt": "2024-06-11T19:49:34.742Z"
   }
 ]
