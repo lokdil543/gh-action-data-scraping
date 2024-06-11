@@ -518,5 +518,13 @@
     "username": "purplefish335",
     "password": "swimming",
     "invokedAt": "2024-06-11T11:43:57.522Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Koskela",
+    "email": "valtteri.koskela@example.com",
+    "username": "heavyfish871",
+    "password": "techniques",
+    "invokedAt": "2024-06-11T11:49:42.517Z"
   }
 ]
