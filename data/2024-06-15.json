@@ -342,5 +342,13 @@
     "username": "happybutterfly280",
     "password": "2112",
     "invokedAt": "2024-06-15T08:27:27.168Z"
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Hennum",
+    "email": "christopher.hennum@example.com",
+    "username": "angrypanda210",
+    "password": "corndog",
+    "invokedAt": "2024-06-15T08:35:02.450Z"
   }
 ]
