@@ -462,5 +462,13 @@
     "username": "heavyfish644",
     "password": "chewie",
     "invokedAt": "2024-06-15T10:30:44.786Z"
+  },
+  {
+    "firstName": "Agustín",
+    "lastName": "Ortega",
+    "email": "agustin.ortega@example.com",
+    "username": "bigfish961",
+    "password": "kissing",
+    "invokedAt": "2024-06-15T10:37:40.285Z"
   }
 ]
