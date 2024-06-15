@@ -774,5 +774,13 @@
     "username": "crazytiger480",
     "password": "4711",
     "invokedAt": "2024-06-15T16:07:45.537Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Brown",
+    "email": "harper.brown@example.com",
+    "username": "happygorilla910",
+    "password": "mentor",
+    "invokedAt": "2024-06-15T16:27:31.766Z"
   }
 ]
