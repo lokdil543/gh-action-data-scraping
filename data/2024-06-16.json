@@ -662,5 +662,13 @@
     "username": "purplebear193",
     "password": "87654321",
     "invokedAt": "2024-06-16T14:24:50.470Z"
+  },
+  {
+    "firstName": "Audun",
+    "lastName": "Grini",
+    "email": "audun.grini@example.com",
+    "username": "blackswan701",
+    "password": "buzzer",
+    "invokedAt": "2024-06-16T14:30:53.631Z"
   }
 ]
