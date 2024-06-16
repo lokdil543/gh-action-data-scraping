@@ -590,5 +590,13 @@
     "username": "tinytiger326",
     "password": "oreo",
     "invokedAt": "2024-06-16T13:09:36.901Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Wood",
+    "email": "greg.wood@example.com",
+    "username": "blackmouse165",
+    "password": "gibson",
+    "invokedAt": "2024-06-16T13:23:06.416Z"
   }
 ]
