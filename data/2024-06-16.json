@@ -582,5 +582,13 @@
     "username": "redtiger419",
     "password": "lback",
     "invokedAt": "2024-06-16T12:56:32.055Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Saarela",
+    "email": "vaino.saarela@example.com",
+    "username": "tinytiger326",
+    "password": "oreo",
+    "invokedAt": "2024-06-16T13:09:36.901Z"
   }
 ]
