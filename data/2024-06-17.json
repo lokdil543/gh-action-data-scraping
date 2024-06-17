@@ -750,5 +750,13 @@
     "username": "orangeostrich902",
     "password": "toronto",
     "invokedAt": "2024-06-17T16:54:03.925Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Peters",
+    "email": "ben.peters@example.com",
+    "username": "lazyelephant534",
+    "password": "over",
+    "invokedAt": "2024-06-17T17:00:01.853Z"
   }
 ]
