@@ -542,5 +542,13 @@
     "username": "heavycat493",
     "password": "dickens",
     "invokedAt": "2024-06-19T12:12:14.214Z"
+  },
+  {
+    "firstName": "Terrance",
+    "lastName": "Duncan",
+    "email": "terrance.duncan@example.com",
+    "username": "angryduck827",
+    "password": "snoopy",
+    "invokedAt": "2024-06-19T12:44:11.834Z"
   }
 ]
