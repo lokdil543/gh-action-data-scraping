@@ -646,5 +646,13 @@
     "username": "happygoose324",
     "password": "hongkong",
     "invokedAt": "2024-06-20T14:24:30.803Z"
+  },
+  {
+    "firstName": "Branko",
+    "lastName": "Vučetić",
+    "email": "branko.vucetic@example.com",
+    "username": "silvercat101",
+    "password": "victor",
+    "invokedAt": "2024-06-20T14:30:54.827Z"
   }
 ]
