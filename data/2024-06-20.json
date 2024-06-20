@@ -790,5 +790,13 @@
     "username": "orangesnake923",
     "password": "iscool",
     "invokedAt": "2024-06-20T16:55:28.102Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Báez",
+    "email": "jose.baez@example.com",
+    "username": "brownlion757",
+    "password": "lambda",
+    "invokedAt": "2024-06-20T17:05:07.125Z"
   }
 ]
