@@ -518,5 +518,13 @@
     "username": "yellowdog687",
     "password": "tupac",
     "invokedAt": "2024-06-20T11:32:43.372Z"
+  },
+  {
+    "firstName": "Rodney",
+    "lastName": "Jordan",
+    "email": "rodney.jordan@example.com",
+    "username": "purpletiger301",
+    "password": "azerty",
+    "invokedAt": "2024-06-20T11:38:39.769Z"
   }
 ]
