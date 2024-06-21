@@ -158,5 +158,13 @@
     "username": "yellowtiger323",
     "password": "poiu",
     "invokedAt": "2024-06-21T05:09:00.599Z"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Fernández",
+    "email": "pablo.fernandez@example.com",
+    "username": "redtiger901",
+    "password": "woofer",
+    "invokedAt": "2024-06-21T05:25:56.961Z"
   }
 ]
