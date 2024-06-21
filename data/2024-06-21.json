@@ -958,5 +958,13 @@
     "username": "bigbutterfly122",
     "password": "chewbacc",
     "invokedAt": "2024-06-21T20:00:02.611Z"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Davis",
+    "email": "leonard.davis@example.com",
+    "username": "lazyladybug987",
+    "password": "august",
+    "invokedAt": "2024-06-21T20:17:09.379Z"
   }
 ]
