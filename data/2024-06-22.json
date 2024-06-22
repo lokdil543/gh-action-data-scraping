@@ -462,5 +462,13 @@
     "username": "greendog139",
     "password": "notnow",
     "invokedAt": "2024-06-22T10:35:40.453Z"
+  },
+  {
+    "firstName": "Ugo",
+    "lastName": "Adam",
+    "email": "ugo.adam@example.com",
+    "username": "ticklishpeacock427",
+    "password": "patch",
+    "invokedAt": "2024-06-22T10:41:35.692Z"
   }
 ]
