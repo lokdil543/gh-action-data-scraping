@@ -1102,5 +1102,13 @@
     "username": "redtiger111",
     "password": "nascar",
     "invokedAt": "2024-06-22T21:44:00.370Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "White",
+    "email": "morris.white@example.com",
+    "username": "silverpanda205",
+    "password": "terrier",
+    "invokedAt": "2024-06-22T21:50:00.222Z"
   }
 ]
