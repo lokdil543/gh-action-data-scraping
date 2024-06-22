@@ -1022,5 +1022,13 @@
     "username": "whitewolf634",
     "password": "656565",
     "invokedAt": "2024-06-22T20:31:20.503Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Walker",
+    "email": "james.walker@example.com",
+    "username": "redpeacock327",
+    "password": "guiness",
+    "invokedAt": "2024-06-22T20:37:33.551Z"
   }
 ]
