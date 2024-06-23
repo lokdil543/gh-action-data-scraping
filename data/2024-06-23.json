@@ -270,5 +270,13 @@
     "username": "greenelephant586",
     "password": "baddest",
     "invokedAt": "2024-06-23T07:10:05.859Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Wilson",
+    "email": "adam.wilson@example.com",
+    "username": "orangemouse386",
+    "password": "goblue",
+    "invokedAt": "2024-06-23T07:20:54.561Z"
   }
 ]
