@@ -918,5 +918,13 @@
     "username": "yellowkoala478",
     "password": "krusty",
     "invokedAt": "2024-06-23T18:30:46.785Z"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Newman",
+    "email": "troy.newman@example.com",
+    "username": "redfrog311",
+    "password": "cheater",
+    "invokedAt": "2024-06-23T18:37:33.443Z"
   }
 ]
