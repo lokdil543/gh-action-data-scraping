@@ -190,5 +190,13 @@
     "username": "sadbird555",
     "password": "manchester",
     "invokedAt": "2024-06-23T05:38:51.560Z"
+  },
+  {
+    "firstName": "Stanko",
+    "lastName": "Radivojević",
+    "email": "stanko.radivojevic@example.com",
+    "username": "tinybird384",
+    "password": "daisy1",
+    "invokedAt": "2024-06-23T05:44:40.758Z"
   }
 ]
