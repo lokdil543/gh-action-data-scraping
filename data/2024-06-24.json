@@ -742,5 +742,13 @@
     "username": "reddog909",
     "password": "womble",
     "invokedAt": "2024-06-24T16:13:42.024Z"
+  },
+  {
+    "firstName": "Gabrielle",
+    "lastName": "Chan",
+    "email": "gabrielle.chan@example.com",
+    "username": "whiteduck245",
+    "password": "palmtree",
+    "invokedAt": "2024-06-24T16:30:18.764Z"
   }
 ]
