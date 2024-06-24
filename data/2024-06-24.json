@@ -1006,5 +1006,13 @@
     "username": "brownswan502",
     "password": "sonic",
     "invokedAt": "2024-06-24T20:47:44.609Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Marchand",
+    "email": "claude.marchand@example.com",
+    "username": "orangegorilla298",
+    "password": "elephant",
+    "invokedAt": "2024-06-24T20:53:37.136Z"
   }
 ]
