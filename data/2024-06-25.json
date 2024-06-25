@@ -534,5 +534,13 @@
     "username": "happyostrich711",
     "password": "telephon",
     "invokedAt": "2024-06-25T11:45:32.971Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Anderson",
+    "email": "alice.anderson@example.com",
+    "username": "orangebear129",
+    "password": "teacher",
+    "invokedAt": "2024-06-25T11:51:26.147Z"
   }
 ]
