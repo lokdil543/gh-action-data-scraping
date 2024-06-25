@@ -846,5 +846,13 @@
     "username": "purplepanda575",
     "password": "cassie",
     "invokedAt": "2024-06-25T17:57:07.005Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Lefevre",
+    "email": "mary.lefevre@example.com",
+    "username": "beautifulpanda268",
+    "password": "backdoor",
+    "invokedAt": "2024-06-25T18:14:23.172Z"
   }
 ]
