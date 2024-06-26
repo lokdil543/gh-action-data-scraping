@@ -534,5 +534,13 @@
     "username": "orangelion742",
     "password": "starwars",
     "invokedAt": "2024-06-26T11:51:55.977Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Hamalainen",
+    "email": "emil.hamalainen@example.com",
+    "username": "whiterabbit479",
+    "password": "flyboy",
+    "invokedAt": "2024-06-26T11:57:55.828Z"
   }
 ]
