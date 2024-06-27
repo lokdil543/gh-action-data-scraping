@@ -390,5 +390,13 @@
     "username": "lazytiger588",
     "password": "vader1",
     "invokedAt": "2024-06-27T09:35:57.895Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Larsen",
+    "email": "mads.larsen@example.com",
+    "username": "purpletiger996",
+    "password": "cartoon",
+    "invokedAt": "2024-06-27T09:41:43.082Z"
   }
 ]
