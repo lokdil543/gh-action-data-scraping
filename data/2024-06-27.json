@@ -462,5 +462,13 @@
     "username": "orangeduck560",
     "password": "xxxxx",
     "invokedAt": "2024-06-27T10:58:35.081Z"
+  },
+  {
+    "firstName": "Gabrielle",
+    "lastName": "Andersen",
+    "email": "gabrielle.andersen@example.com",
+    "username": "blackfish540",
+    "password": "tomcat",
+    "invokedAt": "2024-06-27T11:10:48.989Z"
   }
 ]
