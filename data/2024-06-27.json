@@ -710,5 +710,13 @@
     "username": "blackdog862",
     "password": "camp",
     "invokedAt": "2024-06-27T15:50:02.644Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Alvarez",
+    "email": "arnold.alvarez@example.com",
+    "username": "orangepanda347",
+    "password": "bonbon",
+    "invokedAt": "2024-06-27T15:55:48.776Z"
   }
 ]
