@@ -470,5 +470,13 @@
     "username": "blackfish540",
     "password": "tomcat",
     "invokedAt": "2024-06-27T11:10:48.989Z"
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Watson",
+    "email": "alvin.watson@example.com",
+    "username": "lazycat106",
+    "password": "scorpion",
+    "invokedAt": "2024-06-27T11:19:56.591Z"
   }
 ]
