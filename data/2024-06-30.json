@@ -430,5 +430,13 @@
     "username": "tinyfrog201",
     "password": "barefoot",
     "invokedAt": "2024-06-30T09:57:49.515Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Walters",
+    "email": "martin.walters@example.com",
+    "username": "lazyfish871",
+    "password": "010203",
+    "invokedAt": "2024-06-30T10:11:06.696Z"
   }
 ]
