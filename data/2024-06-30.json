@@ -406,5 +406,13 @@
     "username": "heavyduck725",
     "password": "catch22",
     "invokedAt": "2024-06-30T09:39:52.467Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Sørensen",
+    "email": "emma.sorensen@example.com",
+    "username": "sadleopard572",
+    "password": "flanker",
+    "invokedAt": "2024-06-30T09:45:43.920Z"
   }
 ]
