@@ -662,5 +662,13 @@
     "username": "bigfrog539",
     "password": "dogbone",
     "invokedAt": "2024-07-02T14:41:24.156Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Petersen",
+    "email": "benjamin.petersen@example.com",
+    "username": "sadduck807",
+    "password": "zouzou",
+    "invokedAt": "2024-07-02T14:47:43.021Z"
   }
 ]
