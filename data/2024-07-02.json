@@ -246,5 +246,13 @@
     "username": "lazyduck491",
     "password": "columbia",
     "invokedAt": "2024-07-02T06:49:27.417Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Richards",
+    "email": "william.richards@example.com",
+    "username": "bigbird442",
+    "password": "possum",
+    "invokedAt": "2024-07-02T06:55:12.825Z"
   }
 ]
