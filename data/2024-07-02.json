@@ -566,5 +566,13 @@
     "username": "happypeacock161",
     "password": "johndoe",
     "invokedAt": "2024-07-02T12:57:30.836Z"
+  },
+  {
+    "firstName": "Saša",
+    "lastName": "Perišić",
+    "email": "sasa.perisic@example.com",
+    "username": "biggorilla871",
+    "password": "mail",
+    "invokedAt": "2024-07-02T13:13:02.962Z"
   }
 ]
