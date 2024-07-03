@@ -246,5 +246,13 @@
     "username": "whiteswan156",
     "password": "peewee",
     "invokedAt": "2024-07-03T06:50:56.888Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Bouchard",
+    "email": "charlie.bouchard@example.com",
+    "username": "happybutterfly859",
+    "password": "mikemike",
+    "invokedAt": "2024-07-03T06:56:56.244Z"
   }
 ]
