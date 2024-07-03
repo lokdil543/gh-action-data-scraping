@@ -446,5 +446,13 @@
     "username": "angrybird352",
     "password": "cang",
     "invokedAt": "2024-07-03T10:37:31.066Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Møller",
+    "email": "mathilde.moller@example.com",
+    "username": "whitebird731",
+    "password": "lock",
+    "invokedAt": "2024-07-03T10:43:27.327Z"
   }
 ]
