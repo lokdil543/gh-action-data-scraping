@@ -494,5 +494,13 @@
     "username": "heavymouse172",
     "password": "woohoo",
     "invokedAt": "2024-07-03T11:24:10.750Z"
+  },
+  {
+    "firstName": "Radboud",
+    "lastName": "Voermans",
+    "email": "radboud.voermans@example.com",
+    "username": "goldenbear671",
+    "password": "stupid1",
+    "invokedAt": "2024-07-03T11:30:12.749Z"
   }
 ]
