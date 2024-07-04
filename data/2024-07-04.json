@@ -262,5 +262,13 @@
     "username": "yellowpeacock160",
     "password": "lock",
     "invokedAt": "2024-07-04T07:21:40.530Z"
+  },
+  {
+    "firstName": "Novak",
+    "lastName": "Vidaković",
+    "email": "novak.vidakovic@example.com",
+    "username": "greengoose649",
+    "password": "flexible",
+    "invokedAt": "2024-07-04T07:27:30.777Z"
   }
 ]
