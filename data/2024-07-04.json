@@ -302,5 +302,13 @@
     "username": "brownswan462",
     "password": "depeche",
     "invokedAt": "2024-07-04T07:52:57.926Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Jørgensen",
+    "email": "adam.jorgensen@example.com",
+    "username": "lazycat193",
+    "password": "bongo",
+    "invokedAt": "2024-07-04T07:58:49.100Z"
   }
 ]
