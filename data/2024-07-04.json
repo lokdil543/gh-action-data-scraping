@@ -790,5 +790,13 @@
     "username": "purplemouse101",
     "password": "perfect1",
     "invokedAt": "2024-07-04T17:25:19.918Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Hannula",
+    "email": "oliver.hannula@example.com",
+    "username": "happydog767",
+    "password": "2424",
+    "invokedAt": "2024-07-04T17:31:34.011Z"
   }
 ]
