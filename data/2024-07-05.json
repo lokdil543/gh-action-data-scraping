@@ -134,5 +134,13 @@
     "username": "whitefrog424",
     "password": "exchange",
     "invokedAt": "2024-07-05T04:46:02.804Z"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Pilz",
+    "email": "mark.pilz@example.com",
+    "username": "silvergoose520",
+    "password": "pingpong",
+    "invokedAt": "2024-07-05T04:51:48.855Z"
   }
 ]
