@@ -446,5 +446,13 @@
     "username": "smallbird121",
     "password": "village",
     "invokedAt": "2024-07-05T10:36:12.976Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Johansen",
+    "email": "albert.johansen@example.com",
+    "username": "redlion957",
+    "password": "sleep",
+    "invokedAt": "2024-07-05T10:41:54.959Z"
   }
 ]
