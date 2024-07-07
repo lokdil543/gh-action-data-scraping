@@ -662,5 +662,13 @@
     "username": "brownfrog771",
     "password": "gabber",
     "invokedAt": "2024-07-07T14:35:08.864Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Mason",
+    "email": "fred.mason@example.com",
+    "username": "happyfish406",
+    "password": "citroen",
+    "invokedAt": "2024-07-07T14:40:49.470Z"
   }
 ]
