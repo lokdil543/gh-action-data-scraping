@@ -678,5 +678,13 @@
     "username": "tinycat239",
     "password": "alpha1",
     "invokedAt": "2024-07-07T14:46:49.152Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Petersen",
+    "email": "simon.petersen@example.com",
+    "username": "happywolf668",
+    "password": "gymnastic",
+    "invokedAt": "2024-07-07T14:52:35.771Z"
   }
 ]
