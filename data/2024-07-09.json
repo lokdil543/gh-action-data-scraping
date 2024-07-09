@@ -926,5 +926,13 @@
     "username": "tinygoose453",
     "password": "guido",
     "invokedAt": "2024-07-09T19:42:54.244Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Diez",
+    "email": "alvaro.diez@example.com",
+    "username": "heavydog701",
+    "password": "oranges",
+    "invokedAt": "2024-07-09T19:48:44.729Z"
   }
 ]
