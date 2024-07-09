@@ -798,5 +798,13 @@
     "username": "purplefrog974",
     "password": "load",
     "invokedAt": "2024-07-09T17:35:02.306Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Banks",
+    "email": "billy.banks@example.com",
+    "username": "lazybird896",
+    "password": "nyjets",
+    "invokedAt": "2024-07-09T17:40:48.353Z"
   }
 ]
