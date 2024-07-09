@@ -414,5 +414,13 @@
     "username": "blackgoose588",
     "password": "yahoo1",
     "invokedAt": "2024-07-09T09:54:52.863Z"
+  },
+  {
+    "firstName": "Matheus",
+    "lastName": "Sakariassen",
+    "email": "matheus.sakariassen@example.com",
+    "username": "orangebird212",
+    "password": "nopass",
+    "invokedAt": "2024-07-09T10:07:15.849Z"
   }
 ]
