@@ -518,5 +518,13 @@
     "username": "whitedog460",
     "password": "these",
     "invokedAt": "2024-07-10T11:50:03.243Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Renaud",
+    "email": "simon.renaud@example.com",
+    "username": "greenwolf109",
+    "password": "texas",
+    "invokedAt": "2024-07-10T11:56:04.785Z"
   }
 ]
