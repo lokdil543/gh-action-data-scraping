@@ -342,5 +342,13 @@
     "username": "redgoose161",
     "password": "smiley",
     "invokedAt": "2024-07-12T08:32:34.861Z"
+  },
+  {
+    "firstName": "Matthias",
+    "lastName": "Arnaud",
+    "email": "matthias.arnaud@example.com",
+    "username": "redwolf321",
+    "password": "zxcvbn",
+    "invokedAt": "2024-07-12T08:40:52.382Z"
   }
 ]
