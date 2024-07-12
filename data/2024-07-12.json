@@ -966,5 +966,13 @@
     "username": "greenbird906",
     "password": "gateway1",
     "invokedAt": "2024-07-12T20:23:15.590Z"
+  },
+  {
+    "firstName": "Anne",
+    "lastName": "Denis",
+    "email": "anne.denis@example.com",
+    "username": "blueduck547",
+    "password": "kaiser",
+    "invokedAt": "2024-07-12T20:29:02.763Z"
   }
 ]
