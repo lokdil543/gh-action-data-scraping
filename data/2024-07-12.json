@@ -758,5 +758,13 @@
     "username": "whiteduck941",
     "password": "lilith",
     "invokedAt": "2024-07-12T16:40:01.964Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Carmona",
+    "email": "miguel.carmona@example.com",
+    "username": "redduck455",
+    "password": "abigail",
+    "invokedAt": "2024-07-12T16:45:55.732Z"
   }
 ]
