@@ -758,5 +758,13 @@
     "username": "heavymouse137",
     "password": "bumper",
     "invokedAt": "2024-07-13T15:42:18.576Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Fowler",
+    "email": "roger.fowler@example.com",
+    "username": "whitetiger818",
+    "password": "kangaroo",
+    "invokedAt": "2024-07-13T15:48:23.569Z"
   }
 ]
