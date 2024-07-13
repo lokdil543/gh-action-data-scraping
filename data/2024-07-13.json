@@ -382,5 +382,13 @@
     "username": "saddog855",
     "password": "parker",
     "invokedAt": "2024-07-13T08:57:39.539Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "León",
+    "email": "andres.leon@example.com",
+    "username": "bigbear449",
+    "password": "bonkers",
+    "invokedAt": "2024-07-13T09:10:55.401Z"
   }
 ]
