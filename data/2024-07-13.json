@@ -886,5 +886,13 @@
     "username": "happyfrog112",
     "password": "courage",
     "invokedAt": "2024-07-13T17:53:41.815Z"
+  },
+  {
+    "firstName": "Miško",
+    "lastName": "Vlahović",
+    "email": "misko.vlahovic@example.com",
+    "username": "beautifulbear735",
+    "password": "furball",
+    "invokedAt": "2024-07-13T17:59:31.397Z"
   }
 ]
