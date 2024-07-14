@@ -46,5 +46,13 @@
     "username": "sadpanda138",
     "password": "master1",
     "invokedAt": "2024-07-14T03:31:39.142Z"
+  },
+  {
+    "firstName": "Amal",
+    "lastName": "Kolstø",
+    "email": "amal.kolsto@example.com",
+    "username": "purpleswan700",
+    "password": "foobar",
+    "invokedAt": "2024-07-14T03:41:11.683Z"
   }
 ]
