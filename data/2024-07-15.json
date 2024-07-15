@@ -446,5 +446,13 @@
     "username": "whitekoala779",
     "password": "dave",
     "invokedAt": "2024-07-15T10:56:56.835Z"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Armstrong",
+    "email": "mary.armstrong@example.com",
+    "username": "crazyostrich206",
+    "password": "tempest",
+    "invokedAt": "2024-07-15T11:08:27.668Z"
   }
 ]
