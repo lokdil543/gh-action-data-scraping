@@ -326,5 +326,13 @@
     "username": "yellowbird235",
     "password": "colorado",
     "invokedAt": "2024-07-16T08:34:29.185Z"
+  },
+  {
+    "firstName": "Alma",
+    "lastName": "Andersen",
+    "email": "alma.andersen@example.com",
+    "username": "bigbird366",
+    "password": "dieter",
+    "invokedAt": "2024-07-16T08:42:19.960Z"
   }
 ]
