@@ -1022,5 +1022,13 @@
     "username": "bigduck506",
     "password": "french",
     "invokedAt": "2024-07-19T21:51:48.143Z"
+  },
+  {
+    "firstName": "Lucien",
+    "lastName": "Robin",
+    "email": "lucien.robin@example.com",
+    "username": "sadwolf389",
+    "password": "monica",
+    "invokedAt": "2024-07-19T21:57:42.791Z"
   }
 ]
