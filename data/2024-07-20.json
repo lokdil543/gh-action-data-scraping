@@ -526,5 +526,13 @@
     "username": "orangecat700",
     "password": "spotty",
     "invokedAt": "2024-07-20T11:38:15.075Z"
+  },
+  {
+    "firstName": "Brennan",
+    "lastName": "Gordon",
+    "email": "brennan.gordon@example.com",
+    "username": "heavyfish246",
+    "password": "ninja",
+    "invokedAt": "2024-07-20T11:44:10.799Z"
   }
 ]
