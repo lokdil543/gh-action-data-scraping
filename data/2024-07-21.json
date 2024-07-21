@@ -294,5 +294,13 @@
     "username": "purpleduck887",
     "password": "domingo",
     "invokedAt": "2024-07-21T07:47:38.814Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Anderson",
+    "email": "david.anderson@example.com",
+    "username": "whiteduck798",
+    "password": "shuttle",
+    "invokedAt": "2024-07-21T07:53:28.151Z"
   }
 ]
