@@ -662,5 +662,13 @@
     "username": "saddog543",
     "password": "awful",
     "invokedAt": "2024-07-21T14:35:47.433Z"
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Tešić",
+    "email": "bojan.tesic@example.com",
+    "username": "orangebird171",
+    "password": "kings",
+    "invokedAt": "2024-07-21T14:41:36.190Z"
   }
 ]
