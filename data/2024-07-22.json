@@ -846,5 +846,13 @@
     "username": "orangebutterfly223",
     "password": "jupiter",
     "invokedAt": "2024-07-22T19:19:10.877Z"
+  },
+  {
+    "firstName": "Marianne",
+    "lastName": "Smith",
+    "email": "marianne.smith@example.com",
+    "username": "purplebear234",
+    "password": "killbill",
+    "invokedAt": "2024-07-22T19:25:07.090Z"
   }
 ]
