@@ -966,5 +966,13 @@
     "username": "bluebear165",
     "password": "caveman",
     "invokedAt": "2024-07-23T20:47:29.621Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Perry",
+    "email": "connor.perry@example.com",
+    "username": "brownbear839",
+    "password": "montreal",
+    "invokedAt": "2024-07-23T20:53:22.022Z"
   }
 ]
