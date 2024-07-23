@@ -302,5 +302,13 @@
     "username": "happytiger179",
     "password": "warner",
     "invokedAt": "2024-07-23T08:10:18.967Z"
+  },
+  {
+    "firstName": "Espen",
+    "lastName": "Haarman",
+    "email": "espen.haarman@example.com",
+    "username": "redtiger287",
+    "password": "true",
+    "invokedAt": "2024-07-23T08:29:34.600Z"
   }
 ]
