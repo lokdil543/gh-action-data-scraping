@@ -254,5 +254,13 @@
     "username": "silverduck293",
     "password": "david1",
     "invokedAt": "2024-07-23T07:24:14.927Z"
+  },
+  {
+    "firstName": "Oona",
+    "lastName": "Seppanen",
+    "email": "oona.seppanen@example.com",
+    "username": "yellowdog128",
+    "password": "metoo",
+    "invokedAt": "2024-07-23T07:30:05.033Z"
   }
 ]
