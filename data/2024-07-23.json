@@ -710,5 +710,13 @@
     "username": "greenelephant189",
     "password": "sting",
     "invokedAt": "2024-07-23T16:10:59.078Z"
+  },
+  {
+    "firstName": "Viktor",
+    "lastName": "Semenenko",
+    "email": "viktor.semenenko@example.com",
+    "username": "redbutterfly227",
+    "password": "andersen",
+    "invokedAt": "2024-07-23T16:32:24.377Z"
   }
 ]
