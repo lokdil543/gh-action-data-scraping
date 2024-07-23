@@ -734,5 +734,13 @@
     "username": "orangeduck230",
     "password": "99999",
     "invokedAt": "2024-07-23T16:49:22.862Z"
+  },
+  {
+    "firstName": "Branislav",
+    "lastName": "Teodosić",
+    "email": "branislav.teodosic@example.com",
+    "username": "bluewolf638",
+    "password": "stumpy",
+    "invokedAt": "2024-07-23T16:55:30.856Z"
   }
 ]
