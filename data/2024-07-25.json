@@ -558,5 +558,13 @@
     "username": "sadkoala408",
     "password": "topcat",
     "invokedAt": "2024-07-25T13:16:41.312Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Kowalski",
+    "email": "jack.kowalski@example.com",
+    "username": "whitefrog953",
+    "password": "pisces",
+    "invokedAt": "2024-07-25T13:28:31.942Z"
   }
 ]
