@@ -398,5 +398,13 @@
     "username": "redpanda605",
     "password": "jones1",
     "invokedAt": "2024-07-25T09:46:13.734Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Jarvela",
+    "email": "anton.jarvela@example.com",
+    "username": "redcat579",
+    "password": "liberty",
+    "invokedAt": "2024-07-25T09:52:17.933Z"
   }
 ]
