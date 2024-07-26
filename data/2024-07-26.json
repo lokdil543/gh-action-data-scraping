@@ -846,5 +846,13 @@
     "username": "happygorilla538",
     "password": "balloon",
     "invokedAt": "2024-07-26T18:28:45.801Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Rasmussen",
+    "email": "kasper.rasmussen@example.com",
+    "username": "crazydog258",
+    "password": "a123456",
+    "invokedAt": "2024-07-26T18:37:14.938Z"
   }
 ]
