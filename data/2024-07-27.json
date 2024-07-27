@@ -398,5 +398,13 @@
     "username": "browntiger274",
     "password": "greens",
     "invokedAt": "2024-07-27T09:30:34.037Z"
+  },
+  {
+    "firstName": "Bjørnar",
+    "lastName": "Vegsund",
+    "email": "bjornar.vegsund@example.com",
+    "username": "orangemeercat303",
+    "password": "blue11",
+    "invokedAt": "2024-07-27T09:37:18.249Z"
   }
 ]
