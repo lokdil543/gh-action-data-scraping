@@ -526,5 +526,13 @@
     "username": "lazysnake875",
     "password": "maxime",
     "invokedAt": "2024-07-27T11:37:00.914Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Fowler",
+    "email": "sam.fowler@example.com",
+    "username": "blackwolf307",
+    "password": "scotty",
+    "invokedAt": "2024-07-27T11:42:44.642Z"
   }
 ]
