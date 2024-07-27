@@ -342,5 +342,13 @@
     "username": "crazygoose662",
     "password": "access",
     "invokedAt": "2024-07-27T08:35:56.829Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Denis",
+    "email": "martin.denis@example.com",
+    "username": "brownmouse247",
+    "password": "badger",
+    "invokedAt": "2024-07-27T08:42:03.432Z"
   }
 ]
