@@ -326,5 +326,13 @@
     "username": "tinypanda813",
     "password": "bob123",
     "invokedAt": "2024-07-27T08:13:20.947Z"
+  },
+  {
+    "firstName": "Lance",
+    "lastName": "Schmidt",
+    "email": "lance.schmidt@example.com",
+    "username": "goldengorilla811",
+    "password": "redfox",
+    "invokedAt": "2024-07-27T08:28:23.965Z"
   }
 ]
