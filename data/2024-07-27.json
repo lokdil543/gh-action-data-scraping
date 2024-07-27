@@ -1070,5 +1070,13 @@
     "username": "yellowelephant167",
     "password": "pizza",
     "invokedAt": "2024-07-27T21:28:57.659Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Carpentier",
+    "email": "mathieu.carpentier@example.com",
+    "username": "whiteduck598",
+    "password": "sinclair",
+    "invokedAt": "2024-07-27T21:35:31.907Z"
   }
 ]
