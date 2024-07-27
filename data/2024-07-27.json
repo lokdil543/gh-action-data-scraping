@@ -638,5 +638,13 @@
     "username": "bigzebra377",
     "password": "a12345",
     "invokedAt": "2024-07-27T13:58:11.111Z"
+  },
+  {
+    "firstName": "Eino",
+    "lastName": "Leppanen",
+    "email": "eino.leppanen@example.com",
+    "username": "redbutterfly566",
+    "password": "school",
+    "invokedAt": "2024-07-27T14:11:11.795Z"
   }
 ]
