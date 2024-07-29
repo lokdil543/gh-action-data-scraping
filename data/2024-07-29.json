@@ -894,5 +894,13 @@
     "username": "greentiger135",
     "password": "downer",
     "invokedAt": "2024-07-29T19:38:53.031Z"
+  },
+  {
+    "firstName": "Arlo",
+    "lastName": "Jones",
+    "email": "arlo.jones@example.com",
+    "username": "orangetiger458",
+    "password": "sponge",
+    "invokedAt": "2024-07-29T19:44:57.085Z"
   }
 ]
