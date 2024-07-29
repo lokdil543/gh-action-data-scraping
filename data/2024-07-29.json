@@ -774,5 +774,13 @@
     "username": "lazyzebra902",
     "password": "fred",
     "invokedAt": "2024-07-29T17:35:07.911Z"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Lawson",
+    "email": "kate.lawson@example.com",
+    "username": "silverfrog435",
+    "password": "cobra",
+    "invokedAt": "2024-07-29T17:41:06.936Z"
   }
 ]
