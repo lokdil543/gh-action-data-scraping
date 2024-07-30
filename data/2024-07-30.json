@@ -766,5 +766,13 @@
     "username": "yellowostrich984",
     "password": "demo",
     "invokedAt": "2024-07-30T17:13:28.870Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Anttila",
+    "email": "arttu.anttila@example.com",
+    "username": "silverswan220",
+    "password": "bibi",
+    "invokedAt": "2024-07-30T17:26:32.927Z"
   }
 ]
