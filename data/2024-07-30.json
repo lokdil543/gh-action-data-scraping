@@ -694,5 +694,13 @@
     "username": "blackwolf314",
     "password": "callaway",
     "invokedAt": "2024-07-30T15:44:37.072Z"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Guillot",
+    "email": "damien.guillot@example.com",
+    "username": "whitegorilla195",
+    "password": "message",
+    "invokedAt": "2024-07-30T15:50:35.532Z"
   }
 ]
