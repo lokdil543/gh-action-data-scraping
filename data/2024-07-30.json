@@ -606,5 +606,13 @@
     "username": "redbear900",
     "password": "stumpy",
     "invokedAt": "2024-07-30T14:00:16.981Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Jones",
+    "email": "jacob.jones@example.com",
+    "username": "bigrabbit279",
+    "password": "temp",
+    "invokedAt": "2024-07-30T14:15:01.680Z"
   }
 ]
