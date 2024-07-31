@@ -830,5 +830,13 @@
     "username": "whitelion368",
     "password": "phil",
     "invokedAt": "2024-07-31T16:31:45.994Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Larson",
+    "email": "jim.larson@example.com",
+    "username": "brownfish792",
+    "password": "laser",
+    "invokedAt": "2024-07-31T16:41:52.383Z"
   }
 ]
