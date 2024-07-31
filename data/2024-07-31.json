@@ -1206,5 +1206,13 @@
     "username": "tinykoala472",
     "password": "beatles1",
     "invokedAt": "2024-07-31T22:55:48.670Z"
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Røstad",
+    "email": "nils.rostad@example.com",
+    "username": "brownbird563",
+    "password": "grover",
+    "invokedAt": "2024-07-31T23:07:28.967Z"
   }
 ]
