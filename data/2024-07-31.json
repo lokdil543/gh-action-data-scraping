@@ -534,5 +534,13 @@
     "username": "orangedog713",
     "password": "packers1",
     "invokedAt": "2024-07-31T10:43:04.261Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Refsdal",
+    "email": "henry.refsdal@example.com",
+    "username": "brownostrich512",
+    "password": "rodman",
+    "invokedAt": "2024-07-31T10:48:52.761Z"
   }
 ]
