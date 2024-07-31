@@ -446,5 +446,13 @@
     "username": "ticklishbird666",
     "password": "*****",
     "invokedAt": "2024-07-31T09:14:45.145Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Andrews",
+    "email": "jane.andrews@example.com",
+    "username": "heavyduck150",
+    "password": "slipknot",
+    "invokedAt": "2024-07-31T09:27:22.044Z"
   }
 ]
