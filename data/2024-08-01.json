@@ -710,5 +710,13 @@
     "username": "bigrabbit424",
     "password": "iguana",
     "invokedAt": "2024-08-01T16:07:27.416Z"
+  },
+  {
+    "firstName": "Pieterke",
+    "lastName": "Van den Hooven",
+    "email": "pieterke.vandenhooven@example.com",
+    "username": "smallgoose416",
+    "password": "system",
+    "invokedAt": "2024-08-01T16:28:59.800Z"
   }
 ]
