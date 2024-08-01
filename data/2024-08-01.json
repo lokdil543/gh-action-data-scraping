@@ -254,5 +254,13 @@
     "username": "heavybird509",
     "password": "sport",
     "invokedAt": "2024-08-01T07:26:35.021Z"
+  },
+  {
+    "firstName": "Jörgen",
+    "lastName": "Gräf",
+    "email": "jorgen.graf@example.com",
+    "username": "greendog400",
+    "password": "fuking",
+    "invokedAt": "2024-08-01T07:33:11.910Z"
   }
 ]
