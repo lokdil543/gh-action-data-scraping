@@ -86,5 +86,13 @@
     "username": "smallelephant869",
     "password": "zxc123",
     "invokedAt": "2024-08-02T03:49:56.720Z"
+  },
+  {
+    "firstName": "Akseli",
+    "lastName": "Huhta",
+    "email": "akseli.huhta@example.com",
+    "username": "bigswan130",
+    "password": "broken",
+    "invokedAt": "2024-08-02T03:55:40.833Z"
   }
 ]
