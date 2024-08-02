@@ -598,5 +598,13 @@
     "username": "bluefrog540",
     "password": "reaper",
     "invokedAt": "2024-08-02T13:58:08.358Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Allen",
+    "email": "bob.allen@example.com",
+    "username": "redduck118",
+    "password": "scratch",
+    "invokedAt": "2024-08-02T14:12:25.563Z"
   }
 ]
