@@ -694,5 +694,13 @@
     "username": "tinywolf892",
     "password": "johnny1",
     "invokedAt": "2024-08-03T14:53:16.988Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Hansen",
+    "email": "jacob.hansen@example.com",
+    "username": "angrysnake404",
+    "password": "blizzard",
+    "invokedAt": "2024-08-03T14:59:01.086Z"
   }
 ]
