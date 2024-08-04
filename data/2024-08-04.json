@@ -966,5 +966,13 @@
     "username": "tinymouse492",
     "password": "1955",
     "invokedAt": "2024-08-04T19:58:14.917Z"
+  },
+  {
+    "firstName": "Hunter",
+    "lastName": "Anderson",
+    "email": "hunter.anderson@example.com",
+    "username": "orangemeercat308",
+    "password": "meow",
+    "invokedAt": "2024-08-04T20:13:25.875Z"
   }
 ]
