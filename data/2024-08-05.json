@@ -542,5 +542,13 @@
     "username": "greendog145",
     "password": "exotic",
     "invokedAt": "2024-08-05T13:23:48.923Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Christensen",
+    "email": "tristan.christensen@example.com",
+    "username": "redwolf445",
+    "password": "saint",
+    "invokedAt": "2024-08-05T13:31:03.889Z"
   }
 ]
