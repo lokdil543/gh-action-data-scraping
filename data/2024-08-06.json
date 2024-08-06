@@ -742,5 +742,13 @@
     "username": "redbutterfly628",
     "password": "scott",
     "invokedAt": "2024-08-06T16:49:02.456Z"
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Brooks",
+    "email": "phoebe.brooks@example.com",
+    "username": "yellowbutterfly443",
+    "password": "yahoo",
+    "invokedAt": "2024-08-06T16:54:52.134Z"
   }
 ]
