@@ -934,5 +934,13 @@
     "username": "heavyostrich433",
     "password": "marine",
     "invokedAt": "2024-08-06T20:21:05.022Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Freeman",
+    "email": "jerry.freeman@example.com",
+    "username": "bigfrog282",
+    "password": "wordup",
+    "invokedAt": "2024-08-06T20:27:22.040Z"
   }
 ]
