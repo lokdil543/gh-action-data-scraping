@@ -550,5 +550,13 @@
     "username": "tinygoose989",
     "password": "crew",
     "invokedAt": "2024-08-06T13:20:53.078Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Gagné",
+    "email": "nicolas.gagne@example.com",
+    "username": "angrysnake425",
+    "password": "warrior",
+    "invokedAt": "2024-08-06T13:30:30.996Z"
   }
 ]
