@@ -182,5 +182,13 @@
     "username": "happyrabbit395",
     "password": "1129",
     "invokedAt": "2024-08-06T05:45:55.248Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Lavoie",
+    "email": "charlie.lavoie@example.com",
+    "username": "sadbutterfly608",
+    "password": "tower",
+    "invokedAt": "2024-08-06T05:51:40.086Z"
   }
 ]
