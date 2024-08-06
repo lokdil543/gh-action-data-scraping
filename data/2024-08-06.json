@@ -606,5 +606,13 @@
     "username": "smallbutterfly185",
     "password": "lovers",
     "invokedAt": "2024-08-06T14:15:19.008Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Pedersen",
+    "email": "anna.pedersen@example.com",
+    "username": "crazybear323",
+    "password": "hanson",
+    "invokedAt": "2024-08-06T14:29:05.061Z"
   }
 ]
