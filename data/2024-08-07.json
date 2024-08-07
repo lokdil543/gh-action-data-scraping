@@ -326,5 +326,13 @@
     "username": "greendog283",
     "password": "magician",
     "invokedAt": "2024-08-07T08:40:54.299Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Young",
+    "email": "noah.young@example.com",
+    "username": "purplepanda478",
+    "password": "1111111",
+    "invokedAt": "2024-08-07T08:46:35.928Z"
   }
 ]
