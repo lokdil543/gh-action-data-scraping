@@ -670,5 +670,13 @@
     "username": "angrysnake321",
     "password": "woohoo",
     "invokedAt": "2024-08-07T15:32:20.595Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Pulkkinen",
+    "email": "daniel.pulkkinen@example.com",
+    "username": "whiteostrich811",
+    "password": "word",
+    "invokedAt": "2024-08-07T15:39:16.382Z"
   }
 ]
