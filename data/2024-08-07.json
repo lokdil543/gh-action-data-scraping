@@ -238,5 +238,13 @@
     "username": "browngorilla251",
     "password": "bigbird",
     "invokedAt": "2024-08-07T06:59:05.482Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Newman",
+    "email": "bob.newman@example.com",
+    "username": "sadduck747",
+    "password": "beowulf",
+    "invokedAt": "2024-08-07T07:12:50.315Z"
   }
 ]
