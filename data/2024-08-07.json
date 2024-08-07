@@ -982,5 +982,13 @@
     "username": "smalltiger402",
     "password": "maximus",
     "invokedAt": "2024-08-07T21:25:02.911Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Hunter",
+    "email": "luke.hunter@example.com",
+    "username": "happygorilla980",
+    "password": "knight",
+    "invokedAt": "2024-08-07T21:30:49.209Z"
   }
 ]
