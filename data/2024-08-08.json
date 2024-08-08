@@ -582,5 +582,13 @@
     "username": "browndog919",
     "password": "potato",
     "invokedAt": "2024-08-08T13:56:05.850Z"
+  },
+  {
+    "firstName": "Jorge Luis",
+    "lastName": "Angulo",
+    "email": "jorgeluis.angulo@example.com",
+    "username": "brownfrog612",
+    "password": "ratboy",
+    "invokedAt": "2024-08-08T14:08:14.816Z"
   }
 ]
