@@ -102,5 +102,13 @@
     "username": "silverfish446",
     "password": "sweets",
     "invokedAt": "2024-08-08T04:22:26.071Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Olsen",
+    "email": "maria.olsen@example.com",
+    "username": "lazyfrog369",
+    "password": "artist",
+    "invokedAt": "2024-08-08T04:35:41.307Z"
   }
 ]
