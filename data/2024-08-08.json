@@ -958,5 +958,13 @@
     "username": "bigsnake431",
     "password": "greece",
     "invokedAt": "2024-08-08T20:51:05.665Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Wirkkala",
+    "email": "leo.wirkkala@example.com",
+    "username": "smallbutterfly687",
+    "password": "request",
+    "invokedAt": "2024-08-08T20:57:40.426Z"
   }
 ]
