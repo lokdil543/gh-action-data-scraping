@@ -366,5 +366,13 @@
     "username": "whiteduck955",
     "password": "dipper",
     "invokedAt": "2024-08-10T09:23:18.853Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Turner",
+    "email": "arthur.turner@example.com",
+    "username": "lazyduck816",
+    "password": "whistler",
+    "invokedAt": "2024-08-10T09:29:12.134Z"
   }
 ]
