@@ -326,5 +326,13 @@
     "username": "whitefrog951",
     "password": "submit",
     "invokedAt": "2024-08-11T08:34:07.352Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Singh",
+    "email": "john.singh@example.com",
+    "username": "brownbear163",
+    "password": "dealer",
+    "invokedAt": "2024-08-11T08:40:28.978Z"
   }
 ]
