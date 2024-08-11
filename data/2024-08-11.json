@@ -1166,5 +1166,13 @@
     "username": "yellowdog144",
     "password": "spot",
     "invokedAt": "2024-08-11T23:49:19.143Z"
+  },
+  {
+    "firstName": "Anderson",
+    "lastName": "Van Norel",
+    "email": "anderson.vannorel@example.com",
+    "username": "bluebutterfly256",
+    "password": "mercury",
+    "invokedAt": "2024-08-11T23:55:04.558Z"
   }
 ]
