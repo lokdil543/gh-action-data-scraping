@@ -478,5 +478,13 @@
     "username": "goldenbird847",
     "password": "coors",
     "invokedAt": "2024-08-11T11:11:03.165Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Bishop",
+    "email": "roger.bishop@example.com",
+    "username": "crazydog411",
+    "password": "belly",
+    "invokedAt": "2024-08-11T11:19:46.042Z"
   }
 ]
