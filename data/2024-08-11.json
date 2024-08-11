@@ -542,5 +542,13 @@
     "username": "whitebird138",
     "password": "encore",
     "invokedAt": "2024-08-11T12:13:01.968Z"
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Roux",
+    "email": "mark.roux@example.com",
+    "username": "greendog110",
+    "password": "stinks",
+    "invokedAt": "2024-08-11T12:43:48.268Z"
   }
 ]
