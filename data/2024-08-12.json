@@ -902,5 +902,13 @@
     "username": "angrydog906",
     "password": "mylife",
     "invokedAt": "2024-08-12T20:24:33.024Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Schmidt",
+    "email": "claude.schmidt@example.com",
+    "username": "sadpeacock918",
+    "password": "sonic",
+    "invokedAt": "2024-08-12T20:30:36.128Z"
   }
 ]
