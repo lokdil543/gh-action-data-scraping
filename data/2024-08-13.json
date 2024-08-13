@@ -830,5 +830,13 @@
     "username": "redostrich964",
     "password": "test",
     "invokedAt": "2024-08-13T18:59:38.822Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Jørgensen",
+    "email": "andrea.jorgensen@example.com",
+    "username": "brownpanda257",
+    "password": "redbird",
+    "invokedAt": "2024-08-13T19:13:03.301Z"
   }
 ]
