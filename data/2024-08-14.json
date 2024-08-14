@@ -926,5 +926,13 @@
     "username": "goldendog836",
     "password": "bourbon",
     "invokedAt": "2024-08-14T20:26:17.193Z"
+  },
+  {
+    "firstName": "Franck",
+    "lastName": "Lemoine",
+    "email": "franck.lemoine@example.com",
+    "username": "happydog767",
+    "password": "apollo",
+    "invokedAt": "2024-08-14T20:32:39.355Z"
   }
 ]
