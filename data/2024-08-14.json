@@ -126,5 +126,13 @@
     "username": "greenbird509",
     "password": "asdfgh",
     "invokedAt": "2024-08-14T04:48:11.153Z"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Chapman",
+    "email": "scott.chapman@example.com",
+    "username": "purpleleopard365",
+    "password": "1a2b3c4d",
+    "invokedAt": "2024-08-14T04:54:15.030Z"
   }
 ]
