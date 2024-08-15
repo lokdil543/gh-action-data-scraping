@@ -1070,5 +1070,13 @@
     "username": "lazyfrog942",
     "password": "bouncer",
     "invokedAt": "2024-08-15T22:45:23.273Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Roberts",
+    "email": "alice.roberts@example.com",
+    "username": "crazybird298",
+    "password": "faithful",
+    "invokedAt": "2024-08-15T22:51:18.979Z"
   }
 ]
