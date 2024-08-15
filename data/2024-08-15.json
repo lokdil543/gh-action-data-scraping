@@ -662,5 +662,13 @@
     "username": "redrabbit676",
     "password": "abc12345",
     "invokedAt": "2024-08-15T15:29:57.652Z"
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Robinson",
+    "email": "barbara.robinson@example.com",
+    "username": "bigfrog875",
+    "password": "shadow1",
+    "invokedAt": "2024-08-15T15:37:00.372Z"
   }
 ]
