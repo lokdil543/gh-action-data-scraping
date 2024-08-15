@@ -654,5 +654,13 @@
     "username": "greensnake136",
     "password": "fudge",
     "invokedAt": "2024-08-15T15:22:02.143Z"
+  },
+  {
+    "firstName": "Marija",
+    "lastName": "Perišić",
+    "email": "marija.perisic@example.com",
+    "username": "redrabbit676",
+    "password": "abc12345",
+    "invokedAt": "2024-08-15T15:29:57.652Z"
   }
 ]
