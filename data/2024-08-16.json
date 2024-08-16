@@ -726,5 +726,13 @@
     "username": "heavydog480",
     "password": "mother",
     "invokedAt": "2024-08-16T16:46:44.461Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Evans",
+    "email": "jackson.evans@example.com",
+    "username": "lazyzebra925",
+    "password": "doubled",
+    "invokedAt": "2024-08-16T16:52:33.072Z"
   }
 ]
