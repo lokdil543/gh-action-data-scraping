@@ -334,5 +334,13 @@
     "username": "orangebird836",
     "password": "sandra",
     "invokedAt": "2024-08-18T08:35:41.892Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Andersen",
+    "email": "daniel.andersen@example.com",
+    "username": "heavybird386",
+    "password": "1qaz2wsx",
+    "invokedAt": "2024-08-18T08:41:33.731Z"
   }
 ]
