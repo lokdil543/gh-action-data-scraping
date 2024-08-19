@@ -334,5 +334,13 @@
     "username": "lazysnake678",
     "password": "bite",
     "invokedAt": "2024-08-19T08:51:01.110Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Andersen",
+    "email": "adam.andersen@example.com",
+    "username": "orangemeercat270",
+    "password": "magic",
+    "invokedAt": "2024-08-19T08:57:13.014Z"
   }
 ]
