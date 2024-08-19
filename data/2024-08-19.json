@@ -318,5 +318,13 @@
     "username": "yellowsnake940",
     "password": "celtics",
     "invokedAt": "2024-08-19T08:39:14.345Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Hansen",
+    "email": "andrea.hansen@example.com",
+    "username": "blackostrich881",
+    "password": "zorro",
+    "invokedAt": "2024-08-19T08:45:09.720Z"
   }
 ]
