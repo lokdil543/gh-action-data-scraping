@@ -518,5 +518,13 @@
     "username": "whiteelephant902",
     "password": "string",
     "invokedAt": "2024-08-19T12:26:32.971Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Hicks",
+    "email": "jenny.hicks@example.com",
+    "username": "ticklishelephant203",
+    "password": "harbor",
+    "invokedAt": "2024-08-19T12:51:48.740Z"
   }
 ]
