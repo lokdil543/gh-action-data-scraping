@@ -926,5 +926,13 @@
     "username": "smallfish601",
     "password": "garbage",
     "invokedAt": "2024-08-21T20:12:05.885Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Numanoğlu",
+    "email": "deniz.numanoglu@example.com",
+    "username": "heavyduck400",
+    "password": "roadkill",
+    "invokedAt": "2024-08-21T20:27:13.643Z"
   }
 ]
