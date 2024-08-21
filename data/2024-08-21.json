@@ -294,5 +294,13 @@
     "username": "redbird140",
     "password": "access1",
     "invokedAt": "2024-08-21T07:52:48.247Z"
+  },
+  {
+    "firstName": "Sascha",
+    "lastName": "Pietschmann",
+    "email": "sascha.pietschmann@example.com",
+    "username": "purplegorilla829",
+    "password": "poochie",
+    "invokedAt": "2024-08-21T07:58:50.406Z"
   }
 ]
