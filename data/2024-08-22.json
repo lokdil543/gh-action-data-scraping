@@ -254,5 +254,13 @@
     "username": "blacktiger403",
     "password": "heart",
     "invokedAt": "2024-08-22T07:30:05.246Z"
+  },
+  {
+    "firstName": "Maik",
+    "lastName": "Lefebvre",
+    "email": "maik.lefebvre@example.com",
+    "username": "redpanda699",
+    "password": "proxy",
+    "invokedAt": "2024-08-22T07:36:46.114Z"
   }
 ]
