@@ -750,5 +750,13 @@
     "username": "smallduck201",
     "password": "mechanic",
     "invokedAt": "2024-08-23T17:28:45.394Z"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Hall",
+    "email": "austin.hall@example.com",
+    "username": "blacklion905",
+    "password": "speaker",
+    "invokedAt": "2024-08-23T17:36:35.064Z"
   }
 ]
