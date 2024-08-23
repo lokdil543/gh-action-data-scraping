@@ -934,5 +934,13 @@
     "username": "brownelephant662",
     "password": "wagner",
     "invokedAt": "2024-08-23T20:38:52.360Z"
+  },
+  {
+    "firstName": "Dejan",
+    "lastName": "Stojković",
+    "email": "dejan.stojkovic@example.com",
+    "username": "browndog765",
+    "password": "buzz",
+    "invokedAt": "2024-08-23T20:44:56.940Z"
   }
 ]
