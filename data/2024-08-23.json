@@ -382,5 +382,13 @@
     "username": "bluebird130",
     "password": "frodo",
     "invokedAt": "2024-08-23T09:46:25.539Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Lampinen",
+    "email": "joona.lampinen@example.com",
+    "username": "biggorilla948",
+    "password": "mazda",
+    "invokedAt": "2024-08-23T09:52:22.118Z"
   }
 ]
