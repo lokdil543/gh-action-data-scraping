@@ -894,5 +894,13 @@
     "username": "tinybear235",
     "password": "perfect",
     "invokedAt": "2024-08-24T18:56:55.826Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Poulsen",
+    "email": "emil.poulsen@example.com",
+    "username": "bluedog451",
+    "password": "seven",
+    "invokedAt": "2024-08-24T19:07:35.028Z"
   }
 ]
