@@ -862,5 +862,13 @@
     "username": "bluegorilla853",
     "password": "blade",
     "invokedAt": "2024-08-24T18:30:46.284Z"
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Neal",
+    "email": "bruce.neal@example.com",
+    "username": "smallkoala510",
+    "password": "true",
+    "invokedAt": "2024-08-24T18:39:28.356Z"
   }
 ]
