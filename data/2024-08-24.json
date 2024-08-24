@@ -942,5 +942,13 @@
     "username": "bluefrog606",
     "password": "chronic",
     "invokedAt": "2024-08-24T19:42:42.213Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Freeman",
+    "email": "george.freeman@example.com",
+    "username": "yellowelephant965",
+    "password": "kenny1",
+    "invokedAt": "2024-08-24T19:48:31.229Z"
   }
 ]
