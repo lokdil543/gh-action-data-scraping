@@ -726,5 +726,13 @@
     "username": "whiteswan559",
     "password": "102938",
     "invokedAt": "2024-08-25T16:13:03.449Z"
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "Bender",
+    "email": "willy.bender@example.com",
+    "username": "silverpanda879",
+    "password": "money1",
+    "invokedAt": "2024-08-25T16:30:19.105Z"
   }
 ]
