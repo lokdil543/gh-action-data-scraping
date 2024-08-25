@@ -414,5 +414,13 @@
     "username": "silverbutterfly120",
     "password": "cheese1",
     "invokedAt": "2024-08-25T10:13:42.893Z"
+  },
+  {
+    "firstName": "Cindy",
+    "lastName": "Flatås",
+    "email": "cindy.flatas@example.com",
+    "username": "purpleladybug449",
+    "password": "goober",
+    "invokedAt": "2024-08-25T10:29:28.245Z"
   }
 ]
