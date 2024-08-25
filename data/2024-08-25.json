@@ -550,5 +550,13 @@
     "username": "organicduck836",
     "password": "456456",
     "invokedAt": "2024-08-25T13:17:07.706Z"
+  },
+  {
+    "firstName": "Albane",
+    "lastName": "Roche",
+    "email": "albane.roche@example.com",
+    "username": "sadpeacock324",
+    "password": "django",
+    "invokedAt": "2024-08-25T13:26:45.717Z"
   }
 ]
