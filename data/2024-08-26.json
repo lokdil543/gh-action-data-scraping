@@ -446,5 +446,13 @@
     "username": "happyleopard285",
     "password": "thing",
     "invokedAt": "2024-08-26T11:22:30.162Z"
+  },
+  {
+    "firstName": "Esteban",
+    "lastName": "Ibáñez",
+    "email": "esteban.ibanez@example.com",
+    "username": "purplefish424",
+    "password": "tazmania",
+    "invokedAt": "2024-08-26T11:28:30.306Z"
   }
 ]
