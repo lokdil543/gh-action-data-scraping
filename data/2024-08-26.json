@@ -534,5 +534,13 @@
     "username": "organicrabbit212",
     "password": "testpass",
     "invokedAt": "2024-08-26T13:38:14.033Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Gibson",
+    "email": "lucy.gibson@example.com",
+    "username": "lazybird339",
+    "password": "thecure",
+    "invokedAt": "2024-08-26T13:44:06.160Z"
   }
 ]
