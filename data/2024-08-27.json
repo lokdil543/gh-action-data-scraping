@@ -782,5 +782,13 @@
     "username": "brownfish511",
     "password": "951753",
     "invokedAt": "2024-08-27T18:00:05.194Z"
+  },
+  {
+    "firstName": "Yann",
+    "lastName": "Boyer",
+    "email": "yann.boyer@example.com",
+    "username": "purplefish479",
+    "password": "video",
+    "invokedAt": "2024-08-27T18:21:50.153Z"
   }
 ]
