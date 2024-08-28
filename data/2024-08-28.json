@@ -222,5 +222,13 @@
     "username": "whitebutterfly297",
     "password": "abc12345",
     "invokedAt": "2024-08-28T06:55:12.875Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Baker",
+    "email": "diana.baker@example.com",
+    "username": "blackswan946",
+    "password": "alisha",
+    "invokedAt": "2024-08-28T07:07:19.377Z"
   }
 ]
