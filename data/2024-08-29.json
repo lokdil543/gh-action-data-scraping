@@ -254,5 +254,13 @@
     "username": "brownbird231",
     "password": "reds",
     "invokedAt": "2024-08-29T07:37:19.315Z"
+  },
+  {
+    "firstName": "Hannchen",
+    "lastName": "Schüler",
+    "email": "hannchen.schuler@example.com",
+    "username": "sadbird653",
+    "password": "gizmo",
+    "invokedAt": "2024-08-29T07:43:10.175Z"
   }
 ]
