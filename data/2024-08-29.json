@@ -342,5 +342,13 @@
     "username": "yellowdog951",
     "password": "start1",
     "invokedAt": "2024-08-29T09:28:53.086Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Lévesque",
+    "email": "nicolas.levesque@example.com",
+    "username": "orangekoala437",
+    "password": "pookie",
+    "invokedAt": "2024-08-29T09:36:44.358Z"
   }
 ]
