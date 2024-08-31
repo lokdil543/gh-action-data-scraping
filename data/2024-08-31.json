@@ -238,5 +238,13 @@
     "username": "blacktiger426",
     "password": "wild",
     "invokedAt": "2024-08-31T07:13:31.995Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Andersen",
+    "email": "lucas.andersen@example.com",
+    "username": "whitebear521",
+    "password": "passpass",
+    "invokedAt": "2024-08-31T07:22:39.800Z"
   }
 ]
