@@ -190,5 +190,13 @@
     "username": "angryfrog124",
     "password": "party",
     "invokedAt": "2024-08-31T06:13:56.723Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Mortensen",
+    "email": "johan.mortensen@example.com",
+    "username": "happybutterfly830",
+    "password": "really",
+    "invokedAt": "2024-08-31T06:32:29.338Z"
   }
 ]
