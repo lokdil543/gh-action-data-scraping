@@ -1102,5 +1102,13 @@
     "username": "blacklion993",
     "password": "compact",
     "invokedAt": "2024-08-31T23:10:13.558Z"
+  },
+  {
+    "firstName": "Frédéric",
+    "lastName": "Lacroix",
+    "email": "frederic.lacroix@example.com",
+    "username": "happyfish709",
+    "password": "abcdefgh",
+    "invokedAt": "2024-08-31T23:22:39.461Z"
   }
 ]
