@@ -454,5 +454,13 @@
     "username": "heavyfish110",
     "password": "auburn",
     "invokedAt": "2024-08-31T11:05:30.753Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Palmer",
+    "email": "walter.palmer@example.com",
+    "username": "heavybear390",
+    "password": "football",
+    "invokedAt": "2024-08-31T11:18:35.514Z"
   }
 ]
