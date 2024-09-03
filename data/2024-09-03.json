@@ -302,5 +302,13 @@
     "username": "blackcat395",
     "password": "delta",
     "invokedAt": "2024-09-03T08:34:59.318Z"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Martin",
+    "email": "kim.martin@example.com",
+    "username": "tinydog886",
+    "password": "bouncer",
+    "invokedAt": "2024-09-03T08:44:51.097Z"
   }
 ]
