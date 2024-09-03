@@ -566,5 +566,13 @@
     "username": "bigcat361",
     "password": "istanbul",
     "invokedAt": "2024-09-03T14:09:50.127Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Blix",
+    "email": "niklas.blix@example.com",
+    "username": "crazywolf712",
+    "password": "virtual",
+    "invokedAt": "2024-09-03T14:28:04.305Z"
   }
 ]
