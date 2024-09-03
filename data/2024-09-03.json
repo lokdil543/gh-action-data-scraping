@@ -238,5 +238,13 @@
     "username": "goldenkoala901",
     "password": "giraffe",
     "invokedAt": "2024-09-03T07:23:07.178Z"
+  },
+  {
+    "firstName": "Marek",
+    "lastName": "Schatz",
+    "email": "marek.schatz@example.com",
+    "username": "whiteduck362",
+    "password": "kurt",
+    "invokedAt": "2024-09-03T07:28:55.812Z"
   }
 ]
