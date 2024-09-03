@@ -310,5 +310,13 @@
     "username": "tinydog886",
     "password": "bouncer",
     "invokedAt": "2024-09-03T08:44:51.097Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Koistinen",
+    "email": "peppi.koistinen@example.com",
+    "username": "browncat323",
+    "password": "claude",
+    "invokedAt": "2024-09-03T08:50:44.789Z"
   }
 ]
