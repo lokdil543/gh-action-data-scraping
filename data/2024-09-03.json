@@ -782,5 +782,13 @@
     "username": "heavysnake356",
     "password": "security",
     "invokedAt": "2024-09-03T18:45:40.142Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Holguín",
+    "email": "miguel.holguin@example.com",
+    "username": "bigsnake154",
+    "password": "trains",
+    "invokedAt": "2024-09-03T18:51:45.568Z"
   }
 ]
