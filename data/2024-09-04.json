@@ -846,5 +846,13 @@
     "username": "goldendog919",
     "password": "food",
     "invokedAt": "2024-09-04T19:49:42.271Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Ross",
+    "email": "olivier.ross@example.com",
+    "username": "yellowmeercat279",
+    "password": "seahawks",
+    "invokedAt": "2024-09-04T19:55:29.364Z"
   }
 ]
