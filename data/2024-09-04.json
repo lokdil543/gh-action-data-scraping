@@ -718,5 +718,13 @@
     "username": "heavyfish195",
     "password": "benson",
     "invokedAt": "2024-09-04T17:37:52.791Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Duran",
+    "email": "juan.duran@example.com",
+    "username": "blueduck435",
+    "password": "bronson",
+    "invokedAt": "2024-09-04T17:43:36.392Z"
   }
 ]
