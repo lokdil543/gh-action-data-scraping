@@ -190,5 +190,13 @@
     "username": "crazydog913",
     "password": "gawker",
     "invokedAt": "2024-09-05T06:34:08.330Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Pelletier",
+    "email": "jack.pelletier@example.com",
+    "username": "redbird372",
+    "password": "000007",
+    "invokedAt": "2024-09-05T06:44:46.979Z"
   }
 ]
