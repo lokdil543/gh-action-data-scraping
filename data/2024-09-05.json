@@ -166,5 +166,13 @@
     "username": "happylion174",
     "password": "abc123",
     "invokedAt": "2024-09-05T05:49:29.097Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Watson",
+    "email": "sara.watson@example.com",
+    "username": "yellowrabbit928",
+    "password": "goodman",
+    "invokedAt": "2024-09-05T05:55:22.984Z"
   }
 ]
