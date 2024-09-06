@@ -430,5 +430,13 @@
     "username": "greensnake110",
     "password": "ceng",
     "invokedAt": "2024-09-06T11:13:46.548Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Knarvik",
+    "email": "mikkel.knarvik@example.com",
+    "username": "greenelephant694",
+    "password": "exchange",
+    "invokedAt": "2024-09-06T11:23:45.164Z"
   }
 ]
