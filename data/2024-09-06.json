@@ -710,5 +710,13 @@
     "username": "goldenmouse909",
     "password": "bullet",
     "invokedAt": "2024-09-06T17:30:32.258Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Poulsen",
+    "email": "frederik.poulsen@example.com",
+    "username": "bigbutterfly131",
+    "password": "starwars",
+    "invokedAt": "2024-09-06T17:36:47.236Z"
   }
 ]
