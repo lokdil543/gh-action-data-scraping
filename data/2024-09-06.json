@@ -670,5 +670,13 @@
     "username": "blackostrich500",
     "password": "bank",
     "invokedAt": "2024-09-06T16:46:06.378Z"
+  },
+  {
+    "firstName": "Renato",
+    "lastName": "Santillán",
+    "email": "renato.santillan@example.com",
+    "username": "purpledog240",
+    "password": "asdf123",
+    "invokedAt": "2024-09-06T16:52:00.490Z"
   }
 ]
