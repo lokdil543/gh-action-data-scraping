@@ -422,5 +422,13 @@
     "username": "crazysnake755",
     "password": "spam",
     "invokedAt": "2024-09-06T10:59:33.195Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "James",
+    "email": "bernard.james@example.com",
+    "username": "greensnake110",
+    "password": "ceng",
+    "invokedAt": "2024-09-06T11:13:46.548Z"
   }
 ]
