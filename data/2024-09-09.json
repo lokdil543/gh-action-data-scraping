@@ -430,5 +430,13 @@
     "username": "bigrabbit297",
     "password": "normal",
     "invokedAt": "2024-09-09T11:39:27.396Z"
+  },
+  {
+    "firstName": "Ebrahim",
+    "lastName": "Karman",
+    "email": "ebrahim.karman@example.com",
+    "username": "blueswan561",
+    "password": "broken",
+    "invokedAt": "2024-09-09T11:45:15.209Z"
   }
 ]
