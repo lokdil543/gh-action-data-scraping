@@ -670,5 +670,13 @@
     "username": "silverfrog255",
     "password": "blabla",
     "invokedAt": "2024-09-09T17:25:10.221Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Adıvar",
+    "email": "gokhan.adivar@example.com",
+    "username": "lazyswan256",
+    "password": "kikimora",
+    "invokedAt": "2024-09-09T17:34:42.642Z"
   }
 ]
