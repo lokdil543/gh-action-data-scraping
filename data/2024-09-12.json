@@ -406,5 +406,13 @@
     "username": "blackpeacock151",
     "password": "nathan1",
     "invokedAt": "2024-09-12T10:54:12.236Z"
+  },
+  {
+    "firstName": "Murat",
+    "lastName": "Poçan",
+    "email": "murat.pocan@example.com",
+    "username": "blackduck196",
+    "password": "timeout",
+    "invokedAt": "2024-09-12T11:00:06.764Z"
   }
 ]
