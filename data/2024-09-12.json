@@ -382,5 +382,13 @@
     "username": "happypanda709",
     "password": "postal",
     "invokedAt": "2024-09-12T10:32:27.245Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Jørgensen",
+    "email": "malthe.jorgensen@example.com",
+    "username": "bluebutterfly170",
+    "password": "123457",
+    "invokedAt": "2024-09-12T10:42:25.453Z"
   }
 ]
