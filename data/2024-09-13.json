@@ -790,5 +790,13 @@
     "username": "whitecat387",
     "password": "holein1",
     "invokedAt": "2024-09-13T19:09:51.154Z"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Perry",
+    "email": "benjamin.perry@example.com",
+    "username": "blackswan519",
+    "password": "dogbone",
+    "invokedAt": "2024-09-13T19:21:33.161Z"
   }
 ]
