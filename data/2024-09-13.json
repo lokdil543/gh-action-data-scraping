@@ -1046,5 +1046,13 @@
     "username": "redleopard440",
     "password": "look",
     "invokedAt": "2024-09-13T23:44:30.236Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Poulsen",
+    "email": "simon.poulsen@example.com",
+    "username": "redfrog784",
+    "password": "gobucks",
+    "invokedAt": "2024-09-13T23:50:17.113Z"
   }
 ]
