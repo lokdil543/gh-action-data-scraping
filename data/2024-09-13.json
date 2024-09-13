@@ -534,5 +534,13 @@
     "username": "yellowbear108",
     "password": "ticket",
     "invokedAt": "2024-09-13T13:51:36.241Z"
+  },
+  {
+    "firstName": "Héctor",
+    "lastName": "Carrasco",
+    "email": "hector.carrasco@example.com",
+    "username": "yellowfrog425",
+    "password": "bullet",
+    "invokedAt": "2024-09-13T13:57:26.457Z"
   }
 ]
