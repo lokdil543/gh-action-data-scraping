@@ -830,5 +830,13 @@
     "username": "browngorilla232",
     "password": "drive",
     "invokedAt": "2024-09-17T18:52:40.913Z"
+  },
+  {
+    "firstName": "Stefana",
+    "lastName": "Vujičić",
+    "email": "stefana.vujicic@example.com",
+    "username": "orangegorilla183",
+    "password": "abc123",
+    "invokedAt": "2024-09-17T18:58:41.350Z"
   }
 ]
