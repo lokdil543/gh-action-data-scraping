@@ -494,5 +494,13 @@
     "username": "heavymeercat793",
     "password": "testpass",
     "invokedAt": "2024-09-17T11:26:32.317Z"
+  },
+  {
+    "firstName": "Goran",
+    "lastName": "Pantić",
+    "email": "goran.pantic@example.com",
+    "username": "redmeercat287",
+    "password": "jessica1",
+    "invokedAt": "2024-09-17T11:34:13.403Z"
   }
 ]
