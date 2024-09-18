@@ -166,5 +166,13 @@
     "username": "bluedog203",
     "password": "sinatra",
     "invokedAt": "2024-09-18T05:57:17.497Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Young",
+    "email": "kathy.young@example.com",
+    "username": "yellowpeacock460",
+    "password": "philly",
+    "invokedAt": "2024-09-18T06:17:28.641Z"
   }
 ]
