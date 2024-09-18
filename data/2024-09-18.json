@@ -598,5 +598,13 @@
     "username": "sadfrog680",
     "password": "domain",
     "invokedAt": "2024-09-18T15:37:05.198Z"
+  },
+  {
+    "firstName": "Peggy",
+    "lastName": "Moore",
+    "email": "peggy.moore@example.com",
+    "username": "whitedog303",
+    "password": "homer",
+    "invokedAt": "2024-09-18T15:43:06.721Z"
   }
 ]
