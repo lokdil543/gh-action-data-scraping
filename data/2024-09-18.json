@@ -406,5 +406,13 @@
     "username": "brownostrich610",
     "password": "sail",
     "invokedAt": "2024-09-18T11:00:19.234Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Shaw",
+    "email": "matthew.shaw@example.com",
+    "username": "crazybear445",
+    "password": "bobo",
+    "invokedAt": "2024-09-18T11:14:45.604Z"
   }
 ]
