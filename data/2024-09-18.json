@@ -158,5 +158,13 @@
     "username": "blueelephant702",
     "password": "peabody",
     "invokedAt": "2024-09-18T05:51:28.263Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Beck",
+    "email": "dick.beck@example.com",
+    "username": "bluedog203",
+    "password": "sinatra",
+    "invokedAt": "2024-09-18T05:57:17.497Z"
   }
 ]
