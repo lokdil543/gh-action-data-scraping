@@ -414,5 +414,13 @@
     "username": "goldenzebra534",
     "password": "strike",
     "invokedAt": "2024-09-19T11:15:22.198Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Craig",
+    "email": "larry.craig@example.com",
+    "username": "crazypanda698",
+    "password": "sister",
+    "invokedAt": "2024-09-19T11:24:41.536Z"
   }
 ]
