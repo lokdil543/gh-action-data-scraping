@@ -990,5 +990,13 @@
     "username": "greenostrich870",
     "password": "picard",
     "invokedAt": "2024-09-19T23:07:42.185Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Sirko",
+    "email": "victor.sirko@example.com",
+    "username": "happydog984",
+    "password": "corndog",
+    "invokedAt": "2024-09-19T23:23:59.389Z"
   }
 ]
