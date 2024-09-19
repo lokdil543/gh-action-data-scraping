@@ -974,5 +974,13 @@
     "username": "happylion329",
     "password": "mercury1",
     "invokedAt": "2024-09-19T22:49:04.317Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Washington",
+    "email": "john.washington@example.com",
+    "username": "greenrabbit107",
+    "password": "picasso",
+    "invokedAt": "2024-09-19T22:55:00.239Z"
   }
 ]
