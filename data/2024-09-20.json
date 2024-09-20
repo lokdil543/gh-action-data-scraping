@@ -310,5 +310,13 @@
     "username": "bigcat776",
     "password": "cyrus",
     "invokedAt": "2024-09-20T09:15:08.507Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Andersen",
+    "email": "emil.andersen@example.com",
+    "username": "goldenmeercat192",
+    "password": "golfing",
+    "invokedAt": "2024-09-20T09:31:30.188Z"
   }
 ]
