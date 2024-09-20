@@ -958,5 +958,13 @@
     "username": "yellowdog505",
     "password": "xiong",
     "invokedAt": "2024-09-20T22:42:30.378Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Castillo",
+    "email": "diego.castillo@example.com",
+    "username": "bluefish195",
+    "password": "victor",
+    "invokedAt": "2024-09-20T22:48:34.110Z"
   }
 ]
