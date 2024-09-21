@@ -270,5 +270,13 @@
     "username": "angrytiger945",
     "password": "bucket",
     "invokedAt": "2024-09-21T07:54:26.332Z"
+  },
+  {
+    "firstName": "Hermann",
+    "lastName": "Kvammen",
+    "email": "hermann.kvammen@example.com",
+    "username": "bigwolf300",
+    "password": "underdog",
+    "invokedAt": "2024-09-21T08:00:17.490Z"
   }
 ]
