@@ -662,5 +662,13 @@
     "username": "redfish710",
     "password": "newman",
     "invokedAt": "2024-09-22T16:07:55.449Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Durand",
+    "email": "ralph.durand@example.com",
+    "username": "crazytiger651",
+    "password": "elway",
+    "invokedAt": "2024-09-22T16:29:01.324Z"
   }
 ]
