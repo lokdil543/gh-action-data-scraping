@@ -182,5 +182,13 @@
     "username": "crazydog662",
     "password": "a123456",
     "invokedAt": "2024-09-23T06:54:15.516Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Sirko",
+    "email": "tristan.sirko@example.com",
+    "username": "smallzebra578",
+    "password": "soccer",
+    "invokedAt": "2024-09-23T07:00:32.956Z"
   }
 ]
