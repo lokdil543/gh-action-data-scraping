@@ -510,5 +510,13 @@
     "username": "heavybutterfly109",
     "password": "second",
     "invokedAt": "2024-09-25T14:41:52.388Z"
+  },
+  {
+    "firstName": "Jean-Marc",
+    "lastName": "Blanc",
+    "email": "jean-marc.blanc@example.com",
+    "username": "goldenduck693",
+    "password": "pikachu",
+    "invokedAt": "2024-09-25T14:47:53.218Z"
   }
 ]
