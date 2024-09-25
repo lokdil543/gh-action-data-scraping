@@ -406,5 +406,13 @@
     "username": "silvergorilla417",
     "password": "corolla",
     "invokedAt": "2024-09-25T11:42:02.413Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Smith",
+    "email": "ralph.smith@example.com",
+    "username": "lazywolf630",
+    "password": "tennis",
+    "invokedAt": "2024-09-25T11:47:57.648Z"
   }
 ]
