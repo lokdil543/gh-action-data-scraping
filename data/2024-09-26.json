@@ -670,5 +670,13 @@
     "username": "crazyduck356",
     "password": "stafford",
     "invokedAt": "2024-09-26T18:00:08.520Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Salminen",
+    "email": "anton.salminen@example.com",
+    "username": "redmouse876",
+    "password": "letmein",
+    "invokedAt": "2024-09-26T18:22:49.457Z"
   }
 ]
