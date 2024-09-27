@@ -86,5 +86,13 @@
     "username": "greenfrog427",
     "password": "chen",
     "invokedAt": "2024-09-27T04:51:53.044Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Møller",
+    "email": "anton.moller@example.com",
+    "username": "greendog756",
+    "password": "terminal",
+    "invokedAt": "2024-09-27T04:57:53.103Z"
   }
 ]
