@@ -558,5 +558,13 @@
     "username": "tinyduck842",
     "password": "frost",
     "invokedAt": "2024-09-27T15:39:00.456Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Mora",
+    "email": "anna.mora@example.com",
+    "username": "redfrog739",
+    "password": "amazing",
+    "invokedAt": "2024-09-27T15:44:43.412Z"
   }
 ]
