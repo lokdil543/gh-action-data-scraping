@@ -110,5 +110,13 @@
     "username": "whiteduck622",
     "password": "alpha1",
     "invokedAt": "2024-09-27T05:30:59.174Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Holt",
+    "email": "arnold.holt@example.com",
+    "username": "bigrabbit752",
+    "password": "goalie",
+    "invokedAt": "2024-09-27T05:40:35.512Z"
   }
 ]
