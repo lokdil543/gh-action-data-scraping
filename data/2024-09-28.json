@@ -646,5 +646,13 @@
     "username": "blackduck992",
     "password": "inferno",
     "invokedAt": "2024-09-28T15:46:59.349Z"
+  },
+  {
+    "firstName": "Stanislav",
+    "lastName": "Branković",
+    "email": "stanislav.brankovic@example.com",
+    "username": "whitefrog348",
+    "password": "world",
+    "invokedAt": "2024-09-28T15:53:02.305Z"
   }
 ]
