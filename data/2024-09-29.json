@@ -302,5 +302,13 @@
     "username": "lazyleopard209",
     "password": "stock",
     "invokedAt": "2024-09-29T09:10:03.923Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Steward",
+    "email": "jim.steward@example.com",
+    "username": "brownbear378",
+    "password": "wrestle",
+    "invokedAt": "2024-09-29T09:25:52.238Z"
   }
 ]
