@@ -390,5 +390,13 @@
     "username": "crazyswan294",
     "password": "contains",
     "invokedAt": "2024-09-29T10:50:51.444Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Lundby",
+    "email": "henry.lundby@example.com",
+    "username": "silverfish736",
+    "password": "egghead",
+    "invokedAt": "2024-09-29T10:56:42.655Z"
   }
 ]
