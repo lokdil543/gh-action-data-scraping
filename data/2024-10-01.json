@@ -566,5 +566,13 @@
     "username": "lazyduck745",
     "password": "orange1",
     "invokedAt": "2024-10-01T16:35:04.539Z"
+  },
+  {
+    "firstName": "Matteo",
+    "lastName": "Robert",
+    "email": "matteo.robert@example.com",
+    "username": "blackostrich375",
+    "password": "contains",
+    "invokedAt": "2024-10-01T16:47:49.261Z"
   }
 ]
