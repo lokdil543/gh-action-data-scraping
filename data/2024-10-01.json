@@ -550,5 +550,13 @@
     "username": "purplegorilla199",
     "password": "tartar",
     "invokedAt": "2024-10-01T15:55:56.450Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "King",
+    "email": "ralph.king@example.com",
+    "username": "bigtiger457",
+    "password": "start",
+    "invokedAt": "2024-10-01T16:11:21.196Z"
   }
 ]
