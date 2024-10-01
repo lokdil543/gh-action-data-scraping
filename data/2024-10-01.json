@@ -614,5 +614,13 @@
     "username": "greendog420",
     "password": "kingdom",
     "invokedAt": "2024-10-01T17:38:40.765Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Cooper",
+    "email": "thomas.cooper@example.com",
+    "username": "happyduck863",
+    "password": "anderson",
+    "invokedAt": "2024-10-01T17:44:31.824Z"
   }
 ]
