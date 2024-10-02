@@ -246,5 +246,13 @@
     "username": "blueswan374",
     "password": "microsoft",
     "invokedAt": "2024-10-02T07:57:25.575Z"
+  },
+  {
+    "firstName": "Grégoire",
+    "lastName": "Lambert",
+    "email": "gregoire.lambert@example.com",
+    "username": "purpleleopard293",
+    "password": "parrot",
+    "invokedAt": "2024-10-02T08:16:11.651Z"
   }
 ]
