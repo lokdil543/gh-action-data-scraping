@@ -534,5 +534,13 @@
     "username": "orangeostrich906",
     "password": "charger",
     "invokedAt": "2024-10-04T14:45:56.719Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Velásquez",
+    "email": "jose.velasquez@example.com",
+    "username": "smallbear182",
+    "password": "linkin",
+    "invokedAt": "2024-10-04T14:51:46.292Z"
   }
 ]
