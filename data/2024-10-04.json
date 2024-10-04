@@ -382,5 +382,13 @@
     "username": "smallfish795",
     "password": "contains",
     "invokedAt": "2024-10-04T11:07:38.172Z"
+  },
+  {
+    "firstName": "Mélina",
+    "lastName": "Clement",
+    "email": "melina.clement@example.com",
+    "username": "smallbear737",
+    "password": "butter",
+    "invokedAt": "2024-10-04T11:19:32.314Z"
   }
 ]
