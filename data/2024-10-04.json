@@ -438,5 +438,13 @@
     "username": "heavybear615",
     "password": "artist",
     "invokedAt": "2024-10-04T11:57:19.104Z"
+  },
+  {
+    "firstName": "Manon",
+    "lastName": "Thomas",
+    "email": "manon.thomas@example.com",
+    "username": "crazybird694",
+    "password": "beatles",
+    "invokedAt": "2024-10-04T12:22:55.132Z"
   }
 ]
