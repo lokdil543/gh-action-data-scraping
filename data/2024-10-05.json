@@ -318,5 +318,13 @@
     "username": "beautifultiger141",
     "password": "look",
     "invokedAt": "2024-10-05T09:31:01.493Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Annala",
+    "email": "valtteri.annala@example.com",
+    "username": "happygorilla241",
+    "password": "kittens",
+    "invokedAt": "2024-10-05T09:39:04.691Z"
   }
 ]
