@@ -614,5 +614,13 @@
     "username": "whitelion949",
     "password": "bogus",
     "invokedAt": "2024-10-05T15:36:18.268Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Tütüncü",
+    "email": "kenan.tutuncu@example.com",
+    "username": "redostrich269",
+    "password": "maserati",
+    "invokedAt": "2024-10-05T15:42:02.583Z"
   }
 ]
