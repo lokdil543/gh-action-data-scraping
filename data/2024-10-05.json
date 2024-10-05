@@ -430,5 +430,13 @@
     "username": "purplefish386",
     "password": "debbie",
     "invokedAt": "2024-10-05T11:34:47.312Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Pavić",
+    "email": "petko.pavic@example.com",
+    "username": "yellowwolf830",
+    "password": "double",
+    "invokedAt": "2024-10-05T11:40:33.863Z"
   }
 ]
