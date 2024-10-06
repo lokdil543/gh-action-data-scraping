@@ -406,5 +406,13 @@
     "username": "orangeduck637",
     "password": "reggae",
     "invokedAt": "2024-10-06T11:12:42.433Z"
+  },
+  {
+    "firstName": "Johannis",
+    "lastName": "Van de Vliert",
+    "email": "johannis.vandevliert@example.com",
+    "username": "orangecat962",
+    "password": "banker",
+    "invokedAt": "2024-10-06T11:23:02.028Z"
   }
 ]
