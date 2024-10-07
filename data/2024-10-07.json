@@ -742,5 +742,13 @@
     "username": "yellowwolf628",
     "password": "hewitt",
     "invokedAt": "2024-10-07T19:45:25.465Z"
+  },
+  {
+    "firstName": "Jörg",
+    "lastName": "Bernard",
+    "email": "jorg.bernard@example.com",
+    "username": "bigostrich504",
+    "password": "groovy",
+    "invokedAt": "2024-10-07T19:51:36.751Z"
   }
 ]
