@@ -702,5 +702,13 @@
     "username": "angrymouse108",
     "password": "quasar",
     "invokedAt": "2024-10-07T19:09:29.188Z"
+  },
+  {
+    "firstName": "Kamil",
+    "lastName": "Langåker",
+    "email": "kamil.langaker@example.com",
+    "username": "silverfrog859",
+    "password": "camels",
+    "invokedAt": "2024-10-07T19:20:45.672Z"
   }
 ]
