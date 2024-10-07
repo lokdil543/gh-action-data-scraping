@@ -750,5 +750,13 @@
     "username": "bigostrich504",
     "password": "groovy",
     "invokedAt": "2024-10-07T19:51:36.751Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Schmidt",
+    "email": "jacob.schmidt@example.com",
+    "username": "tinytiger350",
+    "password": "smoke1",
+    "invokedAt": "2024-10-07T19:57:29.576Z"
   }
 ]
