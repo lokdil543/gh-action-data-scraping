@@ -446,5 +446,13 @@
     "username": "yellowostrich315",
     "password": "java",
     "invokedAt": "2024-10-07T13:34:10.365Z"
+  },
+  {
+    "firstName": "Duško",
+    "lastName": "Žigić",
+    "email": "dusko.zigic@example.com",
+    "username": "bigelephant100",
+    "password": "walrus",
+    "invokedAt": "2024-10-07T13:43:13.499Z"
   }
 ]
