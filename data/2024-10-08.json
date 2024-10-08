@@ -934,5 +934,13 @@
     "username": "goldenzebra814",
     "password": "milano",
     "invokedAt": "2024-10-08T22:58:01.424Z"
+  },
+  {
+    "firstName": "Coşkun",
+    "lastName": "Özdoğan",
+    "email": "coskun.ozdogan@example.com",
+    "username": "purplefish424",
+    "password": "password",
+    "invokedAt": "2024-10-08T23:13:43.576Z"
   }
 ]
