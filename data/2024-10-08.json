@@ -462,5 +462,13 @@
     "username": "blackdog983",
     "password": "radio",
     "invokedAt": "2024-10-08T13:41:24.318Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Tokerud",
+    "email": "marcus.tokerud@example.com",
+    "username": "blackduck612",
+    "password": "spooky",
+    "invokedAt": "2024-10-08T13:47:30.310Z"
   }
 ]
