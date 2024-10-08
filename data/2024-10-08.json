@@ -390,5 +390,13 @@
     "username": "greenduck588",
     "password": "survivor",
     "invokedAt": "2024-10-08T11:32:50.577Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Newman",
+    "email": "sam.newman@example.com",
+    "username": "redkoala722",
+    "password": "heyhey",
+    "invokedAt": "2024-10-08T11:39:43.691Z"
   }
 ]
