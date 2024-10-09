@@ -494,5 +494,13 @@
     "username": "lazykoala922",
     "password": "smith1",
     "invokedAt": "2024-10-09T14:11:22.941Z"
+  },
+  {
+    "firstName": "Tessa",
+    "lastName": "Muller",
+    "email": "tessa.muller@example.com",
+    "username": "redfrog432",
+    "password": "pacino",
+    "invokedAt": "2024-10-09T14:30:12.694Z"
   }
 ]
