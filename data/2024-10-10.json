@@ -862,5 +862,13 @@
     "username": "purpleleopard333",
     "password": "asdf1234",
     "invokedAt": "2024-10-10T21:33:42.109Z"
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Nielsen",
+    "email": "christoffer.nielsen@example.com",
+    "username": "purpleladybug961",
+    "password": "1978",
+    "invokedAt": "2024-10-10T21:40:04.579Z"
   }
 ]
