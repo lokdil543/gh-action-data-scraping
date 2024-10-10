@@ -982,5 +982,13 @@
     "username": "silverbear251",
     "password": "killbill",
     "invokedAt": "2024-10-10T23:46:12.234Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Caballero",
+    "email": "jose.caballero@example.com",
+    "username": "lazykoala848",
+    "password": "stumpy",
+    "invokedAt": "2024-10-10T23:52:20.365Z"
   }
 ]
