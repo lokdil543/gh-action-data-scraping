@@ -398,5 +398,13 @@
     "username": "bigduck705",
     "password": "1986",
     "invokedAt": "2024-10-10T11:26:03.675Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Smith",
+    "email": "arthur.smith@example.com",
+    "username": "orangefish170",
+    "password": "trash",
+    "invokedAt": "2024-10-10T11:32:44.308Z"
   }
 ]
