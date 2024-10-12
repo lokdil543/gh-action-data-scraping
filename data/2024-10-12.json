@@ -446,5 +446,13 @@
     "username": "silverbird425",
     "password": "100000",
     "invokedAt": "2024-10-12T11:41:39.646Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Ketola",
+    "email": "vaino.ketola@example.com",
+    "username": "bluefrog624",
+    "password": "jackie",
+    "invokedAt": "2024-10-12T11:47:44.679Z"
   }
 ]
