@@ -294,5 +294,13 @@
     "username": "purplecat190",
     "password": "toilet",
     "invokedAt": "2024-10-12T08:49:14.275Z"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Montero",
+    "email": "tomas.montero@example.com",
+    "username": "greenkoala104",
+    "password": "fearless",
+    "invokedAt": "2024-10-12T08:55:00.594Z"
   }
 ]
