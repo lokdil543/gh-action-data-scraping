@@ -566,5 +566,13 @@
     "username": "lazypeacock275",
     "password": "aliens",
     "invokedAt": "2024-10-12T14:36:12.654Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Li",
+    "email": "louis.li@example.com",
+    "username": "smallbird262",
+    "password": "tomcat",
+    "invokedAt": "2024-10-12T14:42:05.787Z"
   }
 ]
