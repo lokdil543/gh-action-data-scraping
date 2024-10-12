@@ -1006,5 +1006,13 @@
     "username": "yellowgoose823",
     "password": "groove",
     "invokedAt": "2024-10-12T22:45:13.322Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Poulsen",
+    "email": "emil.poulsen@example.com",
+    "username": "goldenfrog911",
+    "password": "456789",
+    "invokedAt": "2024-10-12T22:51:14.388Z"
   }
 ]
