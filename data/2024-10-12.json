@@ -630,5 +630,13 @@
     "username": "smallfish590",
     "password": "erik",
     "invokedAt": "2024-10-12T15:41:58.530Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Ouellet",
+    "email": "ethan.ouellet@example.com",
+    "username": "saddog658",
+    "password": "tower",
+    "invokedAt": "2024-10-12T15:47:53.219Z"
   }
 ]
