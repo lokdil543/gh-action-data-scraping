@@ -134,5 +134,13 @@
     "username": "happyfish725",
     "password": "strider",
     "invokedAt": "2024-10-15T05:47:21.156Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Sørensen",
+    "email": "mads.sorensen@example.com",
+    "username": "smalldog666",
+    "password": "verizon",
+    "invokedAt": "2024-10-15T05:53:28.501Z"
   }
 ]
