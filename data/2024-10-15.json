@@ -174,5 +174,13 @@
     "username": "redbird940",
     "password": "badger",
     "invokedAt": "2024-10-15T06:52:01.546Z"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Dixon",
+    "email": "adrian.dixon@example.com",
+    "username": "sadmeercat453",
+    "password": "student",
+    "invokedAt": "2024-10-15T06:58:02.271Z"
   }
 ]
