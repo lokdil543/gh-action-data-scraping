@@ -278,5 +278,13 @@
     "username": "smallduck345",
     "password": "piano",
     "invokedAt": "2024-10-16T09:19:49.847Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Peltola",
+    "email": "leevi.peltola@example.com",
+    "username": "bigbutterfly176",
+    "password": "cooldude",
+    "invokedAt": "2024-10-16T09:32:31.549Z"
   }
 ]
