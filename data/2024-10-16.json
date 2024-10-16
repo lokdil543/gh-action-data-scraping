@@ -254,5 +254,13 @@
     "username": "heavydog661",
     "password": "british",
     "invokedAt": "2024-10-16T08:48:27.272Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Horton",
+    "email": "carl.horton@example.com",
+    "username": "lazyduck727",
+    "password": "zippo",
+    "invokedAt": "2024-10-16T08:54:19.356Z"
   }
 ]
