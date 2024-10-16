@@ -534,5 +534,13 @@
     "username": "happyladybug750",
     "password": "magic",
     "invokedAt": "2024-10-16T15:14:25.390Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Cooper",
+    "email": "alice.cooper@example.com",
+    "username": "blackpanda353",
+    "password": "mclaren",
+    "invokedAt": "2024-10-16T15:30:16.426Z"
   }
 ]
