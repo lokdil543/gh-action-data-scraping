@@ -958,5 +958,13 @@
     "username": "silversnake718",
     "password": "01234567",
     "invokedAt": "2024-10-17T23:46:08.091Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Manner",
+    "email": "vaino.manner@example.com",
+    "username": "crazyzebra632",
+    "password": "tigger",
+    "invokedAt": "2024-10-17T23:52:08.419Z"
   }
 ]
