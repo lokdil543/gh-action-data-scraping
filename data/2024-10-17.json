@@ -710,5 +710,13 @@
     "username": "crazyleopard210",
     "password": "longer",
     "invokedAt": "2024-10-17T19:00:09.705Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Anderson",
+    "email": "charlie.anderson@example.com",
+    "username": "bluetiger611",
+    "password": "flip",
+    "invokedAt": "2024-10-17T19:15:01.424Z"
   }
 ]
