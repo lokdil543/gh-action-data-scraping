@@ -190,5 +190,13 @@
     "username": "silvergoose327",
     "password": "revenge",
     "invokedAt": "2024-10-18T07:25:11.366Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Blankers",
+    "email": "adam.blankers@example.com",
+    "username": "browndog190",
+    "password": "bobby",
+    "invokedAt": "2024-10-18T07:32:59.337Z"
   }
 ]
