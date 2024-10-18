@@ -958,5 +958,13 @@
     "username": "angrytiger243",
     "password": "february",
     "invokedAt": "2024-10-18T23:40:04.333Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Gerard",
+    "email": "mathieu.gerard@example.com",
+    "username": "blackfish552",
+    "password": "chat",
+    "invokedAt": "2024-10-18T23:45:52.719Z"
   }
 ]
