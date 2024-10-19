@@ -710,5 +710,13 @@
     "username": "crazygoose239",
     "password": "dodgeram",
     "invokedAt": "2024-10-19T17:33:38.026Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Olsen",
+    "email": "asta.olsen@example.com",
+    "username": "redsnake778",
+    "password": "456789",
+    "invokedAt": "2024-10-19T17:41:07.221Z"
   }
 ]
