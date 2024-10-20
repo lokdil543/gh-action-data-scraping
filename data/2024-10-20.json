@@ -998,5 +998,13 @@
     "username": "heavykoala240",
     "password": "thisisit",
     "invokedAt": "2024-10-20T23:24:48.386Z"
+  },
+  {
+    "firstName": "Jörg",
+    "lastName": "Schwarz",
+    "email": "jorg.schwarz@example.com",
+    "username": "purplebird226",
+    "password": "bridge",
+    "invokedAt": "2024-10-20T23:31:46.345Z"
   }
 ]
