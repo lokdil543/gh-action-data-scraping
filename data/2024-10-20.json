@@ -174,5 +174,13 @@
     "username": "orangebear253",
     "password": "myspace1",
     "invokedAt": "2024-10-20T06:48:16.578Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Møller",
+    "email": "sara.moller@example.com",
+    "username": "greendog406",
+    "password": "steve1",
+    "invokedAt": "2024-10-20T06:54:15.174Z"
   }
 ]
