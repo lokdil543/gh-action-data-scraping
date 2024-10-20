@@ -366,5 +366,13 @@
     "username": "goldenfish705",
     "password": "civic",
     "invokedAt": "2024-10-20T10:41:52.503Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Jørgensen",
+    "email": "jonathan.jorgensen@example.com",
+    "username": "bluefrog136",
+    "password": "joker",
+    "invokedAt": "2024-10-20T10:48:00.217Z"
   }
 ]
