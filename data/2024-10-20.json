@@ -526,5 +526,13 @@
     "username": "whitepeacock633",
     "password": "1993",
     "invokedAt": "2024-10-20T14:15:05.041Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Nielsen",
+    "email": "simon.nielsen@example.com",
+    "username": "happytiger919",
+    "password": "magician",
+    "invokedAt": "2024-10-20T14:29:19.116Z"
   }
 ]
