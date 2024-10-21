@@ -238,5 +238,13 @@
     "username": "bigpanda939",
     "password": "amsterdam",
     "invokedAt": "2024-10-21T08:33:05.468Z"
+  },
+  {
+    "firstName": "Rasmus",
+    "lastName": "Christensen",
+    "email": "rasmus.christensen@example.com",
+    "username": "heavybear352",
+    "password": "cruise",
+    "invokedAt": "2024-10-21T08:45:44.281Z"
   }
 ]
