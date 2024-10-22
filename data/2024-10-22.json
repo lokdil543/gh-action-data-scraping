@@ -486,5 +486,13 @@
     "username": "greenkoala316",
     "password": "walmart",
     "invokedAt": "2024-10-22T14:07:29.457Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Todorović",
+    "email": "stefan.todorovic@example.com",
+    "username": "redsnake876",
+    "password": "magicman",
+    "invokedAt": "2024-10-22T14:27:36.692Z"
   }
 ]
