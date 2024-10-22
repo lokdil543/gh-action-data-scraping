@@ -782,5 +782,13 @@
     "username": "bigrabbit502",
     "password": "barron",
     "invokedAt": "2024-10-22T20:35:33.897Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Evans",
+    "email": "vincent.evans@example.com",
+    "username": "lazyfrog430",
+    "password": "reddevil",
+    "invokedAt": "2024-10-22T20:42:24.746Z"
   }
 ]
