@@ -262,5 +262,13 @@
     "username": "ticklishpanda929",
     "password": "wizard1",
     "invokedAt": "2024-10-22T08:52:36.741Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Møller",
+    "email": "storm.moller@example.com",
+    "username": "heavyfish903",
+    "password": "mystery",
+    "invokedAt": "2024-10-22T08:58:34.450Z"
   }
 ]
