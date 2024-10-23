@@ -598,5 +598,13 @@
     "username": "greenbear379",
     "password": "tomcat",
     "invokedAt": "2024-10-23T16:41:15.664Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Andersen",
+    "email": "felix.andersen@example.com",
+    "username": "smallelephant543",
+    "password": "rated",
+    "invokedAt": "2024-10-23T16:51:40.338Z"
   }
 ]
