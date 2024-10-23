@@ -766,5 +766,13 @@
     "username": "sadswan318",
     "password": "concord",
     "invokedAt": "2024-10-23T19:57:55.328Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Franklin",
+    "email": "dave.franklin@example.com",
+    "username": "happysnake619",
+    "password": "talbot",
+    "invokedAt": "2024-10-23T20:14:42.077Z"
   }
 ]
