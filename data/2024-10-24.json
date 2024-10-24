@@ -350,5 +350,13 @@
     "username": "tinypeacock368",
     "password": "kingdom",
     "invokedAt": "2024-10-24T10:42:48.406Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Robertson",
+    "email": "david.robertson@example.com",
+    "username": "orangebird777",
+    "password": "double",
+    "invokedAt": "2024-10-24T10:48:39.242Z"
   }
 ]
