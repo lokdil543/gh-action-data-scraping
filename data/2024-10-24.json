@@ -934,5 +934,13 @@
     "username": "greenwolf183",
     "password": "skyline",
     "invokedAt": "2024-10-24T23:13:46.232Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Nunes",
+    "email": "fred.nunes@example.com",
+    "username": "bluezebra713",
+    "password": "abcdef",
+    "invokedAt": "2024-10-24T23:27:07.029Z"
   }
 ]
