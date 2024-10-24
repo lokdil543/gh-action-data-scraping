@@ -590,5 +590,13 @@
     "username": "crazydog115",
     "password": "canon",
     "invokedAt": "2024-10-24T16:10:52.730Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Møller",
+    "email": "mads.moller@example.com",
+    "username": "heavyfish297",
+    "password": "plymouth",
+    "invokedAt": "2024-10-24T16:33:00.283Z"
   }
 ]
