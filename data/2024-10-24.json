@@ -726,5 +726,13 @@
     "username": "orangedog435",
     "password": "sunlight",
     "invokedAt": "2024-10-24T19:22:08.836Z"
+  },
+  {
+    "firstName": "Roope",
+    "lastName": "Laine",
+    "email": "roope.laine@example.com",
+    "username": "bluebird812",
+    "password": "505050",
+    "invokedAt": "2024-10-24T19:28:24.226Z"
   }
 ]
