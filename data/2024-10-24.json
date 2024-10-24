@@ -838,5 +838,13 @@
     "username": "bigbutterfly965",
     "password": "diehard",
     "invokedAt": "2024-10-24T21:26:20.389Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Fox",
+    "email": "dave.fox@example.com",
+    "username": "brownkoala578",
+    "password": "doctor",
+    "invokedAt": "2024-10-24T21:34:18.087Z"
   }
 ]
