@@ -182,5 +182,13 @@
     "username": "goldenpanda418",
     "password": "excalibu",
     "invokedAt": "2024-10-25T07:11:05.340Z"
+  },
+  {
+    "firstName": "Dev",
+    "lastName": "Rao",
+    "email": "dev.rao@example.com",
+    "username": "redpanda180",
+    "password": "shotgun",
+    "invokedAt": "2024-10-25T07:26:47.674Z"
   }
 ]
