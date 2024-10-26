@@ -622,5 +622,13 @@
     "username": "angrytiger421",
     "password": "birdie",
     "invokedAt": "2024-10-26T15:36:46.509Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Lam",
+    "email": "thomas.lam@example.com",
+    "username": "greengoose808",
+    "password": "evan",
+    "invokedAt": "2024-10-26T15:43:43.119Z"
   }
 ]
