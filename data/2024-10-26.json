@@ -414,5 +414,13 @@
     "username": "brownbird213",
     "password": "tbird",
     "invokedAt": "2024-10-26T11:05:30.037Z"
+  },
+  {
+    "firstName": "Mabel",
+    "lastName": "Adams",
+    "email": "mabel.adams@example.com",
+    "username": "brownmeercat841",
+    "password": "spooky",
+    "invokedAt": "2024-10-26T11:20:05.761Z"
   }
 ]
