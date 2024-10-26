@@ -726,5 +726,13 @@
     "username": "redbird114",
     "password": "panama",
     "invokedAt": "2024-10-26T17:43:57.146Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Hansen",
+    "email": "anton.hansen@example.com",
+    "username": "greenwolf546",
+    "password": "clipper",
+    "invokedAt": "2024-10-26T17:49:54.171Z"
   }
 ]
