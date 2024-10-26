@@ -638,5 +638,13 @@
     "username": "blackrabbit414",
     "password": "horseman",
     "invokedAt": "2024-10-26T15:49:41.137Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Fox",
+    "email": "alfred.fox@example.com",
+    "username": "blackcat659",
+    "password": "freeze",
+    "invokedAt": "2024-10-26T15:55:23.583Z"
   }
 ]
