@@ -846,5 +846,13 @@
     "username": "blackcat242",
     "password": "freepass",
     "invokedAt": "2024-10-27T20:38:37.723Z"
+  },
+  {
+    "firstName": "Leslie",
+    "lastName": "Allen",
+    "email": "leslie.allen@example.com",
+    "username": "bigkoala343",
+    "password": "denver",
+    "invokedAt": "2024-10-27T20:45:30.143Z"
   }
 ]
