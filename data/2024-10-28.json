@@ -470,5 +470,13 @@
     "username": "biggorilla781",
     "password": "dogboy",
     "invokedAt": "2024-10-28T14:30:45.221Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Crawford",
+    "email": "steve.crawford@example.com",
+    "username": "brownostrich603",
+    "password": "yoyo",
+    "invokedAt": "2024-10-28T14:41:45.431Z"
   }
 ]
