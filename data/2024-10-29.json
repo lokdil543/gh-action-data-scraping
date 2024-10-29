@@ -638,5 +638,13 @@
     "username": "greengoose215",
     "password": "abcdefg",
     "invokedAt": "2024-10-29T17:55:02.336Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Demirbaş",
+    "email": "ulku.demirbas@example.com",
+    "username": "whitebear624",
+    "password": "juice",
+    "invokedAt": "2024-10-29T18:10:31.375Z"
   }
 ]
