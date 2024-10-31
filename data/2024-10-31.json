@@ -606,5 +606,13 @@
     "username": "yellowpanda156",
     "password": "artemis",
     "invokedAt": "2024-10-31T16:47:17.605Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Hernández",
+    "email": "gustavo.hernandez@example.com",
+    "username": "bigduck271",
+    "password": "8675309",
+    "invokedAt": "2024-10-31T16:54:02.542Z"
   }
 ]
