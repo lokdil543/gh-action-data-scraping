@@ -622,5 +622,13 @@
     "username": "orangebear708",
     "password": "errors",
     "invokedAt": "2024-11-01T17:12:13.518Z"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Henry",
+    "email": "ryan.henry@example.com",
+    "username": "orangewolf549",
+    "password": "darwin",
+    "invokedAt": "2024-11-01T17:29:37.660Z"
   }
 ]
