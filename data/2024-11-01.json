@@ -710,5 +710,13 @@
     "username": "blackpeacock192",
     "password": "sharks",
     "invokedAt": "2024-11-01T19:10:46.725Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Jørgensen",
+    "email": "storm.jorgensen@example.com",
+    "username": "yellowleopard366",
+    "password": "lennon",
+    "invokedAt": "2024-11-01T19:22:58.468Z"
   }
 ]
