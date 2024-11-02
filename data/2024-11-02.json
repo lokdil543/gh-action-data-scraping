@@ -118,5 +118,13 @@
     "username": "purplegoose707",
     "password": "werner",
     "invokedAt": "2024-11-02T05:12:29.819Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Garnier",
+    "email": "johan.garnier@example.com",
+    "username": "yellowpanda113",
+    "password": "startrek",
+    "invokedAt": "2024-11-02T05:29:38.589Z"
   }
 ]
