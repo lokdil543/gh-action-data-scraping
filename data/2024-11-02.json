@@ -126,5 +126,13 @@
     "username": "yellowpanda113",
     "password": "startrek",
     "invokedAt": "2024-11-02T05:29:38.589Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Renard",
+    "email": "samuel.renard@example.com",
+    "username": "redswan903",
+    "password": "alley",
+    "invokedAt": "2024-11-02T05:38:40.184Z"
   }
 ]
