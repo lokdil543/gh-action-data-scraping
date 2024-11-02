@@ -846,5 +846,13 @@
     "username": "blackdog737",
     "password": "magic",
     "invokedAt": "2024-11-02T19:56:43.190Z"
+  },
+  {
+    "firstName": "Fabien",
+    "lastName": "Charles",
+    "email": "fabien.charles@example.com",
+    "username": "blacklion199",
+    "password": "505050",
+    "invokedAt": "2024-11-02T20:12:02.128Z"
   }
 ]
