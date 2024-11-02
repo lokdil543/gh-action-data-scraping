@@ -142,5 +142,13 @@
     "username": "saddog442",
     "password": "fandango",
     "invokedAt": "2024-11-02T05:44:41.638Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Jarvi",
+    "email": "joona.jarvi@example.com",
+    "username": "orangemeercat443",
+    "password": "sergeant",
+    "invokedAt": "2024-11-02T05:50:45.495Z"
   }
 ]
