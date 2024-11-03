@@ -70,5 +70,13 @@
     "username": "greendog845",
     "password": "compass",
     "invokedAt": "2024-11-03T04:33:25.617Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Howard",
+    "email": "thomas.howard@example.com",
+    "username": "angrycat378",
+    "password": "state",
+    "invokedAt": "2024-11-03T04:43:10.167Z"
   }
 ]
