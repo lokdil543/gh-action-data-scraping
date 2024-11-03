@@ -182,5 +182,13 @@
     "username": "orangecat540",
     "password": "xfiles",
     "invokedAt": "2024-11-03T06:55:37.387Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Larsen",
+    "email": "adam.larsen@example.com",
+    "username": "bluepanda917",
+    "password": "bones",
+    "invokedAt": "2024-11-03T07:08:08.147Z"
   }
 ]
