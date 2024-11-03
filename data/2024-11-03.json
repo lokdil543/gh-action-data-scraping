@@ -798,5 +798,13 @@
     "username": "brownduck678",
     "password": "oklahoma",
     "invokedAt": "2024-11-03T19:33:45.788Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Jones",
+    "email": "alex.jones@example.com",
+    "username": "lazyleopard159",
+    "password": "vbnm",
+    "invokedAt": "2024-11-03T19:40:04.878Z"
   }
 ]
