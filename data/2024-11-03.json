@@ -550,5 +550,13 @@
     "username": "smallmeercat363",
     "password": "campbell",
     "invokedAt": "2024-11-03T14:44:53.461Z"
+  },
+  {
+    "firstName": "Rogério",
+    "lastName": "Cavalcanti",
+    "email": "rogerio.cavalcanti@example.com",
+    "username": "tinyelephant249",
+    "password": "&amp;",
+    "invokedAt": "2024-11-03T14:50:57.203Z"
   }
 ]
