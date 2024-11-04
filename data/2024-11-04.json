@@ -622,5 +622,13 @@
     "username": "silverkoala224",
     "password": "marriage",
     "invokedAt": "2024-11-04T17:36:24.529Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Dumas",
+    "email": "sarah.dumas@example.com",
+    "username": "yellowgorilla685",
+    "password": "test",
+    "invokedAt": "2024-11-04T17:42:11.382Z"
   }
 ]
