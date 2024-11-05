@@ -398,5 +398,13 @@
     "username": "sadrabbit707",
     "password": "cyber",
     "invokedAt": "2024-11-05T11:09:12.668Z"
+  },
+  {
+    "firstName": "Travis",
+    "lastName": "Reed",
+    "email": "travis.reed@example.com",
+    "username": "smallostrich333",
+    "password": "banana",
+    "invokedAt": "2024-11-05T11:21:28.642Z"
   }
 ]
