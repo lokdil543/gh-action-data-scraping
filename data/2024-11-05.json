@@ -686,5 +686,13 @@
     "username": "brownsnake882",
     "password": "reading",
     "invokedAt": "2024-11-05T17:42:26.802Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Rice",
+    "email": "bob.rice@example.com",
+    "username": "goldenfrog473",
+    "password": "proxy",
+    "invokedAt": "2024-11-05T17:48:23.556Z"
   }
 ]
