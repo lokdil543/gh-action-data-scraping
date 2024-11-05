@@ -142,5 +142,13 @@
     "username": "bluemouse263",
     "password": "capslock",
     "invokedAt": "2024-11-05T05:43:33.786Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Acosta",
+    "email": "ana.acosta@example.com",
+    "username": "lazyfrog202",
+    "password": "wrench",
+    "invokedAt": "2024-11-05T05:49:20.737Z"
   }
 ]
