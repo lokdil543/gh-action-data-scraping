@@ -662,5 +662,13 @@
     "username": "happylion784",
     "password": "bob123",
     "invokedAt": "2024-11-05T17:08:20.274Z"
+  },
+  {
+    "firstName": "Izzie",
+    "lastName": "Wilson",
+    "email": "izzie.wilson@example.com",
+    "username": "beautifulrabbit307",
+    "password": "mongoose",
+    "invokedAt": "2024-11-05T17:26:31.646Z"
   }
 ]
