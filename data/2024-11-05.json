@@ -710,5 +710,13 @@
     "username": "silverfish280",
     "password": "nitram",
     "invokedAt": "2024-11-05T18:00:33.906Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Niskanen",
+    "email": "samuel.niskanen@example.com",
+    "username": "blackfrog922",
+    "password": "gremlin",
+    "invokedAt": "2024-11-05T18:24:23.134Z"
   }
 ]
