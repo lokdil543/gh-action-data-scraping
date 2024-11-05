@@ -718,5 +718,13 @@
     "username": "blackfrog922",
     "password": "gremlin",
     "invokedAt": "2024-11-05T18:24:23.134Z"
+  },
+  {
+    "firstName": "Vanessa",
+    "lastName": "Lynch",
+    "email": "vanessa.lynch@example.com",
+    "username": "redfrog262",
+    "password": "daisy1",
+    "invokedAt": "2024-11-05T18:39:54.641Z"
   }
 ]
