@@ -646,5 +646,13 @@
     "username": "bluebear409",
     "password": "theodore",
     "invokedAt": "2024-11-05T16:49:49.310Z"
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Kumpula",
+    "email": "vilma.kumpula@example.com",
+    "username": "redmouse389",
+    "password": "skinner",
+    "invokedAt": "2024-11-05T16:55:35.997Z"
   }
 ]
