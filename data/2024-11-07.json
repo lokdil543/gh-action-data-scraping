@@ -798,5 +798,13 @@
     "username": "greentiger598",
     "password": "froggy",
     "invokedAt": "2024-11-07T19:39:00.262Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Larsen",
+    "email": "storm.larsen@example.com",
+    "username": "lazybird685",
+    "password": "sailor",
+    "invokedAt": "2024-11-07T19:44:45.427Z"
   }
 ]
