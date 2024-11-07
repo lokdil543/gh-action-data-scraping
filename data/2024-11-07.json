@@ -774,5 +774,13 @@
     "username": "tinyleopard210",
     "password": "stealth",
     "invokedAt": "2024-11-07T19:20:19.653Z"
+  },
+  {
+    "firstName": "Antoine",
+    "lastName": "Andersen",
+    "email": "antoine.andersen@example.com",
+    "username": "yellowostrich550",
+    "password": "picture",
+    "invokedAt": "2024-11-07T19:26:12.616Z"
   }
 ]
