@@ -190,5 +190,13 @@
     "username": "bigladybug184",
     "password": "cookie1",
     "invokedAt": "2024-11-07T06:52:33.526Z"
+  },
+  {
+    "firstName": "Lincoln",
+    "lastName": "Roberts",
+    "email": "lincoln.roberts@example.com",
+    "username": "heavylion314",
+    "password": "megatron",
+    "invokedAt": "2024-11-07T06:58:26.486Z"
   }
 ]
