@@ -262,5 +262,13 @@
     "username": "orangedog278",
     "password": "stock",
     "invokedAt": "2024-11-08T08:12:23.122Z"
+  },
+  {
+    "firstName": "Tyrone",
+    "lastName": "Lord",
+    "email": "tyrone.lord@example.com",
+    "username": "goldensnake899",
+    "password": "donuts",
+    "invokedAt": "2024-11-08T08:31:50.586Z"
   }
 ]
