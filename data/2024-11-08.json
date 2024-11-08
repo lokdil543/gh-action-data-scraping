@@ -678,5 +678,13 @@
     "username": "heavydog239",
     "password": "chicago1",
     "invokedAt": "2024-11-08T17:14:31.128Z"
+  },
+  {
+    "firstName": "Mateusz",
+    "lastName": "Nysted",
+    "email": "mateusz.nysted@example.com",
+    "username": "heavymouse529",
+    "password": "wingman",
+    "invokedAt": "2024-11-08T17:28:44.777Z"
   }
 ]
