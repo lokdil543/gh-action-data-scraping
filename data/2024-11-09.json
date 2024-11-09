@@ -766,5 +766,13 @@
     "username": "orangezebra138",
     "password": "darwin",
     "invokedAt": "2024-11-09T17:41:38.216Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Woods",
+    "email": "ivan.woods@example.com",
+    "username": "orangeduck760",
+    "password": "bounty",
+    "invokedAt": "2024-11-09T17:47:32.443Z"
   }
 ]
