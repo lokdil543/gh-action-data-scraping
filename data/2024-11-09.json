@@ -350,5 +350,13 @@
     "username": "happybear524",
     "password": "lawyer",
     "invokedAt": "2024-11-09T09:33:10.476Z"
+  },
+  {
+    "firstName": "Dylan",
+    "lastName": "Hellerud",
+    "email": "dylan.hellerud@example.com",
+    "username": "brownbird624",
+    "password": "drowssap",
+    "invokedAt": "2024-11-09T09:39:11.590Z"
   }
 ]
