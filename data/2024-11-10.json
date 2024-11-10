@@ -358,5 +358,13 @@
     "username": "sadfish435",
     "password": "brandy1",
     "invokedAt": "2024-11-10T09:43:46.296Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Vasquez",
+    "email": "felix.vasquez@example.com",
+    "username": "greengorilla565",
+    "password": "system",
+    "invokedAt": "2024-11-10T09:49:52.743Z"
   }
 ]
