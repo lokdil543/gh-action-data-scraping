@@ -934,5 +934,13 @@
     "username": "tinytiger673",
     "password": "dogbert",
     "invokedAt": "2024-11-10T20:39:14.484Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Ma",
+    "email": "alexander.ma@example.com",
+    "username": "angrytiger879",
+    "password": "random",
+    "invokedAt": "2024-11-10T20:44:32.550Z"
   }
 ]
