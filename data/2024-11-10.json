@@ -806,5 +806,13 @@
     "username": "happypeacock498",
     "password": "starbuck",
     "invokedAt": "2024-11-10T18:30:04.265Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Romero",
+    "email": "john.romero@example.com",
+    "username": "goldenmeercat884",
+    "password": "aspen",
+    "invokedAt": "2024-11-10T18:40:16.595Z"
   }
 ]
