@@ -406,5 +406,13 @@
     "username": "redfish735",
     "password": "palmtree",
     "invokedAt": "2024-11-10T10:42:21.042Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Wright",
+    "email": "luke.wright@example.com",
+    "username": "brownsnake175",
+    "password": "abc12345",
+    "invokedAt": "2024-11-10T10:48:29.371Z"
   }
 ]
