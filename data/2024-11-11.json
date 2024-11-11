@@ -814,5 +814,13 @@
     "username": "blackelephant306",
     "password": "national",
     "invokedAt": "2024-11-11T20:26:29.466Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Lecomte",
+    "email": "guillaume.lecomte@example.com",
+    "username": "bigbird734",
+    "password": "goldberg",
+    "invokedAt": "2024-11-11T20:33:59.678Z"
   }
 ]
