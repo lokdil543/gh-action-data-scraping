@@ -758,5 +758,13 @@
     "username": "bigbird128",
     "password": "madrid",
     "invokedAt": "2024-11-11T19:25:48.912Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Perez",
+    "email": "arnold.perez@example.com",
+    "username": "brownlion462",
+    "password": "phone",
+    "invokedAt": "2024-11-11T19:31:59.694Z"
   }
 ]
