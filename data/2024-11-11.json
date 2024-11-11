@@ -278,5 +278,13 @@
     "username": "whitewolf742",
     "password": "floyd",
     "invokedAt": "2024-11-11T08:56:59.273Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Petersen",
+    "email": "maria.petersen@example.com",
+    "username": "whiteostrich502",
+    "password": "phyllis",
+    "invokedAt": "2024-11-11T09:13:01.102Z"
   }
 ]
