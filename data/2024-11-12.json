@@ -734,5 +734,13 @@
     "username": "greengorilla110",
     "password": "transam",
     "invokedAt": "2024-11-12T18:43:43.528Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Banks",
+    "email": "raymond.banks@example.com",
+    "username": "tinyfish477",
+    "password": "jillian",
+    "invokedAt": "2024-11-12T18:49:33.190Z"
   }
 ]
