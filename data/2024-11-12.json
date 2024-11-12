@@ -294,5 +294,13 @@
     "username": "orangepanda444",
     "password": "password2",
     "invokedAt": "2024-11-12T08:51:11.278Z"
+  },
+  {
+    "firstName": "Rishaan",
+    "lastName": "Acharya",
+    "email": "rishaan.acharya@example.com",
+    "username": "goldenfrog707",
+    "password": "lock",
+    "invokedAt": "2024-11-12T08:57:12.631Z"
   }
 ]
