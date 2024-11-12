@@ -286,5 +286,13 @@
     "username": "goldenrabbit844",
     "password": "transfer",
     "invokedAt": "2024-11-12T08:45:05.551Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Martin",
+    "email": "thomas.martin@example.com",
+    "username": "orangepanda444",
+    "password": "password2",
+    "invokedAt": "2024-11-12T08:51:11.278Z"
   }
 ]
