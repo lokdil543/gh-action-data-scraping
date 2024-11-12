@@ -302,5 +302,13 @@
     "username": "goldenfrog707",
     "password": "lock",
     "invokedAt": "2024-11-12T08:57:12.631Z"
+  },
+  {
+    "firstName": "Mae",
+    "lastName": "Cole",
+    "email": "mae.cole@example.com",
+    "username": "blueleopard729",
+    "password": "secrets",
+    "invokedAt": "2024-11-12T09:12:15.501Z"
   }
 ]
