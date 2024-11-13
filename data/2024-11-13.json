@@ -350,5 +350,13 @@
     "username": "lazypanda288",
     "password": "tomas",
     "invokedAt": "2024-11-13T10:10:55.424Z"
+  },
+  {
+    "firstName": "Håkon",
+    "lastName": "Sjåvik",
+    "email": "hakon.sjavik@example.com",
+    "username": "redgorilla878",
+    "password": "jaybird",
+    "invokedAt": "2024-11-13T10:32:14.318Z"
   }
 ]
