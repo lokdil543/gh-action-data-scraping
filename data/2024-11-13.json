@@ -718,5 +718,13 @@
     "username": "bigduck593",
     "password": "flower1",
     "invokedAt": "2024-11-13T18:45:46.614Z"
+  },
+  {
+    "firstName": "Gilles",
+    "lastName": "Roussel",
+    "email": "gilles.roussel@example.com",
+    "username": "lazyladybug402",
+    "password": "network",
+    "invokedAt": "2024-11-13T18:51:46.690Z"
   }
 ]
