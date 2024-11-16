@@ -782,5 +782,13 @@
     "username": "crazygorilla616",
     "password": "chicago",
     "invokedAt": "2024-11-16T19:38:36.560Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Miller",
+    "email": "james.miller@example.com",
+    "username": "bigelephant164",
+    "password": "5150",
+    "invokedAt": "2024-11-16T19:44:36.579Z"
   }
 ]
