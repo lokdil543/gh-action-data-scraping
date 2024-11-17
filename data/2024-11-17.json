@@ -846,5 +846,13 @@
     "username": "brownbird152",
     "password": "forest",
     "invokedAt": "2024-11-17T20:59:52.552Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Walli",
+    "email": "joona.walli@example.com",
+    "username": "bluerabbit350",
+    "password": "qwertyu",
+    "invokedAt": "2024-11-17T21:15:21.675Z"
   }
 ]
