@@ -486,5 +486,13 @@
     "username": "bluelion727",
     "password": "testpass",
     "invokedAt": "2024-11-17T13:55:38.384Z"
+  },
+  {
+    "firstName": "Judy",
+    "lastName": "Mccoy",
+    "email": "judy.mccoy@example.com",
+    "username": "sadsnake674",
+    "password": "altima",
+    "invokedAt": "2024-11-17T14:07:22.529Z"
   }
 ]
