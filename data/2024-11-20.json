@@ -646,5 +646,13 @@
     "username": "greengoose401",
     "password": "telefon",
     "invokedAt": "2024-11-20T18:40:48.367Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Zhang",
+    "email": "michael.zhang@example.com",
+    "username": "sadfrog115",
+    "password": "&amp;",
+    "invokedAt": "2024-11-20T18:50:48.662Z"
   }
 ]
