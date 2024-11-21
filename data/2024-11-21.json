@@ -366,5 +366,13 @@
     "username": "purplecat513",
     "password": "pounding",
     "invokedAt": "2024-11-21T11:30:35.442Z"
+  },
+  {
+    "firstName": "César",
+    "lastName": "Lemus",
+    "email": "cesar.lemus@example.com",
+    "username": "greenbird324",
+    "password": "karate",
+    "invokedAt": "2024-11-21T11:37:32.792Z"
   }
 ]
