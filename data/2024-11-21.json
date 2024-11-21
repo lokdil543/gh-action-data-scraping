@@ -278,5 +278,13 @@
     "username": "orangemeercat850",
     "password": "pokey",
     "invokedAt": "2024-11-21T09:39:57.458Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Joly",
+    "email": "tom.joly@example.com",
+    "username": "happyrabbit102",
+    "password": "elephant",
+    "invokedAt": "2024-11-21T09:45:41.753Z"
   }
 ]
