@@ -846,5 +846,13 @@
     "username": "silverfish900",
     "password": "cecilia",
     "invokedAt": "2024-11-22T22:11:46.639Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Peña",
+    "email": "julia.pena@example.com",
+    "username": "silverdog901",
+    "password": "guitar",
+    "invokedAt": "2024-11-22T22:31:14.071Z"
   }
 ]
