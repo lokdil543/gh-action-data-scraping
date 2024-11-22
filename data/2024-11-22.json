@@ -790,5 +790,13 @@
     "username": "redcat238",
     "password": "adidas",
     "invokedAt": "2024-11-22T21:12:33.782Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Mireles",
+    "email": "pedro.mireles@example.com",
+    "username": "crazylion567",
+    "password": "zappa",
+    "invokedAt": "2024-11-22T21:25:49.270Z"
   }
 ]
