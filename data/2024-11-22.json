@@ -782,5 +782,13 @@
     "username": "redfish773",
     "password": "cabernet",
     "invokedAt": "2024-11-22T20:57:23.426Z"
+  },
+  {
+    "firstName": "Ayşe",
+    "lastName": "Dağlaroğlu",
+    "email": "ayse.daglaroglu@example.com",
+    "username": "redcat238",
+    "password": "adidas",
+    "invokedAt": "2024-11-22T21:12:33.782Z"
   }
 ]
