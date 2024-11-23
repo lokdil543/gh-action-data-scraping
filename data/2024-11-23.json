@@ -294,5 +294,13 @@
     "username": "happybird314",
     "password": "woofer",
     "invokedAt": "2024-11-23T09:25:07.611Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Duran",
+    "email": "jorge.duran@example.com",
+    "username": "blackmeercat462",
+    "password": "meat",
+    "invokedAt": "2024-11-23T09:31:26.434Z"
   }
 ]
