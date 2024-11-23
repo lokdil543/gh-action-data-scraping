@@ -326,5 +326,13 @@
     "username": "bigduck120",
     "password": "detroit",
     "invokedAt": "2024-11-23T09:50:03.092Z"
+  },
+  {
+    "firstName": "Hans-Hermann",
+    "lastName": "Plath",
+    "email": "hans-hermann.plath@example.com",
+    "username": "yellowdog879",
+    "password": "larkin",
+    "invokedAt": "2024-11-23T09:55:58.406Z"
   }
 ]
