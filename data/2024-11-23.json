@@ -950,5 +950,13 @@
     "username": "reddog773",
     "password": "chanel",
     "invokedAt": "2024-11-23T22:39:22.672Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Collins",
+    "email": "fred.collins@example.com",
+    "username": "crazyleopard250",
+    "password": "batman",
+    "invokedAt": "2024-11-23T22:45:09.581Z"
   }
 ]
