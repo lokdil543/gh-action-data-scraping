@@ -558,5 +558,13 @@
     "username": "angryfrog339",
     "password": "1012",
     "invokedAt": "2024-11-23T14:54:47.307Z"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Legrand",
+    "email": "jade.legrand@example.com",
+    "username": "crazykoala271",
+    "password": "doubled",
+    "invokedAt": "2024-11-23T15:03:46.292Z"
   }
 ]
