@@ -422,5 +422,13 @@
     "username": "heavyzebra867",
     "password": "flash",
     "invokedAt": "2024-11-23T11:42:16.416Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Long",
+    "email": "john.long@example.com",
+    "username": "greentiger737",
+    "password": "thuglife",
+    "invokedAt": "2024-11-23T11:48:16.433Z"
   }
 ]
