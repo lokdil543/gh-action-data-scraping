@@ -862,5 +862,13 @@
     "username": "smallfish651",
     "password": "amadeus",
     "invokedAt": "2024-11-24T20:54:35.545Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Laine",
+    "email": "vaino.laine@example.com",
+    "username": "happycat308",
+    "password": "trojans",
+    "invokedAt": "2024-11-24T21:00:52.072Z"
   }
 ]
