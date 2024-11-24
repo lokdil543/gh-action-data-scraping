@@ -510,5 +510,13 @@
     "username": "goldenbird894",
     "password": "fullmoon",
     "invokedAt": "2024-11-24T14:08:27.679Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Young",
+    "email": "adam.young@example.com",
+    "username": "bluedog839",
+    "password": "0101",
+    "invokedAt": "2024-11-24T14:25:57.549Z"
   }
 ]
