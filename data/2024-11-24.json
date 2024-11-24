@@ -438,5 +438,13 @@
     "username": "heavycat187",
     "password": "animal",
     "invokedAt": "2024-11-24T11:57:17.538Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Arnold",
+    "email": "jane.arnold@example.com",
+    "username": "sadbutterfly454",
+    "password": "joke",
+    "invokedAt": "2024-11-24T12:21:50.213Z"
   }
 ]
