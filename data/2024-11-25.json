@@ -326,5 +326,13 @@
     "username": "heavyfish361",
     "password": "greece",
     "invokedAt": "2024-11-25T11:15:29.563Z"
+  },
+  {
+    "firstName": "Alevtin",
+    "lastName": "Yavorivskiy",
+    "email": "alevtin.yavorivskiy@example.com",
+    "username": "bigostrich365",
+    "password": "older",
+    "invokedAt": "2024-11-25T11:26:17.797Z"
   }
 ]
