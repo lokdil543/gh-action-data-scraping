@@ -862,5 +862,13 @@
     "username": "bigzebra522",
     "password": "aspen",
     "invokedAt": "2024-11-25T23:30:09.958Z"
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Garberg",
+    "email": "hans.garberg@example.com",
+    "username": "heavyzebra904",
+    "password": "bender",
+    "invokedAt": "2024-11-25T23:38:18.588Z"
   }
 ]
