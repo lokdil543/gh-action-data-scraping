@@ -422,5 +422,13 @@
     "username": "whiteduck942",
     "password": "test1",
     "invokedAt": "2024-11-25T13:53:44.841Z"
+  },
+  {
+    "firstName": "Ayub",
+    "lastName": "Hirsi",
+    "email": "ayub.hirsi@example.com",
+    "username": "tinypanda245",
+    "password": "vipers",
+    "invokedAt": "2024-11-25T13:59:32.328Z"
   }
 ]
