@@ -534,5 +534,13 @@
     "username": "crazyostrich101",
     "password": "abc12345",
     "invokedAt": "2024-11-25T16:41:59.565Z"
+  },
+  {
+    "firstName": "Yasemin",
+    "lastName": "Kahveci",
+    "email": "yasemin.kahveci@example.com",
+    "username": "sadduck272",
+    "password": "stinky",
+    "invokedAt": "2024-11-25T16:52:42.477Z"
   }
 ]
