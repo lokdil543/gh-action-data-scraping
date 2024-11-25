@@ -478,5 +478,13 @@
     "username": "blacksnake522",
     "password": "favorite",
     "invokedAt": "2024-11-25T15:12:14.363Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Laurent",
+    "email": "mathias.laurent@example.com",
+    "username": "bigcat799",
+    "password": "heidi",
+    "invokedAt": "2024-11-25T15:30:32.898Z"
   }
 ]
