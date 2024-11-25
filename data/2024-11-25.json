@@ -206,5 +206,13 @@
     "username": "whitegorilla790",
     "password": "cookie",
     "invokedAt": "2024-11-25T08:11:39.598Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Broch",
+    "email": "anton.broch@example.com",
+    "username": "bluedog790",
+    "password": "models",
+    "invokedAt": "2024-11-25T08:35:07.350Z"
   }
 ]
