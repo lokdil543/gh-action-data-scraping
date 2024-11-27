@@ -566,5 +566,13 @@
     "username": "bigdog391",
     "password": "misfit",
     "invokedAt": "2024-11-27T17:31:37.403Z"
+  },
+  {
+    "firstName": "Germán",
+    "lastName": "Mesa",
+    "email": "german.mesa@example.com",
+    "username": "orangewolf763",
+    "password": "domino",
+    "invokedAt": "2024-11-27T17:41:35.922Z"
   }
 ]
