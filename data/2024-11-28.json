@@ -566,5 +566,13 @@
     "username": "orangeostrich683",
     "password": "medical",
     "invokedAt": "2024-11-28T17:30:19.654Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Williams",
+    "email": "louis.williams@example.com",
+    "username": "browndog677",
+    "password": "records",
+    "invokedAt": "2024-11-28T17:39:21.352Z"
   }
 ]
