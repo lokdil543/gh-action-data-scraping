@@ -822,5 +822,13 @@
     "username": "greenpanda208",
     "password": "honey",
     "invokedAt": "2024-11-28T22:42:41.568Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Edwards",
+    "email": "john.edwards@example.com",
+    "username": "smalllion518",
+    "password": "splinter",
+    "invokedAt": "2024-11-28T22:48:25.363Z"
   }
 ]
