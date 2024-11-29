@@ -702,5 +702,13 @@
     "username": "yellowpanda449",
     "password": "dolphins",
     "invokedAt": "2024-11-29T19:56:15.374Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Ward",
+    "email": "alice.ward@example.com",
+    "username": "brownbutterfly243",
+    "password": "bruno",
+    "invokedAt": "2024-11-29T20:11:29.404Z"
   }
 ]
