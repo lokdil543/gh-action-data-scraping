@@ -326,5 +326,13 @@
     "username": "bigpanda184",
     "password": "ruby",
     "invokedAt": "2024-11-29T10:58:16.543Z"
+  },
+  {
+    "firstName": "Noe",
+    "lastName": "Vincent",
+    "email": "noe.vincent@example.com",
+    "username": "smallpanda647",
+    "password": "breeze",
+    "invokedAt": "2024-11-29T11:12:16.589Z"
   }
 ]
