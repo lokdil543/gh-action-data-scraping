@@ -566,5 +566,13 @@
     "username": "blackpanda276",
     "password": "gizmodo1",
     "invokedAt": "2024-12-01T16:21:40.760Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Johnson",
+    "email": "tracy.johnson@example.com",
+    "username": "yellowdog945",
+    "password": "somethin",
+    "invokedAt": "2024-12-01T16:39:34.836Z"
   }
 ]
