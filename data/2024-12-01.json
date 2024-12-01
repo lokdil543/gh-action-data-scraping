@@ -326,5 +326,13 @@
     "username": "lazykoala571",
     "password": "ranch",
     "invokedAt": "2024-12-01T10:54:03.527Z"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Rödel",
+    "email": "tim.rodel@example.com",
+    "username": "crazysnake283",
+    "password": "journey",
+    "invokedAt": "2024-12-01T10:59:55.384Z"
   }
 ]
