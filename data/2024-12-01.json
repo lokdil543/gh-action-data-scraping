@@ -926,5 +926,13 @@
     "username": "crazyfrog270",
     "password": "weird",
     "invokedAt": "2024-12-01T23:33:55.894Z"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Lucas",
+    "email": "theo.lucas@example.com",
+    "username": "brownlion362",
+    "password": "jason1",
+    "invokedAt": "2024-12-01T23:41:27.919Z"
   }
 ]
