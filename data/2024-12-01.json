@@ -750,5 +750,13 @@
     "username": "sadfish139",
     "password": "1235",
     "invokedAt": "2024-12-01T19:57:12.693Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Ayverdi",
+    "email": "kadir.ayverdi@example.com",
+    "username": "brownbear761",
+    "password": "shell",
+    "invokedAt": "2024-12-01T20:12:45.807Z"
   }
 ]
