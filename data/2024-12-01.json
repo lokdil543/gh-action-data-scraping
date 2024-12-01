@@ -806,5 +806,13 @@
     "username": "redfrog167",
     "password": "cafc91",
     "invokedAt": "2024-12-01T21:07:25.556Z"
+  },
+  {
+    "firstName": "Malone",
+    "lastName": "Mathieu",
+    "email": "malone.mathieu@example.com",
+    "username": "yellowtiger724",
+    "password": "moneyman",
+    "invokedAt": "2024-12-01T21:23:32.475Z"
   }
 ]
