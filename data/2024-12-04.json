@@ -334,5 +334,13 @@
     "username": "beautifulduck128",
     "password": "qwert123",
     "invokedAt": "2024-12-04T11:30:03.626Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Skjærvik",
+    "email": "nathan.skjaervik@example.com",
+    "username": "blackbird724",
+    "password": "hector",
+    "invokedAt": "2024-12-04T11:38:36.109Z"
   }
 ]
