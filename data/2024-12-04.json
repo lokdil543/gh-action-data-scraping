@@ -678,5 +678,13 @@
     "username": "greengoose275",
     "password": "popper",
     "invokedAt": "2024-12-04T20:33:18.612Z"
+  },
+  {
+    "firstName": "Ángel",
+    "lastName": "Rico",
+    "email": "angel.rico@example.com",
+    "username": "smallostrich667",
+    "password": "instant",
+    "invokedAt": "2024-12-04T20:43:24.698Z"
   }
 ]
