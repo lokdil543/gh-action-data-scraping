@@ -614,5 +614,13 @@
     "username": "bigdog568",
     "password": "claymore",
     "invokedAt": "2024-12-04T19:18:23.579Z"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Jenkins",
+    "email": "cassandra.jenkins@example.com",
+    "username": "tinytiger363",
+    "password": "peeper",
+    "invokedAt": "2024-12-04T19:28:31.685Z"
   }
 ]
