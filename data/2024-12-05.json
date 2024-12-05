@@ -430,5 +430,13 @@
     "username": "crazydog690",
     "password": "isabella",
     "invokedAt": "2024-12-05T13:56:54.823Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Deschamps",
+    "email": "guillaume.deschamps@example.com",
+    "username": "purplegorilla973",
+    "password": "mary",
+    "invokedAt": "2024-12-05T14:12:02.674Z"
   }
 ]
