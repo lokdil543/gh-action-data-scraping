@@ -342,5 +342,13 @@
     "username": "bigbird972",
     "password": "wonder",
     "invokedAt": "2024-12-06T11:24:48.078Z"
+  },
+  {
+    "firstName": "Sina",
+    "lastName": "Melgers",
+    "email": "sina.melgers@example.com",
+    "username": "happyduck992",
+    "password": "lancer",
+    "invokedAt": "2024-12-06T11:30:47.528Z"
   }
 ]
