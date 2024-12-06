@@ -886,5 +886,13 @@
     "username": "greenfish529",
     "password": "elcamino",
     "invokedAt": "2024-12-06T23:53:29.300Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Pedersen",
+    "email": "jacob.pedersen@example.com",
+    "username": "yellowcat168",
+    "password": "christma",
+    "invokedAt": "2024-12-06T23:59:31.525Z"
   }
 ]
