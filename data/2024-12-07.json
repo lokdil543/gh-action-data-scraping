@@ -614,5 +614,13 @@
     "username": "whitesnake431",
     "password": "airplane",
     "invokedAt": "2024-12-07T16:54:36.232Z"
+  },
+  {
+    "firstName": "Kamran",
+    "lastName": "Barendregt",
+    "email": "kamran.barendregt@example.com",
+    "username": "lazybird500",
+    "password": "morris",
+    "invokedAt": "2024-12-07T17:00:20.538Z"
   }
 ]
