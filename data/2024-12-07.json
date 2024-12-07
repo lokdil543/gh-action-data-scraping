@@ -318,5 +318,13 @@
     "username": "blueelephant584",
     "password": "ruby",
     "invokedAt": "2024-12-07T10:18:56.715Z"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Clark",
+    "email": "connor.clark@example.com",
+    "username": "greenzebra114",
+    "password": "mollydog",
+    "invokedAt": "2024-12-07T10:37:17.081Z"
   }
 ]
