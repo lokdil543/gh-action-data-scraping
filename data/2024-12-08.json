@@ -286,5 +286,13 @@
     "username": "reddog104",
     "password": "houston1",
     "invokedAt": "2024-12-08T09:42:01.610Z"
+  },
+  {
+    "firstName": "Nadja",
+    "lastName": "Mladenović",
+    "email": "nadja.mladenovic@example.com",
+    "username": "bigswan890",
+    "password": "icecream",
+    "invokedAt": "2024-12-08T09:47:50.369Z"
   }
 ]
