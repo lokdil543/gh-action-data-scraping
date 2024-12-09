@@ -702,5 +702,13 @@
     "username": "bigmouse286",
     "password": "volvo",
     "invokedAt": "2024-12-09T21:00:37.804Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Niemi",
+    "email": "aapo.niemi@example.com",
+    "username": "happycat543",
+    "password": "shodan",
+    "invokedAt": "2024-12-09T21:19:00.686Z"
   }
 ]
