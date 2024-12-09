@@ -750,5 +750,13 @@
     "username": "redzebra958",
     "password": "silver1",
     "invokedAt": "2024-12-09T21:57:19.786Z"
+  },
+  {
+    "firstName": "Bernd",
+    "lastName": "Metzner",
+    "email": "bernd.metzner@example.com",
+    "username": "bluebird232",
+    "password": "dirt",
+    "invokedAt": "2024-12-09T22:12:45.847Z"
   }
 ]
