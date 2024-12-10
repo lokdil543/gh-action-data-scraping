@@ -846,5 +846,13 @@
     "username": "purplemouse208",
     "password": "friday",
     "invokedAt": "2024-12-10T23:47:38.643Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Natås",
+    "email": "jack.natas@example.com",
+    "username": "redzebra920",
+    "password": "yzerman",
+    "invokedAt": "2024-12-10T23:53:30.804Z"
   }
 ]
