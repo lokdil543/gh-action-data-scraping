@@ -750,5 +750,13 @@
     "username": "angrygoose100",
     "password": "street",
     "invokedAt": "2024-12-11T21:42:29.064Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Vargas",
+    "email": "johnny.vargas@example.com",
+    "username": "ticklishdog924",
+    "password": "flexible",
+    "invokedAt": "2024-12-11T21:48:35.751Z"
   }
 ]
