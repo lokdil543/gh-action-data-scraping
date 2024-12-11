@@ -318,5 +318,13 @@
     "username": "heavydog964",
     "password": "mountain",
     "invokedAt": "2024-12-11T11:00:24.552Z"
+  },
+  {
+    "firstName": "Salome",
+    "lastName": "Jean",
+    "email": "salome.jean@example.com",
+    "username": "happyfrog964",
+    "password": "domino",
+    "invokedAt": "2024-12-11T11:16:19.698Z"
   }
 ]
