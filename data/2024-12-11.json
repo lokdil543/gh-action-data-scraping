@@ -342,5 +342,13 @@
     "username": "orangetiger292",
     "password": "karate",
     "invokedAt": "2024-12-11T11:34:07.662Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Nieto",
+    "email": "marc.nieto@example.com",
+    "username": "redtiger502",
+    "password": "phillip",
+    "invokedAt": "2024-12-11T11:40:19.465Z"
   }
 ]
