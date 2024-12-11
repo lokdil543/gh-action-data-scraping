@@ -494,5 +494,13 @@
     "username": "happydog112",
     "password": "personal",
     "invokedAt": "2024-12-11T15:49:27.753Z"
+  },
+  {
+    "firstName": "Gorana",
+    "lastName": "Vidić",
+    "email": "gorana.vidic@example.com",
+    "username": "tinymeercat312",
+    "password": "thedog",
+    "invokedAt": "2024-12-11T15:55:15.704Z"
   }
 ]
