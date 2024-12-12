@@ -790,5 +790,13 @@
     "username": "bigdog987",
     "password": "roberta",
     "invokedAt": "2024-12-12T22:18:51.096Z"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Dean",
+    "email": "monica.dean@example.com",
+    "username": "beautifuldog507",
+    "password": "harry",
+    "invokedAt": "2024-12-12T22:36:17.601Z"
   }
 ]
