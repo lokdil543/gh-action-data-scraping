@@ -830,5 +830,13 @@
     "username": "whitefrog704",
     "password": "lookin",
     "invokedAt": "2024-12-13T22:49:07.702Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Nielsen",
+    "email": "mads.nielsen@example.com",
+    "username": "whitedog982",
+    "password": "danzig",
+    "invokedAt": "2024-12-13T22:54:56.654Z"
   }
 ]
