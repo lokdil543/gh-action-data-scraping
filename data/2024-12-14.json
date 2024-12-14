@@ -718,5 +718,13 @@
     "username": "purpleelephant543",
     "password": "sputnik",
     "invokedAt": "2024-12-14T18:48:21.532Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Noel",
+    "email": "mathieu.noel@example.com",
+    "username": "smallfish670",
+    "password": "stubby",
+    "invokedAt": "2024-12-14T18:54:28.456Z"
   }
 ]
