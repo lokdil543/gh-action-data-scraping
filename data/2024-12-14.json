@@ -118,5 +118,13 @@
     "username": "happybear823",
     "password": "nuggets",
     "invokedAt": "2024-12-14T05:46:06.232Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Gregory",
+    "email": "chris.gregory@example.com",
+    "username": "crazycat392",
+    "password": "sword",
+    "invokedAt": "2024-12-14T05:52:06.497Z"
   }
 ]
