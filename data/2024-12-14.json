@@ -726,5 +726,13 @@
     "username": "smallfish670",
     "password": "stubby",
     "invokedAt": "2024-12-14T18:54:28.456Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Carroll",
+    "email": "roger.carroll@example.com",
+    "username": "yellowpanda163",
+    "password": "harrier",
+    "invokedAt": "2024-12-14T19:00:09.371Z"
   }
 ]
