@@ -286,5 +286,13 @@
     "username": "lazybird683",
     "password": "123abc",
     "invokedAt": "2024-12-15T09:40:51.589Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Coleman",
+    "email": "tony.coleman@example.com",
+    "username": "orangeduck679",
+    "password": "kipper",
+    "invokedAt": "2024-12-15T09:46:43.645Z"
   }
 ]
