@@ -342,5 +342,13 @@
     "username": "bluegorilla177",
     "password": "kenobi",
     "invokedAt": "2024-12-15T10:49:36.129Z"
+  },
+  {
+    "firstName": "Armando",
+    "lastName": "Marrero",
+    "email": "armando.marrero@example.com",
+    "username": "happydog610",
+    "password": "dork",
+    "invokedAt": "2024-12-15T10:55:31.444Z"
   }
 ]
