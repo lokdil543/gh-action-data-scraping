@@ -326,5 +326,13 @@
     "username": "brownkoala500",
     "password": "magical",
     "invokedAt": "2024-12-15T10:34:24.697Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Novak",
+    "email": "charlie.novak@example.com",
+    "username": "lazyladybug221",
+    "password": "contortionist",
+    "invokedAt": "2024-12-15T10:43:50.481Z"
   }
 ]
