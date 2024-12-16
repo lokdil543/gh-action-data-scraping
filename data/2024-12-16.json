@@ -142,5 +142,13 @@
     "username": "happysnake840",
     "password": "phillies",
     "invokedAt": "2024-12-16T06:53:55.302Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Fjell",
+    "email": "ivan.fjell@example.com",
+    "username": "whitegorilla655",
+    "password": "1515",
+    "invokedAt": "2024-12-16T06:59:48.700Z"
   }
 ]
