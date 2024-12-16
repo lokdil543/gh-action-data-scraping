@@ -462,5 +462,13 @@
     "username": "yellowbird790",
     "password": "john1",
     "invokedAt": "2024-12-16T15:12:37.109Z"
+  },
+  {
+    "firstName": "Klaudia",
+    "lastName": "Sondermann",
+    "email": "klaudia.sondermann@example.com",
+    "username": "whitemouse567",
+    "password": "nimbus",
+    "invokedAt": "2024-12-16T15:31:27.571Z"
   }
 ]
