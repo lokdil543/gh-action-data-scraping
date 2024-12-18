@@ -94,5 +94,13 @@
     "username": "redpanda220",
     "password": "mail",
     "invokedAt": "2024-12-18T05:09:55.558Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Zhang",
+    "email": "matilda.zhang@example.com",
+    "username": "happyduck279",
+    "password": "subway",
+    "invokedAt": "2024-12-18T05:29:29.023Z"
   }
 ]
