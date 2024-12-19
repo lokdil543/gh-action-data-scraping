@@ -686,5 +686,13 @@
     "username": "goldencat520",
     "password": "maserati",
     "invokedAt": "2024-12-19T18:57:44.513Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Neal",
+    "email": "bob.neal@example.com",
+    "username": "lazysnake775",
+    "password": "club",
+    "invokedAt": "2024-12-19T19:10:20.553Z"
   }
 ]
