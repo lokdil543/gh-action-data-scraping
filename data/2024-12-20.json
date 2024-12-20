@@ -758,5 +758,13 @@
     "username": "yellowgoose123",
     "password": "indian",
     "invokedAt": "2024-12-20T18:52:20.549Z"
+  },
+  {
+    "firstName": "Dean",
+    "lastName": "Patterson",
+    "email": "dean.patterson@example.com",
+    "username": "brownfish313",
+    "password": "anakin",
+    "invokedAt": "2024-12-20T18:58:14.551Z"
   }
 ]
