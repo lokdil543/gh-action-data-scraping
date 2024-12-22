@@ -566,5 +566,13 @@
     "username": "crazymeercat982",
     "password": "sheriff",
     "invokedAt": "2024-12-22T13:54:27.711Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Wilson",
+    "email": "max.wilson@example.com",
+    "username": "purplebutterfly577",
+    "password": "rogue",
+    "invokedAt": "2024-12-22T14:00:22.456Z"
   }
 ]
