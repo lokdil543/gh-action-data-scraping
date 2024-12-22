@@ -758,5 +758,13 @@
     "username": "redbird714",
     "password": "1993",
     "invokedAt": "2024-12-22T17:31:02.532Z"
+  },
+  {
+    "firstName": "Bernhard",
+    "lastName": "Eikås",
+    "email": "bernhard.eikas@example.com",
+    "username": "orangezebra210",
+    "password": "scanner",
+    "invokedAt": "2024-12-22T17:36:54.863Z"
   }
 ]
