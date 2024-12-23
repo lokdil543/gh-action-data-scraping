@@ -982,5 +982,13 @@
     "username": "brownelephant357",
     "password": "outside",
     "invokedAt": "2024-12-23T22:59:36.499Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Mackay",
+    "email": "blake.mackay@example.com",
+    "username": "beautifulelephant613",
+    "password": "pass",
+    "invokedAt": "2024-12-23T23:15:31.676Z"
   }
 ]
