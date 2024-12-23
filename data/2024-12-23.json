@@ -454,5 +454,13 @@
     "username": "yellowbutterfly157",
     "password": "tennis",
     "invokedAt": "2024-12-23T12:35:32.657Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Andersen",
+    "email": "emily.andersen@example.com",
+    "username": "blueduck653",
+    "password": "redrum",
+    "invokedAt": "2024-12-23T13:00:53.691Z"
   }
 ]
