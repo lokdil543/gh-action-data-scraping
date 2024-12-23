@@ -262,5 +262,13 @@
     "username": "sadlion738",
     "password": "amateur",
     "invokedAt": "2024-12-23T08:39:04.653Z"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Lam",
+    "email": "sophie.lam@example.com",
+    "username": "brownbutterfly448",
+    "password": "secrets",
+    "invokedAt": "2024-12-23T08:47:50.822Z"
   }
 ]
