@@ -934,5 +934,13 @@
     "username": "tinycat149",
     "password": "acer",
     "invokedAt": "2024-12-24T21:39:06.954Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Wiedmann",
+    "email": "andy.wiedmann@example.com",
+    "username": "orangecat632",
+    "password": "paper",
+    "invokedAt": "2024-12-24T21:44:50.583Z"
   }
 ]
