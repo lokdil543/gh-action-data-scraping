@@ -670,5 +670,13 @@
     "username": "greenelephant513",
     "password": "perkins",
     "invokedAt": "2024-12-25T16:49:11.426Z"
+  },
+  {
+    "firstName": "Jean-Marie",
+    "lastName": "Garnier",
+    "email": "jean-marie.garnier@example.com",
+    "username": "sadduck711",
+    "password": "napster",
+    "invokedAt": "2024-12-25T16:55:01.234Z"
   }
 ]
