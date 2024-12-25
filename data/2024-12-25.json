@@ -822,5 +822,13 @@
     "username": "bigfrog298",
     "password": "cabbage",
     "invokedAt": "2024-12-25T19:43:00.672Z"
+  },
+  {
+    "firstName": "Dany",
+    "lastName": "Noel",
+    "email": "dany.noel@example.com",
+    "username": "lazyfrog503",
+    "password": "doodle",
+    "invokedAt": "2024-12-25T19:48:55.424Z"
   }
 ]
