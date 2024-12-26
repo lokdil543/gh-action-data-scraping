@@ -830,5 +830,13 @@
     "username": "smallduck179",
     "password": "1964",
     "invokedAt": "2024-12-26T19:56:36.341Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Clement",
+    "email": "roger.clement@example.com",
+    "username": "browngorilla921",
+    "password": "gofish",
+    "invokedAt": "2024-12-26T20:11:22.657Z"
   }
 ]
