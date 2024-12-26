@@ -566,5 +566,13 @@
     "username": "silvergoose144",
     "password": "compass",
     "invokedAt": "2024-12-26T14:49:21.999Z"
+  },
+  {
+    "firstName": "Marion",
+    "lastName": "Day",
+    "email": "marion.day@example.com",
+    "username": "beautifulfish191",
+    "password": "django",
+    "invokedAt": "2024-12-26T14:55:14.477Z"
   }
 ]
