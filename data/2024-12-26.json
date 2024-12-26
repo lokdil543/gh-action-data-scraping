@@ -574,5 +574,13 @@
     "username": "beautifulfish191",
     "password": "django",
     "invokedAt": "2024-12-26T14:55:14.477Z"
+  },
+  {
+    "firstName": "Zhitomir",
+    "lastName": "Yurevich",
+    "email": "zhitomir.yurevich@example.com",
+    "username": "lazycat684",
+    "password": "giggles",
+    "invokedAt": "2024-12-26T15:07:33.714Z"
   }
 ]
