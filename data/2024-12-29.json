@@ -894,5 +894,13 @@
     "username": "blackbird571",
     "password": "poiu",
     "invokedAt": "2024-12-29T20:08:34.799Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Baker",
+    "email": "pedro.baker@example.com",
+    "username": "greenpeacock466",
+    "password": "vision",
+    "invokedAt": "2024-12-29T20:24:31.482Z"
   }
 ]
