@@ -126,5 +126,13 @@
     "username": "smallduck498",
     "password": "railroad",
     "invokedAt": "2024-12-30T05:30:59.786Z"
+  },
+  {
+    "firstName": "Mikola",
+    "lastName": "Verbickiy",
+    "email": "mikola.verbickiy@example.com",
+    "username": "happybear217",
+    "password": "something",
+    "invokedAt": "2024-12-30T05:39:58.958Z"
   }
 ]
