@@ -262,5 +262,13 @@
     "username": "orangeleopard598",
     "password": "pass123",
     "invokedAt": "2024-12-31T08:00:15.798Z"
+  },
+  {
+    "firstName": "Famke",
+    "lastName": "De Jeu",
+    "email": "famke.dejeu@example.com",
+    "username": "angrypanda736",
+    "password": "wallace",
+    "invokedAt": "2024-12-31T08:23:01.214Z"
   }
 ]
