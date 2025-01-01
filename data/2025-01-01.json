@@ -366,5 +366,13 @@
     "username": "brownpeacock900",
     "password": "reddwarf",
     "invokedAt": "2025-01-01T10:46:56.773Z"
+  },
+  {
+    "firstName": "Morris",
+    "lastName": "Burton",
+    "email": "morris.burton@example.com",
+    "username": "yellowkoala924",
+    "password": "asdfg",
+    "invokedAt": "2025-01-01T10:52:44.630Z"
   }
 ]
