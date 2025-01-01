@@ -574,5 +574,13 @@
     "username": "organicbird176",
     "password": "reds",
     "invokedAt": "2025-01-01T15:10:22.373Z"
+  },
+  {
+    "firstName": "Ajay",
+    "lastName": "Kavser",
+    "email": "ajay.kavser@example.com",
+    "username": "angrybear926",
+    "password": "blam",
+    "invokedAt": "2025-01-01T15:26:30.534Z"
   }
 ]
