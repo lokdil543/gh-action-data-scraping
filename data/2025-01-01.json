@@ -438,5 +438,13 @@
     "username": "happyduck159",
     "password": "streets",
     "invokedAt": "2025-01-01T11:52:44.595Z"
+  },
+  {
+    "firstName": "Sverre",
+    "lastName": "Nollen",
+    "email": "sverre.nollen@example.com",
+    "username": "redostrich152",
+    "password": "wilson",
+    "invokedAt": "2025-01-01T11:58:34.633Z"
   }
 ]
