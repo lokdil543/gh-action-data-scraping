@@ -678,5 +678,13 @@
     "username": "lazypeacock193",
     "password": "airport",
     "invokedAt": "2025-01-01T17:24:47.697Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Bergeron",
+    "email": "lily.bergeron@example.com",
+    "username": "organicostrich789",
+    "password": "trout",
+    "invokedAt": "2025-01-01T17:31:30.999Z"
   }
 ]
