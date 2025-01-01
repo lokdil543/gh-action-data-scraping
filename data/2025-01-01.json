@@ -662,5 +662,13 @@
     "username": "angrygorilla146",
     "password": "1111",
     "invokedAt": "2025-01-01T16:56:50.386Z"
+  },
+  {
+    "firstName": "Stoymir",
+    "lastName": "Vizerski",
+    "email": "stoymir.vizerski@example.com",
+    "username": "heavycat398",
+    "password": "boxcar",
+    "invokedAt": "2025-01-01T17:09:25.699Z"
   }
 ]
