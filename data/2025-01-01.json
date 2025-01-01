@@ -190,5 +190,13 @@
     "username": "whiterabbit737",
     "password": "hamburg",
     "invokedAt": "2025-01-01T07:17:27.619Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Christiansen",
+    "email": "mikkel.christiansen@example.com",
+    "username": "orangebird680",
+    "password": "bigmike",
+    "invokedAt": "2025-01-01T07:27:51.576Z"
   }
 ]
