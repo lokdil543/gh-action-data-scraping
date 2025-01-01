@@ -534,5 +534,13 @@
     "username": "smallsnake119",
     "password": "limited",
     "invokedAt": "2025-01-01T14:30:26.796Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Hernández",
+    "email": "pedro.hernandez@example.com",
+    "username": "orangemouse603",
+    "password": "cleo",
+    "invokedAt": "2025-01-01T14:38:27.490Z"
   }
 ]
