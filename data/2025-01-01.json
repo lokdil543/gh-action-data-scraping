@@ -630,5 +630,13 @@
     "username": "silverswan232",
     "password": "eeeeee",
     "invokedAt": "2025-01-01T16:16:26.600Z"
+  },
+  {
+    "firstName": "Isabelle",
+    "lastName": "Taylor",
+    "email": "isabelle.taylor@example.com",
+    "username": "goldenrabbit678",
+    "password": "hamster",
+    "invokedAt": "2025-01-01T16:34:07.209Z"
   }
 ]
