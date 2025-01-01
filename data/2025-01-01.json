@@ -158,5 +158,13 @@
     "username": "organictiger146",
     "password": "anne",
     "invokedAt": "2025-01-01T06:39:34.834Z"
+  },
+  {
+    "firstName": "Falk",
+    "lastName": "Widmann",
+    "email": "falk.widmann@example.com",
+    "username": "organicgoose193",
+    "password": "greedy",
+    "invokedAt": "2025-01-01T06:48:45.552Z"
   }
 ]
