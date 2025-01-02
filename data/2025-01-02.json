@@ -1038,5 +1038,13 @@
     "username": "happyleopard703",
     "password": "seng",
     "invokedAt": "2025-01-02T23:48:06.723Z"
+  },
+  {
+    "firstName": "Gabe",
+    "lastName": "Ryan",
+    "email": "gabe.ryan@example.com",
+    "username": "brownzebra208",
+    "password": "ping",
+    "invokedAt": "2025-01-02T23:53:57.391Z"
   }
 ]
