@@ -798,5 +798,13 @@
     "username": "crazywolf831",
     "password": "simmons",
     "invokedAt": "2025-01-02T19:32:03.426Z"
+  },
+  {
+    "firstName": "Matthieu",
+    "lastName": "Arnaud",
+    "email": "matthieu.arnaud@example.com",
+    "username": "silvertiger894",
+    "password": "magical",
+    "invokedAt": "2025-01-02T19:38:15.235Z"
   }
 ]
