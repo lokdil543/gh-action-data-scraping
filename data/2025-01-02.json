@@ -214,5 +214,13 @@
     "username": "bluebird796",
     "password": "kingkong",
     "invokedAt": "2025-01-02T07:26:35.788Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Rasmussen",
+    "email": "william.rasmussen@example.com",
+    "username": "smalldog112",
+    "password": "1996",
+    "invokedAt": "2025-01-02T07:33:27.942Z"
   }
 ]
