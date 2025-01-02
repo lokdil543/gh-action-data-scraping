@@ -262,5 +262,13 @@
     "username": "happybear955",
     "password": "mypass",
     "invokedAt": "2025-01-02T08:15:04.462Z"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Dufour",
+    "email": "elsa.dufour@example.com",
+    "username": "tinyfrog655",
+    "password": "tommie",
+    "invokedAt": "2025-01-02T08:33:08.706Z"
   }
 ]
