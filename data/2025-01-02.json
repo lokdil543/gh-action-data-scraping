@@ -78,5 +78,13 @@
     "username": "redswan567",
     "password": "spring",
     "invokedAt": "2025-01-02T04:32:12.957Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Joly",
+    "email": "marcos.joly@example.com",
+    "username": "crazykoala992",
+    "password": "12345a",
+    "invokedAt": "2025-01-02T04:42:25.541Z"
   }
 ]
