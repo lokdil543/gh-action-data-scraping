@@ -534,5 +534,13 @@
     "username": "blackwolf859",
     "password": "stress",
     "invokedAt": "2025-01-02T14:11:05.458Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Palo",
+    "email": "miro.palo@example.com",
+    "username": "lazyswan877",
+    "password": "1234abcd",
+    "invokedAt": "2025-01-02T14:28:06.658Z"
   }
 ]
