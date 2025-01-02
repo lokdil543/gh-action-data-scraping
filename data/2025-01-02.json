@@ -942,5 +942,13 @@
     "username": "crazyfish800",
     "password": "yamahar1",
     "invokedAt": "2025-01-02T21:56:27.955Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Kantola",
+    "email": "eetu.kantola@example.com",
+    "username": "crazydog935",
+    "password": "aaa111",
+    "invokedAt": "2025-01-02T22:09:27.764Z"
   }
 ]
