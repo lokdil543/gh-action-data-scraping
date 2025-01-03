@@ -182,5 +182,13 @@
     "username": "greenzebra891",
     "password": "business",
     "invokedAt": "2025-01-03T06:47:41.584Z"
+  },
+  {
+    "firstName": "Srđan",
+    "lastName": "Ivić",
+    "email": "srdan.ivic@example.com",
+    "username": "heavylion716",
+    "password": "viewer",
+    "invokedAt": "2025-01-03T06:53:31.803Z"
   }
 ]
