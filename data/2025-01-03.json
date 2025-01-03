@@ -166,5 +166,13 @@
     "username": "orangefrog217",
     "password": "jagger",
     "invokedAt": "2025-01-03T06:17:37.286Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Wallace",
+    "email": "roger.wallace@example.com",
+    "username": "sadfrog324",
+    "password": "physics",
+    "invokedAt": "2025-01-03T06:38:11.602Z"
   }
 ]
