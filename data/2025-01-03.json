@@ -414,5 +414,13 @@
     "username": "redfish380",
     "password": "treefrog",
     "invokedAt": "2025-01-03T11:23:11.576Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Hall",
+    "email": "jackson.hall@example.com",
+    "username": "blueswan675",
+    "password": "railroad",
+    "invokedAt": "2025-01-03T11:29:05.680Z"
   }
 ]
