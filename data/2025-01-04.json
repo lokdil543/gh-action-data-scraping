@@ -782,5 +782,13 @@
     "username": "brownpanda228",
     "password": "billybob",
     "invokedAt": "2025-01-04T18:00:34.534Z"
+  },
+  {
+    "firstName": "Wanda",
+    "lastName": "Fast",
+    "email": "wanda.fast@example.com",
+    "username": "sadcat994",
+    "password": "badger",
+    "invokedAt": "2025-01-04T18:23:50.671Z"
   }
 ]
