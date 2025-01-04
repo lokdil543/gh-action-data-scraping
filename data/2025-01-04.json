@@ -342,5 +342,13 @@
     "username": "smallduck933",
     "password": "video1",
     "invokedAt": "2025-01-04T09:33:23.610Z"
+  },
+  {
+    "firstName": "Lori",
+    "lastName": "Hall",
+    "email": "lori.hall@example.com",
+    "username": "smallostrich933",
+    "password": "mountain",
+    "invokedAt": "2025-01-04T09:39:09.574Z"
   }
 ]
