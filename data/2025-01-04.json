@@ -286,5 +286,13 @@
     "username": "purplebird468",
     "password": "office",
     "invokedAt": "2025-01-04T08:31:39.432Z"
+  },
+  {
+    "firstName": "Joaquin",
+    "lastName": "Moreno",
+    "email": "joaquin.moreno@example.com",
+    "username": "angryfish546",
+    "password": "calling",
+    "invokedAt": "2025-01-04T08:42:03.719Z"
   }
 ]
