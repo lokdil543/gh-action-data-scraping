@@ -870,5 +870,13 @@
     "username": "redelephant456",
     "password": "49ers",
     "invokedAt": "2025-01-04T19:43:36.849Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Thompson",
+    "email": "don.thompson@example.com",
+    "username": "happymouse770",
+    "password": "trixie",
+    "invokedAt": "2025-01-04T19:49:36.593Z"
   }
 ]
