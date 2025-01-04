@@ -406,5 +406,13 @@
     "username": "purplerabbit441",
     "password": "chess",
     "invokedAt": "2025-01-04T10:44:38.777Z"
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Leclercq",
+    "email": "axel.leclercq@example.com",
+    "username": "silverduck798",
+    "password": "nicolas",
+    "invokedAt": "2025-01-04T10:50:25.543Z"
   }
 ]
