@@ -86,5 +86,13 @@
     "username": "sadgorilla725",
     "password": "therock",
     "invokedAt": "2025-01-04T04:30:40.582Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Scheffers",
+    "email": "max.scheffers@example.com",
+    "username": "happyswan126",
+    "password": "showing",
+    "invokedAt": "2025-01-04T04:40:34.667Z"
   }
 ]
