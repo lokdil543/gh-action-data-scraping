@@ -102,5 +102,13 @@
     "username": "reddog804",
     "password": "student",
     "invokedAt": "2025-01-05T04:56:54.893Z"
+  },
+  {
+    "firstName": "Sharmila",
+    "lastName": "Van Giessen",
+    "email": "sharmila.vangiessen@example.com",
+    "username": "redladybug567",
+    "password": "picasso",
+    "invokedAt": "2025-01-05T05:10:36.401Z"
   }
 ]
