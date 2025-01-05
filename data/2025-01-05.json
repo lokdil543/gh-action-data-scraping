@@ -518,5 +518,13 @@
     "username": "organicbird456",
     "password": "string",
     "invokedAt": "2025-01-05T13:27:01.876Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Schlecht",
+    "email": "marius.schlecht@example.com",
+    "username": "tinygoose202",
+    "password": "eagle",
+    "invokedAt": "2025-01-05T13:33:28.270Z"
   }
 ]
