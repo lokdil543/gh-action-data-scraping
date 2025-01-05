@@ -1118,5 +1118,13 @@
     "username": "purplezebra260",
     "password": "stars",
     "invokedAt": "2025-01-05T23:53:45.562Z"
+  },
+  {
+    "firstName": "Dragomir",
+    "lastName": "Mladenović",
+    "email": "dragomir.mladenovic@example.com",
+    "username": "bigfrog264",
+    "password": "alice1",
+    "invokedAt": "2025-01-05T23:59:42.496Z"
   }
 ]
