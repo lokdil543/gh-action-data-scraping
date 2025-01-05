@@ -574,5 +574,13 @@
     "username": "blackgoose600",
     "password": "magenta",
     "invokedAt": "2025-01-05T14:24:59.604Z"
+  },
+  {
+    "firstName": "Todor",
+    "lastName": "Lazović",
+    "email": "todor.lazovic@example.com",
+    "username": "silverwolf775",
+    "password": "mouse1",
+    "invokedAt": "2025-01-05T14:32:38.861Z"
   }
 ]
