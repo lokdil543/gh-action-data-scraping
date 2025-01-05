@@ -750,5 +750,13 @@
     "username": "heavypanda169",
     "password": "surf",
     "invokedAt": "2025-01-05T17:36:05.924Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Christensen",
+    "email": "philip.christensen@example.com",
+    "username": "blackdog989",
+    "password": "intruder",
+    "invokedAt": "2025-01-05T17:41:53.829Z"
   }
 ]
