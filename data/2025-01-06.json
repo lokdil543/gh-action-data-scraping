@@ -774,5 +774,13 @@
     "username": "happyfrog199",
     "password": "nicholas",
     "invokedAt": "2025-01-06T19:46:39.092Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Wright",
+    "email": "eva.wright@example.com",
+    "username": "purplebear946",
+    "password": "foobar",
+    "invokedAt": "2025-01-06T19:52:40.683Z"
   }
 ]
