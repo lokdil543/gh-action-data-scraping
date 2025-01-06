@@ -686,5 +686,13 @@
     "username": "happyrabbit863",
     "password": "wallace",
     "invokedAt": "2025-01-06T17:57:42.031Z"
+  },
+  {
+    "firstName": "Lloyd",
+    "lastName": "Welch",
+    "email": "lloyd.welch@example.com",
+    "username": "crazysnake208",
+    "password": "django",
+    "invokedAt": "2025-01-06T18:17:33.385Z"
   }
 ]
