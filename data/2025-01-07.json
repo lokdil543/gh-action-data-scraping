@@ -478,5 +478,13 @@
     "username": "brownrabbit124",
     "password": "12345",
     "invokedAt": "2025-01-07T13:25:22.017Z"
+  },
+  {
+    "firstName": "Brooklyn",
+    "lastName": "Cooper",
+    "email": "brooklyn.cooper@example.com",
+    "username": "whitemouse352",
+    "password": "chun",
+    "invokedAt": "2025-01-07T15:05:17.183Z"
   }
 ]
