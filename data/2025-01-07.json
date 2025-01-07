@@ -246,5 +246,13 @@
     "username": "purplemouse664",
     "password": "wireless",
     "invokedAt": "2025-01-07T07:50:44.108Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Kristensen",
+    "email": "mads.kristensen@example.com",
+    "username": "blueduck716",
+    "password": "robotics",
+    "invokedAt": "2025-01-07T07:56:36.766Z"
   }
 ]
