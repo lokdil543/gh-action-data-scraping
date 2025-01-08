@@ -238,5 +238,13 @@
     "username": "purpleleopard957",
     "password": "tower",
     "invokedAt": "2025-01-08T07:43:00.736Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Guillaume",
+    "email": "simon.guillaume@example.com",
+    "username": "smallleopard501",
+    "password": "magical",
+    "invokedAt": "2025-01-08T07:48:56.488Z"
   }
 ]
