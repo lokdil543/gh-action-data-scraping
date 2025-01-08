@@ -382,5 +382,13 @@
     "username": "whitetiger402",
     "password": "chuck1",
     "invokedAt": "2025-01-08T10:47:28.932Z"
+  },
+  {
+    "firstName": "Samson",
+    "lastName": "Wien",
+    "email": "samson.wien@example.com",
+    "username": "crazypanda296",
+    "password": "ghosts",
+    "invokedAt": "2025-01-08T10:53:19.908Z"
   }
 ]
