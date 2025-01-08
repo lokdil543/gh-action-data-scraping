@@ -398,5 +398,13 @@
     "username": "whitefish134",
     "password": "opendoor",
     "invokedAt": "2025-01-08T10:59:16.946Z"
+  },
+  {
+    "firstName": "Ida",
+    "lastName": "Hansen",
+    "email": "ida.hansen@example.com",
+    "username": "purplesnake112",
+    "password": "puffer",
+    "invokedAt": "2025-01-08T11:13:04.439Z"
   }
 ]
