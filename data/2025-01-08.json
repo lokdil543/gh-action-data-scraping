@@ -894,5 +894,13 @@
     "username": "greensnake290",
     "password": "tabasco",
     "invokedAt": "2025-01-08T21:34:56.820Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Jean-Baptiste",
+    "email": "gabriel.jean-baptiste@example.com",
+    "username": "yellowsnake371",
+    "password": "chill",
+    "invokedAt": "2025-01-08T21:40:40.345Z"
   }
 ]
