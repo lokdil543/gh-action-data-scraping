@@ -734,5 +734,13 @@
     "username": "purplebird525",
     "password": "snowbird",
     "invokedAt": "2025-01-08T18:45:44.038Z"
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Gardner",
+    "email": "douglas.gardner@example.com",
+    "username": "lazycat650",
+    "password": "1812",
+    "invokedAt": "2025-01-08T18:51:41.977Z"
   }
 ]
