@@ -534,5 +534,13 @@
     "username": "greengorilla961",
     "password": "peabody",
     "invokedAt": "2025-01-08T14:25:42.448Z"
+  },
+  {
+    "firstName": "Archer",
+    "lastName": "Lee",
+    "email": "archer.lee@example.com",
+    "username": "sadgoose916",
+    "password": "strange",
+    "invokedAt": "2025-01-08T14:37:04.797Z"
   }
 ]
