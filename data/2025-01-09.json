@@ -846,5 +846,13 @@
     "username": "bigbutterfly303",
     "password": "things",
     "invokedAt": "2025-01-09T21:16:55.696Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Brown",
+    "email": "alice.brown@example.com",
+    "username": "brownkoala579",
+    "password": "gofish",
+    "invokedAt": "2025-01-09T21:27:25.824Z"
   }
 ]
