@@ -310,5 +310,13 @@
     "username": "biggorilla151",
     "password": "hallo",
     "invokedAt": "2025-01-09T09:47:42.641Z"
+  },
+  {
+    "firstName": "Allie",
+    "lastName": "Daniels",
+    "email": "allie.daniels@example.com",
+    "username": "brownzebra678",
+    "password": "sprinter",
+    "invokedAt": "2025-01-09T09:53:39.690Z"
   }
 ]
