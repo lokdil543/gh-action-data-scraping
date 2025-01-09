@@ -598,5 +598,13 @@
     "username": "bigfrog331",
     "password": "oregon",
     "invokedAt": "2025-01-09T16:09:21.571Z"
+  },
+  {
+    "firstName": "Žarko",
+    "lastName": "Borojević",
+    "email": "zarko.borojevic@example.com",
+    "username": "happyostrich499",
+    "password": "rabbits",
+    "invokedAt": "2025-01-09T16:32:52.047Z"
   }
 ]
