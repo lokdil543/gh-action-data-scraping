@@ -166,5 +166,13 @@
     "username": "bluebear178",
     "password": "guitars",
     "invokedAt": "2025-01-09T06:53:46.184Z"
+  },
+  {
+    "firstName": "Maja",
+    "lastName": "Jakovljević",
+    "email": "maja.jakovljevic@example.com",
+    "username": "angryfrog123",
+    "password": "deadpool",
+    "invokedAt": "2025-01-09T06:59:40.269Z"
   }
 ]
