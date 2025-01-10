@@ -830,5 +830,13 @@
     "username": "orangepeacock117",
     "password": "computer",
     "invokedAt": "2025-01-10T20:31:46.800Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Arnaud",
+    "email": "simon.arnaud@example.com",
+    "username": "brownmouse615",
+    "password": "cosmic",
+    "invokedAt": "2025-01-10T20:40:00.744Z"
   }
 ]
