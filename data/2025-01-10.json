@@ -366,5 +366,13 @@
     "username": "biglion577",
     "password": "01234567",
     "invokedAt": "2025-01-10T10:44:35.420Z"
+  },
+  {
+    "firstName": "Svetozar",
+    "lastName": "Pejaković",
+    "email": "svetozar.pejakovic@example.com",
+    "username": "bluepeacock840",
+    "password": "ratman",
+    "invokedAt": "2025-01-10T10:50:06.916Z"
   }
 ]
