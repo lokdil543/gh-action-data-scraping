@@ -262,5 +262,13 @@
     "username": "orangefish491",
     "password": "fashion",
     "invokedAt": "2025-01-10T08:33:47.728Z"
+  },
+  {
+    "firstName": "Marcos",
+    "lastName": "Flores",
+    "email": "marcos.flores@example.com",
+    "username": "lazyfrog504",
+    "password": "jenkins",
+    "invokedAt": "2025-01-10T08:45:08.611Z"
   }
 ]
