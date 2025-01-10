@@ -766,5 +766,13 @@
     "username": "bluezebra909",
     "password": "11111",
     "invokedAt": "2025-01-10T19:24:02.733Z"
+  },
+  {
+    "firstName": "Harvey",
+    "lastName": "May",
+    "email": "harvey.may@example.com",
+    "username": "goldenbear995",
+    "password": "aikido",
+    "invokedAt": "2025-01-10T19:30:02.684Z"
   }
 ]
