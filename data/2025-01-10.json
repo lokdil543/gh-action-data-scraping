@@ -702,5 +702,13 @@
     "username": "happyelephant399",
     "password": "chief",
     "invokedAt": "2025-01-10T17:54:32.525Z"
+  },
+  {
+    "firstName": "Silke",
+    "lastName": "Pedersen",
+    "email": "silke.pedersen@example.com",
+    "username": "ticklishfish473",
+    "password": "proxy",
+    "invokedAt": "2025-01-10T18:00:23.304Z"
   }
 ]
