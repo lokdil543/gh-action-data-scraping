@@ -846,5 +846,13 @@
     "username": "crazybear886",
     "password": "doughnut",
     "invokedAt": "2025-01-11T19:20:47.587Z"
+  },
+  {
+    "firstName": "Peggy",
+    "lastName": "Baker",
+    "email": "peggy.baker@example.com",
+    "username": "crazygoose105",
+    "password": "fantasia",
+    "invokedAt": "2025-01-11T19:26:37.537Z"
   }
 ]
