@@ -406,5 +406,13 @@
     "username": "lazycat107",
     "password": "seven7",
     "invokedAt": "2025-01-11T10:43:53.907Z"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Lewis",
+    "email": "edward.lewis@example.com",
+    "username": "whitegoose153",
+    "password": "spectre",
+    "invokedAt": "2025-01-11T10:49:42.921Z"
   }
 ]
