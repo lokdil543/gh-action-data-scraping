@@ -278,5 +278,13 @@
     "username": "goldenleopard234",
     "password": "caca",
     "invokedAt": "2025-01-11T08:18:18.640Z"
+  },
+  {
+    "firstName": "Lasse",
+    "lastName": "Gjerde",
+    "email": "lasse.gjerde@example.com",
+    "username": "silverkoala628",
+    "password": "deadspin",
+    "invokedAt": "2025-01-11T08:32:46.395Z"
   }
 ]
