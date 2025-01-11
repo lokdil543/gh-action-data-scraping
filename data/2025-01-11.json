@@ -310,5 +310,13 @@
     "username": "goldenpeacock976",
     "password": "gretzky",
     "invokedAt": "2025-01-11T08:54:10.947Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Gagné",
+    "email": "jack.gagne@example.com",
+    "username": "purplefrog967",
+    "password": "blue12",
+    "invokedAt": "2025-01-11T09:00:02.550Z"
   }
 ]
