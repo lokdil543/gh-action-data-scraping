@@ -446,5 +446,13 @@
     "username": "purpleladybug297",
     "password": "aaaaa1",
     "invokedAt": "2025-01-11T11:25:09.645Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Powell",
+    "email": "donald.powell@example.com",
+    "username": "heavycat426",
+    "password": "grass",
+    "invokedAt": "2025-01-11T11:30:46.964Z"
   }
 ]
