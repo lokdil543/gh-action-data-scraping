@@ -294,5 +294,13 @@
     "username": "bluewolf314",
     "password": "glasgow",
     "invokedAt": "2025-01-12T08:53:03.192Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Chen",
+    "email": "george.chen@example.com",
+    "username": "goldenostrich425",
+    "password": "1999",
+    "invokedAt": "2025-01-12T08:58:52.336Z"
   }
 ]
