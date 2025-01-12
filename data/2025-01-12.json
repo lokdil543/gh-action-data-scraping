@@ -782,5 +782,13 @@
     "username": "orangeduck135",
     "password": "boeing",
     "invokedAt": "2025-01-12T18:15:21.860Z"
+  },
+  {
+    "firstName": "Helene",
+    "lastName": "Villanger",
+    "email": "helene.villanger@example.com",
+    "username": "bluebutterfly889",
+    "password": "circus",
+    "invokedAt": "2025-01-12T18:33:26.077Z"
   }
 ]
