@@ -830,5 +830,13 @@
     "username": "sadfish856",
     "password": "syracuse",
     "invokedAt": "2025-01-12T19:14:25.617Z"
+  },
+  {
+    "firstName": "Eino",
+    "lastName": "Manninen",
+    "email": "eino.manninen@example.com",
+    "username": "orangefish556",
+    "password": "1003",
+    "invokedAt": "2025-01-12T19:22:21.009Z"
   }
 ]
