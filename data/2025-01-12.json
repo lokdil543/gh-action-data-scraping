@@ -486,5 +486,13 @@
     "username": "redtiger379",
     "password": "businessbabe",
     "invokedAt": "2025-01-12T12:31:31.259Z"
+  },
+  {
+    "firstName": "Dragan",
+    "lastName": "Filipović",
+    "email": "dragan.filipovic@example.com",
+    "username": "whitedog784",
+    "password": "blunts",
+    "invokedAt": "2025-01-12T12:55:48.857Z"
   }
 ]
