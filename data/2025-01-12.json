@@ -558,5 +558,13 @@
     "username": "lazyfrog475",
     "password": "samson",
     "invokedAt": "2025-01-12T14:09:09.562Z"
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Nguyen",
+    "email": "douglas.nguyen@example.com",
+    "username": "sadduck712",
+    "password": "vanhalen",
+    "invokedAt": "2025-01-12T14:24:38.086Z"
   }
 ]
