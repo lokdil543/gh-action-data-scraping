@@ -574,5 +574,13 @@
     "username": "yellowtiger484",
     "password": "truck",
     "invokedAt": "2025-01-12T14:31:58.541Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Alexander",
+    "email": "theodore.alexander@example.com",
+    "username": "yellowfrog613",
+    "password": "catman",
+    "invokedAt": "2025-01-12T14:38:25.334Z"
   }
 ]
