@@ -782,5 +782,13 @@
     "username": "purplefrog232",
     "password": "skiing",
     "invokedAt": "2025-01-13T20:35:38.798Z"
+  },
+  {
+    "firstName": "Serafín",
+    "lastName": "Fonseca",
+    "email": "serafin.fonseca@example.com",
+    "username": "angryfrog240",
+    "password": "789789",
+    "invokedAt": "2025-01-13T20:41:32.714Z"
   }
 ]
