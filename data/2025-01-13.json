@@ -726,5 +726,13 @@
     "username": "sadwolf913",
     "password": "mustang",
     "invokedAt": "2025-01-13T19:33:20.872Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Wade",
+    "email": "bernard.wade@example.com",
+    "username": "goldenkoala171",
+    "password": "express",
+    "invokedAt": "2025-01-13T19:39:15.708Z"
   }
 ]
