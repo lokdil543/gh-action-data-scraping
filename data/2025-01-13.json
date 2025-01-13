@@ -302,5 +302,13 @@
     "username": "heavyostrich130",
     "password": "atlantis",
     "invokedAt": "2025-01-13T09:46:07.789Z"
+  },
+  {
+    "firstName": "Branislav",
+    "lastName": "Živanović",
+    "email": "branislav.zivanovic@example.com",
+    "username": "yellowrabbit111",
+    "password": "simple",
+    "invokedAt": "2025-01-13T09:52:07.041Z"
   }
 ]
