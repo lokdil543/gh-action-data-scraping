@@ -454,5 +454,13 @@
     "username": "greenelephant653",
     "password": "soft",
     "invokedAt": "2025-01-13T13:38:25.865Z"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Edwards",
+    "email": "luke.edwards@example.com",
+    "username": "lazycat428",
+    "password": "storys",
+    "invokedAt": "2025-01-13T13:44:16.863Z"
   }
 ]
