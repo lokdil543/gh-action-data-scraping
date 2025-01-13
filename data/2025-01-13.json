@@ -342,5 +342,13 @@
     "username": "purplekoala557",
     "password": "unique",
     "invokedAt": "2025-01-13T10:44:45.734Z"
+  },
+  {
+    "firstName": "Etienne",
+    "lastName": "Williams",
+    "email": "etienne.williams@example.com",
+    "username": "greenduck948",
+    "password": "breeze",
+    "invokedAt": "2025-01-13T10:50:31.606Z"
   }
 ]
