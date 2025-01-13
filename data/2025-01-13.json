@@ -334,5 +334,13 @@
     "username": "heavydog674",
     "password": "snowbird",
     "invokedAt": "2025-01-13T10:34:34.909Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Anderson",
+    "email": "ava.anderson@example.com",
+    "username": "purplekoala557",
+    "password": "unique",
+    "invokedAt": "2025-01-13T10:44:45.734Z"
   }
 ]
