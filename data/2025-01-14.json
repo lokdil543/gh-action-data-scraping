@@ -630,5 +630,13 @@
     "username": "goldenfish953",
     "password": "real",
     "invokedAt": "2025-01-14T15:30:13.137Z"
+  },
+  {
+    "firstName": "Mads",
+    "lastName": "Nielsen",
+    "email": "mads.nielsen@example.com",
+    "username": "greenzebra491",
+    "password": "getoff",
+    "invokedAt": "2025-01-14T15:37:56.716Z"
   }
 ]
