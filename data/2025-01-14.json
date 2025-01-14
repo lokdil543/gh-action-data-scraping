@@ -1078,5 +1078,13 @@
     "username": "greenduck277",
     "password": "manager",
     "invokedAt": "2025-01-14T23:44:49.794Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Meyer",
+    "email": "jenny.meyer@example.com",
+    "username": "orangecat308",
+    "password": "nomad",
+    "invokedAt": "2025-01-14T23:50:33.627Z"
   }
 ]
