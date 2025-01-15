@@ -726,5 +726,13 @@
     "username": "goldengoose880",
     "password": "11112222",
     "invokedAt": "2025-01-15T17:38:05.688Z"
+  },
+  {
+    "firstName": "Anaïs",
+    "lastName": "Lambert",
+    "email": "anais.lambert@example.com",
+    "username": "browncat512",
+    "password": "rugby",
+    "invokedAt": "2025-01-15T17:43:57.310Z"
   }
 ]
