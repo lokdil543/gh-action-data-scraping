@@ -766,5 +766,13 @@
     "username": "blueduck314",
     "password": "paradox",
     "invokedAt": "2025-01-15T18:32:02.117Z"
+  },
+  {
+    "firstName": "Diedrich",
+    "lastName": "Manske",
+    "email": "diedrich.manske@example.com",
+    "username": "angryfrog723",
+    "password": "cobra",
+    "invokedAt": "2025-01-15T18:42:47.816Z"
   }
 ]
