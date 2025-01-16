@@ -782,5 +782,13 @@
     "username": "sadbird234",
     "password": "casanova",
     "invokedAt": "2025-01-16T18:45:35.620Z"
+  },
+  {
+    "firstName": "Günther",
+    "lastName": "Kindler",
+    "email": "gunther.kindler@example.com",
+    "username": "angrygoose561",
+    "password": "option",
+    "invokedAt": "2025-01-16T18:51:28.801Z"
   }
 ]
