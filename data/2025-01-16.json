@@ -462,5 +462,13 @@
     "username": "bluepanda641",
     "password": "zipper",
     "invokedAt": "2025-01-16T11:40:35.974Z"
+  },
+  {
+    "firstName": "Jean-Paul",
+    "lastName": "Lemaire",
+    "email": "jean-paul.lemaire@example.com",
+    "username": "silverduck412",
+    "password": "8675309",
+    "invokedAt": "2025-01-16T11:46:12.838Z"
   }
 ]
