@@ -382,5 +382,13 @@
     "username": "smallbird879",
     "password": "abstr",
     "invokedAt": "2025-01-16T10:11:22.085Z"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Clark",
+    "email": "amelia.clark@example.com",
+    "username": "sadfrog642",
+    "password": "dogs",
+    "invokedAt": "2025-01-16T10:30:50.603Z"
   }
 ]
