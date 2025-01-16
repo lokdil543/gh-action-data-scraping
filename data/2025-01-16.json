@@ -806,5 +806,13 @@
     "username": "bluedog385",
     "password": "premium",
     "invokedAt": "2025-01-16T19:09:00.995Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "King",
+    "email": "daniel.king@example.com",
+    "username": "happybear926",
+    "password": "tracer",
+    "invokedAt": "2025-01-16T19:19:12.722Z"
   }
 ]
