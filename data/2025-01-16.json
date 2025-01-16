@@ -278,5 +278,13 @@
     "username": "redostrich300",
     "password": "trucks",
     "invokedAt": "2025-01-16T07:58:50.642Z"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Ma",
+    "email": "blake.ma@example.com",
+    "username": "yellowdog691",
+    "password": "gromit",
+    "invokedAt": "2025-01-16T08:18:43.679Z"
   }
 ]
