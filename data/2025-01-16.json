@@ -678,5 +678,13 @@
     "username": "redsnake912",
     "password": "hermes",
     "invokedAt": "2025-01-16T16:37:38.797Z"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Medina",
+    "email": "raymond.medina@example.com",
+    "username": "beautifulgoose666",
+    "password": "recovery",
+    "invokedAt": "2025-01-16T16:46:05.227Z"
   }
 ]
