@@ -1006,5 +1006,13 @@
     "username": "angrywolf316",
     "password": "ruby",
     "invokedAt": "2025-01-16T22:40:29.839Z"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Coleman",
+    "email": "jeff.coleman@example.com",
+    "username": "yellowwolf588",
+    "password": "phillies",
+    "invokedAt": "2025-01-16T22:46:16.678Z"
   }
 ]
