@@ -606,5 +606,13 @@
     "username": "greenrabbit334",
     "password": "aviation",
     "invokedAt": "2025-01-17T14:58:14.786Z"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Van den Oord",
+    "email": "brett.vandenoord@example.com",
+    "username": "redrabbit499",
+    "password": "painting",
+    "invokedAt": "2025-01-17T15:14:31.868Z"
   }
 ]
