@@ -534,5 +534,13 @@
     "username": "yellowbird993",
     "password": "24680",
     "invokedAt": "2025-01-18T11:59:10.537Z"
+  },
+  {
+    "firstName": "Agustín",
+    "lastName": "Sánchez",
+    "email": "agustin.sanchez@example.com",
+    "username": "yellowlion145",
+    "password": "ncc1701e",
+    "invokedAt": "2025-01-18T12:27:39.453Z"
   }
 ]
