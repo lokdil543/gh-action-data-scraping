@@ -1158,5 +1158,13 @@
     "username": "orangefish571",
     "password": "insane",
     "invokedAt": "2025-01-18T23:28:34.975Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Johansen",
+    "email": "lucas.johansen@example.com",
+    "username": "smalldog207",
+    "password": "frozen",
+    "invokedAt": "2025-01-18T23:35:10.984Z"
   }
 ]
