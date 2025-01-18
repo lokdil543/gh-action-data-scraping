@@ -590,5 +590,13 @@
     "username": "smallleopard394",
     "password": "chrono",
     "invokedAt": "2025-01-18T13:41:07.024Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Lopez",
+    "email": "george.lopez@example.com",
+    "username": "happyduck651",
+    "password": "fishfish",
+    "invokedAt": "2025-01-18T13:46:56.585Z"
   }
 ]
