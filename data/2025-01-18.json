@@ -950,5 +950,13 @@
     "username": "whitebutterfly433",
     "password": "123456",
     "invokedAt": "2025-01-18T19:49:11.870Z"
+  },
+  {
+    "firstName": "Milja",
+    "lastName": "Lahti",
+    "email": "milja.lahti@example.com",
+    "username": "redbutterfly322",
+    "password": "robins",
+    "invokedAt": "2025-01-18T19:54:59.986Z"
   }
 ]
