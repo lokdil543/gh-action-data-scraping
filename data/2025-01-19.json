@@ -598,5 +598,13 @@
     "username": "bigduck574",
     "password": "kingfish",
     "invokedAt": "2025-01-19T14:16:10.636Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Tucker",
+    "email": "joshua.tucker@example.com",
+    "username": "bigduck192",
+    "password": "universe",
+    "invokedAt": "2025-01-19T14:28:58.805Z"
   }
 ]
