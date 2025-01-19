@@ -798,5 +798,13 @@
     "username": "bigpanda211",
     "password": "cars",
     "invokedAt": "2025-01-19T17:48:30.177Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Jørgensen",
+    "email": "kasper.jorgensen@example.com",
+    "username": "greenmeercat364",
+    "password": "maryland",
+    "invokedAt": "2025-01-19T17:54:13.329Z"
   }
 ]
