@@ -814,5 +814,13 @@
     "username": "sadbird509",
     "password": "travel",
     "invokedAt": "2025-01-19T17:59:59.642Z"
+  },
+  {
+    "firstName": "Andrej",
+    "lastName": "Rösch",
+    "email": "andrej.rosch@example.com",
+    "username": "tinyfish892",
+    "password": "bingo",
+    "invokedAt": "2025-01-19T18:21:04.736Z"
   }
 ]
