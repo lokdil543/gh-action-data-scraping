@@ -982,5 +982,13 @@
     "username": "whiteswan977",
     "password": "nutmeg",
     "invokedAt": "2025-01-21T22:42:20.077Z"
+  },
+  {
+    "firstName": "Riemke",
+    "lastName": "Van den Boogaard",
+    "email": "riemke.vandenboogaard@example.com",
+    "username": "heavykoala800",
+    "password": "12345",
+    "invokedAt": "2025-01-21T22:48:11.906Z"
   }
 ]
