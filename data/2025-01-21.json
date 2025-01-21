@@ -846,5 +846,13 @@
     "username": "bluepanda352",
     "password": "trailers",
     "invokedAt": "2025-01-21T20:10:05.767Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Hansen",
+    "email": "jonas.hansen@example.com",
+    "username": "purplewolf892",
+    "password": "newpass",
+    "invokedAt": "2025-01-21T20:26:39.877Z"
   }
 ]
