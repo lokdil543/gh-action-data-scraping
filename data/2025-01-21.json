@@ -150,5 +150,13 @@
     "username": "heavydog425",
     "password": "temppass",
     "invokedAt": "2025-01-21T05:37:49.061Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Park",
+    "email": "maxime.park@example.com",
+    "username": "redlion412",
+    "password": "kingpin",
+    "invokedAt": "2025-01-21T05:43:35.511Z"
   }
 ]
