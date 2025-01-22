@@ -950,5 +950,13 @@
     "username": "happyduck327",
     "password": "catch22",
     "invokedAt": "2025-01-22T21:56:11.019Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Vargas",
+    "email": "jorge.vargas@example.com",
+    "username": "whitewolf709",
+    "password": "mykids",
+    "invokedAt": "2025-01-22T22:09:15.890Z"
   }
 ]
