@@ -726,5 +726,13 @@
     "username": "heavywolf587",
     "password": "grapes",
     "invokedAt": "2025-01-22T17:55:11.476Z"
+  },
+  {
+    "firstName": "Angus",
+    "lastName": "Moore",
+    "email": "angus.moore@example.com",
+    "username": "whitetiger913",
+    "password": "boxer",
+    "invokedAt": "2025-01-22T18:10:55.171Z"
   }
 ]
