@@ -726,5 +726,13 @@
     "username": "brownleopard926",
     "password": "siemens",
     "invokedAt": "2025-01-23T18:00:34.786Z"
+  },
+  {
+    "firstName": "Sofie",
+    "lastName": "Sørensen",
+    "email": "sofie.sorensen@example.com",
+    "username": "redbird242",
+    "password": "clevelan",
+    "invokedAt": "2025-01-23T18:25:31.081Z"
   }
 ]
