@@ -806,5 +806,13 @@
     "username": "redswan705",
     "password": "bigblock",
     "invokedAt": "2025-01-23T19:40:06.193Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "King",
+    "email": "alice.king@example.com",
+    "username": "whitegoose154",
+    "password": "megan",
+    "invokedAt": "2025-01-23T19:45:53.904Z"
   }
 ]
