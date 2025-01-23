@@ -446,5 +446,13 @@
     "username": "whitedog299",
     "password": "sheba",
     "invokedAt": "2025-01-23T11:44:49.877Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Christensen",
+    "email": "nanna.christensen@example.com",
+    "username": "crazyleopard709",
+    "password": "beavis",
+    "invokedAt": "2025-01-23T11:51:04.567Z"
   }
 ]
