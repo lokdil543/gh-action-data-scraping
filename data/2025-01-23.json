@@ -526,5 +526,13 @@
     "username": "orangeelephant101",
     "password": "better",
     "invokedAt": "2025-01-23T13:55:54.957Z"
+  },
+  {
+    "firstName": "Vlatko",
+    "lastName": "Adamović",
+    "email": "vlatko.adamovic@example.com",
+    "username": "blackpanda862",
+    "password": "stranger",
+    "invokedAt": "2025-01-23T14:08:50.897Z"
   }
 ]
