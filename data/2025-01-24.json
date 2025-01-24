@@ -806,5 +806,13 @@
     "username": "whitebutterfly989",
     "password": "abcdefg",
     "invokedAt": "2025-01-24T19:10:41.288Z"
+  },
+  {
+    "firstName": "Tanmay",
+    "lastName": "Adiga",
+    "email": "tanmay.adiga@example.com",
+    "username": "brownzebra200",
+    "password": "message",
+    "invokedAt": "2025-01-24T19:20:42.915Z"
   }
 ]
