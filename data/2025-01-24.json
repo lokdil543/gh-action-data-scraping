@@ -350,5 +350,13 @@
     "username": "tinyfrog250",
     "password": "none",
     "invokedAt": "2025-01-24T09:40:15.701Z"
+  },
+  {
+    "firstName": "Lewis",
+    "lastName": "Hamilton",
+    "email": "lewis.hamilton@example.com",
+    "username": "greentiger511",
+    "password": "rodeo",
+    "invokedAt": "2025-01-24T09:46:11.827Z"
   }
 ]
