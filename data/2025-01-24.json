@@ -814,5 +814,13 @@
     "username": "brownzebra200",
     "password": "message",
     "invokedAt": "2025-01-24T19:20:42.915Z"
+  },
+  {
+    "firstName": "Elzo",
+    "lastName": "Cardoso",
+    "email": "elzo.cardoso@example.com",
+    "username": "lazydog655",
+    "password": "dogs",
+    "invokedAt": "2025-01-24T19:26:37.822Z"
   }
 ]
