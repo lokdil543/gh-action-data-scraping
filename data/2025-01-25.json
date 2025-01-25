@@ -206,5 +206,13 @@
     "username": "blackgoose512",
     "password": "total",
     "invokedAt": "2025-01-25T06:35:10.691Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Andersen",
+    "email": "freja.andersen@example.com",
+    "username": "ticklishkoala755",
+    "password": "jeff",
+    "invokedAt": "2025-01-25T06:43:06.750Z"
   }
 ]
