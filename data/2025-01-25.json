@@ -846,5 +846,13 @@
     "username": "bluefish781",
     "password": "extreme",
     "invokedAt": "2025-01-25T18:40:41.526Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Møller",
+    "email": "daniel.moller@example.com",
+    "username": "yellowladybug488",
+    "password": "meat",
+    "invokedAt": "2025-01-25T18:46:32.856Z"
   }
 ]
