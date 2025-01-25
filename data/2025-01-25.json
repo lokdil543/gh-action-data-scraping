@@ -278,5 +278,13 @@
     "username": "greenmouse804",
     "password": "redd",
     "invokedAt": "2025-01-25T07:45:06.662Z"
+  },
+  {
+    "firstName": "Cecil",
+    "lastName": "Griffin",
+    "email": "cecil.griffin@example.com",
+    "username": "brownfrog264",
+    "password": "trust",
+    "invokedAt": "2025-01-25T07:51:03.363Z"
   }
 ]
