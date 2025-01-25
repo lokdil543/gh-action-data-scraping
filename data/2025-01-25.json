@@ -1022,5 +1022,13 @@
     "username": "angrydog394",
     "password": "butkus",
     "invokedAt": "2025-01-25T21:29:25.572Z"
+  },
+  {
+    "firstName": "Philip",
+    "lastName": "Steinberg",
+    "email": "philip.steinberg@example.com",
+    "username": "browngoose193",
+    "password": "warlock",
+    "invokedAt": "2025-01-25T21:36:01.735Z"
   }
 ]
