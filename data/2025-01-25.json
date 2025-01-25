@@ -1030,5 +1030,13 @@
     "username": "browngoose193",
     "password": "warlock",
     "invokedAt": "2025-01-25T21:36:01.735Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Robertson",
+    "email": "marie.robertson@example.com",
+    "username": "angryfrog458",
+    "password": "sniffing",
+    "invokedAt": "2025-01-25T21:41:51.710Z"
   }
 ]
