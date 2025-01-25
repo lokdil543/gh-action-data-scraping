@@ -862,5 +862,13 @@
     "username": "happybird615",
     "password": "slim",
     "invokedAt": "2025-01-25T18:52:26.914Z"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Edwards",
+    "email": "grace.edwards@example.com",
+    "username": "redbutterfly153",
+    "password": "garbage",
+    "invokedAt": "2025-01-25T18:58:14.967Z"
   }
 ]
