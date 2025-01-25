@@ -606,5 +606,13 @@
     "username": "heavysnake352",
     "password": "thick",
     "invokedAt": "2025-01-25T14:09:10.142Z"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Olson",
+    "email": "mario.olson@example.com",
+    "username": "bluemeercat470",
+    "password": "glock",
+    "invokedAt": "2025-01-25T14:23:57.134Z"
   }
 ]
