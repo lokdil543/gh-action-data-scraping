@@ -382,5 +382,13 @@
     "username": "ticklishladybug122",
     "password": "broncos",
     "invokedAt": "2025-01-26T09:50:43.628Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Thompson",
+    "email": "bob.thompson@example.com",
+    "username": "greengoose577",
+    "password": "cccccc",
+    "invokedAt": "2025-01-26T09:56:31.834Z"
   }
 ]
