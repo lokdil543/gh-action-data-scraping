@@ -702,5 +702,13 @@
     "username": "lazybird336",
     "password": "blizzard",
     "invokedAt": "2025-01-26T15:51:26.920Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Polon",
+    "email": "vaino.polon@example.com",
+    "username": "bigleopard506",
+    "password": "opendoor",
+    "invokedAt": "2025-01-26T15:57:22.764Z"
   }
 ]
