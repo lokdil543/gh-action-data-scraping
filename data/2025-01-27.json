@@ -366,5 +366,13 @@
     "username": "blackpanda692",
     "password": "bossman",
     "invokedAt": "2025-01-27T10:17:21.916Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Soldal",
+    "email": "jacob.soldal@example.com",
+    "username": "whiteduck308",
+    "password": "tophat",
+    "invokedAt": "2025-01-27T10:33:55.392Z"
   }
 ]
