@@ -622,5 +622,13 @@
     "username": "heavycat975",
     "password": "soprano",
     "invokedAt": "2025-01-27T15:41:29.787Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Olsen",
+    "email": "malou.olsen@example.com",
+    "username": "heavypanda789",
+    "password": "derf",
+    "invokedAt": "2025-01-27T15:47:14.813Z"
   }
 ]
