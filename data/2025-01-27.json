@@ -1062,5 +1062,13 @@
     "username": "blackdog571",
     "password": "redleg",
     "invokedAt": "2025-01-27T23:53:18.859Z"
+  },
+  {
+    "firstName": "Pinja",
+    "lastName": "Oja",
+    "email": "pinja.oja@example.com",
+    "username": "bigfish876",
+    "password": "django",
+    "invokedAt": "2025-01-27T23:59:09.643Z"
   }
 ]
