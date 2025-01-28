@@ -510,5 +510,13 @@
     "username": "sadmouse878",
     "password": "excess",
     "invokedAt": "2025-01-28T13:15:48.977Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Jensen",
+    "email": "emil.jensen@example.com",
+    "username": "heavybear365",
+    "password": "123aaa",
+    "invokedAt": "2025-01-28T13:30:19.950Z"
   }
 ]
