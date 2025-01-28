@@ -166,5 +166,13 @@
     "username": "greendog324",
     "password": "venice",
     "invokedAt": "2025-01-28T05:49:24.850Z"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Duncan",
+    "email": "caleb.duncan@example.com",
+    "username": "orangefrog478",
+    "password": "hiphop",
+    "invokedAt": "2025-01-28T05:55:21.116Z"
   }
 ]
