@@ -934,5 +934,13 @@
     "username": "greendog282",
     "password": "lightnin",
     "invokedAt": "2025-01-28T21:30:37.923Z"
+  },
+  {
+    "firstName": "Dick",
+    "lastName": "Simmons",
+    "email": "dick.simmons@example.com",
+    "username": "biglion997",
+    "password": "swedish",
+    "invokedAt": "2025-01-28T21:37:07.804Z"
   }
 ]
