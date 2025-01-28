@@ -926,5 +926,13 @@
     "username": "greenfish126",
     "password": "1111",
     "invokedAt": "2025-01-28T21:24:51.045Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Hamilton",
+    "email": "jordan.hamilton@example.com",
+    "username": "greendog282",
+    "password": "lightnin",
+    "invokedAt": "2025-01-28T21:30:37.923Z"
   }
 ]
