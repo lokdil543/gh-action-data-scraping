@@ -166,5 +166,13 @@
     "username": "whitewolf180",
     "password": "trustme",
     "invokedAt": "2025-01-29T05:50:15.522Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Erez",
+    "email": "okan.erez@example.com",
+    "username": "whitepanda370",
+    "password": "weezer",
+    "invokedAt": "2025-01-29T05:56:13.649Z"
   }
 ]
