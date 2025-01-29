@@ -662,5 +662,13 @@
     "username": "angrydog123",
     "password": "philly",
     "invokedAt": "2025-01-29T16:19:35.007Z"
+  },
+  {
+    "firstName": "Miomir",
+    "lastName": "Babić",
+    "email": "miomir.babic@example.com",
+    "username": "tinypeacock230",
+    "password": "jack1",
+    "invokedAt": "2025-01-29T16:36:35.734Z"
   }
 ]
