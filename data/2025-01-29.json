@@ -350,5 +350,13 @@
     "username": "blackpanda393",
     "password": "tester",
     "invokedAt": "2025-01-29T09:40:21.119Z"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Bjørkheim",
+    "email": "damian.bjorkheim@example.com",
+    "username": "browngorilla169",
+    "password": "cookie1",
+    "invokedAt": "2025-01-29T09:46:07.726Z"
   }
 ]
