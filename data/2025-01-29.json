@@ -542,5 +542,13 @@
     "username": "blacksnake766",
     "password": "zapper",
     "invokedAt": "2025-01-29T13:50:24.628Z"
+  },
+  {
+    "firstName": "Corey",
+    "lastName": "Graves",
+    "email": "corey.graves@example.com",
+    "username": "sadfish914",
+    "password": "1023",
+    "invokedAt": "2025-01-29T13:56:11.888Z"
   }
 ]
