@@ -382,5 +382,13 @@
     "username": "blackfish137",
     "password": "truck",
     "invokedAt": "2025-01-29T10:13:33.828Z"
+  },
+  {
+    "firstName": "Ana María",
+    "lastName": "Ballesteros",
+    "email": "anamaria.ballesteros@example.com",
+    "username": "tinyostrich580",
+    "password": "rover",
+    "invokedAt": "2025-01-29T10:31:33.877Z"
   }
 ]
