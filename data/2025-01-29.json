@@ -654,5 +654,13 @@
     "username": "blackmouse461",
     "password": "whisper",
     "invokedAt": "2025-01-29T15:59:03.191Z"
+  },
+  {
+    "firstName": "Gül",
+    "lastName": "Bademci",
+    "email": "gul.bademci@example.com",
+    "username": "angrydog123",
+    "password": "philly",
+    "invokedAt": "2025-01-29T16:19:35.007Z"
   }
 ]
