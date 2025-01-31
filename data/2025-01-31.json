@@ -742,5 +742,13 @@
     "username": "sadduck412",
     "password": "therock",
     "invokedAt": "2025-01-31T17:33:42.203Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Wilson",
+    "email": "finn.wilson@example.com",
+    "username": "bigelephant131",
+    "password": "nuan",
+    "invokedAt": "2025-01-31T17:39:29.278Z"
   }
 ]
