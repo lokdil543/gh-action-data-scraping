@@ -670,5 +670,13 @@
     "username": "redpanda133",
     "password": "hansen",
     "invokedAt": "2025-01-31T15:54:17.916Z"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Davies",
+    "email": "aaron.davies@example.com",
+    "username": "orangepanda937",
+    "password": "priest",
+    "invokedAt": "2025-01-31T16:00:10.093Z"
   }
 ]
