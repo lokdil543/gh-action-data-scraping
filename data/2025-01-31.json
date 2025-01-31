@@ -374,5 +374,13 @@
     "username": "redpanda270",
     "password": "finance",
     "invokedAt": "2025-01-31T09:50:22.174Z"
+  },
+  {
+    "firstName": "Arjen",
+    "lastName": "Heijligers",
+    "email": "arjen.heijligers@example.com",
+    "username": "redlion790",
+    "password": "dickens",
+    "invokedAt": "2025-01-31T09:56:22.036Z"
   }
 ]
