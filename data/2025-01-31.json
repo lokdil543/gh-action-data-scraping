@@ -166,5 +166,13 @@
     "username": "redpanda101",
     "password": "town",
     "invokedAt": "2025-01-31T05:44:36.056Z"
+  },
+  {
+    "firstName": "Ekapad",
+    "lastName": "Shetty",
+    "email": "ekapad.shetty@example.com",
+    "username": "bluefrog508",
+    "password": "90210",
+    "invokedAt": "2025-01-31T05:50:25.835Z"
   }
 ]
