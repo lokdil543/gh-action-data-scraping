@@ -174,5 +174,13 @@
     "username": "bluefrog508",
     "password": "90210",
     "invokedAt": "2025-01-31T05:50:25.835Z"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Taylor",
+    "email": "brett.taylor@example.com",
+    "username": "happyfish479",
+    "password": "radiohea",
+    "invokedAt": "2025-01-31T05:56:19.709Z"
   }
 ]
