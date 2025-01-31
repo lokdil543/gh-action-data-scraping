@@ -598,5 +598,13 @@
     "username": "bigkoala290",
     "password": "monalisa",
     "invokedAt": "2025-01-31T14:43:02.179Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Ramirez",
+    "email": "juan.ramirez@example.com",
+    "username": "smallbird622",
+    "password": "dirtbike",
+    "invokedAt": "2025-01-31T14:49:10.906Z"
   }
 ]
