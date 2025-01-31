@@ -366,5 +366,13 @@
     "username": "redladybug246",
     "password": "wildbill",
     "invokedAt": "2025-01-31T09:44:42.344Z"
+  },
+  {
+    "firstName": "Manfred",
+    "lastName": "Nicolas",
+    "email": "manfred.nicolas@example.com",
+    "username": "redpanda270",
+    "password": "finance",
+    "invokedAt": "2025-01-31T09:50:22.174Z"
   }
 ]
