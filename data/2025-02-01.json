@@ -814,5 +814,13 @@
     "username": "lazyfrog306",
     "password": "gesperrt",
     "invokedAt": "2025-02-01T18:10:29.152Z"
+  },
+  {
+    "firstName": "Herma",
+    "lastName": "Kampert",
+    "email": "herma.kampert@example.com",
+    "username": "whiteelephant183",
+    "password": "slinky",
+    "invokedAt": "2025-02-01T18:30:00.198Z"
   }
 ]
