@@ -710,5 +710,13 @@
     "username": "saddog795",
     "password": "ranger1",
     "invokedAt": "2025-02-01T16:26:54.753Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Hamalainen",
+    "email": "miro.hamalainen@example.com",
+    "username": "blackbear969",
+    "password": "harrison",
+    "invokedAt": "2025-02-01T16:36:58.584Z"
   }
 ]
