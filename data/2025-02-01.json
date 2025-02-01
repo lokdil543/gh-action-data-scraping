@@ -806,5 +806,13 @@
     "username": "lazygorilla366",
     "password": "fletcher",
     "invokedAt": "2025-02-01T17:55:46.156Z"
+  },
+  {
+    "firstName": "Fabio",
+    "lastName": "Morel",
+    "email": "fabio.morel@example.com",
+    "username": "lazyfrog306",
+    "password": "gesperrt",
+    "invokedAt": "2025-02-01T18:10:29.152Z"
   }
 ]
