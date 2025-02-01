@@ -422,5 +422,13 @@
     "username": "silverzebra195",
     "password": "disney",
     "invokedAt": "2025-02-01T10:48:08.354Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Hansen",
+    "email": "jacob.hansen@example.com",
+    "username": "greenpeacock556",
+    "password": "hokies",
+    "invokedAt": "2025-02-01T10:54:01.204Z"
   }
 ]
