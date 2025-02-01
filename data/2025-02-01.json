@@ -758,5 +758,13 @@
     "username": "bigdog417",
     "password": "rhiannon",
     "invokedAt": "2025-02-01T17:14:19.604Z"
+  },
+  {
+    "firstName": "Thorben",
+    "lastName": "Schlömer",
+    "email": "thorben.schlomer@example.com",
+    "username": "brownwolf288",
+    "password": "ball",
+    "invokedAt": "2025-02-01T17:26:20.307Z"
   }
 ]
