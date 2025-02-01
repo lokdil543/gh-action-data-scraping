@@ -222,5 +222,13 @@
     "username": "tinyzebra789",
     "password": "notnow",
     "invokedAt": "2025-02-01T07:10:10.328Z"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Martin",
+    "email": "steven.martin@example.com",
+    "username": "angryswan113",
+    "password": "1master",
+    "invokedAt": "2025-02-01T07:23:23.021Z"
   }
 ]
