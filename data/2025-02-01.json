@@ -294,5 +294,13 @@
     "username": "beautifulduck358",
     "password": "jones1",
     "invokedAt": "2025-02-01T08:32:04.107Z"
+  },
+  {
+    "firstName": "Jochen",
+    "lastName": "Kothe",
+    "email": "jochen.kothe@example.com",
+    "username": "organicmeercat592",
+    "password": "wildcard",
+    "invokedAt": "2025-02-01T08:40:45.040Z"
   }
 ]
