@@ -982,5 +982,13 @@
     "username": "happytiger210",
     "password": "columbia",
     "invokedAt": "2025-02-01T21:00:24.103Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Johansen",
+    "email": "anton.johansen@example.com",
+    "username": "orangecat337",
+    "password": "impact",
+    "invokedAt": "2025-02-01T21:15:40.529Z"
   }
 ]
