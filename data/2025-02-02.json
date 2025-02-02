@@ -1134,5 +1134,13 @@
     "username": "tinydog514",
     "password": "fletch",
     "invokedAt": "2025-02-02T23:36:59.715Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Petersen",
+    "email": "alexander.petersen@example.com",
+    "username": "blueladybug210",
+    "password": "dana",
+    "invokedAt": "2025-02-02T23:42:49.835Z"
   }
 ]
