@@ -870,5 +870,13 @@
     "username": "happywolf450",
     "password": "thecure",
     "invokedAt": "2025-02-02T19:12:19.620Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Schwenke",
+    "email": "martha.schwenke@example.com",
+    "username": "redostrich683",
+    "password": "secrets",
+    "invokedAt": "2025-02-02T19:21:15.961Z"
   }
 ]
