@@ -686,5 +686,13 @@
     "username": "brownfrog309",
     "password": "trick",
     "invokedAt": "2025-02-02T15:38:03.536Z"
+  },
+  {
+    "firstName": "Jean-Philippe",
+    "lastName": "Barbier",
+    "email": "jean-philippe.barbier@example.com",
+    "username": "browntiger193",
+    "password": "welcome",
+    "invokedAt": "2025-02-02T15:43:57.951Z"
   }
 ]
