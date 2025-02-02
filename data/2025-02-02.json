@@ -614,5 +614,13 @@
     "username": "blackzebra628",
     "password": "deerhunt",
     "invokedAt": "2025-02-02T14:26:07.553Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Giménez",
+    "email": "john.gimenez@example.com",
+    "username": "smallrabbit314",
+    "password": "grizzly",
+    "invokedAt": "2025-02-02T14:32:32.858Z"
   }
 ]
