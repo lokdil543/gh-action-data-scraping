@@ -534,5 +534,13 @@
     "username": "angryfish140",
     "password": "lifetime",
     "invokedAt": "2025-02-02T12:51:36.888Z"
+  },
+  {
+    "firstName": "Neven",
+    "lastName": "Zeljković",
+    "email": "neven.zeljkovic@example.com",
+    "username": "brownsnake736",
+    "password": "tank",
+    "invokedAt": "2025-02-02T13:04:12.937Z"
   }
 ]
