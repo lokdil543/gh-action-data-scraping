@@ -966,5 +966,13 @@
     "username": "happywolf277",
     "password": "5678",
     "invokedAt": "2025-02-02T20:44:12.576Z"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Selaković",
+    "email": "iva.selakovic@example.com",
+    "username": "brownelephant700",
+    "password": "looking",
+    "invokedAt": "2025-02-02T20:50:00.559Z"
   }
 ]
