@@ -438,5 +438,13 @@
     "username": "yellowgorilla500",
     "password": "anubis",
     "invokedAt": "2025-02-03T11:35:45.018Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Johnson",
+    "email": "lucas.johnson@example.com",
+    "username": "tinywolf427",
+    "password": "gidget",
+    "invokedAt": "2025-02-03T11:41:38.132Z"
   }
 ]
