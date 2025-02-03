@@ -886,5 +886,13 @@
     "username": "greenbird478",
     "password": "enforcer",
     "invokedAt": "2025-02-03T20:52:19.253Z"
+  },
+  {
+    "firstName": "Nina",
+    "lastName": "Brovold",
+    "email": "nina.brovold@example.com",
+    "username": "heavybird414",
+    "password": "doofus",
+    "invokedAt": "2025-02-03T20:58:09.891Z"
   }
 ]
