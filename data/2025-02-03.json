@@ -518,5 +518,13 @@
     "username": "angrycat124",
     "password": "hongkong",
     "invokedAt": "2025-02-03T13:45:18.202Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Korpela",
+    "email": "aleksi.korpela@example.com",
+    "username": "reddog752",
+    "password": "absolut",
+    "invokedAt": "2025-02-03T13:51:08.327Z"
   }
 ]
