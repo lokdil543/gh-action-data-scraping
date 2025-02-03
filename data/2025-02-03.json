@@ -710,5 +710,13 @@
     "username": "whitepeacock696",
     "password": "packers",
     "invokedAt": "2025-02-03T17:41:19.604Z"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Moore",
+    "email": "cameron.moore@example.com",
+    "username": "happygoose913",
+    "password": "newbie",
+    "invokedAt": "2025-02-03T17:47:09.848Z"
   }
 ]
