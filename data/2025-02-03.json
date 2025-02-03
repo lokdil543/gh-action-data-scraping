@@ -878,5 +878,13 @@
     "username": "beautifulmouse436",
     "password": "zapper",
     "invokedAt": "2025-02-03T20:46:13.090Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Dokken",
+    "email": "tom.dokken@example.com",
+    "username": "greenbird478",
+    "password": "enforcer",
+    "invokedAt": "2025-02-03T20:52:19.253Z"
   }
 ]
