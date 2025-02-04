@@ -958,5 +958,13 @@
     "username": "heavyswan520",
     "password": "mallard",
     "invokedAt": "2025-02-04T22:26:20.266Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Olmos",
+    "email": "pedro.olmos@example.com",
+    "username": "orangepanda422",
+    "password": "fearless",
+    "invokedAt": "2025-02-04T22:36:15.279Z"
   }
 ]
