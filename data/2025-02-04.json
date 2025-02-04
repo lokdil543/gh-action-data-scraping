@@ -134,5 +134,13 @@
     "username": "redtiger921",
     "password": "apple",
     "invokedAt": "2025-02-04T05:15:58.045Z"
+  },
+  {
+    "firstName": "Franck",
+    "lastName": "Oldenhuis",
+    "email": "franck.oldenhuis@example.com",
+    "username": "happytiger237",
+    "password": "mustang2",
+    "invokedAt": "2025-02-04T05:30:55.929Z"
   }
 ]
