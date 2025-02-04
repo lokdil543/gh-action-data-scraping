@@ -326,5 +326,13 @@
     "username": "lazyfish870",
     "password": "lonely",
     "invokedAt": "2025-02-04T09:25:31.725Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Perry",
+    "email": "jenny.perry@example.com",
+    "username": "crazyrabbit289",
+    "password": "triple",
+    "invokedAt": "2025-02-04T09:33:23.700Z"
   }
 ]
