@@ -1022,5 +1022,13 @@
     "username": "smalldog967",
     "password": "hithere",
     "invokedAt": "2025-02-05T23:45:16.079Z"
+  },
+  {
+    "firstName": "Eevi",
+    "lastName": "Manner",
+    "email": "eevi.manner@example.com",
+    "username": "greenpanda990",
+    "password": "hellfire",
+    "invokedAt": "2025-02-05T23:51:12.761Z"
   }
 ]
