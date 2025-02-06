@@ -446,5 +446,13 @@
     "username": "purplebird723",
     "password": "subzero",
     "invokedAt": "2025-02-06T12:53:22.972Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Nelson",
+    "email": "sam.nelson@example.com",
+    "username": "whiteduck247",
+    "password": "reynolds",
+    "invokedAt": "2025-02-06T13:13:43.873Z"
   }
 ]
