@@ -702,5 +702,13 @@
     "username": "heavygoose509",
     "password": "newyork",
     "invokedAt": "2025-02-06T18:23:01.498Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Soler",
+    "email": "isaac.soler@example.com",
+    "username": "tinydog603",
+    "password": "barber",
+    "invokedAt": "2025-02-06T18:39:45.941Z"
   }
 ]
