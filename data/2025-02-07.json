@@ -710,5 +710,13 @@
     "username": "bigostrich505",
     "password": "station",
     "invokedAt": "2025-02-07T17:46:20.125Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Hoffman",
+    "email": "andrea.hoffman@example.com",
+    "username": "purpleswan720",
+    "password": "bacardi",
+    "invokedAt": "2025-02-07T17:52:05.055Z"
   }
 ]
