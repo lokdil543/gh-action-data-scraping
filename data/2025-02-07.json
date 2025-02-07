@@ -782,5 +782,13 @@
     "username": "bigfrog339",
     "password": "diva",
     "invokedAt": "2025-02-07T19:19:53.085Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "King",
+    "email": "matilda.king@example.com",
+    "username": "lazyelephant165",
+    "password": "womble",
+    "invokedAt": "2025-02-07T19:25:39.187Z"
   }
 ]
