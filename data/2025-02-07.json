@@ -1022,5 +1022,13 @@
     "username": "blackduck437",
     "password": "briana",
     "invokedAt": "2025-02-07T23:28:49.038Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Rousseau",
+    "email": "marie.rousseau@example.com",
+    "username": "browntiger700",
+    "password": "matilda",
+    "invokedAt": "2025-02-07T23:35:49.188Z"
   }
 ]
