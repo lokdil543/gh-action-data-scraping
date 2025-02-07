@@ -374,5 +374,13 @@
     "username": "yellowgorilla232",
     "password": "finder",
     "invokedAt": "2025-02-07T10:35:20.488Z"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Terry",
+    "email": "jim.terry@example.com",
+    "username": "sadcat648",
+    "password": "tiny",
+    "invokedAt": "2025-02-07T10:43:23.365Z"
   }
 ]
