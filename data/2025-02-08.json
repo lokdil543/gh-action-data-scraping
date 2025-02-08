@@ -1006,5 +1006,13 @@
     "username": "redbutterfly371",
     "password": "admin1",
     "invokedAt": "2025-02-08T21:27:39.993Z"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Webb",
+    "email": "martin.webb@example.com",
+    "username": "greengoose592",
+    "password": "eclipse1",
+    "invokedAt": "2025-02-08T21:35:52.005Z"
   }
 ]
