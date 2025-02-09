@@ -598,5 +598,13 @@
     "username": "angryelephant333",
     "password": "starwars",
     "invokedAt": "2025-02-09T14:32:21.213Z"
+  },
+  {
+    "firstName": "Leonhard",
+    "lastName": "Herter",
+    "email": "leonhard.herter@example.com",
+    "username": "smallzebra411",
+    "password": "mitch",
+    "invokedAt": "2025-02-09T14:38:29.095Z"
   }
 ]
