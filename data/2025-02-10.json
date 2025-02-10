@@ -582,5 +582,13 @@
     "username": "yellowbutterfly863",
     "password": "boxing",
     "invokedAt": "2025-02-10T15:41:00.336Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Obrien",
+    "email": "billy.obrien@example.com",
+    "username": "angrytiger413",
+    "password": "jazzman",
+    "invokedAt": "2025-02-10T15:47:02.260Z"
   }
 ]
