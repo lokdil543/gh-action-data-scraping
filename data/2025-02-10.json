@@ -750,5 +750,13 @@
     "username": "bluebear226",
     "password": "lansing",
     "invokedAt": "2025-02-10T19:08:40.512Z"
+  },
+  {
+    "firstName": "Gaëtan",
+    "lastName": "Lopez",
+    "email": "gaetan.lopez@example.com",
+    "username": "goldenbear869",
+    "password": "futbol",
+    "invokedAt": "2025-02-10T19:19:48.308Z"
   }
 ]
