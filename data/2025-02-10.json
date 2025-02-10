@@ -526,5 +526,13 @@
     "username": "blackelephant563",
     "password": "scissors",
     "invokedAt": "2025-02-10T14:37:03.281Z"
+  },
+  {
+    "firstName": "Gaël",
+    "lastName": "Schutten",
+    "email": "gael.schutten@example.com",
+    "username": "crazyelephant892",
+    "password": "channel",
+    "invokedAt": "2025-02-10T14:42:55.356Z"
   }
 ]
