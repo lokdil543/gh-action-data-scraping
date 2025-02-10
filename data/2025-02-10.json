@@ -894,5 +894,13 @@
     "username": "lazyostrich121",
     "password": "1948",
     "invokedAt": "2025-02-10T21:42:10.235Z"
+  },
+  {
+    "firstName": "Marvin",
+    "lastName": "Balzer",
+    "email": "marvin.balzer@example.com",
+    "username": "whiterabbit667",
+    "password": "proxy",
+    "invokedAt": "2025-02-10T21:48:03.109Z"
   }
 ]
