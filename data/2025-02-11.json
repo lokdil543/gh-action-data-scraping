@@ -782,5 +782,13 @@
     "username": "tinyfish337",
     "password": "brown",
     "invokedAt": "2025-02-11T19:33:13.480Z"
+  },
+  {
+    "firstName": "Clyde",
+    "lastName": "Lowe",
+    "email": "clyde.lowe@example.com",
+    "username": "whiteduck135",
+    "password": "forever",
+    "invokedAt": "2025-02-11T19:39:03.121Z"
   }
 ]
