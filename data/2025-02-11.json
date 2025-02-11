@@ -902,5 +902,13 @@
     "username": "sadpeacock198",
     "password": "celeste",
     "invokedAt": "2025-02-11T21:39:28.407Z"
+  },
+  {
+    "firstName": "Roy",
+    "lastName": "Anderson",
+    "email": "roy.anderson@example.com",
+    "username": "beautifulpeacock123",
+    "password": "minnie",
+    "invokedAt": "2025-02-11T21:45:13.847Z"
   }
 ]
