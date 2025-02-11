@@ -622,5 +622,13 @@
     "username": "whiterabbit110",
     "password": "kelvin",
     "invokedAt": "2025-02-11T15:59:00.212Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Peterson",
+    "email": "byron.peterson@example.com",
+    "username": "ticklishbear360",
+    "password": "limited",
+    "invokedAt": "2025-02-11T16:20:29.786Z"
   }
 ]
