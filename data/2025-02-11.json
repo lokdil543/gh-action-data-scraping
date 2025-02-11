@@ -838,5 +838,13 @@
     "username": "bluegoose404",
     "password": "flash1",
     "invokedAt": "2025-02-11T20:36:32.324Z"
+  },
+  {
+    "firstName": "Siiri",
+    "lastName": "Wirkkala",
+    "email": "siiri.wirkkala@example.com",
+    "username": "lazyfish447",
+    "password": "itsme",
+    "invokedAt": "2025-02-11T20:42:26.718Z"
   }
 ]
