@@ -262,5 +262,13 @@
     "username": "angryrabbit951",
     "password": "mommy",
     "invokedAt": "2025-02-11T07:56:54.453Z"
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Larson",
+    "email": "jenny.larson@example.com",
+    "username": "heavyduck396",
+    "password": "jerry1",
+    "invokedAt": "2025-02-11T08:15:00.005Z"
   }
 ]
