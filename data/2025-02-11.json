@@ -294,5 +294,13 @@
     "username": "beautifulduck698",
     "password": "malone",
     "invokedAt": "2025-02-11T08:49:32.930Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Moya",
+    "email": "pedro.moya@example.com",
+    "username": "bigbutterfly464",
+    "password": "carrera",
+    "invokedAt": "2025-02-11T08:55:22.146Z"
   }
 ]
