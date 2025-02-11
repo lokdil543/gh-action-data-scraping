@@ -686,5 +686,13 @@
     "username": "purpleelephant275",
     "password": "trust",
     "invokedAt": "2025-02-11T17:42:20.165Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Vázquez",
+    "email": "martin.vazquez@example.com",
+    "username": "purplesnake891",
+    "password": "emmett",
+    "invokedAt": "2025-02-11T17:48:07.064Z"
   }
 ]
