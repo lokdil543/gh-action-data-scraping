@@ -558,5 +558,13 @@
     "username": "bigrabbit615",
     "password": "simple",
     "invokedAt": "2025-02-12T14:45:05.398Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Torres",
+    "email": "linda.torres@example.com",
+    "username": "orangepanda702",
+    "password": "quincy",
+    "invokedAt": "2025-02-12T14:51:01.786Z"
   }
 ]
