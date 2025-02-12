@@ -166,5 +166,13 @@
     "username": "silverelephant215",
     "password": "juliet",
     "invokedAt": "2025-02-12T06:00:40.756Z"
+  },
+  {
+    "firstName": "Asunción",
+    "lastName": "Santiago",
+    "email": "asuncion.santiago@example.com",
+    "username": "bluesnake148",
+    "password": "smithers",
+    "invokedAt": "2025-02-12T06:25:40.228Z"
   }
 ]
