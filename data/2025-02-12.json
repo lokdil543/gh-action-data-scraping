@@ -934,5 +934,13 @@
     "username": "silversnake981",
     "password": "street",
     "invokedAt": "2025-02-12T22:15:27.886Z"
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Bell",
+    "email": "gabriel.bell@example.com",
+    "username": "yellowtiger568",
+    "password": "fergie",
+    "invokedAt": "2025-02-12T22:30:43.259Z"
   }
 ]
