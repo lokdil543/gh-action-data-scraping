@@ -854,5 +854,13 @@
     "username": "bluepanda484",
     "password": "workout",
     "invokedAt": "2025-02-12T20:49:05.275Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Chen",
+    "email": "daniel.chen@example.com",
+    "username": "tinybutterfly732",
+    "password": "1210",
+    "invokedAt": "2025-02-12T20:55:00.978Z"
   }
 ]
