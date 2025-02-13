@@ -510,5 +510,13 @@
     "username": "smallbear178",
     "password": "windows",
     "invokedAt": "2025-02-13T13:45:56.077Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Patel",
+    "email": "owen.patel@example.com",
+    "username": "tinybear180",
+    "password": "patty",
+    "invokedAt": "2025-02-13T13:51:42.248Z"
   }
 ]
