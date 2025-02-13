@@ -790,5 +790,13 @@
     "username": "angrytiger418",
     "password": "secret",
     "invokedAt": "2025-02-13T19:33:37.453Z"
+  },
+  {
+    "firstName": "Frenky",
+    "lastName": "Sinnema",
+    "email": "frenky.sinnema@example.com",
+    "username": "angryfish289",
+    "password": "games",
+    "invokedAt": "2025-02-13T19:39:25.531Z"
   }
 ]
