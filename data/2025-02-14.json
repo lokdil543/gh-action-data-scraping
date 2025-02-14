@@ -1030,5 +1030,13 @@
     "username": "bluerabbit400",
     "password": "boater",
     "invokedAt": "2025-02-14T23:26:29.349Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Bell",
+    "email": "magnus.bell@example.com",
+    "username": "sadfrog461",
+    "password": "playing",
+    "invokedAt": "2025-02-14T23:33:20.572Z"
   }
 ]
