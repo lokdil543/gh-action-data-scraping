@@ -278,5 +278,13 @@
     "username": "heavybird879",
     "password": "yankees1",
     "invokedAt": "2025-02-14T08:14:12.309Z"
+  },
+  {
+    "firstName": "Miško",
+    "lastName": "Damjanović",
+    "email": "misko.damjanovic@example.com",
+    "username": "lazysnake899",
+    "password": "scorpio",
+    "invokedAt": "2025-02-14T08:32:27.726Z"
   }
 ]
