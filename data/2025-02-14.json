@@ -342,5 +342,13 @@
     "username": "lazybear116",
     "password": "massive",
     "invokedAt": "2025-02-14T09:40:12.460Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Leppanen",
+    "email": "matilda.leppanen@example.com",
+    "username": "lazyduck421",
+    "password": "cooler",
+    "invokedAt": "2025-02-14T09:45:58.041Z"
   }
 ]
