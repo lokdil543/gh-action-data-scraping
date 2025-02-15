@@ -926,5 +926,13 @@
     "username": "yellowpeacock677",
     "password": "rainman",
     "invokedAt": "2025-02-15T20:37:31.840Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Jean",
+    "email": "peter.jean@example.com",
+    "username": "lazypanda360",
+    "password": "homemade",
+    "invokedAt": "2025-02-15T20:43:22.078Z"
   }
 ]
