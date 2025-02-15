@@ -510,5 +510,13 @@
     "username": "silverfish325",
     "password": "books",
     "invokedAt": "2025-02-15T13:00:25.960Z"
+  },
+  {
+    "firstName": "Leevi",
+    "lastName": "Savela",
+    "email": "leevi.savela@example.com",
+    "username": "heavygoose586",
+    "password": "sputnik",
+    "invokedAt": "2025-02-15T13:18:34.361Z"
   }
 ]
