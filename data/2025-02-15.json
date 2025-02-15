@@ -1118,5 +1118,13 @@
     "username": "blackrabbit884",
     "password": "compaq",
     "invokedAt": "2025-02-15T23:52:46.360Z"
+  },
+  {
+    "firstName": "Remko",
+    "lastName": "Van der West",
+    "email": "remko.vanderwest@example.com",
+    "username": "lazylion662",
+    "password": "designer",
+    "invokedAt": "2025-02-15T23:58:34.438Z"
   }
 ]
