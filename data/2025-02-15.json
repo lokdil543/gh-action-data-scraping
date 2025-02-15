@@ -574,5 +574,13 @@
     "username": "greenlion255",
     "password": "fenway",
     "invokedAt": "2025-02-15T14:11:32.111Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Lopes",
+    "email": "santiago.lopes@example.com",
+    "username": "orangeostrich295",
+    "password": "paula",
+    "invokedAt": "2025-02-15T14:25:44.470Z"
   }
 ]
