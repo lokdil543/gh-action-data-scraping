@@ -334,5 +334,13 @@
     "username": "tinybutterfly199",
     "password": "highway",
     "invokedAt": "2025-02-16T09:31:24.896Z"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Sandsmark",
+    "email": "sean.sandsmark@example.com",
+    "username": "angrybutterfly468",
+    "password": "wrestling",
+    "invokedAt": "2025-02-16T09:37:25.818Z"
   }
 ]
