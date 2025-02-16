@@ -926,5 +926,13 @@
     "username": "lazypeacock523",
     "password": "741852",
     "invokedAt": "2025-02-16T20:41:12.096Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Øvrebø",
+    "email": "carl.ovrebo@example.com",
+    "username": "greenfish720",
+    "password": "miller",
+    "invokedAt": "2025-02-16T20:47:23.964Z"
   }
 ]
