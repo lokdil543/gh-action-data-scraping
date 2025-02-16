@@ -486,5 +486,13 @@
     "username": "happybutterfly331",
     "password": "frosch",
     "invokedAt": "2025-02-16T11:58:21.296Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Petersen",
+    "email": "simon.petersen@example.com",
+    "username": "blackpanda927",
+    "password": "firefigh",
+    "invokedAt": "2025-02-16T12:26:08.256Z"
   }
 ]
