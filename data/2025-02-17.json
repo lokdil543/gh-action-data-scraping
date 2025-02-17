@@ -238,5 +238,13 @@
     "username": "angrybutterfly643",
     "password": "miami1",
     "invokedAt": "2025-02-17T07:49:29.208Z"
+  },
+  {
+    "firstName": "Rekha",
+    "lastName": "Shukla",
+    "email": "rekha.shukla@example.com",
+    "username": "sadrabbit502",
+    "password": "string",
+    "invokedAt": "2025-02-17T07:55:17.044Z"
   }
 ]
