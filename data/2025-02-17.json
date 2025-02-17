@@ -62,5 +62,13 @@
     "username": "silverbird314",
     "password": "123123123",
     "invokedAt": "2025-02-17T03:56:48.402Z"
+  },
+  {
+    "firstName": "Radojko",
+    "lastName": "Rađen",
+    "email": "radojko.raden@example.com",
+    "username": "heavyrabbit624",
+    "password": "beans",
+    "invokedAt": "2025-02-17T04:13:57.904Z"
   }
 ]
