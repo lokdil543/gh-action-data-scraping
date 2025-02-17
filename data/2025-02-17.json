@@ -742,5 +742,13 @@
     "username": "crazyrabbit222",
     "password": "enigma",
     "invokedAt": "2025-02-17T19:09:41.696Z"
+  },
+  {
+    "firstName": "Nancy",
+    "lastName": "Solorzano",
+    "email": "nancy.solorzano@example.com",
+    "username": "angrygoose262",
+    "password": "wizard",
+    "invokedAt": "2025-02-17T19:20:42.158Z"
   }
 ]
