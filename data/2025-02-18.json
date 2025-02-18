@@ -790,5 +790,13 @@
     "username": "orangebird720",
     "password": "flounder",
     "invokedAt": "2025-02-18T19:41:03.277Z"
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Strømmen",
+    "email": "adrian.strommen@example.com",
+    "username": "bluebird109",
+    "password": "mature",
+    "invokedAt": "2025-02-18T19:46:52.970Z"
   }
 ]
