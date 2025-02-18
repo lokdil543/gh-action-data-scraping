@@ -262,5 +262,13 @@
     "username": "purpletiger539",
     "password": "cold",
     "invokedAt": "2025-02-18T07:56:36.010Z"
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Øvereng",
+    "email": "tor.overeng@example.com",
+    "username": "orangemeercat499",
+    "password": "aramis",
+    "invokedAt": "2025-02-18T08:14:28.471Z"
   }
 ]
