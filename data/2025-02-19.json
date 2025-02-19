@@ -462,5 +462,13 @@
     "username": "yellowlion341",
     "password": "frontier",
     "invokedAt": "2025-02-19T12:58:58.046Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Mortensen",
+    "email": "maria.mortensen@example.com",
+    "username": "heavyostrich875",
+    "password": "0123456",
+    "invokedAt": "2025-02-19T13:21:24.241Z"
   }
 ]
