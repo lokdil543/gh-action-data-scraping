@@ -342,5 +342,13 @@
     "username": "orangewolf123",
     "password": "poetry",
     "invokedAt": "2025-02-20T09:54:18.316Z"
+  },
+  {
+    "firstName": "Joy",
+    "lastName": "Johnson",
+    "email": "joy.johnson@example.com",
+    "username": "crazymeercat571",
+    "password": "serious",
+    "invokedAt": "2025-02-20T10:00:07.033Z"
   }
 ]
