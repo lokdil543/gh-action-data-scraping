@@ -758,5 +758,13 @@
     "username": "greenpanda601",
     "password": "warlock",
     "invokedAt": "2025-02-20T19:23:01.672Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Garcia",
+    "email": "brian.garcia@example.com",
+    "username": "whitebird158",
+    "password": "mermaid",
+    "invokedAt": "2025-02-20T19:28:51.358Z"
   }
 ]
