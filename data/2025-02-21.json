@@ -606,5 +606,13 @@
     "username": "silverkoala385",
     "password": "enter1",
     "invokedAt": "2025-02-21T15:50:00.191Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Süleymanoğlu",
+    "email": "kadir.suleymanoglu@example.com",
+    "username": "bigladybug385",
+    "password": "attila",
+    "invokedAt": "2025-02-21T15:55:47.315Z"
   }
 ]
