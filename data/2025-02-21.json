@@ -1038,5 +1038,13 @@
     "username": "biggoose203",
     "password": "insert",
     "invokedAt": "2025-02-21T23:52:21.309Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Nielsen",
+    "email": "clara.nielsen@example.com",
+    "username": "purplebutterfly834",
+    "password": "dorothy",
+    "invokedAt": "2025-02-21T23:58:15.598Z"
   }
 ]
