@@ -318,5 +318,13 @@
     "username": "goldensnake702",
     "password": "barcelona",
     "invokedAt": "2025-02-22T08:59:27.138Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "López",
+    "email": "eduardo.lopez@example.com",
+    "username": "yellowzebra752",
+    "password": "stretch",
+    "invokedAt": "2025-02-22T09:15:48.279Z"
   }
 ]
