@@ -366,5 +366,13 @@
     "username": "smallpanda335",
     "password": "disco",
     "invokedAt": "2025-02-22T09:51:44.144Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Lopez",
+    "email": "mathieu.lopez@example.com",
+    "username": "redfish495",
+    "password": "toni",
+    "invokedAt": "2025-02-22T09:57:28.851Z"
   }
 ]
