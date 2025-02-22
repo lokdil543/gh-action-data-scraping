@@ -750,5 +750,13 @@
     "username": "beautifulcat500",
     "password": "manson",
     "invokedAt": "2025-02-22T17:35:02.142Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Newman",
+    "email": "tracy.newman@example.com",
+    "username": "blackdog840",
+    "password": "sundance",
+    "invokedAt": "2025-02-22T17:40:52.277Z"
   }
 ]
