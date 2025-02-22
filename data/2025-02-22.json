@@ -558,5 +558,13 @@
     "username": "lazygorilla184",
     "password": "boss",
     "invokedAt": "2025-02-22T13:54:01.066Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Kristensen",
+    "email": "valdemar.kristensen@example.com",
+    "username": "redgoose862",
+    "password": "lookout",
+    "invokedAt": "2025-02-22T13:59:55.175Z"
   }
 ]
