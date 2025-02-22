@@ -622,5 +622,13 @@
     "username": "heavyelephant237",
     "password": "solution",
     "invokedAt": "2025-02-22T14:59:22.240Z"
+  },
+  {
+    "firstName": "Astrid",
+    "lastName": "Van den Eijnde",
+    "email": "astrid.vandeneijnde@example.com",
+    "username": "heavyfrog403",
+    "password": "buckshot",
+    "invokedAt": "2025-02-22T15:14:40.001Z"
   }
 ]
