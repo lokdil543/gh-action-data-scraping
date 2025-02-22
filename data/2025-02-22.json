@@ -438,5 +438,13 @@
     "username": "sadcat791",
     "password": "anderson",
     "invokedAt": "2025-02-22T11:21:08.406Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Fowler",
+    "email": "thomas.fowler@example.com",
+    "username": "sadwolf731",
+    "password": "cypress",
+    "invokedAt": "2025-02-22T11:27:05.090Z"
   }
 ]
