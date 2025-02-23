@@ -742,5 +742,13 @@
     "username": "happyrabbit516",
     "password": "slayer1",
     "invokedAt": "2025-02-23T17:46:33.572Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Mortensen",
+    "email": "sander.mortensen@example.com",
+    "username": "whitewolf168",
+    "password": "gone",
+    "invokedAt": "2025-02-23T17:52:18.127Z"
   }
 ]
