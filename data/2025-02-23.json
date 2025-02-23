@@ -230,5 +230,13 @@
     "username": "yellowfrog163",
     "password": "dennis",
     "invokedAt": "2025-02-23T07:36:46.430Z"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Tremblay",
+    "email": "jasmine.tremblay@example.com",
+    "username": "tinypanda562",
+    "password": "fischer",
+    "invokedAt": "2025-02-23T07:42:32.119Z"
   }
 ]
