@@ -774,5 +774,13 @@
     "username": "bluezebra748",
     "password": "dollar",
     "invokedAt": "2025-02-23T18:33:55.344Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Lehto",
+    "email": "otto.lehto@example.com",
+    "username": "bluepanda260",
+    "password": "ocean",
+    "invokedAt": "2025-02-23T18:42:51.155Z"
   }
 ]
