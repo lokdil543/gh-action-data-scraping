@@ -262,5 +262,13 @@
     "username": "bigleopard201",
     "password": "universa",
     "invokedAt": "2025-02-23T08:08:28.063Z"
+  },
+  {
+    "firstName": "Joël",
+    "lastName": "Nguyen",
+    "email": "joel.nguyen@example.com",
+    "username": "greenbear999",
+    "password": "digital",
+    "invokedAt": "2025-02-23T08:29:23.392Z"
   }
 ]
