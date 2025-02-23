@@ -158,5 +158,13 @@
     "username": "blacksnake406",
     "password": "misfit",
     "invokedAt": "2025-02-23T06:00:05.752Z"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Jackson",
+    "email": "kyle.jackson@example.com",
+    "username": "silverostrich217",
+    "password": "meme",
+    "invokedAt": "2025-02-23T06:23:18.959Z"
   }
 ]
