@@ -958,5 +958,13 @@
     "username": "orangebear636",
     "password": "enter1",
     "invokedAt": "2025-02-24T23:42:42.839Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Rousseau",
+    "email": "valentin.rousseau@example.com",
+    "username": "angryfish409",
+    "password": "cuddles",
+    "invokedAt": "2025-02-24T23:48:31.094Z"
   }
 ]
