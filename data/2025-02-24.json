@@ -158,5 +158,13 @@
     "username": "yellowsnake625",
     "password": "flying",
     "invokedAt": "2025-02-24T06:19:06.586Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Kuhn",
+    "email": "allen.kuhn@example.com",
+    "username": "yellowfrog895",
+    "password": "white1",
+    "invokedAt": "2025-02-24T06:41:05.110Z"
   }
 ]
