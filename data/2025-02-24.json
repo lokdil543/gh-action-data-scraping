@@ -870,5 +870,13 @@
     "username": "bluebutterfly423",
     "password": "stayout",
     "invokedAt": "2025-02-24T21:54:55.355Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Lemm",
+    "email": "harry.lemm@example.com",
+    "username": "crazygorilla617",
+    "password": "trace",
+    "invokedAt": "2025-02-24T22:06:57.506Z"
   }
 ]
