@@ -622,5 +622,13 @@
     "username": "orangewolf199",
     "password": "gang",
     "invokedAt": "2025-02-24T17:12:07.356Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Grant",
+    "email": "brian.grant@example.com",
+    "username": "angrypanda537",
+    "password": "sander",
+    "invokedAt": "2025-02-24T17:27:03.273Z"
   }
 ]
