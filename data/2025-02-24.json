@@ -358,5 +358,13 @@
     "username": "blackostrich855",
     "password": "fiction",
     "invokedAt": "2025-02-24T10:49:50.134Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Larsen",
+    "email": "daniel.larsen@example.com",
+    "username": "bluebutterfly326",
+    "password": "hillary",
+    "invokedAt": "2025-02-24T10:55:47.316Z"
   }
 ]
