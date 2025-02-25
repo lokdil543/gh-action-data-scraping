@@ -758,5 +758,13 @@
     "username": "greenkoala723",
     "password": "stang",
     "invokedAt": "2025-02-25T19:45:54.456Z"
+  },
+  {
+    "firstName": "Braxton",
+    "lastName": "Walker",
+    "email": "braxton.walker@example.com",
+    "username": "redbird270",
+    "password": "contains",
+    "invokedAt": "2025-02-25T19:51:38.147Z"
   }
 ]
