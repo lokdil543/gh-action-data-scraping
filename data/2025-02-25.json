@@ -398,5 +398,13 @@
     "username": "smallcat903",
     "password": "alberto",
     "invokedAt": "2025-02-25T11:22:13.355Z"
+  },
+  {
+    "firstName": "Julio",
+    "lastName": "Navarro",
+    "email": "julio.navarro@example.com",
+    "username": "smallbird856",
+    "password": "forget",
+    "invokedAt": "2025-02-25T11:28:41.233Z"
   }
 ]
