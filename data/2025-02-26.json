@@ -974,5 +974,13 @@
     "username": "angrypanda188",
     "password": "mario",
     "invokedAt": "2025-02-26T23:53:12.247Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Dupuis",
+    "email": "claude.dupuis@example.com",
+    "username": "greenleopard128",
+    "password": "elvis1",
+    "invokedAt": "2025-02-26T23:59:11.168Z"
   }
 ]
