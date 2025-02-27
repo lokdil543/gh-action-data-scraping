@@ -942,5 +942,13 @@
     "username": "ticklishzebra298",
     "password": "barkley",
     "invokedAt": "2025-02-27T23:34:59.224Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Armstrong",
+    "email": "ted.armstrong@example.com",
+    "username": "browndog268",
+    "password": "lookin",
+    "invokedAt": "2025-02-27T23:41:00.118Z"
   }
 ]
