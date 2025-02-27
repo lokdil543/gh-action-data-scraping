@@ -574,5 +574,13 @@
     "username": "blackfrog261",
     "password": "wrestling",
     "invokedAt": "2025-02-27T15:52:42.474Z"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Green",
+    "email": "stanley.green@example.com",
+    "username": "ticklishwolf473",
+    "password": "wolverine",
+    "invokedAt": "2025-02-27T15:58:41.499Z"
   }
 ]
