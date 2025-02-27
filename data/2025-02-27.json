@@ -166,5 +166,13 @@
     "username": "redbird852",
     "password": "hiking",
     "invokedAt": "2025-02-27T06:49:45.100Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Mortensen",
+    "email": "daniel.mortensen@example.com",
+    "username": "yellowfish700",
+    "password": "payton",
+    "invokedAt": "2025-02-27T06:55:26.676Z"
   }
 ]
