@@ -710,5 +710,13 @@
     "username": "sadfish657",
     "password": "metal",
     "invokedAt": "2025-02-27T19:13:02.977Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Gaillard",
+    "email": "valentin.gaillard@example.com",
+    "username": "lazybird422",
+    "password": "baritone",
+    "invokedAt": "2025-02-27T19:23:03.558Z"
   }
 ]
