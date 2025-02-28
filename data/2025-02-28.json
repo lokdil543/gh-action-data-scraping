@@ -382,5 +382,13 @@
     "username": "bluetiger625",
     "password": "pitbull",
     "invokedAt": "2025-02-28T11:15:28.299Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Guerrero",
+    "email": "andres.guerrero@example.com",
+    "username": "bluegorilla300",
+    "password": "1992",
+    "invokedAt": "2025-02-28T11:25:08.816Z"
   }
 ]
