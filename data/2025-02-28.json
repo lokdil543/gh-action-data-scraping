@@ -542,5 +542,13 @@
     "username": "silverladybug889",
     "password": "joker1",
     "invokedAt": "2025-02-28T14:59:01.796Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Gallego",
+    "email": "fernando.gallego@example.com",
+    "username": "silverdog678",
+    "password": "jaeger",
+    "invokedAt": "2025-02-28T15:16:22.507Z"
   }
 ]
