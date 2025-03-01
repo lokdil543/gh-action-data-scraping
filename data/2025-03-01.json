@@ -878,5 +878,13 @@
     "username": "bluelion820",
     "password": "fletch",
     "invokedAt": "2025-03-01T21:13:48.051Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Marchand",
+    "email": "adam.marchand@example.com",
+    "username": "smallbear406",
+    "password": "brooks",
+    "invokedAt": "2025-03-01T21:26:32.032Z"
   }
 ]
