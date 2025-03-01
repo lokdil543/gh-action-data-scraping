@@ -782,5 +782,13 @@
     "username": "happyfrog988",
     "password": "mememe",
     "invokedAt": "2025-03-01T19:22:00.193Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Wong",
+    "email": "lucas.wong@example.com",
+    "username": "bluezebra380",
+    "password": "fenway",
+    "invokedAt": "2025-03-01T19:27:56.253Z"
   }
 ]
