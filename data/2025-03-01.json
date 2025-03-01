@@ -294,5 +294,13 @@
     "username": "goldenduck639",
     "password": "absolute",
     "invokedAt": "2025-03-01T09:00:04.285Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Nielsen",
+    "email": "andrea.nielsen@example.com",
+    "username": "smallduck385",
+    "password": "bummer",
+    "invokedAt": "2025-03-01T09:17:08.025Z"
   }
 ]
