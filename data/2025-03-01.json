@@ -430,5 +430,13 @@
     "username": "purpleelephant193",
     "password": "asdfasdf",
     "invokedAt": "2025-03-01T11:32:47.005Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Denys",
+    "email": "philippe.denys@example.com",
+    "username": "orangesnake241",
+    "password": "booster",
+    "invokedAt": "2025-03-01T11:39:49.304Z"
   }
 ]
