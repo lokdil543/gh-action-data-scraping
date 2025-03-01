@@ -502,5 +502,13 @@
     "username": "greenbear605",
     "password": "toejam",
     "invokedAt": "2025-03-01T13:34:18.746Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Christensen",
+    "email": "andrea.christensen@example.com",
+    "username": "yellowostrich342",
+    "password": "jasmin",
+    "invokedAt": "2025-03-01T13:39:59.197Z"
   }
 ]
