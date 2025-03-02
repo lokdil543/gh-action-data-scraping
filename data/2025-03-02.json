@@ -902,5 +902,13 @@
     "username": "whiteelephant825",
     "password": "ghost",
     "invokedAt": "2025-03-02T21:25:14.086Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Lewis",
+    "email": "charlie.lewis@example.com",
+    "username": "greenladybug865",
+    "password": "neptune",
+    "invokedAt": "2025-03-02T21:31:18.586Z"
   }
 ]
