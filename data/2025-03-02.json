@@ -422,5 +422,13 @@
     "username": "blueostrich135",
     "password": "meow",
     "invokedAt": "2025-03-02T11:34:07.219Z"
+  },
+  {
+    "firstName": "Joana",
+    "lastName": "Dubois",
+    "email": "joana.dubois@example.com",
+    "username": "orangeduck983",
+    "password": "blondes",
+    "invokedAt": "2025-03-02T11:39:54.433Z"
   }
 ]
