@@ -550,5 +550,13 @@
     "username": "tinyduck985",
     "password": "listen",
     "invokedAt": "2025-03-02T14:36:36.742Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Svensson",
+    "email": "martha.svensson@example.com",
+    "username": "greenmouse221",
+    "password": "denise",
+    "invokedAt": "2025-03-02T14:42:25.443Z"
   }
 ]
