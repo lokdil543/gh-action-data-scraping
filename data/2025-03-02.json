@@ -46,5 +46,13 @@
     "username": "reddog800",
     "password": "socks",
     "invokedAt": "2025-03-02T03:52:04.730Z"
+  },
+  {
+    "firstName": "Franklin",
+    "lastName": "Hughes",
+    "email": "franklin.hughes@example.com",
+    "username": "bigfish876",
+    "password": "oooooooo",
+    "invokedAt": "2025-03-02T03:57:48.894Z"
   }
 ]
