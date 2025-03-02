@@ -894,5 +894,13 @@
     "username": "heavygoose209",
     "password": "transit",
     "invokedAt": "2025-03-02T21:13:43.951Z"
+  },
+  {
+    "firstName": "Christien",
+    "lastName": "Van Zijp",
+    "email": "christien.vanzijp@example.com",
+    "username": "whiteelephant825",
+    "password": "ghost",
+    "invokedAt": "2025-03-02T21:25:14.086Z"
   }
 ]
