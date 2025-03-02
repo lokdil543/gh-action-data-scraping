@@ -926,5 +926,13 @@
     "username": "heavypeacock794",
     "password": "pepsi1",
     "invokedAt": "2025-03-02T21:43:23.120Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Jarvinen",
+    "email": "arttu.jarvinen@example.com",
+    "username": "bluewolf999",
+    "password": "films",
+    "invokedAt": "2025-03-02T21:49:19.244Z"
   }
 ]
