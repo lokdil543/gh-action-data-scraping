@@ -326,5 +326,13 @@
     "username": "blueduck904",
     "password": "umpire",
     "invokedAt": "2025-03-02T09:40:22.219Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Campbell",
+    "email": "bradley.campbell@example.com",
+    "username": "lazypanda591",
+    "password": "face",
+    "invokedAt": "2025-03-02T09:46:25.037Z"
   }
 ]
