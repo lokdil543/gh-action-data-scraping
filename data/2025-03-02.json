@@ -590,5 +590,13 @@
     "username": "blackduck391",
     "password": "abgrtyu",
     "invokedAt": "2025-03-02T15:29:15.392Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Peltola",
+    "email": "emil.peltola@example.com",
+    "username": "greentiger105",
+    "password": "discover",
+    "invokedAt": "2025-03-02T15:37:14.712Z"
   }
 ]
