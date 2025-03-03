@@ -638,5 +638,13 @@
     "username": "angrydog150",
     "password": "windows1",
     "invokedAt": "2025-03-03T17:49:40.544Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Gutiérrez",
+    "email": "jose.gutierrez@example.com",
+    "username": "purplecat815",
+    "password": "jackson",
+    "invokedAt": "2025-03-03T17:55:29.228Z"
   }
 ]
