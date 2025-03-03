@@ -710,5 +710,13 @@
     "username": "blacktiger305",
     "password": "asdfasdf",
     "invokedAt": "2025-03-03T19:28:28.407Z"
+  },
+  {
+    "firstName": "Zoé",
+    "lastName": "Muller",
+    "email": "zoe.muller@example.com",
+    "username": "beautifulgoose451",
+    "password": "klondike",
+    "invokedAt": "2025-03-03T19:35:51.112Z"
   }
 ]
