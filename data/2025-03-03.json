@@ -742,5 +742,13 @@
     "username": "sadostrich924",
     "password": "hello2",
     "invokedAt": "2025-03-03T19:53:29.500Z"
+  },
+  {
+    "firstName": "Macha",
+    "lastName": "Van Londen",
+    "email": "macha.vanlonden@example.com",
+    "username": "angrygorilla663",
+    "password": "beautiful",
+    "invokedAt": "2025-03-03T19:59:19.582Z"
   }
 ]
