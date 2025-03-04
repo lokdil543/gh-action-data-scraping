@@ -206,5 +206,13 @@
     "username": "purplegoose123",
     "password": "biguns",
     "invokedAt": "2025-03-04T08:46:08.360Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Madsen",
+    "email": "august.madsen@example.com",
+    "username": "purpleduck700",
+    "password": "spongebo",
+    "invokedAt": "2025-03-04T08:52:36.418Z"
   }
 ]
