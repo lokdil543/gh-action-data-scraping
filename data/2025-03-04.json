@@ -526,5 +526,13 @@
     "username": "blackkoala773",
     "password": "apples",
     "invokedAt": "2025-03-04T16:12:30.602Z"
+  },
+  {
+    "firstName": "Borka",
+    "lastName": "Pavić",
+    "email": "borka.pavic@example.com",
+    "username": "purplekoala496",
+    "password": "lost",
+    "invokedAt": "2025-03-04T16:36:05.562Z"
   }
 ]
