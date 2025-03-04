@@ -158,5 +158,13 @@
     "username": "redbird945",
     "password": "1226",
     "invokedAt": "2025-03-04T07:39:58.387Z"
+  },
+  {
+    "firstName": "Mina",
+    "lastName": "Ćirić",
+    "email": "mina.ciric@example.com",
+    "username": "brownbear336",
+    "password": "13579",
+    "invokedAt": "2025-03-04T07:45:48.730Z"
   }
 ]
