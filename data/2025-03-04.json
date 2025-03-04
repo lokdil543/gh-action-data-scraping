@@ -438,5 +438,13 @@
     "username": "brownduck838",
     "password": "nimrod",
     "invokedAt": "2025-03-04T14:14:39.951Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Guillot",
+    "email": "mathilde.guillot@example.com",
+    "username": "sadladybug371",
+    "password": "12345678",
+    "invokedAt": "2025-03-04T14:32:13.422Z"
   }
 ]
