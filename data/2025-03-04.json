@@ -726,5 +726,13 @@
     "username": "orangemouse499",
     "password": "abc1234",
     "invokedAt": "2025-03-04T20:39:19.060Z"
+  },
+  {
+    "firstName": "Graciela",
+    "lastName": "Santiago",
+    "email": "graciela.santiago@example.com",
+    "username": "ticklishsnake175",
+    "password": "claymore",
+    "invokedAt": "2025-03-04T20:45:11.479Z"
   }
 ]
