@@ -590,5 +590,13 @@
     "username": "purplegoose297",
     "password": "compass",
     "invokedAt": "2025-03-04T17:47:51.465Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Tervo",
+    "email": "konsta.tervo@example.com",
+    "username": "redwolf529",
+    "password": "ferret",
+    "invokedAt": "2025-03-04T17:53:37.199Z"
   }
 ]
