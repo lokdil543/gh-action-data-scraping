@@ -718,5 +718,13 @@
     "username": "lazybird712",
     "password": "treble",
     "invokedAt": "2025-03-04T20:30:20.336Z"
+  },
+  {
+    "firstName": "Paige",
+    "lastName": "Clark",
+    "email": "paige.clark@example.com",
+    "username": "orangemouse499",
+    "password": "abc1234",
+    "invokedAt": "2025-03-04T20:39:19.060Z"
   }
 ]
