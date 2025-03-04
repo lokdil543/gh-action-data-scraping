@@ -854,5 +854,13 @@
     "username": "whitewolf813",
     "password": "pilot",
     "invokedAt": "2025-03-04T22:55:59.282Z"
+  },
+  {
+    "firstName": "Michele",
+    "lastName": "Mathieu",
+    "email": "michele.mathieu@example.com",
+    "username": "sadfish965",
+    "password": "flipper",
+    "invokedAt": "2025-03-04T23:09:16.334Z"
   }
 ]
