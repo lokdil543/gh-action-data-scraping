@@ -214,5 +214,13 @@
     "username": "purpleduck700",
     "password": "spongebo",
     "invokedAt": "2025-03-04T08:52:36.418Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Gagnon",
+    "email": "adam.gagnon@example.com",
+    "username": "crazywolf316",
+    "password": "bogey",
+    "invokedAt": "2025-03-04T08:58:27.201Z"
   }
 ]
