@@ -902,5 +902,13 @@
     "username": "blacksnake258",
     "password": "lucas1",
     "invokedAt": "2025-03-04T23:49:24.206Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Angulo",
+    "email": "francisco.angulo@example.com",
+    "username": "lazysnake401",
+    "password": "waterboy",
+    "invokedAt": "2025-03-04T23:55:10.245Z"
   }
 ]
