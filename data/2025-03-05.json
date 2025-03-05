@@ -742,5 +742,13 @@
     "username": "whitedog687",
     "password": "donuts",
     "invokedAt": "2025-03-05T20:30:56.820Z"
+  },
+  {
+    "firstName": "Stojan",
+    "lastName": "Kitić",
+    "email": "stojan.kitic@example.com",
+    "username": "bigbutterfly210",
+    "password": "unbelievable",
+    "invokedAt": "2025-03-05T20:40:51.143Z"
   }
 ]
