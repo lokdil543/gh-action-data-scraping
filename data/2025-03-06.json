@@ -486,5 +486,13 @@
     "username": "purplefish202",
     "password": "capslock",
     "invokedAt": "2025-03-06T14:33:04.075Z"
+  },
+  {
+    "firstName": "Archie",
+    "lastName": "Johnson",
+    "email": "archie.johnson@example.com",
+    "username": "lazyrabbit675",
+    "password": "thunder1",
+    "invokedAt": "2025-03-06T14:43:33.325Z"
   }
 ]
