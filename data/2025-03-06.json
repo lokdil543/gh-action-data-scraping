@@ -662,5 +662,13 @@
     "username": "lazymeercat302",
     "password": "phish1",
     "invokedAt": "2025-03-06T18:47:40.130Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Rydningen",
+    "email": "william.rydningen@example.com",
+    "username": "heavyleopard240",
+    "password": "holes",
+    "invokedAt": "2025-03-06T18:53:33.391Z"
   }
 ]
