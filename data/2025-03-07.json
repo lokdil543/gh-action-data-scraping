@@ -878,5 +878,13 @@
     "username": "whitefrog811",
     "password": "icehouse",
     "invokedAt": "2025-03-07T21:53:18.067Z"
+  },
+  {
+    "firstName": "Miljan",
+    "lastName": "Dokić",
+    "email": "miljan.dokic@example.com",
+    "username": "blackdog681",
+    "password": "peyton",
+    "invokedAt": "2025-03-07T21:59:06.458Z"
   }
 ]
