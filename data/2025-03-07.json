@@ -566,5 +566,13 @@
     "username": "silverwolf130",
     "password": "evil",
     "invokedAt": "2025-03-07T15:49:56.452Z"
+  },
+  {
+    "firstName": "Esma",
+    "lastName": "Numanoğlu",
+    "email": "esma.numanoglu@example.com",
+    "username": "orangetiger488",
+    "password": "treasure",
+    "invokedAt": "2025-03-07T15:55:45.765Z"
   }
 ]
