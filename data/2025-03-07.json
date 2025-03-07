@@ -310,5 +310,13 @@
     "username": "redduck979",
     "password": "miller",
     "invokedAt": "2025-03-07T09:50:02.376Z"
+  },
+  {
+    "firstName": "Velimir",
+    "lastName": "Ivić",
+    "email": "velimir.ivic@example.com",
+    "username": "blackfrog535",
+    "password": "lefty",
+    "invokedAt": "2025-03-07T09:55:54.291Z"
   }
 ]
