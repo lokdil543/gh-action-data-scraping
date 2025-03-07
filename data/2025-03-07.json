@@ -814,5 +814,13 @@
     "username": "goldengoose701",
     "password": "michelle",
     "invokedAt": "2025-03-07T20:54:04.249Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Bouchard",
+    "email": "arnaud.bouchard@example.com",
+    "username": "redcat797",
+    "password": "bing",
+    "invokedAt": "2025-03-07T20:59:42.293Z"
   }
 ]
