@@ -518,5 +518,13 @@
     "username": "angrycat370",
     "password": "a1234567",
     "invokedAt": "2025-03-07T14:50:53.667Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Legrand",
+    "email": "jean.legrand@example.com",
+    "username": "bigswan986",
+    "password": "pounding",
+    "invokedAt": "2025-03-07T14:56:51.207Z"
   }
 ]
