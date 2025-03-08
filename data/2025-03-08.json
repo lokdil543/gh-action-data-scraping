@@ -78,5 +78,13 @@
     "username": "yellowgoose753",
     "password": "topgun",
     "invokedAt": "2025-03-08T03:33:20.150Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Gutiérrez",
+    "email": "pedro.gutierrez@example.com",
+    "username": "silvercat448",
+    "password": "anaconda",
+    "invokedAt": "2025-03-08T03:39:29.655Z"
   }
 ]
