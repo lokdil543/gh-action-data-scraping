@@ -622,5 +622,13 @@
     "username": "greenbird211",
     "password": "qiong",
     "invokedAt": "2025-03-09T13:30:11.612Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Pakkala",
+    "email": "valtteri.pakkala@example.com",
+    "username": "smalldog852",
+    "password": "25252525",
+    "invokedAt": "2025-03-09T13:36:01.151Z"
   }
 ]
