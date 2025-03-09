@@ -582,5 +582,13 @@
     "username": "orangeleopard129",
     "password": "bowman",
     "invokedAt": "2025-03-09T12:21:11.789Z"
+  },
+  {
+    "firstName": "Harold",
+    "lastName": "Walker",
+    "email": "harold.walker@example.com",
+    "username": "lazycat430",
+    "password": "sage",
+    "invokedAt": "2025-03-09T12:42:33.185Z"
   }
 ]
