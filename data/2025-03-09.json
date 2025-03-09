@@ -926,5 +926,13 @@
     "username": "organicgoose211",
     "password": "woof",
     "invokedAt": "2025-03-09T20:24:14.323Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "de la Crúz",
+    "email": "carlos.delacruz@example.com",
+    "username": "yellowswan183",
+    "password": "random",
+    "invokedAt": "2025-03-09T20:30:16.121Z"
   }
 ]
