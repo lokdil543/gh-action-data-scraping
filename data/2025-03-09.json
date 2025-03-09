@@ -550,5 +550,13 @@
     "username": "silverfish623",
     "password": "venus",
     "invokedAt": "2025-03-09T11:40:52.558Z"
+  },
+  {
+    "firstName": "Hugh",
+    "lastName": "Smith",
+    "email": "hugh.smith@example.com",
+    "username": "browncat743",
+    "password": "tribble",
+    "invokedAt": "2025-03-09T11:46:43.131Z"
   }
 ]
