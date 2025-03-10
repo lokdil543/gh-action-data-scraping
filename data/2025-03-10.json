@@ -222,5 +222,13 @@
     "username": "orangefrog693",
     "password": "momo",
     "invokedAt": "2025-03-10T06:11:04.274Z"
+  },
+  {
+    "firstName": "Željka",
+    "lastName": "Vučetić",
+    "email": "zeljka.vucetic@example.com",
+    "username": "greenwolf239",
+    "password": "kitten",
+    "invokedAt": "2025-03-10T06:30:42.490Z"
   }
 ]
