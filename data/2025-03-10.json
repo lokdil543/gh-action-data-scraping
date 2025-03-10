@@ -942,5 +942,13 @@
     "username": "orangeduck818",
     "password": "oregon",
     "invokedAt": "2025-03-10T21:28:01.239Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Arias",
+    "email": "miguel.arias@example.com",
+    "username": "browndog610",
+    "password": "0.0.0.000",
+    "invokedAt": "2025-03-10T21:35:33.590Z"
   }
 ]
