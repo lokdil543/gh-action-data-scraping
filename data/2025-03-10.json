@@ -966,5 +966,13 @@
     "username": "bigdog609",
     "password": "skittles",
     "invokedAt": "2025-03-10T21:47:26.424Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Petersen",
+    "email": "albert.petersen@example.com",
+    "username": "sadduck366",
+    "password": "dnsadm",
+    "invokedAt": "2025-03-10T21:53:24.763Z"
   }
 ]
