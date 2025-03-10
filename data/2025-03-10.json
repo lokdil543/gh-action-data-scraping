@@ -910,5 +910,13 @@
     "username": "happybear444",
     "password": "102938",
     "invokedAt": "2025-03-10T20:47:39.233Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Cano",
+    "email": "alvaro.cano@example.com",
+    "username": "bluepeacock733",
+    "password": "buzzer",
+    "invokedAt": "2025-03-10T20:53:45.266Z"
   }
 ]
