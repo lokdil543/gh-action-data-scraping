@@ -830,5 +830,13 @@
     "username": "brownfrog269",
     "password": "fiddle",
     "invokedAt": "2025-03-11T22:31:43.810Z"
+  },
+  {
+    "firstName": "Stanimir",
+    "lastName": "Šarić",
+    "email": "stanimir.saric@example.com",
+    "username": "whitetiger602",
+    "password": "zodiac",
+    "invokedAt": "2025-03-11T22:41:21.469Z"
   }
 ]
