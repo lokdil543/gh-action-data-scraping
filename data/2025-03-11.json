@@ -486,5 +486,13 @@
     "username": "angrygorilla171",
     "password": "longbow",
     "invokedAt": "2025-03-11T14:32:22.537Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Roy",
+    "email": "elliot.roy@example.com",
+    "username": "angrypanda578",
+    "password": "hack",
+    "invokedAt": "2025-03-11T14:44:24.299Z"
   }
 ]
