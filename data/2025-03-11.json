@@ -302,5 +302,13 @@
     "username": "smallpanda122",
     "password": "howard",
     "invokedAt": "2025-03-11T09:47:28.421Z"
+  },
+  {
+    "firstName": "Janet",
+    "lastName": "Fleming",
+    "email": "janet.fleming@example.com",
+    "username": "angrykoala240",
+    "password": "unbelievable",
+    "invokedAt": "2025-03-11T09:53:16.538Z"
   }
 ]
