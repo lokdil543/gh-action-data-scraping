@@ -574,5 +574,13 @@
     "username": "silverfrog456",
     "password": "cars",
     "invokedAt": "2025-03-11T16:43:21.982Z"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Blanc",
+    "email": "tony.blanc@example.com",
+    "username": "crazyelephant573",
+    "password": "mentor",
+    "invokedAt": "2025-03-11T16:53:00.527Z"
   }
 ]
