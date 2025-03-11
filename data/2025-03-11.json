@@ -622,5 +622,13 @@
     "username": "heavyfish532",
     "password": "orion1",
     "invokedAt": "2025-03-11T18:42:01.725Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Sørensen",
+    "email": "nanna.sorensen@example.com",
+    "username": "heavywolf143",
+    "password": "positive",
+    "invokedAt": "2025-03-11T18:51:34.456Z"
   }
 ]
