@@ -558,5 +558,13 @@
     "username": "greendog518",
     "password": "marvel",
     "invokedAt": "2025-03-12T16:11:39.529Z"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Brown",
+    "email": "charlotte.brown@example.com",
+    "username": "lazyfrog440",
+    "password": "action",
+    "invokedAt": "2025-03-12T16:36:13.674Z"
   }
 ]
