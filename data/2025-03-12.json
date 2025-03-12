@@ -822,5 +822,13 @@
     "username": "happymouse423",
     "password": "services",
     "invokedAt": "2025-03-12T21:59:01.420Z"
+  },
+  {
+    "firstName": "Čedomir",
+    "lastName": "Šakić",
+    "email": "cedomir.sakic@example.com",
+    "username": "orangegorilla274",
+    "password": "sausage",
+    "invokedAt": "2025-03-12T22:15:24.220Z"
   }
 ]
