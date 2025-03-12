@@ -334,5 +334,13 @@
     "username": "whiteswan306",
     "password": "mustangs",
     "invokedAt": "2025-03-12T10:44:36.016Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "De Vogel",
+    "email": "ben.devogel@example.com",
+    "username": "whitegorilla248",
+    "password": "starfire",
+    "invokedAt": "2025-03-12T10:50:32.780Z"
   }
 ]
