@@ -678,5 +678,13 @@
     "username": "redrabbit390",
     "password": "dodgeram",
     "invokedAt": "2025-03-12T19:20:24.109Z"
+  },
+  {
+    "firstName": "Penny",
+    "lastName": "Grant",
+    "email": "penny.grant@example.com",
+    "username": "blackcat542",
+    "password": "vernon",
+    "invokedAt": "2025-03-12T19:26:13.543Z"
   }
 ]
