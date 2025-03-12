@@ -534,5 +534,13 @@
     "username": "smallcat253",
     "password": "maureen",
     "invokedAt": "2025-03-12T15:42:48.525Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Petersen",
+    "email": "mikkel.petersen@example.com",
+    "username": "smalllion873",
+    "password": "dance",
+    "invokedAt": "2025-03-12T15:49:28.956Z"
   }
 ]
