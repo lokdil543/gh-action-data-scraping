@@ -486,5 +486,13 @@
     "username": "brownleopard189",
     "password": "alien",
     "invokedAt": "2025-03-13T17:37:08.699Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Jensen",
+    "email": "elias.jensen@example.com",
+    "username": "crazycat406",
+    "password": "police",
+    "invokedAt": "2025-03-13T17:43:03.714Z"
   }
 ]
