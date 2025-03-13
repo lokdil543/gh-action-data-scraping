@@ -678,5 +678,13 @@
     "username": "greentiger336",
     "password": "namaste",
     "invokedAt": "2025-03-13T21:50:03.550Z"
+  },
+  {
+    "firstName": "Anand",
+    "lastName": "Banerjee",
+    "email": "anand.banerjee@example.com",
+    "username": "crazycat606",
+    "password": "575757",
+    "invokedAt": "2025-03-13T21:55:48.348Z"
   }
 ]
