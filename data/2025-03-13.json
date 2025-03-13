@@ -262,5 +262,13 @@
     "username": "brownrabbit121",
     "password": "marathon",
     "invokedAt": "2025-03-13T09:11:32.575Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Singh",
+    "email": "michael.singh@example.com",
+    "username": "tinywolf250",
+    "password": "515000",
+    "invokedAt": "2025-03-13T09:28:53.758Z"
   }
 ]
