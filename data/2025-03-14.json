@@ -966,5 +966,13 @@
     "username": "crazyduck288",
     "password": "nimitz",
     "invokedAt": "2025-03-14T23:48:39.380Z"
+  },
+  {
+    "firstName": "Darryl",
+    "lastName": "Green",
+    "email": "darryl.green@example.com",
+    "username": "greengorilla900",
+    "password": "review",
+    "invokedAt": "2025-03-14T23:54:43.250Z"
   }
 ]
