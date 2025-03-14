@@ -454,5 +454,13 @@
     "username": "goldenmouse900",
     "password": "charles1",
     "invokedAt": "2025-03-14T13:31:58.362Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Häusler",
+    "email": "samuel.hausler@example.com",
+    "username": "greendog526",
+    "password": "penetrating",
+    "invokedAt": "2025-03-14T13:40:59.685Z"
   }
 ]
