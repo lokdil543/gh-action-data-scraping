@@ -750,5 +750,13 @@
     "username": "purplerabbit532",
     "password": "bruno",
     "invokedAt": "2025-03-14T19:40:54.126Z"
+  },
+  {
+    "firstName": "Peppi",
+    "lastName": "Saarinen",
+    "email": "peppi.saarinen@example.com",
+    "username": "bluegorilla247",
+    "password": "number",
+    "invokedAt": "2025-03-14T19:46:50.475Z"
   }
 ]
