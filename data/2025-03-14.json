@@ -814,5 +814,13 @@
     "username": "smallwolf325",
     "password": "henry1",
     "invokedAt": "2025-03-14T20:50:55.629Z"
+  },
+  {
+    "firstName": "Fletcher",
+    "lastName": "Walker",
+    "email": "fletcher.walker@example.com",
+    "username": "tinydog905",
+    "password": "iceberg",
+    "invokedAt": "2025-03-14T20:56:43.306Z"
   }
 ]
