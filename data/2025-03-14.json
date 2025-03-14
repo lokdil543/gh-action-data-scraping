@@ -398,5 +398,13 @@
     "username": "crazytiger395",
     "password": "mirage",
     "invokedAt": "2025-03-14T11:37:37.562Z"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Jones",
+    "email": "gary.jones@example.com",
+    "username": "whitepanda941",
+    "password": "garion",
+    "invokedAt": "2025-03-14T11:43:25.637Z"
   }
 ]
