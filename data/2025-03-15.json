@@ -590,5 +590,13 @@
     "username": "smallostrich744",
     "password": "moondog",
     "invokedAt": "2025-03-15T15:16:57.822Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Vujčić",
+    "email": "gojko.vujcic@example.com",
+    "username": "heavytiger399",
+    "password": "deedee",
+    "invokedAt": "2025-03-15T15:28:41.333Z"
   }
 ]
