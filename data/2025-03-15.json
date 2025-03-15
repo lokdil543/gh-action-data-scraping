@@ -326,5 +326,13 @@
     "username": "sadlion270",
     "password": "asdfasdf",
     "invokedAt": "2025-03-15T09:40:30.166Z"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Lee",
+    "email": "emily.lee@example.com",
+    "username": "goldenfish209",
+    "password": "spurs1",
+    "invokedAt": "2025-03-15T09:46:39.617Z"
   }
 ]
