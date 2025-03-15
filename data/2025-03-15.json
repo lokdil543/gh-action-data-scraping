@@ -918,5 +918,13 @@
     "username": "smallbird400",
     "password": "alliance",
     "invokedAt": "2025-03-15T21:33:50.410Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Wood",
+    "email": "charlie.wood@example.com",
+    "username": "lazywolf101",
+    "password": "bananas",
+    "invokedAt": "2025-03-15T21:39:51.816Z"
   }
 ]
