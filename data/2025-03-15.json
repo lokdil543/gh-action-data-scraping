@@ -550,5 +550,13 @@
     "username": "angrymouse615",
     "password": "interest",
     "invokedAt": "2025-03-15T14:35:19.146Z"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Lynch",
+    "email": "bradley.lynch@example.com",
+    "username": "sadduck121",
+    "password": "anaconda",
+    "invokedAt": "2025-03-15T14:42:14.299Z"
   }
 ]
