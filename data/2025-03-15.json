@@ -654,5 +654,13 @@
     "username": "greengoose321",
     "password": "world",
     "invokedAt": "2025-03-15T16:36:30.434Z"
+  },
+  {
+    "firstName": "Topias",
+    "lastName": "Hamalainen",
+    "email": "topias.hamalainen@example.com",
+    "username": "beautifuldog179",
+    "password": "warlock",
+    "invokedAt": "2025-03-15T16:44:55.182Z"
   }
 ]
