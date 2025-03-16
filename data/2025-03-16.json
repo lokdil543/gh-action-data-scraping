@@ -318,5 +318,13 @@
     "username": "smallrabbit987",
     "password": "water1",
     "invokedAt": "2025-03-16T09:36:52.212Z"
+  },
+  {
+    "firstName": "Niclas",
+    "lastName": "Teigen",
+    "email": "niclas.teigen@example.com",
+    "username": "greengoose146",
+    "password": "flyer",
+    "invokedAt": "2025-03-16T09:42:40.543Z"
   }
 ]
