@@ -326,5 +326,13 @@
     "username": "greengoose146",
     "password": "flyer",
     "invokedAt": "2025-03-16T09:42:40.543Z"
+  },
+  {
+    "firstName": "Pilar",
+    "lastName": "Lorenzo",
+    "email": "pilar.lorenzo@example.com",
+    "username": "goldenfrog232",
+    "password": "admin",
+    "invokedAt": "2025-03-16T09:48:45.567Z"
   }
 ]
