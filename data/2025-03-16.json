@@ -646,5 +646,13 @@
     "username": "brownbear524",
     "password": "icehouse",
     "invokedAt": "2025-03-16T16:34:50.222Z"
+  },
+  {
+    "firstName": "Bernie",
+    "lastName": "Dijkhuis",
+    "email": "bernie.dijkhuis@example.com",
+    "username": "redbear994",
+    "password": "slammer",
+    "invokedAt": "2025-03-16T16:45:44.604Z"
   }
 ]
