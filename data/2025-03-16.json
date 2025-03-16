@@ -118,5 +118,13 @@
     "username": "brownwolf740",
     "password": "flex",
     "invokedAt": "2025-03-16T05:37:15.198Z"
+  },
+  {
+    "firstName": "Mathias",
+    "lastName": "Møller",
+    "email": "mathias.moller@example.com",
+    "username": "blackleopard274",
+    "password": "reason",
+    "invokedAt": "2025-03-16T05:43:05.098Z"
   }
 ]
