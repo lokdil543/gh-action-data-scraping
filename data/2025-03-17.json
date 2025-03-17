@@ -782,5 +782,13 @@
     "username": "greenbutterfly580",
     "password": "stormy",
     "invokedAt": "2025-03-17T21:26:01.714Z"
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Sørensen",
+    "email": "mikkel.sorensen@example.com",
+    "username": "greenfrog392",
+    "password": "please",
+    "invokedAt": "2025-03-17T21:33:38.955Z"
   }
 ]
