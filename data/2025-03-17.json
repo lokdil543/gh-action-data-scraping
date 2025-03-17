@@ -414,5 +414,13 @@
     "username": "bluepanda104",
     "password": "turnip",
     "invokedAt": "2025-03-17T12:56:36.683Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Méndez",
+    "email": "roberto.mendez@example.com",
+    "username": "sadduck402",
+    "password": "world",
+    "invokedAt": "2025-03-17T13:21:43.073Z"
   }
 ]
