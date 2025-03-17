@@ -838,5 +838,13 @@
     "username": "browncat516",
     "password": "ccccccc",
     "invokedAt": "2025-03-17T22:32:20.118Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Saari",
+    "email": "vaino.saari@example.com",
+    "username": "tinykoala480",
+    "password": "socrates",
+    "invokedAt": "2025-03-17T22:42:29.279Z"
   }
 ]
