@@ -726,5 +726,13 @@
     "username": "sadsnake338",
     "password": "erika",
     "invokedAt": "2025-03-17T20:08:14.301Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Madsen",
+    "email": "daniel.madsen@example.com",
+    "username": "crazygorilla338",
+    "password": "daewoo",
+    "invokedAt": "2025-03-17T20:28:27.247Z"
   }
 ]
