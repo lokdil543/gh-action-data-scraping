@@ -838,5 +838,13 @@
     "username": "redgorilla124",
     "password": "natalie",
     "invokedAt": "2025-03-18T22:30:37.149Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Williams",
+    "email": "emma.williams@example.com",
+    "username": "redgorilla804",
+    "password": "connect",
+    "invokedAt": "2025-03-18T22:40:26.089Z"
   }
 ]
