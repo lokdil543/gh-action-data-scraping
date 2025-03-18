@@ -638,5 +638,13 @@
     "username": "redduck244",
     "password": "pixies",
     "invokedAt": "2025-03-18T18:42:09.240Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Jones",
+    "email": "jack.jones@example.com",
+    "username": "crazybird496",
+    "password": "cancel",
+    "invokedAt": "2025-03-18T18:51:30.299Z"
   }
 ]
