@@ -318,5 +318,13 @@
     "username": "bluekoala456",
     "password": "ireland",
     "invokedAt": "2025-03-18T10:34:10.923Z"
+  },
+  {
+    "firstName": "Miguel Ángel",
+    "lastName": "Barela",
+    "email": "miguelangel.barela@example.com",
+    "username": "lazysnake381",
+    "password": "slappy",
+    "invokedAt": "2025-03-18T10:44:46.107Z"
   }
 ]
