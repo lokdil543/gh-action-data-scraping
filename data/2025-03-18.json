@@ -86,5 +86,13 @@
     "username": "silverbear262",
     "password": "spam",
     "invokedAt": "2025-03-18T04:53:27.173Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Dol",
+    "email": "luis.dol@example.com",
+    "username": "bigzebra409",
+    "password": "balloon",
+    "invokedAt": "2025-03-18T04:59:14.226Z"
   }
 ]
