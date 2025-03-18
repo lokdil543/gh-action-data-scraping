@@ -566,5 +566,13 @@
     "username": "brownpeacock690",
     "password": "block",
     "invokedAt": "2025-03-18T16:53:01.244Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Novak",
+    "email": "simon.novak@example.com",
+    "username": "beautifulfish703",
+    "password": "112233",
+    "invokedAt": "2025-03-18T16:58:51.402Z"
   }
 ]
