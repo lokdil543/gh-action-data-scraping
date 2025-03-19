@@ -750,5 +750,13 @@
     "username": "redfish488",
     "password": "opus",
     "invokedAt": "2025-03-19T21:00:10.871Z"
+  },
+  {
+    "firstName": "Jorben",
+    "lastName": "Van Veluw",
+    "email": "jorben.vanveluw@example.com",
+    "username": "ticklishdog822",
+    "password": "clovis",
+    "invokedAt": "2025-03-19T21:17:08.159Z"
   }
 ]
