@@ -182,5 +182,13 @@
     "username": "crazytiger231",
     "password": "chrome",
     "invokedAt": "2025-03-20T07:26:25.845Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Carpenter",
+    "email": "harry.carpenter@example.com",
+    "username": "sadfish531",
+    "password": "immortal",
+    "invokedAt": "2025-03-20T07:32:54.020Z"
   }
 ]
