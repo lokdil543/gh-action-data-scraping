@@ -470,5 +470,13 @@
     "username": "brownduck941",
     "password": "digital1",
     "invokedAt": "2025-03-20T14:10:01.329Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Webb",
+    "email": "jacob.webb@example.com",
+    "username": "happygoose305",
+    "password": "nemesis",
+    "invokedAt": "2025-03-20T14:31:43.225Z"
   }
 ]
