@@ -838,5 +838,13 @@
     "username": "blackbutterfly747",
     "password": "enter1",
     "invokedAt": "2025-03-20T22:14:30.023Z"
+  },
+  {
+    "firstName": "Rhona",
+    "lastName": "Struiksma",
+    "email": "rhona.struiksma@example.com",
+    "username": "brownmouse385",
+    "password": "bonsai",
+    "invokedAt": "2025-03-20T22:31:17.210Z"
   }
 ]
