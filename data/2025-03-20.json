@@ -798,5 +798,13 @@
     "username": "yellowpeacock810",
     "password": "island",
     "invokedAt": "2025-03-20T21:35:09.123Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "West",
+    "email": "phillip.west@example.com",
+    "username": "greenpanda268",
+    "password": "dallas",
+    "invokedAt": "2025-03-20T21:41:02.287Z"
   }
 ]
