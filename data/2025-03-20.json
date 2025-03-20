@@ -374,5 +374,13 @@
     "username": "crazyfrog324",
     "password": "carter",
     "invokedAt": "2025-03-20T11:30:43.093Z"
+  },
+  {
+    "firstName": "Dobrivoje",
+    "lastName": "Živadinović",
+    "email": "dobrivoje.zivadinovic@example.com",
+    "username": "bigfish364",
+    "password": "killbill",
+    "invokedAt": "2025-03-20T11:37:45.256Z"
   }
 ]
