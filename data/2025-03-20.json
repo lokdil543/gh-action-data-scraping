@@ -734,5 +734,13 @@
     "username": "lazydog620",
     "password": "jackson1",
     "invokedAt": "2025-03-20T20:15:33.809Z"
+  },
+  {
+    "firstName": "Hugh",
+    "lastName": "Bishop",
+    "email": "hugh.bishop@example.com",
+    "username": "bluefrog716",
+    "password": "pimpin",
+    "invokedAt": "2025-03-20T20:30:33.675Z"
   }
 ]
