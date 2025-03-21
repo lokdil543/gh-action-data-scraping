@@ -470,5 +470,13 @@
     "username": "redfish613",
     "password": "models",
     "invokedAt": "2025-03-21T13:59:28.268Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Mccoy",
+    "email": "ethan.mccoy@example.com",
+    "username": "brownostrich450",
+    "password": "wesley",
+    "invokedAt": "2025-03-21T14:16:20.290Z"
   }
 ]
