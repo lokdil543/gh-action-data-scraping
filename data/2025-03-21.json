@@ -790,5 +790,13 @@
     "username": "greenwolf637",
     "password": "command",
     "invokedAt": "2025-03-21T20:55:53.231Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Reid",
+    "email": "bob.reid@example.com",
+    "username": "brownostrich839",
+    "password": "phoebe",
+    "invokedAt": "2025-03-21T21:08:53.237Z"
   }
 ]
