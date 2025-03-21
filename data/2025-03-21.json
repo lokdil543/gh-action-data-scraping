@@ -878,5 +878,13 @@
     "username": "redduck264",
     "password": "pooter",
     "invokedAt": "2025-03-21T22:42:23.045Z"
+  },
+  {
+    "firstName": "Franck",
+    "lastName": "Van Esch",
+    "email": "franck.vanesch@example.com",
+    "username": "happytiger976",
+    "password": "gonzo",
+    "invokedAt": "2025-03-21T22:48:16.809Z"
   }
 ]
