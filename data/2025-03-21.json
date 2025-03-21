@@ -662,5 +662,13 @@
     "username": "bigduck247",
     "password": "monalisa",
     "invokedAt": "2025-03-21T18:47:39.947Z"
+  },
+  {
+    "firstName": "Charan",
+    "lastName": "Anand",
+    "email": "charan.anand@example.com",
+    "username": "greenelephant148",
+    "password": "adult",
+    "invokedAt": "2025-03-21T18:53:33.987Z"
   }
 ]
