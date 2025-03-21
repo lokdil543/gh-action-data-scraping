@@ -910,5 +910,13 @@
     "username": "happyduck782",
     "password": "holiday",
     "invokedAt": "2025-03-21T23:16:40.052Z"
+  },
+  {
+    "firstName": "Clara",
+    "lastName": "Guerin",
+    "email": "clara.guerin@example.com",
+    "username": "yellowpanda250",
+    "password": "journey",
+    "invokedAt": "2025-03-21T23:28:03.002Z"
   }
 ]
