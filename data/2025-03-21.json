@@ -638,5 +638,13 @@
     "username": "silverelephant885",
     "password": "lonesome",
     "invokedAt": "2025-03-21T17:55:42.220Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Bonnet",
+    "email": "leonard.bonnet@example.com",
+    "username": "bluegorilla264",
+    "password": "bumble",
+    "invokedAt": "2025-03-21T18:12:46.231Z"
   }
 ]
