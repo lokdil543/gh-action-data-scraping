@@ -446,5 +446,13 @@
     "username": "yellowpanda365",
     "password": "borders",
     "invokedAt": "2025-03-22T12:48:33.154Z"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Wheeler",
+    "email": "ken.wheeler@example.com",
+    "username": "reddog776",
+    "password": "beta",
+    "invokedAt": "2025-03-22T13:05:42.021Z"
   }
 ]
