@@ -398,5 +398,13 @@
     "username": "orangecat398",
     "password": "doors",
     "invokedAt": "2025-03-22T11:29:47.055Z"
+  },
+  {
+    "firstName": "Léandre",
+    "lastName": "Meunier",
+    "email": "leandre.meunier@example.com",
+    "username": "blackcat423",
+    "password": "latino",
+    "invokedAt": "2025-03-22T11:37:16.126Z"
   }
 ]
