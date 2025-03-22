@@ -670,5 +670,13 @@
     "username": "lazypanda574",
     "password": "indon",
     "invokedAt": "2025-03-22T17:26:54.883Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Wagner",
+    "email": "bob.wagner@example.com",
+    "username": "silvercat672",
+    "password": "treetop",
+    "invokedAt": "2025-03-22T17:33:51.174Z"
   }
 ]
