@@ -366,5 +366,13 @@
     "username": "whitebear889",
     "password": "ticket",
     "invokedAt": "2025-03-22T10:54:13.506Z"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Harcourt",
+    "email": "liam.harcourt@example.com",
+    "username": "heavyduck240",
+    "password": "muscle",
+    "invokedAt": "2025-03-22T11:00:00.944Z"
   }
 ]
