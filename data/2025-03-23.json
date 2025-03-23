@@ -134,5 +134,13 @@
     "username": "greengoose262",
     "password": "blizzard",
     "invokedAt": "2025-03-23T05:51:36.890Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Hall",
+    "email": "jake.hall@example.com",
+    "username": "brownfish698",
+    "password": "gidget",
+    "invokedAt": "2025-03-23T05:57:37.266Z"
   }
 ]
