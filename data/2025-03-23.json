@@ -942,5 +942,13 @@
     "username": "silverduck839",
     "password": "pictere",
     "invokedAt": "2025-03-23T22:17:57.913Z"
+  },
+  {
+    "firstName": "Nikolai",
+    "lastName": "Fagerås",
+    "email": "nikolai.fageras@example.com",
+    "username": "happyduck749",
+    "password": "triple",
+    "invokedAt": "2025-03-23T22:32:49.095Z"
   }
 ]
