@@ -150,5 +150,13 @@
     "username": "sadostrich570",
     "password": "charmed",
     "invokedAt": "2025-03-23T06:17:18.766Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Berberoğlu",
+    "email": "gokhan.berberoglu@example.com",
+    "username": "purplebird109",
+    "password": "express",
+    "invokedAt": "2025-03-23T06:37:40.048Z"
   }
 ]
