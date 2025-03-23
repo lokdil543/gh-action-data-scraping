@@ -502,5 +502,13 @@
     "username": "organicsnake602",
     "password": "deeper",
     "invokedAt": "2025-03-23T13:50:51.063Z"
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Mccoy",
+    "email": "barry.mccoy@example.com",
+    "username": "lazygoose117",
+    "password": "julian",
+    "invokedAt": "2025-03-23T13:56:35.067Z"
   }
 ]
