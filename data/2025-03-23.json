@@ -158,5 +158,13 @@
     "username": "purplebird109",
     "password": "express",
     "invokedAt": "2025-03-23T06:37:40.048Z"
+  },
+  {
+    "firstName": "Federico",
+    "lastName": "Longoria",
+    "email": "federico.longoria@example.com",
+    "username": "greenelephant173",
+    "password": "darren",
+    "invokedAt": "2025-03-23T06:46:59.105Z"
   }
 ]
