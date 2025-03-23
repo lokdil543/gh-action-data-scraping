@@ -998,5 +998,13 @@
     "username": "happyduck333",
     "password": "doggy",
     "invokedAt": "2025-03-23T23:30:49.523Z"
+  },
+  {
+    "firstName": "Edith",
+    "lastName": "Berhe",
+    "email": "edith.berhe@example.com",
+    "username": "organicduck610",
+    "password": "awesome",
+    "invokedAt": "2025-03-23T23:38:15.823Z"
   }
 ]
