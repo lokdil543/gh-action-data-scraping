@@ -462,5 +462,13 @@
     "username": "happygoose529",
     "password": "harmony",
     "invokedAt": "2025-03-23T12:57:13.328Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Hall",
+    "email": "roman.hall@example.com",
+    "username": "yellowgoose773",
+    "password": "slim",
+    "invokedAt": "2025-03-23T13:17:23.470Z"
   }
 ]
