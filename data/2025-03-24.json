@@ -502,5 +502,13 @@
     "username": "angrylion114",
     "password": "powers",
     "invokedAt": "2025-03-24T15:42:01.185Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Tekelioğlu",
+    "email": "efe.tekelioglu@example.com",
+    "username": "angrymouse402",
+    "password": "zxcvbn",
+    "invokedAt": "2025-03-24T15:48:09.166Z"
   }
 ]
