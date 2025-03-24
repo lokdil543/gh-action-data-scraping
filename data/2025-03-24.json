@@ -550,5 +550,13 @@
     "username": "goldentiger796",
     "password": "playboy2",
     "invokedAt": "2025-03-24T16:53:42.195Z"
+  },
+  {
+    "firstName": "Boris",
+    "lastName": "Vučetić",
+    "email": "boris.vucetic@example.com",
+    "username": "blacksnake269",
+    "password": "armstron",
+    "invokedAt": "2025-03-24T16:59:30.115Z"
   }
 ]
