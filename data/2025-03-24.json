@@ -878,5 +878,13 @@
     "username": "ticklishelephant713",
     "password": "dewalt",
     "invokedAt": "2025-03-24T23:39:19.170Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Hansen",
+    "email": "dwight.hansen@example.com",
+    "username": "bluedog448",
+    "password": "987654",
+    "invokedAt": "2025-03-24T23:45:09.327Z"
   }
 ]
