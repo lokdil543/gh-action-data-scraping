@@ -406,5 +406,13 @@
     "username": "lazydog970",
     "password": "kendall",
     "invokedAt": "2025-03-25T13:01:27.982Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Dufour",
+    "email": "robin.dufour@example.com",
+    "username": "bluedog935",
+    "password": "lowrider",
+    "invokedAt": "2025-03-25T13:30:41.221Z"
   }
 ]
