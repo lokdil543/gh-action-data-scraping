@@ -358,5 +358,13 @@
     "username": "ticklishpanda432",
     "password": "objects",
     "invokedAt": "2025-03-25T11:34:23.419Z"
+  },
+  {
+    "firstName": "Earl",
+    "lastName": "Fields",
+    "email": "earl.fields@example.com",
+    "username": "bigbutterfly187",
+    "password": "secret",
+    "invokedAt": "2025-03-25T11:40:22.401Z"
   }
 ]
