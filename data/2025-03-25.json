@@ -606,5 +606,13 @@
     "username": "blacktiger278",
     "password": "rovers",
     "invokedAt": "2025-03-25T18:13:56.200Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Zieger",
+    "email": "phillip.zieger@example.com",
+    "username": "angryelephant186",
+    "password": "jasmine",
+    "invokedAt": "2025-03-25T18:38:19.457Z"
   }
 ]
