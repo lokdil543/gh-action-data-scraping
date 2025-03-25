@@ -342,5 +342,13 @@
     "username": "brownpeacock416",
     "password": "oasis",
     "invokedAt": "2025-03-25T11:14:23.283Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Johnson",
+    "email": "noah.johnson@example.com",
+    "username": "beautifuldog288",
+    "password": "bogey",
+    "invokedAt": "2025-03-25T11:26:40.748Z"
   }
 ]
