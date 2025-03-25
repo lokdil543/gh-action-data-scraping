@@ -318,5 +318,13 @@
     "username": "smallfish812",
     "password": "1950",
     "invokedAt": "2025-03-25T10:47:44.908Z"
+  },
+  {
+    "firstName": "Oswaldo",
+    "lastName": "Mascareñas",
+    "email": "oswaldo.mascarenas@example.com",
+    "username": "heavybear596",
+    "password": "fudge",
+    "invokedAt": "2025-03-25T10:53:26.351Z"
   }
 ]
