@@ -838,5 +838,13 @@
     "username": "redelephant258",
     "password": "runaway",
     "invokedAt": "2025-03-26T22:47:21.415Z"
+  },
+  {
+    "firstName": "Elliot",
+    "lastName": "Douglas",
+    "email": "elliot.douglas@example.com",
+    "username": "bluecat230",
+    "password": "kirby",
+    "invokedAt": "2025-03-26T22:53:22.143Z"
   }
 ]
