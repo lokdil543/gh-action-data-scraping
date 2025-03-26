@@ -390,5 +390,13 @@
     "username": "bluetiger782",
     "password": "parola",
     "invokedAt": "2025-03-26T11:50:12.315Z"
+  },
+  {
+    "firstName": "Sammy",
+    "lastName": "Simpson",
+    "email": "sammy.simpson@example.com",
+    "username": "heavybutterfly383",
+    "password": "squerting",
+    "invokedAt": "2025-03-26T11:55:59.545Z"
   }
 ]
