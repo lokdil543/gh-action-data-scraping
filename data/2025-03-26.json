@@ -486,5 +486,13 @@
     "username": "blackfish693",
     "password": "boeing",
     "invokedAt": "2025-03-26T14:53:18.416Z"
+  },
+  {
+    "firstName": "Teerth",
+    "lastName": "Banerjee",
+    "email": "teerth.banerjee@example.com",
+    "username": "yellowfish756",
+    "password": "mantis",
+    "invokedAt": "2025-03-26T14:59:16.174Z"
   }
 ]
