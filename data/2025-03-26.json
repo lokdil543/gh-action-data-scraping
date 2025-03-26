@@ -718,5 +718,13 @@
     "username": "whitewolf301",
     "password": "broken",
     "invokedAt": "2025-03-26T20:21:42.212Z"
+  },
+  {
+    "firstName": "Jar",
+    "lastName": "Nguyen",
+    "email": "jar.nguyen@example.com",
+    "username": "goldenbutterfly303",
+    "password": "austin",
+    "invokedAt": "2025-03-26T20:34:43.388Z"
   }
 ]
