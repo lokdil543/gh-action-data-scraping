@@ -118,5 +118,13 @@
     "username": "greenrabbit273",
     "password": "sponge",
     "invokedAt": "2025-03-26T05:47:46.810Z"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Hansen",
+    "email": "william.hansen@example.com",
+    "username": "bluefish910",
+    "password": "wally",
+    "invokedAt": "2025-03-26T05:53:38.156Z"
   }
 ]
