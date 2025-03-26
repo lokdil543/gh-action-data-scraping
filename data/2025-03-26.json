@@ -422,5 +422,13 @@
     "username": "angryfish898",
     "password": "1223",
     "invokedAt": "2025-03-26T13:22:44.965Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Rogers",
+    "email": "norman.rogers@example.com",
+    "username": "yellowbird657",
+    "password": "harmony",
+    "invokedAt": "2025-03-26T13:40:31.483Z"
   }
 ]
