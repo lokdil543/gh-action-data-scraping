@@ -254,5 +254,13 @@
     "username": "blackrabbit508",
     "password": "sabres",
     "invokedAt": "2025-03-27T08:57:20.209Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Hart",
+    "email": "michael.hart@example.com",
+    "username": "whiterabbit100",
+    "password": "tower",
+    "invokedAt": "2025-03-27T09:14:34.039Z"
   }
 ]
