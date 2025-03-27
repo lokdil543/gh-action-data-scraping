@@ -230,5 +230,13 @@
     "username": "redelephant948",
     "password": "kansas",
     "invokedAt": "2025-03-27T08:25:25.800Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Jones",
+    "email": "robert.jones@example.com",
+    "username": "greengorilla396",
+    "password": "ghost",
+    "invokedAt": "2025-03-27T08:41:35.400Z"
   }
 ]
