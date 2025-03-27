@@ -350,5 +350,13 @@
     "username": "happysnake897",
     "password": "spike1",
     "invokedAt": "2025-03-27T11:13:38.787Z"
+  },
+  {
+    "firstName": "Paul-Heinz",
+    "lastName": "Fischbach",
+    "email": "paul-heinz.fischbach@example.com",
+    "username": "heavyleopard689",
+    "password": "service",
+    "invokedAt": "2025-03-27T11:25:12.232Z"
   }
 ]
