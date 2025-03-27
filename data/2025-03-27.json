@@ -278,5 +278,13 @@
     "username": "yellowfrog564",
     "password": "skyler",
     "invokedAt": "2025-03-27T09:42:12.689Z"
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Christiansen",
+    "email": "magnus.christiansen@example.com",
+    "username": "whitefrog603",
+    "password": "fugazi",
+    "invokedAt": "2025-03-27T09:48:02.959Z"
   }
 ]
