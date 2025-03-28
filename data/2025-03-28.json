@@ -822,5 +822,13 @@
     "username": "lazypeacock997",
     "password": "swedish",
     "invokedAt": "2025-03-28T22:18:01.101Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Kokko",
+    "email": "anton.kokko@example.com",
+    "username": "beautifulcat587",
+    "password": "flyer",
+    "invokedAt": "2025-03-28T22:31:59.592Z"
   }
 ]
