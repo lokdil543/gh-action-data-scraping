@@ -854,5 +854,13 @@
     "username": "greenelephant467",
     "password": "search",
     "invokedAt": "2025-03-28T22:53:07.412Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Newman",
+    "email": "susan.newman@example.com",
+    "username": "happybear968",
+    "password": "compaq",
+    "invokedAt": "2025-03-28T22:58:55.181Z"
   }
 ]
