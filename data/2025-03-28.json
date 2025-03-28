@@ -454,5 +454,13 @@
     "username": "lazypanda702",
     "password": "excite",
     "invokedAt": "2025-03-28T14:31:02.253Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Joly",
+    "email": "frank.joly@example.com",
+    "username": "tinyduck631",
+    "password": "paranoid",
+    "invokedAt": "2025-03-28T14:42:07.765Z"
   }
 ]
