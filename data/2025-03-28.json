@@ -614,5 +614,13 @@
     "username": "greenbear969",
     "password": "nick",
     "invokedAt": "2025-03-28T17:58:08.259Z"
+  },
+  {
+    "firstName": "Marcel",
+    "lastName": "Van Boggelen",
+    "email": "marcel.vanboggelen@example.com",
+    "username": "sadfish235",
+    "password": "photos",
+    "invokedAt": "2025-03-28T18:20:16.681Z"
   }
 ]
