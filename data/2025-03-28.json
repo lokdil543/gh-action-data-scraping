@@ -782,5 +782,13 @@
     "username": "heavybird248",
     "password": "colonel",
     "invokedAt": "2025-03-28T21:36:04.247Z"
+  },
+  {
+    "firstName": "Ferrer",
+    "lastName": "da Paz",
+    "email": "ferrer.dapaz@example.com",
+    "username": "crazydog498",
+    "password": "kenobi",
+    "invokedAt": "2025-03-28T21:41:58.314Z"
   }
 ]
