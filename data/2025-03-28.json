@@ -406,5 +406,13 @@
     "username": "blackduck455",
     "password": "shoes",
     "invokedAt": "2025-03-28T13:16:39.645Z"
+  },
+  {
+    "firstName": "Airton",
+    "lastName": "Souza",
+    "email": "airton.souza@example.com",
+    "username": "blacktiger602",
+    "password": "salomon",
+    "invokedAt": "2025-03-28T13:35:17.607Z"
   }
 ]
