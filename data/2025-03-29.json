@@ -566,5 +566,13 @@
     "username": "greenzebra330",
     "password": "lalakers",
     "invokedAt": "2025-03-29T15:37:05.338Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Jackson",
+    "email": "jake.jackson@example.com",
+    "username": "lazyostrich690",
+    "password": "terminal",
+    "invokedAt": "2025-03-29T15:43:03.937Z"
   }
 ]
