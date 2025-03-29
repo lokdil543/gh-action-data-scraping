@@ -758,5 +758,13 @@
     "username": "goldenbear604",
     "password": "whatup",
     "invokedAt": "2025-03-29T19:35:05.203Z"
+  },
+  {
+    "firstName": "Bror",
+    "lastName": "Liland",
+    "email": "bror.liland@example.com",
+    "username": "blackfish419",
+    "password": "spam",
+    "invokedAt": "2025-03-29T19:41:09.107Z"
   }
 ]
