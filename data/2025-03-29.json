@@ -870,5 +870,13 @@
     "username": "bigduck273",
     "password": "buffett",
     "invokedAt": "2025-03-29T21:35:04.342Z"
+  },
+  {
+    "firstName": "Thorbjørn",
+    "lastName": "Grønningsæter",
+    "email": "thorbjorn.gronningsaeter@example.com",
+    "username": "brownduck766",
+    "password": "222222",
+    "invokedAt": "2025-03-29T21:40:52.980Z"
   }
 ]
