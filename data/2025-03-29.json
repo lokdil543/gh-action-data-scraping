@@ -342,5 +342,13 @@
     "username": "bluebear975",
     "password": "zipper",
     "invokedAt": "2025-03-29T10:33:55.243Z"
+  },
+  {
+    "firstName": "Nedeljko",
+    "lastName": "Simonović",
+    "email": "nedeljko.simonovic@example.com",
+    "username": "bluebear311",
+    "password": "models",
+    "invokedAt": "2025-03-29T10:43:26.422Z"
   }
 ]
