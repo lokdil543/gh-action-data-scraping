@@ -470,5 +470,13 @@
     "username": "greenpeacock237",
     "password": "tonight",
     "invokedAt": "2025-03-29T13:38:04.632Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Christensen",
+    "email": "sebastian.christensen@example.com",
+    "username": "sadostrich242",
+    "password": "vector",
+    "invokedAt": "2025-03-29T13:43:55.242Z"
   }
 ]
