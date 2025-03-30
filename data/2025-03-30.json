@@ -446,5 +446,13 @@
     "username": "crazyfish360",
     "password": "caught",
     "invokedAt": "2025-03-30T13:11:32.163Z"
+  },
+  {
+    "firstName": "Vedat",
+    "lastName": "Balcı",
+    "email": "vedat.balci@example.com",
+    "username": "crazyladybug192",
+    "password": "jerky",
+    "invokedAt": "2025-03-30T13:29:43.062Z"
   }
 ]
