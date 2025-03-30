@@ -246,5 +246,13 @@
     "username": "yellowduck996",
     "password": "western",
     "invokedAt": "2025-03-30T08:44:34.065Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Moore",
+    "email": "joshua.moore@example.com",
+    "username": "bluekoala400",
+    "password": "robotech",
+    "invokedAt": "2025-03-30T08:50:29.606Z"
   }
 ]
