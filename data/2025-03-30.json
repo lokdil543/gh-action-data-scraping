@@ -430,5 +430,13 @@
     "username": "purplebird608",
     "password": "dragons",
     "invokedAt": "2025-03-30T12:15:51.965Z"
+  },
+  {
+    "firstName": "Viktor",
+    "lastName": "Roche",
+    "email": "viktor.roche@example.com",
+    "username": "silverdog598",
+    "password": "testerer",
+    "invokedAt": "2025-03-30T12:51:02.037Z"
   }
 ]
