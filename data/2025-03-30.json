@@ -686,5 +686,13 @@
     "username": "lazymouse163",
     "password": "chef",
     "invokedAt": "2025-03-30T18:00:20.241Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Kasapoğlu",
+    "email": "mustafa.kasapoglu@example.com",
+    "username": "crazykoala330",
+    "password": "qwert123",
+    "invokedAt": "2025-03-30T18:24:47.669Z"
   }
 ]
