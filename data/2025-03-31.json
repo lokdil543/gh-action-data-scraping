@@ -318,5 +318,13 @@
     "username": "goldenmouse309",
     "password": "myself",
     "invokedAt": "2025-03-31T10:58:06.409Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Lambert",
+    "email": "leonard.lambert@example.com",
+    "username": "brownrabbit191",
+    "password": "damage",
+    "invokedAt": "2025-03-31T11:12:27.288Z"
   }
 ]
