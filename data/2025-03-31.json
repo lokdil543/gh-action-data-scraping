@@ -54,5 +54,13 @@
     "username": "bigfish499",
     "password": "gizmodo",
     "invokedAt": "2025-03-31T04:33:52.159Z"
+  },
+  {
+    "firstName": "Lærke",
+    "lastName": "Pedersen",
+    "email": "laerke.pedersen@example.com",
+    "username": "bigduck517",
+    "password": "good",
+    "invokedAt": "2025-03-31T04:45:33.494Z"
   }
 ]
