@@ -734,5 +734,13 @@
     "username": "angrycat448",
     "password": "nymets",
     "invokedAt": "2025-03-31T21:14:14.775Z"
+  },
+  {
+    "firstName": "Malomir",
+    "lastName": "Porovskiy",
+    "email": "malomir.porovskiy@example.com",
+    "username": "orangecat199",
+    "password": "postman",
+    "invokedAt": "2025-03-31T21:27:59.958Z"
   }
 ]
