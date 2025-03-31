@@ -854,5 +854,13 @@
     "username": "bluerabbit965",
     "password": "isaac",
     "invokedAt": "2025-03-31T23:40:45.210Z"
+  },
+  {
+    "firstName": "Leon",
+    "lastName": "Mercier",
+    "email": "leon.mercier@example.com",
+    "username": "beautifultiger108",
+    "password": "delete",
+    "invokedAt": "2025-03-31T23:46:35.273Z"
   }
 ]
