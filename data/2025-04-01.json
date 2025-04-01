@@ -846,5 +846,13 @@
     "username": "bigfish636",
     "password": "parrot",
     "invokedAt": "2025-04-01T23:53:40.113Z"
+  },
+  {
+    "firstName": "Melike",
+    "lastName": "Çapanoğlu",
+    "email": "melike.capanoglu@example.com",
+    "username": "sadsnake359",
+    "password": "dork",
+    "invokedAt": "2025-04-01T23:59:28.298Z"
   }
 ]
