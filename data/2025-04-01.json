@@ -246,5 +246,13 @@
     "username": "smallduck751",
     "password": "bordeaux",
     "invokedAt": "2025-04-01T09:43:04.350Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Da Silva",
+    "email": "roberto.dasilva@example.com",
+    "username": "angryswan372",
+    "password": "auto",
+    "invokedAt": "2025-04-01T09:49:01.060Z"
   }
 ]
