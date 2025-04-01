@@ -790,5 +790,13 @@
     "username": "silverfish506",
     "password": "strange",
     "invokedAt": "2025-04-01T22:49:30.298Z"
+  },
+  {
+    "firstName": "María",
+    "lastName": "Aguilar",
+    "email": "maria.aguilar@example.com",
+    "username": "bigelephant944",
+    "password": "bond",
+    "invokedAt": "2025-04-01T22:55:20.527Z"
   }
 ]
