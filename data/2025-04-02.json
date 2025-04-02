@@ -478,5 +478,13 @@
     "username": "heavybird279",
     "password": "boris",
     "invokedAt": "2025-04-02T15:15:20.334Z"
+  },
+  {
+    "firstName": "Zora",
+    "lastName": "Ivančević",
+    "email": "zora.ivancevic@example.com",
+    "username": "happyostrich705",
+    "password": "postman",
+    "invokedAt": "2025-04-02T15:32:34.233Z"
   }
 ]
