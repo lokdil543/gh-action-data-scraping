@@ -126,5 +126,13 @@
     "username": "tinybird115",
     "password": "westside",
     "invokedAt": "2025-04-02T06:17:07.134Z"
+  },
+  {
+    "firstName": "Gata",
+    "lastName": "da Luz",
+    "email": "gata.daluz@example.com",
+    "username": "sadrabbit980",
+    "password": "spam",
+    "invokedAt": "2025-04-02T06:41:37.227Z"
   }
 ]
