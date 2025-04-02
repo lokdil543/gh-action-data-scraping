@@ -702,5 +702,13 @@
     "username": "whitefish640",
     "password": "sergeant",
     "invokedAt": "2025-04-02T20:33:47.082Z"
+  },
+  {
+    "firstName": "Nanna",
+    "lastName": "Christiansen",
+    "email": "nanna.christiansen@example.com",
+    "username": "blackbear199",
+    "password": "protect",
+    "invokedAt": "2025-04-02T20:43:23.059Z"
   }
 ]
