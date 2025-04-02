@@ -254,5 +254,13 @@
     "username": "redfish848",
     "password": "fdsa",
     "invokedAt": "2025-04-02T09:36:30.165Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Lavigne",
+    "email": "felix.lavigne@example.com",
+    "username": "silverfish450",
+    "password": "madman",
+    "invokedAt": "2025-04-02T09:44:54.861Z"
   }
 ]
