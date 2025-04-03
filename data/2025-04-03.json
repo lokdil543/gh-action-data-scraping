@@ -718,5 +718,13 @@
     "username": "browntiger273",
     "password": "blades",
     "invokedAt": "2025-04-03T20:42:37.722Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Bertrand",
+    "email": "emile.bertrand@example.com",
+    "username": "goldenpeacock407",
+    "password": "5678",
+    "invokedAt": "2025-04-03T20:48:43.349Z"
   }
 ]
