@@ -838,5 +838,13 @@
     "username": "redfrog488",
     "password": "trustme",
     "invokedAt": "2025-04-03T22:57:51.215Z"
+  },
+  {
+    "firstName": "Ramón",
+    "lastName": "Roque",
+    "email": "ramon.roque@example.com",
+    "username": "smallcat966",
+    "password": "beaver",
+    "invokedAt": "2025-04-03T23:14:09.781Z"
   }
 ]
