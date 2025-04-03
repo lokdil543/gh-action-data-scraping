@@ -830,5 +830,13 @@
     "username": "yellowladybug515",
     "password": "bearcats",
     "invokedAt": "2025-04-03T22:52:01.229Z"
+  },
+  {
+    "firstName": "Thea",
+    "lastName": "Andersen",
+    "email": "thea.andersen@example.com",
+    "username": "redfrog488",
+    "password": "trustme",
+    "invokedAt": "2025-04-03T22:57:51.215Z"
   }
 ]
