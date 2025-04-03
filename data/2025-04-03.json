@@ -606,5 +606,13 @@
     "username": "happyduck765",
     "password": "joe123",
     "invokedAt": "2025-04-03T18:16:48.204Z"
+  },
+  {
+    "firstName": "Inessa",
+    "lastName": "Silveira",
+    "email": "inessa.silveira@example.com",
+    "username": "bigpanda522",
+    "password": "speaker",
+    "invokedAt": "2025-04-03T18:40:42.688Z"
   }
 ]
