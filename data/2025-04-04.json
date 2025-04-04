@@ -702,5 +702,13 @@
     "username": "whitedog453",
     "password": "sonja",
     "invokedAt": "2025-04-04T20:15:30.565Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Christensen",
+    "email": "daniel.christensen@example.com",
+    "username": "blackfrog784",
+    "password": "sonja",
+    "invokedAt": "2025-04-04T20:30:53.525Z"
   }
 ]
