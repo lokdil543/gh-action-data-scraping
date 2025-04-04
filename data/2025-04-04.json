@@ -718,5 +718,13 @@
     "username": "silverfrog206",
     "password": "bob123",
     "invokedAt": "2025-04-04T20:40:23.411Z"
+  },
+  {
+    "firstName": "Aurora",
+    "lastName": "Walker",
+    "email": "aurora.walker@example.com",
+    "username": "yellowrabbit509",
+    "password": "kasper",
+    "invokedAt": "2025-04-04T20:46:11.346Z"
   }
 ]
