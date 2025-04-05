@@ -758,5 +758,13 @@
     "username": "yellowdog389",
     "password": "gambit",
     "invokedAt": "2025-04-05T19:19:20.150Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Gaillard",
+    "email": "robin.gaillard@example.com",
+    "username": "greenbear453",
+    "password": "fiddle",
+    "invokedAt": "2025-04-05T19:25:16.301Z"
   }
 ]
