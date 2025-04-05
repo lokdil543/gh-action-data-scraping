@@ -430,5 +430,13 @@
     "username": "lazybear458",
     "password": "bigone",
     "invokedAt": "2025-04-05T11:54:26.418Z"
+  },
+  {
+    "firstName": "Mesut",
+    "lastName": "Siepmann",
+    "email": "mesut.siepmann@example.com",
+    "username": "tinyfish982",
+    "password": "bigman",
+    "invokedAt": "2025-04-05T12:00:15.323Z"
   }
 ]
