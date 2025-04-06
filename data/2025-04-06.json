@@ -406,5 +406,13 @@
     "username": "orangezebra878",
     "password": "loose",
     "invokedAt": "2025-04-06T11:47:30.349Z"
+  },
+  {
+    "firstName": "Theodore",
+    "lastName": "Bjorøy",
+    "email": "theodore.bjoroy@example.com",
+    "username": "greenwolf486",
+    "password": "engineer",
+    "invokedAt": "2025-04-06T11:53:17.318Z"
   }
 ]
