@@ -846,5 +846,13 @@
     "username": "crazytiger701",
     "password": "clancy",
     "invokedAt": "2025-04-06T21:12:38.209Z"
+  },
+  {
+    "firstName": "Lily",
+    "lastName": "Picard",
+    "email": "lily.picard@example.com",
+    "username": "lazyduck148",
+    "password": "wizards",
+    "invokedAt": "2025-04-06T21:26:18.229Z"
   }
 ]
