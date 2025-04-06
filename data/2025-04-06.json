@@ -246,5 +246,13 @@
     "username": "blackfrog992",
     "password": "hello1",
     "invokedAt": "2025-04-06T08:47:25.108Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Ma",
+    "email": "maxime.ma@example.com",
+    "username": "crazyduck833",
+    "password": "heineken",
+    "invokedAt": "2025-04-06T08:53:19.059Z"
   }
 ]
