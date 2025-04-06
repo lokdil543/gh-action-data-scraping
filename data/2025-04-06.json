@@ -302,5 +302,13 @@
     "username": "yellowtiger910",
     "password": "bucket",
     "invokedAt": "2025-04-06T09:48:57.512Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Turner",
+    "email": "hugo.turner@example.com",
+    "username": "greenmeercat587",
+    "password": "brother",
+    "invokedAt": "2025-04-06T09:54:47.255Z"
   }
 ]
