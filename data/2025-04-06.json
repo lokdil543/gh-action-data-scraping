@@ -366,5 +366,13 @@
     "username": "orangeduck361",
     "password": "messiah",
     "invokedAt": "2025-04-06T11:11:32.006Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Rasmussen",
+    "email": "victor.rasmussen@example.com",
+    "username": "whitebutterfly223",
+    "password": "whiteout",
+    "invokedAt": "2025-04-06T11:22:44.144Z"
   }
 ]
