@@ -294,5 +294,13 @@
     "username": "purplekoala898",
     "password": "seattle",
     "invokedAt": "2025-04-06T09:43:09.123Z"
+  },
+  {
+    "firstName": "Justinus",
+    "lastName": "Van Emst",
+    "email": "justinus.vanemst@example.com",
+    "username": "yellowtiger910",
+    "password": "bucket",
+    "invokedAt": "2025-04-06T09:48:57.512Z"
   }
 ]
