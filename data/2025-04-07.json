@@ -686,5 +686,13 @@
     "username": "brownkoala659",
     "password": "cooldude",
     "invokedAt": "2025-04-07T20:30:05.390Z"
+  },
+  {
+    "firstName": "Mladen",
+    "lastName": "Ivanić",
+    "email": "mladen.ivanic@example.com",
+    "username": "silverdog668",
+    "password": "alice1",
+    "invokedAt": "2025-04-07T20:40:43.382Z"
   }
 ]
