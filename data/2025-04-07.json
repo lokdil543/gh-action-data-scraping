@@ -54,5 +54,13 @@
     "username": "heavymeercat136",
     "password": "change",
     "invokedAt": "2025-04-07T04:32:42.477Z"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "da Rocha",
+    "email": "pedro.darocha@example.com",
+    "username": "silverswan484",
+    "password": "woofer",
+    "invokedAt": "2025-04-07T04:45:11.756Z"
   }
 ]
