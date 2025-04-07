@@ -718,5 +718,13 @@
     "username": "silverbear559",
     "password": "testtest",
     "invokedAt": "2025-04-07T20:58:44.236Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Gamboa",
+    "email": "jorge.gamboa@example.com",
+    "username": "lazyfish195",
+    "password": "vibrate",
+    "invokedAt": "2025-04-07T21:15:11.968Z"
   }
 ]
