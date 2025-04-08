@@ -742,5 +742,13 @@
     "username": "heavyduck481",
     "password": "lynn",
     "invokedAt": "2025-04-08T21:28:57.662Z"
+  },
+  {
+    "firstName": "Vujadin",
+    "lastName": "Jovanović",
+    "email": "vujadin.jovanovic@example.com",
+    "username": "heavybear297",
+    "password": "something",
+    "invokedAt": "2025-04-08T21:37:32.540Z"
   }
 ]
