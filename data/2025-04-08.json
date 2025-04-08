@@ -494,5 +494,13 @@
     "username": "sadostrich135",
     "password": "753951",
     "invokedAt": "2025-04-08T15:44:31.025Z"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Johnson",
+    "email": "joseph.johnson@example.com",
+    "username": "heavytiger386",
+    "password": "blizzard",
+    "invokedAt": "2025-04-08T15:50:39.270Z"
   }
 ]
