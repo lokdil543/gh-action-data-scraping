@@ -638,5 +638,13 @@
     "username": "yellowwolf386",
     "password": "mohawk",
     "invokedAt": "2025-04-08T19:24:32.656Z"
+  },
+  {
+    "firstName": "Phillip",
+    "lastName": "Turner",
+    "email": "phillip.turner@example.com",
+    "username": "redgoose337",
+    "password": "canucks",
+    "invokedAt": "2025-04-08T19:30:22.297Z"
   }
 ]
