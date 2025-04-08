@@ -286,5 +286,13 @@
     "username": "lazycat304",
     "password": "philly",
     "invokedAt": "2025-04-08T09:55:13.551Z"
+  },
+  {
+    "firstName": "Dag",
+    "lastName": "Schjelderup",
+    "email": "dag.schjelderup@example.com",
+    "username": "bluemouse103",
+    "password": "vanguard",
+    "invokedAt": "2025-04-08T10:10:12.633Z"
   }
 ]
