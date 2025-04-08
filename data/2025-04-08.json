@@ -606,5 +606,13 @@
     "username": "ticklishpanda968",
     "password": "twiggy",
     "invokedAt": "2025-04-08T18:42:19.751Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Wang",
+    "email": "john.wang@example.com",
+    "username": "happyzebra163",
+    "password": "fredfred",
+    "invokedAt": "2025-04-08T18:52:35.559Z"
   }
 ]
