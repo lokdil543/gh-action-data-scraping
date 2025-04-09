@@ -766,5 +766,13 @@
     "username": "organictiger300",
     "password": "mouser",
     "invokedAt": "2025-04-09T22:39:23.427Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Garrett",
+    "email": "dave.garrett@example.com",
+    "username": "whitefrog622",
+    "password": "pumper",
+    "invokedAt": "2025-04-09T22:45:21.256Z"
   }
 ]
