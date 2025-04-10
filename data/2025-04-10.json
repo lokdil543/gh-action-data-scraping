@@ -702,5 +702,13 @@
     "username": "browngoose402",
     "password": "trust",
     "invokedAt": "2025-04-10T20:34:31.650Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Jarvinen",
+    "email": "viljami.jarvinen@example.com",
+    "username": "crazyswan700",
+    "password": "finish",
+    "invokedAt": "2025-04-10T20:43:27.125Z"
   }
 ]
