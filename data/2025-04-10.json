@@ -198,5 +198,13 @@
     "username": "orangeleopard389",
     "password": "dianne",
     "invokedAt": "2025-04-10T07:55:46.739Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Chow",
+    "email": "simon.chow@example.com",
+    "username": "whiteduck696",
+    "password": "warlock",
+    "invokedAt": "2025-04-10T08:13:38.205Z"
   }
 ]
