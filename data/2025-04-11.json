@@ -638,5 +638,13 @@
     "username": "organickoala584",
     "password": "deng",
     "invokedAt": "2025-04-11T19:08:16.176Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Bélanger",
+    "email": "adam.belanger@example.com",
+    "username": "tinyduck230",
+    "password": "intruder",
+    "invokedAt": "2025-04-11T19:21:47.398Z"
   }
 ]
