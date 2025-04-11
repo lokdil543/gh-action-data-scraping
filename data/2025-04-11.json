@@ -358,5 +358,13 @@
     "username": "yellowfish414",
     "password": "yyyyyyy",
     "invokedAt": "2025-04-11T11:38:34.384Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Olsen",
+    "email": "marie.olsen@example.com",
+    "username": "angryrabbit986",
+    "password": "picard",
+    "invokedAt": "2025-04-11T11:44:31.147Z"
   }
 ]
