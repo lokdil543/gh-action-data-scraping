@@ -414,5 +414,13 @@
     "username": "brownpeacock483",
     "password": "crimson",
     "invokedAt": "2025-04-12T11:46:04.384Z"
+  },
+  {
+    "firstName": "Heinz-Werner",
+    "lastName": "Knorr",
+    "email": "heinz-werner.knorr@example.com",
+    "username": "crazykoala621",
+    "password": "active",
+    "invokedAt": "2025-04-12T11:52:05.788Z"
   }
 ]
