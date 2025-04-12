@@ -206,5 +206,13 @@
     "username": "happyduck114",
     "password": "magic1",
     "invokedAt": "2025-04-12T07:40:02.302Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Yorulmaz",
+    "email": "kenan.yorulmaz@example.com",
+    "username": "whitemeercat301",
+    "password": "word",
+    "invokedAt": "2025-04-12T07:46:03.618Z"
   }
 ]
