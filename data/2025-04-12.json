@@ -318,5 +318,13 @@
     "username": "yellowfish707",
     "password": "archer",
     "invokedAt": "2025-04-12T09:56:13.191Z"
+  },
+  {
+    "firstName": "Zack",
+    "lastName": "Taylor",
+    "email": "zack.taylor@example.com",
+    "username": "sadbird632",
+    "password": "pinball",
+    "invokedAt": "2025-04-12T10:10:03.101Z"
   }
 ]
