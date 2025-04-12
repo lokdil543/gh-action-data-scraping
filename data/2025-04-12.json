@@ -838,5 +838,13 @@
     "username": "angrytiger764",
     "password": "anarchy",
     "invokedAt": "2025-04-12T20:55:24.877Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Fowler",
+    "email": "tom.fowler@example.com",
+    "username": "greenpanda146",
+    "password": "samm",
+    "invokedAt": "2025-04-12T21:07:11.160Z"
   }
 ]
