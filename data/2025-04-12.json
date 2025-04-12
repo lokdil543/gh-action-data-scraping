@@ -926,5 +926,13 @@
     "username": "bigzebra703",
     "password": "vader1",
     "invokedAt": "2025-04-12T22:41:17.133Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Koskinen",
+    "email": "arttu.koskinen@example.com",
+    "username": "angrygoose307",
+    "password": "goodboy",
+    "invokedAt": "2025-04-12T22:47:04.291Z"
   }
 ]
