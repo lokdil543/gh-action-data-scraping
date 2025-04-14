@@ -830,5 +830,13 @@
     "username": "organictiger178",
     "password": "topdog",
     "invokedAt": "2025-04-14T23:36:03.533Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Andersen",
+    "email": "daniel.andersen@example.com",
+    "username": "ticklishfrog967",
+    "password": "pebbles",
+    "invokedAt": "2025-04-14T23:42:54.587Z"
   }
 ]
