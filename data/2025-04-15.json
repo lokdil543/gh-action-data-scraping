@@ -854,5 +854,13 @@
     "username": "bluemeercat172",
     "password": "hungry",
     "invokedAt": "2025-04-15T23:53:34.488Z"
+  },
+  {
+    "firstName": "Halvard",
+    "lastName": "Rakvåg",
+    "email": "halvard.rakvag@example.com",
+    "username": "crazyduck730",
+    "password": "ledzep",
+    "invokedAt": "2025-04-15T23:59:24.388Z"
   }
 ]
