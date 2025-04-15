@@ -118,5 +118,13 @@
     "username": "yellowleopard245",
     "password": "secrets",
     "invokedAt": "2025-04-15T05:53:44.049Z"
+  },
+  {
+    "firstName": "Iva",
+    "lastName": "Ćirić",
+    "email": "iva.ciric@example.com",
+    "username": "blueladybug527",
+    "password": "jeep",
+    "invokedAt": "2025-04-15T05:59:36.699Z"
   }
 ]
