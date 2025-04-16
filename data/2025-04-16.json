@@ -814,5 +814,13 @@
     "username": "silverbear500",
     "password": "megapass",
     "invokedAt": "2025-04-16T23:16:11.575Z"
+  },
+  {
+    "firstName": "Wyatt",
+    "lastName": "Shaw",
+    "email": "wyatt.shaw@example.com",
+    "username": "blackbutterfly119",
+    "password": "airport",
+    "invokedAt": "2025-04-16T23:28:40.202Z"
   }
 ]
