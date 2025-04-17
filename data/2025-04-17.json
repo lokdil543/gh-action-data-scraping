@@ -798,5 +798,13 @@
     "username": "bluetiger335",
     "password": "clint",
     "invokedAt": "2025-04-17T22:32:34.211Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Jørgensen",
+    "email": "valdemar.jorgensen@example.com",
+    "username": "greendog959",
+    "password": "solitude",
+    "invokedAt": "2025-04-17T22:42:39.232Z"
   }
 ]
