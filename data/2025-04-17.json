@@ -838,5 +838,13 @@
     "username": "redswan193",
     "password": "ladybug",
     "invokedAt": "2025-04-17T23:18:04.190Z"
+  },
+  {
+    "firstName": "Ángel",
+    "lastName": "González",
+    "email": "angel.gonzalez@example.com",
+    "username": "browncat318",
+    "password": "showme",
+    "invokedAt": "2025-04-17T23:30:15.138Z"
   }
 ]
