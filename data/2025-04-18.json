@@ -278,5 +278,13 @@
     "username": "happyelephant452",
     "password": "oooooooo",
     "invokedAt": "2025-04-18T09:48:51.442Z"
+  },
+  {
+    "firstName": "Lee",
+    "lastName": "Jackson",
+    "email": "lee.jackson@example.com",
+    "username": "silverostrich512",
+    "password": "wildcard",
+    "invokedAt": "2025-04-18T09:54:37.493Z"
   }
 ]
