@@ -342,5 +342,13 @@
     "username": "purplezebra258",
     "password": "peaches1",
     "invokedAt": "2025-04-19T10:33:42.284Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Martin",
+    "email": "oliver.martin@example.com",
+    "username": "beautifulmeercat170",
+    "password": "&amp",
+    "invokedAt": "2025-04-19T10:42:20.417Z"
   }
 ]
