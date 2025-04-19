@@ -382,5 +382,13 @@
     "username": "whitebird233",
     "password": "asdf12",
     "invokedAt": "2025-04-19T11:15:18.325Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Chen",
+    "email": "jordan.chen@example.com",
+    "username": "tinycat181",
+    "password": "julio",
+    "invokedAt": "2025-04-19T11:25:10.572Z"
   }
 ]
