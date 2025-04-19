@@ -750,5 +750,13 @@
     "username": "bigbutterfly317",
     "password": "smith",
     "invokedAt": "2025-04-19T19:28:04.371Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Morin",
+    "email": "dan.morin@example.com",
+    "username": "redpanda692",
+    "password": "today",
+    "invokedAt": "2025-04-19T19:35:24.999Z"
   }
 ]
