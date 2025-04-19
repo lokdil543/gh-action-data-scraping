@@ -358,5 +358,13 @@
     "username": "crazyostrich334",
     "password": "duncan",
     "invokedAt": "2025-04-19T10:48:22.251Z"
+  },
+  {
+    "firstName": "Julien",
+    "lastName": "Faure",
+    "email": "julien.faure@example.com",
+    "username": "bigduck603",
+    "password": "babe",
+    "invokedAt": "2025-04-19T10:54:11.481Z"
   }
 ]
