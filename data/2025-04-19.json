@@ -758,5 +758,13 @@
     "username": "redpanda692",
     "password": "today",
     "invokedAt": "2025-04-19T19:35:24.999Z"
+  },
+  {
+    "firstName": "Cathy",
+    "lastName": "Reed",
+    "email": "cathy.reed@example.com",
+    "username": "heavyswan642",
+    "password": "woof",
+    "invokedAt": "2025-04-19T19:41:17.137Z"
   }
 ]
