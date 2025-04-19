@@ -94,5 +94,13 @@
     "username": "heavyrabbit396",
     "password": "racing",
     "invokedAt": "2025-04-19T05:11:10.348Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Martin",
+    "email": "tom.martin@example.com",
+    "username": "brownelephant320",
+    "password": "stealth",
+    "invokedAt": "2025-04-19T05:31:17.273Z"
   }
 ]
