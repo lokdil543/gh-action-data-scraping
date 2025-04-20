@@ -190,5 +190,13 @@
     "username": "sadpeacock375",
     "password": "thing",
     "invokedAt": "2025-04-20T07:40:16.698Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Christiansen",
+    "email": "anna.christiansen@example.com",
+    "username": "blueostrich498",
+    "password": "airplane",
+    "invokedAt": "2025-04-20T07:46:16.452Z"
   }
 ]
