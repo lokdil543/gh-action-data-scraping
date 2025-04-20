@@ -950,5 +950,13 @@
     "username": "goldenpanda288",
     "password": "experience",
     "invokedAt": "2025-04-20T23:48:21.972Z"
+  },
+  {
+    "firstName": "Janko",
+    "lastName": "Van der Woude",
+    "email": "janko.vanderwoude@example.com",
+    "username": "redfrog965",
+    "password": "hardware",
+    "invokedAt": "2025-04-20T23:54:17.726Z"
   }
 ]
