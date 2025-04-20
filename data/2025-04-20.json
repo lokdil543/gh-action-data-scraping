@@ -198,5 +198,13 @@
     "username": "blueostrich498",
     "password": "airplane",
     "invokedAt": "2025-04-20T07:46:16.452Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Andersen",
+    "email": "lea.andersen@example.com",
+    "username": "saddog976",
+    "password": "hairy",
+    "invokedAt": "2025-04-20T07:52:13.147Z"
   }
 ]
