@@ -342,5 +342,13 @@
     "username": "lazyzebra223",
     "password": "junior",
     "invokedAt": "2025-04-22T11:41:09.107Z"
+  },
+  {
+    "firstName": "Gaspard",
+    "lastName": "Picard",
+    "email": "gaspard.picard@example.com",
+    "username": "smallkoala967",
+    "password": "thekid",
+    "invokedAt": "2025-04-22T11:47:01.392Z"
   }
 ]
