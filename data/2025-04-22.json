@@ -142,5 +142,13 @@
     "username": "sadpeacock988",
     "password": "weezer",
     "invokedAt": "2025-04-22T06:53:06.168Z"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Brooks",
+    "email": "leonard.brooks@example.com",
+    "username": "heavydog702",
+    "password": "sauron",
+    "invokedAt": "2025-04-22T06:58:57.343Z"
   }
 ]
