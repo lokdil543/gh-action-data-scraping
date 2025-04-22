@@ -822,5 +822,13 @@
     "username": "smallswan460",
     "password": "topcat",
     "invokedAt": "2025-04-22T23:29:30.194Z"
+  },
+  {
+    "firstName": "Johannes",
+    "lastName": "Ngo",
+    "email": "johannes.ngo@example.com",
+    "username": "smallduck523",
+    "password": "genesis",
+    "invokedAt": "2025-04-22T23:38:23.444Z"
   }
 ]
