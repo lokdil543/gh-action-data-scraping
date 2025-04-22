@@ -766,5 +766,13 @@
     "username": "bigdog545",
     "password": "dragons",
     "invokedAt": "2025-04-22T22:10:06.483Z"
+  },
+  {
+    "firstName": "Pallavi",
+    "lastName": "Nair",
+    "email": "pallavi.nair@example.com",
+    "username": "purplegorilla104",
+    "password": "imation",
+    "invokedAt": "2025-04-22T22:30:51.125Z"
   }
 ]
