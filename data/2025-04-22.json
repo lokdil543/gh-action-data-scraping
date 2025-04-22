@@ -318,5 +318,13 @@
     "username": "orangebear910",
     "password": "hal9000",
     "invokedAt": "2025-04-22T11:12:03.011Z"
+  },
+  {
+    "firstName": "Dragiša",
+    "lastName": "Katanić",
+    "email": "dragisa.katanic@example.com",
+    "username": "smalldog899",
+    "password": "strife",
+    "invokedAt": "2025-04-22T11:26:46.495Z"
   }
 ]
