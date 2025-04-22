@@ -582,5 +582,13 @@
     "username": "tinypanda792",
     "password": "aquarius",
     "invokedAt": "2025-04-22T18:20:30.625Z"
+  },
+  {
+    "firstName": "Mathieu",
+    "lastName": "Mercier",
+    "email": "mathieu.mercier@example.com",
+    "username": "bigpeacock224",
+    "password": "anton",
+    "invokedAt": "2025-04-22T18:42:34.386Z"
   }
 ]
