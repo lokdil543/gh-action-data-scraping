@@ -614,5 +614,13 @@
     "username": "tinytiger840",
     "password": "football",
     "invokedAt": "2025-04-23T19:38:42.160Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Peters",
+    "email": "jon.peters@example.com",
+    "username": "heavyfrog509",
+    "password": "change",
+    "invokedAt": "2025-04-23T19:44:30.501Z"
   }
 ]
