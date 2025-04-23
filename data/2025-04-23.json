@@ -302,5 +302,13 @@
     "username": "brownwolf919",
     "password": "india",
     "invokedAt": "2025-04-23T11:00:18.632Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Semerenko",
+    "email": "anton.semerenko@example.com",
+    "username": "orangeduck117",
+    "password": "generic",
+    "invokedAt": "2025-04-23T11:17:02.283Z"
   }
 ]
