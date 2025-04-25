@@ -542,5 +542,13 @@
     "username": "silverduck400",
     "password": "ncc1701a",
     "invokedAt": "2025-04-25T17:00:15.235Z"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Sims",
+    "email": "ron.sims@example.com",
+    "username": "goldenladybug667",
+    "password": "akira",
+    "invokedAt": "2025-04-25T17:17:00.553Z"
   }
 ]
