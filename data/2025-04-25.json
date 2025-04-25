@@ -694,5 +694,13 @@
     "username": "bluepeacock387",
     "password": "higgins",
     "invokedAt": "2025-04-25T20:29:20.909Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Poulsen",
+    "email": "jonas.poulsen@example.com",
+    "username": "whitetiger135",
+    "password": "bubbles",
+    "invokedAt": "2025-04-25T20:40:57.436Z"
   }
 ]
