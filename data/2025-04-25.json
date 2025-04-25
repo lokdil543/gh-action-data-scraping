@@ -438,5 +438,13 @@
     "username": "orangewolf134",
     "password": "blackjac",
     "invokedAt": "2025-04-25T14:31:42.249Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Karaduman",
+    "email": "babur.karaduman@example.com",
+    "username": "greenswan102",
+    "password": "cerberus",
+    "invokedAt": "2025-04-25T14:43:24.203Z"
   }
 ]
