@@ -62,5 +62,13 @@
     "username": "organicfish168",
     "password": "flicks",
     "invokedAt": "2025-04-25T04:46:40.462Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Murray",
+    "email": "john.murray@example.com",
+    "username": "tinyfish325",
+    "password": "strip",
+    "invokedAt": "2025-04-25T04:53:57.633Z"
   }
 ]
