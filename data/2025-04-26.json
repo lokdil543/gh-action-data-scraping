@@ -46,5 +46,13 @@
     "username": "bigdog150",
     "password": "bbbbbb",
     "invokedAt": "2025-04-26T05:41:13.334Z"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Evans",
+    "email": "mason.evans@example.com",
+    "username": "tinymouse163",
+    "password": "philly",
+    "invokedAt": "2025-04-26T07:08:32.147Z"
   }
 ]
