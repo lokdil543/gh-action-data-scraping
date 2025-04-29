@@ -758,5 +758,13 @@
     "username": "happygorilla998",
     "password": "celtics",
     "invokedAt": "2025-04-29T22:46:46.247Z"
+  },
+  {
+    "firstName": "Alf",
+    "lastName": "Kjærland",
+    "email": "alf.kjaerland@example.com",
+    "username": "goldenfrog389",
+    "password": "buzz",
+    "invokedAt": "2025-04-29T22:52:34.472Z"
   }
 ]
