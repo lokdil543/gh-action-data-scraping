@@ -318,5 +318,13 @@
     "username": "happyostrich826",
     "password": "highland",
     "invokedAt": "2025-04-29T11:30:48.302Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Olsen",
+    "email": "maria.olsen@example.com",
+    "username": "happygorilla901",
+    "password": "applepie",
+    "invokedAt": "2025-04-29T11:38:37.311Z"
   }
 ]
