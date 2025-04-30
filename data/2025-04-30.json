@@ -142,5 +142,13 @@
     "username": "goldencat191",
     "password": "java",
     "invokedAt": "2025-04-30T07:08:32.674Z"
+  },
+  {
+    "firstName": "Alfred",
+    "lastName": "Petersen",
+    "email": "alfred.petersen@example.com",
+    "username": "greenelephant270",
+    "password": "conner",
+    "invokedAt": "2025-04-30T07:26:37.668Z"
   }
 ]
