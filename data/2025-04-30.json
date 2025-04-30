@@ -734,5 +734,13 @@
     "username": "crazybird295",
     "password": "griffin",
     "invokedAt": "2025-04-30T21:43:25.123Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Karaer",
+    "email": "babur.karaer@example.com",
+    "username": "greengoose643",
+    "password": "vector",
+    "invokedAt": "2025-04-30T21:49:50.077Z"
   }
 ]
