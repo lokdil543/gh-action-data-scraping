@@ -190,5 +190,13 @@
     "username": "angrywolf812",
     "password": "absolute",
     "invokedAt": "2025-04-30T08:00:10.926Z"
+  },
+  {
+    "firstName": "Brajko",
+    "lastName": "Spasić",
+    "email": "brajko.spasic@example.com",
+    "username": "orangetiger489",
+    "password": "rong",
+    "invokedAt": "2025-04-30T08:27:00.277Z"
   }
 ]
