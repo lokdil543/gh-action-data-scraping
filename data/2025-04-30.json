@@ -102,5 +102,13 @@
     "username": "greenbear467",
     "password": "1981",
     "invokedAt": "2025-04-30T05:48:52.088Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Ramírez",
+    "email": "xavier.ramirez@example.com",
+    "username": "blackfish822",
+    "password": "eskimo",
+    "invokedAt": "2025-04-30T05:54:39.338Z"
   }
 ]
