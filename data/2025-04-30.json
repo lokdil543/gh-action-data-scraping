@@ -646,5 +646,13 @@
     "username": "happyzebra643",
     "password": "eclipse1",
     "invokedAt": "2025-04-30T19:48:23.636Z"
+  },
+  {
+    "firstName": "Pat",
+    "lastName": "Lucas",
+    "email": "pat.lucas@example.com",
+    "username": "happyfish762",
+    "password": "spaceman",
+    "invokedAt": "2025-04-30T19:54:13.635Z"
   }
 ]
