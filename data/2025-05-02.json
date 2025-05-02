@@ -774,5 +774,13 @@
     "username": "smallkoala255",
     "password": "1970",
     "invokedAt": "2025-05-02T22:10:38.705Z"
+  },
+  {
+    "firstName": "Othmar",
+    "lastName": "Beier",
+    "email": "othmar.beier@example.com",
+    "username": "crazypeacock197",
+    "password": "four",
+    "invokedAt": "2025-05-02T22:31:31.826Z"
   }
 ]
