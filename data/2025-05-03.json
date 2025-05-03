@@ -854,5 +854,13 @@
     "username": "purpleswan370",
     "password": "lighter",
     "invokedAt": "2025-05-03T21:57:19.520Z"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Armstrong",
+    "email": "kevin.armstrong@example.com",
+    "username": "happybird579",
+    "password": "starwars",
+    "invokedAt": "2025-05-03T22:12:07.536Z"
   }
 ]
