@@ -422,5 +422,13 @@
     "username": "crazyzebra942",
     "password": "clark",
     "invokedAt": "2025-05-03T13:00:00.448Z"
+  },
+  {
+    "firstName": "Antonija",
+    "lastName": "Tomović",
+    "email": "antonija.tomovic@example.com",
+    "username": "silverostrich196",
+    "password": "jasmine",
+    "invokedAt": "2025-05-03T13:24:12.682Z"
   }
 ]
