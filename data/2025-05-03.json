@@ -862,5 +862,13 @@
     "username": "happybird579",
     "password": "starwars",
     "invokedAt": "2025-05-03T22:12:07.536Z"
+  },
+  {
+    "firstName": "Viriato",
+    "lastName": "Rodrigues",
+    "email": "viriato.rodrigues@example.com",
+    "username": "happycat842",
+    "password": "benny",
+    "invokedAt": "2025-05-03T22:30:38.164Z"
   }
 ]
