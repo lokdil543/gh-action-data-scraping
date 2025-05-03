@@ -510,5 +510,13 @@
     "username": "smallpeacock456",
     "password": "mordor",
     "invokedAt": "2025-05-03T14:55:48.114Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Novaes",
+    "email": "carlos.novaes@example.com",
+    "username": "redfrog374",
+    "password": "archer",
+    "invokedAt": "2025-05-03T15:09:07.005Z"
   }
 ]
