@@ -526,5 +526,13 @@
     "username": "whitefrog831",
     "password": "nights",
     "invokedAt": "2025-05-04T15:43:39.261Z"
+  },
+  {
+    "firstName": "Amira",
+    "lastName": "Gulbrandsen",
+    "email": "amira.gulbrandsen@example.com",
+    "username": "redladybug543",
+    "password": "true",
+    "invokedAt": "2025-05-04T15:49:28.144Z"
   }
 ]
