@@ -654,5 +654,13 @@
     "username": "orangebird876",
     "password": "puppet",
     "invokedAt": "2025-05-04T18:43:15.811Z"
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Sandalcı",
+    "email": "adem.sandalci@example.com",
+    "username": "lazydog500",
+    "password": "superfly",
+    "invokedAt": "2025-05-04T18:51:45.158Z"
   }
 ]
