@@ -214,5 +214,13 @@
     "username": "smallgoose182",
     "password": "gotribe",
     "invokedAt": "2025-05-04T08:44:20.299Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Johansen",
+    "email": "carl.johansen@example.com",
+    "username": "heavybird409",
+    "password": "2345",
+    "invokedAt": "2025-05-04T08:51:00.195Z"
   }
 ]
