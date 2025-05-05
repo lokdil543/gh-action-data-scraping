@@ -414,5 +414,13 @@
     "username": "smallsnake208",
     "password": "redhot",
     "invokedAt": "2025-05-05T14:47:39.604Z"
+  },
+  {
+    "firstName": "Božo",
+    "lastName": "Silić",
+    "email": "bozo.silic@example.com",
+    "username": "heavyzebra908",
+    "password": "maximus",
+    "invokedAt": "2025-05-05T14:53:32.495Z"
   }
 ]
