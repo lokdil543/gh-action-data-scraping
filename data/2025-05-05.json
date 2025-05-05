@@ -678,5 +678,13 @@
     "username": "redpanda961",
     "password": "joecool",
     "invokedAt": "2025-05-05T20:51:10.635Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Saksa",
+    "email": "miro.saksa@example.com",
+    "username": "greenkoala307",
+    "password": "roadrunn",
+    "invokedAt": "2025-05-05T20:57:28.034Z"
   }
 ]
