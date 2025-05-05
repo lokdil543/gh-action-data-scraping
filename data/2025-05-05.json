@@ -646,5 +646,13 @@
     "username": "whitecat924",
     "password": "machine",
     "invokedAt": "2025-05-05T19:59:13.394Z"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Suomi",
+    "email": "julius.suomi@example.com",
+    "username": "goldenswan752",
+    "password": "recovery",
+    "invokedAt": "2025-05-05T20:19:44.332Z"
   }
 ]
