@@ -494,5 +494,13 @@
     "username": "whitekoala343",
     "password": "wildcard",
     "invokedAt": "2025-05-06T16:52:24.392Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Gagnon",
+    "email": "felix.gagnon@example.com",
+    "username": "tinyleopard578",
+    "password": "chase",
+    "invokedAt": "2025-05-06T16:58:15.418Z"
   }
 ]
