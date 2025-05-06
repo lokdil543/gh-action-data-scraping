@@ -302,5 +302,13 @@
     "username": "whiteostrich890",
     "password": "snowbird",
     "invokedAt": "2025-05-06T11:00:38.220Z"
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Van Rijs",
+    "email": "reggie.vanrijs@example.com",
+    "username": "blackostrich937",
+    "password": "spirit",
+    "invokedAt": "2025-05-06T11:17:40.304Z"
   }
 ]
