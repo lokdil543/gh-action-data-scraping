@@ -558,5 +558,13 @@
     "username": "yellowostrich378",
     "password": "critter",
     "invokedAt": "2025-05-06T18:24:08.434Z"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Wilson",
+    "email": "elizabeth.wilson@example.com",
+    "username": "bluemouse180",
+    "password": "storm",
+    "invokedAt": "2025-05-06T18:43:16.746Z"
   }
 ]
