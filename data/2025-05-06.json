@@ -566,5 +566,13 @@
     "username": "bluemouse180",
     "password": "storm",
     "invokedAt": "2025-05-06T18:43:16.746Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Leclerc",
+    "email": "jonathan.leclerc@example.com",
+    "username": "smallfrog360",
+    "password": "nittany",
+    "invokedAt": "2025-05-06T18:53:09.560Z"
   }
 ]
