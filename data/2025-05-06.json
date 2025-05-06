@@ -814,5 +814,13 @@
     "username": "greenpanda969",
     "password": "miles",
     "invokedAt": "2025-05-06T23:49:47.408Z"
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Zhang",
+    "email": "sebastian.zhang@example.com",
+    "username": "bigwolf110",
+    "password": "trumpet",
+    "invokedAt": "2025-05-06T23:55:35.510Z"
   }
 ]
