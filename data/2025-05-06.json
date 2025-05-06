@@ -710,5 +710,13 @@
     "username": "crazymouse448",
     "password": "stereo",
     "invokedAt": "2025-05-06T21:42:36.437Z"
+  },
+  {
+    "firstName": "Harm",
+    "lastName": "Schlegel",
+    "email": "harm.schlegel@example.com",
+    "username": "brownfrog598",
+    "password": "bert",
+    "invokedAt": "2025-05-06T21:48:40.749Z"
   }
 ]
