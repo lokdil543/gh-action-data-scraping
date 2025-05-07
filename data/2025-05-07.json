@@ -742,5 +742,13 @@
     "username": "reddog161",
     "password": "testpass",
     "invokedAt": "2025-05-07T23:13:53.279Z"
+  },
+  {
+    "firstName": "Mustafa",
+    "lastName": "Günday",
+    "email": "mustafa.gunday@example.com",
+    "username": "redostrich195",
+    "password": "charlie123",
+    "invokedAt": "2025-05-07T23:29:22.958Z"
   }
 ]
