@@ -534,5 +534,13 @@
     "username": "brownlion124",
     "password": "generic",
     "invokedAt": "2025-05-07T18:45:35.575Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Hidalgo",
+    "email": "miguel.hidalgo@example.com",
+    "username": "yellowpeacock200",
+    "password": "speed1",
+    "invokedAt": "2025-05-07T18:54:44.880Z"
   }
 ]
