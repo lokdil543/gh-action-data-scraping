@@ -286,5 +286,13 @@
     "username": "heavydog243",
     "password": "europa",
     "invokedAt": "2025-05-08T11:00:00.615Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Villa",
+    "email": "miguel.villa@example.com",
+    "username": "purplebird799",
+    "password": "gina",
+    "invokedAt": "2025-05-08T11:16:49.496Z"
   }
 ]
