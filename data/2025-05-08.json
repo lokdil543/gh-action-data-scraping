@@ -446,5 +446,13 @@
     "username": "angrypanda233",
     "password": "toilet",
     "invokedAt": "2025-05-08T15:34:18.521Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Nicolas",
+    "email": "bruno.nicolas@example.com",
+    "username": "sadpanda212",
+    "password": "scanner",
+    "invokedAt": "2025-05-08T15:45:18.318Z"
   }
 ]
