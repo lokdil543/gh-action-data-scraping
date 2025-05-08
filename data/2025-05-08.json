@@ -790,5 +790,13 @@
     "username": "bigfish513",
     "password": "french",
     "invokedAt": "2025-05-08T23:44:39.454Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Lefebvre",
+    "email": "dan.lefebvre@example.com",
+    "username": "bluefrog760",
+    "password": "fdsa",
+    "invokedAt": "2025-05-08T23:50:24.323Z"
   }
 ]
