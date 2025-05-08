@@ -334,5 +334,13 @@
     "username": "sadlion215",
     "password": "carnage",
     "invokedAt": "2025-05-08T11:54:42.153Z"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Edwards",
+    "email": "ava.edwards@example.com",
+    "username": "smallcat456",
+    "password": "sounds",
+    "invokedAt": "2025-05-08T12:14:43.286Z"
   }
 ]
