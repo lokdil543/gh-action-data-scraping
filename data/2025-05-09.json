@@ -526,5 +526,13 @@
     "username": "orangebutterfly350",
     "password": "plastics",
     "invokedAt": "2025-05-09T17:07:49.157Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Long",
+    "email": "dan.long@example.com",
+    "username": "bluebear272",
+    "password": "pigpen",
+    "invokedAt": "2025-05-09T17:26:52.420Z"
   }
 ]
