@@ -510,5 +510,13 @@
     "username": "orangebird127",
     "password": "french",
     "invokedAt": "2025-05-09T16:47:44.820Z"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Kautz",
+    "email": "julie.kautz@example.com",
+    "username": "crazybear365",
+    "password": "talk",
+    "invokedAt": "2025-05-09T16:55:05.068Z"
   }
 ]
