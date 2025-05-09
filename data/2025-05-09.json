@@ -638,5 +638,13 @@
     "username": "happydog266",
     "password": "magnum",
     "invokedAt": "2025-05-09T19:42:18.053Z"
+  },
+  {
+    "firstName": "Ljubica",
+    "lastName": "Da Silva",
+    "email": "ljubica.dasilva@example.com",
+    "username": "angrydog101",
+    "password": "entrance",
+    "invokedAt": "2025-05-09T19:48:05.650Z"
   }
 ]
