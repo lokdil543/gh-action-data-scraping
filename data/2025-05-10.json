@@ -414,5 +414,13 @@
     "username": "goldendog494",
     "password": "zxcvbnm",
     "invokedAt": "2025-05-10T12:31:36.291Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Roberts",
+    "email": "emma.roberts@example.com",
+    "username": "happyzebra912",
+    "password": "trust",
+    "invokedAt": "2025-05-10T13:00:50.733Z"
   }
 ]
