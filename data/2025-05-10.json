@@ -430,5 +430,13 @@
     "username": "yellowbutterfly651",
     "password": "aaa111",
     "invokedAt": "2025-05-10T13:26:19.654Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Wallace",
+    "email": "herman.wallace@example.com",
+    "username": "goldenbear819",
+    "password": "return",
+    "invokedAt": "2025-05-10T13:39:00.400Z"
   }
 ]
