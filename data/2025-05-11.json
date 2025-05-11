@@ -774,5 +774,13 @@
     "username": "bigduck278",
     "password": "redfish",
     "invokedAt": "2025-05-11T20:50:35.163Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Savela",
+    "email": "jesse.savela@example.com",
+    "username": "whitepanda980",
+    "password": "nate",
+    "invokedAt": "2025-05-11T20:56:35.642Z"
   }
 ]
