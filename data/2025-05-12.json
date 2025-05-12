@@ -422,5 +422,13 @@
     "username": "whitefrog510",
     "password": "cosmic",
     "invokedAt": "2025-05-12T15:32:16.404Z"
+  },
+  {
+    "firstName": "Elio",
+    "lastName": "Dupont",
+    "email": "elio.dupont@example.com",
+    "username": "silversnake699",
+    "password": "cartman",
+    "invokedAt": "2025-05-12T15:45:09.530Z"
   }
 ]
