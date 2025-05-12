@@ -534,5 +534,13 @@
     "username": "smallpeacock728",
     "password": "whiplash",
     "invokedAt": "2025-05-12T18:44:06.488Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Willis",
+    "email": "joe.willis@example.com",
+    "username": "sadpeacock394",
+    "password": "5551212",
+    "invokedAt": "2025-05-12T18:54:38.463Z"
   }
 ]
