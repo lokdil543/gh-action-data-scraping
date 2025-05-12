@@ -622,5 +622,13 @@
     "username": "bigduck506",
     "password": "tweety",
     "invokedAt": "2025-05-12T20:34:29.615Z"
+  },
+  {
+    "firstName": "Meta",
+    "lastName": "Schiffer",
+    "email": "meta.schiffer@example.com",
+    "username": "smallbear141",
+    "password": "duckie",
+    "invokedAt": "2025-05-12T20:52:07.270Z"
   }
 ]
