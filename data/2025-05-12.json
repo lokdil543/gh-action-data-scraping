@@ -398,5 +398,13 @@
     "username": "crazylion315",
     "password": "gene",
     "invokedAt": "2025-05-12T14:48:09.974Z"
+  },
+  {
+    "firstName": "Arnold",
+    "lastName": "Cunningham",
+    "email": "arnold.cunningham@example.com",
+    "username": "smallzebra403",
+    "password": "hopper",
+    "invokedAt": "2025-05-12T14:54:51.058Z"
   }
 ]
