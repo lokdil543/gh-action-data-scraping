@@ -286,5 +286,13 @@
     "username": "yellowfish258",
     "password": "strange",
     "invokedAt": "2025-05-12T11:07:49.008Z"
+  },
+  {
+    "firstName": "Valentino",
+    "lastName": "Lucas",
+    "email": "valentino.lucas@example.com",
+    "username": "happyelephant448",
+    "password": "chevy",
+    "invokedAt": "2025-05-12T11:24:31.500Z"
   }
 ]
