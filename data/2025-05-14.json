@@ -758,5 +758,13 @@
     "username": "whitewolf106",
     "password": "098765",
     "invokedAt": "2025-05-14T22:17:02.667Z"
+  },
+  {
+    "firstName": "Jessy",
+    "lastName": "Tang",
+    "email": "jessy.tang@example.com",
+    "username": "goldendog711",
+    "password": "usmc",
+    "invokedAt": "2025-05-14T22:30:02.944Z"
   }
 ]
