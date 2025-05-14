@@ -390,5 +390,13 @@
     "username": "blueostrich199",
     "password": "kissme",
     "invokedAt": "2025-05-14T14:00:27.294Z"
+  },
+  {
+    "firstName": "Phoenix",
+    "lastName": "Walker",
+    "email": "phoenix.walker@example.com",
+    "username": "blacksnake884",
+    "password": "chat",
+    "invokedAt": "2025-05-14T14:21:18.540Z"
   }
 ]
