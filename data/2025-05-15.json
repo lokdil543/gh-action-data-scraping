@@ -342,5 +342,13 @@
     "username": "redfrog436",
     "password": "tophat",
     "invokedAt": "2025-05-15T11:58:18.094Z"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Harvey",
+    "email": "dwight.harvey@example.com",
+    "username": "brownostrich535",
+    "password": "parker",
+    "invokedAt": "2025-05-15T12:33:05.432Z"
   }
 ]
