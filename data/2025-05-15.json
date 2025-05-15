@@ -62,5 +62,13 @@
     "username": "yellowfish713",
     "password": "timeout",
     "invokedAt": "2025-05-15T04:51:41.284Z"
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Álvarez",
+    "email": "rafael.alvarez@example.com",
+    "username": "smallgorilla161",
+    "password": "whale",
+    "invokedAt": "2025-05-15T04:57:33.141Z"
   }
 ]
