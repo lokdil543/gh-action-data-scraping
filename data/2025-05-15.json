@@ -462,5 +462,13 @@
     "username": "tinypanda551",
     "password": "airbus",
     "invokedAt": "2025-05-15T15:55:53.910Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Madsen",
+    "email": "victor.madsen@example.com",
+    "username": "tinycat232",
+    "password": "575757",
+    "invokedAt": "2025-05-15T16:13:17.717Z"
   }
 ]
