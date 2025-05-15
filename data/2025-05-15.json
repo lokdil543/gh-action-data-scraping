@@ -758,5 +758,13 @@
     "username": "whitedog543",
     "password": "jupiter1",
     "invokedAt": "2025-05-15T22:55:57.844Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Hansen",
+    "email": "oscar.hansen@example.com",
+    "username": "heavypanda501",
+    "password": "dodger",
+    "invokedAt": "2025-05-15T23:10:53.696Z"
   }
 ]
