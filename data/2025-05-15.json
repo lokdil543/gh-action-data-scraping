@@ -702,5 +702,13 @@
     "username": "sadsnake267",
     "password": "internal",
     "invokedAt": "2025-05-15T21:45:17.666Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Singh",
+    "email": "alice.singh@example.com",
+    "username": "tinytiger525",
+    "password": "miami1",
+    "invokedAt": "2025-05-15T21:51:16.338Z"
   }
 ]
