@@ -222,5 +222,13 @@
     "username": "organicgorilla621",
     "password": "string",
     "invokedAt": "2025-05-15T09:20:13.135Z"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Taylor",
+    "email": "louis.taylor@example.com",
+    "username": "crazyostrich835",
+    "password": "spotty",
+    "invokedAt": "2025-05-15T09:35:56.072Z"
   }
 ]
