@@ -766,5 +766,13 @@
     "username": "redbear876",
     "password": "1204",
     "invokedAt": "2025-05-17T20:42:09.303Z"
+  },
+  {
+    "firstName": "Teodor",
+    "lastName": "Sørnes",
+    "email": "teodor.sornes@example.com",
+    "username": "crazysnake384",
+    "password": "aragorn",
+    "invokedAt": "2025-05-17T20:47:56.733Z"
   }
 ]
