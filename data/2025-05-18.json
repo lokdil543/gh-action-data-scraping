@@ -270,5 +270,13 @@
     "username": "orangebird441",
     "password": "fields",
     "invokedAt": "2025-05-18T09:51:21.341Z"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Armstrong",
+    "email": "jon.armstrong@example.com",
+    "username": "sadmouse962",
+    "password": "dogfood",
+    "invokedAt": "2025-05-18T09:57:11.976Z"
   }
 ]
