@@ -702,5 +702,13 @@
     "username": "happylion177",
     "password": "tuesday",
     "invokedAt": "2025-05-18T19:43:02.550Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Lambert",
+    "email": "diana.lambert@example.com",
+    "username": "happybear241",
+    "password": "central",
+    "invokedAt": "2025-05-18T19:48:52.490Z"
   }
 ]
