@@ -710,5 +710,13 @@
     "username": "happybear241",
     "password": "central",
     "invokedAt": "2025-05-18T19:48:52.490Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Christiansen",
+    "email": "daniel.christiansen@example.com",
+    "username": "silverbear753",
+    "password": "tarpon",
+    "invokedAt": "2025-05-18T19:54:45.221Z"
   }
 ]
