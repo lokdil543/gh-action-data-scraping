@@ -550,5 +550,13 @@
     "username": "purpleleopard289",
     "password": "recovery",
     "invokedAt": "2025-05-18T16:33:22.845Z"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Kowalski",
+    "email": "xavier.kowalski@example.com",
+    "username": "purplebutterfly848",
+    "password": "jorge",
+    "invokedAt": "2025-05-18T16:45:50.778Z"
   }
 ]
