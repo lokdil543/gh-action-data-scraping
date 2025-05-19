@@ -294,5 +294,13 @@
     "username": "heavycat718",
     "password": "portugal",
     "invokedAt": "2025-05-19T11:41:05.390Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Evans",
+    "email": "max.evans@example.com",
+    "username": "whitedog860",
+    "password": "beatles",
+    "invokedAt": "2025-05-19T11:47:00.553Z"
   }
 ]
