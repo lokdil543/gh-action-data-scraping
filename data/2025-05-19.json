@@ -430,5 +430,13 @@
     "username": "sadwolf823",
     "password": "paradigm",
     "invokedAt": "2025-05-19T15:53:16.746Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Richardson",
+    "email": "howard.richardson@example.com",
+    "username": "whiteleopard292",
+    "password": "security",
+    "invokedAt": "2025-05-19T15:59:03.325Z"
   }
 ]
