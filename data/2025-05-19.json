@@ -214,5 +214,13 @@
     "username": "bluemouse838",
     "password": "herring",
     "invokedAt": "2025-05-19T09:45:05.410Z"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Kelly",
+    "email": "larry.kelly@example.com",
+    "username": "purpletiger964",
+    "password": "toejam",
+    "invokedAt": "2025-05-19T09:50:59.656Z"
   }
 ]
