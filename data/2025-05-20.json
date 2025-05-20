@@ -470,5 +470,13 @@
     "username": "bluefrog234",
     "password": "kingfish",
     "invokedAt": "2025-05-20T17:00:20.323Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Rose",
+    "email": "herman.rose@example.com",
+    "username": "angrybird509",
+    "password": "bingo",
+    "invokedAt": "2025-05-20T17:18:05.493Z"
   }
 ]
