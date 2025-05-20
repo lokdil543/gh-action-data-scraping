@@ -478,5 +478,13 @@
     "username": "angrybird509",
     "password": "bingo",
     "invokedAt": "2025-05-20T17:18:05.493Z"
+  },
+  {
+    "firstName": "Arvid",
+    "lastName": "Simonsen",
+    "email": "arvid.simonsen@example.com",
+    "username": "brownbear732",
+    "password": "stephan",
+    "invokedAt": "2025-05-20T17:33:25.352Z"
   }
 ]
