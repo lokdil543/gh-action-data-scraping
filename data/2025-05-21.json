@@ -414,5 +414,13 @@
     "username": "blueelephant398",
     "password": "trucking",
     "invokedAt": "2025-05-21T15:00:20.090Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Silva",
+    "email": "robert.silva@example.com",
+    "username": "happykoala325",
+    "password": "nuclear",
+    "invokedAt": "2025-05-21T15:22:50.351Z"
   }
 ]
