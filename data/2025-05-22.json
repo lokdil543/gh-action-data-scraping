@@ -166,5 +166,13 @@
     "username": "greenfish998",
     "password": "qwertz",
     "invokedAt": "2025-05-22T07:50:09.379Z"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Wilson",
+    "email": "james.wilson@example.com",
+    "username": "organicfrog429",
+    "password": "chevrole",
+    "invokedAt": "2025-05-22T07:55:57.413Z"
   }
 ]
