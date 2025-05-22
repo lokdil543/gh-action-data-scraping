@@ -534,5 +534,13 @@
     "username": "orangeelephant525",
     "password": "fellow",
     "invokedAt": "2025-05-22T18:20:10.848Z"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Wheeler",
+    "email": "dennis.wheeler@example.com",
+    "username": "smallelephant291",
+    "password": "delight",
+    "invokedAt": "2025-05-22T18:44:07.345Z"
   }
 ]
