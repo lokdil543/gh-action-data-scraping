@@ -550,5 +550,13 @@
     "username": "angrybutterfly961",
     "password": "secret",
     "invokedAt": "2025-05-22T18:54:25.872Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Mccoy",
+    "email": "sarah.mccoy@example.com",
+    "username": "beautifullion478",
+    "password": "lancer",
+    "invokedAt": "2025-05-22T19:00:16.322Z"
   }
 ]
