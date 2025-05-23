@@ -814,5 +814,13 @@
     "username": "brownleopard117",
     "password": "pipeline",
     "invokedAt": "2025-05-23T23:45:23.076Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Fisher",
+    "email": "rose.fisher@example.com",
+    "username": "organiczebra940",
+    "password": "double",
+    "invokedAt": "2025-05-23T23:51:19.804Z"
   }
 ]
