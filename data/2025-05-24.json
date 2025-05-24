@@ -894,5 +894,13 @@
     "username": "heavyduck701",
     "password": "magical",
     "invokedAt": "2025-05-24T23:17:17.416Z"
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Burke",
+    "email": "barbara.burke@example.com",
+    "username": "bluebird657",
+    "password": "lambda",
+    "invokedAt": "2025-05-24T23:29:30.488Z"
   }
 ]
