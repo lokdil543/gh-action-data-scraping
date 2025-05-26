@@ -454,5 +454,13 @@
     "username": "tinytiger401",
     "password": "fitness",
     "invokedAt": "2025-05-26T17:53:10.503Z"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Niskanen",
+    "email": "matias.niskanen@example.com",
+    "username": "happyfish472",
+    "password": "broadway",
+    "invokedAt": "2025-05-26T17:59:03.421Z"
   }
 ]
