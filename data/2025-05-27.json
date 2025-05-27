@@ -206,5 +206,13 @@
     "username": "whitewolf462",
     "password": "powell",
     "invokedAt": "2025-05-27T09:09:58.480Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Moore",
+    "email": "charles.moore@example.com",
+    "username": "greenfish171",
+    "password": "boeing",
+    "invokedAt": "2025-05-27T09:30:42.833Z"
   }
 ]
