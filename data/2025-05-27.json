@@ -334,5 +334,13 @@
     "username": "purplegorilla794",
     "password": "schmidt",
     "invokedAt": "2025-05-27T12:20:17.922Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Abramović",
+    "email": "milos.abramovic@example.com",
+    "username": "bigkoala508",
+    "password": "beagle",
+    "invokedAt": "2025-05-27T13:02:14.378Z"
   }
 ]
