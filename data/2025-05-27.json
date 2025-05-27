@@ -214,5 +214,13 @@
     "username": "greenfish171",
     "password": "boeing",
     "invokedAt": "2025-05-27T09:30:42.833Z"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Wagner",
+    "email": "julian.wagner@example.com",
+    "username": "happymeercat466",
+    "password": "comp",
+    "invokedAt": "2025-05-27T09:42:40.511Z"
   }
 ]
