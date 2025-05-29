@@ -558,5 +558,13 @@
     "username": "orangepanda234",
     "password": "kiki",
     "invokedAt": "2025-05-29T19:00:42.558Z"
+  },
+  {
+    "firstName": "Martha",
+    "lastName": "Miles",
+    "email": "martha.miles@example.com",
+    "username": "orangesnake752",
+    "password": "ulysses",
+    "invokedAt": "2025-05-29T19:15:35.885Z"
   }
 ]
