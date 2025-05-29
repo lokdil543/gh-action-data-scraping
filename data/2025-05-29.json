@@ -422,5 +422,13 @@
     "username": "ticklishfish520",
     "password": "jimbo1",
     "invokedAt": "2025-05-29T15:08:09.199Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Pedersen",
+    "email": "alexander.pedersen@example.com",
+    "username": "ticklishlion315",
+    "password": "diesel",
+    "invokedAt": "2025-05-29T15:30:22.626Z"
   }
 ]
