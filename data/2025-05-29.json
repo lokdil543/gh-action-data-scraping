@@ -534,5 +534,13 @@
     "username": "silverdog774",
     "password": "vincent",
     "invokedAt": "2025-05-29T18:15:53.736Z"
+  },
+  {
+    "firstName": "Antonin",
+    "lastName": "Picard",
+    "email": "antonin.picard@example.com",
+    "username": "browndog333",
+    "password": "warthog",
+    "invokedAt": "2025-05-29T18:43:18.012Z"
   }
 ]
