@@ -454,5 +454,13 @@
     "username": "bluetiger711",
     "password": "penguin",
     "invokedAt": "2025-05-30T15:49:28.578Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Pedersen",
+    "email": "noah.pedersen@example.com",
+    "username": "greenkoala472",
+    "password": "civicsi",
+    "invokedAt": "2025-05-30T15:55:15.057Z"
   }
 ]
