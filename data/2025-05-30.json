@@ -374,5 +374,13 @@
     "username": "bluewolf217",
     "password": "polly",
     "invokedAt": "2025-05-30T13:48:50.076Z"
+  },
+  {
+    "firstName": "Kirk",
+    "lastName": "Simmons",
+    "email": "kirk.simmons@example.com",
+    "username": "crazyduck596",
+    "password": "umbrella",
+    "invokedAt": "2025-05-30T13:54:52.361Z"
   }
 ]
