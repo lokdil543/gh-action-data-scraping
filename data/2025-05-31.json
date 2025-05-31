@@ -718,5 +718,13 @@
     "username": "orangelion977",
     "password": "ncc1701d",
     "invokedAt": "2025-05-31T20:28:05.084Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Joly",
+    "email": "evan.joly@example.com",
+    "username": "bigelephant507",
+    "password": "fuzzy",
+    "invokedAt": "2025-05-31T20:38:03.603Z"
   }
 ]
