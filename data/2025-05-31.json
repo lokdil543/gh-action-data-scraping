@@ -830,5 +830,13 @@
     "username": "redbird605",
     "password": "twenty",
     "invokedAt": "2025-05-31T22:44:32.528Z"
+  },
+  {
+    "firstName": "Ronald",
+    "lastName": "Schaffrath",
+    "email": "ronald.schaffrath@example.com",
+    "username": "brownfish813",
+    "password": "sambo",
+    "invokedAt": "2025-05-31T22:50:20.330Z"
   }
 ]
