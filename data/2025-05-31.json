@@ -390,5 +390,13 @@
     "username": "whiteswan621",
     "password": "brooklyn",
     "invokedAt": "2025-05-31T12:34:51.132Z"
+  },
+  {
+    "firstName": "Antonija",
+    "lastName": "Ivić",
+    "email": "antonija.ivic@example.com",
+    "username": "yellowfrog864",
+    "password": "word",
+    "invokedAt": "2025-05-31T13:04:31.845Z"
   }
 ]
