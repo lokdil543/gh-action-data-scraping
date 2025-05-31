@@ -254,5 +254,13 @@
     "username": "smallbutterfly359",
     "password": "bonita",
     "invokedAt": "2025-05-31T09:37:47.181Z"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Walters",
+    "email": "sara.walters@example.com",
+    "username": "heavybear125",
+    "password": "auto",
+    "invokedAt": "2025-05-31T09:43:38.440Z"
   }
 ]
