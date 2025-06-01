@@ -526,5 +526,13 @@
     "username": "blueswan371",
     "password": "talbot",
     "invokedAt": "2025-06-01T17:27:02.575Z"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Andersen",
+    "email": "matthew.andersen@example.com",
+    "username": "angryrabbit638",
+    "password": "progress",
+    "invokedAt": "2025-06-01T17:37:43.305Z"
   }
 ]
