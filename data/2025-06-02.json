@@ -622,5 +622,13 @@
     "username": "sadgoose103",
     "password": "microsof",
     "invokedAt": "2025-06-02T21:42:35.624Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Andersen",
+    "email": "marius.andersen@example.com",
+    "username": "whitebird545",
+    "password": "sophia",
+    "invokedAt": "2025-06-02T21:48:26.985Z"
   }
 ]
