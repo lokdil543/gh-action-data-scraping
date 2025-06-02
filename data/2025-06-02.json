@@ -710,5 +710,13 @@
     "username": "whitesnake619",
     "password": "light",
     "invokedAt": "2025-06-02T23:43:34.017Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Wilson",
+    "email": "adam.wilson@example.com",
+    "username": "yellowtiger576",
+    "password": "zong",
+    "invokedAt": "2025-06-02T23:49:35.056Z"
   }
 ]
