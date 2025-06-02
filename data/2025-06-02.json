@@ -470,5 +470,13 @@
     "username": "sadmouse270",
     "password": "password2",
     "invokedAt": "2025-06-02T17:50:27.597Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Barnes",
+    "email": "daniel.barnes@example.com",
+    "username": "blackbutterfly488",
+    "password": "piglet",
+    "invokedAt": "2025-06-02T17:56:18.828Z"
   }
 ]
