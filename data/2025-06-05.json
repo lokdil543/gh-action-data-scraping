@@ -326,5 +326,13 @@
     "username": "blacksnake501",
     "password": "chiefs",
     "invokedAt": "2025-06-05T13:01:08.051Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Mitchell",
+    "email": "peter.mitchell@example.com",
+    "username": "orangebear558",
+    "password": "hamburg",
+    "invokedAt": "2025-06-05T13:34:30.916Z"
   }
 ]
