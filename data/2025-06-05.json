@@ -542,5 +542,13 @@
     "username": "bluewolf602",
     "password": "baddest",
     "invokedAt": "2025-06-05T19:33:01.857Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "May",
+    "email": "adam.may@example.com",
+    "username": "bluefrog480",
+    "password": "sam123",
+    "invokedAt": "2025-06-05T19:38:58.766Z"
   }
 ]
