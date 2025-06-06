@@ -542,5 +542,13 @@
     "username": "orangebird735",
     "password": "hellfire",
     "invokedAt": "2025-06-06T18:59:53.318Z"
+  },
+  {
+    "firstName": "Emile",
+    "lastName": "Picard",
+    "email": "emile.picard@example.com",
+    "username": "silverpeacock453",
+    "password": "trustno1",
+    "invokedAt": "2025-06-06T19:16:23.849Z"
   }
 ]
