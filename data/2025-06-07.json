@@ -790,5 +790,13 @@
     "username": "bluebird385",
     "password": "apache",
     "invokedAt": "2025-06-07T21:58:10.346Z"
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Turner",
+    "email": "luca.turner@example.com",
+    "username": "blackleopard863",
+    "password": "stolen",
+    "invokedAt": "2025-06-07T22:14:14.748Z"
   }
 ]
