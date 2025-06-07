@@ -862,5 +862,13 @@
     "username": "lazykoala564",
     "password": "snowball",
     "invokedAt": "2025-06-07T23:45:45.919Z"
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Ibáñez",
+    "email": "eduardo.ibanez@example.com",
+    "username": "tinydog500",
+    "password": "lifetime",
+    "invokedAt": "2025-06-07T23:51:35.255Z"
   }
 ]
