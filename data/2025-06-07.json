@@ -782,5 +782,13 @@
     "username": "yellowmouse851",
     "password": "back",
     "invokedAt": "2025-06-07T21:52:18.900Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Nelson",
+    "email": "justin.nelson@example.com",
+    "username": "bluebird385",
+    "password": "apache",
+    "invokedAt": "2025-06-07T21:58:10.346Z"
   }
 ]
