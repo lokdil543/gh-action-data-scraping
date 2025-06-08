@@ -366,5 +366,13 @@
     "username": "heavybutterfly819",
     "password": "mother",
     "invokedAt": "2025-06-08T12:38:26.602Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Walker",
+    "email": "alexander.walker@example.com",
+    "username": "happyostrich202",
+    "password": "spanner",
+    "invokedAt": "2025-06-08T13:05:26.992Z"
   }
 ]
