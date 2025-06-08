@@ -102,5 +102,13 @@
     "username": "beautifullion726",
     "password": "abc123",
     "invokedAt": "2025-06-08T06:43:40.987Z"
+  },
+  {
+    "firstName": "Fabrice",
+    "lastName": "Lemoine",
+    "email": "fabrice.lemoine@example.com",
+    "username": "blackpanda682",
+    "password": "falcons",
+    "invokedAt": "2025-06-08T06:54:13.326Z"
   }
 ]
