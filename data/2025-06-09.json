@@ -614,5 +614,13 @@
     "username": "sadfish941",
     "password": "apple",
     "invokedAt": "2025-06-09T21:29:50.033Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Robinson",
+    "email": "george.robinson@example.com",
+    "username": "whiteswan330",
+    "password": "kissme",
+    "invokedAt": "2025-06-09T21:40:44.712Z"
   }
 ]
