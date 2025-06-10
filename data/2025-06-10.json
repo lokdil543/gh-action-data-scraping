@@ -718,5 +718,13 @@
     "username": "heavyrabbit453",
     "password": "austria",
     "invokedAt": "2025-06-10T23:45:39.786Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Fisher",
+    "email": "george.fisher@example.com",
+    "username": "happygorilla491",
+    "password": "delmar",
+    "invokedAt": "2025-06-10T23:51:26.190Z"
   }
 ]
