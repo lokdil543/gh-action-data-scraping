@@ -502,5 +502,13 @@
     "username": "happybutterfly542",
     "password": "bucket",
     "invokedAt": "2025-06-11T18:44:21.532Z"
+  },
+  {
+    "firstName": "Alison",
+    "lastName": "Van der Weg",
+    "email": "alison.vanderweg@example.com",
+    "username": "orangemouse881",
+    "password": "markie",
+    "invokedAt": "2025-06-11T18:56:06.969Z"
   }
 ]
