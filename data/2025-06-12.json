@@ -670,5 +670,13 @@
     "username": "angryfish369",
     "password": "lancer",
     "invokedAt": "2025-06-12T22:31:49.778Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "email": "david.brown@example.com",
+    "username": "ticklishfish818",
+    "password": "michigan",
+    "invokedAt": "2025-06-12T22:44:35.009Z"
   }
 ]
