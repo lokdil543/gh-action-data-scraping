@@ -606,5 +606,13 @@
     "username": "purpletiger651",
     "password": "force",
     "invokedAt": "2025-06-13T20:44:00.432Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Adam",
+    "email": "anthony.adam@example.com",
+    "username": "whitecat155",
+    "password": "elvis",
+    "invokedAt": "2025-06-13T20:51:20.881Z"
   }
 ]
