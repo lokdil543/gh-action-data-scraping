@@ -238,5 +238,13 @@
     "username": "orangebird352",
     "password": "womble",
     "invokedAt": "2025-06-15T09:48:48.132Z"
+  },
+  {
+    "firstName": "Wallace",
+    "lastName": "Hunter",
+    "email": "wallace.hunter@example.com",
+    "username": "whitefrog502",
+    "password": "baggio",
+    "invokedAt": "2025-06-15T09:54:41.223Z"
   }
 ]
