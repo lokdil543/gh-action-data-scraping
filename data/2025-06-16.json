@@ -342,5 +342,13 @@
     "username": "brownrabbit476",
     "password": "monster",
     "invokedAt": "2025-06-16T14:50:39.376Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Gray",
+    "email": "greg.gray@example.com",
+    "username": "redfrog540",
+    "password": "marsha",
+    "invokedAt": "2025-06-16T14:56:28.631Z"
   }
 ]
