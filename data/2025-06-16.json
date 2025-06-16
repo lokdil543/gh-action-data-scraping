@@ -278,5 +278,13 @@
     "username": "reddog357",
     "password": "cavalier",
     "invokedAt": "2025-06-16T11:56:06.818Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Garrido",
+    "email": "jose.garrido@example.com",
+    "username": "tinyfrog640",
+    "password": "melrose",
+    "invokedAt": "2025-06-16T12:22:46.955Z"
   }
 ]
