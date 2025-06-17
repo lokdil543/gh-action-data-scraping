@@ -494,5 +494,13 @@
     "username": "brownzebra100",
     "password": "redrum",
     "invokedAt": "2025-06-17T18:56:47.576Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Lewis",
+    "email": "adam.lewis@example.com",
+    "username": "angrydog193",
+    "password": "copper",
+    "invokedAt": "2025-06-17T19:09:28.394Z"
   }
 ]
