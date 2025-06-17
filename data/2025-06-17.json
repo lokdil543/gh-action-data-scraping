@@ -638,5 +638,13 @@
     "username": "purplecat546",
     "password": "buzzard",
     "invokedAt": "2025-06-17T22:57:41.640Z"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Wheeler",
+    "email": "greg.wheeler@example.com",
+    "username": "yellowladybug911",
+    "password": "small",
+    "invokedAt": "2025-06-17T23:14:10.344Z"
   }
 ]
