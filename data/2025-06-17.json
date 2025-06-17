@@ -502,5 +502,13 @@
     "username": "angrydog193",
     "password": "copper",
     "invokedAt": "2025-06-17T19:09:28.394Z"
+  },
+  {
+    "firstName": "Luciano",
+    "lastName": "Niemeyer",
+    "email": "luciano.niemeyer@example.com",
+    "username": "bluepanda533",
+    "password": "director",
+    "invokedAt": "2025-06-17T19:23:59.793Z"
   }
 ]
