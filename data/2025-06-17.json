@@ -486,5 +486,13 @@
     "username": "greenpeacock294",
     "password": "test2",
     "invokedAt": "2025-06-17T18:45:05.814Z"
+  },
+  {
+    "firstName": "Axelle",
+    "lastName": "Dumont",
+    "email": "axelle.dumont@example.com",
+    "username": "brownzebra100",
+    "password": "redrum",
+    "invokedAt": "2025-06-17T18:56:47.576Z"
   }
 ]
