@@ -534,5 +534,13 @@
     "username": "brownlion319",
     "password": "ajax",
     "invokedAt": "2025-06-18T19:53:57.121Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Poulsen",
+    "email": "andreas.poulsen@example.com",
+    "username": "redpanda709",
+    "password": "artemis",
+    "invokedAt": "2025-06-18T19:59:49.955Z"
   }
 ]
