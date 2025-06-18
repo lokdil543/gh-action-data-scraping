@@ -454,5 +454,13 @@
     "username": "smallfrog933",
     "password": "smackdow",
     "invokedAt": "2025-06-18T17:54:37.737Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Wright",
+    "email": "adam.wright@example.com",
+    "username": "bluedog353",
+    "password": "labrador",
+    "invokedAt": "2025-06-18T18:00:29.223Z"
   }
 ]
