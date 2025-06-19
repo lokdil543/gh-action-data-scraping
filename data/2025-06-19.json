@@ -422,5 +422,13 @@
     "username": "bigleopard665",
     "password": "testpass",
     "invokedAt": "2025-06-19T15:52:02.209Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Petersen",
+    "email": "marius.petersen@example.com",
+    "username": "yellowgoose881",
+    "password": "aviation",
+    "invokedAt": "2025-06-19T15:57:56.800Z"
   }
 ]
