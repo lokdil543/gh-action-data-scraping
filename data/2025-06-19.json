@@ -534,5 +534,13 @@
     "username": "yellowtiger577",
     "password": "seinfeld",
     "invokedAt": "2025-06-19T19:15:15.887Z"
+  },
+  {
+    "firstName": "Álvaro",
+    "lastName": "Sánchez",
+    "email": "alvaro.sanchez@example.com",
+    "username": "blacktiger324",
+    "password": "aaaa",
+    "invokedAt": "2025-06-19T19:25:09.263Z"
   }
 ]
