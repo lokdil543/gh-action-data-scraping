@@ -726,5 +726,13 @@
     "username": "greenzebra769",
     "password": "gaston",
     "invokedAt": "2025-06-19T23:30:15.660Z"
+  },
+  {
+    "firstName": "Julia",
+    "lastName": "Jokela",
+    "email": "julia.jokela@example.com",
+    "username": "biggoose322",
+    "password": "bigd",
+    "invokedAt": "2025-06-19T23:40:48.490Z"
   }
 ]
