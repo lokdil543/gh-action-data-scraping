@@ -30,5 +30,13 @@
     "username": "crazyfish443",
     "password": "mandingo",
     "invokedAt": "2025-06-19T04:02:03.256Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Ibarra",
+    "email": "ana.ibarra@example.com",
+    "username": "greenfrog475",
+    "password": "operator",
+    "invokedAt": "2025-06-19T04:33:41.586Z"
   }
 ]
