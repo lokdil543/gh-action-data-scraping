@@ -406,5 +406,13 @@
     "username": "tinyduck180",
     "password": "neptune",
     "invokedAt": "2025-06-19T15:35:14.282Z"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Ray",
+    "email": "george.ray@example.com",
+    "username": "bigmouse260",
+    "password": "qqqqqqq",
+    "invokedAt": "2025-06-19T15:45:38.303Z"
   }
 ]
