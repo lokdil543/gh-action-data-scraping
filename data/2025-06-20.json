@@ -358,5 +358,13 @@
     "username": "redpanda925",
     "password": "theatre",
     "invokedAt": "2025-06-20T14:33:00.854Z"
+  },
+  {
+    "firstName": "Beat",
+    "lastName": "Durand",
+    "email": "beat.durand@example.com",
+    "username": "redbird431",
+    "password": "station",
+    "invokedAt": "2025-06-20T14:46:21.337Z"
   }
 ]
