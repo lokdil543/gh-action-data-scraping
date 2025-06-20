@@ -550,5 +550,13 @@
     "username": "whitezebra780",
     "password": "county",
     "invokedAt": "2025-06-20T19:37:41.235Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Francois",
+    "email": "bastien.francois@example.com",
+    "username": "goldenzebra714",
+    "password": "trial",
+    "invokedAt": "2025-06-20T19:43:30.289Z"
   }
 ]
