@@ -102,5 +102,13 @@
     "username": "whitefrog372",
     "password": "highway",
     "invokedAt": "2025-06-21T05:56:52.835Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Jørgensen",
+    "email": "oscar.jorgensen@example.com",
+    "username": "angrycat502",
+    "password": "lewis",
+    "invokedAt": "2025-06-21T06:17:30.498Z"
   }
 ]
