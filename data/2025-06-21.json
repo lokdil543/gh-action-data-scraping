@@ -446,5 +446,13 @@
     "username": "goldenrabbit485",
     "password": "down",
     "invokedAt": "2025-06-21T14:55:45.448Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Gilbert",
+    "email": "paul.gilbert@example.com",
+    "username": "smallostrich603",
+    "password": "script",
+    "invokedAt": "2025-06-21T15:09:44.530Z"
   }
 ]
