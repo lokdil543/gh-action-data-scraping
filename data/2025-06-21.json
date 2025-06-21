@@ -622,5 +622,13 @@
     "username": "tinypanda252",
     "password": "monkey",
     "invokedAt": "2025-06-21T19:23:37.592Z"
+  },
+  {
+    "firstName": "Fabrice",
+    "lastName": "Picard",
+    "email": "fabrice.picard@example.com",
+    "username": "blackgorilla727",
+    "password": "santafe",
+    "invokedAt": "2025-06-21T19:29:29.756Z"
   }
 ]
