@@ -566,5 +566,13 @@
     "username": "happyleopard251",
     "password": "myxworld",
     "invokedAt": "2025-06-21T17:52:21.837Z"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Hill",
+    "email": "bernard.hill@example.com",
+    "username": "tinybear451",
+    "password": "poopy",
+    "invokedAt": "2025-06-21T17:58:13.168Z"
   }
 ]
