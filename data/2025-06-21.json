@@ -294,5 +294,13 @@
     "username": "redfrog371",
     "password": "clarence",
     "invokedAt": "2025-06-21T10:53:40.431Z"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Crawford",
+    "email": "brian.crawford@example.com",
+    "username": "goldenostrich852",
+    "password": "mozart",
+    "invokedAt": "2025-06-21T10:59:38.994Z"
   }
 ]
