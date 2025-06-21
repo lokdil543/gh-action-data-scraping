@@ -542,5 +542,13 @@
     "username": "bigbutterfly792",
     "password": "franks",
     "invokedAt": "2025-06-21T17:30:06.990Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Rey",
+    "email": "sarah.rey@example.com",
+    "username": "tinybird688",
+    "password": "thunder1",
+    "invokedAt": "2025-06-21T17:40:19.352Z"
   }
 ]
