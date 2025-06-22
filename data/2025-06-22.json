@@ -566,5 +566,13 @@
     "username": "tinygoose246",
     "password": "spam",
     "invokedAt": "2025-06-22T18:38:32.777Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Gonzalez",
+    "email": "evan.gonzalez@example.com",
+    "username": "angrywolf799",
+    "password": "kilroy",
+    "invokedAt": "2025-06-22T18:51:02.148Z"
   }
 ]
