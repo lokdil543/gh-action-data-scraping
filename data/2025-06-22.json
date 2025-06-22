@@ -406,5 +406,13 @@
     "username": "smallbutterfly846",
     "password": "pearljam",
     "invokedAt": "2025-06-22T14:29:11.215Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "French",
+    "email": "charlie.french@example.com",
+    "username": "brownfrog710",
+    "password": "rainman",
+    "invokedAt": "2025-06-22T14:41:50.218Z"
   }
 ]
