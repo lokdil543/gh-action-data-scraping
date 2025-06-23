@@ -566,5 +566,13 @@
     "username": "bigdog242",
     "password": "vikings1",
     "invokedAt": "2025-06-23T21:28:13.234Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Clarke",
+    "email": "thomas.clarke@example.com",
+    "username": "yellowpanda734",
+    "password": "salasana",
+    "invokedAt": "2025-06-23T21:38:39.839Z"
   }
 ]
