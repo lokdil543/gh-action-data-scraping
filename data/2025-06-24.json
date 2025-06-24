@@ -414,5 +414,13 @@
     "username": "angrybear132",
     "password": "zippy",
     "invokedAt": "2025-06-24T16:54:40.066Z"
+  },
+  {
+    "firstName": "Hans-Günter",
+    "lastName": "Schrader",
+    "email": "hans-gunter.schrader@example.com",
+    "username": "silvergoose922",
+    "password": "bolitas",
+    "invokedAt": "2025-06-24T17:09:38.622Z"
   }
 ]
