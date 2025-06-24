@@ -166,5 +166,13 @@
     "username": "redostrich133",
     "password": "cross",
     "invokedAt": "2025-06-24T08:45:28.042Z"
+  },
+  {
+    "firstName": "Igor",
+    "lastName": "Faust",
+    "email": "igor.faust@example.com",
+    "username": "blueostrich572",
+    "password": "zhuo",
+    "invokedAt": "2025-06-24T08:58:18.524Z"
   }
 ]
