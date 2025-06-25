@@ -246,5 +246,13 @@
     "username": "greenfish198",
     "password": "babylon",
     "invokedAt": "2025-06-25T11:12:40.893Z"
+  },
+  {
+    "firstName": "Jacky",
+    "lastName": "Van Wissen",
+    "email": "jacky.vanwissen@example.com",
+    "username": "purplefish140",
+    "password": "meredith",
+    "invokedAt": "2025-06-25T11:28:09.690Z"
   }
 ]
