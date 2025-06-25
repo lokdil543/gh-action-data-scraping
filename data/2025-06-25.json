@@ -198,5 +198,13 @@
     "username": "happybear517",
     "password": "beans",
     "invokedAt": "2025-06-25T09:50:33.173Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Robertson",
+    "email": "harry.robertson@example.com",
+    "username": "redlion879",
+    "password": "sommer",
+    "invokedAt": "2025-06-25T09:56:27.388Z"
   }
 ]
