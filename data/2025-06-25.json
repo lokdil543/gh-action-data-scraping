@@ -382,5 +382,13 @@
     "username": "happyduck146",
     "password": "finance",
     "invokedAt": "2025-06-25T15:55:29.960Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Olsen",
+    "email": "freja.olsen@example.com",
+    "username": "happygoose219",
+    "password": "gambit",
+    "invokedAt": "2025-06-25T16:12:53.202Z"
   }
 ]
