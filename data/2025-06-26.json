@@ -598,5 +598,13 @@
     "username": "redostrich660",
     "password": "barbara",
     "invokedAt": "2025-06-26T21:32:07.303Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Duval",
+    "email": "remy.duval@example.com",
+    "username": "biggorilla774",
+    "password": "gone",
+    "invokedAt": "2025-06-26T21:42:18.541Z"
   }
 ]
