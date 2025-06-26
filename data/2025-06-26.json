@@ -254,5 +254,13 @@
     "username": "heavybutterfly881",
     "password": "martha",
     "invokedAt": "2025-06-26T11:15:30.341Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Andersen",
+    "email": "oscar.andersen@example.com",
+    "username": "angryleopard455",
+    "password": "rasputin",
+    "invokedAt": "2025-06-26T11:28:33.260Z"
   }
 ]
