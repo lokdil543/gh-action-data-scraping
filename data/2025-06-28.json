@@ -494,5 +494,13 @@
     "username": "greenmeercat722",
     "password": "special",
     "invokedAt": "2025-06-28T16:38:32.513Z"
+  },
+  {
+    "firstName": "Živorad",
+    "lastName": "Mihajlović",
+    "email": "zivorad.mihajlovic@example.com",
+    "username": "blackfish189",
+    "password": "patrick",
+    "invokedAt": "2025-06-28T16:51:11.265Z"
   }
 ]
