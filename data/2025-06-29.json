@@ -622,5 +622,13 @@
     "username": "orangezebra410",
     "password": "travis1",
     "invokedAt": "2025-06-29T20:13:24.845Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Green",
+    "email": "charlie.green@example.com",
+    "username": "lazywolf762",
+    "password": "coolio",
+    "invokedAt": "2025-06-29T20:31:29.086Z"
   }
 ]
