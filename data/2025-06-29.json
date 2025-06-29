@@ -78,5 +78,13 @@
     "username": "happyduck619",
     "password": "eclipse",
     "invokedAt": "2025-06-29T06:21:19.617Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Mortensen",
+    "email": "marius.mortensen@example.com",
+    "username": "redgorilla284",
+    "password": "tartar",
+    "invokedAt": "2025-06-29T06:45:20.723Z"
   }
 ]
