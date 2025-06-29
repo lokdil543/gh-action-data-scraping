@@ -174,5 +174,13 @@
     "username": "silverbird930",
     "password": "obiwan",
     "invokedAt": "2025-06-29T08:55:42.577Z"
+  },
+  {
+    "firstName": "Arturo",
+    "lastName": "Peña",
+    "email": "arturo.pena@example.com",
+    "username": "sadpanda256",
+    "password": "fugazi",
+    "invokedAt": "2025-06-29T09:10:11.476Z"
   }
 ]
