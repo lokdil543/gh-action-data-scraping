@@ -702,5 +702,13 @@
     "username": "beautifulkoala457",
     "password": "springer",
     "invokedAt": "2025-06-29T21:55:23.316Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Ouellet",
+    "email": "alice.ouellet@example.com",
+    "username": "bigfrog423",
+    "password": "comics",
+    "invokedAt": "2025-06-29T22:09:04.504Z"
   }
 ]
