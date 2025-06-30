@@ -294,5 +294,13 @@
     "username": "bluefrog287",
     "password": "flash1",
     "invokedAt": "2025-06-30T13:45:51.483Z"
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Lee",
+    "email": "jackson.lee@example.com",
+    "username": "happyfish711",
+    "password": "1235",
+    "invokedAt": "2025-06-30T13:55:49.818Z"
   }
 ]
