@@ -526,5 +526,13 @@
     "username": "brownleopard711",
     "password": "fugazi",
     "invokedAt": "2025-06-30T20:11:38.088Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Poulsen",
+    "email": "oscar.poulsen@example.com",
+    "username": "bluetiger434",
+    "password": "tights",
+    "invokedAt": "2025-06-30T20:31:48.850Z"
   }
 ]
