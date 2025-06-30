@@ -558,5 +558,13 @@
     "username": "bigmeercat414",
     "password": "callaway",
     "invokedAt": "2025-06-30T20:57:33.519Z"
+  },
+  {
+    "firstName": "Joanne",
+    "lastName": "Hansen",
+    "email": "joanne.hansen@example.com",
+    "username": "bigdog622",
+    "password": "paranoid",
+    "invokedAt": "2025-06-30T21:13:39.664Z"
   }
 ]
