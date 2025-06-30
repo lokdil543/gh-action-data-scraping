@@ -166,5 +166,13 @@
     "username": "brownmeercat601",
     "password": "ajax",
     "invokedAt": "2025-06-30T09:19:25.618Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Martin",
+    "email": "arthur.martin@example.com",
+    "username": "lazyswan176",
+    "password": "comp",
+    "invokedAt": "2025-06-30T09:39:47.130Z"
   }
 ]
