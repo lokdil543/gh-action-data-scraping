@@ -566,5 +566,13 @@
     "username": "bigdog622",
     "password": "paranoid",
     "invokedAt": "2025-06-30T21:13:39.664Z"
+  },
+  {
+    "firstName": "Francisco",
+    "lastName": "Sáez",
+    "email": "francisco.saez@example.com",
+    "username": "goldenbird441",
+    "password": "chilli",
+    "invokedAt": "2025-06-30T21:29:42.070Z"
   }
 ]
