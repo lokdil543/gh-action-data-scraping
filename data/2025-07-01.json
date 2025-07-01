@@ -286,5 +286,13 @@
     "username": "saddog556",
     "password": "tomcat",
     "invokedAt": "2025-07-01T13:07:41.709Z"
+  },
+  {
+    "firstName": "Bjørn",
+    "lastName": "Sjøvold",
+    "email": "bjorn.sjovold@example.com",
+    "username": "silverelephant473",
+    "password": "sandman",
+    "invokedAt": "2025-07-01T13:41:08.090Z"
   }
 ]
