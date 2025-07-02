@@ -366,5 +366,13 @@
     "username": "smallfish667",
     "password": "oberon",
     "invokedAt": "2025-07-02T15:32:53.739Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Jenkins",
+    "email": "bill.jenkins@example.com",
+    "username": "happykoala449",
+    "password": "stealth",
+    "invokedAt": "2025-07-02T15:46:30.589Z"
   }
 ]
