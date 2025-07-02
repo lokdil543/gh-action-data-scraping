@@ -526,5 +526,13 @@
     "username": "happycat186",
     "password": "patches",
     "invokedAt": "2025-07-02T19:52:06.996Z"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Richardson",
+    "email": "frank.richardson@example.com",
+    "username": "bluefish365",
+    "password": "bigfish",
+    "invokedAt": "2025-07-02T19:57:53.689Z"
   }
 ]
