@@ -686,5 +686,13 @@
     "username": "brownbutterfly483",
     "password": "*****",
     "invokedAt": "2025-07-02T23:44:13.300Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Akgül",
+    "email": "deniz.akgul@example.com",
+    "username": "happydog338",
+    "password": "backup",
+    "invokedAt": "2025-07-02T23:50:46.552Z"
   }
 ]
