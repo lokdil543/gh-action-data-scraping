@@ -526,5 +526,13 @@
     "username": "tinywolf204",
     "password": "packers1",
     "invokedAt": "2025-07-03T19:50:01.367Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Dumas",
+    "email": "jose.dumas@example.com",
+    "username": "bigzebra256",
+    "password": "zhuan",
+    "invokedAt": "2025-07-03T19:55:58.685Z"
   }
 ]
