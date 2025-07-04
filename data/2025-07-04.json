@@ -486,5 +486,13 @@
     "username": "angrybear450",
     "password": "recon",
     "invokedAt": "2025-07-04T18:27:16.364Z"
+  },
+  {
+    "firstName": "Rémy",
+    "lastName": "Lemaire",
+    "email": "remy.lemaire@example.com",
+    "username": "crazydog126",
+    "password": "fugazi",
+    "invokedAt": "2025-07-04T18:46:44.301Z"
   }
 ]
