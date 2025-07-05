@@ -190,5 +190,13 @@
     "username": "smallrabbit616",
     "password": "compaq",
     "invokedAt": "2025-07-05T08:39:21.865Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Makela",
+    "email": "vaino.makela@example.com",
+    "username": "bigsnake490",
+    "password": "wraith",
+    "invokedAt": "2025-07-05T08:51:54.939Z"
   }
 ]
