@@ -742,5 +742,13 @@
     "username": "whiteduck839",
     "password": "banane",
     "invokedAt": "2025-07-05T21:51:28.566Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Taylor",
+    "email": "daniel.taylor@example.com",
+    "username": "smallbutterfly106",
+    "password": "5555",
+    "invokedAt": "2025-07-05T21:57:23.367Z"
   }
 ]
