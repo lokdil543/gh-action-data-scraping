@@ -582,5 +582,13 @@
     "username": "bluefrog988",
     "password": "delta1",
     "invokedAt": "2025-07-06T19:10:37.763Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Balaban",
+    "email": "gokhan.balaban@example.com",
+    "username": "saddog728",
+    "password": "testibil",
+    "invokedAt": "2025-07-06T19:23:36.256Z"
   }
 ]
