@@ -774,5 +774,13 @@
     "username": "smalltiger266",
     "password": "010101",
     "invokedAt": "2025-07-06T23:30:03.502Z"
+  },
+  {
+    "firstName": "Ülkü",
+    "lastName": "Çapanoğlu",
+    "email": "ulku.capanoglu@example.com",
+    "username": "smallbird987",
+    "password": "camila",
+    "invokedAt": "2025-07-06T23:41:38.168Z"
   }
 ]
