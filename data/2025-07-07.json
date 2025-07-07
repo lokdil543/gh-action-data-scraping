@@ -662,5 +662,13 @@
     "username": "crazytiger415",
     "password": "evil",
     "invokedAt": "2025-07-07T23:32:01.014Z"
+  },
+  {
+    "firstName": "Cristina",
+    "lastName": "Sánchez",
+    "email": "cristina.sanchez@example.com",
+    "username": "silvergoose781",
+    "password": "possum",
+    "invokedAt": "2025-07-07T23:42:43.575Z"
   }
 ]
