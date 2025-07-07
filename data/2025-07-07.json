@@ -406,5 +406,13 @@
     "username": "tinymouse909",
     "password": "integra",
     "invokedAt": "2025-07-07T16:57:42.994Z"
+  },
+  {
+    "firstName": "Zackary",
+    "lastName": "Smith",
+    "email": "zackary.smith@example.com",
+    "username": "silverduck919",
+    "password": "1234abcd",
+    "invokedAt": "2025-07-07T17:12:59.330Z"
   }
 ]
