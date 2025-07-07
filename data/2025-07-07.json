@@ -534,5 +534,13 @@
     "username": "lazyduck944",
     "password": "skate",
     "invokedAt": "2025-07-07T20:33:22.623Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Pelto",
+    "email": "aapo.pelto@example.com",
+    "username": "redduck842",
+    "password": "bottle",
+    "invokedAt": "2025-07-07T20:45:59.808Z"
   }
 ]
