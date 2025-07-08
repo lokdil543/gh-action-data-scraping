@@ -46,5 +46,13 @@
     "username": "silverduck614",
     "password": "filter",
     "invokedAt": "2025-07-08T04:54:33.991Z"
+  },
+  {
+    "firstName": "Guillaume",
+    "lastName": "Dumont",
+    "email": "guillaume.dumont@example.com",
+    "username": "bluegorilla654",
+    "password": "ziggy",
+    "invokedAt": "2025-07-08T05:10:35.475Z"
   }
 ]
