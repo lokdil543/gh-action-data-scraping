@@ -638,5 +638,13 @@
     "username": "bigkoala424",
     "password": "planes",
     "invokedAt": "2025-07-08T22:52:47.124Z"
+  },
+  {
+    "firstName": "Cohen",
+    "lastName": "Morris",
+    "email": "cohen.morris@example.com",
+    "username": "yellowfish984",
+    "password": "zanzibar",
+    "invokedAt": "2025-07-08T22:58:44.156Z"
   }
 ]
