@@ -646,5 +646,13 @@
     "username": "yellowfish984",
     "password": "zanzibar",
     "invokedAt": "2025-07-08T22:58:44.156Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Johansen",
+    "email": "freja.johansen@example.com",
+    "username": "heavyduck677",
+    "password": "thing",
+    "invokedAt": "2025-07-08T23:17:04.914Z"
   }
 ]
