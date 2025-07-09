@@ -454,5 +454,13 @@
     "username": "purplecat848",
     "password": "pantera",
     "invokedAt": "2025-07-09T18:59:54.241Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Lévesque",
+    "email": "alice.levesque@example.com",
+    "username": "blackelephant943",
+    "password": "pebbles",
+    "invokedAt": "2025-07-09T19:16:57.867Z"
   }
 ]
