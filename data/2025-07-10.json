@@ -326,5 +326,13 @@
     "username": "bluebutterfly887",
     "password": "bouncer",
     "invokedAt": "2025-07-10T14:52:06.449Z"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Harrison",
+    "email": "johnny.harrison@example.com",
+    "username": "angryfish444",
+    "password": "barrett",
+    "invokedAt": "2025-07-10T14:58:34.164Z"
   }
 ]
