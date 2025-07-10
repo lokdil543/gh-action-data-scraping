@@ -614,5 +614,13 @@
     "username": "yellowpeacock372",
     "password": "earthlink",
     "invokedAt": "2025-07-10T23:00:03.964Z"
+  },
+  {
+    "firstName": "Andrés",
+    "lastName": "Palomo",
+    "email": "andres.palomo@example.com",
+    "username": "orangepeacock245",
+    "password": "redleg",
+    "invokedAt": "2025-07-10T23:20:13.095Z"
   }
 ]
