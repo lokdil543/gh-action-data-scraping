@@ -502,5 +502,13 @@
     "username": "yellowbear341",
     "password": "excess",
     "invokedAt": "2025-07-10T19:59:00.235Z"
+  },
+  {
+    "firstName": "Svetozar",
+    "lastName": "Blažić",
+    "email": "svetozar.blazic@example.com",
+    "username": "lazycat906",
+    "password": "street",
+    "invokedAt": "2025-07-10T20:20:21.103Z"
   }
 ]
