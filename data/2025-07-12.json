@@ -294,5 +294,13 @@
     "username": "whitedog223",
     "password": "shotgun",
     "invokedAt": "2025-07-12T11:43:46.039Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Mattila",
+    "email": "daniel.mattila@example.com",
+    "username": "goldenswan695",
+    "password": "player1",
+    "invokedAt": "2025-07-12T11:49:37.630Z"
   }
 ]
