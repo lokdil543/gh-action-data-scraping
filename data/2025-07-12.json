@@ -726,5 +726,13 @@
     "username": "bigdog482",
     "password": "chaser",
     "invokedAt": "2025-07-12T22:58:28.585Z"
+  },
+  {
+    "firstName": "Herman",
+    "lastName": "Harris",
+    "email": "herman.harris@example.com",
+    "username": "whitetiger162",
+    "password": "puppies",
+    "invokedAt": "2025-07-12T23:16:56.887Z"
   }
 ]
