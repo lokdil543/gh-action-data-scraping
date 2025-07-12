@@ -686,5 +686,13 @@
     "username": "crazyelephant523",
     "password": "shutup",
     "invokedAt": "2025-07-12T21:56:14.014Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Alvarez",
+    "email": "tom.alvarez@example.com",
+    "username": "lazyleopard801",
+    "password": "eleven",
+    "invokedAt": "2025-07-12T22:10:59.930Z"
   }
 ]
