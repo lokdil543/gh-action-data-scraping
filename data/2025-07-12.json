@@ -326,5 +326,13 @@
     "username": "beautifulmouse425",
     "password": "manga",
     "invokedAt": "2025-07-12T12:58:02.376Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Kennedy",
+    "email": "bob.kennedy@example.com",
+    "username": "orangedog882",
+    "password": "dollars",
+    "invokedAt": "2025-07-12T13:25:27.750Z"
   }
 ]
