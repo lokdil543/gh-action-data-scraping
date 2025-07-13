@@ -478,5 +478,13 @@
     "username": "sadzebra564",
     "password": "creative",
     "invokedAt": "2025-07-13T17:44:38.496Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "White",
+    "email": "mike.white@example.com",
+    "username": "purplegorilla150",
+    "password": "frodo1",
+    "invokedAt": "2025-07-13T17:51:53.995Z"
   }
 ]
