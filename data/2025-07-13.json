@@ -694,5 +694,13 @@
     "username": "silverlion564",
     "password": "london",
     "invokedAt": "2025-07-13T22:47:05.236Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Blažić",
+    "email": "ana.blazic@example.com",
+    "username": "blacksnake678",
+    "password": "redd",
+    "invokedAt": "2025-07-13T22:59:20.005Z"
   }
 ]
