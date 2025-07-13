@@ -414,5 +414,13 @@
     "username": "bigkoala800",
     "password": "spiker",
     "invokedAt": "2025-07-13T15:54:05.623Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Hughes",
+    "email": "byron.hughes@example.com",
+    "username": "greenfish123",
+    "password": "speaker",
+    "invokedAt": "2025-07-13T15:59:52.214Z"
   }
 ]
