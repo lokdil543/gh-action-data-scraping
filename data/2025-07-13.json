@@ -406,5 +406,13 @@
     "username": "lazytiger593",
     "password": "diesel",
     "invokedAt": "2025-07-13T15:47:49.704Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Zhang",
+    "email": "arthur.zhang@example.com",
+    "username": "bigkoala800",
+    "password": "spiker",
+    "invokedAt": "2025-07-13T15:54:05.623Z"
   }
 ]
