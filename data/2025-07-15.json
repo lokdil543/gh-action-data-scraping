@@ -430,5 +430,13 @@
     "username": "browntiger902",
     "password": "bart",
     "invokedAt": "2025-07-15T19:09:18.592Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Radosavljević",
+    "email": "stefan.radosavljevic@example.com",
+    "username": "redmouse828",
+    "password": "nike",
+    "invokedAt": "2025-07-15T19:27:49.264Z"
   }
 ]
