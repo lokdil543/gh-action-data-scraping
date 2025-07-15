@@ -414,5 +414,13 @@
     "username": "reddog834",
     "password": "11111",
     "invokedAt": "2025-07-15T18:31:24.805Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Holmes",
+    "email": "fred.holmes@example.com",
+    "username": "goldenpeacock350",
+    "password": "charles1",
+    "invokedAt": "2025-07-15T18:54:46.548Z"
   }
 ]
