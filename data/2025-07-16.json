@@ -502,5 +502,13 @@
     "username": "silversnake386",
     "password": "hamlet",
     "invokedAt": "2025-07-16T21:15:50.196Z"
+  },
+  {
+    "firstName": "Žarko",
+    "lastName": "Mladenović",
+    "email": "zarko.mladenovic@example.com",
+    "username": "lazyfrog694",
+    "password": "piercing",
+    "invokedAt": "2025-07-16T21:32:49.285Z"
   }
 ]
