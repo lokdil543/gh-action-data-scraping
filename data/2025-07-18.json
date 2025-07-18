@@ -302,5 +302,13 @@
     "username": "browngoose739",
     "password": "talon",
     "invokedAt": "2025-07-18T15:22:17.552Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Howard",
+    "email": "kent.howard@example.com",
+    "username": "orangepanda242",
+    "password": "avalon",
+    "invokedAt": "2025-07-18T15:39:49.339Z"
   }
 ]
