@@ -326,5 +326,13 @@
     "username": "blacktiger588",
     "password": "987456",
     "invokedAt": "2025-07-19T13:41:39.658Z"
+  },
+  {
+    "firstName": "Karl-Hermann",
+    "lastName": "Ostermeier",
+    "email": "karl-hermann.ostermeier@example.com",
+    "username": "yellowkoala161",
+    "password": "secure",
+    "invokedAt": "2025-07-19T13:52:52.747Z"
   }
 ]
