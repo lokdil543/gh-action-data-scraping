@@ -334,5 +334,13 @@
     "username": "yellowkoala161",
     "password": "secure",
     "invokedAt": "2025-07-19T13:52:52.747Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Murphy",
+    "email": "bill.murphy@example.com",
+    "username": "tinypanda704",
+    "password": "dogger",
+    "invokedAt": "2025-07-19T13:58:42.026Z"
   }
 ]
