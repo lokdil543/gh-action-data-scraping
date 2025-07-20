@@ -390,5 +390,13 @@
     "username": "purpledog534",
     "password": "bluesky",
     "invokedAt": "2025-07-20T15:51:24.033Z"
+  },
+  {
+    "firstName": "Thibault",
+    "lastName": "Martinez",
+    "email": "thibault.martinez@example.com",
+    "username": "greenwolf807",
+    "password": "pipeline",
+    "invokedAt": "2025-07-20T15:57:18.185Z"
   }
 ]
