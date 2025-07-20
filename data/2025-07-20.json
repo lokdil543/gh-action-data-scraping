@@ -206,5 +206,13 @@
     "username": "bluebird140",
     "password": "global",
     "invokedAt": "2025-07-20T10:11:05.514Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Newman",
+    "email": "dave.newman@example.com",
+    "username": "orangesnake377",
+    "password": "usnavy",
+    "invokedAt": "2025-07-20T10:36:54.844Z"
   }
 ]
