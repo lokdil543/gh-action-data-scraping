@@ -286,5 +286,13 @@
     "username": "goldenbutterfly243",
     "password": "tester",
     "invokedAt": "2025-07-21T15:50:10.986Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Richard",
+    "email": "nael.richard@example.com",
+    "username": "goldenelephant362",
+    "password": "kiki",
+    "invokedAt": "2025-07-21T15:57:53.374Z"
   }
 ]
