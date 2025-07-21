@@ -502,5 +502,13 @@
     "username": "happypanda177",
     "password": "1245",
     "invokedAt": "2025-07-21T22:35:56.756Z"
+  },
+  {
+    "firstName": "Miroslav",
+    "lastName": "Abramović",
+    "email": "miroslav.abramovic@example.com",
+    "username": "smallpanda262",
+    "password": "98765",
+    "invokedAt": "2025-07-21T22:49:23.487Z"
   }
 ]
