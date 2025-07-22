@@ -566,5 +566,13 @@
     "username": "lazydog246",
     "password": "action",
     "invokedAt": "2025-07-22T23:30:33.230Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Møller",
+    "email": "christian.moller@example.com",
+    "username": "orangebear654",
+    "password": "just4me",
+    "invokedAt": "2025-07-22T23:43:09.355Z"
   }
 ]
