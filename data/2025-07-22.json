@@ -174,5 +174,13 @@
     "username": "silverpanda195",
     "password": "escape",
     "invokedAt": "2025-07-22T10:16:01.000Z"
+  },
+  {
+    "firstName": "Caitlin",
+    "lastName": "Mcguinness",
+    "email": "caitlin.mcguinness@example.com",
+    "username": "crazyzebra777",
+    "password": "baggins",
+    "invokedAt": "2025-07-22T10:43:12.471Z"
   }
 ]
