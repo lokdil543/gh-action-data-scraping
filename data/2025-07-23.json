@@ -486,5 +486,13 @@
     "username": "bluefish469",
     "password": "bank",
     "invokedAt": "2025-07-23T21:57:11.381Z"
+  },
+  {
+    "firstName": "Grayson",
+    "lastName": "Zhang",
+    "email": "grayson.zhang@example.com",
+    "username": "bigcat517",
+    "password": "droopy",
+    "invokedAt": "2025-07-23T22:14:30.742Z"
   }
 ]
