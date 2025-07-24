@@ -582,5 +582,13 @@
     "username": "blacksnake405",
     "password": "letmein2",
     "invokedAt": "2025-07-24T23:35:29.495Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Kristensen",
+    "email": "alexander.kristensen@example.com",
+    "username": "sadbutterfly105",
+    "password": "dudes",
+    "invokedAt": "2025-07-24T23:46:21.807Z"
   }
 ]
