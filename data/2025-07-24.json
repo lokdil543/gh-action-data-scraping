@@ -406,5 +406,13 @@
     "username": "bigwolf265",
     "password": "dizzy",
     "invokedAt": "2025-07-24T19:00:09.979Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Medina",
+    "email": "dan.medina@example.com",
+    "username": "greenkoala173",
+    "password": "speedo",
+    "invokedAt": "2025-07-24T19:18:40.338Z"
   }
 ]
