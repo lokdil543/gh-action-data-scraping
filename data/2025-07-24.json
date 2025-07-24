@@ -414,5 +414,13 @@
     "username": "greenkoala173",
     "password": "speedo",
     "invokedAt": "2025-07-24T19:18:40.338Z"
+  },
+  {
+    "firstName": "Mehmet",
+    "lastName": "Nebioğlu",
+    "email": "mehmet.nebioglu@example.com",
+    "username": "purplerabbit123",
+    "password": "malone",
+    "invokedAt": "2025-07-24T19:31:03.683Z"
   }
 ]
