@@ -86,5 +86,13 @@
     "username": "angrycat475",
     "password": "musica",
     "invokedAt": "2025-07-25T07:33:07.493Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Moore",
+    "email": "david.moore@example.com",
+    "username": "happyduck642",
+    "password": "nimbus",
+    "invokedAt": "2025-07-25T07:45:13.693Z"
   }
 ]
