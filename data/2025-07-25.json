@@ -518,5 +518,13 @@
     "username": "sadlion162",
     "password": "berlin",
     "invokedAt": "2025-07-25T21:51:06.056Z"
+  },
+  {
+    "firstName": "Wolf",
+    "lastName": "Wiegand",
+    "email": "wolf.wiegand@example.com",
+    "username": "goldengoose673",
+    "password": "free",
+    "invokedAt": "2025-07-25T21:57:00.587Z"
   }
 ]
