@@ -622,5 +622,13 @@
     "username": "greenpanda745",
     "password": "iomega",
     "invokedAt": "2025-07-27T22:34:31.014Z"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Mitchell",
+    "email": "jeremy.mitchell@example.com",
+    "username": "greendog281",
+    "password": "peace1",
+    "invokedAt": "2025-07-27T22:48:40.697Z"
   }
 ]
