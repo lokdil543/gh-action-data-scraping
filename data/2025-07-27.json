@@ -398,5 +398,13 @@
     "username": "lazylion655",
     "password": "stayout",
     "invokedAt": "2025-07-27T16:16:57.375Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Laurila",
+    "email": "vaino.laurila@example.com",
+    "username": "angryduck479",
+    "password": "mariner",
+    "invokedAt": "2025-07-27T16:42:20.881Z"
   }
 ]
