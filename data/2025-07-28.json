@@ -174,5 +174,13 @@
     "username": "tinyelephant603",
     "password": "shop",
     "invokedAt": "2025-07-28T11:08:16.984Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Leppanen",
+    "email": "niklas.leppanen@example.com",
+    "username": "blackbutterfly251",
+    "password": "beavis",
+    "invokedAt": "2025-07-28T11:27:52.445Z"
   }
 ]
