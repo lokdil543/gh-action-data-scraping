@@ -334,5 +334,13 @@
     "username": "whiteduck727",
     "password": "squeeze",
     "invokedAt": "2025-07-28T17:48:29.465Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Jørgensen",
+    "email": "adam.jorgensen@example.com",
+    "username": "ticklishduck647",
+    "password": "music",
+    "invokedAt": "2025-07-28T17:56:00.286Z"
   }
 ]
