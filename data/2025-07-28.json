@@ -182,5 +182,13 @@
     "username": "blackbutterfly251",
     "password": "beavis",
     "invokedAt": "2025-07-28T11:27:52.445Z"
+  },
+  {
+    "firstName": "Chandresh",
+    "lastName": "Gamskar",
+    "email": "chandresh.gamskar@example.com",
+    "username": "beautifulduck799",
+    "password": "django",
+    "invokedAt": "2025-07-28T11:39:36.706Z"
   }
 ]
