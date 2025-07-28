@@ -126,5 +126,13 @@
     "username": "heavymeercat434",
     "password": "blink182",
     "invokedAt": "2025-07-28T09:14:30.078Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Weaver",
+    "email": "jane.weaver@example.com",
+    "username": "whitesnake386",
+    "password": "horndog",
+    "invokedAt": "2025-07-28T09:42:02.920Z"
   }
 ]
