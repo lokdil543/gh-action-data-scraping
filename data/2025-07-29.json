@@ -478,5 +478,13 @@
     "username": "whitepanda237",
     "password": "october",
     "invokedAt": "2025-07-29T22:22:21.514Z"
+  },
+  {
+    "firstName": "Travis",
+    "lastName": "Wright",
+    "email": "travis.wright@example.com",
+    "username": "yellowtiger790",
+    "password": "freeuser",
+    "invokedAt": "2025-07-29T22:42:23.093Z"
   }
 ]
