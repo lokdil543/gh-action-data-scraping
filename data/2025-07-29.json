@@ -270,5 +270,13 @@
     "username": "yellowbutterfly801",
     "password": "guiness",
     "invokedAt": "2025-07-29T15:22:32.722Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Turner",
+    "email": "allen.turner@example.com",
+    "username": "blackduck420",
+    "password": "goaway",
+    "invokedAt": "2025-07-29T15:43:36.126Z"
   }
 ]
