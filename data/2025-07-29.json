@@ -406,5 +406,13 @@
     "username": "bluefrog673",
     "password": "oreo",
     "invokedAt": "2025-07-29T20:20:13.821Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Lundquist",
+    "email": "albert.lundquist@example.com",
+    "username": "greenwolf347",
+    "password": "sucks",
+    "invokedAt": "2025-07-29T20:41:17.611Z"
   }
 ]
