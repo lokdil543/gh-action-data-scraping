@@ -510,5 +510,13 @@
     "username": "brownlion254",
     "password": "nico",
     "invokedAt": "2025-07-30T22:39:58.076Z"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Lemaire",
+    "email": "theo.lemaire@example.com",
+    "username": "goldenfrog748",
+    "password": "media",
+    "invokedAt": "2025-07-30T22:51:47.521Z"
   }
 ]
