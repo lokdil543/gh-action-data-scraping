@@ -494,5 +494,13 @@
     "username": "blackrabbit791",
     "password": "abc123",
     "invokedAt": "2025-08-02T19:14:23.954Z"
+  },
+  {
+    "firstName": "Stanoje",
+    "lastName": "Raspopović",
+    "email": "stanoje.raspopovic@example.com",
+    "username": "whitepeacock824",
+    "password": "wildman",
+    "invokedAt": "2025-08-02T19:26:42.379Z"
   }
 ]
