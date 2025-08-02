@@ -662,5 +662,13 @@
     "username": "redpanda100",
     "password": "imagine",
     "invokedAt": "2025-08-02T23:30:33.440Z"
+  },
+  {
+    "firstName": "Harriet",
+    "lastName": "Cooper",
+    "email": "harriet.cooper@example.com",
+    "username": "lazybear199",
+    "password": "giraffe",
+    "invokedAt": "2025-08-02T23:45:28.350Z"
   }
 ]
