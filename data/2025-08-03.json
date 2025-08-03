@@ -166,5 +166,13 @@
     "username": "greengoose520",
     "password": "softball",
     "invokedAt": "2025-08-03T09:32:02.522Z"
+  },
+  {
+    "firstName": "Silke",
+    "lastName": "Sørensen",
+    "email": "silke.sorensen@example.com",
+    "username": "lazyduck509",
+    "password": "abcd",
+    "invokedAt": "2025-08-03T09:44:44.245Z"
   }
 ]
