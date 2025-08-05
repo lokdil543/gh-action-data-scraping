@@ -206,5 +206,13 @@
     "username": "whiteduck102",
     "password": "indian",
     "invokedAt": "2025-08-05T12:27:20.891Z"
+  },
+  {
+    "firstName": "Ralf",
+    "lastName": "Pierre",
+    "email": "ralf.pierre@example.com",
+    "username": "goldenbird197",
+    "password": "jingle",
+    "invokedAt": "2025-08-05T13:13:16.866Z"
   }
 ]
