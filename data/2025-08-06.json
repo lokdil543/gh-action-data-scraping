@@ -430,5 +430,13 @@
     "username": "greendog120",
     "password": "roll",
     "invokedAt": "2025-08-06T21:00:02.529Z"
+  },
+  {
+    "firstName": "Alejandro",
+    "lastName": "Limón",
+    "email": "alejandro.limon@example.com",
+    "username": "orangeleopard597",
+    "password": "tracker",
+    "invokedAt": "2025-08-06T21:18:37.787Z"
   }
 ]
