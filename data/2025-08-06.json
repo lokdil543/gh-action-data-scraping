@@ -414,5 +414,13 @@
     "username": "angrysnake742",
     "password": "mypass",
     "invokedAt": "2025-08-06T20:41:37.234Z"
+  },
+  {
+    "firstName": "Dubravko",
+    "lastName": "Tripković",
+    "email": "dubravko.tripkovic@example.com",
+    "username": "greenbird726",
+    "password": "builder",
+    "invokedAt": "2025-08-06T20:53:57.180Z"
   }
 ]
