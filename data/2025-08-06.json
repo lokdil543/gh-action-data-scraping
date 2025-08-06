@@ -422,5 +422,13 @@
     "username": "greenbird726",
     "password": "builder",
     "invokedAt": "2025-08-06T20:53:57.180Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Larsen",
+    "email": "jacob.larsen@example.com",
+    "username": "greendog120",
+    "password": "roll",
+    "invokedAt": "2025-08-06T21:00:02.529Z"
   }
 ]
