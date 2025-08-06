@@ -438,5 +438,13 @@
     "username": "orangeleopard597",
     "password": "tracker",
     "invokedAt": "2025-08-06T21:18:37.787Z"
+  },
+  {
+    "firstName": "Florent",
+    "lastName": "Pierre",
+    "email": "florent.pierre@example.com",
+    "username": "lazyostrich597",
+    "password": "airport",
+    "invokedAt": "2025-08-06T21:33:15.591Z"
   }
 ]
