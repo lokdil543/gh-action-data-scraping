@@ -470,5 +470,13 @@
     "username": "greengorilla905",
     "password": "supreme",
     "invokedAt": "2025-08-07T21:46:42.156Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Pierre",
+    "email": "evan.pierre@example.com",
+    "username": "greengoose814",
+    "password": "abc1234",
+    "invokedAt": "2025-08-07T21:53:27.282Z"
   }
 ]
