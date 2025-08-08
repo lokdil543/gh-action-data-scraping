@@ -486,5 +486,13 @@
     "username": "bigfrog717",
     "password": "pinhead",
     "invokedAt": "2025-08-08T21:00:06.390Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Obrien",
+    "email": "brandon.obrien@example.com",
+    "username": "angrywolf568",
+    "password": "222222",
+    "invokedAt": "2025-08-08T21:19:33.517Z"
   }
 ]
