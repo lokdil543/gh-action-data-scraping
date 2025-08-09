@@ -726,5 +726,13 @@
     "username": "happyfish501",
     "password": "vulcan",
     "invokedAt": "2025-08-09T22:53:35.468Z"
+  },
+  {
+    "firstName": "Rosie",
+    "lastName": "Shaw",
+    "email": "rosie.shaw@example.com",
+    "username": "lazymouse461",
+    "password": "monkey12",
+    "invokedAt": "2025-08-09T22:59:28.142Z"
   }
 ]
