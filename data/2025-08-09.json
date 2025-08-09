@@ -246,5 +246,13 @@
     "username": "orangedog585",
     "password": "2345",
     "invokedAt": "2025-08-09T10:34:40.312Z"
+  },
+  {
+    "firstName": "Beverly",
+    "lastName": "Campbell",
+    "email": "beverly.campbell@example.com",
+    "username": "sadladybug569",
+    "password": "fiddle",
+    "invokedAt": "2025-08-09T10:47:03.842Z"
   }
 ]
