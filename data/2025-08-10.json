@@ -198,5 +198,13 @@
     "username": "bigpanda569",
     "password": "100000",
     "invokedAt": "2025-08-10T09:50:19.863Z"
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Nadler",
+    "email": "nick.nadler@example.com",
+    "username": "happysnake551",
+    "password": "medic",
+    "invokedAt": "2025-08-10T09:56:07.864Z"
   }
 ]
