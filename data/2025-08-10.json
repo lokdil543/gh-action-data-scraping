@@ -598,5 +598,13 @@
     "username": "angrygorilla511",
     "password": "five",
     "invokedAt": "2025-08-10T20:31:43.620Z"
+  },
+  {
+    "firstName": "Valtteri",
+    "lastName": "Sippola",
+    "email": "valtteri.sippola@example.com",
+    "username": "blackfrog891",
+    "password": "qiao",
+    "invokedAt": "2025-08-10T20:43:42.664Z"
   }
 ]
