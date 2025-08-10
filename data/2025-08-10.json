@@ -726,5 +726,13 @@
     "username": "greenfish994",
     "password": "chess",
     "invokedAt": "2025-08-10T23:32:00.831Z"
+  },
+  {
+    "firstName": "Maxwell",
+    "lastName": "Willis",
+    "email": "maxwell.willis@example.com",
+    "username": "brownelephant158",
+    "password": "rookie",
+    "invokedAt": "2025-08-10T23:42:58.234Z"
   }
 ]
