@@ -566,5 +566,13 @@
     "username": "angrywolf987",
     "password": "bluesman",
     "invokedAt": "2025-08-10T19:43:28.085Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Carvajal",
+    "email": "carlos.carvajal@example.com",
+    "username": "redmouse594",
+    "password": "animals",
+    "invokedAt": "2025-08-10T19:49:17.226Z"
   }
 ]
