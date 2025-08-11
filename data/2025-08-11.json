@@ -510,5 +510,13 @@
     "username": "lazyfrog360",
     "password": "syracuse",
     "invokedAt": "2025-08-11T21:45:59.545Z"
+  },
+  {
+    "firstName": "Noam",
+    "lastName": "Adam",
+    "email": "noam.adam@example.com",
+    "username": "orangefish600",
+    "password": "july",
+    "invokedAt": "2025-08-11T21:51:45.618Z"
   }
 ]
