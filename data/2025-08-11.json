@@ -566,5 +566,13 @@
     "username": "beautifulmouse176",
     "password": "sally",
     "invokedAt": "2025-08-11T22:58:00.187Z"
+  },
+  {
+    "firstName": "Stefan",
+    "lastName": "Đokić",
+    "email": "stefan.dokic@example.com",
+    "username": "crazypanda198",
+    "password": "whocares",
+    "invokedAt": "2025-08-11T23:15:00.363Z"
   }
 ]
