@@ -622,5 +622,13 @@
     "username": "crazytiger474",
     "password": "mike1",
     "invokedAt": "2025-08-12T22:31:41.029Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Lee",
+    "email": "daniel.lee@example.com",
+    "username": "whiterabbit989",
+    "password": "vulcan",
+    "invokedAt": "2025-08-12T22:44:35.162Z"
   }
 ]
