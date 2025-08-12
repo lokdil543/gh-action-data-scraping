@@ -670,5 +670,13 @@
     "username": "bigelephant459",
     "password": "phish",
     "invokedAt": "2025-08-12T23:40:03.725Z"
+  },
+  {
+    "firstName": "Samuel",
+    "lastName": "Morrison",
+    "email": "samuel.morrison@example.com",
+    "username": "angrymouse885",
+    "password": "pearljam",
+    "invokedAt": "2025-08-12T23:47:07.866Z"
   }
 ]
