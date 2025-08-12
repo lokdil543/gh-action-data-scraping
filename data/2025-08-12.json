@@ -134,5 +134,13 @@
     "username": "bluebird331",
     "password": "daphne",
     "invokedAt": "2025-08-12T07:43:45.518Z"
+  },
+  {
+    "firstName": "Guillermo",
+    "lastName": "García",
+    "email": "guillermo.garcia@example.com",
+    "username": "tinyleopard615",
+    "password": "change",
+    "invokedAt": "2025-08-12T07:49:51.374Z"
   }
 ]
