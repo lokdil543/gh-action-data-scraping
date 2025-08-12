@@ -662,5 +662,13 @@
     "username": "blueelephant828",
     "password": "base",
     "invokedAt": "2025-08-12T23:29:45.881Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Werner",
+    "email": "robert.werner@example.com",
+    "username": "bigelephant459",
+    "password": "phish",
+    "invokedAt": "2025-08-12T23:40:03.725Z"
   }
 ]
