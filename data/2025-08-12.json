@@ -630,5 +630,13 @@
     "username": "whiterabbit989",
     "password": "vulcan",
     "invokedAt": "2025-08-12T22:44:35.162Z"
+  },
+  {
+    "firstName": "Ivar",
+    "lastName": "Martin",
+    "email": "ivar.martin@example.com",
+    "username": "bigbird418",
+    "password": "beta",
+    "invokedAt": "2025-08-12T22:51:15.431Z"
   }
 ]
