@@ -206,5 +206,13 @@
     "username": "silverdog297",
     "password": "snowball",
     "invokedAt": "2025-08-13T10:14:04.678Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Edwards",
+    "email": "michael.edwards@example.com",
+    "username": "goldendog125",
+    "password": "trinity",
+    "invokedAt": "2025-08-13T10:38:03.679Z"
   }
 ]
