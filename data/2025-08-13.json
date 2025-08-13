@@ -558,5 +558,13 @@
     "username": "happyelephant900",
     "password": "marsh",
     "invokedAt": "2025-08-13T20:10:29.518Z"
+  },
+  {
+    "firstName": "Cyrus",
+    "lastName": "Van der Weegen",
+    "email": "cyrus.vanderweegen@example.com",
+    "username": "orangeladybug279",
+    "password": "stranger",
+    "invokedAt": "2025-08-13T20:32:57.498Z"
   }
 ]
