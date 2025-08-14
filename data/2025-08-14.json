@@ -534,5 +534,13 @@
     "username": "smalldog336",
     "password": "better",
     "invokedAt": "2025-08-14T20:34:35.718Z"
+  },
+  {
+    "firstName": "Eden",
+    "lastName": "Wilson",
+    "email": "eden.wilson@example.com",
+    "username": "bigfrog343",
+    "password": "clippers",
+    "invokedAt": "2025-08-14T20:46:25.551Z"
   }
 ]
