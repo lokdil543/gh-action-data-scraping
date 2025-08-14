@@ -390,5 +390,13 @@
     "username": "heavyelephant455",
     "password": "2345",
     "invokedAt": "2025-08-14T16:42:22.071Z"
+  },
+  {
+    "firstName": "Ruben",
+    "lastName": "Ødegaard",
+    "email": "ruben.odegaard@example.com",
+    "username": "yellowsnake994",
+    "password": "mondeo",
+    "invokedAt": "2025-08-14T16:54:43.433Z"
   }
 ]
