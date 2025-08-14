@@ -182,5 +182,13 @@
     "username": "smalldog756",
     "password": "supersta",
     "invokedAt": "2025-08-14T09:40:04.700Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Schmitt",
+    "email": "paul.schmitt@example.com",
+    "username": "redsnake534",
+    "password": "skibum",
+    "invokedAt": "2025-08-14T09:50:34.012Z"
   }
 ]
