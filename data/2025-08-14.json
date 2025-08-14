@@ -502,5 +502,13 @@
     "username": "biglion701",
     "password": "abnormal",
     "invokedAt": "2025-08-14T19:45:05.300Z"
+  },
+  {
+    "firstName": "Pranav",
+    "lastName": "Suvarna",
+    "email": "pranav.suvarna@example.com",
+    "username": "greentiger947",
+    "password": "cypress",
+    "invokedAt": "2025-08-14T19:51:00.375Z"
   }
 ]
