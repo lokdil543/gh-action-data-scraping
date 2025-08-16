@@ -790,5 +790,13 @@
     "username": "brownduck101",
     "password": "sander",
     "invokedAt": "2025-08-16T22:35:18.734Z"
+  },
+  {
+    "firstName": "Juho",
+    "lastName": "Hannula",
+    "email": "juho.hannula@example.com",
+    "username": "happyfish465",
+    "password": "magick",
+    "invokedAt": "2025-08-16T22:44:48.254Z"
   }
 ]
