@@ -782,5 +782,13 @@
     "username": "bigfrog243",
     "password": "england",
     "invokedAt": "2025-08-16T22:19:17.897Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Schupp",
+    "email": "finn.schupp@example.com",
+    "username": "brownduck101",
+    "password": "sander",
+    "invokedAt": "2025-08-16T22:35:18.734Z"
   }
 ]
