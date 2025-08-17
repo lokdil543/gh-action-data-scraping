@@ -382,5 +382,13 @@
     "username": "happydog163",
     "password": "a1b2c3d4",
     "invokedAt": "2025-08-17T13:57:44.035Z"
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Barnes",
+    "email": "elijah.barnes@example.com",
+    "username": "beautifulbird507",
+    "password": "preacher",
+    "invokedAt": "2025-08-17T14:13:19.542Z"
   }
 ]
