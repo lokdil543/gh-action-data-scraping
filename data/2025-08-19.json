@@ -262,5 +262,13 @@
     "username": "crazyrabbit775",
     "password": "forget",
     "invokedAt": "2025-08-19T10:34:26.523Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Pedersen",
+    "email": "anna.pedersen@example.com",
+    "username": "tinyswan808",
+    "password": "alley",
+    "invokedAt": "2025-08-19T10:47:20.666Z"
   }
 ]
