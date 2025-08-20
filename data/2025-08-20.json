@@ -38,5 +38,13 @@
     "username": "organicdog131",
     "password": "1223",
     "invokedAt": "2025-08-20T03:58:52.524Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Morris",
+    "email": "thomas.morris@example.com",
+    "username": "crazyfrog725",
+    "password": "referee",
+    "invokedAt": "2025-08-20T04:20:45.892Z"
   }
 ]
