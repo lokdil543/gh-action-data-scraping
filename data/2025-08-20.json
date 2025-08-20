@@ -342,5 +342,13 @@
     "username": "orangebear784",
     "password": "delmar",
     "invokedAt": "2025-08-20T11:55:00.675Z"
+  },
+  {
+    "firstName": "Jen",
+    "lastName": "Scott",
+    "email": "jen.scott@example.com",
+    "username": "redswan803",
+    "password": "streaming",
+    "invokedAt": "2025-08-20T12:15:50.020Z"
   }
 ]
