@@ -422,5 +422,13 @@
     "username": "happygorilla263",
     "password": "nextel",
     "invokedAt": "2025-08-20T14:59:05.735Z"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Holmes",
+    "email": "joey.holmes@example.com",
+    "username": "lazyostrich303",
+    "password": "faithful",
+    "invokedAt": "2025-08-20T15:18:49.193Z"
   }
 ]
