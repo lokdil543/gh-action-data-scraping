@@ -318,5 +318,13 @@
     "username": "organickoala164",
     "password": "garbage",
     "invokedAt": "2025-08-21T11:43:15.285Z"
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "Skjerven",
+    "email": "colin.skjerven@example.com",
+    "username": "lazycat542",
+    "password": "data",
+    "invokedAt": "2025-08-21T11:49:09.702Z"
   }
 ]
