@@ -710,5 +710,13 @@
     "username": "heavyswan827",
     "password": "passpass",
     "invokedAt": "2025-08-22T21:08:17.667Z"
+  },
+  {
+    "firstName": "Asunción",
+    "lastName": "Vega",
+    "email": "asuncion.vega@example.com",
+    "username": "redmouse112",
+    "password": "barker",
+    "invokedAt": "2025-08-22T21:25:16.491Z"
   }
 ]
