@@ -550,5 +550,13 @@
     "username": "goldenzebra705",
     "password": "12345678",
     "invokedAt": "2025-08-22T17:41:05.598Z"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Simonović",
+    "email": "marta.simonovic@example.com",
+    "username": "lazybird426",
+    "password": "ollie",
+    "invokedAt": "2025-08-22T17:47:05.620Z"
   }
 ]
