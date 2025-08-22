@@ -790,5 +790,13 @@
     "username": "sadzebra107",
     "password": "scrappy",
     "invokedAt": "2025-08-22T22:54:09.638Z"
+  },
+  {
+    "firstName": "Ramona",
+    "lastName": "Adam",
+    "email": "ramona.adam@example.com",
+    "username": "happyzebra283",
+    "password": "cheese1",
+    "invokedAt": "2025-08-22T22:59:59.360Z"
   }
 ]
