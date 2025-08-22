@@ -542,5 +542,13 @@
     "username": "purpleduck423",
     "password": "rrpass1",
     "invokedAt": "2025-08-22T17:30:14.441Z"
+  },
+  {
+    "firstName": "Nuno",
+    "lastName": "Mendes",
+    "email": "nuno.mendes@example.com",
+    "username": "goldenzebra705",
+    "password": "12345678",
+    "invokedAt": "2025-08-22T17:41:05.598Z"
   }
 ]
