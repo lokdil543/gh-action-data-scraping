@@ -478,5 +478,13 @@
     "username": "smallpeacock281",
     "password": "5454",
     "invokedAt": "2025-08-22T15:45:18.366Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Johnson",
+    "email": "roger.johnson@example.com",
+    "username": "smallbird203",
+    "password": "halflife",
+    "invokedAt": "2025-08-22T15:51:02.754Z"
   }
 ]
