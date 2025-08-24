@@ -358,5 +358,13 @@
     "username": "greensnake939",
     "password": "lister",
     "invokedAt": "2025-08-24T11:41:51.986Z"
+  },
+  {
+    "firstName": "Walter",
+    "lastName": "Ngo",
+    "email": "walter.ngo@example.com",
+    "username": "angryduck380",
+    "password": "east",
+    "invokedAt": "2025-08-24T11:47:40.770Z"
   }
 ]
