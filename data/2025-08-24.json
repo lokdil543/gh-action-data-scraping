@@ -566,5 +566,13 @@
     "username": "crazysnake199",
     "password": "iamgod",
     "invokedAt": "2025-08-24T16:52:19.248Z"
+  },
+  {
+    "firstName": "Donna",
+    "lastName": "Smith",
+    "email": "donna.smith@example.com",
+    "username": "angryladybug959",
+    "password": "broken",
+    "invokedAt": "2025-08-24T16:58:10.745Z"
   }
 ]
