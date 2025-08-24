@@ -454,5 +454,13 @@
     "username": "bigkoala757",
     "password": "bushido",
     "invokedAt": "2025-08-24T14:30:29.913Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "King",
+    "email": "david.king@example.com",
+    "username": "happysnake721",
+    "password": "theend",
+    "invokedAt": "2025-08-24T14:40:06.002Z"
   }
 ]
