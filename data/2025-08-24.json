@@ -470,5 +470,13 @@
     "username": "crazypanda905",
     "password": "poohbear",
     "invokedAt": "2025-08-24T14:46:02.518Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "da Paz",
+    "email": "fred.dapaz@example.com",
+    "username": "bluebird640",
+    "password": "tigger1",
+    "invokedAt": "2025-08-24T14:52:02.854Z"
   }
 ]
