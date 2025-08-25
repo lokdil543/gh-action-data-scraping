@@ -126,5 +126,13 @@
     "username": "happybear620",
     "password": "benjamin",
     "invokedAt": "2025-08-25T07:00:16.355Z"
+  },
+  {
+    "firstName": "Thijn",
+    "lastName": "Engelberts",
+    "email": "thijn.engelberts@example.com",
+    "username": "happygorilla976",
+    "password": "superstar",
+    "invokedAt": "2025-08-25T07:20:55.030Z"
   }
 ]
