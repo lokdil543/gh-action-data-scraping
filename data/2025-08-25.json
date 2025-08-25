@@ -278,5 +278,13 @@
     "username": "yellowostrich965",
     "password": "movie",
     "invokedAt": "2025-08-25T11:09:25.708Z"
+  },
+  {
+    "firstName": "Ezra",
+    "lastName": "Lewis",
+    "email": "ezra.lewis@example.com",
+    "username": "lazydog164",
+    "password": "1971",
+    "invokedAt": "2025-08-25T11:25:05.584Z"
   }
 ]
