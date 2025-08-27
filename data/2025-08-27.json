@@ -718,5 +718,13 @@
     "username": "greenfish325",
     "password": "iguana",
     "invokedAt": "2025-08-27T20:34:36.227Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Clark",
+    "email": "alice.clark@example.com",
+    "username": "blackfish223",
+    "password": "marijuan",
+    "invokedAt": "2025-08-27T20:44:02.530Z"
   }
 ]
