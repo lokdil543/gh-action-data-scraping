@@ -758,5 +758,13 @@
     "username": "redostrich723",
     "password": "1986",
     "invokedAt": "2025-08-27T21:25:11.392Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Côté",
+    "email": "alice.cote@example.com",
+    "username": "goldenfish712",
+    "password": "robotics",
+    "invokedAt": "2025-08-27T21:32:42.100Z"
   }
 ]
