@@ -366,5 +366,13 @@
     "username": "orangegoose700",
     "password": "zeppelin",
     "invokedAt": "2025-08-27T11:37:43.601Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Petersen",
+    "email": "albert.petersen@example.com",
+    "username": "smalldog354",
+    "password": "shazam",
+    "invokedAt": "2025-08-27T11:43:39.530Z"
   }
 ]
