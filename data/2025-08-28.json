@@ -286,5 +286,13 @@
     "username": "biggorilla211",
     "password": "coldplay",
     "invokedAt": "2025-08-28T10:17:44.494Z"
+  },
+  {
+    "firstName": "Joakim",
+    "lastName": "Skjolden",
+    "email": "joakim.skjolden@example.com",
+    "username": "redgorilla936",
+    "password": "1114",
+    "invokedAt": "2025-08-28T10:37:04.452Z"
   }
 ]
