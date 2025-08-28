@@ -574,5 +574,13 @@
     "username": "lazymeercat859",
     "password": "88888",
     "invokedAt": "2025-08-28T17:45:34.361Z"
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Ibáñez",
+    "email": "fernando.ibanez@example.com",
+    "username": "angryfrog148",
+    "password": "timeout",
+    "invokedAt": "2025-08-28T17:51:39.651Z"
   }
 ]
