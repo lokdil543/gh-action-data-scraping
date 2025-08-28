@@ -854,5 +854,13 @@
     "username": "purplebear390",
     "password": "test1234",
     "invokedAt": "2025-08-28T23:34:19.477Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Nguyen",
+    "email": "david.nguyen@example.com",
+    "username": "organicbear743",
+    "password": "kaiser",
+    "invokedAt": "2025-08-28T23:40:50.767Z"
   }
 ]
