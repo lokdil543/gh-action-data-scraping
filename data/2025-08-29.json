@@ -838,5 +838,13 @@
     "username": "greenlion199",
     "password": "photo",
     "invokedAt": "2025-08-29T22:10:16.396Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Wainio",
+    "email": "jimi.wainio@example.com",
+    "username": "lazybird414",
+    "password": "concorde",
+    "invokedAt": "2025-08-29T22:28:30.109Z"
   }
 ]
