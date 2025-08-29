@@ -782,5 +782,13 @@
     "username": "heavyleopard103",
     "password": "firefox",
     "invokedAt": "2025-08-29T21:12:33.125Z"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Obrien",
+    "email": "joe.obrien@example.com",
+    "username": "redmouse372",
+    "password": "susie",
+    "invokedAt": "2025-08-29T21:25:39.431Z"
   }
 ]
