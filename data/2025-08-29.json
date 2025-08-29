@@ -518,5 +518,13 @@
     "username": "happydog268",
     "password": "whatsup",
     "invokedAt": "2025-08-29T15:38:57.875Z"
+  },
+  {
+    "firstName": "Beau",
+    "lastName": "Zhang",
+    "email": "beau.zhang@example.com",
+    "username": "blueostrich333",
+    "password": "orange",
+    "invokedAt": "2025-08-29T15:45:11.213Z"
   }
 ]
