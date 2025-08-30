@@ -1006,5 +1006,13 @@
     "username": "smallduck727",
     "password": "testing",
     "invokedAt": "2025-08-30T23:24:06.691Z"
+  },
+  {
+    "firstName": "Candice",
+    "lastName": "Legrand",
+    "email": "candice.legrand@example.com",
+    "username": "sadmouse945",
+    "password": "ninja",
+    "invokedAt": "2025-08-30T23:30:30.664Z"
   }
 ]
