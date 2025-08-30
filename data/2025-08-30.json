@@ -502,5 +502,13 @@
     "username": "crazyfish340",
     "password": "tight",
     "invokedAt": "2025-08-30T13:45:42.800Z"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Durand",
+    "email": "nicolas.durand@example.com",
+    "username": "bigmouse366",
+    "password": "xxxxx",
+    "invokedAt": "2025-08-30T13:51:31.417Z"
   }
 ]
