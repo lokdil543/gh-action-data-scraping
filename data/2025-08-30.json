@@ -734,5 +734,13 @@
     "username": "lazymouse380",
     "password": "414141",
     "invokedAt": "2025-08-30T18:11:30.539Z"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Neumüller",
+    "email": "pierre.neumuller@example.com",
+    "username": "blacktiger314",
+    "password": "partner",
+    "invokedAt": "2025-08-30T18:35:06.804Z"
   }
 ]
