@@ -838,5 +838,13 @@
     "username": "lazyfish787",
     "password": "1103",
     "invokedAt": "2025-08-30T20:12:50.944Z"
+  },
+  {
+    "firstName": "Gojko",
+    "lastName": "Spajić",
+    "email": "gojko.spajic@example.com",
+    "username": "ticklishdog233",
+    "password": "bonkers",
+    "invokedAt": "2025-08-30T20:28:23.535Z"
   }
 ]
