@@ -1022,5 +1022,13 @@
     "username": "bigdog948",
     "password": "card",
     "invokedAt": "2025-08-30T23:37:24.152Z"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Fossmark",
+    "email": "jimmy.fossmark@example.com",
+    "username": "purplezebra207",
+    "password": "bonita",
+    "invokedAt": "2025-08-30T23:43:19.705Z"
   }
 ]
