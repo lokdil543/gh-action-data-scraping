@@ -582,5 +582,13 @@
     "username": "yellowostrich214",
     "password": "slick",
     "invokedAt": "2025-08-30T15:15:14.374Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Márquez",
+    "email": "roberto.marquez@example.com",
+    "username": "heavyostrich112",
+    "password": "dummy",
+    "invokedAt": "2025-08-30T15:27:28.811Z"
   }
 ]
