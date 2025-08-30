@@ -782,5 +782,13 @@
     "username": "whitebird112",
     "password": "koolaid",
     "invokedAt": "2025-08-30T19:20:54.913Z"
+  },
+  {
+    "firstName": "Vojislav",
+    "lastName": "Šerbedžija",
+    "email": "vojislav.serbedzija@example.com",
+    "username": "greenfrog132",
+    "password": "weather",
+    "invokedAt": "2025-08-30T19:26:40.790Z"
   }
 ]
