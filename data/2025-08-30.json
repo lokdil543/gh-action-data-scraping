@@ -998,5 +998,13 @@
     "username": "whiteswan869",
     "password": "hakr",
     "invokedAt": "2025-08-30T23:08:20.429Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Østerhus",
+    "email": "finn.osterhus@example.com",
+    "username": "smallduck727",
+    "password": "testing",
+    "invokedAt": "2025-08-30T23:24:06.691Z"
   }
 ]
