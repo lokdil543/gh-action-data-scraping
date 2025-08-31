@@ -342,5 +342,13 @@
     "username": "purpleduck360",
     "password": "cougar",
     "invokedAt": "2025-08-31T10:31:54.611Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Hart",
+    "email": "marshall.hart@example.com",
+    "username": "brownfrog439",
+    "password": "google",
+    "invokedAt": "2025-08-31T10:41:07.126Z"
   }
 ]
