@@ -550,5 +550,13 @@
     "username": "happybear400",
     "password": "bubba",
     "invokedAt": "2025-08-31T14:55:17.967Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Molina",
+    "email": "jonathan.molina@example.com",
+    "username": "lazyduck528",
+    "password": "filter",
+    "invokedAt": "2025-08-31T15:07:51.042Z"
   }
 ]
