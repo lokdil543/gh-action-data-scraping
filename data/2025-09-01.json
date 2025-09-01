@@ -766,5 +766,13 @@
     "username": "bigbutterfly401",
     "password": "pharmacy",
     "invokedAt": "2025-09-01T22:11:39.966Z"
+  },
+  {
+    "firstName": "Tinius",
+    "lastName": "Hjørnevik",
+    "email": "tinius.hjornevik@example.com",
+    "username": "orangecat498",
+    "password": "lara",
+    "invokedAt": "2025-09-01T22:29:42.203Z"
   }
 ]
