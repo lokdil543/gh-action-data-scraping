@@ -430,5 +430,13 @@
     "username": "purplegorilla545",
     "password": "fast",
     "invokedAt": "2025-09-01T15:28:44.965Z"
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Johnson",
+    "email": "jared.johnson@example.com",
+    "username": "redfrog645",
+    "password": "vortex",
+    "invokedAt": "2025-09-01T15:38:21.583Z"
   }
 ]
