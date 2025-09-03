@@ -590,5 +590,13 @@
     "username": "bigfrog309",
     "password": "hidden",
     "invokedAt": "2025-09-03T16:55:39.183Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Tremblay",
+    "email": "simon.tremblay@example.com",
+    "username": "heavyduck215",
+    "password": "bike",
+    "invokedAt": "2025-09-03T17:08:07.174Z"
   }
 ]
