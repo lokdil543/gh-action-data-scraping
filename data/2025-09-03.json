@@ -686,5 +686,13 @@
     "username": "bluefrog429",
     "password": "phish",
     "invokedAt": "2025-09-03T19:00:25.299Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Morin",
+    "email": "eva.morin@example.com",
+    "username": "sadfrog610",
+    "password": "thedude",
+    "invokedAt": "2025-09-03T19:15:41.575Z"
   }
 ]
