@@ -366,5 +366,13 @@
     "username": "bigbutterfly200",
     "password": "firefly",
     "invokedAt": "2025-09-04T11:14:35.112Z"
+  },
+  {
+    "firstName": "Sue",
+    "lastName": "Wallace",
+    "email": "sue.wallace@example.com",
+    "username": "beautifulfrog457",
+    "password": "peachy",
+    "invokedAt": "2025-09-04T11:25:33.671Z"
   }
 ]
