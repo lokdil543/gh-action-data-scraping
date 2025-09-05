@@ -430,5 +430,13 @@
     "username": "smallbear780",
     "password": "ruby",
     "invokedAt": "2025-09-05T13:04:14.866Z"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Lauritsen",
+    "email": "jack.lauritsen@example.com",
+    "username": "lazypanda701",
+    "password": "passme",
+    "invokedAt": "2025-09-05T13:31:58.347Z"
   }
 ]
