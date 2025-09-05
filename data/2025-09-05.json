@@ -398,5 +398,13 @@
     "username": "crazywolf474",
     "password": "photo",
     "invokedAt": "2025-09-05T11:47:52.787Z"
+  },
+  {
+    "firstName": "Remzi",
+    "lastName": "Kruik",
+    "email": "remzi.kruik@example.com",
+    "username": "redrabbit314",
+    "password": "1989",
+    "invokedAt": "2025-09-05T11:53:44.196Z"
   }
 ]
