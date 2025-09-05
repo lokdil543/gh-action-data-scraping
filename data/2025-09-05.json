@@ -406,5 +406,13 @@
     "username": "redrabbit314",
     "password": "1989",
     "invokedAt": "2025-09-05T11:53:44.196Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Hanson",
+    "email": "max.hanson@example.com",
+    "username": "yellowcat620",
+    "password": "cornell",
+    "invokedAt": "2025-09-05T11:59:27.600Z"
   }
 ]
