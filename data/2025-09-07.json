@@ -470,5 +470,13 @@
     "username": "crazyleopard475",
     "password": "prime",
     "invokedAt": "2025-09-07T12:34:05.472Z"
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Hunt",
+    "email": "patricia.hunt@example.com",
+    "username": "blackgoose142",
+    "password": "lestat",
+    "invokedAt": "2025-09-07T12:58:59.814Z"
   }
 ]
