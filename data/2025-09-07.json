@@ -30,5 +30,13 @@
     "username": "browndog425",
     "password": "umbrella",
     "invokedAt": "2025-09-07T03:38:28.415Z"
+  },
+  {
+    "firstName": "Calvin",
+    "lastName": "Soto",
+    "email": "calvin.soto@example.com",
+    "username": "greengoose812",
+    "password": "abcdefg",
+    "invokedAt": "2025-09-07T03:50:10.265Z"
   }
 ]
