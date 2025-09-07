@@ -614,5 +614,13 @@
     "username": "greentiger762",
     "password": "favorite",
     "invokedAt": "2025-09-07T15:36:38.312Z"
+  },
+  {
+    "firstName": "Leónidas",
+    "lastName": "das Neves",
+    "email": "leonidas.dasneves@example.com",
+    "username": "greenzebra410",
+    "password": "string",
+    "invokedAt": "2025-09-07T15:42:37.066Z"
   }
 ]
