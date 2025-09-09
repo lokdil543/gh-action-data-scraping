@@ -326,5 +326,13 @@
     "username": "happypanda995",
     "password": "safety",
     "invokedAt": "2025-09-09T10:56:44.696Z"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Lowe",
+    "email": "gary.lowe@example.com",
+    "username": "happycat310",
+    "password": "gene",
+    "invokedAt": "2025-09-09T11:10:57.023Z"
   }
 ]
