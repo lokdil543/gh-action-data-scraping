@@ -726,5 +726,13 @@
     "username": "purpleelephant776",
     "password": "slayer1",
     "invokedAt": "2025-09-10T19:35:48.234Z"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Gaillard",
+    "email": "damien.gaillard@example.com",
+    "username": "blackdog933",
+    "password": "bigfoot",
+    "invokedAt": "2025-09-10T19:41:42.913Z"
   }
 ]
