@@ -366,5 +366,13 @@
     "username": "purplebear214",
     "password": "michel",
     "invokedAt": "2025-09-10T10:59:52.960Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Diez",
+    "email": "juan.diez@example.com",
+    "username": "redostrich368",
+    "password": "asdf",
+    "invokedAt": "2025-09-10T11:15:04.026Z"
   }
 ]
