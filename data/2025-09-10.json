@@ -398,5 +398,13 @@
     "username": "brownpanda172",
     "password": "bender",
     "invokedAt": "2025-09-10T11:39:00.846Z"
+  },
+  {
+    "firstName": "Annie",
+    "lastName": "Achenbach",
+    "email": "annie.achenbach@example.com",
+    "username": "crazyostrich619",
+    "password": "1983",
+    "invokedAt": "2025-09-10T11:44:46.176Z"
   }
 ]
