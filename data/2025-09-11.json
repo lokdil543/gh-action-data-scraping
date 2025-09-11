@@ -742,5 +742,13 @@
     "username": "lazyduck936",
     "password": "express",
     "invokedAt": "2025-09-11T19:35:49.313Z"
+  },
+  {
+    "firstName": "Önal",
+    "lastName": "Örge",
+    "email": "onal.orge@example.com",
+    "username": "smallfish668",
+    "password": "mizuno",
+    "invokedAt": "2025-09-11T19:41:42.500Z"
   }
 ]
