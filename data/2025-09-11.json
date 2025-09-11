@@ -598,5 +598,13 @@
     "username": "greenpeacock848",
     "password": "guess",
     "invokedAt": "2025-09-11T16:49:18.696Z"
+  },
+  {
+    "firstName": "Bertrand",
+    "lastName": "Fournier",
+    "email": "bertrand.fournier@example.com",
+    "username": "bluegoose243",
+    "password": "161616",
+    "invokedAt": "2025-09-11T16:55:11.508Z"
   }
 ]
