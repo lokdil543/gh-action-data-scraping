@@ -214,5 +214,13 @@
     "username": "goldenfrog102",
     "password": "bills",
     "invokedAt": "2025-09-12T07:39:52.803Z"
+  },
+  {
+    "firstName": "Théo",
+    "lastName": "Sanchez",
+    "email": "theo.sanchez@example.com",
+    "username": "brownkoala844",
+    "password": "tartar",
+    "invokedAt": "2025-09-12T07:45:35.899Z"
   }
 ]
