@@ -710,5 +710,13 @@
     "username": "heavyelephant247",
     "password": "hollywood",
     "invokedAt": "2025-09-12T18:45:23.220Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Andersen",
+    "email": "felix.andersen@example.com",
+    "username": "blackfish841",
+    "password": "orchid",
+    "invokedAt": "2025-09-12T18:51:06.680Z"
   }
 ]
