@@ -1134,5 +1134,13 @@
     "username": "goldenelephant722",
     "password": "krypton",
     "invokedAt": "2025-09-13T23:42:58.758Z"
+  },
+  {
+    "firstName": "Roger",
+    "lastName": "Kelley",
+    "email": "roger.kelley@example.com",
+    "username": "bluefrog803",
+    "password": "dogger",
+    "invokedAt": "2025-09-13T23:48:54.079Z"
   }
 ]
