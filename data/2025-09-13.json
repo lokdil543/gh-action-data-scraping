@@ -710,5 +710,13 @@
     "username": "silverbird531",
     "password": "carlitos",
     "invokedAt": "2025-09-13T16:33:42.543Z"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Leroux",
+    "email": "luis.leroux@example.com",
+    "username": "yellowdog216",
+    "password": "funtime",
+    "invokedAt": "2025-09-13T16:41:41.753Z"
   }
 ]
