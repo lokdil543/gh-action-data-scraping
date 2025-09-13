@@ -982,5 +982,13 @@
     "username": "smallbutterfly634",
     "password": "starwars",
     "invokedAt": "2025-09-13T21:12:33.716Z"
+  },
+  {
+    "firstName": "Delores",
+    "lastName": "Miles",
+    "email": "delores.miles@example.com",
+    "username": "goldenleopard958",
+    "password": "whiteout",
+    "invokedAt": "2025-09-13T21:23:26.629Z"
   }
 ]
