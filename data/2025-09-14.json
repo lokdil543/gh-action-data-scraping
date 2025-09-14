@@ -758,5 +758,13 @@
     "username": "lazypeacock215",
     "password": "olympia",
     "invokedAt": "2025-09-14T17:47:40.040Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Rousseau",
+    "email": "john.rousseau@example.com",
+    "username": "purpleelephant401",
+    "password": "stroker",
+    "invokedAt": "2025-09-14T17:53:34.242Z"
   }
 ]
