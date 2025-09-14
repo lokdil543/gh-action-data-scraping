@@ -542,5 +542,13 @@
     "username": "brownfish885",
     "password": "second",
     "invokedAt": "2025-09-14T13:55:37.094Z"
+  },
+  {
+    "firstName": "Eik",
+    "lastName": "Bartnes",
+    "email": "eik.bartnes@example.com",
+    "username": "redduck543",
+    "password": "windows",
+    "invokedAt": "2025-09-14T14:07:18.995Z"
   }
 ]
