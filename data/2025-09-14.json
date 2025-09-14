@@ -886,5 +886,13 @@
     "username": "heavyzebra971",
     "password": "gentle",
     "invokedAt": "2025-09-14T20:00:06.468Z"
+  },
+  {
+    "firstName": "Sarra",
+    "lastName": "El Messaoudi",
+    "email": "sarra.elmessaoudi@example.com",
+    "username": "brownmeercat695",
+    "password": "bogus",
+    "invokedAt": "2025-09-14T20:18:33.595Z"
   }
 ]
