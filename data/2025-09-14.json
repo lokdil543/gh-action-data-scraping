@@ -1022,5 +1022,13 @@
     "username": "purplezebra405",
     "password": "funtime",
     "invokedAt": "2025-09-14T22:33:09.089Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Meyer",
+    "email": "peter.meyer@example.com",
+    "username": "tinygoose263",
+    "password": "dian",
+    "invokedAt": "2025-09-14T22:40:11.065Z"
   }
 ]
