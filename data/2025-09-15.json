@@ -286,5 +286,13 @@
     "username": "bigcat365",
     "password": "2424",
     "invokedAt": "2025-09-15T10:20:11.324Z"
+  },
+  {
+    "firstName": "Wendel",
+    "lastName": "Van de Luijtgaarden",
+    "email": "wendel.vandeluijtgaarden@example.com",
+    "username": "tinymeercat836",
+    "password": "brain",
+    "invokedAt": "2025-09-15T10:37:52.004Z"
   }
 ]
