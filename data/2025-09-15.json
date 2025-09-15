@@ -246,5 +246,13 @@
     "username": "bigladybug137",
     "password": "funny",
     "invokedAt": "2025-09-15T09:32:01.019Z"
+  },
+  {
+    "firstName": "Joerg",
+    "lastName": "Stiller",
+    "email": "joerg.stiller@example.com",
+    "username": "redtiger934",
+    "password": "longer",
+    "invokedAt": "2025-09-15T09:42:21.394Z"
   }
 ]
