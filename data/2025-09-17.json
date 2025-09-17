@@ -830,5 +830,13 @@
     "username": "bigelephant843",
     "password": "peter",
     "invokedAt": "2025-09-17T21:42:46.954Z"
+  },
+  {
+    "firstName": "Hans-Josef",
+    "lastName": "Friedmann",
+    "email": "hans-josef.friedmann@example.com",
+    "username": "greencat214",
+    "password": "teng",
+    "invokedAt": "2025-09-17T21:48:44.312Z"
   }
 ]
