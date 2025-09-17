@@ -782,5 +782,13 @@
     "username": "angryelephant268",
     "password": "wrestler",
     "invokedAt": "2025-09-17T20:52:54.733Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Mason",
+    "email": "sam.mason@example.com",
+    "username": "orangecat160",
+    "password": "theforce",
+    "invokedAt": "2025-09-17T20:58:42.800Z"
   }
 ]
