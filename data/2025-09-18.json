@@ -742,5 +742,13 @@
     "username": "lazypeacock400",
     "password": "fender1",
     "invokedAt": "2025-09-18T20:17:42.337Z"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Cunningham",
+    "email": "justin.cunningham@example.com",
+    "username": "crazypanda468",
+    "password": "wicked",
+    "invokedAt": "2025-09-18T20:32:19.596Z"
   }
 ]
