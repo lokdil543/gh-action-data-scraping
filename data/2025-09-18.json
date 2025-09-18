@@ -526,5 +526,13 @@
     "username": "blackrabbit282",
     "password": "spurs",
     "invokedAt": "2025-09-18T15:32:59.073Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Gutierrez",
+    "email": "andy.gutierrez@example.com",
+    "username": "bigmouse238",
+    "password": "hooper",
+    "invokedAt": "2025-09-18T15:41:48.842Z"
   }
 ]
