@@ -958,5 +958,13 @@
     "username": "crazypeacock582",
     "password": "hotmail",
     "invokedAt": "2025-09-19T23:54:06.530Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Hansen",
+    "email": "storm.hansen@example.com",
+    "username": "brownfish260",
+    "password": "dipper",
+    "invokedAt": "2025-09-19T23:59:53.938Z"
   }
 ]
