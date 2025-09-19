@@ -710,5 +710,13 @@
     "username": "whitefish510",
     "password": "patton",
     "invokedAt": "2025-09-19T19:30:04.016Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Walters",
+    "email": "carl.walters@example.com",
+    "username": "greencat614",
+    "password": "kenny1",
+    "invokedAt": "2025-09-19T19:37:19.537Z"
   }
 ]
