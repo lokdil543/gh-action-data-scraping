@@ -342,5 +342,13 @@
     "username": "sadfish692",
     "password": "pass123",
     "invokedAt": "2025-09-21T10:13:15.059Z"
+  },
+  {
+    "firstName": "Gavrilo",
+    "lastName": "Bekić",
+    "email": "gavrilo.bekic@example.com",
+    "username": "tinyostrich917",
+    "password": "rhodes",
+    "invokedAt": "2025-09-21T10:30:02.569Z"
   }
 ]
