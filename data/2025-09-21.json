@@ -638,5 +638,13 @@
     "username": "bigfrog851",
     "password": "master",
     "invokedAt": "2025-09-21T16:20:00.198Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Chow",
+    "email": "charles.chow@example.com",
+    "username": "brownfrog466",
+    "password": "syzygy",
+    "invokedAt": "2025-09-21T16:35:41.152Z"
   }
 ]
