@@ -718,5 +718,13 @@
     "username": "tinylion461",
     "password": "alone",
     "invokedAt": "2025-09-22T20:53:48.697Z"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Taylor",
+    "email": "alexis.taylor@example.com",
+    "username": "goldentiger825",
+    "password": "again",
+    "invokedAt": "2025-09-22T20:59:45.412Z"
   }
 ]
