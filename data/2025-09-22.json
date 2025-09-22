@@ -630,5 +630,13 @@
     "username": "bigfrog967",
     "password": "passthie",
     "invokedAt": "2025-09-22T19:22:37.124Z"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Macdonald",
+    "email": "malik.macdonald@example.com",
+    "username": "redfrog911",
+    "password": "password1",
+    "invokedAt": "2025-09-22T19:28:18.195Z"
   }
 ]
