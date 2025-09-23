@@ -606,5 +606,13 @@
     "username": "smallostrich614",
     "password": "benson",
     "invokedAt": "2025-09-23T17:43:51.131Z"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Andrews",
+    "email": "wayne.andrews@example.com",
+    "username": "orangefish543",
+    "password": "napster",
+    "invokedAt": "2025-09-23T17:49:32.692Z"
   }
 ]
