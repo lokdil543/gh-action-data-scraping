@@ -910,5 +910,13 @@
     "username": "bluebear751",
     "password": "4545",
     "invokedAt": "2025-09-23T23:42:29.572Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Özkök",
+    "email": "gokhan.ozkok@example.com",
+    "username": "brownswan189",
+    "password": "barcelona",
+    "invokedAt": "2025-09-23T23:48:28.336Z"
   }
 ]
