@@ -302,5 +302,13 @@
     "username": "happytiger354",
     "password": "snowboard",
     "invokedAt": "2025-09-24T10:00:15.752Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Pedersen",
+    "email": "malou.pedersen@example.com",
+    "username": "happyfish101",
+    "password": "cookie",
+    "invokedAt": "2025-09-24T10:20:34.481Z"
   }
 ]
