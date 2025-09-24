@@ -182,5 +182,13 @@
     "username": "sadelephant133",
     "password": "maximus",
     "invokedAt": "2025-09-24T07:17:43.331Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Bowman",
+    "email": "oscar.bowman@example.com",
+    "username": "greengoose257",
+    "password": "mail",
+    "invokedAt": "2025-09-24T07:30:41.683Z"
   }
 ]
