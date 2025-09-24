@@ -310,5 +310,13 @@
     "username": "happyfish101",
     "password": "cookie",
     "invokedAt": "2025-09-24T10:20:34.481Z"
+  },
+  {
+    "firstName": "Nils",
+    "lastName": "Stegmann",
+    "email": "nils.stegmann@example.com",
+    "username": "silverfrog969",
+    "password": "blazer",
+    "invokedAt": "2025-09-24T10:37:56.904Z"
   }
 ]
