@@ -726,5 +726,13 @@
     "username": "smallpanda221",
     "password": "modena",
     "invokedAt": "2025-09-25T20:58:17.170Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Lachmann",
+    "email": "jose.lachmann@example.com",
+    "username": "goldendog346",
+    "password": "simple",
+    "invokedAt": "2025-09-25T21:13:34.189Z"
   }
 ]
