@@ -686,5 +686,13 @@
     "username": "heavygoose640",
     "password": "godfather",
     "invokedAt": "2025-09-25T20:19:13.301Z"
+  },
+  {
+    "firstName": "Boško",
+    "lastName": "Babić",
+    "email": "bosko.babic@example.com",
+    "username": "greenwolf984",
+    "password": "cookie1",
+    "invokedAt": "2025-09-25T20:33:09.316Z"
   }
 ]
