@@ -566,5 +566,13 @@
     "username": "sadleopard634",
     "password": "master",
     "invokedAt": "2025-09-25T17:42:58.290Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Vargas",
+    "email": "jose.vargas@example.com",
+    "username": "beautifulbird108",
+    "password": "pass1",
+    "invokedAt": "2025-09-25T17:48:45.841Z"
   }
 ]
