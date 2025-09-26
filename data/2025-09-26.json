@@ -206,5 +206,13 @@
     "username": "whitesnake365",
     "password": "myself",
     "invokedAt": "2025-09-26T07:49:00.719Z"
+  },
+  {
+    "firstName": "Malthe",
+    "lastName": "Møller",
+    "email": "malthe.moller@example.com",
+    "username": "happymouse958",
+    "password": "somethin",
+    "invokedAt": "2025-09-26T07:54:55.273Z"
   }
 ]
