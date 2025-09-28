@@ -534,5 +534,13 @@
     "username": "bigwolf716",
     "password": "broker",
     "invokedAt": "2025-09-28T14:27:33.932Z"
+  },
+  {
+    "firstName": "Alisa",
+    "lastName": "Saarela",
+    "email": "alisa.saarela@example.com",
+    "username": "bigbear509",
+    "password": "monarch",
+    "invokedAt": "2025-09-28T14:34:17.545Z"
   }
 ]
