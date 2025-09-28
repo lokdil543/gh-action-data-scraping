@@ -526,5 +526,13 @@
     "username": "bigcat198",
     "password": "grinch",
     "invokedAt": "2025-09-28T14:15:40.945Z"
+  },
+  {
+    "firstName": "Babür",
+    "lastName": "Sözeri",
+    "email": "babur.sozeri@example.com",
+    "username": "bigwolf716",
+    "password": "broker",
+    "invokedAt": "2025-09-28T14:27:33.932Z"
   }
 ]
