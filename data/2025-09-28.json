@@ -1014,5 +1014,13 @@
     "username": "blackrabbit378",
     "password": "china",
     "invokedAt": "2025-09-28T22:56:30.382Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Roger",
+    "email": "marius.roger@example.com",
+    "username": "yellowrabbit456",
+    "password": "searay",
+    "invokedAt": "2025-09-28T23:09:43.583Z"
   }
 ]
