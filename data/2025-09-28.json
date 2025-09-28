@@ -622,5 +622,13 @@
     "username": "bigelephant503",
     "password": "scissors",
     "invokedAt": "2025-09-28T15:49:35.227Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael.brown@example.com",
+    "username": "tinykoala321",
+    "password": "exchange",
+    "invokedAt": "2025-09-28T15:55:20.836Z"
   }
 ]
