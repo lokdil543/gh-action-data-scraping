@@ -182,5 +182,13 @@
     "username": "tinyduck286",
     "password": "1946",
     "invokedAt": "2025-09-29T07:39:35.634Z"
+  },
+  {
+    "firstName": "Naël",
+    "lastName": "Muller",
+    "email": "nael.muller@example.com",
+    "username": "brownrabbit937",
+    "password": "member",
+    "invokedAt": "2025-09-29T07:45:33.177Z"
   }
 ]
