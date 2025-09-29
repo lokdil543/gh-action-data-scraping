@@ -470,5 +470,13 @@
     "username": "greenfish387",
     "password": "koko",
     "invokedAt": "2025-09-29T15:14:05.085Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Christensen",
+    "email": "storm.christensen@example.com",
+    "username": "beautifulfish490",
+    "password": "tazmania",
+    "invokedAt": "2025-09-29T15:30:46.461Z"
   }
 ]
