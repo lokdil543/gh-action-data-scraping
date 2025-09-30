@@ -558,5 +558,13 @@
     "username": "orangebird284",
     "password": "gamma",
     "invokedAt": "2025-09-30T17:07:42.262Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Johnston",
+    "email": "joshua.johnston@example.com",
+    "username": "angryleopard987",
+    "password": "semper",
+    "invokedAt": "2025-09-30T17:26:06.093Z"
   }
 ]
