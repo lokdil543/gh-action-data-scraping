@@ -878,5 +878,13 @@
     "username": "brownbear320",
     "password": "menace",
     "invokedAt": "2025-09-30T23:43:03.744Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Clark",
+    "email": "arthur.clark@example.com",
+    "username": "purplemeercat268",
+    "password": "hippie",
+    "invokedAt": "2025-09-30T23:48:28.700Z"
   }
 ]
