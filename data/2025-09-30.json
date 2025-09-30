@@ -838,5 +838,13 @@
     "username": "beautifulbird911",
     "password": "deskjet",
     "invokedAt": "2025-09-30T22:56:08.272Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Madsen",
+    "email": "simon.madsen@example.com",
+    "username": "blackbird289",
+    "password": "transam",
+    "invokedAt": "2025-09-30T23:09:37.913Z"
   }
 ]
