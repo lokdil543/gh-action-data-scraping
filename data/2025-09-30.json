@@ -790,5 +790,13 @@
     "username": "browndog529",
     "password": "concrete",
     "invokedAt": "2025-09-30T21:57:43.147Z"
+  },
+  {
+    "firstName": "Maurus",
+    "lastName": "Da Silva",
+    "email": "maurus.dasilva@example.com",
+    "username": "crazygorilla124",
+    "password": "slow",
+    "invokedAt": "2025-09-30T22:13:14.516Z"
   }
 ]
