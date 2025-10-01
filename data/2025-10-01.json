@@ -686,5 +686,13 @@
     "username": "happypeacock830",
     "password": "summit",
     "invokedAt": "2025-10-01T19:59:24.398Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Kristensen",
+    "email": "adam.kristensen@example.com",
+    "username": "greentiger226",
+    "password": "dougie",
+    "invokedAt": "2025-10-01T20:19:28.422Z"
   }
 ]
