@@ -710,5 +710,13 @@
     "username": "orangeostrich120",
     "password": "express",
     "invokedAt": "2025-10-01T20:42:24.561Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Spasić",
+    "email": "aleksa.spasic@example.com",
+    "username": "yellowsnake497",
+    "password": "anna",
+    "invokedAt": "2025-10-01T20:48:16.326Z"
   }
 ]
