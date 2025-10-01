@@ -534,5 +534,13 @@
     "username": "greengorilla861",
     "password": "hello123",
     "invokedAt": "2025-10-01T16:52:19.342Z"
+  },
+  {
+    "firstName": "Veljko",
+    "lastName": "Živojinović",
+    "email": "veljko.zivojinovic@example.com",
+    "username": "silverduck850",
+    "password": "oooooo",
+    "invokedAt": "2025-10-01T16:58:22.397Z"
   }
 ]
