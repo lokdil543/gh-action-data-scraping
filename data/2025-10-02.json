@@ -526,5 +526,13 @@
     "username": "yellowduck750",
     "password": "1973",
     "invokedAt": "2025-10-02T15:08:57.795Z"
+  },
+  {
+    "firstName": "Marion",
+    "lastName": "Jacobs",
+    "email": "marion.jacobs@example.com",
+    "username": "bigduck499",
+    "password": "hockey",
+    "invokedAt": "2025-10-02T15:28:31.366Z"
   }
 ]
