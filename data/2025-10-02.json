@@ -534,5 +534,13 @@
     "username": "bigduck499",
     "password": "hockey",
     "invokedAt": "2025-10-02T15:28:31.366Z"
+  },
+  {
+    "firstName": "Mile",
+    "lastName": "Vuksanović",
+    "email": "mile.vuksanovic@example.com",
+    "username": "crazyduck683",
+    "password": "walnut",
+    "invokedAt": "2025-10-02T15:39:02.947Z"
   }
 ]
