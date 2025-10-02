@@ -742,5 +742,13 @@
     "username": "bluekoala247",
     "password": "otis",
     "invokedAt": "2025-10-02T19:44:05.394Z"
+  },
+  {
+    "firstName": "Hans-Peter",
+    "lastName": "Gauthier",
+    "email": "hans-peter.gauthier@example.com",
+    "username": "blackdog696",
+    "password": "beaker",
+    "invokedAt": "2025-10-02T19:49:56.260Z"
   }
 ]
