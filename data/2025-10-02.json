@@ -550,5 +550,13 @@
     "username": "bluebear368",
     "password": "marathon",
     "invokedAt": "2025-10-02T15:45:12.281Z"
+  },
+  {
+    "firstName": "Tomás",
+    "lastName": "Urías",
+    "email": "tomas.urias@example.com",
+    "username": "silverwolf646",
+    "password": "muscles",
+    "invokedAt": "2025-10-02T15:51:07.055Z"
   }
 ]
