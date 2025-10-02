@@ -486,5 +486,13 @@
     "username": "yellowduck771",
     "password": "super",
     "invokedAt": "2025-10-02T14:14:16.899Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Wilson",
+    "email": "katie.wilson@example.com",
+    "username": "tinykoala517",
+    "password": "overlord",
+    "invokedAt": "2025-10-02T14:32:26.076Z"
   }
 ]
