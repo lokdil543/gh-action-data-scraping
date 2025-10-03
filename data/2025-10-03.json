@@ -278,5 +278,13 @@
     "username": "heavyfrog394",
     "password": "because",
     "invokedAt": "2025-10-03T09:27:15.779Z"
+  },
+  {
+    "firstName": "Eik",
+    "lastName": "Andersen",
+    "email": "eik.andersen@example.com",
+    "username": "silvercat798",
+    "password": "stereo",
+    "invokedAt": "2025-10-03T09:35:54.763Z"
   }
 ]
