@@ -710,5 +710,13 @@
     "username": "yellowcat180",
     "password": "redhot",
     "invokedAt": "2025-10-03T19:10:30.977Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Domínguez",
+    "email": "gustavo.dominguez@example.com",
+    "username": "silverladybug695",
+    "password": "finally",
+    "invokedAt": "2025-10-03T19:20:23.950Z"
   }
 ]
