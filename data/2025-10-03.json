@@ -606,5 +606,13 @@
     "username": "lazygorilla784",
     "password": "megapass",
     "invokedAt": "2025-10-03T16:52:21.442Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Taraldsen",
+    "email": "arthur.taraldsen@example.com",
+    "username": "brownmeercat878",
+    "password": "police",
+    "invokedAt": "2025-10-03T16:58:20.307Z"
   }
 ]
