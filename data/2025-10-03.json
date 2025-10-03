@@ -598,5 +598,13 @@
     "username": "bluebird303",
     "password": "stocks",
     "invokedAt": "2025-10-03T16:46:07.709Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Karvonen",
+    "email": "emil.karvonen@example.com",
+    "username": "lazygorilla784",
+    "password": "megapass",
+    "invokedAt": "2025-10-03T16:52:21.442Z"
   }
 ]
