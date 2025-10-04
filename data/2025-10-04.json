@@ -966,5 +966,13 @@
     "username": "purpleelephant197",
     "password": "unique",
     "invokedAt": "2025-10-04T21:42:08.805Z"
+  },
+  {
+    "firstName": "Efraim",
+    "lastName": "Aantjes",
+    "email": "efraim.aantjes@example.com",
+    "username": "purpleduck121",
+    "password": "alleycat",
+    "invokedAt": "2025-10-04T21:48:14.010Z"
   }
 ]
