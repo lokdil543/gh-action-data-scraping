@@ -622,5 +622,13 @@
     "username": "sadsnake762",
     "password": "wildcat",
     "invokedAt": "2025-10-04T15:26:18.774Z"
+  },
+  {
+    "firstName": "Elias",
+    "lastName": "Jørgensen",
+    "email": "elias.jorgensen@example.com",
+    "username": "tinyduck340",
+    "password": "smith",
+    "invokedAt": "2025-10-04T15:33:02.779Z"
   }
 ]
