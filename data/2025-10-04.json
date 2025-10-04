@@ -398,5 +398,13 @@
     "username": "bigkoala458",
     "password": "nimbus",
     "invokedAt": "2025-10-04T10:49:07.338Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Kinnunen",
+    "email": "joel.kinnunen@example.com",
+    "username": "redbutterfly193",
+    "password": "pencil",
+    "invokedAt": "2025-10-04T10:54:27.795Z"
   }
 ]
