@@ -414,5 +414,13 @@
     "username": "sadswan102",
     "password": "insertion",
     "invokedAt": "2025-10-04T11:00:16.599Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Nurmi",
+    "email": "vaino.nurmi@example.com",
+    "username": "ticklishostrich515",
+    "password": "sandro",
+    "invokedAt": "2025-10-04T11:13:39.031Z"
   }
 ]
