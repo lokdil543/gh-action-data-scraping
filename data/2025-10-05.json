@@ -470,5 +470,13 @@
     "username": "happyfrog456",
     "password": "bigbird",
     "invokedAt": "2025-10-05T12:17:36.641Z"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Bryant",
+    "email": "carol.bryant@example.com",
+    "username": "blackrabbit635",
+    "password": "sixsix",
+    "invokedAt": "2025-10-05T12:52:28.684Z"
   }
 ]
