@@ -662,5 +662,13 @@
     "username": "tinylion354",
     "password": "clarinet",
     "invokedAt": "2025-10-05T16:32:02.582Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Deschamps",
+    "email": "arthur.deschamps@example.com",
+    "username": "silvermeercat408",
+    "password": "berger",
+    "invokedAt": "2025-10-05T16:42:12.381Z"
   }
 ]
