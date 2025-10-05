@@ -1006,5 +1006,13 @@
     "username": "bluebear338",
     "password": "johnboy",
     "invokedAt": "2025-10-05T22:44:25.224Z"
+  },
+  {
+    "firstName": "Lincoln",
+    "lastName": "Thomas",
+    "email": "lincoln.thomas@example.com",
+    "username": "angrysnake900",
+    "password": "charlie1",
+    "invokedAt": "2025-10-05T22:49:59.621Z"
   }
 ]
