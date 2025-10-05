@@ -310,5 +310,13 @@
     "username": "orangedog607",
     "password": "bonsai",
     "invokedAt": "2025-10-05T09:27:23.979Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Sutton",
+    "email": "daniel.sutton@example.com",
+    "username": "orangesnake149",
+    "password": "kathy",
+    "invokedAt": "2025-10-05T09:34:12.876Z"
   }
 ]
