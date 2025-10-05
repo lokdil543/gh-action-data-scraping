@@ -534,5 +534,13 @@
     "username": "heavyrabbit530",
     "password": "chuck1",
     "invokedAt": "2025-10-05T13:59:51.070Z"
+  },
+  {
+    "firstName": "Ivica",
+    "lastName": "Ćirković",
+    "email": "ivica.cirkovic@example.com",
+    "username": "bluerabbit527",
+    "password": "sean",
+    "invokedAt": "2025-10-05T14:14:52.467Z"
   }
 ]
