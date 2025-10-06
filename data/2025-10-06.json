@@ -486,5 +486,13 @@
     "username": "purpletiger159",
     "password": "punch",
     "invokedAt": "2025-10-06T15:29:37.034Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Lavigne",
+    "email": "thomas.lavigne@example.com",
+    "username": "redpeacock994",
+    "password": "bright",
+    "invokedAt": "2025-10-06T15:39:57.858Z"
   }
 ]
