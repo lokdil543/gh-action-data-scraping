@@ -590,5 +590,13 @@
     "username": "bigfish310",
     "password": "chase",
     "invokedAt": "2025-10-06T17:48:53.134Z"
+  },
+  {
+    "firstName": "Mihajlo",
+    "lastName": "Tešić",
+    "email": "mihajlo.tesic@example.com",
+    "username": "greenbear616",
+    "password": "lemonade",
+    "invokedAt": "2025-10-06T17:54:32.745Z"
   }
 ]
