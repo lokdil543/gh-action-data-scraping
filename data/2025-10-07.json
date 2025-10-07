@@ -206,5 +206,13 @@
     "username": "yellowcat710",
     "password": "womble",
     "invokedAt": "2025-10-07T07:43:39.550Z"
+  },
+  {
+    "firstName": "Okan",
+    "lastName": "Aclan",
+    "email": "okan.aclan@example.com",
+    "username": "tinycat269",
+    "password": "tardis",
+    "invokedAt": "2025-10-07T07:49:31.563Z"
   }
 ]
