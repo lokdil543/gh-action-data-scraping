@@ -774,5 +774,13 @@
     "username": "blackmeercat499",
     "password": "public",
     "invokedAt": "2025-10-07T21:34:16.532Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Taylor",
+    "email": "zachary.taylor@example.com",
+    "username": "bigbutterfly184",
+    "password": "49ers",
+    "invokedAt": "2025-10-07T21:40:12.559Z"
   }
 ]
