@@ -766,5 +766,13 @@
     "username": "orangemouse811",
     "password": "giggles",
     "invokedAt": "2025-10-07T21:27:18.796Z"
+  },
+  {
+    "firstName": "Malte",
+    "lastName": "Jørgensen",
+    "email": "malte.jorgensen@example.com",
+    "username": "blackmeercat499",
+    "password": "public",
+    "invokedAt": "2025-10-07T21:34:16.532Z"
   }
 ]
