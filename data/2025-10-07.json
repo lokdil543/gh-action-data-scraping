@@ -430,5 +430,13 @@
     "username": "silverrabbit892",
     "password": "taxman",
     "invokedAt": "2025-10-07T13:40:07.802Z"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Carter",
+    "email": "donald.carter@example.com",
+    "username": "bluedog226",
+    "password": "compaq",
+    "invokedAt": "2025-10-07T13:49:15.641Z"
   }
 ]
