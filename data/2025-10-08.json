@@ -742,5 +742,13 @@
     "username": "silverpeacock256",
     "password": "postal",
     "invokedAt": "2025-10-08T20:57:31.441Z"
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Owens",
+    "email": "lucy.owens@example.com",
+    "username": "tinymeercat158",
+    "password": "world",
+    "invokedAt": "2025-10-08T21:12:35.780Z"
   }
 ]
