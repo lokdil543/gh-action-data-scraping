@@ -790,5 +790,13 @@
     "username": "redbird214",
     "password": "bizkit",
     "invokedAt": "2025-10-08T21:51:29.102Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Marshall",
+    "email": "christian.marshall@example.com",
+    "username": "redkoala524",
+    "password": "987456",
+    "invokedAt": "2025-10-08T21:57:13.076Z"
   }
 ]
