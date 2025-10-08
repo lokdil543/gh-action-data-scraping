@@ -502,5 +502,13 @@
     "username": "crazydog960",
     "password": "major",
     "invokedAt": "2025-10-08T15:32:41.674Z"
+  },
+  {
+    "firstName": "Milutin",
+    "lastName": "Kuzmanović",
+    "email": "milutin.kuzmanovic@example.com",
+    "username": "purplebutterfly407",
+    "password": "pinkfloy",
+    "invokedAt": "2025-10-08T15:42:58.203Z"
   }
 ]
