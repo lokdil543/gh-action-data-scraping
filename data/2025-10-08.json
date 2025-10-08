@@ -662,5 +662,13 @@
     "username": "whiteduck612",
     "password": "vampires",
     "invokedAt": "2025-10-08T19:29:59.099Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Wilson",
+    "email": "jake.wilson@example.com",
+    "username": "silverleopard701",
+    "password": "dogbone",
+    "invokedAt": "2025-10-08T19:37:16.562Z"
   }
 ]
