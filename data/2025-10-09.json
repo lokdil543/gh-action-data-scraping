@@ -470,5 +470,13 @@
     "username": "greenwolf302",
     "password": "siemens",
     "invokedAt": "2025-10-09T15:43:47.049Z"
+  },
+  {
+    "firstName": "Deniz",
+    "lastName": "Ertürk",
+    "email": "deniz.erturk@example.com",
+    "username": "greenelephant379",
+    "password": "worker",
+    "invokedAt": "2025-10-09T15:57:12.318Z"
   }
 ]
