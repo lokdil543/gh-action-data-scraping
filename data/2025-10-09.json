@@ -614,5 +614,13 @@
     "username": "sadsnake278",
     "password": "comanche",
     "invokedAt": "2025-10-09T19:30:40.837Z"
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Lambert",
+    "email": "ted.lambert@example.com",
+    "username": "silverbutterfly156",
+    "password": "apple1",
+    "invokedAt": "2025-10-09T19:38:07.470Z"
   }
 ]
