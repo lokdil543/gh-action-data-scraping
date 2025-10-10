@@ -550,5 +550,13 @@
     "username": "orangemouse296",
     "password": "foxtrot",
     "invokedAt": "2025-10-10T16:34:52.708Z"
+  },
+  {
+    "firstName": "Pippa",
+    "lastName": "Kortekaas",
+    "email": "pippa.kortekaas@example.com",
+    "username": "goldenwolf409",
+    "password": "1234567890",
+    "invokedAt": "2025-10-10T16:47:16.603Z"
   }
 ]
