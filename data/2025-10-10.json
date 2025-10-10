@@ -566,5 +566,13 @@
     "username": "blackdog509",
     "password": "experienced",
     "invokedAt": "2025-10-10T16:53:33.528Z"
+  },
+  {
+    "firstName": "Sonya",
+    "lastName": "Bereznyak",
+    "email": "sonya.bereznyak@example.com",
+    "username": "smallgoose517",
+    "password": "spartans",
+    "invokedAt": "2025-10-10T16:59:26.966Z"
   }
 ]
