@@ -262,5 +262,13 @@
     "username": "silverwolf360",
     "password": "spanish",
     "invokedAt": "2025-10-10T09:31:26.444Z"
+  },
+  {
+    "firstName": "Marius",
+    "lastName": "Sørensen",
+    "email": "marius.sorensen@example.com",
+    "username": "angryfish440",
+    "password": "mushroom",
+    "invokedAt": "2025-10-10T09:41:11.894Z"
   }
 ]
