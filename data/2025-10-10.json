@@ -646,5 +646,13 @@
     "username": "bigleopard150",
     "password": "pass1",
     "invokedAt": "2025-10-10T18:50:21.903Z"
+  },
+  {
+    "firstName": "Bastien",
+    "lastName": "Fleury",
+    "email": "bastien.fleury@example.com",
+    "username": "heavyrabbit619",
+    "password": "five",
+    "invokedAt": "2025-10-10T18:56:12.772Z"
   }
 ]
