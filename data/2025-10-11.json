@@ -494,5 +494,13 @@
     "username": "purplemouse289",
     "password": "speaker",
     "invokedAt": "2025-10-11T13:21:12.540Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Kristensen",
+    "email": "lucas.kristensen@example.com",
+    "username": "browntiger706",
+    "password": "skip",
+    "invokedAt": "2025-10-11T13:31:37.256Z"
   }
 ]
