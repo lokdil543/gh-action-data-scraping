@@ -550,5 +550,13 @@
     "username": "yellowpeacock882",
     "password": "tequila",
     "invokedAt": "2025-10-11T14:23:30.543Z"
+  },
+  {
+    "firstName": "Kazimir",
+    "lastName": "El Moussaoui",
+    "email": "kazimir.elmoussaoui@example.com",
+    "username": "happyfish543",
+    "password": "tornado",
+    "invokedAt": "2025-10-11T14:30:27.449Z"
   }
 ]
