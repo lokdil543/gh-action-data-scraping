@@ -774,5 +774,13 @@
     "username": "tinycat325",
     "password": "reason",
     "invokedAt": "2025-10-11T18:32:44.321Z"
+  },
+  {
+    "firstName": "Lea",
+    "lastName": "Pedersen",
+    "email": "lea.pedersen@example.com",
+    "username": "smallpanda100",
+    "password": "jojojo",
+    "invokedAt": "2025-10-11T18:42:43.841Z"
   }
 ]
