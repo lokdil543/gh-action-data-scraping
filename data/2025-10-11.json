@@ -470,5 +470,13 @@
     "username": "blackduck419",
     "password": "upyours",
     "invokedAt": "2025-10-11T12:00:21.282Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Lévesque",
+    "email": "owen.levesque@example.com",
+    "username": "sadmouse451",
+    "password": "030303",
+    "invokedAt": "2025-10-11T12:36:09.916Z"
   }
 ]
