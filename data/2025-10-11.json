@@ -686,5 +686,13 @@
     "username": "blackfrog946",
     "password": "010101",
     "invokedAt": "2025-10-11T16:47:37.009Z"
+  },
+  {
+    "firstName": "Kaća",
+    "lastName": "Silić",
+    "email": "kaca.silic@example.com",
+    "username": "greenduck223",
+    "password": "porsche",
+    "invokedAt": "2025-10-11T16:53:26.926Z"
   }
 ]
