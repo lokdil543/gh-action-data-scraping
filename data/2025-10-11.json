@@ -798,5 +798,13 @@
     "username": "angrygoose138",
     "password": "victor",
     "invokedAt": "2025-10-11T18:54:40.561Z"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Dumas",
+    "email": "linda.dumas@example.com",
+    "username": "orangefish229",
+    "password": "playboy1",
+    "invokedAt": "2025-10-11T19:00:17.052Z"
   }
 ]
