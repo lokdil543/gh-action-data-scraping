@@ -918,5 +918,13 @@
     "username": "bigbutterfly611",
     "password": "alpine",
     "invokedAt": "2025-10-12T21:35:39.106Z"
+  },
+  {
+    "firstName": "Viljami",
+    "lastName": "Ylitalo",
+    "email": "viljami.ylitalo@example.com",
+    "username": "smalltiger170",
+    "password": "ceasar",
+    "invokedAt": "2025-10-12T21:41:36.403Z"
   }
 ]
