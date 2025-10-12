@@ -342,5 +342,13 @@
     "username": "purplekoala961",
     "password": "sunday",
     "invokedAt": "2025-10-12T10:00:18.262Z"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Anderson",
+    "email": "anthony.anderson@example.com",
+    "username": "bigduck709",
+    "password": "junk",
+    "invokedAt": "2025-10-12T10:18:06.628Z"
   }
 ]
