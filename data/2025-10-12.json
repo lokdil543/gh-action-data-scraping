@@ -526,5 +526,13 @@
     "username": "orangeswan981",
     "password": "nguyen",
     "invokedAt": "2025-10-12T14:09:11.060Z"
+  },
+  {
+    "firstName": "Randy",
+    "lastName": "Peck",
+    "email": "randy.peck@example.com",
+    "username": "crazyswan885",
+    "password": "mooses",
+    "invokedAt": "2025-10-12T14:25:45.883Z"
   }
 ]
