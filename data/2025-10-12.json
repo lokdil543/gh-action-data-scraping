@@ -262,5 +262,13 @@
     "username": "happyduck783",
     "password": "buzzer",
     "invokedAt": "2025-10-12T08:43:22.796Z"
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "Banks",
+    "email": "rebecca.banks@example.com",
+    "username": "beautifulelephant503",
+    "password": "123789",
+    "invokedAt": "2025-10-12T08:49:07.113Z"
   }
 ]
