@@ -262,5 +262,13 @@
     "username": "tinydog178",
     "password": "010101",
     "invokedAt": "2025-10-13T10:23:10.255Z"
+  },
+  {
+    "firstName": "Matilda",
+    "lastName": "Tuomala",
+    "email": "matilda.tuomala@example.com",
+    "username": "redmouse964",
+    "password": "stanley",
+    "invokedAt": "2025-10-13T10:40:57.737Z"
   }
 ]
