@@ -774,5 +774,13 @@
     "username": "ticklishdog897",
     "password": "oranges",
     "invokedAt": "2025-10-14T21:39:53.213Z"
+  },
+  {
+    "firstName": "Valentin",
+    "lastName": "Perrin",
+    "email": "valentin.perrin@example.com",
+    "username": "ticklishcat621",
+    "password": "fireball",
+    "invokedAt": "2025-10-14T21:45:43.531Z"
   }
 ]
