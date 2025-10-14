@@ -870,5 +870,13 @@
     "username": "smallladybug200",
     "password": "leng",
     "invokedAt": "2025-10-14T23:32:15.111Z"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Palmer",
+    "email": "mike.palmer@example.com",
+    "username": "orangefrog864",
+    "password": "shelter",
+    "invokedAt": "2025-10-14T23:39:11.650Z"
   }
 ]
