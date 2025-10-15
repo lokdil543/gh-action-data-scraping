@@ -846,5 +846,13 @@
     "username": "bigtiger610",
     "password": "trombone",
     "invokedAt": "2025-10-15T23:40:44.099Z"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Hanson",
+    "email": "alice.hanson@example.com",
+    "username": "bigsnake203",
+    "password": "nascar24",
+    "invokedAt": "2025-10-15T23:46:44.976Z"
   }
 ]
