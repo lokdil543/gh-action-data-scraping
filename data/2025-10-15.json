@@ -654,5 +654,13 @@
     "username": "browngorilla742",
     "password": "married",
     "invokedAt": "2025-10-15T19:49:17.056Z"
+  },
+  {
+    "firstName": "Liana",
+    "lastName": "Øvretveit",
+    "email": "liana.ovretveit@example.com",
+    "username": "angryfrog990",
+    "password": "broken",
+    "invokedAt": "2025-10-15T19:55:04.349Z"
   }
 ]
