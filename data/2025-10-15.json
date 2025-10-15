@@ -854,5 +854,13 @@
     "username": "bigsnake203",
     "password": "nascar24",
     "invokedAt": "2025-10-15T23:46:44.976Z"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Johansen",
+    "email": "christian.johansen@example.com",
+    "username": "lazykoala395",
+    "password": "gumby",
+    "invokedAt": "2025-10-15T23:52:32.826Z"
   }
 ]
