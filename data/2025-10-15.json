@@ -462,5 +462,13 @@
     "username": "purplefish219",
     "password": "bluejay",
     "invokedAt": "2025-10-15T15:31:42.164Z"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Smith",
+    "email": "eva.smith@example.com",
+    "username": "silvertiger675",
+    "password": "racers",
+    "invokedAt": "2025-10-15T15:41:42.867Z"
   }
 ]
