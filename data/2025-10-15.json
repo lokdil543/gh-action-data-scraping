@@ -630,5 +630,13 @@
     "username": "heavysnake214",
     "password": "citadel",
     "invokedAt": "2025-10-15T19:30:34.768Z"
+  },
+  {
+    "firstName": "Aymeric",
+    "lastName": "Vidal",
+    "email": "aymeric.vidal@example.com",
+    "username": "happydog660",
+    "password": "philips",
+    "invokedAt": "2025-10-15T19:37:33.335Z"
   }
 ]
