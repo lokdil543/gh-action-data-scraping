@@ -670,5 +670,13 @@
     "username": "purplebear696",
     "password": "seattle",
     "invokedAt": "2025-10-15T20:09:52.291Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Martin",
+    "email": "sarah.martin@example.com",
+    "username": "crazyelephant555",
+    "password": "sputnik",
+    "invokedAt": "2025-10-15T20:31:12.584Z"
   }
 ]
