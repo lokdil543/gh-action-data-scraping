@@ -622,5 +622,13 @@
     "username": "tinyduck240",
     "password": "integra",
     "invokedAt": "2025-10-15T19:24:36.607Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Jankowski",
+    "email": "adam.jankowski@example.com",
+    "username": "heavysnake214",
+    "password": "citadel",
+    "invokedAt": "2025-10-15T19:30:34.768Z"
   }
 ]
