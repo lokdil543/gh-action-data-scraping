@@ -662,5 +662,13 @@
     "username": "angryfrog990",
     "password": "broken",
     "invokedAt": "2025-10-15T19:55:04.349Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Fletcher",
+    "email": "brandon.fletcher@example.com",
+    "username": "purplebear696",
+    "password": "seattle",
+    "invokedAt": "2025-10-15T20:09:52.291Z"
   }
 ]
