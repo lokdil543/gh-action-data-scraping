@@ -342,5 +342,13 @@
     "username": "purpleleopard157",
     "password": "burrito",
     "invokedAt": "2025-10-16T11:40:55.845Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Smythe",
+    "email": "billy.smythe@example.com",
+    "username": "happybird696",
+    "password": "nintendo",
+    "invokedAt": "2025-10-16T11:46:45.805Z"
   }
 ]
