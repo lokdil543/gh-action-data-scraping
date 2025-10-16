@@ -662,5 +662,13 @@
     "username": "smallduck982",
     "password": "nikki1",
     "invokedAt": "2025-10-16T20:21:21.296Z"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Hughes",
+    "email": "allen.hughes@example.com",
+    "username": "bluefish200",
+    "password": "highbury",
+    "invokedAt": "2025-10-16T20:35:02.019Z"
   }
 ]
