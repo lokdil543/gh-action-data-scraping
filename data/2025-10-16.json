@@ -278,5 +278,13 @@
     "username": "heavygorilla730",
     "password": "0987",
     "invokedAt": "2025-10-16T10:10:12.793Z"
+  },
+  {
+    "firstName": "Wilson",
+    "lastName": "Nascimento",
+    "email": "wilson.nascimento@example.com",
+    "username": "browngorilla181",
+    "password": "speaker",
+    "invokedAt": "2025-10-16T10:34:21.159Z"
   }
 ]
