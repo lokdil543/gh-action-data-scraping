@@ -486,5 +486,13 @@
     "username": "yellowswan602",
     "password": "camper",
     "invokedAt": "2025-10-16T16:14:19.462Z"
+  },
+  {
+    "firstName": "Heribert",
+    "lastName": "Beermann",
+    "email": "heribert.beermann@example.com",
+    "username": "redswan234",
+    "password": "korn",
+    "invokedAt": "2025-10-16T16:38:54.574Z"
   }
 ]
