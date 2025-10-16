@@ -678,5 +678,13 @@
     "username": "purplekoala461",
     "password": "spider1",
     "invokedAt": "2025-10-16T20:43:50.997Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Spencer",
+    "email": "dave.spencer@example.com",
+    "username": "redpeacock400",
+    "password": "philippe",
+    "invokedAt": "2025-10-16T20:49:45.492Z"
   }
 ]
