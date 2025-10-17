@@ -414,5 +414,13 @@
     "username": "greenrabbit106",
     "password": "byteme",
     "invokedAt": "2025-10-17T13:24:15.998Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Bier",
+    "email": "otto.bier@example.com",
+    "username": "heavysnake914",
+    "password": "stanford",
+    "invokedAt": "2025-10-17T13:41:08.696Z"
   }
 ]
