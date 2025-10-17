@@ -142,5 +142,13 @@
     "username": "whitefrog246",
     "password": "starfire",
     "invokedAt": "2025-10-17T06:22:17.473Z"
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Gil",
+    "email": "gustavo.gil@example.com",
+    "username": "redbutterfly124",
+    "password": "thirty",
+    "invokedAt": "2025-10-17T06:44:22.339Z"
   }
 ]
