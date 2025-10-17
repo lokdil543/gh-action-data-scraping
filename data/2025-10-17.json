@@ -374,5 +374,13 @@
     "username": "crazyleopard558",
     "password": "ericsson",
     "invokedAt": "2025-10-17T11:43:10.303Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Pedersen",
+    "email": "albert.pedersen@example.com",
+    "username": "lazygoose345",
+    "password": "columbus",
+    "invokedAt": "2025-10-17T11:49:02.840Z"
   }
 ]
