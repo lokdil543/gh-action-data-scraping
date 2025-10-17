@@ -326,5 +326,13 @@
     "username": "whitefish243",
     "password": "juan",
     "invokedAt": "2025-10-17T10:51:11.675Z"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Fernández",
+    "email": "lucas.fernandez@example.com",
+    "username": "silverbird271",
+    "password": "bubbles",
+    "invokedAt": "2025-10-17T10:56:56.795Z"
   }
 ]
