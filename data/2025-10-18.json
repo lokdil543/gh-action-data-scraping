@@ -542,5 +542,13 @@
     "username": "purplepeacock409",
     "password": "bullseye",
     "invokedAt": "2025-10-18T14:36:38.191Z"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Hanson",
+    "email": "kent.hanson@example.com",
+    "username": "tinyladybug461",
+    "password": "random",
+    "invokedAt": "2025-10-18T14:42:31.459Z"
   }
 ]
