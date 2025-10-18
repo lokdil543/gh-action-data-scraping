@@ -398,5 +398,13 @@
     "username": "whitewolf234",
     "password": "arrow",
     "invokedAt": "2025-10-18T11:13:18.042Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Mortensen",
+    "email": "august.mortensen@example.com",
+    "username": "yellowcat952",
+    "password": "greece",
+    "invokedAt": "2025-10-18T11:23:21.886Z"
   }
 ]
