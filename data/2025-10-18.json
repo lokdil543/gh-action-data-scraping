@@ -630,5 +630,13 @@
     "username": "lazyleopard531",
     "password": "phone",
     "invokedAt": "2025-10-18T15:58:35.164Z"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Morin",
+    "email": "robin.morin@example.com",
+    "username": "blackelephant502",
+    "password": "caesar",
+    "invokedAt": "2025-10-18T16:17:42.049Z"
   }
 ]
