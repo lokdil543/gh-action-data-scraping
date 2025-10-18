@@ -310,5 +310,13 @@
     "username": "happycat975",
     "password": "lion",
     "invokedAt": "2025-10-18T09:36:29.396Z"
+  },
+  {
+    "firstName": "Yvan",
+    "lastName": "Kerstens",
+    "email": "yvan.kerstens@example.com",
+    "username": "heavydog500",
+    "password": "hokies",
+    "invokedAt": "2025-10-18T09:42:45.490Z"
   }
 ]
