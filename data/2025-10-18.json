@@ -238,5 +238,13 @@
     "username": "greengoose457",
     "password": "trace",
     "invokedAt": "2025-10-18T07:53:57.985Z"
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Johnson",
+    "email": "katie.johnson@example.com",
+    "username": "bluewolf752",
+    "password": "snowman",
+    "invokedAt": "2025-10-18T07:59:45.643Z"
   }
 ]
