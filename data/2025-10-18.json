@@ -854,5 +854,13 @@
     "username": "orangefrog671",
     "password": "kingdom",
     "invokedAt": "2025-10-18T20:36:56.636Z"
+  },
+  {
+    "firstName": "Adrien",
+    "lastName": "Nicolas",
+    "email": "adrien.nicolas@example.com",
+    "username": "bigdog990",
+    "password": "sebring",
+    "invokedAt": "2025-10-18T20:42:48.040Z"
   }
 ]
