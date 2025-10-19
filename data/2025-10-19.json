@@ -982,5 +982,13 @@
     "username": "lazyelephant863",
     "password": "happy",
     "invokedAt": "2025-10-19T23:37:30.810Z"
+  },
+  {
+    "firstName": "Evelyn",
+    "lastName": "Perez",
+    "email": "evelyn.perez@example.com",
+    "username": "angrysnake799",
+    "password": "foobar",
+    "invokedAt": "2025-10-19T23:43:23.933Z"
   }
 ]
