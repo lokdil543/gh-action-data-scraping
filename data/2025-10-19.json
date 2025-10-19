@@ -766,5 +766,13 @@
     "username": "lazyfish805",
     "password": "annie",
     "invokedAt": "2025-10-19T19:36:38.836Z"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Havnen",
+    "email": "tom.havnen@example.com",
+    "username": "sadbutterfly997",
+    "password": "moocow",
+    "invokedAt": "2025-10-19T19:42:29.966Z"
   }
 ]
