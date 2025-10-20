@@ -614,5 +614,13 @@
     "username": "sadfish274",
     "password": "nation",
     "invokedAt": "2025-10-20T20:56:33.909Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Mortensen",
+    "email": "storm.mortensen@example.com",
+    "username": "silversnake388",
+    "password": "cold",
+    "invokedAt": "2025-10-20T21:10:29.140Z"
   }
 ]
