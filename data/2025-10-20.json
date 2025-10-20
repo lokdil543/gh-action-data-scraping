@@ -198,5 +198,13 @@
     "username": "purplegorilla211",
     "password": "gotcha",
     "invokedAt": "2025-10-20T10:42:39.949Z"
+  },
+  {
+    "firstName": "Abdul",
+    "lastName": "Blikman",
+    "email": "abdul.blikman@example.com",
+    "username": "greenduck529",
+    "password": "marian",
+    "invokedAt": "2025-10-20T10:47:11.442Z"
   }
 ]
