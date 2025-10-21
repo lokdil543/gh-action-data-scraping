@@ -598,5 +598,13 @@
     "username": "blackostrich410",
     "password": "sarah1",
     "invokedAt": "2025-10-21T18:55:50.543Z"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Olsen",
+    "email": "marie.olsen@example.com",
+    "username": "yellowswan125",
+    "password": "patches",
+    "invokedAt": "2025-10-21T19:08:11.519Z"
   }
 ]
