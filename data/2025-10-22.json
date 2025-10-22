@@ -294,5 +294,13 @@
     "username": "greenfrog534",
     "password": "fireman",
     "invokedAt": "2025-10-22T11:24:36.535Z"
+  },
+  {
+    "firstName": "Cristóbal",
+    "lastName": "Pastor",
+    "email": "cristobal.pastor@example.com",
+    "username": "happywolf987",
+    "password": "oblivion",
+    "invokedAt": "2025-10-22T11:31:45.307Z"
   }
 ]
