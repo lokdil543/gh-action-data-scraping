@@ -494,5 +494,13 @@
     "username": "crazydog174",
     "password": "property",
     "invokedAt": "2025-10-22T17:30:21.873Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Mason",
+    "email": "joshua.mason@example.com",
+    "username": "lazywolf809",
+    "password": "newness",
+    "invokedAt": "2025-10-22T17:39:40.154Z"
   }
 ]
