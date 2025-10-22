@@ -446,5 +446,13 @@
     "username": "lazyduck529",
     "password": "harvard",
     "invokedAt": "2025-10-22T15:56:09.421Z"
+  },
+  {
+    "firstName": "Zoe",
+    "lastName": "Barnaby",
+    "email": "zoe.barnaby@example.com",
+    "username": "yellowduck200",
+    "password": "root",
+    "invokedAt": "2025-10-22T16:13:28.787Z"
   }
 ]
