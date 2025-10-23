@@ -286,5 +286,13 @@
     "username": "bluesnake554",
     "password": "cheers",
     "invokedAt": "2025-10-23T10:13:48.511Z"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Legrand",
+    "email": "paul.legrand@example.com",
+    "username": "heavygorilla913",
+    "password": "usnavy",
+    "invokedAt": "2025-10-23T10:35:34.516Z"
   }
 ]
