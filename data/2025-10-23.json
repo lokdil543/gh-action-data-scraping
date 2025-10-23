@@ -358,5 +358,13 @@
     "username": "bigfish456",
     "password": "mookie",
     "invokedAt": "2025-10-23T11:46:33.462Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Arnaud",
+    "email": "jonas.arnaud@example.com",
+    "username": "goldenswan666",
+    "password": "honeybee",
+    "invokedAt": "2025-10-23T11:52:25.853Z"
   }
 ]
