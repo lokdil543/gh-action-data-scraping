@@ -638,5 +638,13 @@
     "username": "orangefrog363",
     "password": "chai",
     "invokedAt": "2025-10-23T19:34:28.003Z"
+  },
+  {
+    "firstName": "Lana",
+    "lastName": "Gonzalez",
+    "email": "lana.gonzalez@example.com",
+    "username": "redbear540",
+    "password": "chainsaw",
+    "invokedAt": "2025-10-23T19:40:59.105Z"
   }
 ]
