@@ -590,5 +590,13 @@
     "username": "lazymeercat802",
     "password": "pian",
     "invokedAt": "2025-10-23T18:24:00.135Z"
+  },
+  {
+    "firstName": "Jarmo",
+    "lastName": "Voeten",
+    "email": "jarmo.voeten@example.com",
+    "username": "blackduck738",
+    "password": "over",
+    "invokedAt": "2025-10-23T18:45:12.903Z"
   }
 ]
