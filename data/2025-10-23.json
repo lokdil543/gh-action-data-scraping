@@ -430,5 +430,13 @@
     "username": "happybird137",
     "password": "anchor",
     "invokedAt": "2025-10-23T14:34:55.548Z"
+  },
+  {
+    "firstName": "Mohamed",
+    "lastName": "Olufsen",
+    "email": "mohamed.olufsen@example.com",
+    "username": "bluemouse394",
+    "password": "thegame",
+    "invokedAt": "2025-10-23T14:47:50.737Z"
   }
 ]
