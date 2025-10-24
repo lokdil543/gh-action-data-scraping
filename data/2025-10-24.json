@@ -206,5 +206,13 @@
     "username": "greengorilla515",
     "password": "cerberus",
     "invokedAt": "2025-10-24T07:50:45.280Z"
+  },
+  {
+    "firstName": "Efe",
+    "lastName": "Taşçı",
+    "email": "efe.tasci@example.com",
+    "username": "blackcat979",
+    "password": "temp123",
+    "invokedAt": "2025-10-24T07:56:33.826Z"
   }
 ]
