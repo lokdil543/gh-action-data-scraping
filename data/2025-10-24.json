@@ -846,5 +846,13 @@
     "username": "blackgoose444",
     "password": "macleod",
     "invokedAt": "2025-10-24T23:28:05.527Z"
+  },
+  {
+    "firstName": "Gregor",
+    "lastName": "Barbier",
+    "email": "gregor.barbier@example.com",
+    "username": "bluepanda619",
+    "password": "nono",
+    "invokedAt": "2025-10-24T23:35:15.035Z"
   }
 ]
