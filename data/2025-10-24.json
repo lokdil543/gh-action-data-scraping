@@ -398,5 +398,13 @@
     "username": "bigrabbit564",
     "password": "lincoln",
     "invokedAt": "2025-10-24T13:01:02.896Z"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Powell",
+    "email": "ivan.powell@example.com",
+    "username": "bluegorilla513",
+    "password": "delta",
+    "invokedAt": "2025-10-24T13:32:23.936Z"
   }
 ]
