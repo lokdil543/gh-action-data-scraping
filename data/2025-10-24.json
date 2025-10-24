@@ -702,5 +702,13 @@
     "username": "silverleopard248",
     "password": "mary",
     "invokedAt": "2025-10-24T20:36:56.092Z"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Spencer",
+    "email": "tommy.spencer@example.com",
+    "username": "yellowcat785",
+    "password": "bluebell",
+    "invokedAt": "2025-10-24T20:45:10.626Z"
   }
 ]
