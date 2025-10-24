@@ -326,5 +326,13 @@
     "username": "crazylion519",
     "password": "wireless",
     "invokedAt": "2025-10-24T10:54:47.631Z"
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Brown",
+    "email": "nick.brown@example.com",
+    "username": "goldenzebra900",
+    "password": "skidoo",
+    "invokedAt": "2025-10-24T11:00:39.060Z"
   }
 ]
