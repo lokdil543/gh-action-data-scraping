@@ -470,5 +470,13 @@
     "username": "blueswan219",
     "password": "hunt",
     "invokedAt": "2025-10-24T15:00:12.369Z"
+  },
+  {
+    "firstName": "Hermann",
+    "lastName": "Soleng",
+    "email": "hermann.soleng@example.com",
+    "username": "heavybear761",
+    "password": "wizards",
+    "invokedAt": "2025-10-24T15:20:55.889Z"
   }
 ]
