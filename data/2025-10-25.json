@@ -758,5 +758,13 @@
     "username": "heavymouse395",
     "password": "admin",
     "invokedAt": "2025-10-25T19:20:02.758Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Thomsen",
+    "email": "sander.thomsen@example.com",
+    "username": "silvermouse588",
+    "password": "barker",
+    "invokedAt": "2025-10-25T19:26:01.662Z"
   }
 ]
