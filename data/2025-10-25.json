@@ -678,5 +678,13 @@
     "username": "yellowmouse906",
     "password": "striper",
     "invokedAt": "2025-10-25T17:35:35.113Z"
+  },
+  {
+    "firstName": "Niklas",
+    "lastName": "Arola",
+    "email": "niklas.arola@example.com",
+    "username": "silverdog608",
+    "password": "pinhead",
+    "invokedAt": "2025-10-25T17:41:31.809Z"
   }
 ]
