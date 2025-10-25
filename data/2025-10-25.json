@@ -982,5 +982,13 @@
     "username": "heavyduck673",
     "password": "dabomb",
     "invokedAt": "2025-10-25T23:23:54.777Z"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Jørgensen",
+    "email": "albert.jorgensen@example.com",
+    "username": "brownlion206",
+    "password": "battery",
+    "invokedAt": "2025-10-25T23:30:12.878Z"
   }
 ]
