@@ -142,5 +142,13 @@
     "username": "smallostrich102",
     "password": "builder",
     "invokedAt": "2025-10-26T06:41:03.776Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Vicente",
+    "email": "jose.vicente@example.com",
+    "username": "beautifulzebra100",
+    "password": "patrol",
+    "invokedAt": "2025-10-26T06:50:59.353Z"
   }
 ]
