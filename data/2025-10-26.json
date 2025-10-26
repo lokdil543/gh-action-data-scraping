@@ -182,5 +182,13 @@
     "username": "blueswan113",
     "password": "abcd",
     "invokedAt": "2025-10-26T07:30:10.060Z"
+  },
+  {
+    "firstName": "Matija",
+    "lastName": "Obradović",
+    "email": "matija.obradovic@example.com",
+    "username": "lazybird287",
+    "password": "around",
+    "invokedAt": "2025-10-26T07:37:00.155Z"
   }
 ]
