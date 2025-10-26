@@ -238,5 +238,13 @@
     "username": "happydog992",
     "password": "gizmo",
     "invokedAt": "2025-10-26T08:38:27.202Z"
+  },
+  {
+    "firstName": "Miro",
+    "lastName": "Rantanen",
+    "email": "miro.rantanen@example.com",
+    "username": "silverbutterfly533",
+    "password": "morpheus",
+    "invokedAt": "2025-10-26T08:47:04.210Z"
   }
 ]
