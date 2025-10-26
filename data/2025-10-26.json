@@ -134,5 +134,13 @@
     "username": "tinyrabbit313",
     "password": "enforcer",
     "invokedAt": "2025-10-26T06:14:19.414Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Sørensen",
+    "email": "emma.sorensen@example.com",
+    "username": "smallostrich102",
+    "password": "builder",
+    "invokedAt": "2025-10-26T06:41:03.776Z"
   }
 ]
