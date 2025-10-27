@@ -134,5 +134,13 @@
     "username": "organictiger242",
     "password": "test2",
     "invokedAt": "2025-10-27T07:32:10.903Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Sanders",
+    "email": "vincent.sanders@example.com",
+    "username": "redtiger391",
+    "password": "spike",
+    "invokedAt": "2025-10-27T07:41:02.307Z"
   }
 ]
