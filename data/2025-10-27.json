@@ -638,5 +638,13 @@
     "username": "smallfish923",
     "password": "bolton",
     "invokedAt": "2025-10-27T20:46:03.178Z"
+  },
+  {
+    "firstName": "Meral",
+    "lastName": "Türkdoğan",
+    "email": "meral.turkdogan@example.com",
+    "username": "angrybird504",
+    "password": "generic",
+    "invokedAt": "2025-10-27T20:51:53.260Z"
   }
 ]
