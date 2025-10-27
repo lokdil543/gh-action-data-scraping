@@ -774,5 +774,13 @@
     "username": "yellowduck501",
     "password": "shadow1",
     "invokedAt": "2025-10-27T23:28:20.712Z"
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Rodić",
+    "email": "bojan.rodic@example.com",
+    "username": "lazydog127",
+    "password": "jimbo1",
+    "invokedAt": "2025-10-27T23:35:33.990Z"
   }
 ]
