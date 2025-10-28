@@ -326,5 +326,13 @@
     "username": "lazycat191",
     "password": "bogus",
     "invokedAt": "2025-10-28T11:43:09.312Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Watkins",
+    "email": "suzy.watkins@example.com",
+    "username": "lazypanda632",
+    "password": "cassie",
+    "invokedAt": "2025-10-28T11:48:57.908Z"
   }
 ]
