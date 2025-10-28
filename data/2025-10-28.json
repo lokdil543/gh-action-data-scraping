@@ -390,5 +390,13 @@
     "username": "angryduck499",
     "password": "hippo",
     "invokedAt": "2025-10-28T13:59:54.138Z"
+  },
+  {
+    "firstName": "Gonca",
+    "lastName": "Köylüoğlu",
+    "email": "gonca.koyluoglu@example.com",
+    "username": "orangebird345",
+    "password": "4711",
+    "invokedAt": "2025-10-28T14:20:32.367Z"
   }
 ]
