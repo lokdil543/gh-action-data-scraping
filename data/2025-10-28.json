@@ -398,5 +398,13 @@
     "username": "orangebird345",
     "password": "4711",
     "invokedAt": "2025-10-28T14:20:32.367Z"
+  },
+  {
+    "firstName": "Eirik",
+    "lastName": "Næss",
+    "email": "eirik.naess@example.com",
+    "username": "orangeladybug659",
+    "password": "service",
+    "invokedAt": "2025-10-28T14:40:26.624Z"
   }
 ]
