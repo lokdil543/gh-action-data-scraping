@@ -238,5 +238,13 @@
     "username": "blackgoose104",
     "password": "bigblock",
     "invokedAt": "2025-10-29T09:53:56.336Z"
+  },
+  {
+    "firstName": "Olivier",
+    "lastName": "Ouellet",
+    "email": "olivier.ouellet@example.com",
+    "username": "ticklishgorilla151",
+    "password": "1qwerty",
+    "invokedAt": "2025-10-29T09:59:50.229Z"
   }
 ]
