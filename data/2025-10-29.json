@@ -302,5 +302,13 @@
     "username": "brownsnake855",
     "password": "rocket",
     "invokedAt": "2025-10-29T11:34:18.682Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Morris",
+    "email": "fred.morris@example.com",
+    "username": "yellowgoose950",
+    "password": "deerhunt",
+    "invokedAt": "2025-10-29T11:42:04.560Z"
   }
 ]
