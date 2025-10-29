@@ -230,5 +230,13 @@
     "username": "orangemouse713",
     "password": "primus",
     "invokedAt": "2025-10-29T09:48:05.200Z"
+  },
+  {
+    "firstName": "Anand",
+    "lastName": "Nagane",
+    "email": "anand.nagane@example.com",
+    "username": "blackgoose104",
+    "password": "bigblock",
+    "invokedAt": "2025-10-29T09:53:56.336Z"
   }
 ]
