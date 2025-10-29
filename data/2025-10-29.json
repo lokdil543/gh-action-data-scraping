@@ -542,5 +542,13 @@
     "username": "bigdog309",
     "password": "milk",
     "invokedAt": "2025-10-29T19:26:59.657Z"
+  },
+  {
+    "firstName": "Sanny",
+    "lastName": "Wiegman",
+    "email": "sanny.wiegman@example.com",
+    "username": "sadsnake334",
+    "password": "cookie",
+    "invokedAt": "2025-10-29T19:34:04.161Z"
   }
 ]
