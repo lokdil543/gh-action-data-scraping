@@ -830,5 +830,13 @@
     "username": "redpanda589",
     "password": "gobucks",
     "invokedAt": "2025-10-30T23:53:57.433Z"
+  },
+  {
+    "firstName": "Malou",
+    "lastName": "Rasmussen",
+    "email": "malou.rasmussen@example.com",
+    "username": "greenbird303",
+    "password": "missy",
+    "invokedAt": "2025-10-30T23:59:54.361Z"
   }
 ]
