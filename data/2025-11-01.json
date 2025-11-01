@@ -438,5 +438,13 @@
     "username": "redlion775",
     "password": "fffff",
     "invokedAt": "2025-11-01T13:02:13.963Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Román",
+    "email": "jose.roman@example.com",
+    "username": "orangebear106",
+    "password": "done",
+    "invokedAt": "2025-11-01T13:27:33.101Z"
   }
 ]
