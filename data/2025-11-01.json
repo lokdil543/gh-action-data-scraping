@@ -758,5 +758,13 @@
     "username": "sadfish531",
     "password": "artist",
     "invokedAt": "2025-11-01T19:32:19.626Z"
+  },
+  {
+    "firstName": "Hans Dieter",
+    "lastName": "Baron",
+    "email": "hansdieter.baron@example.com",
+    "username": "blackcat636",
+    "password": "242424",
+    "invokedAt": "2025-11-01T19:39:29.790Z"
   }
 ]
