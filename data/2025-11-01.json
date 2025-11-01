@@ -342,5 +342,13 @@
     "username": "organicmeercat172",
     "password": "tech",
     "invokedAt": "2025-11-01T10:47:44.274Z"
+  },
+  {
+    "firstName": "Frederick",
+    "lastName": "West",
+    "email": "frederick.west@example.com",
+    "username": "blackdog808",
+    "password": "madonna",
+    "invokedAt": "2025-11-01T10:53:37.975Z"
   }
 ]
