@@ -662,5 +662,13 @@
     "username": "happybird248",
     "password": "shadow",
     "invokedAt": "2025-11-01T17:37:25.944Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Miranda",
+    "email": "juan.miranda@example.com",
+    "username": "sadbear601",
+    "password": "biggles",
+    "invokedAt": "2025-11-01T17:43:09.109Z"
   }
 ]
