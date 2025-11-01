@@ -358,5 +358,13 @@
     "username": "yellowpanda508",
     "password": "1234abcd",
     "invokedAt": "2025-11-01T10:59:21.619Z"
+  },
+  {
+    "firstName": "Janet",
+    "lastName": "Crawford",
+    "email": "janet.crawford@example.com",
+    "username": "greenfrog546",
+    "password": "county",
+    "invokedAt": "2025-11-01T11:13:42.550Z"
   }
 ]
