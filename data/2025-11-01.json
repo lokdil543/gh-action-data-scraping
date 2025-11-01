@@ -550,5 +550,13 @@
     "username": "bluepanda789",
     "password": "nacked",
     "invokedAt": "2025-11-01T15:26:50.915Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Hanninen",
+    "email": "otto.hanninen@example.com",
+    "username": "lazyostrich455",
+    "password": "skyhawk",
+    "invokedAt": "2025-11-01T15:33:21.304Z"
   }
 ]
