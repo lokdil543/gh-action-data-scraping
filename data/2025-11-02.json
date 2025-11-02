@@ -942,5 +942,13 @@
     "username": "bigfrog250",
     "password": "bite",
     "invokedAt": "2025-11-02T23:12:09.050Z"
+  },
+  {
+    "firstName": "Timm",
+    "lastName": "Neumüller",
+    "email": "timm.neumuller@example.com",
+    "username": "bluefrog174",
+    "password": "stick",
+    "invokedAt": "2025-11-02T23:25:56.438Z"
   }
 ]
