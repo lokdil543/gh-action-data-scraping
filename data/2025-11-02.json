@@ -270,5 +270,13 @@
     "username": "heavyfish277",
     "password": "hardrock",
     "invokedAt": "2025-11-02T09:38:31.473Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Rasmussen",
+    "email": "victor.rasmussen@example.com",
+    "username": "smallgorilla802",
+    "password": "middle",
+    "invokedAt": "2025-11-02T09:44:24.509Z"
   }
 ]
