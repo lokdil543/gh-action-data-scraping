@@ -294,5 +294,13 @@
     "username": "greenwolf298",
     "password": "onions",
     "invokedAt": "2025-11-02T09:56:12.787Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Huhtala",
+    "email": "anton.huhtala@example.com",
+    "username": "whitekoala902",
+    "password": "empire",
+    "invokedAt": "2025-11-02T10:10:39.212Z"
   }
 ]
