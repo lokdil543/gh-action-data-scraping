@@ -742,5 +742,13 @@
     "username": "bluekoala501",
     "password": "cancun",
     "invokedAt": "2025-11-03T22:55:43.209Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Chambers",
+    "email": "fred.chambers@example.com",
+    "username": "whitegoose893",
+    "password": "1213",
+    "invokedAt": "2025-11-03T23:09:34.509Z"
   }
 ]
