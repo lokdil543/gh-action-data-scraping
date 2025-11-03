@@ -606,5 +606,13 @@
     "username": "beautifulmeercat268",
     "password": "11223344",
     "invokedAt": "2025-11-03T19:55:26.624Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Schmitt",
+    "email": "roman.schmitt@example.com",
+    "username": "yellowmeercat700",
+    "password": "bigdog1",
+    "invokedAt": "2025-11-03T20:11:26.445Z"
   }
 ]
