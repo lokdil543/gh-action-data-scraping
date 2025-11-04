@@ -686,5 +686,13 @@
     "username": "whitebear381",
     "password": "chai",
     "invokedAt": "2025-11-04T21:54:49.614Z"
+  },
+  {
+    "firstName": "Diego",
+    "lastName": "Blanc",
+    "email": "diego.blanc@example.com",
+    "username": "happyleopard962",
+    "password": "tundra",
+    "invokedAt": "2025-11-04T22:00:43.051Z"
   }
 ]
