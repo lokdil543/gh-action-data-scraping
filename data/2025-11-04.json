@@ -246,5 +246,13 @@
     "username": "smallostrich153",
     "password": "cancel",
     "invokedAt": "2025-11-04T09:58:44.625Z"
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Carpenter",
+    "email": "dan.carpenter@example.com",
+    "username": "crazywolf171",
+    "password": "comics",
+    "invokedAt": "2025-11-04T10:20:17.749Z"
   }
 ]
