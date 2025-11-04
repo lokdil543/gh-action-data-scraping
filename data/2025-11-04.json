@@ -678,5 +678,13 @@
     "username": "brownmeercat338",
     "password": "divers",
     "invokedAt": "2025-11-04T21:49:00.506Z"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Kowalski",
+    "email": "harper.kowalski@example.com",
+    "username": "whitebear381",
+    "password": "chai",
+    "invokedAt": "2025-11-04T21:54:49.614Z"
   }
 ]
