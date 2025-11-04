@@ -566,5 +566,13 @@
     "username": "silverbear828",
     "password": "freeway",
     "invokedAt": "2025-11-04T19:33:30.316Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Hunter",
+    "email": "fred.hunter@example.com",
+    "username": "blackduck702",
+    "password": "hayabusa",
+    "invokedAt": "2025-11-04T19:40:19.700Z"
   }
 ]
