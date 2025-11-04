@@ -486,5 +486,13 @@
     "username": "angrybutterfly194",
     "password": "chief",
     "invokedAt": "2025-11-04T17:37:28.493Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Scott",
+    "email": "amy.scott@example.com",
+    "username": "brownfish321",
+    "password": "nugget",
+    "invokedAt": "2025-11-04T17:45:10.695Z"
   }
 ]
