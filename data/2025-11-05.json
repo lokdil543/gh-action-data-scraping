@@ -750,5 +750,13 @@
     "username": "heavygoose370",
     "password": "legion",
     "invokedAt": "2025-11-05T23:37:03.704Z"
+  },
+  {
+    "firstName": "Gökhan",
+    "lastName": "Topaloğlu",
+    "email": "gokhan.topaloglu@example.com",
+    "username": "orangecat456",
+    "password": "gerard",
+    "invokedAt": "2025-11-05T23:44:01.344Z"
   }
 ]
