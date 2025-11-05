@@ -350,5 +350,13 @@
     "username": "silverfish366",
     "password": "12344321",
     "invokedAt": "2025-11-05T13:35:40.244Z"
+  },
+  {
+    "firstName": "Zander",
+    "lastName": "Moreno",
+    "email": "zander.moreno@example.com",
+    "username": "goldenfrog878",
+    "password": "trains",
+    "invokedAt": "2025-11-05T13:50:54.341Z"
   }
 ]
