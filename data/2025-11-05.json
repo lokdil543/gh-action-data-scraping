@@ -318,5 +318,13 @@
     "username": "yellowlion718",
     "password": "elvira",
     "invokedAt": "2025-11-05T11:49:18.944Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Monteiro",
+    "email": "fred.monteiro@example.com",
+    "username": "goldenkoala824",
+    "password": "dogcat",
+    "invokedAt": "2025-11-05T11:55:14.985Z"
   }
 ]
