@@ -422,5 +422,13 @@
     "username": "bluerabbit119",
     "password": "silly",
     "invokedAt": "2025-11-05T15:41:05.039Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Patel",
+    "email": "arthur.patel@example.com",
+    "username": "bluekoala758",
+    "password": "tucker",
+    "invokedAt": "2025-11-05T15:49:35.553Z"
   }
 ]
