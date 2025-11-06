@@ -758,5 +758,13 @@
     "username": "orangefish679",
     "password": "golf",
     "invokedAt": "2025-11-06T23:47:52.742Z"
+  },
+  {
+    "firstName": "Finn",
+    "lastName": "Walker",
+    "email": "finn.walker@example.com",
+    "username": "purpletiger587",
+    "password": "hawkeyes",
+    "invokedAt": "2025-11-06T23:53:38.014Z"
   }
 ]
