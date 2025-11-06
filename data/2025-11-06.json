@@ -422,5 +422,13 @@
     "username": "redbear424",
     "password": "keepout",
     "invokedAt": "2025-11-06T15:38:34.283Z"
+  },
+  {
+    "firstName": "Santiago",
+    "lastName": "Ballesteros",
+    "email": "santiago.ballesteros@example.com",
+    "username": "tinyfrog384",
+    "password": "987987",
+    "invokedAt": "2025-11-06T15:49:15.862Z"
   }
 ]
