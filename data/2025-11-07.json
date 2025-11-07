@@ -854,5 +854,13 @@
     "username": "yellowsnake452",
     "password": "smokey1",
     "invokedAt": "2025-11-07T23:47:43.476Z"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Le Gall",
+    "email": "lena.legall@example.com",
+    "username": "yellowfrog924",
+    "password": "cannon",
+    "invokedAt": "2025-11-07T23:53:56.267Z"
   }
 ]
