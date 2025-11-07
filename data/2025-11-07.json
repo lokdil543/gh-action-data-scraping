@@ -678,5 +678,13 @@
     "username": "whitedog188",
     "password": "nitro",
     "invokedAt": "2025-11-07T20:32:13.788Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Ross",
+    "email": "owen.ross@example.com",
+    "username": "blackrabbit138",
+    "password": "matador",
+    "invokedAt": "2025-11-07T20:41:45.296Z"
   }
 ]
