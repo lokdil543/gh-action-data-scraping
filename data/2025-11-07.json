@@ -782,5 +782,13 @@
     "username": "lazybear603",
     "password": "storm",
     "invokedAt": "2025-11-07T22:29:22.744Z"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Hansen",
+    "email": "marshall.hansen@example.com",
+    "username": "bluefrog198",
+    "password": "1qwerty",
+    "invokedAt": "2025-11-07T22:39:49.366Z"
   }
 ]
