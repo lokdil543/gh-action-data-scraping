@@ -798,5 +798,13 @@
     "username": "sadfish424",
     "password": "2000",
     "invokedAt": "2025-11-07T22:45:54.992Z"
+  },
+  {
+    "firstName": "Johanne",
+    "lastName": "Petersen",
+    "email": "johanne.petersen@example.com",
+    "username": "crazyduck681",
+    "password": "star",
+    "invokedAt": "2025-11-07T22:51:50.286Z"
   }
 ]
