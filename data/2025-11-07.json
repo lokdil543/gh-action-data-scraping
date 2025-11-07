@@ -670,5 +670,13 @@
     "username": "blueduck358",
     "password": "buckeye",
     "invokedAt": "2025-11-07T20:20:30.244Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Tremblay",
+    "email": "adam.tremblay@example.com",
+    "username": "whitedog188",
+    "password": "nitro",
+    "invokedAt": "2025-11-07T20:32:13.788Z"
   }
 ]
