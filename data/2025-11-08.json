@@ -646,5 +646,13 @@
     "username": "blackduck532",
     "password": "center",
     "invokedAt": "2025-11-08T17:26:55.854Z"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Henderson",
+    "email": "bobby.henderson@example.com",
+    "username": "blackmeercat296",
+    "password": "county",
+    "invokedAt": "2025-11-08T17:35:03.281Z"
   }
 ]
