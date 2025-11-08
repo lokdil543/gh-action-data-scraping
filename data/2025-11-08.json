@@ -126,5 +126,13 @@
     "username": "happyfrog321",
     "password": "classic",
     "invokedAt": "2025-11-08T05:52:36.342Z"
+  },
+  {
+    "firstName": "Ignjat",
+    "lastName": "Karadžić",
+    "email": "ignjat.karadzic@example.com",
+    "username": "sadpanda410",
+    "password": "ophelia",
+    "invokedAt": "2025-11-08T05:58:22.092Z"
   }
 ]
