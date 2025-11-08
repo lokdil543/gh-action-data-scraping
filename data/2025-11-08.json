@@ -806,5 +806,13 @@
     "username": "reddog919",
     "password": "smackdow",
     "invokedAt": "2025-11-08T20:36:56.061Z"
+  },
+  {
+    "firstName": "Eetu",
+    "lastName": "Tuomala",
+    "email": "eetu.tuomala@example.com",
+    "username": "goldenduck831",
+    "password": "master",
+    "invokedAt": "2025-11-08T20:42:44.833Z"
   }
 ]
