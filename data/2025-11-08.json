@@ -606,5 +606,13 @@
     "username": "yellowbird127",
     "password": "whales",
     "invokedAt": "2025-11-08T16:36:42.921Z"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Morris",
+    "email": "michael.morris@example.com",
+    "username": "orangemouse568",
+    "password": "recovery",
+    "invokedAt": "2025-11-08T16:46:28.460Z"
   }
 ]
