@@ -558,5 +558,13 @@
     "username": "greengorilla126",
     "password": "iomega",
     "invokedAt": "2025-11-08T15:33:50.360Z"
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Armstrong",
+    "email": "andrea.armstrong@example.com",
+    "username": "greenleopard363",
+    "password": "unique",
+    "invokedAt": "2025-11-08T15:40:44.077Z"
   }
 ]
