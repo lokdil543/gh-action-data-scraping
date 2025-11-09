@@ -230,5 +230,13 @@
     "username": "whitecat360",
     "password": "wildcats",
     "invokedAt": "2025-11-09T08:44:08.902Z"
+  },
+  {
+    "firstName": "Nicolai",
+    "lastName": "Rokstad",
+    "email": "nicolai.rokstad@example.com",
+    "username": "redelephant828",
+    "password": "secret",
+    "invokedAt": "2025-11-09T08:50:20.610Z"
   }
 ]
