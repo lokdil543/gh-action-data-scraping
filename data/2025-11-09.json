@@ -606,5 +606,13 @@
     "username": "sadgoose149",
     "password": "saigon",
     "invokedAt": "2025-11-09T16:46:19.914Z"
+  },
+  {
+    "firstName": "Philippe",
+    "lastName": "Gagné",
+    "email": "philippe.gagne@example.com",
+    "username": "bigrabbit719",
+    "password": "midway",
+    "invokedAt": "2025-11-09T16:52:15.872Z"
   }
 ]
