@@ -222,5 +222,13 @@
     "username": "happyelephant725",
     "password": "castle",
     "invokedAt": "2025-11-09T08:33:56.178Z"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Christensen",
+    "email": "oliver.christensen@example.com",
+    "username": "whitecat360",
+    "password": "wildcats",
+    "invokedAt": "2025-11-09T08:44:08.902Z"
   }
 ]
