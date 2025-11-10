@@ -550,5 +550,13 @@
     "username": "yellowrabbit985",
     "password": "positive",
     "invokedAt": "2025-11-10T19:25:31.773Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Blix",
+    "email": "andreas.blix@example.com",
+    "username": "ticklishfish407",
+    "password": "missouri",
+    "invokedAt": "2025-11-10T19:32:10.681Z"
   }
 ]
