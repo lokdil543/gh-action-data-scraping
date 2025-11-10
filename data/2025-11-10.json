@@ -718,5 +718,13 @@
     "username": "blacktiger618",
     "password": "blabla",
     "invokedAt": "2025-11-10T22:56:34.315Z"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Bonnet",
+    "email": "jane.bonnet@example.com",
+    "username": "goldenelephant795",
+    "password": "buzzard",
+    "invokedAt": "2025-11-10T23:11:37.864Z"
   }
 ]
