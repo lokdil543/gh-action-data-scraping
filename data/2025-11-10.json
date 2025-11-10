@@ -598,5 +598,13 @@
     "username": "crazyduck149",
     "password": "alice",
     "invokedAt": "2025-11-10T20:16:42.896Z"
+  },
+  {
+    "firstName": "Steffanie",
+    "lastName": "Van de Linde",
+    "email": "steffanie.vandelinde@example.com",
+    "username": "blackleopard718",
+    "password": "never",
+    "invokedAt": "2025-11-10T20:36:02.764Z"
   }
 ]
