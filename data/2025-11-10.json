@@ -70,5 +70,13 @@
     "username": "smallzebra517",
     "password": "camden",
     "invokedAt": "2025-11-10T05:32:13.875Z"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Larson",
+    "email": "danny.larson@example.com",
+    "username": "lazydog971",
+    "password": "whiteout",
+    "invokedAt": "2025-11-10T05:43:50.585Z"
   }
 ]
