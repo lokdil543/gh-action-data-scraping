@@ -702,5 +702,13 @@
     "username": "smallrabbit300",
     "password": "cbr600",
     "invokedAt": "2025-11-10T22:44:38.091Z"
+  },
+  {
+    "firstName": "Hanno",
+    "lastName": "Dröge",
+    "email": "hanno.droge@example.com",
+    "username": "yellowkoala410",
+    "password": "otis",
+    "invokedAt": "2025-11-10T22:50:32.584Z"
   }
 ]
