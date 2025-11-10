@@ -630,5 +630,13 @@
     "username": "happygoose223",
     "password": "root",
     "invokedAt": "2025-11-10T21:00:19.084Z"
+  },
+  {
+    "firstName": "Milan",
+    "lastName": "Plevako",
+    "email": "milan.plevako@example.com",
+    "username": "redostrich748",
+    "password": "playtime",
+    "invokedAt": "2025-11-10T21:19:15.883Z"
   }
 ]
