@@ -382,5 +382,13 @@
     "username": "tinyelephant559",
     "password": "brennan",
     "invokedAt": "2025-11-10T14:53:13.340Z"
+  },
+  {
+    "firstName": "Joona",
+    "lastName": "Keranen",
+    "email": "joona.keranen@example.com",
+    "username": "bluemouse300",
+    "password": "redbird",
+    "invokedAt": "2025-11-10T14:59:01.734Z"
   }
 ]
