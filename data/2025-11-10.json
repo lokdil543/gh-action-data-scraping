@@ -590,5 +590,13 @@
     "username": "purplebird526",
     "password": "lockerroom",
     "invokedAt": "2025-11-10T19:57:23.930Z"
+  },
+  {
+    "firstName": "Don",
+    "lastName": "Hanson",
+    "email": "don.hanson@example.com",
+    "username": "crazyduck149",
+    "password": "alice",
+    "invokedAt": "2025-11-10T20:16:42.896Z"
   }
 ]
