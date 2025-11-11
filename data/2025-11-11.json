@@ -286,5 +286,13 @@
     "username": "crazyostrich350",
     "password": "topdog",
     "invokedAt": "2025-11-11T11:25:15.706Z"
+  },
+  {
+    "firstName": "Steffanie",
+    "lastName": "Rietbergen",
+    "email": "steffanie.rietbergen@example.com",
+    "username": "goldenfrog123",
+    "password": "sting",
+    "invokedAt": "2025-11-11T11:33:51.700Z"
   }
 ]
