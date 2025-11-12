@@ -62,5 +62,13 @@
     "username": "crazyrabbit422",
     "password": "stayout",
     "invokedAt": "2025-11-12T04:55:19.976Z"
+  },
+  {
+    "firstName": "Karl",
+    "lastName": "Knight",
+    "email": "karl.knight@example.com",
+    "username": "greenrabbit751",
+    "password": "12345678",
+    "invokedAt": "2025-11-12T05:10:56.143Z"
   }
 ]
