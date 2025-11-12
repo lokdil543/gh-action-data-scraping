@@ -446,5 +446,13 @@
     "username": "brownostrich323",
     "password": "creature",
     "invokedAt": "2025-11-12T16:55:58.205Z"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Clarke",
+    "email": "sophia.clarke@example.com",
+    "username": "lazymouse252",
+    "password": "oceans",
+    "invokedAt": "2025-11-12T17:11:57.077Z"
   }
 ]
