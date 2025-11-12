@@ -382,5 +382,13 @@
     "username": "bluebutterfly696",
     "password": "password",
     "invokedAt": "2025-11-12T14:50:14.762Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Weaver",
+    "email": "isaac.weaver@example.com",
+    "username": "sadcat501",
+    "password": "overlord",
+    "invokedAt": "2025-11-12T14:56:47.311Z"
   }
 ]
