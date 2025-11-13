@@ -398,5 +398,13 @@
     "username": "angryleopard658",
     "password": "experienced",
     "invokedAt": "2025-11-13T15:24:01.962Z"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Mortensen",
+    "email": "marcus.mortensen@example.com",
+    "username": "bluetiger993",
+    "password": "424242",
+    "invokedAt": "2025-11-13T15:37:27.872Z"
   }
 ]
