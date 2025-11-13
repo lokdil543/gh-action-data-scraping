@@ -686,5 +686,13 @@
     "username": "lazypeacock140",
     "password": "kong",
     "invokedAt": "2025-11-13T22:19:06.587Z"
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Hansen",
+    "email": "adam.hansen@example.com",
+    "username": "ticklishcat834",
+    "password": "penetrating",
+    "invokedAt": "2025-11-13T22:35:07.504Z"
   }
 ]
