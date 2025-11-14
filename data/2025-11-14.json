@@ -550,5 +550,13 @@
     "username": "happyostrich200",
     "password": "moore",
     "invokedAt": "2025-11-14T17:56:12.724Z"
+  },
+  {
+    "firstName": "Adriana",
+    "lastName": "López",
+    "email": "adriana.lopez@example.com",
+    "username": "brownostrich534",
+    "password": "sonia",
+    "invokedAt": "2025-11-14T18:16:17.813Z"
   }
 ]
