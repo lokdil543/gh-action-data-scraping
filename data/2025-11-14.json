@@ -622,5 +622,13 @@
     "username": "heavymouse432",
     "password": "durango",
     "invokedAt": "2025-11-14T19:46:33.898Z"
+  },
+  {
+    "firstName": "Lia",
+    "lastName": "Roussel",
+    "email": "lia.roussel@example.com",
+    "username": "redpanda235",
+    "password": "pipeline",
+    "invokedAt": "2025-11-14T19:52:32.509Z"
   }
 ]
