@@ -286,5 +286,13 @@
     "username": "brownleopard216",
     "password": "case",
     "invokedAt": "2025-11-14T10:55:07.794Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Andersen",
+    "email": "daniel.andersen@example.com",
+    "username": "bigpeacock426",
+    "password": "poohbear",
+    "invokedAt": "2025-11-14T11:07:45.481Z"
   }
 ]
