@@ -382,5 +382,13 @@
     "username": "whitekoala100",
     "password": "person",
     "invokedAt": "2025-11-14T13:53:24.685Z"
+  },
+  {
+    "firstName": "Miran",
+    "lastName": "Baggerman",
+    "email": "miran.baggerman@example.com",
+    "username": "angrypanda393",
+    "password": "emperor",
+    "invokedAt": "2025-11-14T13:59:16.346Z"
   }
 ]
