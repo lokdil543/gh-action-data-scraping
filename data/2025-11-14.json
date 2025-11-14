@@ -526,5 +526,13 @@
     "username": "bluekoala319",
     "password": "critter",
     "invokedAt": "2025-11-14T17:33:43.931Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Poulsen",
+    "email": "emma.poulsen@example.com",
+    "username": "whitepanda691",
+    "password": "ultra",
+    "invokedAt": "2025-11-14T17:44:11.432Z"
   }
 ]
