@@ -302,5 +302,13 @@
     "username": "bluedog294",
     "password": "freeuser",
     "invokedAt": "2025-11-14T11:24:40.584Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "White",
+    "email": "nathan.white@example.com",
+    "username": "bluemeercat941",
+    "password": "zippo",
+    "invokedAt": "2025-11-14T11:31:51.554Z"
   }
 ]
