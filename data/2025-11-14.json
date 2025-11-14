@@ -630,5 +630,13 @@
     "username": "redpanda235",
     "password": "pipeline",
     "invokedAt": "2025-11-14T19:52:32.509Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Ryan",
+    "email": "jesse.ryan@example.com",
+    "username": "brownswan619",
+    "password": "intruder",
+    "invokedAt": "2025-11-14T19:58:17.999Z"
   }
 ]
