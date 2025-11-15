@@ -814,5 +814,13 @@
     "username": "sadzebra590",
     "password": "lion",
     "invokedAt": "2025-11-15T20:49:59.091Z"
+  },
+  {
+    "firstName": "August",
+    "lastName": "Madsen",
+    "email": "august.madsen@example.com",
+    "username": "silverostrich232",
+    "password": "asdfg",
+    "invokedAt": "2025-11-15T20:55:48.779Z"
   }
 ]
