@@ -854,5 +854,13 @@
     "username": "organicdog758",
     "password": "shibby",
     "invokedAt": "2025-11-15T21:36:35.425Z"
+  },
+  {
+    "firstName": "Gaël",
+    "lastName": "Van Otterloo",
+    "email": "gael.vanotterloo@example.com",
+    "username": "bigfish228",
+    "password": "dawg",
+    "invokedAt": "2025-11-15T21:42:33.459Z"
   }
 ]
