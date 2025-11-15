@@ -526,5 +526,13 @@
     "username": "crazydog157",
     "password": "sharp",
     "invokedAt": "2025-11-15T14:56:57.100Z"
+  },
+  {
+    "firstName": "Judith",
+    "lastName": "Silva",
+    "email": "judith.silva@example.com",
+    "username": "reddog123",
+    "password": "postal",
+    "invokedAt": "2025-11-15T15:11:42.287Z"
   }
 ]
