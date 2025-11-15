@@ -878,5 +878,13 @@
     "username": "lazydog843",
     "password": "iiiiii",
     "invokedAt": "2025-11-15T21:54:12.514Z"
+  },
+  {
+    "firstName": "Benoît",
+    "lastName": "Van Noppen",
+    "email": "benoit.vannoppen@example.com",
+    "username": "redcat247",
+    "password": "alan",
+    "invokedAt": "2025-11-15T21:59:57.003Z"
   }
 ]
