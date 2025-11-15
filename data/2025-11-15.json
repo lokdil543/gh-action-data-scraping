@@ -750,5 +750,13 @@
     "username": "crazymeercat930",
     "password": "devildog",
     "invokedAt": "2025-11-15T19:39:00.688Z"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Møller",
+    "email": "victor.moller@example.com",
+    "username": "bluebutterfly486",
+    "password": "krusty",
+    "invokedAt": "2025-11-15T19:44:57.981Z"
   }
 ]
