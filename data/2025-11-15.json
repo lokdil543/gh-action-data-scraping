@@ -606,5 +606,13 @@
     "username": "silvergorilla340",
     "password": "blackbir",
     "invokedAt": "2025-11-15T16:46:29.476Z"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Mccoy",
+    "email": "gavin.mccoy@example.com",
+    "username": "greengoose227",
+    "password": "google",
+    "invokedAt": "2025-11-15T16:52:26.766Z"
   }
 ]
