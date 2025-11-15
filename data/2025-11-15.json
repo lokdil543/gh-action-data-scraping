@@ -382,5 +382,13 @@
     "username": "angryzebra271",
     "password": "test",
     "invokedAt": "2025-11-15T11:30:54.292Z"
+  },
+  {
+    "firstName": "Stanislav",
+    "lastName": "Vlahović",
+    "email": "stanislav.vlahovic@example.com",
+    "username": "whitebird596",
+    "password": "install",
+    "invokedAt": "2025-11-15T11:37:59.865Z"
   }
 ]
