@@ -246,5 +246,13 @@
     "username": "happypeacock215",
     "password": "lookin",
     "invokedAt": "2025-11-15T08:49:27.928Z"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Barbier",
+    "email": "robert.barbier@example.com",
+    "username": "bigduck240",
+    "password": "tartar",
+    "invokedAt": "2025-11-15T08:55:20.737Z"
   }
 ]
