@@ -198,5 +198,13 @@
     "username": "brownkoala624",
     "password": "jasmine",
     "invokedAt": "2025-11-15T07:42:45.489Z"
+  },
+  {
+    "firstName": "Martín",
+    "lastName": "Arias",
+    "email": "martin.arias@example.com",
+    "username": "orangedog171",
+    "password": "delta",
+    "invokedAt": "2025-11-15T07:48:35.337Z"
   }
 ]
