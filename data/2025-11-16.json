@@ -702,5 +702,13 @@
     "username": "orangemouse310",
     "password": "usarmy",
     "invokedAt": "2025-11-16T19:34:04.490Z"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Schmidt",
+    "email": "brett.schmidt@example.com",
+    "username": "heavygorilla615",
+    "password": "manager",
+    "invokedAt": "2025-11-16T19:40:11.847Z"
   }
 ]
