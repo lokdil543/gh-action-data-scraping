@@ -782,5 +782,13 @@
     "username": "blackrabbit962",
     "password": "secret",
     "invokedAt": "2025-11-16T20:59:08.816Z"
+  },
+  {
+    "firstName": "Deborah",
+    "lastName": "Bates",
+    "email": "deborah.bates@example.com",
+    "username": "brownduck579",
+    "password": "mailman",
+    "invokedAt": "2025-11-16T21:15:07.777Z"
   }
 ]
