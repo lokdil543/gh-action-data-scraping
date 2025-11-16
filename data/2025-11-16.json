@@ -262,5 +262,13 @@
     "username": "blackzebra297",
     "password": "bigone",
     "invokedAt": "2025-11-16T09:45:55.671Z"
+  },
+  {
+    "firstName": "Ann",
+    "lastName": "Graves",
+    "email": "ann.graves@example.com",
+    "username": "redbear641",
+    "password": "woofwoof",
+    "invokedAt": "2025-11-16T09:51:41.106Z"
   }
 ]
