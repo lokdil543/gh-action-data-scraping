@@ -598,5 +598,13 @@
     "username": "happyfrog629",
     "password": "ccbill",
     "invokedAt": "2025-11-16T17:16:42.889Z"
+  },
+  {
+    "firstName": "Vilma",
+    "lastName": "Jarvinen",
+    "email": "vilma.jarvinen@example.com",
+    "username": "silverdog736",
+    "password": "gunner",
+    "invokedAt": "2025-11-16T17:29:31.389Z"
   }
 ]
