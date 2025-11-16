@@ -662,5 +662,13 @@
     "username": "bluebear146",
     "password": "sneaky",
     "invokedAt": "2025-11-16T18:49:16.381Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Laurila",
+    "email": "aleksi.laurila@example.com",
+    "username": "lazyladybug539",
+    "password": "shaker",
+    "invokedAt": "2025-11-16T18:55:05.563Z"
   }
 ]
