@@ -918,5 +918,13 @@
     "username": "happytiger410",
     "password": "1234abcd",
     "invokedAt": "2025-11-16T23:43:41.071Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Tanner",
+    "email": "kerttu.tanner@example.com",
+    "username": "bluewolf193",
+    "password": "cartman1",
+    "invokedAt": "2025-11-16T23:49:35.598Z"
   }
 ]
