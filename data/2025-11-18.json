@@ -358,5 +358,13 @@
     "username": "whitefrog578",
     "password": "fruit",
     "invokedAt": "2025-11-18T16:20:13.481Z"
+  },
+  {
+    "firstName": "Manfred",
+    "lastName": "Hörner",
+    "email": "manfred.horner@example.com",
+    "username": "silversnake232",
+    "password": "ventura",
+    "invokedAt": "2025-11-18T16:46:31.776Z"
   }
 ]
