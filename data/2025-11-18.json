@@ -542,5 +542,13 @@
     "username": "organicfish840",
     "password": "christine",
     "invokedAt": "2025-11-18T22:16:47.242Z"
+  },
+  {
+    "firstName": "Jean",
+    "lastName": "Nguyen",
+    "email": "jean.nguyen@example.com",
+    "username": "redmeercat501",
+    "password": "rockstar",
+    "invokedAt": "2025-11-18T22:34:18.171Z"
   }
 ]
