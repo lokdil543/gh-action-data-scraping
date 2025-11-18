@@ -334,5 +334,13 @@
     "username": "happyleopard201",
     "password": "face",
     "invokedAt": "2025-11-18T15:24:42.104Z"
+  },
+  {
+    "firstName": "Léonard",
+    "lastName": "Perez",
+    "email": "leonard.perez@example.com",
+    "username": "happyfish304",
+    "password": "deadspin",
+    "invokedAt": "2025-11-18T15:41:03.023Z"
   }
 ]
