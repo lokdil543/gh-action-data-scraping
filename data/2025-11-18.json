@@ -382,5 +382,13 @@
     "username": "bigfrog228",
     "password": "3333333",
     "invokedAt": "2025-11-18T17:16:51.995Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Wang",
+    "email": "arthur.wang@example.com",
+    "username": "ticklishfish561",
+    "password": "center",
+    "invokedAt": "2025-11-18T17:34:00.407Z"
   }
 ]
