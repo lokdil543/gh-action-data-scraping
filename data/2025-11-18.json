@@ -478,5 +478,13 @@
     "username": "smalldog934",
     "password": "subway",
     "invokedAt": "2025-11-18T19:43:57.039Z"
+  },
+  {
+    "firstName": "Sander",
+    "lastName": "Møller",
+    "email": "sander.moller@example.com",
+    "username": "orangegoose616",
+    "password": "monkey1",
+    "invokedAt": "2025-11-18T19:49:55.162Z"
   }
 ]
