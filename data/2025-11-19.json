@@ -758,5 +758,13 @@
     "username": "goldentiger350",
     "password": "passport",
     "invokedAt": "2025-11-19T22:59:32.681Z"
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Barnaby",
+    "email": "rose.barnaby@example.com",
+    "username": "bigfish136",
+    "password": "hello",
+    "invokedAt": "2025-11-19T23:17:59.182Z"
   }
 ]
