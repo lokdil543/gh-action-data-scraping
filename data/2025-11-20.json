@@ -174,5 +174,13 @@
     "username": "greenpanda409",
     "password": "rainbow6",
     "invokedAt": "2025-11-20T07:50:38.850Z"
+  },
+  {
+    "firstName": "Arnaud",
+    "lastName": "Wilson",
+    "email": "arnaud.wilson@example.com",
+    "username": "yellowpanda311",
+    "password": "redrose",
+    "invokedAt": "2025-11-20T07:56:33.533Z"
   }
 ]
