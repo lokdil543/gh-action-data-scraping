@@ -190,5 +190,13 @@
     "username": "bluecat600",
     "password": "energy",
     "invokedAt": "2025-11-21T08:24:16.086Z"
+  },
+  {
+    "firstName": "Marilou",
+    "lastName": "Brown",
+    "email": "marilou.brown@example.com",
+    "username": "blackleopard181",
+    "password": "2345",
+    "invokedAt": "2025-11-21T08:45:07.511Z"
   }
 ]
