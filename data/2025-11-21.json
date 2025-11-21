@@ -494,5 +494,13 @@
     "username": "smalllion709",
     "password": "massive",
     "invokedAt": "2025-11-21T16:23:42.502Z"
+  },
+  {
+    "firstName": "Imre",
+    "lastName": "Pesch",
+    "email": "imre.pesch@example.com",
+    "username": "happygoose502",
+    "password": "mailman",
+    "invokedAt": "2025-11-21T16:41:26.844Z"
   }
 ]
