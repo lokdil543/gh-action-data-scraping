@@ -550,5 +550,13 @@
     "username": "happysnake926",
     "password": "qwer",
     "invokedAt": "2025-11-21T17:46:42.982Z"
+  },
+  {
+    "firstName": "Roberto",
+    "lastName": "Rodríguez",
+    "email": "roberto.rodriguez@example.com",
+    "username": "happyelephant101",
+    "password": "giants",
+    "invokedAt": "2025-11-21T17:52:31.318Z"
   }
 ]
