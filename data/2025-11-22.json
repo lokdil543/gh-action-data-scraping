@@ -318,5 +318,13 @@
     "username": "redpanda793",
     "password": "fuzzy",
     "invokedAt": "2025-11-22T10:34:07.050Z"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Li",
+    "email": "maria.li@example.com",
+    "username": "lazyostrich729",
+    "password": "nimbus",
+    "invokedAt": "2025-11-22T10:42:24.304Z"
   }
 ]
