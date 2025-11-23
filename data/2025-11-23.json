@@ -782,5 +782,13 @@
     "username": "bigfrog927",
     "password": "1004",
     "invokedAt": "2025-11-23T21:46:41.145Z"
+  },
+  {
+    "firstName": "Nixon",
+    "lastName": "Thompson",
+    "email": "nixon.thompson@example.com",
+    "username": "yellowmeercat317",
+    "password": "radio",
+    "invokedAt": "2025-11-23T21:52:39.460Z"
   }
 ]
