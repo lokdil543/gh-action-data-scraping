@@ -550,5 +550,13 @@
     "username": "angrysnake232",
     "password": "house1",
     "invokedAt": "2025-11-23T16:49:04.117Z"
+  },
+  {
+    "firstName": "Veeti",
+    "lastName": "Paavola",
+    "email": "veeti.paavola@example.com",
+    "username": "heavybird911",
+    "password": "masamune",
+    "invokedAt": "2025-11-23T16:55:00.485Z"
   }
 ]
