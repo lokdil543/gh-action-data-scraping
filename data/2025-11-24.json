@@ -726,5 +726,13 @@
     "username": "sadelephant503",
     "password": "jose",
     "invokedAt": "2025-11-24T23:50:12.960Z"
+  },
+  {
+    "firstName": "Adrien",
+    "lastName": "Lemaire",
+    "email": "adrien.lemaire@example.com",
+    "username": "lazyladybug696",
+    "password": "kenshin",
+    "invokedAt": "2025-11-24T23:56:01.048Z"
   }
 ]
