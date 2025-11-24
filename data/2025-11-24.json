@@ -534,5 +534,13 @@
     "username": "bigbird138",
     "password": "millwall",
     "invokedAt": "2025-11-24T19:43:39.774Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Alcaraz",
+    "email": "juan.alcaraz@example.com",
+    "username": "beautifulfrog229",
+    "password": "downtown",
+    "invokedAt": "2025-11-24T19:49:36.612Z"
   }
 ]
