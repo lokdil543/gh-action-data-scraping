@@ -478,5 +478,13 @@
     "username": "greenswan935",
     "password": "charlie1",
     "invokedAt": "2025-11-24T18:19:06.956Z"
+  },
+  {
+    "firstName": "Virgil",
+    "lastName": "Ramos",
+    "email": "virgil.ramos@example.com",
+    "username": "angrysnake462",
+    "password": "global",
+    "invokedAt": "2025-11-24T18:46:38.542Z"
   }
 ]
