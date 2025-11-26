@@ -534,5 +534,13 @@
     "username": "whitepanda619",
     "password": "abcdefg",
     "invokedAt": "2025-11-26T19:22:54.493Z"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Douglas",
+    "email": "raul.douglas@example.com",
+    "username": "redpanda332",
+    "password": "chicken",
+    "invokedAt": "2025-11-26T19:28:44.965Z"
   }
 ]
