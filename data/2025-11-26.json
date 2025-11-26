@@ -542,5 +542,13 @@
     "username": "redpanda332",
     "password": "chicken",
     "invokedAt": "2025-11-26T19:28:44.965Z"
+  },
+  {
+    "firstName": "Kenan",
+    "lastName": "Blix",
+    "email": "kenan.blix@example.com",
+    "username": "sadrabbit352",
+    "password": "godzilla",
+    "invokedAt": "2025-11-26T19:36:04.232Z"
   }
 ]
