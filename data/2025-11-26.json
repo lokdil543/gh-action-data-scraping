@@ -718,5 +718,13 @@
     "username": "bigkoala551",
     "password": "national",
     "invokedAt": "2025-11-26T22:54:40.434Z"
+  },
+  {
+    "firstName": "Billy",
+    "lastName": "Peterson",
+    "email": "billy.peterson@example.com",
+    "username": "organicbear416",
+    "password": "deftones",
+    "invokedAt": "2025-11-26T23:00:46.823Z"
   }
 ]
