@@ -574,5 +574,13 @@
     "username": "happycat430",
     "password": "thedog",
     "invokedAt": "2025-11-27T19:38:57.434Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Vučetić",
+    "email": "milos.vucetic@example.com",
+    "username": "orangegoose427",
+    "password": "conan",
+    "invokedAt": "2025-11-27T19:44:42.031Z"
   }
 ]
