@@ -446,5 +446,13 @@
     "username": "lazygoose904",
     "password": "tractor",
     "invokedAt": "2025-11-27T16:41:54.537Z"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Madsen",
+    "email": "anna.madsen@example.com",
+    "username": "blackswan678",
+    "password": "wrestler",
+    "invokedAt": "2025-11-27T16:53:47.094Z"
   }
 ]
