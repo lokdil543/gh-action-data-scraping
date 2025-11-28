@@ -494,5 +494,13 @@
     "username": "yellowbear478",
     "password": "oblivion",
     "invokedAt": "2025-11-28T16:59:55.028Z"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Hannula",
+    "email": "otto.hannula@example.com",
+    "username": "tinygorilla111",
+    "password": "small",
+    "invokedAt": "2025-11-28T17:17:41.000Z"
   }
 ]
