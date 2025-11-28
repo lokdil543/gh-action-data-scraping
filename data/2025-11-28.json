@@ -782,5 +782,13 @@
     "username": "smallwolf856",
     "password": "training",
     "invokedAt": "2025-11-28T23:13:45.332Z"
+  },
+  {
+    "firstName": "Petar",
+    "lastName": "Vidal",
+    "email": "petar.vidal@example.com",
+    "username": "whitefish332",
+    "password": "gollum",
+    "invokedAt": "2025-11-28T23:28:10.615Z"
   }
 ]
