@@ -798,5 +798,13 @@
     "username": "lazymeercat222",
     "password": "monkeys",
     "invokedAt": "2025-11-29T22:07:23.658Z"
+  },
+  {
+    "firstName": "Tamara",
+    "lastName": "Stojanović",
+    "email": "tamara.stojanovic@example.com",
+    "username": "blueelephant147",
+    "password": "flower",
+    "invokedAt": "2025-11-29T22:28:54.905Z"
   }
 ]
