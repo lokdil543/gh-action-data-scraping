@@ -158,5 +158,13 @@
     "username": "purpleelephant464",
     "password": "static",
     "invokedAt": "2025-11-29T07:34:07.277Z"
+  },
+  {
+    "firstName": "Johan",
+    "lastName": "Larsen",
+    "email": "johan.larsen@example.com",
+    "username": "redtiger388",
+    "password": "holly1",
+    "invokedAt": "2025-11-29T07:41:13.557Z"
   }
 ]
