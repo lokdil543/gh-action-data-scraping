@@ -838,5 +838,13 @@
     "username": "whitebird990",
     "password": "guan",
     "invokedAt": "2025-11-29T22:57:39.072Z"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Johansen",
+    "email": "carl.johansen@example.com",
+    "username": "redfrog443",
+    "password": "logger",
+    "invokedAt": "2025-11-29T23:13:33.195Z"
   }
 ]
