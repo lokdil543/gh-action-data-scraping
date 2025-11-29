@@ -254,5 +254,13 @@
     "username": "beautifulmouse897",
     "password": "titanic",
     "invokedAt": "2025-11-29T09:46:27.073Z"
+  },
+  {
+    "firstName": "Maxime",
+    "lastName": "Renard",
+    "email": "maxime.renard@example.com",
+    "username": "heavycat693",
+    "password": "short",
+    "invokedAt": "2025-11-29T09:52:27.498Z"
   }
 ]
