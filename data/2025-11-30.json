@@ -798,5 +798,13 @@
     "username": "sadbutterfly725",
     "password": "toto",
     "invokedAt": "2025-11-30T22:35:09.726Z"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Nebel",
+    "email": "harry.nebel@example.com",
+    "username": "goldenleopard362",
+    "password": "thrasher",
+    "invokedAt": "2025-11-30T22:44:06.136Z"
   }
 ]
