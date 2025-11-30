@@ -366,5 +366,13 @@
     "username": "redbear354",
     "password": "1201",
     "invokedAt": "2025-11-30T12:35:06.742Z"
+  },
+  {
+    "firstName": "Remco",
+    "lastName": "Helderman",
+    "email": "remco.helderman@example.com",
+    "username": "tinymouse932",
+    "password": "banane",
+    "invokedAt": "2025-11-30T13:04:10.596Z"
   }
 ]
