@@ -270,5 +270,13 @@
     "username": "silverdog543",
     "password": "pooppoop",
     "invokedAt": "2025-11-30T10:33:44.823Z"
+  },
+  {
+    "firstName": "Petko",
+    "lastName": "Milutinović",
+    "email": "petko.milutinovic@example.com",
+    "username": "ticklishbird983",
+    "password": "blaster",
+    "invokedAt": "2025-11-30T10:43:12.221Z"
   }
 ]
