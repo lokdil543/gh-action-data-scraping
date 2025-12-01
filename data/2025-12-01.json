@@ -238,5 +238,13 @@
     "username": "bigtiger510",
     "password": "alpha",
     "invokedAt": "2025-12-01T11:53:09.144Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Day",
+    "email": "sam.day@example.com",
+    "username": "bigfish948",
+    "password": "picard",
+    "invokedAt": "2025-12-01T11:59:00.993Z"
   }
 ]
