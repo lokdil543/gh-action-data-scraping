@@ -598,5 +598,13 @@
     "username": "angrysnake244",
     "password": "lust",
     "invokedAt": "2025-12-01T23:29:45.772Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "email": "david.brown@example.com",
+    "username": "purplesnake717",
+    "password": "letmein",
+    "invokedAt": "2025-12-01T23:39:32.350Z"
   }
 ]
