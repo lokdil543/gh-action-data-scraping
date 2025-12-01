@@ -422,5 +422,13 @@
     "username": "yellowwolf341",
     "password": "moondog",
     "invokedAt": "2025-12-01T19:18:15.791Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Gauthier",
+    "email": "daniel.gauthier@example.com",
+    "username": "browngorilla152",
+    "password": "salesman",
+    "invokedAt": "2025-12-01T19:50:09.202Z"
   }
 ]
