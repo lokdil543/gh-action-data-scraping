@@ -262,5 +262,13 @@
     "username": "silvercat135",
     "password": "building",
     "invokedAt": "2025-12-03T11:39:28.400Z"
+  },
+  {
+    "firstName": "Are",
+    "lastName": "Grøneng",
+    "email": "are.groneng@example.com",
+    "username": "blackbutterfly662",
+    "password": "testibil",
+    "invokedAt": "2025-12-03T11:46:38.856Z"
   }
 ]
