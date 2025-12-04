@@ -590,5 +590,13 @@
     "username": "goldenbear271",
     "password": "shinobi",
     "invokedAt": "2025-12-04T22:33:33.848Z"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Olsen",
+    "email": "jacob.olsen@example.com",
+    "username": "redostrich284",
+    "password": "5656",
+    "invokedAt": "2025-12-04T22:44:28.431Z"
   }
 ]
