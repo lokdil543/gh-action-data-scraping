@@ -254,5 +254,13 @@
     "username": "heavycat606",
     "password": "bender",
     "invokedAt": "2025-12-04T11:32:34.779Z"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Mauseth",
+    "email": "kevin.mauseth@example.com",
+    "username": "heavybutterfly280",
+    "password": "basket",
+    "invokedAt": "2025-12-04T11:42:52.437Z"
   }
 ]
