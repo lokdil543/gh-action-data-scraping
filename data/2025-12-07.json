@@ -438,5 +438,13 @@
     "username": "bigwolf954",
     "password": "turnip",
     "invokedAt": "2025-12-07T14:30:02.318Z"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Wood",
+    "email": "sarah.wood@example.com",
+    "username": "smallsnake868",
+    "password": "hound",
+    "invokedAt": "2025-12-07T14:40:09.092Z"
   }
 ]
