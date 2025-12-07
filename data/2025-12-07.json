@@ -742,5 +742,13 @@
     "username": "silverdog857",
     "password": "charger",
     "invokedAt": "2025-12-07T20:53:24.073Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Divac",
+    "email": "marko.divac@example.com",
+    "username": "bigpanda565",
+    "password": "waterboy",
+    "invokedAt": "2025-12-07T20:59:24.476Z"
   }
 ]
