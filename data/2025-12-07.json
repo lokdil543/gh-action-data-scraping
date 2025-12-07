@@ -630,5 +630,13 @@
     "username": "lazydog436",
     "password": "mike1",
     "invokedAt": "2025-12-07T18:44:42.097Z"
+  },
+  {
+    "firstName": "Lena",
+    "lastName": "Miller",
+    "email": "lena.miller@example.com",
+    "username": "crazyelephant399",
+    "password": "zigzag",
+    "invokedAt": "2025-12-07T18:52:45.596Z"
   }
 ]
