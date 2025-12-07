@@ -734,5 +734,13 @@
     "username": "brownfish235",
     "password": "orion1",
     "invokedAt": "2025-12-07T20:47:31.407Z"
+  },
+  {
+    "firstName": "Dariusz",
+    "lastName": "Panzer",
+    "email": "dariusz.panzer@example.com",
+    "username": "silverdog857",
+    "password": "charger",
+    "invokedAt": "2025-12-07T20:53:24.073Z"
   }
 ]
