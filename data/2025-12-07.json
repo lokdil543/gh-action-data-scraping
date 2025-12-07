@@ -310,5 +310,13 @@
     "username": "bigfrog863",
     "password": "overkill",
     "invokedAt": "2025-12-07T11:00:08.894Z"
+  },
+  {
+    "firstName": "Kadir",
+    "lastName": "Nalbantoğlu",
+    "email": "kadir.nalbantoglu@example.com",
+    "username": "orangefrog461",
+    "password": "ambrosia",
+    "invokedAt": "2025-12-07T11:15:58.240Z"
   }
 ]
