@@ -526,5 +526,13 @@
     "username": "purplebird622",
     "password": "cats",
     "invokedAt": "2025-12-08T20:54:41.233Z"
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Kujala",
+    "email": "ellen.kujala@example.com",
+    "username": "sadtiger580",
+    "password": "theone",
+    "invokedAt": "2025-12-08T21:00:42.258Z"
   }
 ]
