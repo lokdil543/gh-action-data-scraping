@@ -358,5 +358,13 @@
     "username": "bigmeercat134",
     "password": "fred",
     "invokedAt": "2025-12-08T15:55:03.058Z"
+  },
+  {
+    "firstName": "Sasa",
+    "lastName": "Moulin",
+    "email": "sasa.moulin@example.com",
+    "username": "heavybird617",
+    "password": "series",
+    "invokedAt": "2025-12-08T16:12:29.679Z"
   }
 ]
