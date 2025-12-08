@@ -190,5 +190,13 @@
     "username": "smalldog672",
     "password": "coldplay",
     "invokedAt": "2025-12-08T10:18:26.181Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Ranta",
+    "email": "daniel.ranta@example.com",
+    "username": "ticklishwolf127",
+    "password": "qwertyuiop",
+    "invokedAt": "2025-12-08T10:43:33.739Z"
   }
 ]
