@@ -102,5 +102,13 @@
     "username": "organicbear828",
     "password": "mitch",
     "invokedAt": "2025-12-09T06:31:53.417Z"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Cook",
+    "email": "phil.cook@example.com",
+    "username": "whiteduck529",
+    "password": "looker",
+    "invokedAt": "2025-12-09T06:55:48.208Z"
   }
 ]
