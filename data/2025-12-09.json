@@ -174,5 +174,13 @@
     "username": "lazybear799",
     "password": "asdf1234",
     "invokedAt": "2025-12-09T08:59:32.097Z"
+  },
+  {
+    "firstName": "Aapo",
+    "lastName": "Moilanen",
+    "email": "aapo.moilanen@example.com",
+    "username": "bigkoala104",
+    "password": "plum",
+    "invokedAt": "2025-12-09T09:23:52.143Z"
   }
 ]
