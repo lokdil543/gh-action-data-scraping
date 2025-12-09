@@ -526,5 +526,13 @@
     "username": "smallbutterfly464",
     "password": "jensen",
     "invokedAt": "2025-12-09T20:00:24.859Z"
+  },
+  {
+    "firstName": "Angela",
+    "lastName": "Jensen",
+    "email": "angela.jensen@example.com",
+    "username": "lazydog397",
+    "password": "edgar",
+    "invokedAt": "2025-12-09T20:22:55.687Z"
   }
 ]
