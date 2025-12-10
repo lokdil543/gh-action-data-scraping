@@ -54,5 +54,13 @@
     "username": "sadbird266",
     "password": "theatre",
     "invokedAt": "2025-12-10T05:22:25.686Z"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Gauthier",
+    "email": "vincent.gauthier@example.com",
+    "username": "lazyfish186",
+    "password": "hawkeye",
+    "invokedAt": "2025-12-10T05:40:38.574Z"
   }
 ]
