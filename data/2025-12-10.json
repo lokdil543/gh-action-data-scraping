@@ -198,5 +198,13 @@
     "username": "crazyrabbit454",
     "password": "gsxr750",
     "invokedAt": "2025-12-10T10:20:16.423Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Burton",
+    "email": "bob.burton@example.com",
+    "username": "angrycat580",
+    "password": "3131",
+    "invokedAt": "2025-12-10T10:44:31.716Z"
   }
 ]
