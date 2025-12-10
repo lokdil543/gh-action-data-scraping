@@ -214,5 +214,13 @@
     "username": "whiterabbit544",
     "password": "musical",
     "invokedAt": "2025-12-10T10:56:09.572Z"
+  },
+  {
+    "firstName": "Momčilo",
+    "lastName": "Ristović",
+    "email": "momcilo.ristovic@example.com",
+    "username": "sadzebra183",
+    "password": "service",
+    "invokedAt": "2025-12-10T11:11:00.674Z"
   }
 ]
