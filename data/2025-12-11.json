@@ -374,5 +374,13 @@
     "username": "silverwolf734",
     "password": "jimbob",
     "invokedAt": "2025-12-11T17:45:20.590Z"
+  },
+  {
+    "firstName": "Ralph",
+    "lastName": "Robinson",
+    "email": "ralph.robinson@example.com",
+    "username": "angrydog984",
+    "password": "acid",
+    "invokedAt": "2025-12-11T17:57:46.413Z"
   }
 ]
