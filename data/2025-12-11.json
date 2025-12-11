@@ -438,5 +438,13 @@
     "username": "tinygoose382",
     "password": "waldo1",
     "invokedAt": "2025-12-11T19:50:55.297Z"
+  },
+  {
+    "firstName": "Dragoje",
+    "lastName": "Anđelić",
+    "email": "dragoje.andelic@example.com",
+    "username": "silvergoose999",
+    "password": "school",
+    "invokedAt": "2025-12-11T19:56:51.307Z"
   }
 ]
