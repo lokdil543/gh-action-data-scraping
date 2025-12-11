@@ -214,5 +214,13 @@
     "username": "smallwolf980",
     "password": "rebel",
     "invokedAt": "2025-12-11T11:00:35.009Z"
+  },
+  {
+    "firstName": "Dragan",
+    "lastName": "Zelenović",
+    "email": "dragan.zelenovic@example.com",
+    "username": "tinysnake210",
+    "password": "charlie1",
+    "invokedAt": "2025-12-11T11:21:22.884Z"
   }
 ]
