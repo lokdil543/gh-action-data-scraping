@@ -486,5 +486,13 @@
     "username": "sadmeercat315",
     "password": "state",
     "invokedAt": "2025-12-12T19:39:38.433Z"
+  },
+  {
+    "firstName": "Harold",
+    "lastName": "Lambert",
+    "email": "harold.lambert@example.com",
+    "username": "whitetiger619",
+    "password": "9876",
+    "invokedAt": "2025-12-12T19:45:31.977Z"
   }
 ]
