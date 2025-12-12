@@ -550,5 +550,13 @@
     "username": "heavyleopard292",
     "password": "hotshot",
     "invokedAt": "2025-12-12T21:00:50.592Z"
+  },
+  {
+    "firstName": "Frederikke",
+    "lastName": "Madsen",
+    "email": "frederikke.madsen@example.com",
+    "username": "orangefish275",
+    "password": "fredfred",
+    "invokedAt": "2025-12-12T21:20:56.967Z"
   }
 ]
