@@ -550,5 +550,13 @@
     "username": "happyswan944",
     "password": "nostromo",
     "invokedAt": "2025-12-13T17:44:56.515Z"
+  },
+  {
+    "firstName": "Cristóbal",
+    "lastName": "Márquez",
+    "email": "cristobal.marquez@example.com",
+    "username": "bigdog952",
+    "password": "goodbye",
+    "invokedAt": "2025-12-13T17:50:46.630Z"
   }
 ]
