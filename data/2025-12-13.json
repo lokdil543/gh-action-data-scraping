@@ -790,5 +790,13 @@
     "username": "bigpanda492",
     "password": "london",
     "invokedAt": "2025-12-13T22:56:11.434Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Burns",
+    "email": "diana.burns@example.com",
+    "username": "goldenelephant820",
+    "password": "gabber",
+    "invokedAt": "2025-12-13T23:11:01.047Z"
   }
 ]
