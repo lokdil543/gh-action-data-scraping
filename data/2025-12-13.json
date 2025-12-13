@@ -830,5 +830,13 @@
     "username": "purplepeacock754",
     "password": "donkey",
     "invokedAt": "2025-12-13T23:50:31.043Z"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Nguyen",
+    "email": "joshua.nguyen@example.com",
+    "username": "purplebear425",
+    "password": "mopar",
+    "invokedAt": "2025-12-13T23:56:34.981Z"
   }
 ]
