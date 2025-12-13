@@ -758,5 +758,13 @@
     "username": "orangecat896",
     "password": "44444",
     "invokedAt": "2025-12-13T22:19:18.407Z"
+  },
+  {
+    "firstName": "Attila",
+    "lastName": "Boyer",
+    "email": "attila.boyer@example.com",
+    "username": "bigmouse857",
+    "password": "promise",
+    "invokedAt": "2025-12-13T22:35:25.378Z"
   }
 ]
