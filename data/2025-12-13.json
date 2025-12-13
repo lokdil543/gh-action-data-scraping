@@ -518,5 +518,13 @@
     "username": "greenkoala142",
     "password": "honeybee",
     "invokedAt": "2025-12-13T16:58:18.171Z"
+  },
+  {
+    "firstName": "Mehdi",
+    "lastName": "Gautier",
+    "email": "mehdi.gautier@example.com",
+    "username": "redwolf794",
+    "password": "nopass",
+    "invokedAt": "2025-12-13T17:14:35.007Z"
   }
 ]
