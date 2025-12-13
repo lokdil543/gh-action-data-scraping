@@ -494,5 +494,13 @@
     "username": "bigdog218",
     "password": "explorer",
     "invokedAt": "2025-12-13T16:20:47.414Z"
+  },
+  {
+    "firstName": "Sven",
+    "lastName": "Lucas",
+    "email": "sven.lucas@example.com",
+    "username": "heavytiger864",
+    "password": "webmaster",
+    "invokedAt": "2025-12-13T16:41:44.154Z"
   }
 ]
