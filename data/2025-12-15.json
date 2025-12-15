@@ -390,5 +390,13 @@
     "username": "sadkoala164",
     "password": "long",
     "invokedAt": "2025-12-15T19:46:41.461Z"
+  },
+  {
+    "firstName": "Jeremiah",
+    "lastName": "Matthews",
+    "email": "jeremiah.matthews@example.com",
+    "username": "blackdog987",
+    "password": "cartoon",
+    "invokedAt": "2025-12-15T19:52:28.101Z"
   }
 ]
