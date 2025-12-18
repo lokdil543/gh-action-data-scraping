@@ -478,5 +478,13 @@
     "username": "goldendog517",
     "password": "insertion",
     "invokedAt": "2025-12-18T20:42:49.489Z"
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Lemaire",
+    "email": "hans.lemaire@example.com",
+    "username": "redgoose889",
+    "password": "mannn",
+    "invokedAt": "2025-12-18T20:50:48.553Z"
   }
 ]
