@@ -470,5 +470,13 @@
     "username": "crazydog122",
     "password": "shotgun",
     "invokedAt": "2025-12-18T20:30:52.517Z"
+  },
+  {
+    "firstName": "Alexandra",
+    "lastName": "Stevens",
+    "email": "alexandra.stevens@example.com",
+    "username": "goldendog517",
+    "password": "insertion",
+    "invokedAt": "2025-12-18T20:42:49.489Z"
   }
 ]
