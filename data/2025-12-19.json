@@ -414,5 +414,13 @@
     "username": "greenswan874",
     "password": "snoop",
     "invokedAt": "2025-12-19T17:13:45.399Z"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Parker",
+    "email": "max.parker@example.com",
+    "username": "lazyswan590",
+    "password": "buddy1",
+    "invokedAt": "2025-12-19T17:29:53.854Z"
   }
 ]
