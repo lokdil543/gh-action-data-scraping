@@ -166,5 +166,13 @@
     "username": "bluebear228",
     "password": "yankees",
     "invokedAt": "2025-12-19T09:00:15.202Z"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Zahn",
+    "email": "simon.zahn@example.com",
+    "username": "smallrabbit345",
+    "password": "frogger",
+    "invokedAt": "2025-12-19T09:26:26.529Z"
   }
 ]
