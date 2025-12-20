@@ -742,5 +742,13 @@
     "username": "redbird856",
     "password": "lisa",
     "invokedAt": "2025-12-20T21:53:16.826Z"
+  },
+  {
+    "firstName": "Frederik",
+    "lastName": "Jensen",
+    "email": "frederik.jensen@example.com",
+    "username": "smallcat551",
+    "password": "spotty",
+    "invokedAt": "2025-12-20T21:59:07.590Z"
   }
 ]
