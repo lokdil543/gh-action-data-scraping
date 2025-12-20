@@ -86,5 +86,13 @@
     "username": "beautifulfrog555",
     "password": "1234abcd",
     "invokedAt": "2025-12-20T05:53:05.891Z"
+  },
+  {
+    "firstName": "Asta",
+    "lastName": "Møller",
+    "email": "asta.moller@example.com",
+    "username": "goldenladybug315",
+    "password": "1952",
+    "invokedAt": "2025-12-20T05:59:01.620Z"
   }
 ]
