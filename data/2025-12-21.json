@@ -574,5 +574,13 @@
     "username": "brownduck631",
     "password": "operator",
     "invokedAt": "2025-12-21T19:16:21.722Z"
+  },
+  {
+    "firstName": "Jules",
+    "lastName": "Renard",
+    "email": "jules.renard@example.com",
+    "username": "happyduck994",
+    "password": "siemens",
+    "invokedAt": "2025-12-21T19:26:47.991Z"
   }
 ]
