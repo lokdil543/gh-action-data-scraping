@@ -54,5 +54,13 @@
     "username": "redfrog747",
     "password": "james007",
     "invokedAt": "2025-12-22T05:47:42.646Z"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Price",
+    "email": "bill.price@example.com",
+    "username": "brownelephant389",
+    "password": "tazmania",
+    "invokedAt": "2025-12-22T05:55:02.033Z"
   }
 ]
