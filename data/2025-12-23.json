@@ -318,5 +318,13 @@
     "username": "bigsnake618",
     "password": "mick",
     "invokedAt": "2025-12-23T15:38:24.945Z"
+  },
+  {
+    "firstName": "Marko",
+    "lastName": "Selaković",
+    "email": "marko.selakovic@example.com",
+    "username": "crazyladybug911",
+    "password": "speaker",
+    "invokedAt": "2025-12-23T15:49:38.734Z"
   }
 ]
