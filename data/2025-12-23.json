@@ -278,5 +278,13 @@
     "username": "blackfish232",
     "password": "subway",
     "invokedAt": "2025-12-23T14:18:38.614Z"
+  },
+  {
+    "firstName": "Gordiy",
+    "lastName": "Kachura",
+    "email": "gordiy.kachura@example.com",
+    "username": "purplegoose984",
+    "password": "retired",
+    "invokedAt": "2025-12-23T14:40:59.130Z"
   }
 ]
