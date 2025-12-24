@@ -310,5 +310,13 @@
     "username": "goldenkoala120",
     "password": "test1234",
     "invokedAt": "2025-12-24T14:15:08.205Z"
+  },
+  {
+    "firstName": "Slađana",
+    "lastName": "Mitrović",
+    "email": "sladana.mitrovic@example.com",
+    "username": "happyzebra344",
+    "password": "morgan",
+    "invokedAt": "2025-12-24T14:34:49.436Z"
   }
 ]
