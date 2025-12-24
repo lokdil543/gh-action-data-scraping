@@ -486,5 +486,13 @@
     "username": "ticklishelephant501",
     "password": "four",
     "invokedAt": "2025-12-24T19:32:09.427Z"
+  },
+  {
+    "firstName": "Suzy",
+    "lastName": "Larson",
+    "email": "suzy.larson@example.com",
+    "username": "crazyswan514",
+    "password": "raptor",
+    "invokedAt": "2025-12-24T19:40:22.875Z"
   }
 ]
