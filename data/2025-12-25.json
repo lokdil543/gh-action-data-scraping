@@ -198,5 +198,13 @@
     "username": "happycat576",
     "password": "houdini",
     "invokedAt": "2025-12-25T10:00:23.267Z"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "White",
+    "email": "tristan.white@example.com",
+    "username": "heavytiger409",
+    "password": "quality",
+    "invokedAt": "2025-12-25T10:24:49.054Z"
   }
 ]
