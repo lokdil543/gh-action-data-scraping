@@ -526,5 +526,13 @@
     "username": "silverfish908",
     "password": "conrad",
     "invokedAt": "2025-12-25T19:42:46.108Z"
+  },
+  {
+    "firstName": "Asbjørn",
+    "lastName": "Kongshaug",
+    "email": "asbjorn.kongshaug@example.com",
+    "username": "blackdog859",
+    "password": "trebor",
+    "invokedAt": "2025-12-25T19:48:46.067Z"
   }
 ]
