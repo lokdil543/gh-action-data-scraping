@@ -414,5 +414,13 @@
     "username": "purplecat113",
     "password": "wasser",
     "invokedAt": "2025-12-25T16:43:15.343Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Bjerkeli",
+    "email": "jonathan.bjerkeli@example.com",
+    "username": "purpleladybug222",
+    "password": "bigmac",
+    "invokedAt": "2025-12-25T16:55:46.125Z"
   }
 ]
