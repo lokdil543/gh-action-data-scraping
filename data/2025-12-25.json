@@ -54,5 +54,13 @@
     "username": "bigsnake393",
     "password": "prozac",
     "invokedAt": "2025-12-25T05:38:04.534Z"
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Block",
+    "email": "andy.block@example.com",
+    "username": "greenrabbit193",
+    "password": "bruins",
+    "invokedAt": "2025-12-25T05:50:47.396Z"
   }
 ]
