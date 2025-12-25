@@ -438,5 +438,13 @@
     "username": "bluerabbit634",
     "password": "alice1",
     "invokedAt": "2025-12-25T17:30:18.407Z"
+  },
+  {
+    "firstName": "Yaro",
+    "lastName": "Van Meggelen",
+    "email": "yaro.vanmeggelen@example.com",
+    "username": "whiterabbit734",
+    "password": "idunno",
+    "invokedAt": "2025-12-25T17:41:24.776Z"
   }
 ]
