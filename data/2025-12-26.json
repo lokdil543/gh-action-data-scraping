@@ -614,5 +614,13 @@
     "username": "lazymouse739",
     "password": "explorer",
     "invokedAt": "2025-12-26T21:30:53.544Z"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "White",
+    "email": "owen.white@example.com",
+    "username": "angrykoala208",
+    "password": "abc12345",
+    "invokedAt": "2025-12-26T21:40:18.105Z"
   }
 ]
