@@ -182,5 +182,13 @@
     "username": "bluebutterfly553",
     "password": "angus1",
     "invokedAt": "2025-12-26T09:37:24.651Z"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Stephens",
+    "email": "sam.stephens@example.com",
+    "username": "blueduck818",
+    "password": "cookies",
+    "invokedAt": "2025-12-26T09:47:24.896Z"
   }
 ]
