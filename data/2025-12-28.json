@@ -238,5 +238,13 @@
     "username": "beautifulwolf201",
     "password": "a1b2c3",
     "invokedAt": "2025-12-28T10:59:07.221Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Niva",
+    "email": "anton.niva@example.com",
+    "username": "heavycat486",
+    "password": "brains",
+    "invokedAt": "2025-12-28T11:16:14.556Z"
   }
 ]
