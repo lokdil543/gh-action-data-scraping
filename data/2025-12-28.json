@@ -358,5 +358,13 @@
     "username": "angrysnake432",
     "password": "puffy",
     "invokedAt": "2025-12-28T14:47:45.121Z"
+  },
+  {
+    "firstName": "Sébastien",
+    "lastName": "Michel",
+    "email": "sebastien.michel@example.com",
+    "username": "bigduck628",
+    "password": "bambam",
+    "invokedAt": "2025-12-28T14:53:34.767Z"
   }
 ]
