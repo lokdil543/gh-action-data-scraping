@@ -478,5 +478,13 @@
     "username": "redduck254",
     "password": "public",
     "invokedAt": "2025-12-30T19:53:51.809Z"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Smythe",
+    "email": "bob.smythe@example.com",
+    "username": "crazygoose627",
+    "password": "gerald",
+    "invokedAt": "2025-12-30T19:59:37.892Z"
   }
 ]
