@@ -382,5 +382,13 @@
     "username": "orangedog942",
     "password": "grande",
     "invokedAt": "2025-12-30T17:15:04.062Z"
+  },
+  {
+    "firstName": "Milorad",
+    "lastName": "Jevtić",
+    "email": "milorad.jevtic@example.com",
+    "username": "brownbutterfly294",
+    "password": "404040",
+    "invokedAt": "2025-12-30T17:35:20.718Z"
   }
 ]
