@@ -502,5 +502,13 @@
     "username": "greenostrich437",
     "password": "tractor",
     "invokedAt": "2025-12-30T20:40:20.997Z"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Walker",
+    "email": "ben.walker@example.com",
+    "username": "heavyelephant371",
+    "password": "global",
+    "invokedAt": "2025-12-30T20:51:15.368Z"
   }
 ]
