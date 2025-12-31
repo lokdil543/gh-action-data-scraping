@@ -166,5 +166,13 @@
     "username": "tinyrabbit621",
     "password": "bounty",
     "invokedAt": "2025-12-31T09:52:52.426Z"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Christiansen",
+    "email": "felix.christiansen@example.com",
+    "username": "saddog568",
+    "password": "ralph",
+    "invokedAt": "2025-12-31T09:58:43.501Z"
   }
 ]
