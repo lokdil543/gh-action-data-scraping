@@ -246,5 +246,13 @@
     "username": "greenpanda143",
     "password": "tower",
     "invokedAt": "2025-12-31T11:51:17.993Z"
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Andersen",
+    "email": "andreas.andersen@example.com",
+    "username": "greencat186",
+    "password": "11112222",
+    "invokedAt": "2025-12-31T11:57:10.591Z"
   }
 ]
