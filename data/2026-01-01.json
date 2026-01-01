@@ -238,5 +238,13 @@
     "username": "blackswan620",
     "password": "jimmys",
     "invokedAt": "2026-01-01T11:52:08.514Z"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Patel",
+    "email": "jake.patel@example.com",
+    "username": "biglion171",
+    "password": "kidrock",
+    "invokedAt": "2026-01-01T11:57:57.987Z"
   }
 ]
