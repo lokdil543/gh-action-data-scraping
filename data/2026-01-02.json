@@ -526,5 +526,13 @@
     "username": "ticklishladybug290",
     "password": "secret1",
     "invokedAt": "2026-01-02T20:33:12.259Z"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Gómez",
+    "email": "isaac.gomez@example.com",
+    "username": "silverelephant138",
+    "password": "thanatos",
+    "invokedAt": "2026-01-02T20:45:42.572Z"
   }
 ]
