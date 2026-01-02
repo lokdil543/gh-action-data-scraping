@@ -662,5 +662,13 @@
     "username": "yellowfish352",
     "password": "ferguson",
     "invokedAt": "2026-01-02T23:42:37.021Z"
+  },
+  {
+    "firstName": "Jarik",
+    "lastName": "Kamsteeg",
+    "email": "jarik.kamsteeg@example.com",
+    "username": "whitefish596",
+    "password": "radio",
+    "invokedAt": "2026-01-02T23:48:27.201Z"
   }
 ]
