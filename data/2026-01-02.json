@@ -398,5 +398,13 @@
     "username": "whitegoose996",
     "password": "cicero",
     "invokedAt": "2026-01-02T17:12:46.918Z"
+  },
+  {
+    "firstName": "Momčilo",
+    "lastName": "Sakić",
+    "email": "momcilo.sakic@example.com",
+    "username": "smallfrog289",
+    "password": "jackal",
+    "invokedAt": "2026-01-02T17:31:54.529Z"
   }
 ]
