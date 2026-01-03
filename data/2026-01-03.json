@@ -294,5 +294,13 @@
     "username": "crazyduck938",
     "password": "call",
     "invokedAt": "2026-01-03T11:54:14.319Z"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Olson",
+    "email": "tommy.olson@example.com",
+    "username": "lazymouse149",
+    "password": "gold",
+    "invokedAt": "2026-01-03T12:00:00.772Z"
   }
 ]
