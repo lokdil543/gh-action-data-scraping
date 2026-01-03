@@ -286,5 +286,13 @@
     "username": "redfrog298",
     "password": "streaming",
     "invokedAt": "2026-01-03T11:48:22.693Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Moya",
+    "email": "miguel.moya@example.com",
+    "username": "crazyduck938",
+    "password": "call",
+    "invokedAt": "2026-01-03T11:54:14.319Z"
   }
 ]
