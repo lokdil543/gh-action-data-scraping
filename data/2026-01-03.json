@@ -278,5 +278,13 @@
     "username": "redgoose179",
     "password": "yomama",
     "invokedAt": "2026-01-03T11:42:28.273Z"
+  },
+  {
+    "firstName": "Gero",
+    "lastName": "Kastner",
+    "email": "gero.kastner@example.com",
+    "username": "redfrog298",
+    "password": "streaming",
+    "invokedAt": "2026-01-03T11:48:22.693Z"
   }
 ]
