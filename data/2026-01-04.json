@@ -334,5 +334,13 @@
     "username": "blacktiger535",
     "password": "penetrating",
     "invokedAt": "2026-01-04T13:59:39.649Z"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Meyer",
+    "email": "juan.meyer@example.com",
+    "username": "silvermouse998",
+    "password": "wookie",
+    "invokedAt": "2026-01-04T14:18:12.269Z"
   }
 ]
