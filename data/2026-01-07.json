@@ -406,5 +406,13 @@
     "username": "happywolf536",
     "password": "flower",
     "invokedAt": "2026-01-07T19:50:05.375Z"
+  },
+  {
+    "firstName": "Dave",
+    "lastName": "Gibson",
+    "email": "dave.gibson@example.com",
+    "username": "happypanda640",
+    "password": "123321",
+    "invokedAt": "2026-01-07T19:55:51.424Z"
   }
 ]
