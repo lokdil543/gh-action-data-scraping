@@ -54,5 +54,13 @@
     "username": "redfish793",
     "password": "native",
     "invokedAt": "2026-01-07T05:41:46.568Z"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Jutila",
+    "email": "joel.jutila@example.com",
+    "username": "brownfish230",
+    "password": "muffin",
+    "invokedAt": "2026-01-07T05:53:25.873Z"
   }
 ]
