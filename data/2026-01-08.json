@@ -86,5 +86,13 @@
     "username": "silvermouse555",
     "password": "static",
     "invokedAt": "2026-01-08T07:13:20.057Z"
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Hughes",
+    "email": "monica.hughes@example.com",
+    "username": "smallbird247",
+    "password": "venus",
+    "invokedAt": "2026-01-08T07:35:19.673Z"
   }
 ]
