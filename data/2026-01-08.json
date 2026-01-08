@@ -406,5 +406,13 @@
     "username": "greenwolf818",
     "password": "wine",
     "invokedAt": "2026-01-08T20:11:44.981Z"
+  },
+  {
+    "firstName": "Valdemar",
+    "lastName": "Petersen",
+    "email": "valdemar.petersen@example.com",
+    "username": "smalllion666",
+    "password": "packer",
+    "invokedAt": "2026-01-08T20:36:29.836Z"
   }
 ]
