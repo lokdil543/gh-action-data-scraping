@@ -398,5 +398,13 @@
     "username": "purplelion118",
     "password": "parola",
     "invokedAt": "2026-01-08T19:55:09.619Z"
+  },
+  {
+    "firstName": "Topias",
+    "lastName": "Jarvinen",
+    "email": "topias.jarvinen@example.com",
+    "username": "greenwolf818",
+    "password": "wine",
+    "invokedAt": "2026-01-08T20:11:44.981Z"
   }
 ]
