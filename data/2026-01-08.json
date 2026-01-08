@@ -414,5 +414,13 @@
     "username": "smalllion666",
     "password": "packer",
     "invokedAt": "2026-01-08T20:36:29.836Z"
+  },
+  {
+    "firstName": "Tilde",
+    "lastName": "Petersen",
+    "email": "tilde.petersen@example.com",
+    "username": "blackcat900",
+    "password": "zhuai",
+    "invokedAt": "2026-01-08T20:50:12.868Z"
   }
 ]
