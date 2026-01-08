@@ -374,5 +374,13 @@
     "username": "bluebird328",
     "password": "gabber",
     "invokedAt": "2026-01-08T19:32:58.947Z"
+  },
+  {
+    "firstName": "Ibrahim",
+    "lastName": "Olschewski",
+    "email": "ibrahim.olschewski@example.com",
+    "username": "tinyduck890",
+    "password": "internal",
+    "invokedAt": "2026-01-08T19:42:27.189Z"
   }
 ]
