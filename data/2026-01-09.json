@@ -182,5 +182,13 @@
     "username": "goldenostrich132",
     "password": "bounce",
     "invokedAt": "2026-01-09T10:56:22.878Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Nielsen",
+    "email": "emil.nielsen@example.com",
+    "username": "angrywolf647",
+    "password": "swordfish",
+    "invokedAt": "2026-01-09T11:12:30.150Z"
   }
 ]
