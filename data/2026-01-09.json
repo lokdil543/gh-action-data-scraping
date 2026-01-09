@@ -374,5 +374,13 @@
     "username": "bluedog857",
     "password": "gateway1",
     "invokedAt": "2026-01-09T18:49:17.710Z"
+  },
+  {
+    "firstName": "Miguel",
+    "lastName": "Herrera",
+    "email": "miguel.herrera@example.com",
+    "username": "crazywolf530",
+    "password": "hotrats",
+    "invokedAt": "2026-01-09T19:01:28.855Z"
   }
 ]
