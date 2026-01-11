@@ -406,5 +406,13 @@
     "username": "bigdog193",
     "password": "lonewolf",
     "invokedAt": "2026-01-11T16:11:25.939Z"
+  },
+  {
+    "firstName": "Marilyn",
+    "lastName": "Banks",
+    "email": "marilyn.banks@example.com",
+    "username": "redpanda195",
+    "password": "jasmine1",
+    "invokedAt": "2026-01-11T16:37:43.223Z"
   }
 ]
