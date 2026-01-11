@@ -662,5 +662,13 @@
     "username": "bigdog921",
     "password": "howell",
     "invokedAt": "2026-01-11T22:48:23.054Z"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Moore",
+    "email": "tyler.moore@example.com",
+    "username": "yellowbutterfly472",
+    "password": "terry",
+    "invokedAt": "2026-01-11T22:54:17.894Z"
   }
 ]
