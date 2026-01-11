@@ -542,5 +542,13 @@
     "username": "redfrog365",
     "password": "wannabe",
     "invokedAt": "2026-01-11T19:50:32.208Z"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Brown",
+    "email": "amy.brown@example.com",
+    "username": "purplelion668",
+    "password": "skinny",
+    "invokedAt": "2026-01-11T19:56:19.709Z"
   }
 ]
