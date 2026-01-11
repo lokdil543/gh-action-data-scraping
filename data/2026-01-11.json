@@ -318,5 +318,13 @@
     "username": "happyfish368",
     "password": "greece",
     "invokedAt": "2026-01-11T13:55:27.056Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Barrett",
+    "email": "marc.barrett@example.com",
+    "username": "redlion390",
+    "password": "scuba1",
+    "invokedAt": "2026-01-11T14:09:43.616Z"
   }
 ]
