@@ -638,5 +638,13 @@
     "username": "goldencat738",
     "password": "doughnut",
     "invokedAt": "2026-01-11T21:59:19.721Z"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Brandes",
+    "email": "jordan.brandes@example.com",
+    "username": "crazysnake738",
+    "password": "promise",
+    "invokedAt": "2026-01-11T22:19:00.121Z"
   }
 ]
