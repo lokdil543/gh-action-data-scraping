@@ -246,5 +246,13 @@
     "username": "bluesnake916",
     "password": "card",
     "invokedAt": "2026-01-12T15:00:24.497Z"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Mortensen",
+    "email": "tobias.mortensen@example.com",
+    "username": "angryfish774",
+    "password": "1020",
+    "invokedAt": "2026-01-12T15:28:02.621Z"
   }
 ]
