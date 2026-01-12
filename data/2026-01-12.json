@@ -430,5 +430,13 @@
     "username": "sadpanda866",
     "password": "cooter",
     "invokedAt": "2026-01-12T21:34:26.840Z"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Bourgeois",
+    "email": "nathan.bourgeois@example.com",
+    "username": "angryrabbit777",
+    "password": "garbage",
+    "invokedAt": "2026-01-12T21:46:08.157Z"
   }
 ]
