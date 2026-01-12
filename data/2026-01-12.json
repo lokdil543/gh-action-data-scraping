@@ -222,5 +222,13 @@
     "username": "brownfrog989",
     "password": "fritz",
     "invokedAt": "2026-01-12T13:56:23.551Z"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Puro",
+    "email": "arttu.puro@example.com",
+    "username": "smallswan644",
+    "password": "phoebe",
+    "invokedAt": "2026-01-12T14:17:10.163Z"
   }
 ]
