@@ -366,5 +366,13 @@
     "username": "bigbird369",
     "password": "sparkle",
     "invokedAt": "2026-01-13T19:25:50.410Z"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Romero",
+    "email": "marc.romero@example.com",
+    "username": "lazyduck792",
+    "password": "bruce1",
+    "invokedAt": "2026-01-13T19:36:19.325Z"
   }
 ]
