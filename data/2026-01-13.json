@@ -342,5 +342,13 @@
     "username": "browngorilla988",
     "password": "smithers",
     "invokedAt": "2026-01-13T18:22:43.937Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Tikkanen",
+    "email": "toivo.tikkanen@example.com",
+    "username": "bluegoose819",
+    "password": "taxman",
+    "invokedAt": "2026-01-13T18:50:43.261Z"
   }
 ]
