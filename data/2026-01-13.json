@@ -230,5 +230,13 @@
     "username": "angrybutterfly142",
     "password": "volcom",
     "invokedAt": "2026-01-13T12:37:39.838Z"
+  },
+  {
+    "firstName": "Aleksa",
+    "lastName": "Zelenović",
+    "email": "aleksa.zelenovic@example.com",
+    "username": "blackpanda436",
+    "password": "username",
+    "invokedAt": "2026-01-13T13:25:44.595Z"
   }
 ]
