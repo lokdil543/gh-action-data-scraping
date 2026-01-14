@@ -534,5 +534,13 @@
     "username": "bigrabbit440",
     "password": "silence",
     "invokedAt": "2026-01-14T23:54:02.459Z"
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Duncan",
+    "email": "barry.duncan@example.com",
+    "username": "tinytiger112",
+    "password": "hubert",
+    "invokedAt": "2026-01-14T23:59:39.015Z"
   }
 ]
