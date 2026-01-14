@@ -182,5 +182,13 @@
     "username": "smallfrog315",
     "password": "zachary",
     "invokedAt": "2026-01-14T11:22:48.644Z"
+  },
+  {
+    "firstName": "Erlend",
+    "lastName": "Kaspersen",
+    "email": "erlend.kaspersen@example.com",
+    "username": "organicfrog622",
+    "password": "insertions",
+    "invokedAt": "2026-01-14T11:38:52.274Z"
   }
 ]
