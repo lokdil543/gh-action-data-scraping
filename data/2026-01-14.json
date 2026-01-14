@@ -462,5 +462,13 @@
     "username": "crazykoala936",
     "password": "loud",
     "invokedAt": "2026-01-14T22:00:00.420Z"
+  },
+  {
+    "firstName": "Hansjürgen",
+    "lastName": "Pflug",
+    "email": "hansjurgen.pflug@example.com",
+    "username": "lazyzebra449",
+    "password": "helpme",
+    "invokedAt": "2026-01-14T22:23:45.265Z"
   }
 ]
