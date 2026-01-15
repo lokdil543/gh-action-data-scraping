@@ -254,5 +254,13 @@
     "username": "bigbear361",
     "password": "blue",
     "invokedAt": "2026-01-15T14:12:03.902Z"
+  },
+  {
+    "firstName": "Linnea",
+    "lastName": "Kuusisto",
+    "email": "linnea.kuusisto@example.com",
+    "username": "angrytiger131",
+    "password": "reaper",
+    "invokedAt": "2026-01-15T14:40:10.212Z"
   }
 ]
