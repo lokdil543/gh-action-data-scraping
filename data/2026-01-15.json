@@ -118,5 +118,13 @@
     "username": "tinyfish866",
     "password": "invis",
     "invokedAt": "2026-01-15T08:22:09.192Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Sørensen",
+    "email": "emma.sorensen@example.com",
+    "username": "bigfish703",
+    "password": "scottie",
+    "invokedAt": "2026-01-15T08:49:07.922Z"
   }
 ]
