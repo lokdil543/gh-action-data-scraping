@@ -486,5 +486,13 @@
     "username": "bluebutterfly102",
     "password": "jezebel",
     "invokedAt": "2026-01-15T23:35:58.007Z"
+  },
+  {
+    "firstName": "Eik",
+    "lastName": "Sandberg",
+    "email": "eik.sandberg@example.com",
+    "username": "smallduck568",
+    "password": "attack",
+    "invokedAt": "2026-01-15T23:46:41.238Z"
   }
 ]
