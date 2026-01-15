@@ -78,5 +78,13 @@
     "username": "bigzebra638",
     "password": "pharao",
     "invokedAt": "2026-01-15T06:58:45.286Z"
+  },
+  {
+    "firstName": "Ann",
+    "lastName": "Lambert",
+    "email": "ann.lambert@example.com",
+    "username": "bigcat811",
+    "password": "viewer",
+    "invokedAt": "2026-01-15T07:23:22.733Z"
   }
 ]
