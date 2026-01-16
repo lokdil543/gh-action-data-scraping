@@ -574,5 +574,13 @@
     "username": "goldenelephant217",
     "password": "flyfish",
     "invokedAt": "2026-01-16T23:50:22.875Z"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Lee",
+    "email": "susan.lee@example.com",
+    "username": "redmouse250",
+    "password": "nomad",
+    "invokedAt": "2026-01-16T23:56:12.321Z"
   }
 ]
