@@ -598,5 +598,13 @@
     "username": "bigfrog500",
     "password": "keng",
     "invokedAt": "2026-01-17T19:55:40.293Z"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Tanner",
+    "email": "sofia.tanner@example.com",
+    "username": "blackdog132",
+    "password": "25252525",
+    "invokedAt": "2026-01-17T20:11:17.912Z"
   }
 ]
