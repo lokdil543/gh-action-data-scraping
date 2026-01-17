@@ -278,5 +278,13 @@
     "username": "organicbird488",
     "password": "willy",
     "invokedAt": "2026-01-17T11:28:00.120Z"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Jackson",
+    "email": "brandon.jackson@example.com",
+    "username": "silverfrog381",
+    "password": "java",
+    "invokedAt": "2026-01-17T11:36:42.405Z"
   }
 ]
