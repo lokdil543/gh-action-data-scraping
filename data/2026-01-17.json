@@ -606,5 +606,13 @@
     "username": "blackdog132",
     "password": "25252525",
     "invokedAt": "2026-01-17T20:11:17.912Z"
+  },
+  {
+    "firstName": "Kathy",
+    "lastName": "Brown",
+    "email": "kathy.brown@example.com",
+    "username": "organicdog350",
+    "password": "nation",
+    "invokedAt": "2026-01-17T20:32:58.409Z"
   }
 ]
