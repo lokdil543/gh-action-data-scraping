@@ -494,5 +494,13 @@
     "username": "crazygoose704",
     "password": "venture",
     "invokedAt": "2026-01-18T17:50:13.513Z"
+  },
+  {
+    "firstName": "Glen",
+    "lastName": "Daniels",
+    "email": "glen.daniels@example.com",
+    "username": "crazyfish287",
+    "password": "arkansas",
+    "invokedAt": "2026-01-18T17:56:03.376Z"
   }
 ]
