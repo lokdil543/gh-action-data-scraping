@@ -302,5 +302,13 @@
     "username": "biglion629",
     "password": "auto",
     "invokedAt": "2026-01-18T12:19:34.575Z"
+  },
+  {
+    "firstName": "Tilo",
+    "lastName": "Stang",
+    "email": "tilo.stang@example.com",
+    "username": "angryostrich702",
+    "password": "burly",
+    "invokedAt": "2026-01-18T13:01:06.768Z"
   }
 ]
