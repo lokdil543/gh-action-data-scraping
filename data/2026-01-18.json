@@ -606,5 +606,13 @@
     "username": "blackcat886",
     "password": "bighead",
     "invokedAt": "2026-01-18T20:45:48.392Z"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Martin",
+    "email": "thomas.martin@example.com",
+    "username": "greenwolf593",
+    "password": "quincy",
+    "invokedAt": "2026-01-18T20:52:54.178Z"
   }
 ]
