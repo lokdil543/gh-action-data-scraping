@@ -262,5 +262,13 @@
     "username": "bigmeercat946",
     "password": "dragons",
     "invokedAt": "2026-01-18T11:29:30.123Z"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Ross",
+    "email": "chris.ross@example.com",
+    "username": "whitepeacock712",
+    "password": "gillian",
+    "invokedAt": "2026-01-18T11:37:42.080Z"
   }
 ]
