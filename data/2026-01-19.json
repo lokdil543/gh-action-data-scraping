@@ -14,5 +14,13 @@
     "username": "smallswan216",
     "password": "toronto",
     "invokedAt": "2026-01-19T03:10:50.129Z"
+  },
+  {
+    "firstName": "Taco",
+    "lastName": "Van Meerveld",
+    "email": "taco.vanmeerveld@example.com",
+    "username": "crazygoose231",
+    "password": "parrot",
+    "invokedAt": "2026-01-19T04:18:56.723Z"
   }
 ]
