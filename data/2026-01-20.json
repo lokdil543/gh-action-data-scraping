@@ -406,5 +406,13 @@
     "username": "orangegoose635",
     "password": "ncc1701a",
     "invokedAt": "2026-01-20T23:39:51.456Z"
+  },
+  {
+    "firstName": "Vicente",
+    "lastName": "Valencia",
+    "email": "vicente.valencia@example.com",
+    "username": "lazywolf676",
+    "password": "5678",
+    "invokedAt": "2026-01-20T23:50:41.831Z"
   }
 ]
