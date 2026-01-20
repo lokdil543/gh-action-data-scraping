@@ -62,5 +62,13 @@
     "username": "orangekoala230",
     "password": "1a2b3c",
     "invokedAt": "2026-01-20T06:35:21.068Z"
+  },
+  {
+    "firstName": "Ana María",
+    "lastName": "Mateo",
+    "email": "anamaria.mateo@example.com",
+    "username": "sadmouse992",
+    "password": "romeo",
+    "invokedAt": "2026-01-20T07:02:03.477Z"
   }
 ]
