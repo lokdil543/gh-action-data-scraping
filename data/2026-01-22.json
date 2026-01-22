@@ -382,5 +382,13 @@
     "username": "bluecat117",
     "password": "eternal",
     "invokedAt": "2026-01-22T22:19:45.906Z"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Bates",
+    "email": "norman.bates@example.com",
+    "username": "lazypanda517",
+    "password": "beanie",
+    "invokedAt": "2026-01-22T22:43:06.095Z"
   }
 ]
