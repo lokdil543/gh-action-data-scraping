@@ -366,5 +366,13 @@
     "username": "brownelephant425",
     "password": "bouncer",
     "invokedAt": "2026-01-23T19:43:10.271Z"
+  },
+  {
+    "firstName": "Lazar",
+    "lastName": "Šarović",
+    "email": "lazar.sarovic@example.com",
+    "username": "purplegorilla973",
+    "password": "reader",
+    "invokedAt": "2026-01-23T19:50:35.218Z"
   }
 ]
