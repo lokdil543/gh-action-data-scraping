@@ -374,5 +374,13 @@
     "username": "purplegorilla973",
     "password": "reader",
     "invokedAt": "2026-01-23T19:50:35.218Z"
+  },
+  {
+    "firstName": "Hugo",
+    "lastName": "Zhang",
+    "email": "hugo.zhang@example.com",
+    "username": "heavyelephant104",
+    "password": "wetter",
+    "invokedAt": "2026-01-23T19:56:30.874Z"
   }
 ]
