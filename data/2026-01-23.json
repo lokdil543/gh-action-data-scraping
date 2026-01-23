@@ -430,5 +430,13 @@
     "username": "brownzebra142",
     "password": "boxcar",
     "invokedAt": "2026-01-23T21:38:43.738Z"
+  },
+  {
+    "firstName": "Torsten",
+    "lastName": "Thelen",
+    "email": "torsten.thelen@example.com",
+    "username": "redpanda937",
+    "password": "fish",
+    "invokedAt": "2026-01-23T21:48:56.406Z"
   }
 ]
