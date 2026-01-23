@@ -262,5 +262,13 @@
     "username": "tinycat552",
     "password": "kojak",
     "invokedAt": "2026-01-23T15:21:10.373Z"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Chu",
+    "email": "arthur.chu@example.com",
+    "username": "ticklishfish742",
+    "password": "blizzard",
+    "invokedAt": "2026-01-23T15:43:53.391Z"
   }
 ]
