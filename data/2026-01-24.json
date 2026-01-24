@@ -654,5 +654,13 @@
     "username": "yellowtiger415",
     "password": "cement",
     "invokedAt": "2026-01-24T22:20:47.350Z"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Liu",
+    "email": "david.liu@example.com",
+    "username": "crazymouse903",
+    "password": "candle",
+    "invokedAt": "2026-01-24T22:38:40.225Z"
   }
 ]
