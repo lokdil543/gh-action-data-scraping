@@ -238,5 +238,13 @@
     "username": "sadzebra321",
     "password": "message",
     "invokedAt": "2026-01-24T10:56:39.092Z"
+  },
+  {
+    "firstName": "Brett",
+    "lastName": "Watkins",
+    "email": "brett.watkins@example.com",
+    "username": "greenelephant990",
+    "password": "anakin",
+    "invokedAt": "2026-01-24T11:11:14.848Z"
   }
 ]
