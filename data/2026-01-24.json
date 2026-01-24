@@ -622,5 +622,13 @@
     "username": "greenpeacock687",
     "password": "theater",
     "invokedAt": "2026-01-24T21:42:20.785Z"
+  },
+  {
+    "firstName": "Yann",
+    "lastName": "Bernard",
+    "email": "yann.bernard@example.com",
+    "username": "orangefrog374",
+    "password": "tttt",
+    "invokedAt": "2026-01-24T21:48:17.012Z"
   }
 ]
