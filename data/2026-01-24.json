@@ -246,5 +246,13 @@
     "username": "greenelephant990",
     "password": "anakin",
     "invokedAt": "2026-01-24T11:11:14.848Z"
+  },
+  {
+    "firstName": "Nitesh",
+    "lastName": "Singh",
+    "email": "nitesh.singh@example.com",
+    "username": "whitesnake384",
+    "password": "vernon",
+    "invokedAt": "2026-01-24T11:27:22.263Z"
   }
 ]
