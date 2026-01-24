@@ -574,5 +574,13 @@
     "username": "brownwolf601",
     "password": "tiao",
     "invokedAt": "2026-01-24T20:39:01.790Z"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Lepisto",
+    "email": "amanda.lepisto@example.com",
+    "username": "brownwolf484",
+    "password": "freepass",
+    "invokedAt": "2026-01-24T20:48:16.214Z"
   }
 ]
