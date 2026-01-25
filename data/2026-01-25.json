@@ -142,5 +142,13 @@
     "username": "yellowlion377",
     "password": "vegas",
     "invokedAt": "2026-01-25T09:12:07.239Z"
+  },
+  {
+    "firstName": "Oscar",
+    "lastName": "Sørensen",
+    "email": "oscar.sorensen@example.com",
+    "username": "goldenduck183",
+    "password": "senators",
+    "invokedAt": "2026-01-25T09:33:35.720Z"
   }
 ]
