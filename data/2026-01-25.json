@@ -86,5 +86,13 @@
     "username": "whitegoose433",
     "password": "tupac",
     "invokedAt": "2026-01-25T07:33:03.417Z"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Jackson",
+    "email": "carlos.jackson@example.com",
+    "username": "happybird281",
+    "password": "donner",
+    "invokedAt": "2026-01-25T07:43:29.713Z"
   }
 ]
