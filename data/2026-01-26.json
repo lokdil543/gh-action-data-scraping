@@ -334,5 +334,13 @@
     "username": "lazypeacock315",
     "password": "older",
     "invokedAt": "2026-01-26T20:12:06.674Z"
+  },
+  {
+    "firstName": "Yorik",
+    "lastName": "Van der Nol",
+    "email": "yorik.vandernol@example.com",
+    "username": "sadbear514",
+    "password": "cougars",
+    "invokedAt": "2026-01-26T20:41:09.431Z"
   }
 ]
