@@ -422,5 +422,13 @@
     "username": "angrygorilla300",
     "password": "thisisit",
     "invokedAt": "2026-01-26T23:24:23.801Z"
+  },
+  {
+    "firstName": "Tihomir",
+    "lastName": "Ivanić",
+    "email": "tihomir.ivanic@example.com",
+    "username": "smallrabbit327",
+    "password": "acidburn",
+    "invokedAt": "2026-01-26T23:40:40.387Z"
   }
 ]
