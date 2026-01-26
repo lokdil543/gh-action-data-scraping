@@ -246,5 +246,13 @@
     "username": "blackmouse203",
     "password": "987456",
     "invokedAt": "2026-01-26T15:59:13.447Z"
+  },
+  {
+    "firstName": "Marinko",
+    "lastName": "Vučetić",
+    "email": "marinko.vucetic@example.com",
+    "username": "bluefrog438",
+    "password": "debbie",
+    "invokedAt": "2026-01-26T16:33:11.824Z"
   }
 ]
