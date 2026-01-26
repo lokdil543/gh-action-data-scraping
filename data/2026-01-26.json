@@ -398,5 +398,13 @@
     "username": "brownmeercat920",
     "password": "fantasy",
     "invokedAt": "2026-01-26T22:42:14.479Z"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Cook",
+    "email": "jorge.cook@example.com",
+    "username": "silverfish422",
+    "password": "cavalier",
+    "invokedAt": "2026-01-26T22:54:18.342Z"
   }
 ]
