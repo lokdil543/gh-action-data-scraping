@@ -366,5 +366,13 @@
     "username": "bluebutterfly381",
     "password": "billy1",
     "invokedAt": "2026-01-28T22:49:54.129Z"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Petersen",
+    "email": "jonas.petersen@example.com",
+    "username": "redleopard368",
+    "password": "moondog",
+    "invokedAt": "2026-01-28T23:01:58.323Z"
   }
 ]
