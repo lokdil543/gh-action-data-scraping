@@ -62,5 +62,13 @@
     "username": "redfish962",
     "password": "johnboy",
     "invokedAt": "2026-01-29T08:31:53.069Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Sippola",
+    "email": "daniel.sippola@example.com",
+    "username": "heavyfish858",
+    "password": "sidekick",
+    "invokedAt": "2026-01-29T09:07:33.776Z"
   }
 ]
