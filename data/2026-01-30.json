@@ -262,5 +262,13 @@
     "username": "smallfrog472",
     "password": "norway",
     "invokedAt": "2026-01-30T21:21:28.095Z"
+  },
+  {
+    "firstName": "Storm",
+    "lastName": "Jørgensen",
+    "email": "storm.jorgensen@example.com",
+    "username": "blackleopard518",
+    "password": "12121212",
+    "invokedAt": "2026-01-30T21:43:49.768Z"
   }
 ]
