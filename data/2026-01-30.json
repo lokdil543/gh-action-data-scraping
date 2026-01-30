@@ -286,5 +286,13 @@
     "username": "purpledog110",
     "password": "ducks",
     "invokedAt": "2026-01-30T22:00:41.521Z"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Douglas",
+    "email": "terry.douglas@example.com",
+    "username": "crazygoose430",
+    "password": "philips",
+    "invokedAt": "2026-01-30T22:29:29.156Z"
   }
 ]
