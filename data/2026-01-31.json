@@ -462,5 +462,13 @@
     "username": "brownbird203",
     "password": "citadel",
     "invokedAt": "2026-01-31T23:23:11.579Z"
+  },
+  {
+    "firstName": "Jimi",
+    "lastName": "Pulli",
+    "email": "jimi.pulli@example.com",
+    "username": "crazydog764",
+    "password": "sabbath",
+    "invokedAt": "2026-01-31T23:40:28.617Z"
   }
 ]
