@@ -278,5 +278,13 @@
     "username": "blackbear807",
     "password": "herewego",
     "invokedAt": "2026-01-31T16:52:18.552Z"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Gauthier",
+    "email": "charlie.gauthier@example.com",
+    "username": "crazydog227",
+    "password": "pirate",
+    "invokedAt": "2026-01-31T17:12:04.752Z"
   }
 ]
