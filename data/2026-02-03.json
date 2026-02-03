@@ -126,5 +126,13 @@
     "username": "bluerabbit223",
     "password": "john316",
     "invokedAt": "2026-02-03T14:55:00.231Z"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Fabre",
+    "email": "charles.fabre@example.com",
+    "username": "tinykoala498",
+    "password": "chains",
+    "invokedAt": "2026-02-03T15:36:36.162Z"
   }
 ]
