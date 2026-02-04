@@ -78,5 +78,13 @@
     "username": "whiteostrich653",
     "password": "thegreat",
     "invokedAt": "2026-02-04T10:06:44.176Z"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "Montgomery",
+    "email": "fred.montgomery@example.com",
+    "username": "sadbutterfly204",
+    "password": "access1",
+    "invokedAt": "2026-02-04T10:55:00.948Z"
   }
 ]
