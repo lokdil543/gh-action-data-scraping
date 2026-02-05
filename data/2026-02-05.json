@@ -22,5 +22,13 @@
     "username": "blackdog442",
     "password": "ccbill",
     "invokedAt": "2026-02-05T05:02:00.638Z"
+  },
+  {
+    "firstName": "Roman",
+    "lastName": "Johnson",
+    "email": "roman.johnson@example.com",
+    "username": "lazyswan189",
+    "password": "muffin1",
+    "invokedAt": "2026-02-05T06:00:23.524Z"
   }
 ]
