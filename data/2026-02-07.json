@@ -134,5 +134,13 @@
     "username": "whitedog961",
     "password": "walmart",
     "invokedAt": "2026-02-07T11:25:38.852Z"
+  },
+  {
+    "firstName": "Allie",
+    "lastName": "Hoffman",
+    "email": "allie.hoffman@example.com",
+    "username": "happydog411",
+    "password": "pillow",
+    "invokedAt": "2026-02-07T11:41:08.758Z"
   }
 ]
