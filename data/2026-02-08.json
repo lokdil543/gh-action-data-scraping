@@ -262,5 +262,13 @@
     "username": "happykoala356",
     "password": "2000",
     "invokedAt": "2026-02-08T19:04:39.312Z"
+  },
+  {
+    "firstName": "Dora",
+    "lastName": "Perić",
+    "email": "dora.peric@example.com",
+    "username": "happyzebra241",
+    "password": "muscle",
+    "invokedAt": "2026-02-08T19:33:28.050Z"
   }
 ]
