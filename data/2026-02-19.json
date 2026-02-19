@@ -166,5 +166,13 @@
     "username": "happyfrog512",
     "password": "private",
     "invokedAt": "2026-02-19T19:52:37.130Z"
+  },
+  {
+    "firstName": "Brennan",
+    "lastName": "De Wild",
+    "email": "brennan.dewild@example.com",
+    "username": "redtiger688",
+    "password": "chavez",
+    "invokedAt": "2026-02-19T20:17:45.235Z"
   }
 ]
