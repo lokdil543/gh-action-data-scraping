@@ -78,5 +78,13 @@
     "username": "happywolf770",
     "password": "core",
     "invokedAt": "2026-02-23T11:31:19.515Z"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Bravo",
+    "email": "tomas.bravo@example.com",
+    "username": "blackswan775",
+    "password": "caught",
+    "invokedAt": "2026-02-23T12:00:01.150Z"
   }
 ]
