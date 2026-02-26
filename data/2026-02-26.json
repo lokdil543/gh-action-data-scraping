@@ -158,5 +158,13 @@
     "username": "heavypeacock848",
     "password": "test123",
     "invokedAt": "2026-02-26T19:48:41.304Z"
+  },
+  {
+    "firstName": "Stoyan",
+    "lastName": "Kozachinskiy",
+    "email": "stoyan.kozachinskiy@example.com",
+    "username": "organiccat135",
+    "password": "pass1",
+    "invokedAt": "2026-02-26T20:19:15.273Z"
   }
 ]
