@@ -214,5 +214,13 @@
     "username": "bigelephant635",
     "password": "mpegs",
     "invokedAt": "2026-03-01T14:53:29.847Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Pedersen",
+    "email": "daniel.pedersen@example.com",
+    "username": "crazykoala640",
+    "password": "gizmo",
+    "invokedAt": "2026-03-01T15:00:38.552Z"
   }
 ]
