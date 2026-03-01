@@ -222,5 +222,13 @@
     "username": "crazykoala640",
     "password": "gizmo",
     "invokedAt": "2026-03-01T15:00:38.552Z"
+  },
+  {
+    "firstName": "Pihla",
+    "lastName": "Koistinen",
+    "email": "pihla.koistinen@example.com",
+    "username": "angrybird428",
+    "password": "gerard",
+    "invokedAt": "2026-03-01T15:27:06.977Z"
   }
 ]
