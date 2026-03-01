@@ -238,5 +238,13 @@
     "username": "lazyfish256",
     "password": "foxy",
     "invokedAt": "2026-03-01T15:43:13.132Z"
+  },
+  {
+    "firstName": "Jerry",
+    "lastName": "Howard",
+    "email": "jerry.howard@example.com",
+    "username": "yellowmeercat584",
+    "password": "candyman",
+    "invokedAt": "2026-03-01T15:53:51.424Z"
   }
 ]
