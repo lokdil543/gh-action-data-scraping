@@ -358,5 +358,13 @@
     "username": "organicwolf605",
     "password": "1125",
     "invokedAt": "2026-03-01T20:00:00.991Z"
+  },
+  {
+    "firstName": "Glen",
+    "lastName": "Barnes",
+    "email": "glen.barnes@example.com",
+    "username": "smallzebra640",
+    "password": "rocks",
+    "invokedAt": "2026-03-01T20:28:30.341Z"
   }
 ]
