@@ -38,5 +38,13 @@
     "username": "tinymeercat501",
     "password": "manga",
     "invokedAt": "2026-03-02T20:00:50.693Z"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "George",
+    "email": "ron.george@example.com",
+    "username": "tinymouse987",
+    "password": "hilton",
+    "invokedAt": "2026-03-02T20:40:03.070Z"
   }
 ]
