@@ -206,5 +206,13 @@
     "username": "tinyfish709",
     "password": "usnavy",
     "invokedAt": "2026-03-03T21:32:51.146Z"
+  },
+  {
+    "firstName": "Byron",
+    "lastName": "Dean",
+    "email": "byron.dean@example.com",
+    "username": "blackfish429",
+    "password": "gator",
+    "invokedAt": "2026-03-03T21:56:57.275Z"
   }
 ]
