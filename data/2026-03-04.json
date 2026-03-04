@@ -206,5 +206,13 @@
     "username": "crazylion150",
     "password": "buffet",
     "invokedAt": "2026-03-04T19:10:02.114Z"
+  },
+  {
+    "firstName": "Romain",
+    "lastName": "Lefebvre",
+    "email": "romain.lefebvre@example.com",
+    "username": "purplebear825",
+    "password": "mallory",
+    "invokedAt": "2026-03-04T19:48:18.108Z"
   }
 ]
