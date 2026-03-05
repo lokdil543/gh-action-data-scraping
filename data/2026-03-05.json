@@ -158,5 +158,13 @@
     "username": "brownbear391",
     "password": "foster",
     "invokedAt": "2026-03-05T19:22:45.171Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Meyer",
+    "email": "ana.meyer@example.com",
+    "username": "crazybird733",
+    "password": "gong",
+    "invokedAt": "2026-03-05T20:01:34.437Z"
   }
 ]
