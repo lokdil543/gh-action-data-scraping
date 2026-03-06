@@ -198,5 +198,13 @@
     "username": "lazyduck931",
     "password": "hal9000",
     "invokedAt": "2026-03-06T17:55:17.310Z"
+  },
+  {
+    "firstName": "Konsta",
+    "lastName": "Perko",
+    "email": "konsta.perko@example.com",
+    "username": "redduck405",
+    "password": "alice1",
+    "invokedAt": "2026-03-06T18:27:48.903Z"
   }
 ]
