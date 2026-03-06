@@ -190,5 +190,13 @@
     "username": "smallfish366",
     "password": "highway",
     "invokedAt": "2026-03-06T17:23:16.167Z"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Hill",
+    "email": "tracy.hill@example.com",
+    "username": "lazyduck931",
+    "password": "hal9000",
+    "invokedAt": "2026-03-06T17:55:17.310Z"
   }
 ]
