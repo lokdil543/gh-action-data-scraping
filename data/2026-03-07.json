@@ -438,5 +438,13 @@
     "username": "lazyzebra953",
     "password": "maryland",
     "invokedAt": "2026-03-07T21:53:33.190Z"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Rogers",
+    "email": "evan.rogers@example.com",
+    "username": "happydog157",
+    "password": "deedee",
+    "invokedAt": "2026-03-07T21:59:32.235Z"
   }
 ]
