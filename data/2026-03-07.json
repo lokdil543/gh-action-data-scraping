@@ -318,5 +318,13 @@
     "username": "ticklishbutterfly125",
     "password": "swordfish",
     "invokedAt": "2026-03-07T17:52:02.823Z"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Nieto",
+    "email": "jonathan.nieto@example.com",
+    "username": "smallfish190",
+    "password": "written",
+    "invokedAt": "2026-03-07T17:58:36.140Z"
   }
 ]
