@@ -198,5 +198,13 @@
     "username": "sadwolf297",
     "password": "readers",
     "invokedAt": "2026-03-07T13:12:04.706Z"
+  },
+  {
+    "firstName": "Hans Jürgen",
+    "lastName": "Haider",
+    "email": "hansjurgen.haider@example.com",
+    "username": "angryostrich100",
+    "password": "stalker",
+    "invokedAt": "2026-03-07T13:47:54.979Z"
   }
 ]
