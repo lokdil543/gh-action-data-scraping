@@ -126,5 +126,13 @@
     "username": "greentiger767",
     "password": "central",
     "invokedAt": "2026-03-07T10:13:18.147Z"
+  },
+  {
+    "firstName": "Kasper",
+    "lastName": "Christensen",
+    "email": "kasper.christensen@example.com",
+    "username": "bigfrog948",
+    "password": "ursula",
+    "invokedAt": "2026-03-07T10:41:28.016Z"
   }
 ]
