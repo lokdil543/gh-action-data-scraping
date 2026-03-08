@@ -430,5 +430,13 @@
     "username": "blackkoala842",
     "password": "success",
     "invokedAt": "2026-03-08T23:16:37.900Z"
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Ray",
+    "email": "diana.ray@example.com",
+    "username": "yellowsnake232",
+    "password": "double",
+    "invokedAt": "2026-03-08T23:39:25.968Z"
   }
 ]
