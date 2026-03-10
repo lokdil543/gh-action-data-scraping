@@ -254,5 +254,13 @@
     "username": "crazygorilla674",
     "password": "mack",
     "invokedAt": "2026-03-10T23:16:40.589Z"
+  },
+  {
+    "firstName": "Hjalmar",
+    "lastName": "Lyngstad",
+    "email": "hjalmar.lyngstad@example.com",
+    "username": "tinybird666",
+    "password": "hokies",
+    "invokedAt": "2026-03-10T23:43:11.368Z"
   }
 ]
