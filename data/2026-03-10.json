@@ -190,5 +190,13 @@
     "username": "redpeacock787",
     "password": "stargate",
     "invokedAt": "2026-03-10T20:01:30.096Z"
+  },
+  {
+    "firstName": "Warren",
+    "lastName": "Scott",
+    "email": "warren.scott@example.com",
+    "username": "orangeswan333",
+    "password": "coke",
+    "invokedAt": "2026-03-10T20:39:42.693Z"
   }
 ]
