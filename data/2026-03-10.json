@@ -150,5 +150,13 @@
     "username": "crazybird644",
     "password": "talbot",
     "invokedAt": "2026-03-10T16:38:11.672Z"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Sørensen",
+    "email": "emma.sorensen@example.com",
+    "username": "heavyduck415",
+    "password": "rated",
+    "invokedAt": "2026-03-10T17:26:14.859Z"
   }
 ]
