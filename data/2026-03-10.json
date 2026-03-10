@@ -214,5 +214,13 @@
     "username": "sadkoala290",
     "password": "alibaba",
     "invokedAt": "2026-03-10T21:33:03.748Z"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Méndez",
+    "email": "john.mendez@example.com",
+    "username": "bigmouse724",
+    "password": "thecure",
+    "invokedAt": "2026-03-10T21:52:46.733Z"
   }
 ]
