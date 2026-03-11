@@ -246,5 +246,13 @@
     "username": "redcat622",
     "password": "workout",
     "invokedAt": "2026-03-11T23:01:06.966Z"
+  },
+  {
+    "firstName": "Claude",
+    "lastName": "Obrien",
+    "email": "claude.obrien@example.com",
+    "username": "crazycat694",
+    "password": "blackdog",
+    "invokedAt": "2026-03-11T23:30:36.282Z"
   }
 ]
