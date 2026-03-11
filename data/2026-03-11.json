@@ -238,5 +238,13 @@
     "username": "smallgoose228",
     "password": "deadpool",
     "invokedAt": "2026-03-11T22:50:47.690Z"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Johnson",
+    "email": "noah.johnson@example.com",
+    "username": "redcat622",
+    "password": "workout",
+    "invokedAt": "2026-03-11T23:01:06.966Z"
   }
 ]
