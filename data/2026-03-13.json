@@ -142,5 +142,13 @@
     "username": "redlion547",
     "password": "forever",
     "invokedAt": "2026-03-13T15:06:56.383Z"
+  },
+  {
+    "firstName": "Anne-Linde",
+    "lastName": "Vos",
+    "email": "anne-linde.vos@example.com",
+    "username": "orangefish470",
+    "password": "whales",
+    "invokedAt": "2026-03-13T15:54:18.448Z"
   }
 ]
