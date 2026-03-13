@@ -182,5 +182,13 @@
     "username": "bigduck830",
     "password": "drizzt",
     "invokedAt": "2026-03-13T18:02:41.244Z"
+  },
+  {
+    "firstName": "Çetin",
+    "lastName": "Numanoğlu",
+    "email": "cetin.numanoglu@example.com",
+    "username": "redgoose887",
+    "password": "porsche",
+    "invokedAt": "2026-03-13T18:55:10.616Z"
   }
 ]
