@@ -190,5 +190,13 @@
     "username": "redgoose887",
     "password": "porsche",
     "invokedAt": "2026-03-13T18:55:10.616Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Wuori",
+    "email": "vaino.wuori@example.com",
+    "username": "greenladybug468",
+    "password": "snoopy",
+    "invokedAt": "2026-03-13T19:22:23.179Z"
   }
 ]
