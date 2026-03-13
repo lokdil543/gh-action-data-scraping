@@ -262,5 +262,13 @@
     "username": "whitefish202",
     "password": "wizard",
     "invokedAt": "2026-03-13T22:56:17.052Z"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Justi",
+    "email": "leo.justi@example.com",
+    "username": "whitewolf688",
+    "password": "true",
+    "invokedAt": "2026-03-13T23:18:51.714Z"
   }
 ]
