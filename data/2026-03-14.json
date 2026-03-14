@@ -118,5 +118,13 @@
     "username": "sadfish384",
     "password": "express",
     "invokedAt": "2026-03-14T11:17:01.219Z"
+  },
+  {
+    "firstName": "Danko",
+    "lastName": "Ognjanović",
+    "email": "danko.ognjanovic@example.com",
+    "username": "heavybear594",
+    "password": "oliver1",
+    "invokedAt": "2026-03-14T11:39:33.732Z"
   }
 ]
