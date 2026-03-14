@@ -46,5 +46,13 @@
     "username": "bigtiger228",
     "password": "summer",
     "invokedAt": "2026-03-14T07:24:55.564Z"
+  },
+  {
+    "firstName": "Hans-Wilhelm",
+    "lastName": "Fries",
+    "email": "hans-wilhelm.fries@example.com",
+    "username": "purpleswan782",
+    "password": "unknown",
+    "invokedAt": "2026-03-14T07:51:41.891Z"
   }
 ]
