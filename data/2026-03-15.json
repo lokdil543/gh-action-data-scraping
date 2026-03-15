@@ -278,5 +278,13 @@
     "username": "greenostrich314",
     "password": "fitness",
     "invokedAt": "2026-03-15T20:55:59.953Z"
+  },
+  {
+    "firstName": "Nikolaj",
+    "lastName": "Andersen",
+    "email": "nikolaj.andersen@example.com",
+    "username": "blueladybug398",
+    "password": "phillies",
+    "invokedAt": "2026-03-15T21:19:19.935Z"
   }
 ]
