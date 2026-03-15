@@ -270,5 +270,13 @@
     "username": "lazyleopard650",
     "password": "guess",
     "invokedAt": "2026-03-15T20:35:13.513Z"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Hughes",
+    "email": "steve.hughes@example.com",
+    "username": "greenostrich314",
+    "password": "fitness",
+    "invokedAt": "2026-03-15T20:55:59.953Z"
   }
 ]
