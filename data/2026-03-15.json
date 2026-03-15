@@ -238,5 +238,13 @@
     "username": "purplemouse732",
     "password": "shoes",
     "invokedAt": "2026-03-15T19:06:18.971Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Scheuermann",
+    "email": "bruno.scheuermann@example.com",
+    "username": "greenrabbit176",
+    "password": "shelby",
+    "invokedAt": "2026-03-15T19:36:49.775Z"
   }
 ]
