@@ -302,5 +302,13 @@
     "username": "bigbird567",
     "password": "1101",
     "invokedAt": "2026-03-15T21:58:26.150Z"
+  },
+  {
+    "firstName": "German",
+    "lastName": "Cabrera",
+    "email": "german.cabrera@example.com",
+    "username": "purplerabbit132",
+    "password": "cloud9",
+    "invokedAt": "2026-03-15T22:23:46.617Z"
   }
 ]
