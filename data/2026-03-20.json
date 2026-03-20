@@ -134,5 +134,13 @@
     "username": "blackgoose166",
     "password": "nuclear",
     "invokedAt": "2026-03-20T15:08:35.046Z"
+  },
+  {
+    "firstName": "Emre",
+    "lastName": "Tokatlıoğlu",
+    "email": "emre.tokatlioglu@example.com",
+    "username": "greencat444",
+    "password": "millwall",
+    "invokedAt": "2026-03-20T15:53:48.069Z"
   }
 ]
