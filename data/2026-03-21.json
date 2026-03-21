@@ -382,5 +382,13 @@
     "username": "yellowzebra434",
     "password": "98765",
     "invokedAt": "2026-03-21T22:43:05.989Z"
+  },
+  {
+    "firstName": "Jonatan",
+    "lastName": "Bjørndalen",
+    "email": "jonatan.bjorndalen@example.com",
+    "username": "blackswan838",
+    "password": "valkyrie",
+    "invokedAt": "2026-03-21T22:57:54.543Z"
   }
 ]
