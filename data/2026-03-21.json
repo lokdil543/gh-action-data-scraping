@@ -406,5 +406,13 @@
     "username": "whitedog877",
     "password": "buddha",
     "invokedAt": "2026-03-21T23:42:18.282Z"
+  },
+  {
+    "firstName": "Maxwell",
+    "lastName": "Richardson",
+    "email": "maxwell.richardson@example.com",
+    "username": "redduck778",
+    "password": "madmad",
+    "invokedAt": "2026-03-21T23:56:01.220Z"
   }
 ]
