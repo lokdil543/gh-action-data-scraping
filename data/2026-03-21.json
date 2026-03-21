@@ -254,5 +254,13 @@
     "username": "smalltiger577",
     "password": "beer",
     "invokedAt": "2026-03-21T17:17:51.658Z"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Da Silva",
+    "email": "damien.dasilva@example.com",
+    "username": "heavybird683",
+    "password": "glasgow",
+    "invokedAt": "2026-03-21T17:43:26.541Z"
   }
 ]
