@@ -182,5 +182,13 @@
     "username": "organicpanda254",
     "password": "barney",
     "invokedAt": "2026-03-22T15:02:10.637Z"
+  },
+  {
+    "firstName": "Line",
+    "lastName": "Gonçalves",
+    "email": "line.goncalves@example.com",
+    "username": "goldenmeercat993",
+    "password": "456123",
+    "invokedAt": "2026-03-22T15:33:10.101Z"
   }
 ]
