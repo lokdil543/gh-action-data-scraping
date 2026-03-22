@@ -262,5 +262,13 @@
     "username": "greengoose709",
     "password": "redfox",
     "invokedAt": "2026-03-22T19:01:05.413Z"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Rojo",
+    "email": "bruno.rojo@example.com",
+    "username": "goldenfrog345",
+    "password": "volcom",
+    "invokedAt": "2026-03-22T19:30:14.683Z"
   }
 ]
