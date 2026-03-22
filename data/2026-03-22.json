@@ -318,5 +318,13 @@
     "username": "lazyfrog107",
     "password": "egghead",
     "invokedAt": "2026-03-22T21:28:42.718Z"
+  },
+  {
+    "firstName": "Toivo",
+    "lastName": "Pesola",
+    "email": "toivo.pesola@example.com",
+    "username": "lazylion240",
+    "password": "eastern",
+    "invokedAt": "2026-03-22T21:48:37.336Z"
   }
 ]
