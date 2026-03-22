@@ -310,5 +310,13 @@
     "username": "goldentiger690",
     "password": "beautifu",
     "invokedAt": "2026-03-22T21:00:28.218Z"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "King",
+    "email": "henry.king@example.com",
+    "username": "lazyfrog107",
+    "password": "egghead",
+    "invokedAt": "2026-03-22T21:28:42.718Z"
   }
 ]
