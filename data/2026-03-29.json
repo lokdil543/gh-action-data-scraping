@@ -182,5 +182,13 @@
     "username": "happytiger656",
     "password": "asterix",
     "invokedAt": "2026-03-29T17:15:25.969Z"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Andersen",
+    "email": "rosa.andersen@example.com",
+    "username": "silverladybug439",
+    "password": "curtis",
+    "invokedAt": "2026-03-29T17:47:54.690Z"
   }
 ]
