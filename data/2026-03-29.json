@@ -222,5 +222,13 @@
     "username": "bigsnake383",
     "password": "homer1",
     "invokedAt": "2026-03-29T19:51:58.080Z"
+  },
+  {
+    "firstName": "Ross",
+    "lastName": "Castillo",
+    "email": "ross.castillo@example.com",
+    "username": "brownsnake485",
+    "password": "trustme",
+    "invokedAt": "2026-03-29T20:15:19.296Z"
   }
 ]
