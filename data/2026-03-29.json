@@ -230,5 +230,13 @@
     "username": "brownsnake485",
     "password": "trustme",
     "invokedAt": "2026-03-29T20:15:19.296Z"
+  },
+  {
+    "firstName": "Mila",
+    "lastName": "Petković",
+    "email": "mila.petkovic@example.com",
+    "username": "brownkoala140",
+    "password": "puddin",
+    "invokedAt": "2026-03-29T20:49:48.642Z"
   }
 ]
