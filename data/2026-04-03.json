@@ -110,5 +110,13 @@
     "username": "bigpanda824",
     "password": "zxcv",
     "invokedAt": "2026-04-03T15:07:42.114Z"
+  },
+  {
+    "firstName": "Aleksi",
+    "lastName": "Saarela",
+    "email": "aleksi.saarela@example.com",
+    "username": "goldenduck134",
+    "password": "ryan",
+    "invokedAt": "2026-04-03T15:49:29.152Z"
   }
 ]
