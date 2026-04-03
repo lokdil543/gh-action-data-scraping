@@ -182,5 +182,13 @@
     "username": "purplecat254",
     "password": "wildcard",
     "invokedAt": "2026-04-03T20:47:46.753Z"
+  },
+  {
+    "firstName": "Mathilde",
+    "lastName": "Kristensen",
+    "email": "mathilde.kristensen@example.com",
+    "username": "redbear474",
+    "password": "gothic",
+    "invokedAt": "2026-04-03T21:18:20.929Z"
   }
 ]
