@@ -182,5 +182,13 @@
     "username": "whitedog395",
     "password": "mexico",
     "invokedAt": "2026-04-04T17:16:03.964Z"
+  },
+  {
+    "firstName": "Väinö",
+    "lastName": "Tuomi",
+    "email": "vaino.tuomi@example.com",
+    "username": "orangefish961",
+    "password": "bass",
+    "invokedAt": "2026-04-04T17:47:57.881Z"
   }
 ]
