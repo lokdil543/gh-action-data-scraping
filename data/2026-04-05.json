@@ -222,5 +222,13 @@
     "username": "greenlion767",
     "password": "bank",
     "invokedAt": "2026-04-05T20:30:30.227Z"
+  },
+  {
+    "firstName": "Jörg",
+    "lastName": "Laurent",
+    "email": "jorg.laurent@example.com",
+    "username": "blackkoala725",
+    "password": "please",
+    "invokedAt": "2026-04-05T20:58:48.735Z"
   }
 ]
