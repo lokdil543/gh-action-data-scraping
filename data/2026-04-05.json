@@ -190,5 +190,13 @@
     "username": "silverostrich901",
     "password": "pizza",
     "invokedAt": "2026-04-05T18:21:04.502Z"
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Caldwell",
+    "email": "neil.caldwell@example.com",
+    "username": "silvermouse176",
+    "password": "badboy",
+    "invokedAt": "2026-04-05T19:05:39.264Z"
   }
 ]
