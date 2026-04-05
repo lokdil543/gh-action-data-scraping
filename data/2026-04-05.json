@@ -126,5 +126,13 @@
     "username": "tinyfrog901",
     "password": "dutch",
     "invokedAt": "2026-04-05T14:20:19.630Z"
+  },
+  {
+    "firstName": "Kerttu",
+    "lastName": "Salmela",
+    "email": "kerttu.salmela@example.com",
+    "username": "orangedog379",
+    "password": "123654",
+    "invokedAt": "2026-04-05T14:55:09.091Z"
   }
 ]
