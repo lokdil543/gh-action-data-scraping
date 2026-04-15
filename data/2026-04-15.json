@@ -126,5 +126,13 @@
     "username": "sadkoala259",
     "password": "droopy",
     "invokedAt": "2026-04-15T21:11:51.148Z"
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Pantić",
+    "email": "ana.pantic@example.com",
+    "username": "brownfrog448",
+    "password": "sammy",
+    "invokedAt": "2026-04-15T22:02:42.643Z"
   }
 ]
