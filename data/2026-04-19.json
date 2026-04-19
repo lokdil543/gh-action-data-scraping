@@ -142,5 +142,13 @@
     "username": "tinybird510",
     "password": "hotmail0",
     "invokedAt": "2026-04-19T17:24:03.817Z"
+  },
+  {
+    "firstName": "Howard",
+    "lastName": "Gordon",
+    "email": "howard.gordon@example.com",
+    "username": "angryfish645",
+    "password": "slacker",
+    "invokedAt": "2026-04-19T17:56:15.265Z"
   }
 ]
