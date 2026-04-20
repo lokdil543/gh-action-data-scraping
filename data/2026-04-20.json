@@ -46,5 +46,13 @@
     "username": "whiteostrich828",
     "password": "fighting",
     "invokedAt": "2026-04-20T11:43:16.983Z"
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Louis",
+    "email": "emil.louis@example.com",
+    "username": "tinysnake211",
+    "password": "nope",
+    "invokedAt": "2026-04-20T12:48:51.930Z"
   }
 ]
