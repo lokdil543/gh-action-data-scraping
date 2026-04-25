@@ -134,5 +134,13 @@
     "username": "crazyfish657",
     "password": "east",
     "invokedAt": "2026-04-25T17:04:05.938Z"
+  },
+  {
+    "firstName": "Sheryl",
+    "lastName": "Miller",
+    "email": "sheryl.miller@example.com",
+    "username": "tinymouse233",
+    "password": "beaker",
+    "invokedAt": "2026-04-25T17:50:11.720Z"
   }
 ]
