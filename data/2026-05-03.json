@@ -166,5 +166,13 @@
     "username": "tinybird245",
     "password": "shutup",
     "invokedAt": "2026-05-03T22:55:51.824Z"
+  },
+  {
+    "firstName": "Helmi",
+    "lastName": "Niska",
+    "email": "helmi.niska@example.com",
+    "username": "yellowbird267",
+    "password": "these",
+    "invokedAt": "2026-05-03T23:33:33.163Z"
   }
 ]
