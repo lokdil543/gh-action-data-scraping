@@ -30,5 +30,13 @@
     "username": "brownelephant100",
     "password": "disney1",
     "invokedAt": "2026-05-05T08:34:04.745Z"
+  },
+  {
+    "firstName": "Freja",
+    "lastName": "Christensen",
+    "email": "freja.christensen@example.com",
+    "username": "heavyfrog641",
+    "password": "gateway",
+    "invokedAt": "2026-05-05T10:19:45.317Z"
   }
 ]
