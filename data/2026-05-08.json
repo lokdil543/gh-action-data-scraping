@@ -86,5 +86,13 @@
     "username": "angrybird486",
     "password": "whynot",
     "invokedAt": "2026-05-08T17:26:20.264Z"
+  },
+  {
+    "firstName": "Miloš",
+    "lastName": "Vujčić",
+    "email": "milos.vujcic@example.com",
+    "username": "redgoose482",
+    "password": "poodle",
+    "invokedAt": "2026-05-08T18:49:06.675Z"
   }
 ]
