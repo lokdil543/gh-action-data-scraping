@@ -22,5 +22,13 @@
     "username": "yellowdog472",
     "password": "stanton",
     "invokedAt": "2026-07-17T06:24:16.614Z"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Bergeron",
+    "email": "ethan.bergeron@example.com",
+    "username": "greenfrog587",
+    "password": "script",
+    "invokedAt": "2026-07-17T08:30:46.013Z"
   }
 ]
