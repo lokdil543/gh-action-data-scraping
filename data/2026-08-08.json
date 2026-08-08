@@ -246,5 +246,13 @@
     "username": "redzebra912",
     "password": "market",
     "invokedAt": "2026-08-08T20:01:42.525Z"
+  },
+  {
+    "firstName": "José",
+    "lastName": "Arias",
+    "email": "jose.arias@example.com",
+    "username": "blacksnake178",
+    "password": "tribe",
+    "invokedAt": "2026-08-08T20:36:01.721Z"
   }
 ]
