@@ -110,5 +110,13 @@
     "username": "bigduck429",
     "password": "dogcat",
     "invokedAt": "2026-08-10T16:26:29.046Z"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Spörl",
+    "email": "peter.sporl@example.com",
+    "username": "smallgorilla398",
+    "password": "unreal",
+    "invokedAt": "2026-08-10T17:21:45.737Z"
   }
 ]
