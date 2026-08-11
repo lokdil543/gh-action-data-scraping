@@ -158,5 +158,13 @@
     "username": "goldenfrog268",
     "password": "milkman",
     "invokedAt": "2026-08-11T20:05:32.984Z"
+  },
+  {
+    "firstName": "Gustav",
+    "lastName": "Petersen",
+    "email": "gustav.petersen@example.com",
+    "username": "goldenfish936",
+    "password": "attack",
+    "invokedAt": "2026-08-11T20:57:13.619Z"
   }
 ]
