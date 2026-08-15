@@ -110,5 +110,13 @@
     "username": "whitefish776",
     "password": "forgot",
     "invokedAt": "2026-08-15T08:01:11.580Z"
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Le Gall",
+    "email": "camille.legall@example.com",
+    "username": "blackgoose522",
+    "password": "tartar",
+    "invokedAt": "2026-08-15T08:33:28.593Z"
   }
 ]
