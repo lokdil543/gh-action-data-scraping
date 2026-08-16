@@ -278,5 +278,13 @@
     "username": "bigbear228",
     "password": "demo",
     "invokedAt": "2026-08-16T15:47:14.026Z"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Moore",
+    "email": "gavin.moore@example.com",
+    "username": "blueelephant411",
+    "password": "brother",
+    "invokedAt": "2026-08-16T15:59:01.454Z"
   }
 ]
