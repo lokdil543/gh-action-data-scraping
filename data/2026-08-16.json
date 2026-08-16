@@ -462,5 +462,13 @@
     "username": "angrybutterfly583",
     "password": "fernando",
     "invokedAt": "2026-08-16T22:14:52.254Z"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Korneliussen",
+    "email": "marta.korneliussen@example.com",
+    "username": "lazydog511",
+    "password": "static",
+    "invokedAt": "2026-08-16T22:36:16.282Z"
   }
 ]
