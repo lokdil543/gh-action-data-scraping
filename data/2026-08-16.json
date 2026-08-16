@@ -470,5 +470,13 @@
     "username": "lazydog511",
     "password": "static",
     "invokedAt": "2026-08-16T22:36:16.282Z"
+  },
+  {
+    "firstName": "Zachary",
+    "lastName": "Evans",
+    "email": "zachary.evans@example.com",
+    "username": "orangefish234",
+    "password": "bonnie",
+    "invokedAt": "2026-08-16T22:52:04.284Z"
   }
 ]
