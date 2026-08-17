@@ -358,5 +358,13 @@
     "username": "lazydog516",
     "password": "kiki",
     "invokedAt": "2026-08-17T23:08:46.955Z"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Miller",
+    "email": "alex.miller@example.com",
+    "username": "tinymeercat534",
+    "password": "building",
+    "invokedAt": "2026-08-17T23:33:04.012Z"
   }
 ]
