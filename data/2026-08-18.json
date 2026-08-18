@@ -326,5 +326,13 @@
     "username": "heavydog395",
     "password": "tricky",
     "invokedAt": "2026-08-18T20:56:10.947Z"
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Watson",
+    "email": "laura.watson@example.com",
+    "username": "angryladybug229",
+    "password": "meredith",
+    "invokedAt": "2026-08-18T21:13:30.228Z"
   }
 ]
