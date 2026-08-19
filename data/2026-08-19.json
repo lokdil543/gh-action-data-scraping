@@ -246,5 +246,13 @@
     "username": "orangeduck178",
     "password": "insanity",
     "invokedAt": "2026-08-19T17:44:23.831Z"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Hansen",
+    "email": "daniel.hansen@example.com",
+    "username": "goldenostrich897",
+    "password": "garion",
+    "invokedAt": "2026-08-19T17:58:28.508Z"
   }
 ]
