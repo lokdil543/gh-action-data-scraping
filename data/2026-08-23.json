@@ -126,5 +126,13 @@
     "username": "bluetiger701",
     "password": "smudge",
     "invokedAt": "2026-08-23T09:46:43.016Z"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Wang",
+    "email": "alexander.wang@example.com",
+    "username": "greenfrog743",
+    "password": "pokemon",
+    "invokedAt": "2026-08-23T10:01:04.209Z"
   }
 ]
