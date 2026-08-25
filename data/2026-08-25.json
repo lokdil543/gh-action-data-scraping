@@ -182,5 +182,13 @@
     "username": "happysnake198",
     "password": "bookie",
     "invokedAt": "2026-08-25T15:09:04.879Z"
+  },
+  {
+    "firstName": "Jesse",
+    "lastName": "Latt",
+    "email": "jesse.latt@example.com",
+    "username": "redladybug607",
+    "password": "nope",
+    "invokedAt": "2026-08-25T15:55:15.573Z"
   }
 ]
