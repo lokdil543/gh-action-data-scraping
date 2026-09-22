@@ -38,5 +38,13 @@
     "username": "heavybird441",
     "password": "second",
     "invokedAt": "2026-09-22T18:17:03.719Z"
+  },
+  {
+    "firstName": "Anton",
+    "lastName": "Sahin",
+    "email": "anton.sahin@example.com",
+    "username": "goldenswan256",
+    "password": "bassman",
+    "invokedAt": "2026-09-22T21:22:01.221Z"
   }
 ]
